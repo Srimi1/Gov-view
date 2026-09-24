@@ -20,6 +20,28 @@ export type EducationLevel = (typeof educationLevels)[number];
 export const categories = ["general", "ews", "obc", "sc", "st"] as const;
 export type Category = (typeof categories)[number];
 
+/** Levels are ordered from lowest to highest; different frameworks are never converted. */
+export const languageLevels = {
+  CEFR: ["A1", "A2", "B1", "B2", "C1", "C2"],
+  JLPT: ["N5", "N4", "N3", "N2", "N1"],
+} as const;
+export type LanguageFramework = keyof typeof languageLevels;
+export interface LanguageSkill {
+  language: string; // ISO 639 language tag, e.g. en, ja, ta
+  framework: LanguageFramework;
+  level: string;
+}
+export interface LanguageRequirement {
+  language: string;
+  requirement: string; // Preserve the authority's wording; no invented level equivalences.
+  stage: Stage;
+  framework?: LanguageFramework;
+  minimumLevel?: string;
+  certificateRequired?: boolean;
+  evidence: string;
+  sourceUrl: string;
+}
+
 export interface ApplicantProfile {
   dateOfBirth?: string; // YYYY-MM-DD
   nationality?: string; // ISO 3166-1 alpha-2
@@ -34,6 +56,7 @@ export interface ApplicantProfile {
   exServiceman?: boolean;
   experienceYears?: number;
   attemptsUsed?: number;
+  languageSkills?: LanguageSkill[];
 }
 
 export type EligibilityResult = "matches-published-criteria" | "does-not-match" | "needs-verification";
@@ -67,12 +90,13 @@ export interface EligibilityRules {
   residence?: { countries?: string[]; subdivisions?: string[]; stage?: Stage; evidence: string };
   attempts?: { max: number; byCategory?: Partial<Record<Category, number | null>>; evidence: string };
   experience?: { minYears: number; evidence: string };
+  languages?: LanguageRequirement[];
   /** Conditions no form can check: medical, physical, character, language tests. */
   manualChecks?: { stage: Stage; text: string }[];
 }
 
 export interface RuleCheck {
-  rule: "age" | "education" | "nationality" | "residence" | "attempts" | "experience" | "manual" | "missing-rules";
+  rule: "age" | "education" | "nationality" | "residence" | "attempts" | "experience" | "language" | "manual" | "missing-rules";
   result: EligibilityResult;
   reason: string;
   evidence?: string;

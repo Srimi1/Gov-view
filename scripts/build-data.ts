@@ -25,6 +25,8 @@ function leanRules(rules: EligibilityRules | null): EligibilityRules | null {
     residence: strip(rules.residence),
     attempts: strip(rules.attempts),
     experience: strip(rules.experience),
+    // Language evaluation requires the evidence and source, even in list summaries.
+    languages: rules.languages,
     manualChecks: rules.manualChecks?.map((check) => ({ ...check, text: "" })),
   };
 }

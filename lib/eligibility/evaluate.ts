@@ -1,6 +1,7 @@
 import { ageOn, isIsoDate } from "../time.ts";
 import {
   educationLevels,
+  languageLevels,
   type ApplicantProfile,
   type Assessment,
   type Category,
@@ -146,6 +147,23 @@ function combine(checks: RuleCheck[]): EligibilityResult {
   return "matches-published-criteria";
 }
 
+function checkLanguages(rules: EligibilityRules, profile: ApplicantProfile, stage: Stage): RuleCheck[] {
+  const stages: Stage[] = ["apply", "selection", "outcome"];
+  return (rules.languages ?? []).filter((rule) => stages.indexOf(rule.stage) <= stages.indexOf(stage)).map((rule) => {
+    // Notice language is not evidence of a required proficiency level.
+    if (!rule.evidence.trim() || !/^https:\/\//.test(rule.sourceUrl)) return unsure("language", "The language requirement needs official evidence.");
+    const levels = rule.framework ? languageLevels[rule.framework] as readonly string[] : undefined;
+    const required = levels?.indexOf(rule.minimumLevel ?? "") ?? -1;
+    if (!levels || required < 0) return unsure("language", rule.requirement, rule.evidence);
+    const skills = (profile.languageSkills ?? []).filter((skill) => skill.language.toLowerCase() === rule.language.toLowerCase() && skill.framework === rule.framework);
+    const reported = Math.max(-1, ...skills.map((skill) => levels.indexOf(skill.level)));
+    if (reported < 0) return unsure("language", `Add your ${rule.language} level in ${rule.framework}; the notice requires ${rule.minimumLevel}. Other scales cannot be substituted.`, rule.evidence);
+    if (reported < required) return fail("language", `Your reported ${rule.language} level is below ${rule.framework} ${rule.minimumLevel}.`, rule.evidence);
+    if (rule.certificateRequired) return unsure("language", `Your reported level meets ${rule.framework} ${rule.minimumLevel}; the authority must verify the required certificate and any validity conditions.`, rule.evidence);
+    return match("language", `Your reported ${rule.language} level meets ${rule.framework} ${rule.minimumLevel}.`, rule.evidence);
+  });
+}
+
 function assess(rules: EligibilityRules | null | undefined, profile: ApplicantProfile, stage: Stage): Assessment {
   if (!rules) {
     const checks = [unsure("missing-rules", "Criteria for this notice have not been entered yet. Read the official notice.")];
@@ -161,6 +179,7 @@ function assess(rules: EligibilityRules | null | undefined, profile: ApplicantPr
   push(checkEducation(rules, profile, stage));
   push(checkExperience(rules, profile));
   push(checkAttempts(rules, profile));
+  checks.push(...checkLanguages(rules, profile, stage));
   const residenceStage = rules.residence?.stage ?? "apply";
   if (residenceStage === "apply" || stage === residenceStage || (residenceStage === "selection" && stage === "outcome")) push(checkResidence(rules, profile));
 
@@ -188,5 +207,5 @@ export function evaluateEligibility(rules: EligibilityRules | null | undefined, 
 }
 
 export function profileIsEmpty(profile: ApplicantProfile): boolean {
-  return Object.values(profile).every((value) => value === undefined || value === "" || value === false);
+  return Object.values(profile).every((value) => value === undefined || value === "" || value === false || (Array.isArray(value) && !value.length));
 }

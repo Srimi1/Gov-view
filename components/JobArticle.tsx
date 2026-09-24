@@ -14,6 +14,7 @@ import {
   venueText,
 } from "@/lib/format";
 import type { OpportunityCycle } from "@/lib/opportunities";
+import { languageName } from "@/lib/eligibility/languages";
 
 type Props = {
   item: OpportunityCycle;
@@ -116,6 +117,27 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
             <div><dt>Nationality</dt><dd>{item.citizenshipRule}</dd></div>
             <div><dt>Residence</dt><dd>{item.residenceRule}</dd></div>
           </dl>
+        </section>
+
+        <section>
+          <h3>International applicants and languages</h3>
+          <dl className="facts stacked">
+            <div><dt>Nationality conditions</dt><dd>{item.citizenshipRule}</dd></div>
+            <div><dt>Residence conditions</dt><dd>{item.residenceRule}</dd></div>
+            <div><dt>Work authorisation / visa sponsorship</dt><dd>Not separately verified. Check the official notice and employer requirements before applying.</dd></div>
+          </dl>
+          {item.rules?.languages?.length ? (
+            <ul className="language-requirements">
+              {item.rules.languages.map((rule, index) => (
+                <li key={`${rule.language}-${index}`}>
+                  <strong>{languageName(rule.language)}{rule.framework && rule.minimumLevel ? ` · ${rule.framework} ${rule.minimumLevel}` : " · notice-specific requirement"}</strong>
+                  <p>{rule.requirement}</p>
+                  <p className="fine-print">Required for {rule.stage === "apply" ? "application" : rule.stage === "selection" ? "examination / selection" : "appointment / licence"}.</p>
+                  {/^https:\/\//.test(rule.sourceUrl) && <a href={rule.sourceUrl} target="_blank" rel="noopener noreferrer">Official language requirement ↗</a>}
+                </li>
+              ))}
+            </ul>
+          ) : <p className="fine-print">Language level not yet verified for this notice. The language of a webpage or examination guide does not establish a proficiency requirement.</p>}
         </section>
 
         <section>

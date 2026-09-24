@@ -1,5 +1,5 @@
 import { isIsoDate } from "../time.ts";
-import { categories, educationLevels, type ApplicantProfile } from "./types.ts";
+import { categories, educationLevels, languageLevels, type ApplicantProfile, type LanguageFramework } from "./types.ts";
 
 /** Profiles live only in this browser. They are never put in URLs or sent anywhere. */
 export const PROFILE_STORAGE_KEY = "govview.profile.v1";
@@ -28,6 +28,20 @@ export function sanitizeProfile(input: unknown): ApplicantProfile {
   for (const key of ["experienceYears", "attemptsUsed"] as const) {
     const value = raw[key];
     if (typeof value === "number" && Number.isInteger(value) && value >= 0 && value <= 60) profile[key] = value;
+  }
+  if (Array.isArray(raw.languageSkills)) {
+    const skills: NonNullable<ApplicantProfile["languageSkills"]> = [];
+    for (const value of raw.languageSkills.slice(0, 12)) {
+      if (!value || typeof value !== "object") continue;
+      const { language, framework, level } = value;
+      if (typeof language !== "string" || !/^[a-z]{2,3}$/i.test(language)) continue;
+      if (framework !== "CEFR" && framework !== "JLPT") continue;
+      if (typeof level !== "string" || !(languageLevels[framework as LanguageFramework] as readonly string[]).includes(level)) continue;
+      if (framework === "JLPT" && language.toLowerCase() !== "ja") continue;
+      if (skills.some((skill) => skill.language === language.toLowerCase() && skill.framework === framework)) continue;
+      skills.push({ language: language.toLowerCase(), framework, level });
+    }
+    if (skills.length) profile.languageSkills = skills;
   }
   return profile;
 }

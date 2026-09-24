@@ -289,3 +289,12 @@ button:disabled { cursor: not-allowed; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }
+
+.language-profile { margin: 20px 24px; padding: 16px; border: 1px solid var(--line, #d4d8d3); border-radius: 8px; }
+.language-profile legend { font-weight: 650; }
+.language-skill-row { display: grid; grid-template-columns: 1.5fr 1fr 1fr auto; gap: 8px; align-items: end; margin: 14px 0; }
+.language-skill-row label { display: grid; gap: 5px; font-size: 13px; }
+.language-skill-row select { width: 100%; padding: 8px; border: 1px solid #bac3bd; border-radius: 5px; background: white; color: #182a25; }
+.language-requirements { padding-left: 20px; }
+.language-requirements li { margin: 14px 0; }
+@media (max-width: 640px) { .language-skill-row { grid-template-columns: 1fr 1fr; } .language-profile { margin: 16px; } }

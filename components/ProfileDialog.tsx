@@ -3,7 +3,8 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Lock, X } from "lucide-react";
 import { sanitizeProfile } from "@/lib/eligibility/profile";
-import type { ApplicantProfile } from "@/lib/eligibility/types";
+import { languageLevels, type ApplicantProfile, type LanguageFramework, type LanguageSkill } from "@/lib/eligibility/types";
+import { languageOptions } from "@/lib/eligibility/languages";
 import { sortedCountries, subdivisionsByCountry } from "@/lib/places";
 
 type Props = {
@@ -35,6 +36,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [residence, setResidence] = useState(profile.residenceCountry ?? "");
   const [nationality, setNationality] = useState(profile.nationality ?? "");
+  const [languageSkills, setLanguageSkills] = useState<LanguageSkill[]>(profile.languageSkills ?? []);
   // Country names come from the browser's Intl data, which differs from the server's — build on the client only.
   const [countries, setCountries] = useState<{ code: string; name: string }[]>([]);
   useEffect(() => setCountries(sortedCountries()), []);
@@ -45,6 +47,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
     if (open && !dialog.open) {
       setResidence(profile.residenceCountry ?? "");
       setNationality(profile.nationality ?? "");
+      setLanguageSkills(profile.languageSkills ?? []);
       dialog.showModal();
     }
     if (!open && dialog.open) dialog.close();
@@ -74,6 +77,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
       exServiceman: data.get("exServiceman") === "on",
       experienceYears: numberOrUndefined(data.get("experienceYears")),
       attemptsUsed: numberOrUndefined(data.get("attemptsUsed")),
+      languageSkills,
     }));
     onClose();
   }
@@ -155,6 +159,34 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
             I'm an ex-serviceman / veteran
           </label>
         </div>
+
+        <fieldset className="language-profile">
+          <legend>Language qualifications (optional)</legend>
+          <p className="fine-print">Enter only levels you know. CEFR and JLPT are compared within the same scale. Certificates and notice-specific language tests still need verification.</p>
+          {languageSkills.map((skill, index) => (
+            <div className="language-skill-row" key={index}>
+              <label>Language
+                <select value={skill.language} onChange={(event) => setLanguageSkills((items) => items.map((item, i) => i === index ? { ...item, language: event.target.value, framework: "CEFR", level: "" } : item))}>
+                  {languageOptions.map(([code, name]) => <option key={code} value={code}>{name}</option>)}
+                </select>
+              </label>
+              <label>Scale
+                <select value={skill.framework} onChange={(event) => setLanguageSkills((items) => items.map((item, i) => i === index ? { ...item, framework: event.target.value as LanguageFramework, level: "" } : item))}>
+                  <option value="CEFR">CEFR</option>
+                  {skill.language === "ja" && <option value="JLPT">JLPT</option>}
+                </select>
+              </label>
+              <label>Level
+                <select value={skill.level} onChange={(event) => setLanguageSkills((items) => items.map((item, i) => i === index ? { ...item, level: event.target.value } : item))}>
+                  <option value="">Choose…</option>
+                  {languageLevels[skill.framework].map((level) => <option key={level}>{level}</option>)}
+                </select>
+              </label>
+              <button type="button" className="button-quiet" aria-label={`Remove language ${index + 1}`} onClick={() => setLanguageSkills((items) => items.filter((_, i) => i !== index))}>Remove</button>
+            </div>
+          ))}
+          <button type="button" className="button-quiet" disabled={languageSkills.length >= 12} onClick={() => setLanguageSkills((items) => [...items, { language: "en", framework: "CEFR", level: "" }])}>Add language</button>
+        </fieldset>
 
         <footer className="dialog-foot">
           <button type="button" className="button-quiet danger" onClick={() => { onClear(); onClose(); }}>Delete my details</button>
