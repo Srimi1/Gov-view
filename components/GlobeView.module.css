@@ -1,0 +1,179 @@
+.shell {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 360px;
+  overflow: hidden;
+  isolation: isolate;
+  background: radial-gradient(circle at 50% 48%, #eef3f3 0, #dfe8ea 60%, #d5e0e3 100%);
+  color: var(--ink);
+}
+
+.viewport {
+  position: absolute;
+  inset: 0;
+}
+
+.viewport :global(.cesium-viewer),
+.viewport :global(.cesium-widget),
+.viewport :global(.cesium-widget canvas) {
+  width: 100%;
+  height: 100%;
+}
+
+.notice,
+.fallback {
+  position: absolute;
+  z-index: 3;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: min(90%, 420px);
+  padding: 14px 18px;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: 14px;
+  text-align: center;
+}
+
+.fallback {
+  display: grid;
+  gap: 8px;
+  width: min(90%, 420px);
+  max-height: 70%;
+}
+
+.fallback strong { color: var(--ink); font-size: 16px; }
+
+.fallback ul,
+.markerMenu ul {
+  display: grid;
+  gap: 2px;
+  margin: 4px 0 0;
+  padding: 0;
+  overflow: auto;
+  list-style: none;
+  text-align: left;
+}
+
+.fallback button,
+.markerMenu button {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 36px;
+  padding: 6px 10px;
+  border: 0;
+  border-radius: 5px;
+  background: none;
+  color: var(--ink);
+  font: inherit;
+  text-align: left;
+}
+
+.fallback button span,
+.markerMenu button span:last-child {
+  flex: none;
+  color: var(--ink-3);
+  font-size: 12.5px;
+}
+
+.fallback button:hover,
+.markerMenu button:hover,
+.markerMenu button[aria-current="true"] {
+  background: var(--accent-soft);
+}
+
+.menuSectionTitle {
+  margin: 8px 10px 2px;
+  color: var(--ink-3);
+  font-size: 12.5px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.venueButton::before {
+  content: "";
+  flex: none;
+  width: 9px;
+  height: 9px;
+  border-radius: 9px 9px 9px 0;
+  background: #c2562b;
+  transform: rotate(-45deg);
+}
+
+.venueButton span:first-child { flex: 1; }
+
+.layerWarning {
+  position: absolute;
+  z-index: 3;
+  top: 60px;
+  left: 12px;
+  padding: 5px 9px;
+  border: 1px solid #ecd9a8;
+  border-radius: 5px;
+  background: var(--warn-soft);
+  color: #5c3d00;
+  font-size: 12.5px;
+}
+
+/* Keyboard and screen-reader route to every marker. */
+.markerMenu {
+  position: absolute;
+  z-index: 4;
+  right: 12px;
+  top: 58px;
+  width: min(250px, calc(100% - 24px));
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  background: var(--surface);
+  font-size: 13.5px;
+}
+
+.markerMenu summary {
+  padding: 8px 10px;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.markerMenu ul {
+  max-height: min(50vh, 300px);
+  padding: 0 4px 6px;
+}
+
+.credits {
+  position: absolute;
+  z-index: 2;
+  right: 10px;
+  bottom: 8px;
+  color: var(--ink-3);
+  font-size: 11px;
+}
+
+.credits :global(.cesium-credit-logoContainer),
+.credits :global(.cesium-credit-textContainer) {
+  display: inline-block;
+}
+
+@media (max-width: 959px) {
+  .shell { min-height: 310px; }
+}
+
+.hover {
+  position: absolute;
+  z-index: 6;
+  top: 0;
+  left: 0;
+  padding: 3px 8px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+}

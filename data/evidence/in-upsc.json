@@ -1,0 +1,170 @@
+[
+ {
+  "url": "https://www.upsc.gov.in/examinations/active-exams",
+  "fetchedAt": "2026-09-24T17:04:17.394Z",
+  "sha256": "4f2a99e42ee67ce36c012da01bd2c3b4616fb6c218dcb6c4306f494939991d97",
+  "bytes": 38744,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:18.440Z",
+  "sha256": "52ff07d8a14fcf8e9747016158afe2ec6f610b4579f0a3845565a08665ee4d19",
+  "bytes": 28521,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202027",
+  "fetchedAt": "2026-09-24T17:04:19.355Z",
+  "sha256": "76118a2c0d310e454d8c50c6f65f1d0d48b67b419618ae9d36b06d40c8015ecc",
+  "bytes": 29976,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Section%20Officers%20%28Grade-%27B%27%29%20LDCE%20-%202026%20and%20Combined%20Stenographers%20%28Grade%20-%20%27B%27%20-%20Grade%20-%20%27I%27%29%20LDCE%20-%20%202022%2C%202023%20and%202024",
+  "fetchedAt": "2026-09-24T17:04:20.563Z",
+  "sha256": "dbf64880aecfd201463a7c09d0610653a801d4eefb176355d7e1d70a9b4dc194",
+  "bytes": 31372,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202027",
+  "fetchedAt": "2026-09-24T17:04:21.371Z",
+  "sha256": "23cc91dbb68e218fcba49feb5575f28dbc61b2d614b295cb499e4cb3e63808a4",
+  "bytes": 29995,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202025%20%28OTA%29",
+  "fetchedAt": "2026-09-24T17:04:22.373Z",
+  "sha256": "e822a04a9f5faab09ad2c96ce0c0698e0b51beae89e8f913f59e29d59d7cd43d",
+  "bytes": 28756,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:23.361Z",
+  "sha256": "dbddd792b495501dabae62fae5d107b8d5e53a62ff2575ba6a7ee7f8b00a8425",
+  "bytes": 101663,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:24.361Z",
+  "sha256": "7bc1a1e8b66c50ee0c7d5ad53efb8da754dcddd732141755a3fc2f281d3c8287",
+  "bytes": 35077,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:25.357Z",
+  "sha256": "736b2eadf667507a20aa4983b82eebb571ca63df1013ada6263622e765de5583",
+  "bytes": 34741,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:26.363Z",
+  "sha256": "6fa3e1b834d9b9094faa674f507b8a80b7c3c630b1d4f2a75f1a1d157855aa45",
+  "bytes": 40834,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Engineering%20Services%20%28Main%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:27.369Z",
+  "sha256": "c3c05d668c60a0888fb8e31283c3aff7e8dd251b1c489deb57188bc35a4909e0",
+  "bytes": 40819,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Medical%20Services%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:28.404Z",
+  "sha256": "a40a4a038fb246f593aac02dae058ecbb39c2b07d54ff5c8d43771c249f7ba26",
+  "bytes": 37644,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:29.463Z",
+  "sha256": "853657c6f2a835b1c91177399a2d79787a1f6a75f66fa0a53b1700be340544bb",
+  "bytes": 37728,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:30.368Z",
+  "sha256": "6e4dc40644bfdf39413a535fdf806a1a4c2de9f26a64e5b35236aa5dfd88e11d",
+  "bytes": 45491,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202026%20through%20CS%28P%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:31.370Z",
+  "sha256": "d935bfb8f477c373bd76be3ecd925f5d419777cad72638ab08eef035ba83b00f",
+  "bytes": 32827,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:32.367Z",
+  "sha256": "1c4014bf65ef0d304bea43874d609b74e3edaaae35b29cbadc7cce5de7beae77",
+  "bytes": 36262,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:33.370Z",
+  "sha256": "49a3ba75b5eb689546b6f4c92aced2dafaf8487ca835a55aa5fb62dbfc2152f5",
+  "bytes": 37104,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28I%29%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:34.570Z",
+  "sha256": "efbf0ec7d87b693f740d1494c6effd08b7d0663fd9347c86aa1cebe40fde6e02",
+  "bytes": 37552,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/CISF%20AC%28EXE%29%20LDCE-2026",
+  "fetchedAt": "2026-09-24T17:04:35.553Z",
+  "sha256": "f8f70ae724e33210617e354a2ee769318ac9e574c88a8441116f8a446a54f9a3",
+  "bytes": 41768,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Engineering%20Services%20%28Preliminary%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:36.370Z",
+  "sha256": "1894cff5cb66263d4e1162cca8459180ae6c16ccebb6d344c4e14d10990cd7d2",
+  "bytes": 38324,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Section%20Officers%27%20%28Grade%20%27B%27%29%20LDCE-2025%20and%20Combined%20Stenographers%27%20%28Grade%20%27B%27-Grade-%27I%27%29%20LDCE-2019%2C%202020%20%26%202021",
+  "fetchedAt": "2026-09-24T17:04:37.374Z",
+  "sha256": "43630212d95d8f98a4fca64481ff9eed38770c1c072a99cacbd16e76ca32e740",
+  "bytes": 52519,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202026",
+  "fetchedAt": "2026-09-24T17:04:38.373Z",
+  "sha256": "a6a7bb2fb7bb69c5097e0093840a7280391cfb7c09b1f842cda8944ab162617f",
+  "bytes": 39830,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202025",
+  "fetchedAt": "2026-09-24T17:04:39.449Z",
+  "sha256": "7f41c9ade6217e94a78212343f453bffb407e8d09887e278aa05bdca61e4bcb8",
+  "bytes": 44704,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024",
+  "fetchedAt": "2026-09-24T17:04:40.460Z",
+  "sha256": "50031446c88423bb62c568ea8d84f7b015968b1ba69e3ff7f67a823613505acb",
+  "bytes": 37009,
+  "contentType": "text/html; charset=utf-8"
+ }
+]

@@ -1,0 +1,106 @@
+{
+  "$comment": "Official sources GOV View checks. Add a source by opening a pull request: give it an id, the connector that reads it, and its licence or terms. Only official sources (government bodies, public service commissions, regulators, gazettes) belong here.",
+  "sources": [
+    {
+      "id": "in-upsc",
+      "name": "UPSC — Active Examinations",
+      "country": "IN",
+      "authority": "Union Public Service Commission",
+      "homepage": "https://www.upsc.gov.in/examinations/active-exams",
+      "connector": "upsc",
+      "cadenceHours": 6,
+      "licence": "Government of India website content; facts and links only, notices linked not copied (GODL-India principles).",
+      "enabled": true
+    },
+    {
+      "id": "in-ssc",
+      "name": "SSC — Examination calendar",
+      "country": "IN",
+      "authority": "Staff Selection Commission",
+      "homepage": "https://ssc.gov.in/",
+      "connector": "ssc",
+      "cadenceHours": 6,
+      "licence": "Government of India website content; facts and links only.",
+      "notes": "Calendar dates are tentative until the exam notice is published.",
+      "enabled": true
+    },
+    {
+      "id": "gb-teaching-vacancies",
+      "name": "Teaching Vacancies (DfE)",
+      "country": "GB",
+      "authority": "Department for Education",
+      "homepage": "https://teaching-vacancies.service.gov.uk/",
+      "connector": "teaching-vacancies",
+      "cadenceHours": 6,
+      "licence": "Open Government Licence v3.0. Postcode locations: postcodes.io / ONS (OGL).",
+      "enabled": true
+    },
+    {
+      "id": "gb-civil-service-jobs",
+      "name": "Civil Service Jobs",
+      "country": "GB",
+      "authority": "Cabinet Office",
+      "homepage": "https://www.civilservicejobs.service.gov.uk/",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "No open feed. The site uses a bot check, which GOV View does not bypass.",
+      "notes": "needs an official feed or a data-sharing agreement.",
+      "enabled": false
+    },
+    {
+      "id": "fr-choisir-service-public",
+      "name": "Choisir le service public",
+      "country": "FR",
+      "authority": "Direction générale de l'administration et de la fonction publique",
+      "homepage": "https://choisirleservicepublic.gouv.fr/",
+      "connector": "choisir-service-public",
+      "cadenceHours": 24,
+      "licence": "Licence Ouverte 2.0 (data.gouv.fr). Commune locations: geo.api.gouv.fr (Licence Ouverte).",
+      "notes": "Published weekly by the DGAFP, so listings can be up to a week behind the site.",
+      "robotsException": {
+        "hosts": ["static.data.gouv.fr"],
+        "reason": "The weekly CSV is an official open-data file published under Licence Ouverte 2.0 for reuse, linked from the data.gouv.fr API. robots.txt on the file host targets crawlers indexing pages; we download one file per run at most, at 1 request/second, identifying ourselves.",
+        "approvedOn": "2026-09-24"
+      },
+      "enabled": true
+    },
+    {
+      "id": "us-usajobs",
+      "name": "USAJOBS",
+      "country": "US",
+      "authority": "U.S. Office of Personnel Management",
+      "homepage": "https://www.usajobs.gov/",
+      "connector": "usajobs",
+      "cadenceHours": 6,
+      "secrets": ["USAJOBS_API_KEY", "USAJOBS_EMAIL"],
+      "licence": "U.S. federal data (public domain). Free API key required.",
+      "maxRecords": 20000,
+      "enabled": true
+    },
+    {
+      "id": "jp-jinji",
+      "name": "人事院 — 受験案内一覧",
+      "country": "JP",
+      "authority": "人事院 (National Personnel Authority)",
+      "homepage": "https://www.jinji.go.jp/saiyo/siken/jyukennannnaiichiran.html",
+      "connector": "jinji",
+      "cadenceHours": 24,
+      "licence": "Government of Japan Standard Terms of Use (compatible with CC BY 4.0).",
+      "notes": "Dates are inside the exam-guide PDFs; entered by reviewers via data/overrides.",
+      "enabled": true
+    },
+    {
+      "id": "br-dou",
+      "name": "Diário Oficial da União — Seção 3 (editais de concurso)",
+      "country": "BR",
+      "authority": "Imprensa Nacional",
+      "homepage": "https://inlabs.in.gov.br/",
+      "connector": "none",
+      "cadenceHours": 24,
+      "secrets": ["INLABS_EMAIL", "INLABS_PASSWORD"],
+      "licence": "Open data (free INLABS account).",
+      "notes": "Planned: daily XML of the gazette, filtered for 'concurso público' notices. Not built yet.",
+      "enabled": false
+    }
+  ]
+}

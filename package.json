@@ -1,0 +1,30 @@
+{
+  "name": "gov-view",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm run data && next dev",
+    "build": "npm run data && next build",
+    "data": "node --experimental-strip-types scripts/build-data.ts",
+    "collect": "node --experimental-strip-types scripts/collect.ts",
+    "geo": "node scripts/build-geo.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test \"lib/**/*.test.ts\" \"connectors/**/*.test.ts\"",
+    "postinstall": "node scripts/copy-cesium-assets.mjs",
+    "prepare:cesium": "node scripts/copy-cesium-assets.mjs"
+  },
+  "dependencies": {
+    "cesium": "1.145.0",
+    "lucide-react": "1.48.0",
+    "next": "16.3.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "~5.9.3"
+  }
+}

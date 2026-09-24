@@ -1,0 +1,9 @@
+[
+ {
+  "url": "https://static.data.gouv.fr/resources/les-offres-diffusees-sur-choisir-le-service-public/20260921-060046/offres-datagouv-20260830.csv",
+  "fetchedAt": "2026-09-24T17:07:51.718Z",
+  "sha256": "77d1c3e17eac0a11d0bd32bd2512c8a635de5770111771c3f36091ce5be47dff",
+  "bytes": 113825454,
+  "contentType": "text/csv"
+ }
+]

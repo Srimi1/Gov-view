@@ -1,0 +1,82 @@
+[
+  {
+    "jurisdictionCode": "IN",
+    "fixture": false,
+    "status": "verified-listings",
+    "researchedAuthorities": [
+      "Union Public Service Commission",
+      "Staff Selection Commission"
+    ],
+    "connectedSourceCount": 2,
+    "unresolvedGaps": [],
+    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastValidatedAt": "2026-09-24T17:04:16.316Z"
+  },
+  {
+    "jurisdictionCode": "GB",
+    "fixture": false,
+    "status": "verified-listings",
+    "researchedAuthorities": [
+      "Department for Education",
+      "Cabinet Office"
+    ],
+    "connectedSourceCount": 1,
+    "unresolvedGaps": [
+      "Civil Service Jobs: needs an official feed or a data-sharing agreement."
+    ],
+    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastValidatedAt": "2026-09-24T17:04:16.316Z"
+  },
+  {
+    "jurisdictionCode": "FR",
+    "fixture": false,
+    "status": "verified-listings",
+    "researchedAuthorities": [
+      "Direction générale de l'administration et de la fonction publique"
+    ],
+    "connectedSourceCount": 1,
+    "unresolvedGaps": [],
+    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastValidatedAt": "2026-09-24T17:04:16.316Z"
+  },
+  {
+    "jurisdictionCode": "US",
+    "fixture": false,
+    "status": "no-verified-listings",
+    "researchedAuthorities": [
+      "U.S. Office of Personnel Management"
+    ],
+    "connectedSourceCount": 0,
+    "unresolvedGaps": [
+      "USAJOBS: waiting for a free API key"
+    ],
+    "lastSuccessfulFetchAt": null,
+    "lastValidatedAt": null
+  },
+  {
+    "jurisdictionCode": "JP",
+    "fixture": false,
+    "status": "verified-listings",
+    "researchedAuthorities": [
+      "人事院 (National Personnel Authority)"
+    ],
+    "connectedSourceCount": 1,
+    "unresolvedGaps": [],
+    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastValidatedAt": "2026-09-24T17:04:16.316Z"
+  },
+  {
+    "jurisdictionCode": "BR",
+    "fixture": false,
+    "status": "no-verified-listings",
+    "researchedAuthorities": [
+      "Imprensa Nacional"
+    ],
+    "connectedSourceCount": 0,
+    "unresolvedGaps": [
+      "Diário Oficial da União — Seção 3 (editais de concurso): Planned: daily XML of the gazette, filtered for 'concurso público' notices. Not built yet."
+    ],
+    "lastSuccessfulFetchAt": null,
+    "lastValidatedAt": null
+  }
+]
