@@ -1,34 +1,34 @@
 {
   "in-upsc": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:52:02.991Z",
     "lastError": null,
     "consecutiveFailures": 0,
     "recordCount": 2
   },
   "in-ssc": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:52:02.991Z",
     "lastError": null,
     "consecutiveFailures": 0,
     "recordCount": 2
   },
   "gb-teaching-vacancies": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:52:02.991Z",
     "lastError": null,
     "consecutiveFailures": 0,
-    "recordCount": 6175
+    "recordCount": 7082
   },
   "fr-choisir-service-public": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:52:02.991Z",
     "lastError": null,
     "consecutiveFailures": 0,
     "recordCount": 12581
   },
   "us-usajobs": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
     "lastSuccessfulFetchAt": null,
     "lastError": "Missing secret(s): USAJOBS_API_KEY, USAJOBS_EMAIL",
     "consecutiveFailures": 0,
@@ -39,8 +39,8 @@
     ]
   },
   "jp-jinji": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-26T19:52:02.991Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:52:02.991Z",
     "lastError": null,
     "consecutiveFailures": 0,
     "recordCount": 21

@@ -1,7 +1,7 @@
 [
  {
   "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
-  "fetchedAt": "2026-09-24T17:04:41.582Z",
+  "fetchedAt": "2026-09-26T19:52:29.693Z",
   "sha256": "ec77db4594d449c2fbaf40934f19bdab33212817f1d2669a076e90968826e655",
   "bytes": 16875,
   "contentType": "application/json; charset=utf-8"
