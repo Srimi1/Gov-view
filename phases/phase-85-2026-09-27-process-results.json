@@ -1,0 +1,95 @@
+{
+  "phase": 85,
+  "preparation": {
+    "chunkId": "2a796a",
+    "exitCode": 0,
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "chunkId": "14c92e",
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-85-2026-09-27-focused-tests.txt",
+    "sessionId": 68515,
+    "afterAllFiveAdditions": true
+  },
+  "publicDataBuild": {
+    "sessionId": 1504,
+    "chunkId": "6bdd23",
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-85-2026-09-27-public-data-build.txt",
+    "afterAllFiveAdditions": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "researchFailures": [
+    "SJVN index reader timeout/browser certificate error, no bypass; indexed date and generic advisory conflict with original.",
+    "Marshall Islands All Jobs follow-up timeout; work rights/title/tenure unresolved.",
+    "Nauru archive historical; expatriate source missing.",
+    "Niue reader PDFs failed, same browser tabs rendered after timeout; partial original review and reference conflict."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "supplementalRegistration": {
+    "sourcesAdded": 1,
+    "sourceId": "nr-finance-expatriate-recruitment",
+    "exitCode": 0,
+    "sessionId": 93437,
+    "chunkId": "7feb9a"
+  },
+  "protectedPrecheck": {
+    "sessionId": 66912,
+    "exitCode": 0,
+    "chunkId": "8ebea8"
+  },
+  "documentationRetry": {
+    "sessionId": 77220,
+    "exitCode": 0,
+    "chunkId": "ff0637"
+  },
+  "browser": {
+    "status": "partial",
+    "allSavedChecksPassed": false,
+    "screenshot": "phases/phase-85-2026-09-27-browser-blocked.png",
+    "devServerRestart": {
+      "reason": "Actual module-resolution and iCloud read/write failures",
+      "oldPid": 42027,
+      "oldListenerPid": 42031,
+      "newSessionId": 45915,
+      "newPid": 58555,
+      "readyLog": "Ready in 67s",
+      "productionBuild": false
+    },
+    "currentFailure": "ERR_BLOCKED_BY_CLIENT",
+    "pendingCountries": [
+      "NR",
+      "NU"
+    ],
+    "shareClearChecks": "not completed"
+  },
+  "priorFocusedPass": {
+    "chunkId": "e10fdb",
+    "exitCode": 0
+  },
+  "priorPublicDataPass": {
+    "sessionId": 6488,
+    "chunkId": "a73d82",
+    "exitCode": 0
+  },
+  "finalVerifier": {
+    "sessionId": 65098,
+    "chunkId": "1f57ee",
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "incomplete",
+    "checkedAt": "2026-09-27T04:35:53.166194+00:00"
+  }
+}

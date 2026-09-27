@@ -1,0 +1,36 @@
+# Phase 80 — Albania, Andorra, Montenegro and North Macedonia
+
+27 September 2026. Five official recruitment directories across four previously missing jurisdictions. Source research describes job type, international-applicant routes and language evidence. Original notices, translations, connector acceptance and publication still require review.
+
+## Official evidence
+
+| Jurisdiction / source | Scope and applicant evidence |
+| --- | --- |
+| Albania — [DAP recruitment](https://rekrutimi.administrata.al/shpalljet), linked by [DAP](https://dap.gov.al/) | [Notice 7884](https://rekrutimi.administrata.al/shpalljet/shfaq/7588) offers one Rare Languages Specialist position at the General Directorate of Archives. Parallel transfer is for confirmed civil servants; external civil-service entry follows if vacancies remain. Entry requires Albanian citizenship and written/spoken Albanian. Both routes require a professional Master in Social Sciences, one year of professional experience and certified Ottoman Turkish knowledge. No CEFR level stated. Transfer closes 9 October and entry 14 October, date-only with timezone unknown. External recruitment and foreign-degree recognition do not grant foreign-national eligibility. Notice identifier 7884 differs from detail URL identifier 7588. |
+| Albania — [Puna public-sector portal](https://www.puna.gov.al/SektoriPublik) | [Government announcement of 7 April 2026](https://www.kryeministria.al/en/newsroom/nje-platforme-e-vetme-per-cdo-mundesi-lehtesohet-punesimi-i-te-rinjve-ne-sektorin-publik/) identifies coverage of civil service, central/local public institutions and companies with more than 50% state ownership. Current public-sector search includes teaching, training and engineering roles. Employer originals remain unreviewed; no general appointment, citizenship or language rule inferred. Private-sector sections are outside this registered source. Overlapping DAP advertisements must be deduplicated by actual application intake. |
+| Andorra — [Government recruitment](https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions) | General and special corps have separate routes. [Original 61-2026 F edict](https://www.bopa.ad/Documents/Detall?doc=GP_2026_09_21_10_56_25) offers two interim cultural-guide places, requires Catalan B2 diploma or higher, and includes foreign-national priority tiers both with and without existing work authorization. Award remains subject to quota rules; application routes do not guarantee appointment or work authorization. Priority is not a foreign-national ban. Deadline 7 October at service closing time, exact hour/timezone unverified. Printed 1 October–31 December contract starts before the application deadline: unresolved material date conflict, preserved for review. |
+| Montenegro — [Human Resources Administration recruitment](https://uzk.gov.me/oglasi/), linked by [government authority](https://www.gov.me/uzk) | Internal advertisements, public advertisements and public competitions are distinct. Current table includes an explicitly withdrawn row, so table presence cannot mean open. [Original 02-100/26-2948/3](https://uzk.gov.me/oglasi/webfolder/Javni%20oglas_broj_02-100_26-2948_3_7b6f63133f0fadd4b66f95f6bc446670.pdf) offers one indefinite Market Inspector I post in Herceg Novi. Required specified level VI education, state-service professional exam and five years experience. Table closes 8 October, date-only; timezone unknown. Foreign-degree recognition and conditional language testing establish neither foreign-national permission nor a formal language threshold. Work location is not an examination venue. |
+| North Macedonia — [Agency for Administration](https://www.aa.mk/) | [Status page](https://www.aa.mk/status-i-nadleznosti.nspx) identifies administrative-servant selection, examinations and appeals. [Recruitment FAQ](https://www.aa.mk/prasanjavrabotuvanje.nspx) requires North Macedonian citizenship and active Macedonian use for administrative servants; no CEFR level stated. Current exact notices and 2026 legislation require reconciliation because older law is cited. FAQ scope is not every public-sector job. Dynamic [application portal](https://prijava.aa.mk/) exposes unresolved reader templates; no empty-inventory inference. Macedonian/Albanian controls are not bilingual applicant requirements. |
+
+Albania and Andorra originals were read in the ordinary browser. Montenegro's four-page PDF rendered after a navigation timeout and was visually read; damaged diacritics in portions require original/translation review. Reader PDF access failed. No external original bytes, DOM dumps or screenshots were saved, and no hash acceptance, collector fetch or validation timestamp is claimed. Montenegro's [FAQ](https://www.gov.me/clanak/najcesca-pitanja), published 20 September 2025, describes one-year probation on first indefinite appointment; it does not make every public job permanent. DAP application-guide reader timed out after an initial limited response.
+
+## Saved changes and verification
+
+Five additions use `connector: none`, `enabled: false`, `reviewRequired: true`. Registry grows 213 → 218; source presence grows 97 → 101 of 250 inventory jurisdictions. Remaining 149 jurisdictions have no registered source. India retains 99 sources across all 36 state/UT discovery scopes, Japan 10 and US-country five. These totals measure source presence, not complete authority or pathway coverage.
+
+Albania's two sources share one coverage row. Four new rows report no verified listings, zero connected sources, explicit gaps and null fetch/validation times. Existing 213 sources and 97 coverage rows are preserved exactly. Three eligibility stages remain “needs verification”; source summaries do not determine individual eligibility.
+
+Verification results are recorded in the final receipt and process results. Checks cover append-only source/coverage changes, 83 preserved health/review files, unchanged runtime, queue/evidence accounting, six focused source-filter/metrics tests, public-data generation and local country/search/share behavior. Prior Phase 78 passed 364 full-suite tests and typecheck. Directory additions do not change application runtime; full suite and production build are not rerun this phase.
+
+Queue remains 328 drafts / 82 packets, zero human approvals or public listings. Evidence remains 2,355 files / 871,622,022 logical bytes, above unchanged 800 MiB cap. Collection remains paused pending unanswered storage choice. Founder review, permitted collection, accepted original evidence/translations, authority reconciliation and independent worldwide audit remain outstanding. Prior export 18,383 files exceeds 18,000-file gate. No deployment.
+
+## Artifacts
+
+- [Research matrix](../data/discovery/albania-andorra-montenegro-north-macedonia-recruitment-2026-09-27.json)
+- [Registry additions](phase-80-2026-09-27-source-config.json)
+- [Browser checks](phase-80-2026-09-27-browser-checks.json)
+- [Verification](phase-80-2026-09-27-verification.json)
+- [Process results](phase-80-2026-09-27-process-results.json)
+- [Manifest](phase-80-2026-09-27-artifact-manifest.json)
+
+![Local Andorra source research](phase-80-2026-09-27-worldwide-source-expansion.png)

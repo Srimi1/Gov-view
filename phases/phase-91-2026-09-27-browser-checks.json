@@ -1,0 +1,24 @@
+{
+  "phase": 91,
+  "status": "passed",
+  "countries": {
+    "IN": {"currentPreview": true, "registeredSources": 113, "powergridFilterMatches": 1, "nhpcFullNameFilterMatches": 1, "ongcFullNameFilterMatches": 1, "reviewWarning": true, "newSourceLinks": ["https://www.powergrid.in/en/job-opportunities", "https://www.nhpcindia.com/welcome/job", "https://ongcindia.com/web/eng/career/recruitment-notice"]},
+    "BJ": {"currentPreview": true, "registeredSources": 1, "publicListings": 0, "sourcesFetched": 0, "lastSuccessfulFetch": "Never", "lastValidation": "Never", "reviewWarning": true, "newSourceLinks": ["https://www.gouv.bj/opportunites/offres-emploi/"]},
+    "BF": {"currentPreview": true, "registeredSources": 2, "researchedAuthorities": 1, "publicListings": 0, "sourcesFetched": 0, "lastSuccessfulFetch": "Never", "lastValidation": "Never", "reviewWarning": true, "newSourceLinks": ["https://www.econcours.gov.bf/", "https://www.econcours-pro.gov.bf/"]}
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores113": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=POWERGRID%20job%20opportunities#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-91-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timed out; existing server completed request and same tab restored POWERGRID one of 113 after hydration.",
+    "NHPC and ONGC full-name filters each showed one of 113, correct official source link, review warning and unresolved gaps.",
+    "Clear restored 113 of 113 and removed sourceQuery.",
+    "Benin showed one source; Burkina Faso showed two sources and one researched authority; both zero public/fetched and Never fetch/validation.",
+    "Fresh POWERGRID public share restored one of 113. Local screenshot saved and visually checked; tab marked deliverable.",
+    "No browser protections changed."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

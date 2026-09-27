@@ -1,0 +1,83 @@
+{
+  "phase": 91,
+  "preparation": {
+    "exitCode": 0,
+    "sessionId": 77806,
+    "initialChunkId": "1e0a3e",
+    "chunkId": "d2d06a",
+    "sourcesAdded": 6,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 83416,
+    "initialChunkId": "282d0b",
+    "chunkId": "16aafe",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-91-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 82638,
+    "initialChunkId": "9cbd67",
+    "chunkId": "76647a",
+    "publicListings": 0,
+    "log": "phases/phase-91-2026-09-27-public-data-build.txt"
+  },
+  "logRead": {
+    "focusedTestsChunkId": "8e674e",
+    "publicDataChunkId": "30e6bf",
+    "exitCode": 0,
+    "actualPass6Fail0Verified": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "POWERGRID first original link truncated; complete duplicate readable; exact company filing window pending.",
+    "NHPC current results do not establish new application windows; full inventory unreviewed.",
+    "ONGC reader inaccessible; browser current notice/detail rendered, doctor original PDF blank after timeout.",
+    "Benin justice original zero reader text and not visually read; HTML deadline precision conflicts remain unaccepted.",
+    "Burkina Faso direct portal partially loaded; professional original communiques unreviewed."
+  ],
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "BJ",
+      "BF"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 113,
+    "screenshot": "phases/phase-91-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "dda32e"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps read during final receipts; no restart"
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 97187,
+    "initialChunkId": "3d997a",
+    "chunkId": "a1f6d9",
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T06:16:48.033828+00:00"
+  },
+  "reportOpen": {
+    "status": "queued"
+  }
+}

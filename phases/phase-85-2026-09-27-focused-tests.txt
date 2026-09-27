@@ -1,0 +1,14 @@
+✔ state scope uses recorded jurisdiction, never a mention in eligibility research (1.596542ms)
+✔ sources without recorded state scope are opt-in for a selected state (0.099917ms)
+✔ shared source filters restore public fields and reject unknown jurisdiction codes (0.342584ms)
+✔ clear filters restores every source and emits no private or saved state (0.065917ms)
+✔ metrics count only current approved revisions and leave unaudited measures unavailable (13.135542ms)
+✔ missing static export is reported as unavailable, not zero files (2.491041ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4309.206625

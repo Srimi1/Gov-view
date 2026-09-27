@@ -1,0 +1,39 @@
+# Phase 66 — Asian public sources and international-applicant research
+
+Saved 27 September 2026, Asia/Kolkata. Fetch receipts preserve actual UTC timestamps. This phase adds seven official-source entries across six previously unregistered jurisdictions: China, Taiwan, Mongolia, Viet Nam, Cambodia and Lao PDR. Research appears in the existing searchable directory and remains awaiting review.
+
+## Source findings
+
+| Source | Pathway and findings | Remaining evidence gap |
+| --- | --- | --- |
+| [China State Civil Service Bureau](https://www.scs.gov.cn/) | Retained [official government copy](https://www.yuli.gov.cn/xjylx/c110928/202510/2b1de345f90143a99aa19e75adda2cc0.shtml) of central 2026 civil-service notice requires PRC nationality. Named non-common-language posts have an additional foreign-language test. | Current bureau access failed. Role criteria and supplementary rounds need review. Registration occurred in October 2025; no 2027 intake inferred. Rank does not prove permanent tenure or a universal language level. |
+| [Taiwan Ministry of Examination](https://wwwc.moex.gov.tw/main/home/wfrmHome.aspx) | Civil-service and professional exams are separate outcomes. Official-reader civil-service guide indicates ROC nationality; exact original retention failed. [115/2026 reforms](https://wwwc.moex.gov.tw/main/news/wfrmNews.aspx?kind=3&menu_id=42&news_id=7665) revise English-certificate acceptance for named categories. | Nationality remains provisional pending original cycle evidence. Category-specific scores and certificate validity need current annexes. Civil-service restrictions cannot be generalized to professional licences. Local/island and high/general dates remain separate; source ROC years are preserved. |
+| [Mongolia Civil Service Council](https://web.csc.gov.mn/home) | Council news and [selection register](https://se.csc.gov.mn/) originals retained. General qualification and post-specific selection are separate. | Main csc.gov.mn response is a client shell, not vacancy extraction. No verified nationality or formal applicant language threshold. English testing for existing civil servants is not every applicant's requirement. |
+| [Lai Chau Department of Interior, Viet Nam](https://sonv.laichau.gov.vn/) | Provincial round-3 plan 4168/KH-SNV dated 9 September 2026 identified through official-reader metadata. Index lists 10 September amendments to plan and announcement. | Original access failed. Plan, announcement, amendments and role annexes must be reconciled. May-round criteria cannot be assigned to September. Province source is not national coverage. |
+| [Cambodia Ministry of Civil Service](https://www.mcs.gov.kh/) | Indexed historical teacher recruitment confirms official authority discovery. | 2024 notice is not a current intake. Both original requests failed; nationality, language, tenure and current windows remain unknown. |
+| [Cambodia National Election Committee](https://nec.gov.kh/english/) | Retained [21 July 2026 meeting release](https://nec.gov.kh/english/content/press-release-outcomes-national-election-committees-meeting-21st-july-2026) describes short-term contract recruitment plans for secretariat staff and voter-registration teams. | Approval of recruitment documents is not an application window. Citizenship, formal language levels and contract dates remain unverified. Staff, office and commune totals never become cycle counts. |
+| [National University of Laos](https://www.nuol.edu.la/index.php/en/admission) | Public admission source. English foreign-student headings contain placeholder text. Lao programme report separates admission tests from later HSK/HSKK scholarship conditions. | No original retained; translations need review. HSK score passage does not specify examination level, so none is guessed. Scholarship conditions are not initial entry requirements. No current intake or foreign-citizen permission established. |
+
+All seven additions use `connector: none`, `enabled: false`, `reviewRequired: true`. They create no application cycles, eligibility matches, scheduled checks, alerts or approval decisions. Lao admissions do not establish a government appointment or professional licence. Unknown venue locations stay unknown.
+
+## Evidence and review
+
+[Request plan](../data/discovery/asia-public-sources-2026-09-27-requests.json) and [fetch outcomes](../data/discovery/asia-public-sources-2026-09-27-fetch-outcomes.json) record **22 requests: seven retained HTML originals and 15 failures**. China supplies one government-copy original, Mongolia four responses and Cambodia NEC two. One Mongolian response is a 1,208-byte client shell with no extracted notices. No PDF original was retained.
+
+Failures occurred at robots fetch, including unreachable/timeout responses and non-text robots content at the Laos entrance portal. Existing HTTPS, robots, throttle and certificate validation policy was retained. No access bypass occurred. Failures do not imply closed applications, no vacancies or cancelled recruitment.
+
+Original bytes and failure records are saved in `data/evidence/research/asia66-*`, with SHA-256 hashes, byte sizes and actual receipt timestamps. [Research record](../data/discovery/asia-public-sources-2026-09-27-research.json) and [source matrix](../data/discovery/asia-public-source-matrix-2026-09-27.json) distinguish official-reader observations from retained evidence and mark translation acceptance pending. Research fetches do not update collector health or validation.
+
+New coverage rows say **no verified listings**, with zero connected sources and null fetch/validation timestamps. They do not say that sources were checked and no current opportunities exist. The six pages expose researched authorities and unresolved gaps; they do not claim complete coverage of any jurisdiction or all four pathways.
+
+## Verification and measured progress
+
+[Metrics](phase-66-2026-09-27-metrics.json): **174 registered sources**, including **98 India**, seven Japan and five US. Source presence reaches **62/250 jurisdictions**, leaving **188 without registered sources**. Source presence is not audited authority coverage. Stored collected records remain 18,760; review queue remains 328 drafts across 82 pending packets. There are zero measured human decisions, zero approved records and zero public listings.
+
+[Verification receipt](phase-66-2026-09-27-verification.json) compares the saved [baseline](phase-66-2026-09-27-baseline.json): all 167 previous source entries, all 56 previous coverage rows, collector health and all 82 review packets remain unchanged. New IDs are unique and their jurisdictions are in the inventory. Retained response sizes/hashes match. All new sources remain disabled with mandatory review; no collection job ran.
+
+Public-data build passed with zero records in zero countries. Both metrics tests passed; [build log](phase-66-2026-09-27-public-data-build.txt) and [test log](phase-66-2026-09-27-test-results.txt) are saved. No app code changed; this phase does not claim a fresh full-suite, typecheck or production-build run.
+
+Browser verification rendered both Cambodia sources. Search for **short-term** returned one NEC source with appointment types, nationality/language uncertainty and awaiting-review label. A duplicate coverage-gap formatting issue was corrected in the new data; the final browser shows exactly two known gaps. [Browser receipt](phase-66-2026-09-27-browser-checks.json) and [screenshot](phase-66-2026-09-27-contract-source-search.png) are saved. Original Chrome tab lost connection during reload; a fresh tab verified the corrected page.
+
+Worldwide expansion, India pathway completeness, notice-level eligibility, connector acceptance, founder review measurements and independent coverage audit remain incomplete. Previous export still exceeds its 18,000-file project gate; no new production export or deployment was performed. Goal remains active.

@@ -1,0 +1,96 @@
+{
+  "savedAt": "2026-09-27T01:32:37.307571+00:00",
+  "status": "verified official-source discovery checkpoint",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 3975,
+      "sha256": "e210617ef2f1d2cae7a25f7946584f6327b8a01d0eb14463c246217de55ffddf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70906,
+      "sha256": "49085656723208c638a2e926ca6aa99c1fcda091845b8f5754dd9365a06a56b4"
+    },
+    {
+      "path": "data/discovery/japan-us-territories-recruitment-2026-09-27.json",
+      "bytes": 17518,
+      "sha256": "b07ade6cbed19ccd7f5edba0f9dc1293394a32fb045324c42c70bc8cf31bb17b"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 183641,
+      "sha256": "4b89108999e521e222a6f42f892062a388a8a495334d25bd48f91cd41122ec23"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-baseline.json",
+      "bytes": 481843,
+      "sha256": "400112e7944b1b901241d03812e01e473d632645afe7e4e83209d90d06afd45c"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-browser-checks.json",
+      "bytes": 978,
+      "sha256": "14d5aa547f582e079f194f4bbc97a23025de43380df1832ec5be989bdf18fbfa"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-browser-state.txt",
+      "bytes": 27146,
+      "sha256": "8e65218eefe8c672e2aa53106da52d948459cb0e8fcf508259e1d0c34299b5f6"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-focused-tests.txt",
+      "bytes": 672,
+      "sha256": "04f8a183542b401389bd83f8fa8c422a59e03acb1beeb776059d3e77574bac7a"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-japan-territories-research.md",
+      "bytes": 7003,
+      "sha256": "fb097f117f8d52b9b2e089e2e140ff1ef1e3ee90117d689c9c2b885e27cbf643"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-japan-territories-research.png",
+      "bytes": 260988,
+      "sha256": "1ee7484ef472f4479dff9d8a595aedf1ead012b3cab9b3006bb4c926c6eb8284"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-prepare.py",
+      "bytes": 13584,
+      "sha256": "427617a30bc5d0f2d993dd80d34f9e404043ce595f7ee0712c7ac8dd958ceb56"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-process-results.json",
+      "bytes": 543,
+      "sha256": "edb5a9a9681efe4e9a95aaa6f4d19b12fe23fdd6dd9454d806dfc9b5b5e39133"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-source-config.json",
+      "bytes": 7254,
+      "sha256": "3bb919e457851b0673cb0dfd799b4841e794b84302f1890352adcdb4481642e9"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-verification.json",
+      "bytes": 1371,
+      "sha256": "17467a8c252ff027d81e14cdb18d095b129c551245e9779f92ecc1b968c5ae4e"
+    },
+    {
+      "path": "phases/phase-74-2026-09-27-verify.py",
+      "bytes": 6465,
+      "sha256": "7ff2d0a27682b42d6046c043befcf95a78d26d82ff8b3680f1e9fa0a20e50bc2"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "fee7de6e5fb7370009ac8e3b6e8919ca2821c7f4baeccf43cd6757630ef3cc85"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 289245,
+      "sha256": "24ed05838e11ce4f9c355ab700c2d2338c778867894f615c3d594f9f4da64687"
+    }
+  ]
+}

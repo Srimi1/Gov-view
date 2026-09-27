@@ -1,0 +1,177 @@
+
+> gov-view@0.1.0 typecheck
+> tsc --noEmit --incremental false
+
+phases/phase-68-2026-09-27-connector-index-before.ts(1,32): error TS2307: Cannot find module './types.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(5,42): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(5,68): error TS2307: Cannot find module './bel-september-engineers-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(6,35): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(6,61): error TS2307: Cannot find module './ie-ao-specialist-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(7,37): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(7,63): error TS2307: Cannot find module './drdo-jrf-september-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(8,35): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(8,61): error TS2307: Cannot find module './apeda-associates-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(9,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(9,64): error TS2307: Cannot find module './nlsiu-other-faculty-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(10,23): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(10,49): error TS2307: Cannot find module './ke-pscims.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(11,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(11,64): error TS2307: Cannot find module './nlsiu-professor-law-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(12,18): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(12,44): error TS2307: Cannot find module './upsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(13,17): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(13,43): error TS2307: Cannot find module './ssc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(14,32): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(14,58): error TS2307: Cannot find module './teaching-vacancies.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(15,36): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(15,62): error TS2307: Cannot find module './choisir-service-public.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(16,21): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(16,47): error TS2307: Cannot find module './usajobs.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(17,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(17,45): error TS2307: Cannot find module './jinji.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(18,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(18,50): error TS2307: Cannot find module './kerala-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(19,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(19,45): error TS2307: Cannot find module './tnpsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(20,18): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(20,44): error TS2307: Cannot find module './rpsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(21,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(21,45): error TS2307: Cannot find module './uppsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(22,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(22,52): error TS2307: Cannot find module './ny-statejobs.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(23,18): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(23,44): error TS2307: Cannot find module './gssc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(24,18): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(24,44): error TS2307: Cannot find module './btsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(25,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(25,45): error TS2307: Cannot find module './dsssb.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(26,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(26,45): error TS2307: Cannot find module './cgpsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(27,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(27,50): error TS2307: Cannot find module './andhra-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(28,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(28,51): error TS2307: Cannot find module './manipur-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(29,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(29,53): error TS2307: Cannot find module './meghalaya-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(30,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(30,51): error TS2307: Cannot find module './mizoram-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(31,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(31,52): error TS2307: Cannot find module './nagaland-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(32,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(32,50): error TS2307: Cannot find module './odisha-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(33,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(33,51): error TS2307: Cannot find module './tripura-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(34,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(34,51): error TS2307: Cannot find module './ibps-rrb-xv.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(35,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(35,50): error TS2307: Cannot find module './sikkim-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(36,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(36,51): error TS2307: Cannot find module './gujarat-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(37,21): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(37,47): error TS2307: Cannot find module './goa-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(38,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(38,53): error TS2307: Cannot find module './ladakh-police.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(39,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(39,53): error TS2307: Cannot find module './arunachal-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(40,30): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(40,56): error TS2307: Cannot find module './chandigarh-utcps.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(41,29): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(41,55): error TS2307: Cannot find module './uttarakhand-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(42,30): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(42,56): error TS2307: Cannot find module './ddd-recruitments.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(43,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(43,50): error TS2307: Cannot find module './ladakh-hme.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(44,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(44,53): error TS2307: Cannot find module './karnataka-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(45,33): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(45,59): error TS2307: Cannot find module './andaman-agriculture.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(46,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(46,53): error TS2307: Cannot find module './jharkhand-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(47,23): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(47,49): error TS2307: Cannot find module './bihar-psc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(48,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(48,52): error TS2307: Cannot find module './sribhumi-ft2.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(49,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(49,51): error TS2307: Cannot find module './haryana-ssc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(50,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(50,52): error TS2307: Cannot find module './punjab-psegs.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(51,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(51,51): error TS2307: Cannot find module './punjab-sssb.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(52,19): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(52,45): error TS2307: Cannot find module './wbpsc.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(53,36): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(53,62): error TS2307: Cannot find module './actrec-senior-resident.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(54,28): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(54,54): error TS2307: Cannot find module './navbrasil-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(55,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(55,52): error TS2307: Cannot find module './goalpara-ft8.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(56,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(56,53): error TS2307: Cannot find module './jkssb-notices.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(57,28): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(57,54): error TS2307: Cannot find module './kvs-deputation.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(58,31): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(58,57): error TS2307: Cannot find module './mecl-nonexecutive.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(59,39): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(59,65): error TS2307: Cannot find module './tg-sports-physiotherapist.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(60,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(60,53): error TS2307: Cannot find module './indiapost-gds.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(61,24): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(61,50): error TS2307: Cannot find module './nbems-fmge.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(62,36): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(62,62): error TS2307: Cannot find module './nfc-iti-apprenticeship.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(63,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(63,64): error TS2307: Cannot find module './nbems-executive-director.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(64,26): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(64,52): error TS2307: Cannot find module './jet-usa-2027.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(65,34): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(65,60): error TS2307: Cannot find module './drdo-pxe-apprentices.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(66,34): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(66,60): error TS2307: Cannot find module './ca-fswep-great-lakes.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(67,25): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(67,51): error TS2307: Cannot find module './nz-gov-jobs.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(68,29): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(68,55): error TS2307: Cannot find module './mpesb-pcrt-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(69,37): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(69,63): error TS2307: Cannot find module './pune-divcomm-legal-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(70,36): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(70,62): error TS2307: Cannot find module './jharkhand-jjb-cwc-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(71,32): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(71,58): error TS2307: Cannot find module './iiserkol-nt04-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(72,29): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(72,55): error TS2307: Cannot find module './nituk-nt08-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(73,30): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(73,56): error TS2307: Cannot find module './iprc-rmt-2026-01.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(74,34): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(74,60): error TS2307: Cannot find module './calcareers-jc-532295.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(75,27): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(75,53): error TS2307: Cannot find module './iitb-l10-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(76,35): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(76,61): error TS2307: Cannot find module './dnsricm-lecturer-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(77,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(77,64): error TS2307: Cannot find module './dmer-nashik-faculty-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(78,35): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(78,61): error TS2307: Cannot find module './icfre-fri-walkin-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(79,36): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(79,62): error TS2307: Cannot find module './ignou-nonteaching-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(80,31): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(80,57): error TS2307: Cannot find module './assam-psc-12-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(81,30): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(81,56): error TS2307: Cannot find module './isro-sac-02-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(82,33): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(82,59): error TS2307: Cannot find module './mirsac-group-d-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(83,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(83,64): error TS2307: Cannot find module './za-cpsi-internships-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(84,48): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(84,74): error TS2307: Cannot find module './rrb-cen-03-2026-section-controller.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(85,44): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(85,70): error TS2307: Cannot find module './pihmct-assistant-lecturer-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(86,38): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(86,64): error TS2307: Cannot find module './hpforest-joa-it-pwd-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(87,31): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(87,57): error TS2307: Cannot find module './bt-rcsc-bcse-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(88,39): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(88,65): error TS2307: Cannot find module './jkpsc-gcet-librarian-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(89,39): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(89,65): error TS2307: Cannot find module './icmr-nithr-yp1-admin-2026.ts' or its corresponding type declarations.
+phases/phase-68-2026-09-27-connector-index-before.ts(90,58): error TS7006: Parameter 'context' implicitly has an 'any' type.
+phases/phase-68-2026-09-27-connector-index-before.ts(90,84): error TS2307: Cannot find module './icmr-nihr-bhubaneswar-junior-consultant-2026.ts' or its corresponding type declarations.

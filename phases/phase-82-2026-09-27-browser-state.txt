@@ -1,0 +1,703 @@
+IN
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "India IN" [level=1]
+  - paragraph: Source check failing; latest data may be stale. Previous check succeeded; current source check failing. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in India.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "100 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "42"
+  - term: Last successful fetch
+  - definition: 26 Sept 2026
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: State Bank of India, Central Recruitment & Promotion Department
+    - listitem: Bharat Electronics Limited, Government of India enterprise under Ministry of Defence
+    - listitem: Defence Research and Development Organisation, Ministry of Defence, Government of India
+    - listitem: Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India
+    - listitem: Directorate General of Employment, Ministry of Labour & Employment, Government of India
+    - listitem: National Law School of India University, Karnataka statutory public university
+    - listitem: Mizoram Remote Sensing Application Centre, Directorate of Science & Technology, Government of Mizoram
+    - listitem: Space Applications Centre, Indian Space Research Organisation, Department of Space
+    - listitem: Indira Gandhi National Open University
+    - listitem: Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change
+    - listitem: Government Medical College Nashik / Directorate of Medical Education and Research, Maharashtra
+    - listitem: National Disaster Management Authority, Government of India
+    - listitem: DNS Regional Institute of Cooperative Management, National Council for Cooperative Training, Ministry of Cooperation
+    - listitem: Indian Institute of Technology Bombay, Ministry of Education
+    - listitem: Indian Institute of Science Education and Research Kolkata, Ministry of Education
+    - listitem: ISRO Propulsion Complex, Department of Space, Government of India
+    - listitem: National Institute of Technology Uttarakhand, Ministry of Education
+    - listitem: Union Public Service Commission
+    - listitem: Staff Selection Commission
+    - listitem: Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Government of India
+    - listitem: National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare
+    - listitem: Nuclear Fuel Complex, Department of Atomic Energy, Government of India
+    - listitem: Oil India Limited (Government of India public sector undertaking)
+    - listitem: Kendriya Vidyalaya Sangathan (Ministry of Education)
+    - listitem: Andaman and Nicobar Administration — Common Recruitment
+    - listitem: Andhra Pradesh Public Service Commission
+    - listitem: Arunachal Pradesh Public Service Commission
+    - listitem: Assam Public Service Commission
+    - listitem: Office of the Member, Foreigners Tribunal-II, Sribhumi
+    - listitem: Goalpara District Administration, Assam
+    - listitem: Assam State Disaster Management Authority
+    - listitem: Bihar Public Service Commission
+    - listitem: Chandigarh Administration — Public Notices
+    - listitem: Chhattisgarh Public Service Commission
+    - listitem: Dadra and Nagar Haveli and Daman and Diu — Recruitments
+    - listitem: Delhi Subordinate Services Selection Board — Vacancies
+    - listitem: Goa Public Service Commission
+    - listitem: Gujarat Public Service Commission
+    - listitem: Haryana Public Service Commission
+    - listitem: Haryana Staff Selection Commission
+    - listitem: Himachal Pradesh Public Service Commission
+    - listitem: Himachal Pradesh Rajya Chayan Aayog, Government of Himachal Pradesh
+    - listitem: Himachal Pradesh Forest Department
+    - listitem: Jal Shakti Vibhag, Government of Himachal Pradesh
+    - listitem: Jammu and Kashmir Public Service Commission
+    - listitem: Jammu and Kashmir Services Selection Board
+    - listitem: Jharkhand Public Service Commission
+    - listitem: Jharkhand State Child Protection Society
+    - listitem: Karnataka Public Service Commission
+    - listitem: Kerala Public Service Commission
+    - listitem: Ladakh Administration — Recruitment notices
+    - listitem: Ladakh Administration — Health & Medical Education Department
+    - listitem: Ladakh Police Subordinate Service Recruitment Board
+    - listitem: Lakshadweep Administration — Recruitments
+    - listitem: Madhya Pradesh Public Service Commission
+    - listitem: Madhya Pradesh Employees Selection Board
+    - listitem: Maharashtra Public Service Commission
+    - listitem: Tata Memorial Centre ACTREC (Department of Atomic Energy grant-in-aid institution)
+    - listitem: Divisional Commissioner Office, Pune Division, Government of Maharashtra
+    - listitem: Manipur Public Service Commission
+    - listitem: Meghalaya Public Service Commission
+    - listitem: Mizoram Public Service Commission
+    - listitem: Nagaland Public Service Commission
+    - listitem: Odisha Public Service Commission
+    - listitem: Puducherry Government — Recruitment
+    - listitem: Government of Puducherry
+    - listitem: Punjab Public Service Commission
+    - listitem: Punjab State e-Governance Society
+    - listitem: Punjab Subordinate Services Selection Board
+    - listitem: Rajasthan Public Service Commission
+    - listitem: Sikkim Public Service Commission
+    - listitem: Tamil Nadu Public Service Commission
+    - listitem: Telangana Public Service Commission
+    - listitem: Telangana State Level Police Recruitment Board
+    - listitem: Department of Posts, Ministry of Communications, Government of India
+    - listitem: Telangana State Sports Department, Khelo India State Centre of Excellence
+    - listitem: Tripura Public Service Commission
+    - listitem: Uttar Pradesh Public Service Commission
+    - listitem: Uttarakhand Public Service Commission
+    - listitem: West Bengal Public Service Commission
+    - listitem: Goa Staff Selection Commission
+    - listitem: Department of Information Technology, Electronics & Communications, Government of Goa
+    - listitem: Bihar Technical Service Commission
+    - listitem: Railway Recruitment Boards, Ministry of Railways
+    - listitem: Proof & Experimental Establishment, Defence Research and Development Organisation, Ministry of Defence
+    - listitem: Mineral Exploration & Consultancy Limited, Ministry of Mines
+    - listitem: Pondicherry Institute of Hotel Management and Catering Technology
+    - listitem: Institute of Banking Personnel Selection
+    - listitem: Indian Council of Medical Research, Ministry of Health and Family Welfare
+    - listitem: ICMR National Institute of Health Research, Bhubaneswar
+    - listitem: Indian Institute of Technology Madras — GATE 2027, Ministry of Education
+    - listitem: Indian Institute of Technology Kharagpur — JAM 2027, Ministry of Education
+    - listitem: National Testing Agency — Joint Entrance Examination (Main), Ministry of Education
+    - listitem: National Testing Agency — Common University Entrance Test (Undergraduate), Ministry of Education
+    - listitem: National Testing Agency — National Eligibility cum Entrance Test (Undergraduate), Ministry of Education
+    - listitem: Reserve Bank of India — Services Board and Human Resource Management
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Source jurisdiction
+  - combobox "Source jurisdiction":
+    - option "All source jurisdictions" [selected]
+    - option "Andaman and Nicobar Islands"
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli and Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh"
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra"
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - paragraph: Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.
+  - text: Search official sources
+  - searchbox "Search official sources": Reserve Bank of India careers
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 100 registered sources. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "India — Reserve Bank of India careers ↗":
+      - /url: https://opportunities.rbi.org.in/Scripts/Vacancies.aspx
+    - generic: Reserve Bank of India — Services Board and Human Resource Management
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Official RBI Grade B notice dated 29 April 2026, panel year 2026, describes direct recruitment on probation: initially two years, extendable to four. Original window closed 20 May at 18:00; governing timezone unverified. It permits Indian citizens, subjects of Nepal/Bhutan and specified Tibetan-refugee/Indian-origin migration categories. Required Government of India eligibility certificate can remain pending at examination admission but must be issued before appointment offer. This is restricted-category eligibility, not permission for every foreign citizen. Assistant panel year 2025 was advertised 16 February 2026. Its preliminary/main selection includes English tests and mandatory state official/local-language proficiency test, without exemption or CEFR equivalence. These are separate cycles; edit notices and exam cities do not create new intakes."
+    - strong: Collection gap
+    - paragraph: Browser-read HTML research awaiting review; reader returned human-verification pages. No CAPTCHA solved, raw originals retained, adapter accepted or cycle published. Grade B language appendices and Assistant office-language mapping PDF inaccessible to reader and not accepted. Assistant original March window and tentative examination dates must be reconciled with linked corrigendum/April notices before publication. Full nationality category definitions, age, qualification equivalence, attempts, reservation conditions and official timezone require review. Online examinations occur at allocated centres, not assumed remote-from-home tests. National scope has no state tags inferred from examination cities. Complete RBI and other-pathway coverage unverified.
+    - link "Source identification evidence ↗":
+      - /url: https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4997
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "State Bank of India — official recruitment and selection updates: Official bank careers homepage links this current-openings register. It mixes applications, explicit extensions, exam call letters and results. Retained SCO 22 IT Risk contract notice, SCO 15 regular Trade Finance notice and Junior Associate 17 notice each restrict applications to Indian citizens. Junior Associate local-language assessment/education exemption is distinct from exam medium and has no CEFR level."
+    - listitem: "Bharat Electronics Limited — September 2026 fixed-term engineer calls: Two distinct fixed-term application cycles, 48 posts: Ghaziabad Sr Assistant Engineer (36) and Bengaluru Senior Engineer (12 across three mutually exclusive codes). Bengaluru permits only Indian nationals. Ghaziabad requires IAF JWO or above with 15 years of service, but citizenship rule is unstated. Formal human-language level unstated; programming languages are technical skills."
+    - listitem: "DRDO — DYSL-SM and LRDE September 2026 JRF calls: Two exact temporary JRF calls: DYSL-SM one place, LRDE two places. Indian nationals only; formal language level not stated. LRDE needs English transcripts for non-English documents. LRDE 25 September willingness advisory differs from 8 October walk-in; late attendance route is unresolved."
+    - listitem: "APEDA — August 2026 Associate Legal and Trade contracts: Two distinct August 2026 contract cycles, one vacancy each, discovered through NCS. Both printed deadlines passed. Nationality and language form fields do not establish an international route or formal language level. Exact PDF hashes and current/archive row digests gate extraction."
+    - listitem: "National Career Service — classified government-job discovery: All 145 NCS classified index rows captured through ten public browser pages on 27 September 2026, retaining 76 raw organisation labels, 35 raw Type labels and 57 link targets. These are discovery leads, not verified current application cycles. Type mixes appointment arrangements with reservation categories; Nalanda rows 125–126 may duplicate one call. NCS overseas e-migrate links do not establish foreign-citizen permission for India roles."
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: Four separate permanent faculty application cycles, Notifications 16–19/2026, close 26 October 2026 at 17:00 IST. Foreign nationals may apply, while appointment confirmation needs visa approval. Corrigenda to 17 and 18 expand indicative Sociology to Sociology and Anthropology. No formal language level stated."
+    - listitem: "Mizoram Remote Sensing Application Centre — Group D provisional employees: Advertisement 1 of 2026–2027 seeks one Group D provisional-employee application for two positions. Forms reach MIRSAC Aizawl office by 30 October 2026 during unspecified office hours. HSLC and working Mizo through middle-school standard are published; form requests Mizo Class VIII-or-above proof. Nationality and domicile are unstated, so international applicants need verification."
+    - listitem: "ISRO Space Applications Centre — SAC:02:2026 temporary research positions: Advertisement SAC:02:2026, 16 distinct research post codes and 48 provisional positions. Online applications 10 September 10:00 to 30 September 2026 17:00; no governing timezone printed. Temporary JRF, Research Associate and Project Scientist-I positions. Only Indian nationals may apply. No formal language level printed. Initial posting SAC Ahmedabad; interview venue not yet published."
+    - listitem: "IGNOU non-teaching recruitment advertisement 69/2026/Admn.: Twelve distinct post choices across 14 vacancies in non-teaching advertisement 69/2026/Admn. Online applications 3 October–2 November 2026 to 23:59:59; signed hard copy due 12 November. Notice accepts Indian citizens and narrow conditional Nepal, Bhutan, Tibetan-refugee and Indian-origin migrant routes. No formal language level stated; written test may be English only or English/Hindi. First connector output needs founder review."
+    - listitem: "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins: Exact September 2026 Forest Research Institute advertisement: two separate walk-in registration days, 1 and 5 October 2026, 09:00–10:15, for temporary project fellowships. Fellowship gives no guarantee of later Council employment. Nationality permission, work authorization and formal language level are unstated; the English notice governs bilingual differences."
+    - listitem: "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04: Review-only September 2026 call for eight temporary contractual Professor, Associate Professor and Assistant Professor vacancies in six subjects at GMC Nashik. Notice page 1 prints applications 21–28 September, 11:00–17:00, without named timezone, and an interview on 7 October. Multiple application delivery routes are described. Foreign-citizen eligibility and formal language level are not stated; subject/rank qualifications and Maharashtra-institution priority need individual review."
+    - listitem: "NDMA — Young Consultant, Forest Fire Risk Management: NDMA's original notice dated 17 August 2026 describes one contractual Young Consultant vacancy, Indian nationals, and online application within 20 days of NDMA website publication. Employment News reports 18 October and deputation. Original website publication date and any amendment are unconfirmed; no applicant record has been staged or published."
+    - listitem: "DNS-RICM Patna — August 2026 contract Lecturer recruitment: Draft-only exact August 2026 Lecturer advertisement: five contract vacancies across four subjects, counted as one recruitment cycle. Official announcement requires registered-post application within 21 days of publication but prints no publication date; 14 August register date is not substituted. Employment News reports 27 September, which remains unconfirmed by institute. Nationality and domicile appear only as form fields, so foreign-citizen eligibility is unknown. No formal language level stated."
+    - listitem: "IIT Bombay — rolling faculty recruitment L-10/25-26: Draft-only exact rolling advertisement L-10/25-26, one application cycle spanning Assistant, Associate and Full Professor ranks and multiple academic units. Indian citizens, PIOs, OCIs and foreign nationals may apply. Foreign nationals need Government of India permission before joining and foreign-passport holders need political/security clearances at confirmation. Good communication skills are requested, but no named language or proficiency level is stated. Advertisement metadata prints 31 December 2026 23:59 without a named governing timezone. Unit-specific eligibility and design-school non-Ph.D. exceptions are not flattened into one deterministic rule."
+    - listitem: "NLSIU — Professor (Law), Notification 15/2026: Draft-only Notification 15/2026, one Professor (Law) application cycle for five permanent vacancies. Apply online by 26 October 2026, 17:00 IST. Foreign nationals, OCI, NRI and PIO may apply; selected foreign applicants need visa approval for appointment confirmation. Two qualification routes differ. No formal language level or interview venue is published."
+    - listitem: "IISER Kolkata — non-teaching direct recruitment NT-04/2026: Draft-only exact-notice connector for seven separately applied regular non-teaching post types (17 total vacancies), online close 19 October 2026 at 17:30 and mandatory hard-copy receipt by 29 October at 17:30. Indian citizenship required; no formal language level stated. Notice conflicts on age/qualification reckoning date (19 September versus online close), so automated age matching is withheld. Neither cutoff gives an official timezone."
+    - listitem: "ISRO Propulsion Complex — direct recruitment IPRC/RMT/2026/01: Exact-notice draft for 11 separately applied post codes and 22 vacancies in Technical Assistant, Technician B, Cook A and Fireman A families. Online registration 15 September 2026 10:00–5 October 2026 16:00, with no governing timezone printed. Only Indian nationals may apply; no Tamil Nadu domicile rule is printed. Technical Assistant papers are English/Hindi; other papers Tamil/Hindi/English, without a formal proficiency level. Posts are temporary but likely to continue indefinitely; initial duty station Mahendragiri, possible later ISRO posting anywhere in India."
+    - listitem: "NIT Uttarakhand — non-teaching staff 08/2026: Draft-only exact-notice connector for advertisement 08/2026: 15 distinct portal post choices across five post families, 21 indicative vacancies. Online applications close 4 November 2026 without printed cutoff hour; mandatory hard copy by 11 November at 17:30 without governing timezone. Contract applicants must be Indian citizens; deputation is limited to eligible serving officials, with nationality unstated. No formal language level or test medium is printed; Junior Assistant typing speed is 35 w.p.m. without named language. Technician (SG-II) contract eligibility needs 2019-rule reconciliation."
+    - listitem: "Directorate General of Training — Exam Corner: Manual exact-scan research for one closed CITS (RPL) supplementary vocational qualification test. Fee submission was tentatively 17–21 August 2026 with no cutoff hour; only existing 2024–25 supplementary candidates (325 listed) were eligible. September CBT/practicals and planned 25 September result are distinct from fee deadline. The notice says March once despite September title and schedule; nationality, initial CITS admission and language level need founder review. No draft is staged or published; other DGT exams and admissions remain gaps."
+    - listitem: "NBEMS — Foreign Medical Graduate Examination: Draft-only October 2026 FMGE licensing cycle. Official v2.2 bulletin and index are hash-bound. New applications close 25 September 2026 at 23:55 IST. Indian/OCI clause conflicts with separate Nepalese exception wording; English is exam medium without a CEFR level. Passing does not automatically grant medical registration. Other FMGE editions and NBEMS licensing pathways remain gaps."
+    - listitem: "NBEMS — Executive Director deputation vacancy: Draft-only exact-document connector for one Executive Director medical-officer deputation vacancy, closing 30 October 2026 without printed cutoff hour. Source notice requires existing service and employer forwarding; citizenship and formal language level are not stated. Other NBEMS direct recruitment vacancies remain gaps."
+    - listitem: "Nuclear Fuel Complex — ITI trade apprenticeship: Draft-only exact-document connector for one closed 2026–27 ITI apprenticeship intake: 432 tentative places across 15 positive-vacancy trades, one application cycle, closing 16 September without printed cutoff hour. This is vocational training, not a job vacancy. Nationality and formal language level are unstated. Separate diploma/graduate apprenticeships and other NFC notices remain gaps."
+    - listitem: "Oil India Limited — official advertisements: Two current official notices were retained for manual research: Duliajan Assam contractual Electrician/Associate Engineer walk-ins on 7 October 2026 (Assam or Arunachal Pradesh domicile; nationality not printed; no language level) and Grade D/E/F executive recruitment closing 10 October 2026 at 11:00 IST (Indian nationals only; no formal language level printed). Neither is staged or published. Source serves nationwide OIL hiring, so Duliajan job location is not treated as nationwide exam venue or applicant residence rule."
+    - listitem: "Kendriya Vidyalaya Sangathan — deputation recruitment: Draft-only exact-document extraction of advertisement 03/2026: one Executive Engineer and one Assistant Director (Official Language) deputation post. Signed extension moves postal receipt deadline to 5 October 2026, with no printed hour. Foreign-citizen permission is unstated; existing eligible officer service is required. Other KVS recruitments remain gaps."
+    - listitem: "Andaman and Nicobar Administration — Common Recruitment: Draft-only exact-notice connector for one live 2026 Agriculture Group B/C recruitment (three post codes, ten vacancies). Indian citizenship explicit; English CBT content and desirable post-specific Hindi recorded. Post-specific ages and application-link grouping require founder review; other departments and historical recruitment remain gaps."
+    - listitem: "Andhra Pradesh Public Service Commission: Original-backed draft research, awaiting review. Forest Range Officers brief 16/2026 dated 15 September announces four provisional direct-recruitment vacancies; permanent tenure is not established. Original online dates 16 October–5 November 2026, 23:59 close; governing timezone unknown and corrected in pending draft. Detailed notification is due by 16 October and must replace brief extraction before opening. Degree must exist as at detailed-notification date; physical standards, age, nationality and domicile await that notice. Page 3 requires English AND Telugu separately at SSC Standard, 50 marks each, plus walking/Medical Board and separate qualifying Computer Proficiency Test. SSC Standard is not CEFR. Passing language tests cannot establish application or appointment eligibility. Current browser register matches brief link; reader failed. One existing draft and exact retained originals remain pending; no new collection or health timestamp."
+    - listitem: "Arunachal Pradesh Public Service Commission: APPSCCE advertisement 5/2026 bound to exact official scanned PDF and subsequent-notification register. One combined 135-post cycle staged for founder review; other APPSC, departmental and local recruitment remain coverage gaps."
+    - listitem: "Assam Public Service Commission: Draft-only exact-PDF connector covers closed advertisement 12/2026: one Research Assistant post under Labour Welfare Department, Indian citizenship and permanent Assam residence required. No mandatory language level printed. Other APSC advertisements, departments and local recruitment remain coverage gaps."
+    - listitem: "Sribhumi District Administration — Foreigners Tribunal-II recruitment: Draft-only pilot for one September 2026 walk-in notice with separate Data Entry Operator and Copyist roles. Registration window 12 September 09:00–11:00. Copyist requires good English and Bengali handwriting with no formal level. Nationality and employment-registration eligibility need founder review; other district and Assam sources remain gaps."
+    - listitem: "Goalpara District Administration — Foreigners Tribunal No. 8 Copyist: Exact-scan draft for one closed 10 September 2026 FT-8 Copyist walk-in, temporary contractual job. Original states Indian citizenship, Higher Secondary plus computer diploma, English/Assamese typing and good command, without a formal level. Result links are observed by title only; no candidate lists imported. Other Goalpara district and Assam PSC recruitment remain gaps."
+    - listitem: "Assam State Disaster Management Authority — recruitment: Search-indexed official recruitment page listed a District Project Officer vacancy for Tamulpur and Bajali with 25 September 2026 submission date. Current live page returns HTTP 404, and exact notice PDF could not be verified; no cycle or eligibility claim was imported."
+    - listitem: "Bihar Public Service Commission: BPSC public homepage AJAX search exposes original advertisement 15/2026 and important notice for TRE 4.0. Draft-only pilot binds their PDF hashes and five TRE 4.0 search rows. One replacement notice lists 32,388 teacher vacancies and 25 September–26 October applications. International applicant and universal language requirements need review. Other BPSC notices and Bihar authorities remain gaps."
+    - listitem: "Chandigarh Administration — Public Notices: UTCPS Accountant Officer 22 September 2026 walk-in notice bound to exact official PDF and public-notice row for founder review. Other Chandigarh departments and recruitment notices remain coverage gaps."
+    - listitem: "Chhattisgarh Public Service Commission: Original-backed draft research, awaiting review. Advertisement 05/2026 dated 8 September covers separately applied Food Laboratory and Drug Laboratory Microbiologist posts, three plus two vacancies, direct recruitment and gazetted Class II; permanent tenure not established. Original online dates 10 September noon–9 October 2026 at 23:59; governing timezone unknown and corrected in both pending drafts. Correction periods do not reopen initial applications. Page 1 invites Indian citizens and Government of India recognized categories; complete foreign-national routes need verification. State domicile controls benefits, not blanket nationality permission. Page 17 gives Hindi/English paper medium, not a formal proficiency level. Written/interview routes and conditional interview marking need full review. Current browser archive/original readable, reader failed; two existing drafts remain unapproved, with no new source-health timestamp."
+    - listitem: "Dadra and Nagar Haveli and Daman and Diu — Recruitments: Draft-only pilot binds four September 2026 register rows and original PDFs. Three government intakes cover two teaching contracts and five hospital specialties in one shared notice. A separate grant-aided private-school notice is retained but excluded pending public-recruitment scope review. Nationality and formal language levels are unstated; other departments and older notices remain gaps."
+    - listitem: "Delhi Subordinate Services Selection Board — Vacancies: Draft adapter for advertisement 03/2026: 25 separate post-code cycles, exact-document nationality and exam-language evidence, and two vacancy corrigenda. Other advertisements, Delhi departments and later notices remain gaps. Founder review required; no listings imported."
+    - listitem: "Goa Public Service Commission: Draft adapter stages seven distinct posts in advertisement 09/2026, with separate direct/deputation dates, working-Konkani evidence and unresolved foreign-citizen permission. Other advertisements, amendments and local authorities remain gaps. Founder review required; no listing imported."
+    - listitem: "Gujarat Public Service Commission: Draft-only pilot for maritime advertisements 42/2026-27 and 43/2026-27, both active through 8 October 2026 at 23:59 local Gujarat time. Distinct PwD-only applications share bilingual detailed PDF bytes. Gujarati or Hindi knowledge is required without formal level; national citizenship and foreign-citizen appointment conditions need recruitment-rule review. Other GPSC advertisements and state authorities remain gaps."
+    - listitem: "Haryana Staff Selection Commission — CET and prison recruitment: Draft-only pilot for Group-D CET advertisement 05/2026 and Group-C prison recruitment 06/2026. One CET registration and one provisional prison application cycle; four prison categories total 1,238 posts, but group-form identity needs founder review. Nepal/Bhutan subjects need a Government eligibility certificate for CET; post appointment and Hindi/Sanskrit academic conditions need review. Other HSSC notices remain gaps. Separate from HPSC."
+    - listitem: "Himachal Pradesh Rajya Chayan Aayog: Separate state recruitment authority from HPPSC. The state government's vacancies page links this exact .gov.in host. The homepage and recent notices are visible in ordinary browser research, but no notice details or applicant criteria are imported. The similarly named hprca.in site is not used as an official source."
+    - listitem: "HP Forest Department — JOA (IT) PwBD intake: Exact scanned-PDF connector for one JOA (IT) PwBD contract application, two reserved posts. Original notice prints conflicting application receipt dates (30 September schedule versus 10 October signed note), so deadline is unknown and status uncertain. Indian citizenship and bona fide Himachal residence are explicit; English/Hindi typing speeds are alternatives, not formal language levels."
+    - listitem: "Himachal Pradesh Jal Shakti Vibhag — Recruitment: Reader-only research, awaiting review. Official Jal Shakti recruitment index lists Katrain Para Pump Operator, Para Fitter and Multipurpose Worker notice dated 23 September 2026, alongside Thunag deadline-extension notice dated 9 September. Keylong selection/results and division skill-test notices are later recruitment stages, not fresh application cycles. Index labels establish role names only; appointment terms, nationality, required languages and current application windows remain unverified. Index header says 1 April 2025 despite September 2026 entries; that header is not source freshness."
+    - listitem: "Jammu and Kashmir Public Service Commission: Draft-only exact-PDF pilot covers one SC-backlog GCET Librarian post under notification 07-PSC (DR-P) of 2026. Its 15 September extension ends forms 18 September while eligibility cutoff stays 31 August. Domicile and SC certificate are mandatory; citizenship and formal language level are unstated. Other notification 07 posts, notifications 05/06 and departmental recruitment remain gaps."
+    - listitem: "Jammu and Kashmir Services Selection Board: Draft-only exact extraction of advertisement 09/2026 Class IV and two post-family groups from open advertisement 08/2026: Horticulture Technician and Junior Pharmacist, 256 of 518 positions. Remaining 08/2026 groups, broader JKSSB and department coverage remain incomplete."
+    - listitem: "Jharkhand Public Service Commission: Draft-only exact-document connector for Assistant Professor medical super-specialty advertisement 07/2026 (90 posts, ten specialties). Citizenship, language and specialty application grouping require founder review. Other JPSC 2026 notices and departments remain gaps."
+    - listitem: "Jharkhand recruitment portal — child-protection appointments: Two current honorary child-protection appointment cycles staged from notices 2979 and 3062. One application under 3062 can prefer JJB and CWC roles. The notices offer ₹2,000 per sitting, not a salaried government job. Portal gives 10 and 15 October 2026 deadlines at 23:59 but not a governing timezone. International eligibility and formal language level remain unverified."
+    - listitem: "Karnataka Public Service Commission: Draft-only exact-document connector for one 2026-27 Gazetted Probationers Group A/B intake (319 posts). Kannada notice, extension, age press note, timetable and online application page retained. Citizenship, residence, age and post-specific qualifications need founder review; other recruitment remains a gap."
+    - listitem: "Kerala Public Service Commission: Exact-document draft for 31 August 2026 gazette: 21 provisional category applications, including nine NCA categories from two shared PDFs. All 14 category PDFs and current General Conditions PDF are hash-pinned. Individual notices have provisional job type, qualification, fee and restriction fields. General Conditions identify narrow non-Indian eligibility routes with Government of India certificate; personal route, Part I exceptions and service rules need founder review. No blanket language level is stated. Shared-category form identity, midnight cutoff and Kerala community proof remain unresolved. Other gazettes and authorities remain gaps. Run npm run collect -- --source in-kl-recruitment --stage."
+    - listitem: "Ladakh Health & Medical Education — Central Pool admission: Draft-only 2026-27 Central Pool MBBS/BDS admission pilot. Portal supplies 23–29 September window without cutoff time; scanned notice has conflicting issue dates. NEET, parent-residence route and foreign-national eligibility need founder/authority review. Other intakes remain gaps."
+    - listitem: "Ladakh Police Subordinate Service Recruitment Board: Draft adapter for scanned Constable advertisement 02/2026: one application for 331 posts, 15 September close, required Ladakh domicile, English/Hindi exam medium without stated proficiency level. No citizenship clause was identified in scanned evidence; founder/authority confirmation is needed for foreign applicants. Later physical-test postponement is not an application extension. Other Police Board notices and Ladakh authorities remain gaps."
+    - listitem: "MP Employees Selection Board — Police Constable GD 2026: Pilot binds the 2026 Police Constable GD online form row to the original Hindi rulebook and scanned revised first page. New applications 22 September–6 October; correction until 11 October is distinct. Original rulebook states Indian citizenship is mandatory; first-stage MCQ is in Hindi without a formal proficiency level. Founder review required; other ESB and MPPSC recruitments remain gaps."
+    - listitem: "Tata Memorial Centre ACTREC — public recruitment: Draft-only exact-document pilot for Senior Resident, Transfusion Medicine, advertisement 198/2026. Indian nationals only; 8 October 2026 17:30 IST deadline, ₹100 application fee and separate joining deposit. No formal language level printed. Other ACTREC job rows remain gaps; Maharashtra PSC access restriction remains separate."
+    - listitem: "Pune Divisional Commissioner — Legal Officer 2026: One closed 2026 Legal Officer contract notice staged. Marathi notice gives a 31 August date-only application receipt deadline and adequate Marathi, Hindi and English knowledge without a formal level. No foreign-citizen rule was found; international eligibility remains unverified. Maharashtra PSC access restriction remains separate."
+    - listitem: "Manipur Public Service Commission: Draft-only pilot for scanned Advertisement 04/2026, Dental Surgeon. Original PDF states Indian citizenship, Manipur residence with parent/ancestor exception, and spoken Manipuri or a Manipur tribal dialect. Founder review pending; other notices, departments and local recruitment remain gaps."
+    - listitem: "Meghalaya Public Service Commission: Draft-only pilot for scanned Advertisement 03/2026: Fishery Officer and Junior Football Coach, with age and qualification/deadline corrections. Indian citizenship is explicit; General English appears in selection tests without a CEFR level. Exact PDFs and the extension scope require founder review; other advertisements and departments remain gaps."
+    - listitem: "Mizoram Public Service Commission: Draft-only pilot for active Advertisement 25/2026-27 (LDC) and 26/2026-27 (Peon), closing 12 and 13 October 2026 at 16:00 local time. Both require Mizo Language Proficiency test or stated Class-X/MIL exemption; numerical level and nationality are not in retained notices. Founder review required. Other Mizoram authorities and notices remain gaps."
+    - listitem: "Nagaland Public Service Commission: Draft-only Stenographer Examination 2026 pilot. Applications closed 3 September 2026 at noon; all 26 posts are reserved for specified indigenous inhabitants, while nationality and shorthand language are unstated. Other NPSC examinations, notifications and local authorities remain gaps."
+    - listitem: "Odisha Public Service Commission: One APP 09/2026-27 candidate notice is bound to exact scanned PDF bytes and staged for founder review. Current notices are served through public ASP.NET form postbacks; remaining OPSC notices and departmental/local recruitment remain gaps."
+    - listitem: "Puducherry Government — recruitment notices: Separate from recruitment.py.gov.in. Two current official PDFs were retained for manual research: Planning and Research Joint Director deputation (11 November 2026 date-only close) and PIHMCT Assistant Lecturer contract (25 October 2026 date-only close). Job type, international-applicant uncertainty and language wording are documented in data/evidence/research/puducherry-government-recruitment-september-2026.json. Neither notice is staged or published; other departments remain gaps."
+    - listitem: "Punjab State e-Governance Society — DGG&IT vacancies: Draft-only pilot for PSeGS advertisement 02/2026: one open two-year Deputy General Manager (Technical) Cyber Security contract closing 8 October 2026 at 23:59 IST. Working Punjabi is essential with a specified post-appointment test route. Nationality is unstated. Official PDF links an off-domain form and payment instructions that require founder verification. Other Punjab authorities and notices remain gaps."
+    - listitem: "Punjab Subordinate Services Selection Board — Group D: Draft-only extraction of closed Group D advertisement 04/2026: 2,098 positions, final new-application deadline 21 September 2026; correction portal 24–27 September serves existing applicants only. International applicant and appointment permission unstated. Original notice requires Punjab domicile/residence certificate at counselling, with scope for unreserved and overseas candidates awaiting authority confirmation. Other board groups remain gaps."
+    - listitem: "Rajasthan Public Service Commission: Draft archive connector; original advertisements and corrections are grouped conservatively. Unknown application dates are not marked open. First output requires founder review."
+    - listitem: "Sikkim Public Service Commission: Draft-only Village Level Worker advertisement 23/SPSC/EXAM/2026 pilot. One closed 2026 application for 69 posts. Sikkim Subject/Identification Certificate and Local Employment Card are required; national citizenship is unstated and foreign-citizen eligibility needs official review. One State language is required without a published formal level. Other SPSC notices and authorities remain coverage gaps."
+    - listitem: "Tamil Nadu Public Service Commission: Draft connector available; dates cross-checked against exam dashboards. First output and notice-specific language conditions require founder review. Run npm run collect -- --source in-tn-recruitment --stage."
+    - listitem: "Telangana Police Recruitment Board — 2026 recruitment: Manual research retained four 29 July 2026 direct-recruitment notices totaling 7,437 vacancies: PC Civil/equivalent 7,112; SI Civil/equivalent 275; PC Mechanic/Driver 27; ASI Finger Print Bureau 23. Applications ran 19 August 08:00–16 September 2026 17:00 after signed 8 September extension; 17 September press note confirms closure. Neither four original notices nor reviewed amendments establish a general foreign-citizen permission. SI has qualifying English and Telugu-or-Urdu papers at Matriculation standard; PC exam question language is not a universal proficiency certificate. Post identity, category/local reservations, age supplements and appointment rules need founder review. No cycle staged or published."
+    - listitem: "India Post — general vacancies register: Page-one snapshot on 25 September 2026 shows six 2026 document rows for Driver deputation/absorption, Skilled Artisan at Bengaluru and Manager Mail Motor Service. They are register entries, not verified application cycles; an Artisan corrigendum may change material terms. Original notice text, deadlines, nationality and local-language conditions are unavailable without document verification. Page two and later pages remain unchecked."
+    - listitem: "India Post — Gramin Dak Sevak online engagement: Exact-document draft connector for GDS Schedule-II July-2026, notification 17-12/2026-GDS. One national application cycle with 23,757 tentative posts across BPM, ABPM and Dak Sevak; application closed 21 September 2026, correction closed 24 September. Class X from an Indian-government-recognized board and post-specific local language required. Foreign-citizen eligibility is not stated. Later amendments, future schedules and other India Post recruitment remain coverage gaps."
+    - listitem: "Telangana State Sports Department — Physiotherapist: Draft-only exact-notice connector for September 2026 male physiotherapist intake at Hakimpet. Online window 23–26 September, 17:00 IST close; separate 28 September physical-form step and age cut-off date need review. Master's Physiotherapy from recognized Indian or foreign university, three years role experience, maximum age 45. Foreign degree acceptance is not foreign-citizen permission; nationality and language requirements are unstated. Vacancy count, tenure, gender restriction and portal form details need founder review; other Sports Department intakes remain gaps."
+    - listitem: "Tripura Public Service Commission: Three 2026 TPSC advertisements and one addendum are bound to exact scanned PDF bytes for founder review. News, later notices and other Tripura authorities remain gaps."
+    - listitem: "Uttar Pradesh Public Service Commission: Draft application-table connector cross-checks current job alerts. Two September 2026 applications are staged: reopened Inspector of Drugs and Deputy Secretary (I.T.). Separate application, fee, reconciliation and correction dates; no published cutoff clock time or official timezone. First output requires founder review."
+    - listitem: "Uttarakhand Public Service Commission: Draft-only connector for advertisement A-1/E-1/2026-27: one combined application for 67 vacancies across 16 post codes. The 22 and 24 September index rows concern a prior examination result and a separate edit window, not new application deadlines. Exact Hindi PDF bytes, second-precision deadline, and conditional non-citizen routes require founder review. Other UKPSC, departmental, and local notices remain gaps."
+    - listitem: "West Bengal Public Service Commission: Draft-only extraction for closed Principal advertisement 05/2026: 12 DIET posts, final new-application and fee deadline 3 June 2026 at 15:00 IST. Planned 30 April start did not occur; actual opening date unknown. Foreign-citizen route is conditional on Government of India declaration; Bengali/Nepali exception and category age rules need review. Other advertisements and authorities remain gaps."
+    - listitem: "Goa Staff Selection Commission — Group C recruitment: Draft connector binds four Advertisement 3/2026 post choices to GSSC PDFs and Government of Goa CBES post pages. CBES establishes applications 11 September–2 October 2026 and confirms essential Konkani; no cutoff clock time or formal language framework level is published. PwD fee, nationality, residence certificate and a CBES-vs-supplement LDC vacancy-count conflict require founder review. Separate from Goa Public Service Commission."
+    - listitem: "Government of Goa CBES — Online Recruitment System: Official portal lists post-level qualifications and application dates. Four GSSC Advertisement 3/2026 pages are consumed as corroborating evidence by the in-ga-gssc connector, not counted again as separate source cycles. They show essential Konkani but no standardized proficiency level."
+    - listitem: "Bihar Technical Service Commission — Recruitment register: Draft connector follows recruitment-register pagination. Current/recent cycles require scanned notice and amendment review. Separate news and corrigendum feeds remain gaps. Distinct from Bihar Public Service Commission."
+    - listitem: "Railway Recruitment Boards — central employment notices: Review-only exact-PDF connector for one closed national CEN 03/2026 Section Controller cycle: 119 provisional vacancies are one application, with conditional Nepal/Bhutan and Indian-origin migrant routes. Old Secunderabad archive still serves original CEN and Corrigendum 1. The new unified RRB portal and newer CENs remain blocked for this collector. Distinct from IBPS Regional Rural Banks."
+    - listitem: "DRDO PXE — graduate and technician apprenticeships: Draft-only exact-document connector for one open 2026–27 PXE apprenticeship intake: 50 degree/diploma places across 12 branches, postal receipt by 12 October 2026 without a printed hour. One shared application form; no guaranteed DRDO employment. Nationality field is blank, foreign-citizen acceptance and formal language level are unstated. Other DRDO vacancies remain gaps."
+    - listitem: "MECL — 2026 non-executive recruitment: Draft-only exact-document connector for advertisement 03/Rectt./2026: 16 post codes, 122 provisional vacancies, registration 12 September–11 October 2026 with no published cutoff hour. Only Indian nationals may apply. English handwritten application declaration is general; English shorthand and Hindi degree rules are post-specific. Category/backlog, individual qualifications and any amendments need founder review; other MECL advertisements remain gaps."
+    - listitem: "PIHMCT Puducherry — Assistant Lecturer contract intake: Review-only exact-PDF connector for one open 2026 Assistant Lecturer contract application covering three posts, physical receipt by 25 October 2026 without a printed hour. Category A/B qualification alternatives and NHTET/PhD exemption require founder review. The form asks nationality but original notice gives no foreign-citizen rule or formal language level. This institute source is distinct from blocked py.gov.in umbrella recruitment and recruitment.py.gov.in portal."
+    - listitem: "IBPS — Regional Rural Banks XV recruitment: Review-only exact-document connector for CRP-RRBs XV (2026): Office Assistant, Officer Scale I, seven Scale II choices and Scale III. Officer choices share a portal; applicants may choose only one. 21 September extension changes registration and payment end to 27 September. 25 September corrigendum updates indicative vacancies only and says other terms remain unchanged. Degree-result date, nationality certificate exceptions, post-specific experience and language options need individual verification; no cutoff clock time inferred."
+    - listitem: "ICMR employment opportunities — NITHR Young Professional-I (Admin): Draft-only exact-document pilot for one temporary Young Professional-I (Admin) walk-in at ICMR-NITHR Jabalpur on 6 October 2026 from 09:00. One post, ₹35,000 monthly, graduate and one-year experience requirements. Hindi/English writing is desirable without a formal level. Citizenship unstated. Other ICMR vacancies remain source gaps."
+    - listitem: "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical): Draft-only exact-document pilot for one temporary DRISTI Junior Consultant (Medical) walk-in on 29 September 2026 at 10:30 in Bhubaneswar. One post at ₹80,000 monthly; MBBS/BDS/BVSc or equivalent and six years post-qualification experience. Age table's 40–50-year range lacks a category mapping. Nationality and language level unstated. Earlier May/June postings reuse advertisement number but are separate cycles."
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: 0 records retained; source reports 5 items"
+    - listitem: "ISRO Space Applications Centre — SAC:02:2026 temporary research positions: 0 records retained; source reports 16 items"
+    - listitem: "Assam Public Service Commission: 0 records retained; source reports 12 items"
+    - listitem: "Bharat Electronics Limited — September 2026 fixed-term engineer calls: 2 candidate revisions await review"
+    - listitem: "DRDO — DYSL-SM and LRDE September 2026 JRF calls: 2 candidate revisions await review"
+    - listitem: "APEDA — August 2026 Associate Legal and Trade contracts: 2 candidate revisions await review"
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: 4 candidate revisions await review"
+    - listitem: "Mizoram Remote Sensing Application Centre — Group D provisional employees: 1 candidate revisions await review"
+    - listitem: "ISRO Space Applications Centre — SAC:02:2026 temporary research positions: 16 candidate revisions await review"
+    - listitem: "IGNOU non-teaching recruitment advertisement 69/2026/Admn.: 12 candidate revisions await review"
+    - listitem: "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins: 2 candidate revisions await review"
+    - listitem: "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04: 1 candidate revisions await review"
+    - listitem: "DNS-RICM Patna — August 2026 contract Lecturer recruitment: 1 candidate revisions await review"
+    - listitem: "IIT Bombay — rolling faculty recruitment L-10/25-26: 1 candidate revisions await review"
+    - listitem: "NLSIU — Professor (Law), Notification 15/2026: 1 candidate revisions await review"
+    - listitem: "IISER Kolkata — non-teaching direct recruitment NT-04/2026: 7 candidate revisions await review"
+    - listitem: "ISRO Propulsion Complex — direct recruitment IPRC/RMT/2026/01: 11 candidate revisions await review"
+    - listitem: "NIT Uttarakhand — non-teaching staff 08/2026: 15 candidate revisions await review"
+    - listitem: "SSC — Examination calendar: 2 candidate revisions await review"
+    - listitem: "Kendriya Vidyalaya Sangathan — deputation recruitment: 2 candidate revisions await review"
+    - listitem: "Andaman and Nicobar Administration — Common Recruitment: 1 candidate revisions await review"
+    - listitem: "Assam Public Service Commission: 1 candidate revisions await review"
+    - listitem: "Goalpara District Administration — Foreigners Tribunal No. 8 Copyist: 1 candidate revisions await review"
+    - listitem: "HP Forest Department — JOA (IT) PwBD intake: 1 candidate revisions await review"
+    - listitem: "Jammu and Kashmir Public Service Commission: 1 candidate revisions await review"
+    - listitem: "Jammu and Kashmir Services Selection Board: 3 candidate revisions await review"
+    - listitem: "Jharkhand recruitment portal — child-protection appointments: 2 candidate revisions await review"
+    - listitem: "Kerala Public Service Commission: 21 candidate revisions await review"
+    - listitem: "MP Employees Selection Board — Police Constable GD 2026: 1 candidate revisions await review"
+    - listitem: "Tata Memorial Centre ACTREC — public recruitment: 1 candidate revisions await review"
+    - listitem: "Pune Divisional Commissioner — Legal Officer 2026: 1 candidate revisions await review"
+    - listitem: "Punjab Subordinate Services Selection Board — Group D: 1 candidate revisions await review"
+    - listitem: "Tamil Nadu Public Service Commission: 4 candidate revisions await review"
+    - listitem: "Telangana State Sports Department — Physiotherapist: 1 candidate revisions await review"
+    - listitem: "Uttar Pradesh Public Service Commission: 2 candidate revisions await review"
+    - listitem: "Uttarakhand Public Service Commission: 1 candidate revisions await review"
+    - listitem: "West Bengal Public Service Commission: 1 candidate revisions await review"
+    - listitem: "Goa Staff Selection Commission — Group C recruitment: 4 candidate revisions await review"
+    - listitem: "Railway Recruitment Boards — central employment notices: 1 candidate revisions await review"
+    - listitem: "MECL — 2026 non-executive recruitment: 16 candidate revisions await review"
+    - listitem: "PIHMCT Puducherry — Assistant Lecturer contract intake: 1 candidate revisions await review"
+    - listitem: "IBPS — Regional Rural Banks XV recruitment: 10 candidate revisions await review"
+    - listitem: "ICMR employment opportunities — NITHR Young Professional-I (Admin): 1 candidate revisions await review"
+    - listitem: "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical): 1 candidate revisions await review"
+    - listitem: "Bharat Electronics Limited — September 2026 fixed-term engineer calls: latest source check incomplete; some notices may be missing"
+    - listitem: "DRDO — DYSL-SM and LRDE September 2026 JRF calls: latest source check incomplete; some notices may be missing"
+    - listitem: "APEDA — August 2026 Associate Legal and Trade contracts: latest source check incomplete; some notices may be missing"
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: latest source check incomplete; some notices may be missing"
+    - listitem: "Mizoram Remote Sensing Application Centre — Group D provisional employees: latest source check incomplete; some notices may be missing"
+    - listitem: "IGNOU non-teaching recruitment advertisement 69/2026/Admn.: latest source check incomplete; some notices may be missing"
+    - listitem: "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins: latest source check incomplete; some notices may be missing"
+    - listitem: "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04: latest source check incomplete; some notices may be missing"
+    - listitem: "DNS-RICM Patna — August 2026 contract Lecturer recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "IIT Bombay — rolling faculty recruitment L-10/25-26: latest source check incomplete; some notices may be missing"
+    - listitem: "NLSIU — Professor (Law), Notification 15/2026: latest source check incomplete; some notices may be missing"
+    - listitem: "IISER Kolkata — non-teaching direct recruitment NT-04/2026: latest source check incomplete; some notices may be missing"
+    - listitem: "ISRO Propulsion Complex — direct recruitment IPRC/RMT/2026/01: latest source check incomplete; some notices may be missing"
+    - listitem: "NIT Uttarakhand — non-teaching staff 08/2026: latest source check incomplete; some notices may be missing"
+    - listitem: "Kendriya Vidyalaya Sangathan — deputation recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "Andaman and Nicobar Administration — Common Recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "Assam Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "Goalpara District Administration — Foreigners Tribunal No. 8 Copyist: latest source check incomplete; some notices may be missing"
+    - listitem: "HP Forest Department — JOA (IT) PwBD intake: latest source check incomplete; some notices may be missing"
+    - listitem: "Jammu and Kashmir Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "Jammu and Kashmir Services Selection Board: latest source check incomplete; some notices may be missing"
+    - listitem: "Jharkhand recruitment portal — child-protection appointments: latest source check incomplete; some notices may be missing"
+    - listitem: "Kerala Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "MP Employees Selection Board — Police Constable GD 2026: latest source check incomplete; some notices may be missing"
+    - listitem: "Tata Memorial Centre ACTREC — public recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "Pune Divisional Commissioner — Legal Officer 2026: latest source check incomplete; some notices may be missing"
+    - listitem: "Punjab Subordinate Services Selection Board — Group D: latest source check incomplete; some notices may be missing"
+    - listitem: "Tamil Nadu Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "Telangana State Sports Department — Physiotherapist: latest source check incomplete; some notices may be missing"
+    - listitem: "Uttar Pradesh Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "Uttarakhand Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "West Bengal Public Service Commission: latest source check incomplete; some notices may be missing"
+    - listitem: "Goa Staff Selection Commission — Group C recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "Railway Recruitment Boards — central employment notices: latest source check incomplete; some notices may be missing"
+    - listitem: "MECL — 2026 non-executive recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "PIHMCT Puducherry — Assistant Lecturer contract intake: latest source check incomplete; some notices may be missing"
+    - listitem: "IBPS — Regional Rural Banks XV recruitment: latest source check incomplete; some notices may be missing"
+    - listitem: "ICMR employment opportunities — NITHR Young Professional-I (Admin): latest source check incomplete; some notices may be missing"
+    - listitem: "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical): latest source check incomplete; some notices may be missing"
+    - listitem: "State Bank of India — official recruitment and selection updates: No connector, normalized cycle or accepted output. Complete notice inventory, linked Hindi originals, amendments, post-choice identity, exact qualifications, category/age exceptions, application-form rules, fees and timezone/cutoff require review. SCO 22 prohibits applications to both roles; SCO 15 permits both. SCO 15 official register explicitly extends closing to 28 September 2026 beyond original PDF 19 September. Junior Associate 17 filing closed 31 August; call-letter availability does not reopen applications. Research response timestamps do not update scheduled source health or validation; suggested posting cities do not establish examination venues."
+    - listitem: "Bharat Electronics Limited — September 2026 fixed-term engineer calls: Only two notices extracted from 84 cards across eleven current index pages. Other calls, archives, DOCX/cancellation attachments, category/payment forms and official jobapply landing remain gaps. Bengaluru notice claims bilingual availability but retained body is English; Hindi counterpart remains unavailable. Ghaziabad retirement dates conflict (1 August table, 31 July Hindi, 1 July English) alongside probable discharge clause; tenure body/form differ. Age relaxations, qualifications, post-degree industrial experience and official cutoff/timezone need review. Disabled pending first-output acceptance."
+    - listitem: "DRDO — DYSL-SM and LRDE September 2026 JRF calls: Only two notices extracted from fourteen current cards, which include result notices. Prior DRDO archive, other laboratories, amendments, ambiguous DYSL-SM postgraduate wording (MechanicalMechatronics), age reckoning/relaxations, email procedure, official timezone and foreign degree equivalence remain review gaps. Source disabled pending first-output acceptance."
+    - listitem: "APEDA — August 2026 Associate Legal and Trade contracts: First output needs review. Only two August associate notices extracted; five other current documents and 206 archive rows are not cycle-complete. Later amendments, international eligibility, age reckoning date, official deadline timezone, selection language, fees and interview venue need verification."
+    - listitem: "National Career Service — classified government-job discovery: Current manual index pagination captured completely; recurring automated pagination remains unimplemented. Employer notice dates/amendments, international-applicant rules, language levels and application grouping require review. India Post blob link and CISF signed link lack durable usable notices; some targets are general homepages or institutional domains needing identity verification. No cycles imported."
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: First output, degree/discipline equivalence, category relaxations, application form behavior, later amendments, interview venues, fees and wider NLSIU recruitment need founder review. Professor (Law) 15/2026 is collected separately."
+    - listitem: "Mizoram Remote Sensing Application Centre — Group D provisional employees: Only this advertisement is bound. MIRSAC Recruitment Rules, 2018, any later amendments, foreign-citizen permission, age reckoning date, selection method, duration and final posting require founder or authority review before publication."
+    - listitem: "ISRO Space Applications Centre — SAC:02:2026 temporary research positions: Only SAC:02:2026 is bound. Later corrigenda, exact degree equivalence, marks, age/category relaxations, JRF qualifying-test validity, interview venue, and other SAC/ISRO advertisements require founder checks. First output must be reviewed before publication."
+    - listitem: "IGNOU non-teaching recruitment advertisement 69/2026/Admn.: Only advertisement 69/2026/Admn. is bound. Current application form URL, later amendments, post-specific qualifications, age relaxations and Government of India eligibility certificates need founder checks. Other IGNOU recruitment remains outside this connector."
+    - listitem: "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins: Only advertisement 5-1/RCS/2026 (September) is bound. Other ICFRE institutes and notices, later corrections, project/role-specific qualifications, nationality and work permission, and selection outcomes remain gaps. Founder review required."
+    - listitem: "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04: Only advertisement 04 is bound. Later corrigenda, other DMER colleges, rank-specific qualification checks, nationality and licensing route, application receipt semantics, and selection changes remain gaps. Founder review required before publication."
+    - listitem: "NDMA — Young Consultant, Forest Fire Risk Management: Material deadline and appointment-method conflict requires original posting timestamp or NDMA amendment. mitigation.ndma.gov.in/robots.txt returned an HTML app shell and ndma.gov.in/robots.txt returned HTTP 403; no automated connector runs. This exact source is a gap, not a verified listing."
+    - listitem: "DNS-RICM Patna — August 2026 contract Lecturer recruitment: Absolute deadline, any extension, source publication date, foreign-citizen permission, age reckoning date, selection venue and subject-specific application identity require institute confirmation. Founder must resolve date conflict before approval. Other DNS-RICM calls remain gaps."
+    - listitem: "IIT Bombay — rolling faculty recruitment L-10/25-26: Only L-10/25-26 is bound. Other IIT Bombay calls, faculty ranks by academic unit, exact vacancy counts, application-portal conditions and later amendments remain gaps. Founder must review first output before publication."
+    - listitem: "NLSIU — Professor (Law), Notification 15/2026: Only Professor (Law) 15/2026 is bound here; the four other September faculty roles have a separate draft connector. Later amendments, interview details and wider NLSIU recruitment remain uncovered. First connector output needs founder review."
+    - listitem: "IISER Kolkata — non-teaching direct recruitment NT-04/2026: Only advertisement NT-04/2026 is bound. Other institute advertisements, later amendments and any further authority interpretation remain gaps; founder must resolve the eligibility-date conflict before approval."
+    - listitem: "ISRO Propulsion Complex — direct recruitment IPRC/RMT/2026/01: Only advertisement IPRC/RMT/2026/01 is bound. Later addenda, all other IPRC and ISRO recruitments, post-specific reservation and Fireman medical eligibility need founder review. Written-test city options are Tirunelveli and Chennai; exact centres and skill-test sites are not published."
+    - listitem: "NIT Uttarakhand — non-teaching staff 08/2026: Only advertisement 08/2026 is bound. Portal branch choices were inspected without registration but are not rechecked by automated collector; later amendments and other NIT recruitments remain gaps. Scanned annexed rules and route-specific conditions require founder review."
+    - listitem: "UPSC — Active Examinations: On 25 September 2026, https://www.upsc.gov.in/robots.txt redirected to the HTML homepage rather than returning text/plain rules; the collector cannot establish automated access permission and its latest check failed. Previously collected exam pages remain pending review. UPSC's old OTR application page says it is for previewing forms submitted by 25 March 2025 and directs future examinations to https://upsconline.nic.in/."
+    - listitem: "Directorate General of Training — Exam Corner: DGT robots.txt returns HTTP 403 HTML on both www.dgt.gov.in and dgt.gov.in. The collector therefore cannot establish automated access permission. Original public PDF was retained for manual research only; a permitted official feed or clarified access policy is needed before connector activation."
+    - listitem: "Oil India Limited — official advertisements: https://www.oil-india.com/robots.txt returns HTTP 403 HTML, so automated collector cannot establish a robots policy. A permitted official feed or clarified access policy is needed before connector activation."
+    - listitem: "Assam Public Service Commission: Only exact advertisement 12/2026 is extracted from the official register; its 10 September application deadline has passed. The connector is disabled pending founder acceptance. Later amendments, other APSC advertisements, separate portal listings and other Assam hiring authorities remain unverified."
+    - listitem: "Assam State Disaster Management Authority — recruitment: https://asdma.assam.gov.in/resource/recruitment and /resource/archives return HTTP 404 while authority homepage returns HTTP 200. Working official index and original notice needed before collection."
+    - listitem: "Himachal Pradesh Rajya Chayan Aayog: hprca.hp.gov.in/robots.txt returns HTTP 200 text/html containing the application shell, not a text/plain robots policy. The collector cannot establish permission for automated notice collection; no HPRCA cycles are staged or published."
+    - listitem: "HP Forest Department — JOA (IT) PwBD intake: Only this Forest Department notice is extracted. Other HP Forest recruitment rows, HPPSC, HPRCA and Jal Shakti remain unresolved; JSV robots policy was unreachable on collection host."
+    - listitem: "Himachal Pradesh Jal Shakti Vibhag — Recruitment: Previous robots access failure remains unresolved. Current index is reader-accessible; Katrain and Kullu linked originals timed out in reader. Thunag extension is a one-page scanned PDF with no extracted text; browser showed thumbnail but no readable main page. Do not accept extension date or infer closure from these failures. Original notices, amendment linkage, foreign-applicant rules and language requirements need review. No new retained original, connector, review packet or validation timestamp."
+    - listitem: "Jammu and Kashmir Public Service Commission: The official homepage resumed serving notice links on 25 September 2026 after an earlier maintenance response. Its rotating list is not a complete advertisement archive; this exact-document pilot does not establish source completeness."
+    - listitem: "Jharkhand recruitment portal — child-protection appointments: Only two child-protection notices are covered. Other recruitment entries, later amendments, JPSC and district authorities remain gaps. Deoghar Home Guard volunteer notice is excluded from salaried-job counts."
+    - listitem: "MP Employees Selection Board — Police Constable GD 2026: Only one MPESB intake is covered. Exact rulebook and revised-page hashes are pinned; later amendments, all other board tests and MPPSC notices remain uncollected."
+    - listitem: "Pune Divisional Commissioner — Legal Officer 2026: Only this Pune Division notice is covered. Other district, divisional and state departments, later amendments and Maharashtra PSC notices remain gaps."
+    - listitem: "Puducherry Government — recruitment notices: https://py.gov.in/robots.txt redirects HTTP 302 to /warning HTML; collector cannot establish text/plain robots rules. Keep automated connector disabled until official access policy is resolved."
+    - listitem: "Telangana Police Recruitment Board — 2026 recruitment: Original notice PDFs are hosted on doc.tgprb.in, whose robots.txt returns HTTP 403 (Amazon S3 AccessDenied). The public homepage host returns HTTP 404 for robots.txt. Original documents were retained only for manual research; a permitted official notice feed or clarified access policy is needed before automated collection."
+    - listitem: "India Post — general vacancies register: Every inspected notice View button opens an official 'Verify to continue' CAPTCHA dialog before the PDF can be viewed. The public register exposes titles and publication dates only; no automated connector or candidate cycle is claimed. Founder-assisted document review or a permitted official feed is needed."
+    - listitem: "Uttar Pradesh Public Service Commission: Official View Advertisement links for current D-6/E-1/2025 and D-2/E-1/2026 redirected to the UPPSC homepage during 25 September 2026 research. Exact notice qualifications, nationality, residence, language and later amendments cannot be verified from the retained table and alert alone."
+    - listitem: "Goa Staff Selection Commission — Group C recruitment: Only four post choices in GSSC Advertisement 3/2026 are normalized. CBES still shows 204 LDC/Recovery Clerk vacancies (111 UR) against GSSC's later 203 (110 UR). Other GSSC advertisements, later amendments and applicant eligibility remain unresolved."
+    - listitem: "Government of Goa CBES — Online Recruitment System: Portal's LDC/Recovery Clerk vacancy total is stale against GSSC's 21 September supplement. Other CBES advertisements and private candidate-account functions are not collected."
+    - listitem: "Railway Recruitment Boards — central employment notices: Only archived CEN 03/2026 is collected. New unified RRB Chandigarh and Chennai notice-detail routes return Request Rejected; shared portal robots.txt returns HTML rejection. Current CENs and later notices cannot be fully checked."
+    - listitem: "PIHMCT Puducherry — Assistant Lecturer contract intake: Only this PIHMCT notice is collected; other institute notices and Puducherry authorities remain coverage gaps."
+    - listitem: "ICMR employment opportunities — NITHR Young Professional-I (Admin): ICMR index and linked PDFs are fetchable. Separate NIRTH institute vacancies page has non-text robots.txt under project collector, so later institute-only amendments cannot be checked automatically; full national index pagination is not yet collected."
+    - listitem: "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical): This connector binds one September role and checks the current institute career row for a later amendment. Other NIHR/ICMR notices, historical editions and source inventory remain incomplete."
+    - listitem: "NLSIU — September 2026 faculty Notifications 16–19: scheduled checks overdue"
+    - listitem: "Mizoram Remote Sensing Application Centre — Group D provisional employees: scheduled checks overdue"
+    - listitem: "ISRO Space Applications Centre — SAC:02:2026 temporary research positions: scheduled checks overdue"
+    - listitem: "IGNOU non-teaching recruitment advertisement 69/2026/Admn.: scheduled checks overdue"
+    - listitem: "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins: scheduled checks overdue"
+    - listitem: "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04: scheduled checks overdue"
+    - listitem: "IIT Bombay — rolling faculty recruitment L-10/25-26: scheduled checks overdue"
+    - listitem: "NLSIU — Professor (Law), Notification 15/2026: scheduled checks overdue"
+    - listitem: "IISER Kolkata — non-teaching direct recruitment NT-04/2026: scheduled checks overdue"
+    - listitem: "ISRO Propulsion Complex — direct recruitment IPRC/RMT/2026/01: scheduled checks overdue"
+    - listitem: "NIT Uttarakhand — non-teaching staff 08/2026: scheduled checks overdue"
+    - listitem: "UPSC — Active Examinations: scheduled checks overdue"
+    - listitem: "SSC — Examination calendar: scheduled checks overdue"
+    - listitem: "Jammu and Kashmir Services Selection Board: scheduled checks overdue"
+    - listitem: "Jharkhand recruitment portal — child-protection appointments: scheduled checks overdue"
+    - listitem: "MP Employees Selection Board — Police Constable GD 2026: scheduled checks overdue"
+    - listitem: "Goa Staff Selection Commission — Group C recruitment: scheduled checks overdue"
+    - listitem: "PIHMCT Puducherry — Assistant Lecturer contract intake: scheduled checks overdue"
+    - listitem: "IBPS — Regional Rural Banks XV recruitment: scheduled checks overdue"
+    - listitem: "ICMR employment opportunities — NITHR Young Professional-I (Admin): scheduled checks overdue"
+    - listitem: "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical): scheduled checks overdue"
+    - listitem: "Haryana Public Service Commission: Retained scanned advertisement 25/2026 covers 45 Food Safety Officer (Group B) posts. Visually checked pages 4, 5 and 16: Indian citizens plus conditional Nepal/Bhutan subjects, specified Tibetan refugees and Indian-origin migrants; non-Indian routes require Government of India eligibility certificate. Relevant certificates must exist by the closing date. Hindi/Sanskrit school-subject qualification has no CEFR level. Food-authority training is given after appointment. Opening 28 September and closing 19 October 2026 17:00 are earlier retained notice findings; publication-date conflict remains. No live notice amendment register or appointment tenure verified."
+    - listitem: "Haryana Public Service Commission: 27 September research recheck: robots.txt still disallows /en-us/Instructions. Earlier scanned notice is retained with its exact hash and expanded nationality reading; no scheduled connector or reviewed cycle. Certificate issuance timing, qualifying foreign category evidence, service rules and amendments require founder/authority review. Reservation domicile evidence is not a universal citizenship rule; formal language equivalence and appointment tenure are unverified."
+    - listitem: "Himachal Pradesh Public Service Commission: Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified."
+    - listitem: "Himachal Pradesh Public Service Commission: Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp."
+    - listitem: "Ladakh Administration — Recruitment notices: Official Administration notification archive inspected; it carries a byte-identical copy of Police Constable 02/2026 plus a September Central Pool MBBS/BDS admission notice. Administration admissions and other departmental/local cycles have not been imported and remain gaps."
+    - listitem: "Ladakh Administration — Recruitment notices: 27 September homepage and recruitment corner retained, but no normalized or reviewed cycle. Recruitment, admissions, draft rules and selection notices require separate classification; repeat Police Constable copies must not create duplicate cycles. Original department notices, current windows, international eligibility and language rules remain gaps."
+    - listitem: "Lakshadweep Administration — Recruitments: Official recruitment and circular indexes checked manually. September 2026 Veterinary Assistant Surgeon and Cardiologist notices are retained as research, not published or collected; selection lists and draft rules are not application cycles. Other departmental/local sources remain gaps."
+    - listitem: "Lakshadweep Administration — Recruitments: 27 September primary recruitment entry recheck failed because robots.txt returned non-text content. Previous notice-CDN robots restriction and manual Veterinary Assistant Surgeon/Cardiologist research remain history. Neither failure nor source disappearance means closure; permitted original notices remain needed."
+    - listitem: "Madhya Pradesh Public Service Commission: Reader-only research, awaiting review. MPPSC Assistant Director Fisheries 11/2026 original, dated 6 July, lists 14 vacancies, gazetted Class II and temporary post status. Online applications 17 July–16 August 2026; paper documents separately due 25 August at 18:00, official timezone unknown. Qualifications must exist by 16 August; five years specified experience and postgraduate/training conditions need review. Age 21–under 40 as at 1 January 2027 before exceptions. Interview selection, with written examination conditional on more than 500 eligible applicants. Printed page 4 invites Indian citizens and other categories recognized under India's Constitution; this does not establish unrestricted international eligibility. Other-state reservation rules are distinct from foreign citizenship. Hindi original does not establish a language proficiency requirement; language level remains unknown."
+    - listitem: "Madhya Pradesh Public Service Commission: Scheduled collection remains blocked by existing robots.txt disallow for /. Current reader home/detail/PDF attempts failed; ordinary browser rendered advertisements after delayed table loading, HTML details and 17-page Fisheries original. Do not infer empty inventory from initial unloaded table. Exact original is unretained and amendments unreconciled; original and late-document dates are not accepted current windows. Website footer 26 September is not successful-fetch or validation time. No connector activation, new cycle, review packet, source-health timestamp or published eligibility result."
+    - listitem: "Maharashtra Public Service Commission: Reader-only browser research confirms official MPSC home, footer dated 24 September 2026, showing interview schedule 105/2025, revised candidate instructions, FAQ and examination/typing guidance. Interview, answer-sheet and mock-test announcements do not establish fresh application windows. Revised-instructions link did not expose its document during this check. No individual appointment type, foreign-citizen rule or mandatory language level was accepted; English interface is not a proficiency requirement."
+    - listitem: "Maharashtra Public Service Commission: Earlier public notice API robots restrictions remain unresolved. Reader initially failed; ordinary browser subsequently displayed the official homepage, but no current original advertisement or revised-instructions document was read. Browser rendering does not clear scheduled collector access or prove complete/empty vacancy coverage. Permitted feed, exact notices and amendment history remain required; no new original bytes, health timestamp, connector or review packet."
+    - listitem: "Puducherry Government — Recruitment: 27 September research retained two scanned original notices from public RenderNotification links. Contract-specialist notice dated 27 May invites Indian citizens for two-year engagements; one shared PDF covers five role families and ten posts, while the portal has role-specific routes. Police IRBn male Sub-Inspector 1025/2026 addendum has eight posts and requires Indian citizenship plus Puducherry native/resident status and domicile evidence. Its window is 18 May–1 June 2026; the specialist original window is 28 May–19 June. These historical notice windows do not establish a currently open intake. Language thresholds and complete service conditions remain unreviewed."
+    - listitem: "Puducherry Government — Recruitment: No adapter or reviewed cycle. Earlier CGL2026001 row/notice conflict (13 versus 14 April 2026) remains unresolved. Newly retained Police 1025/2026 addendum is specific to that post; its May/June dates cannot be applied to every original CGL post. Full scanned originals, multilingual assessment, amendment histories, role/form identity, cutoff timezone, qualifications, exclusions and exact appointment tenure need review. Two-year contract is explicit only for the specialist notice; Group B alone does not prove permanent tenure."
+    - listitem: "Punjab Public Service Commission: Reader-only research, awaiting review. PPSC Open Advertisement page explicitly displayed no open advertisements on 27 September; this is one directory observation, not Punjab-wide absence or reviewed checked-empty coverage. Official 4 August 2026 Senior Assistant letter concerns four posts by transfer from serving Senior Assistants in other Punjab government departments, not unrestricted fresh recruitment. Punjabi page 1 gives completed probation, satisfactory service and no pending disciplinary/vigilance inquiry; forwarding within 21 days and handwritten 25 August receipt date, official timezone unknown. One-year probation after transfer. Citizenship and language proficiency remain unestablished; Punjabi document language is not a qualification level. Exam slots, answer keys and internal service registers are not new public application windows."
+    - listitem: "Punjab Public Service Commission: Previous collector HTTP 302 and session-expiry history remain unresolved. Current reader homepage/open-advertisement routes timed out or were inaccessible; ordinary browser displayed explicit empty open index and two-page Punjabi transfer PDF reached through Senior Assistant announcement. Generic usermanual.ashx filename was visually checked against the letter; only page 1 interpreted. Raw original, complete conditions, amendments and translation acceptance remain pending. Reader access does not clear scheduled access permission, source freshness or whole-state authority gaps. No new retained original, connector, draft cycle or validation timestamp."
+    - listitem: "Telangana Public Service Commission: Reader-only research, awaiting review. Official legacy homepage links the new TGPSC portal. Manager (Engineering) 04/OG/HM/2026 guide specifies 130 provisional HMWSSB vacancies, direct recruitment and Indian citizenship; foreign citizens do not meet this notice's nationality rule. Engineering qualification must be declared by 18 September 2026; citizenship cannot override age or qualifications. Original application dates 23 September–17 October 2026, close 5:00 PM, official timezone unknown. Paper I English/Telugu, Paper II English; Basic English syllabus is 10th-class standard, not a proficiency certificate. Local reservation is separate from nationality; other-state applicants receive no reservation. OTR registration alone is not an application. Permanent tenure unverified."
+    - listitem: "Telangana Public Service Commission: New portal returned reader 403 but ordinary browser displayed current official notices; linked 42-page Manager guide, brief web note and 21 September syllabus clarification were readable through web research. Browser access does not clear previous non-text robots response, scheduled collector permission or health. Originals and amendment reconciliation remain unretained/unreviewed. Departmental tests, cancellation notices and selection results are not fresh unrestricted job applications. No new cycle, health timestamp, venue pin or accepted eligibility result."
+    - listitem: "India — GATE postgraduate entrance and accepted recruitment scores: No adapter or reviewed application cycle. Foreign-passport registration instructions are stricter than the FAQ’s broader photo-ID examples and need reconciliation. Original brochure, live deadline notices, fees, institution-specific admission/PSU nationality rules and published venues need review; no cutoff time or timezone inferred."
+    - listitem: "India — Joint Admission Test for Masters (JAM): No adapter or reviewed cycle. General nationality wording cannot override the Indian-degree admission clause. Institute-specific foreign-degree routes, English requirements, exact cutoff/timezone, fees, degree-subject requirements, result-sharing admission applications and later corrections need review. Brochure v2 retained; FAQ contains application-correction statements needing reconciliation."
+    - listitem: "India — JEE (Main) undergraduate entrance: No adapter or reviewed cycle. General foreign-national application permission needs further official clarification; JEE Advanced, JoSAA, DASA and each institution have distinct eligibility and counselling rules. Current registration notices, fees, full language/centre table, exact deadlines and 2027 edition remain unresolved."
+    - listitem: "India — CUET (UG) university entrance: No adapter or reviewed cycle. CUET index exact-byte access failed while fetching robots.txt; linked 2026 PDF retained separately. University-specific foreign-admission/exemption routes, current public notices, subject-language requirements, fees, deadlines and later editions remain gaps. Successful PDF research is not a connected or validated collector."
+    - listitem: "India — NEET (UG) medical entrance: No adapter or reviewed cycle. Later re-examination, refunds, results and venue changes require revision linking within the same annual cycle, not duplicate opportunity counts. State/institution foreign quotas, qualifying education equivalence, admission dates, fees, original-language requirements and subsequent licensing remain unresolved. Scanned re-examination notice retained and visually read; extraction/translation acceptance pending."
+    - listitem: "MP Employees Selection Board — Subedar Stenographer and ASI 2026: Exact rulebook and live home/dashboard/form identities are pinned. One intake only; other ESB, MPPSC and departmental notices remain gaps. Hindi translation, complete qualifications, age/category conditions, combined fees, midnight interpretation, selection venues and final service rules await founder review. Live staging reached the 800 MiB retained-evidence storage limit; no review packet was created. Write-free live extraction passed; publication remains unavailable."
+    - listitem: "India — Reserve Bank of India careers: Browser-read HTML research awaiting review; reader returned human-verification pages. No CAPTCHA solved, raw originals retained, adapter accepted or cycle published. Grade B language appendices and Assistant office-language mapping PDF inaccessible to reader and not accepted. Assistant original March window and tentative examination dates must be reconciled with linked corrigendum/April notices before publication. Full nationality category definitions, age, qualification equivalence, attempts, reservation conditions and official timezone require review. Online examinations occur at allocated centres, not assumed remote-from-home tests. National scope has no state tags inferred from examination cities. Complete RBI and other-pathway coverage unverified."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse all Indian states and union territories →":
+      - /url: /coverage/#india-sources
+  - paragraph:
+    - link "Browse India opportunities →":
+      - /url: /?country=IN
+- button "Open Next.js Dev Tools":
+- alert
+
+FJ
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Fiji FJ" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Fiji.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Fiji Government — Ministry of Immigration
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Fiji — Ministry of Immigration vacancies ↗":
+      - /url: https://admin.immigration.gov.fj/vacancies/
+    - generic: Fiji Government — Ministry of Immigration
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official ministry page lists permanent clerical pools MOI 5/2026 and 6/2026 in Suva. Printed deadline is 23 February 2026 at 16:30, despite available-now heading; elapsed intake must not be presented as open. Ministry employment criteria require Fijian citizenship, age below 60, good character, sound health and clear police record, with medical/police evidence before duty. Equal-opportunity wording does not remove citizenship restriction. Government recruitment portal is linked for applications and role descriptions; reader access timed out. No formal language level established. Suva is work location, not examination venue.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery awaiting review; no adapter, retained originals or accepted cycles. Central recruitment portal reader timed out; browser navigation/observation also timed out without usable page. Role descriptions, full qualifications, language conditions, amendments and governing timezone remain unknown. Ministry restriction does not establish eligibility across all public employers. Stale-heading/date conflict needs review. Complete national/subnational authority and other-pathway coverage unresolved.
+    - link "Source identification evidence ↗":
+      - /url: https://admin.immigration.gov.fj/vacancies/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Fiji — Ministry of Immigration vacancies: Reader-only discovery awaiting review; no adapter, retained originals or accepted cycles. Central recruitment portal reader timed out; browser navigation/observation also timed out without usable page. Role descriptions, full qualifications, language conditions, amendments and governing timezone remain unknown. Ministry restriction does not establish eligibility across all public employers. Stale-heading/date conflict needs review. Complete national/subnational authority and other-pathway coverage unresolved."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Fiji opportunities →":
+      - /url: /?country=FJ
+- button "Open Next.js Dev Tools":
+- alert
+
+PG
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Papua New Guinea PG" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Papua New Guinea.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Papua New Guinea — Department of Personnel Management
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Papua New Guinea — Department of Personnel Management careers ↗":
+      - /url: https://www.dpm.gov.pg/jobs
+    - generic: Papua New Guinea — Department of Personnel Management
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "DPM official careers page directs readers to vacancy gazettes. Separate jobs.dpm.gov.pg recruitment interface eventually rendered 15 opening cards where reader returned no content; this is not an accepted cycle count. Browser sample ENBPHA 002 displays public-servant/full-time labels and 23–30 September 2026 date-only window, but job description, qualifications, skills, experience and knowledge all say Test. Sample authenticity and production readiness are unresolved: no job fields accepted for publication. General Order 11 non-citizen employment PDF surfaced in search, but current reader access failed; search excerpts are discovery leads, not reviewed permission. No language level established."
+    - strong: Collection gap
+    - paragraph: Directory discovery awaiting review; no adapter, retained originals or accepted cycle. The separate recruitment interface has placeholder sample fields and no government-homepage link to it was established in this check. Gazette/original authority reconciliation and explicit production confirmation required. No PDF download buttons clicked. Non-citizen General Order 11 is dated fourth edition 2012; current document, amendments, notice applicability and contract route require review. Interface labels, displayed dates and no-interview status cannot establish verified selection. No checked-empty conclusion. Complete provincial/public-authority and other-pathway coverage unresolved.
+    - link "Source identification evidence ↗":
+      - /url: https://www.dpm.gov.pg/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Papua New Guinea — Department of Personnel Management careers: Directory discovery awaiting review; no adapter, retained originals or accepted cycle. The separate recruitment interface has placeholder sample fields and no government-homepage link to it was established in this check. Gazette/original authority reconciliation and explicit production confirmation required. No PDF download buttons clicked. Non-citizen General Order 11 is dated fourth edition 2012; current document, amendments, notice applicability and contract route require review. Interface labels, displayed dates and no-interview status cannot establish verified selection. No checked-empty conclusion. Complete provincial/public-authority and other-pathway coverage unresolved."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Papua New Guinea opportunities →":
+      - /url: /?country=PG
+- button "Open Next.js Dev Tools":
+- alert
+
+SB
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Solomon Islands SB" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Solomon Islands.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Solomon Islands Government — Ministry of Public Service and advertising authorities
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Solomon Islands — Government vacancies ↗":
+      - /url: https://solomons.gov.sb/vacancy/
+    - generic: Solomon Islands Government — Ministry of Public Service and advertising authorities
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Ministry public-service application page identifies government vacancy directory and forms. Browser directory lists ministries, provincial authorities and programme adverts; public-employer identity must be checked per notice. SIIRD Graduate Training Cohort 3/2026 sample offers 25 graduate positions, 12–18 months training, with later permanent positions considered based on performance rather than guaranteed. EOI closed 25 September 2026 at 16:30, timezone unstated. Full Time label does not establish permanent tenure. Listed degree fields and supporting documents apply; no nationality or formal language threshold established. Honiara/HR office is work/submission location, not selection venue. Repeated ministry notices need intake reconciliation.
+    - strong: Collection gap
+    - paragraph: Reader timeouts; ordinary browser list and graduate detail read. No adapter, retained original, accepted cycle or publication. Linked DOCX application cover sheet unopened and not downloaded. Foreign citizenship, residence, permits, selection stages, language conditions, governing timezone and amendments require original authority review. Government-hosted partner adverts must not automatically become government jobs. Archive presence does not mean intake open. Complete public-employer and other-pathway coverage unresolved.
+    - link "Source identification evidence ↗":
+      - /url: https://solomons.gov.sb/ministry-of-public-service/essential-services/apply-for-a-public-service-position/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Solomon Islands — Government vacancies: Reader timeouts; ordinary browser list and graduate detail read. No adapter, retained original, accepted cycle or publication. Linked DOCX application cover sheet unopened and not downloaded. Foreign citizenship, residence, permits, selection stages, language conditions, governing timezone and amendments require original authority review. Government-hosted partner adverts must not automatically become government jobs. Archive presence does not mean intake open. Complete public-employer and other-pathway coverage unresolved."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Solomon Islands opportunities →":
+      - /url: /?country=SB
+- button "Open Next.js Dev Tools":
+- alert
+
+WS
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Samoa WS" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Samoa.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Samoa Public Service Commission
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Samoa — Public Service Commission recruitment ↗":
+      - /url: https://www.psc.gov.ws/employment/contract-vacancies/
+    - generic: Samoa Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: PSC current homepage links Public Service Official Circular issue 36/2026 dated 22 September, containing contract, permanent and term vacancies separately from appointments/appeals. Contract page sample AG003269 ACEO Crops closes 5 October 2026 and excludes late applications after 17:00; timezone unverified. Exact ZIP role package could not be read and remains unaccepted, so nationality/language/qualifications unknown. Re-advertisements explicitly distinguish previous applicants who need or need not reapply. Issue 36 uses WS002600 for Children, Youth & Family Development while contract table uses FA002600; conflict needs review before intake matching. Appeal deadline is not an application window.
+    - strong: Collection gap
+    - paragraph: Reader-only HTML/PDF research awaiting review; no adapter, retained originals or accepted cycle. AG003269 application ZIP reader unsupported; no download/extraction outside evidence cap. Circular PDF text has table-order ambiguity; original visual/table reconciliation required. Contract page template timestamp 2025 coexists with 2026 records; do not use template date as notice date. Nationality, residence, age, full qualifications, named languages, formal levels, timezone, permitted collection and amendments unresolved. Internal positions and public-sector/partner adverts require scope checks. Complete authority and other-pathway coverage unverified.
+    - link "Source identification evidence ↗":
+      - /url: https://www.psc.gov.ws/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Samoa — Public Service Commission recruitment: Reader-only HTML/PDF research awaiting review; no adapter, retained originals or accepted cycle. AG003269 application ZIP reader unsupported; no download/extraction outside evidence cap. Circular PDF text has table-order ambiguity; original visual/table reconciliation required. Contract page template timestamp 2025 coexists with 2026 records; do not use template date as notice date. Nationality, residence, age, full qualifications, named languages, formal levels, timezone, permitted collection and amendments unresolved. Internal positions and public-sector/partner adverts require scope checks. Complete authority and other-pathway coverage unverified."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Samoa opportunities →":
+      - /url: /?country=WS
+- button "Open Next.js Dev Tools":
+- alert

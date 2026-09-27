@@ -1,0 +1,23 @@
+{
+  "publicDataBuild": {
+    "sessionId": 91580,
+    "exitCode": 0
+  },
+  "focusedTests": {
+    "sessionId": 80220,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0
+  },
+  "productionBuildRun": false,
+  "fullSuiteRerun": false,
+  "browserNavigationTimeout": "Recovered by same-tab observation; no restart. Shared query checked after client hydration.",
+  "finalVerifier": {
+    "sessionId": 47703,
+    "exitCode": 0,
+    "registeredSources": 206,
+    "disabledSourcesAdded": 4,
+    "protectedFilesUnchanged": 83,
+    "savedFiles": 18
+  }
+}

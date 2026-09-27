@@ -1,0 +1,315 @@
+# IM
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Isle of Man IM" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Isle of Man.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Isle of Man Government — Office of Human Resources
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Isle of Man — Public Service careers ↗":
+      - /url: https://www.jobtrain.co.uk/iomgovjobs/Home/Job
+    - generic: Isle of Man Government — Office of Human Resources
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Government page identifies Jobtrain as its public-sector recruitment service. Browser list includes permanent, limited-term and internal-only roles; reader's zero-row response is not an empty-inventory result. Sample DOEF-025466 Grounds Staff (JobId 35546) is permanent, full-time at Curraghs Wildlife Park, closes 12 October 2026 and offers no relocation package. Detail says applications accepted up to midnight of closing date; boundary meaning and official timezone require review, not an invented 23:59 cutoff. Guidance separates Isle of Man Worker/local work-permit status from Worker Migrant visa and employer Confirmation of Employment. Relocation support or its absence is not nationality permission. No sample language threshold verified; person specification unreviewed.
+    - strong: Collection gap
+    - paragraph: Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Supporting job-description PDF reader inaccessible. Full qualifications, nationality, actual selection requirements, formal language levels, permitted collection and amendments remain gaps. Guidance nationality/visa categories require current immigration reconciliation; local worker status is separate from citizenship. Internal-only roles must not become external intakes. Park is work location, not examination venue. Complete public-employer and other-pathway coverage unverified.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.im/categories/working-in-the-isle-of-man/finding-a-job/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Isle of Man — Public Service careers: Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Supporting job-description PDF reader inaccessible. Full qualifications, nationality, actual selection requirements, formal language levels, permitted collection and amendments remain gaps. Guidance nationality/visa categories require current immigration reconciliation; local worker status is separate from citizenship. Internal-only roles must not become external intakes. Park is work location, not examination venue. Complete public-employer and other-pathway coverage unverified."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Isle of Man opportunities →":
+      - /url: /?country=IM
+- button "Open Next.js Dev Tools":
+- alert
+
+# JE
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Jersey JE" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Jersey.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Jersey — Jersey Public Service
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Jersey — Public Service careers ↗":
+      - /url: https://careers.gov.je/
+    - generic: Government of Jersey — Jersey Public Service
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Government Jobs in Jersey page separates public-service portal from private-sector jobs. Sample Lecturer - Media Studies is permanent/full-time, closes 11 October 2026 date-only and requires candidate to be entitled for work. Residential/employment status, immigration permission and nationality are separate. Recruitment policy version 1.2 effective 27 March 2026 permits licensed recruitment only in limited circumstances; it does not guarantee sponsorship for every post. Lecturer criteria include level-two literacy/numeracy and fluent effective communication, without a named language or CEFR threshold. Work-permit policy Appendix 3 states English CEFR B1 across four skills for applicable routes, IELTS for UKVI 4.0 overall and each component, with exemptions/alternative proofs; this is immigration evidence, not a universal job-entry requirement.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Exact candidate employment status, immigration exceptions, licensed permission, qualifications, amendments, application opening/timezone and language-route applicability require review. General moving-to-Jersey page simplifies work-permit rules; detailed policy lists additional exemptions and controls interpretation. Permit English B1 must not override the sample's entitled-for-work restriction or substitute for qualifications. Current employees use separate internal Connect People portal. Complete public-authority and other-pathway coverage unverified.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.je/working/jobcareeradvice/pages/jobs.aspx
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Jersey — Public Service careers: Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Exact candidate employment status, immigration exceptions, licensed permission, qualifications, amendments, application opening/timezone and language-route applicability require review. General moving-to-Jersey page simplifies work-permit rules; detailed policy lists additional exemptions and controls interpretation. Permit English B1 must not override the sample's entitled-for-work restriction or substitute for qualifications. Current employees use separate internal Connect People portal. Complete public-authority and other-pathway coverage unverified."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Jersey opportunities →":
+      - /url: /?country=JE
+- button "Open Next.js Dev Tools":
+- alert
+
+# GG
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Guernsey GG" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Guernsey.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Guernsey Financial Services Commission
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Guernsey — Financial Services Commission careers ↗":
+      - /url: https://www.gfsc.gg/careers
+    - generic: Guernsey Financial Services Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Commission identifies itself as independent public body accountable to States of Guernsey, funded by regulated licensees. Its own recruitment is public-regulator employment; private jobs at regulated firms are outside source scope. Sample Analyst - Investment, Fiduciary and Pension Division closes 30 September 2026 date-only, timezone unknown. Linked September 2026 job description requires clear written work and professional communication without a named language or formal proficiency level. Tenure and foreign-national permission are unstated in checked sample. Relocation information is not work/immigration permission. Speculative applications and graduate/school-leaver routes are distinct from specific application cycles.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery awaiting review; no adapter, retained originals/hash, accepted connector or published cycle. Sample two-page PDF text read, exact bytes not accepted. Nationality, residence, permit/sponsorship, tenure, qualifications, amendments and cutoff timezone need authority review. States of Guernsey careers page reader failed and browser ended ERR_CONNECTION_TIMED_OUT; it remains an unresolved separate public-service source, not checked-empty. Regulator source does not complete Bailiwick public-employer coverage or other pathways.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gfsc.gg/careers
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Guernsey — Financial Services Commission careers: Reader-only discovery awaiting review; no adapter, retained originals/hash, accepted connector or published cycle. Sample two-page PDF text read, exact bytes not accepted. Nationality, residence, permit/sponsorship, tenure, qualifications, amendments and cutoff timezone need authority review. States of Guernsey careers page reader failed and browser ended ERR_CONNECTION_TIMED_OUT; it remains an unresolved separate public-service source, not checked-empty. Regulator source does not complete Bailiwick public-employer coverage or other pathways."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Guernsey opportunities →":
+      - /url: /?country=GG
+- button "Open Next.js Dev Tools":
+- alert
+
+# GI
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Gibraltar GI" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Gibraltar.
+  - paragraph: Not a government website—confirm on official site. Directory built date unavailable.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: HM Government of Gibraltar — Department of Personnel and Development
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Gibraltar — Government job opportunities ↗":
+      - /url: https://www.gibraltar.gov.gi/press/job-opportunities
+    - generic: HM Government of Gibraltar — Department of Personnel and Development
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Government recruitment department identifies external press notices and separate internal circulars. Job Opportunities archive includes passed deadlines, not only open applications. Administrative Assistant sample published 26 August 2026 is permanent, requires Gibraltar right of abode/red ID card and five specified school passes including English Language and Mathematics, held at application. Expression of Interest closed 9 September; written selection at Bayside Comprehensive School was scheduled 19 September 09:00–12:00, with later full applications only after qualifying exam pass. Right of abode is separate from nationality; external public recruitment does not mean every foreign citizen qualifies. English school qualification is not CEFR. Government banner clock is not evidence of governing deadline timezone.
+    - strong: Collection gap
+    - paragraph: Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample detail reader initially returned then timed out; full current rendered browser detail read. Linked notice image and person specification remain unreviewed. Closed Expression of Interest must not become an open full-application intake; candidate-specific later-stage notices and exact intake identity need review. Right-of-abode acquisition, nationality exceptions, full qualifications, amendments and official timezone unverified. Linked Microsoft form not opened or adopted as a published application URL. Full authority inventory and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gibraltar.gov.gi/ministers/portfolios/personnel-development
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Gibraltar — Government job opportunities: Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample detail reader initially returned then timed out; full current rendered browser detail read. Linked notice image and person specification remain unreviewed. Closed Expression of Interest must not become an open full-application intake; candidate-specific later-stage notices and exact intake identity need review. Right-of-abode acquisition, nationality exceptions, full qualifications, amendments and official timezone unverified. Linked Microsoft form not opened or adopted as a published application URL. Full authority inventory and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Gibraltar opportunities →":
+      - /url: /?country=GI
+- button "Open Next.js Dev Tools":
+- alert
+
+# JE-shared
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Jersey JE" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Jersey.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Jersey — Jersey Public Service
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources": CEFR B1
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Jersey — Public Service careers ↗":
+      - /url: https://careers.gov.je/
+    - generic: Government of Jersey — Jersey Public Service
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Government Jobs in Jersey page separates public-service portal from private-sector jobs. Sample Lecturer - Media Studies is permanent/full-time, closes 11 October 2026 date-only and requires candidate to be entitled for work. Residential/employment status, immigration permission and nationality are separate. Recruitment policy version 1.2 effective 27 March 2026 permits licensed recruitment only in limited circumstances; it does not guarantee sponsorship for every post. Lecturer criteria include level-two literacy/numeracy and fluent effective communication, without a named language or CEFR threshold. Work-permit policy Appendix 3 states English CEFR B1 across four skills for applicable routes, IELTS for UKVI 4.0 overall and each component, with exemptions/alternative proofs; this is immigration evidence, not a universal job-entry requirement.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Exact candidate employment status, immigration exceptions, licensed permission, qualifications, amendments, application opening/timezone and language-route applicability require review. General moving-to-Jersey page simplifies work-permit rules; detailed policy lists additional exemptions and controls interpretation. Permit English B1 must not override the sample's entitled-for-work restriction or substitute for qualifications. Current employees use separate internal Connect People portal. Complete public-authority and other-pathway coverage unverified.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.je/working/jobcareeradvice/pages/jobs.aspx
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Jersey — Public Service careers: Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Exact candidate employment status, immigration exceptions, licensed permission, qualifications, amendments, application opening/timezone and language-route applicability require review. General moving-to-Jersey page simplifies work-permit rules; detailed policy lists additional exemptions and controls interpretation. Permit English B1 must not override the sample's entitled-for-work restriction or substitute for qualifications. Current employees use separate internal Connect People portal. Complete public-authority and other-pathway coverage unverified."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Jersey opportunities →":
+      - /url: /?country=JE
+- button "Open Next.js Dev Tools":
+- alert

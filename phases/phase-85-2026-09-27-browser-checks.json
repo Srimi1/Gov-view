@@ -1,0 +1,38 @@
+{
+  "status": "partial; current localhost blocked by Chrome",
+  "countries": {
+    "IN": {
+      "earlierOneSource": true,
+      "earlierAwaitingReview": true,
+      "earlierCycleCountWarning": true,
+      "currentPreview": false
+    },
+    "MH": {
+      "earlierOneSource": true,
+      "earlierUnknownFreshness": true,
+      "earlierBlockedCoverageLabel": true,
+      "currentPreview": false
+    },
+    "NR": {
+      "currentPreview": false
+    },
+    "NU": {
+      "currentPreview": false
+    }
+  },
+  "indiaNationalityResidenceIndependent": true,
+  "marshallNonCitizenNotWorkPermission": true,
+  "nauruSeparateExpatriateRoute": true,
+  "niueDesirableLanguageAndReferenceConflict": true,
+  "sharedIndiaViewRestored": null,
+  "indiaClearRestores102": null,
+  "publicStateOnly": null,
+  "noFalseEmptyInventory": null,
+  "failures": [
+    "Initial India hydration showed all sources before filter settled; filling SJVN showed 1 of 102 and research gap. Shared restore and clear not completed.",
+    "Marshall Islands earlier AX rendered one source, Never fetch/validation, blocked/not-connected label and awaiting-review research.",
+    "Nauru Internal Server Error; Niue build error names @swc/helpers. Installed helper files subsequently read; dev server restarted and ready.",
+    "Current India screenshot: localhost is blocked / ERR_BLOCKED_BY_CLIENT. Tab CDP timeouts persisted. No browser protections weakened."
+  ],
+  "screenshot": "phases/phase-85-2026-09-27-browser-blocked.png"
+}

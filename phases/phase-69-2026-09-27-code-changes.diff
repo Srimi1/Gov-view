@@ -1,0 +1,200 @@
+--- before/components/SourceDirectory.tsx
++++ after/components/SourceDirectory.tsx
+@@ -1,6 +1,7 @@
+ "use client";
+ 
+-import { useState } from "react";
++import { useEffect, useState } from "react";
++import { filterSourceDirectory, readSourceFilters, sourceFilterSearch, type SourceFilters } from "@/lib/source-directory";
+ 
+ /** Public display fields only; collector configuration stays on the server. */
+ export interface SourceDirectoryEntry {
+@@ -16,22 +17,47 @@
+   discoveredAt?: string;
+ }
+ 
+-export default function SourceDirectory({ entries }: { entries: SourceDirectoryEntry[] }) {
+-  const [query, setQuery] = useState("");
+-  const needle = query.trim().toLocaleLowerCase();
+-  const visible = entries.filter((entry) => [
+-    entry.name, entry.authority, entry.notes, entry.accessGap,
+-    ...entry.jurisdictions.flatMap(({ code, name }) => [code, name]),
+-  ].join(" ").toLocaleLowerCase().includes(needle));
++const noJurisdictionOptions: { code: string; name: string }[] = [];
++
++export default function SourceDirectory({ entries, jurisdictionOptions = noJurisdictionOptions }: {
++  entries: SourceDirectoryEntry[];
++  jurisdictionOptions?: { code: string; name: string }[];
++}) {
++  const [filters, setFilters] = useState<SourceFilters>({ query: "", jurisdiction: "", includeUnscoped: false });
++  useEffect(() => {
++    const restore = () => setFilters(readSourceFilters(window.location.search, jurisdictionOptions));
++    restore();
++    window.addEventListener("popstate", restore);
++    return () => window.removeEventListener("popstate", restore);
++  }, [jurisdictionOptions]);
++  const updateFilters = (next: SourceFilters) => {
++    setFilters(next);
++    window.history.replaceState(window.history.state, "", `${window.location.pathname}${sourceFilterSearch(next)}${window.location.hash}`);
++  };
++  const visible = filterSourceDirectory(entries, filters);
++  const selectedJurisdiction = jurisdictionOptions.find(option => option.code === filters.jurisdiction);
+ 
+   return <>
+     <p>Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.</p>
++    {jurisdictionOptions.length > 0 && <>
++      <label className="country-search" htmlFor="source-jurisdiction">Source jurisdiction
++        <select id="source-jurisdiction" value={filters.jurisdiction} onChange={event => updateFilters({ ...filters, jurisdiction: event.target.value })} aria-describedby="source-jurisdiction-help">
++          <option value="">All source jurisdictions</option>
++          {jurisdictionOptions.map(({ code, name }) => <option key={code} value={code}>{name}</option>)}
++        </select>
++      </label>
++      <p id="source-jurisdiction-help" className="source-search-help">Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.</p>
++      {filters.jurisdiction && <label className="source-scope-option">
++        <input type="checkbox" checked={filters.includeUnscoped} onChange={event => updateFilters({ ...filters, includeUnscoped: event.target.checked })} />
++        Include sources without a recorded state or territory scope
++      </label>}
++    </>}
+     <label className="country-search" htmlFor="source-search">Search official sources
+-      <input id="source-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Authority, state, citizenship or language" aria-describedby="source-search-help" />
++      <input id="source-search" type="search" maxLength={200} value={filters.query} onChange={(event) => updateFilters({ ...filters, query: event.target.value })} placeholder="Authority, state, citizenship or language" aria-describedby="source-search-help" />
+     </label>
+     <p id="source-search-help" className="source-search-help">Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.</p>
+-    <p className="country-results" role="status">{visible.length} of {entries.length} registered sources. Source counts are not application-cycle counts.</p>
+-    {query && <button type="button" className="source-clear" onClick={() => setQuery("")}>Clear source search</button>}
++    <p className="country-results" role="status">{visible.length} of {entries.length} registered sources{selectedJurisdiction ? ` · ${selectedJurisdiction.name}` : ""}. Source counts are not application-cycle counts.</p>
++    {(filters.query || filters.jurisdiction) && <button type="button" className="source-clear" onClick={() => updateFilters({ query: "", jurisdiction: "", includeUnscoped: false })}>Clear source filters</button>}
+     {visible.length ? <ul className="country-source-list">{visible.map((entry) => <li key={entry.id}>
+       <a href={entry.homepage} target="_blank" rel="noopener noreferrer">{entry.name} ↗</a>
+       <span>{entry.authority}</span>
+--- before/app/coverage/[code]/page.tsx
++++ after/app/coverage/[code]/page.tsx
+@@ -5,7 +5,7 @@
+ import { withBase } from "@/lib/base-path";
+ import { coverageLabel, researchLabel } from "@/lib/coverage-labels";
+ import { dateLabel } from "@/lib/format";
+-import { countryCodes, countryName, subdivisionName } from "@/lib/places";
++import { countryCodes, countryName, subdivisionName, subdivisionsByCountry } from "@/lib/places";
+ import { publishedOverview } from "@/lib/published.server";
+ 
+ type Props = { params: Promise<{ code: string }> };
+@@ -70,7 +70,7 @@
+         </section>
+         <section id="official-sources">
+           <h2>Official sources</h2>
+-          {registered.length ? <SourceDirectory entries={sourceEntries} /> : <p>No official source is registered for this place yet. This does not mean there are no opportunities.</p>}
++          {registered.length ? <SourceDirectory entries={sourceEntries} jurisdictionOptions={(subdivisionsByCountry[code] ?? []).map(([code, name]) => ({ code, name }))} /> : <p>No official source is registered for this place yet. This does not mean there are no opportunities.</p>}
+         </section>
+         <section>
+           <h2>Known gaps</h2>
+--- before/app/coverage/page.tsx
++++ after/app/coverage/page.tsx
+@@ -89,7 +89,7 @@
+               {indiaSubdivisions.map(([code, name]) => {
+                 const regionalSources = sources.filter((source) => source.country === "IN" && source.subdivisionCodes?.includes(code));
+                 return <article className="coverage-card" key={code}>
+-                  <h3>{name}</h3>
++                  <h3><a href={withBase(`/coverage/IN/?state=${code}#official-sources`)}>{name}</a></h3>
+                   <ul className="source-list">
+                     {regionalSources.map((source) => <li key={source.id}>
+                       <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name} ↗</a>
+--- before/app/globals.css
++++ after/app/globals.css
+@@ -280,6 +280,8 @@
+ .source-research p, .source-gap p, .source-search-help { color: var(--ink-2); font-size: 14px; line-height: 1.6; }
+ .source-search-help { max-width: 560px; margin-top: 8px; }
+ .source-clear { min-height: 44px; padding: 8px 12px; border: 1px solid var(--rule-strong); border-radius: var(--radius); background: var(--surface); color: var(--ink); cursor: pointer; }
++.country-search select { width: 100%; min-height: 44px; padding: 8px 12px; border: 1px solid var(--rule-strong); border-radius: var(--radius); background: var(--surface); color: var(--ink); }
++.source-scope-option { display: flex; align-items: center; gap: 8px; min-height: 44px; margin-top: 8px; }
+ .job-page { max-width: 760px; margin: 0 auto; background: var(--surface); border-left: 1px solid var(--rule); border-right: 1px solid var(--rule); min-height: 100%; }
+ .back-link { display: inline-flex; align-items: center; gap: 6px; margin: 18px 24px 0; font-size: 14px; }
+ 
+--- /dev/null
++++ lib/source-directory.ts
+@@ -0,0 +1,45 @@
++export interface SourceFilters {
++  query: string;
++  jurisdiction: string;
++  includeUnscoped: boolean;
++}
++
++interface SearchableSource {
++  name: string;
++  authority: string;
++  notes?: string;
++  accessGap?: string;
++  jurisdictions: { code: string; name: string }[];
++}
++
++export function readSourceFilters(search: string, options: { code: string }[]): SourceFilters {
++  const params = new URLSearchParams(search);
++  const state = params.get("state") ?? "";
++  return {
++    query: (params.get("sourceQuery") ?? "").slice(0, 200),
++    jurisdiction: options.some(option => option.code === state) ? state : "",
++    includeUnscoped: params.get("unscoped") === "1",
++  };
++}
++
++/** Only public source-directory display state belongs in these links. */
++export function sourceFilterSearch(filters: SourceFilters): string {
++  const params = new URLSearchParams();
++  if (filters.query) params.set("sourceQuery", filters.query.slice(0, 200));
++  if (filters.jurisdiction) {
++    params.set("state", filters.jurisdiction);
++    if (filters.includeUnscoped) params.set("unscoped", "1");
++  }
++  return params.size ? `?${params.toString()}` : "";
++}
++
++export function filterSourceDirectory<T extends SearchableSource>(entries: T[], filters: SourceFilters): T[] {
++  const needle = filters.query.trim().toLocaleLowerCase();
++  return entries.filter(entry => {
++    if (filters.jurisdiction && !entry.jurisdictions.some(({ code }) => code === filters.jurisdiction)
++      && !(filters.includeUnscoped && entry.jurisdictions.length === 0)) return false;
++    return [entry.name, entry.authority, entry.notes, entry.accessGap,
++      ...entry.jurisdictions.flatMap(({ code, name }) => [code, name]),
++    ].join(" ").toLocaleLowerCase().includes(needle);
++  });
++}
+--- /dev/null
++++ lib/source-directory.test.ts
+@@ -0,0 +1,38 @@
++import assert from "node:assert/strict";
++import test from "node:test";
++import { filterSourceDirectory, readSourceFilters, sourceFilterSearch } from "./source-directory.ts";
++
++const jurisdictions = [{ code: "IN-MP", name: "Madhya Pradesh" }, { code: "IN-PB", name: "Punjab" }];
++const entries = [
++  { id: "mp", name: "MP Board", authority: "MP", notes: "Hindi typing, Indian citizenship; Punjab applicants need review", jurisdictions: [jurisdictions[0]] },
++  { id: "pb", name: "Punjab Board", authority: "Punjab", notes: "Punjabi requirement", jurisdictions: [jurisdictions[1]] },
++  { id: "unscoped", name: "Federal Register", authority: "Union", notes: "Hindi examination medium", jurisdictions: [] },
++];
++
++test("state scope uses recorded jurisdiction, never a mention in eligibility research", () => {
++  assert.deepEqual(filterSourceDirectory(entries, { query: "", jurisdiction: "IN-PB", includeUnscoped: false }).map(x => x.id), ["pb"]);
++  assert.deepEqual(filterSourceDirectory(entries, { query: "Hindi", jurisdiction: "IN-MP", includeUnscoped: false }).map(x => x.id), ["mp"]);
++});
++
++test("sources without recorded state scope are opt-in for a selected state", () => {
++  assert.deepEqual(filterSourceDirectory(entries, { query: "Hindi", jurisdiction: "IN-MP", includeUnscoped: true }).map(x => x.id), ["mp", "unscoped"]);
++  assert.equal(filterSourceDirectory(entries, { query: "", jurisdiction: "", includeUnscoped: false }).length, 3);
++  assert.deepEqual(filterSourceDirectory(entries, { query: "", jurisdiction: "IN-LD", includeUnscoped: false }), []);
++});
++
++test("shared source filters restore public fields and reject unknown jurisdiction codes", () => {
++  const parsed = readSourceFilters("?state=IN-MP&sourceQuery=Hindi+typing&unscoped=1&citizenship=US&profileId=secret", jurisdictions);
++  assert.deepEqual(parsed, { query: "Hindi typing", jurisdiction: "IN-MP", includeUnscoped: true });
++  const search = sourceFilterSearch(parsed);
++  assert.equal(search.includes("citizenship"), false);
++  assert.equal(search.includes("profile"), false);
++  assert.deepEqual(readSourceFilters(search, jurisdictions), parsed);
++  assert.equal(readSourceFilters("?state=US-CA", jurisdictions).jurisdiction, "");
++  assert.equal(readSourceFilters("?sourceQuery=" + "a".repeat(500), jurisdictions).query.length, 200);
++});
++
++test("clear filters restores every source and emits no private or saved state", () => {
++  const cleared = { query: "", jurisdiction: "", includeUnscoped: false };
++  assert.equal(sourceFilterSearch(cleared), "");
++  assert.equal(filterSourceDirectory(entries, cleared).length, entries.length);
++});

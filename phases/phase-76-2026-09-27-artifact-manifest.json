@@ -1,0 +1,101 @@
+{
+  "savedAt": "2026-09-27T01:55:43.645223+00:00",
+  "status": "verified India reader-research checkpoint",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 4002,
+      "sha256": "57feeb8de1212942028b8a089747ea4c93b7039aeb0303ac44341568118002ef"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70678,
+      "sha256": "5e597e4a972f5be2c04115a189d0f68ae869996f14dc11832db2b7b9e8ce5a62"
+    },
+    {
+      "path": "data/discovery/india-tgpsc-jal-shakti-reader-research-2026-09-27.json",
+      "bytes": 9682,
+      "sha256": "ec9b910cc9064e18de66c492a8e07cd3465b42e63e89617fe5c2e8700261dd3b"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 188629,
+      "sha256": "fddbda99fe9e791f6e0469154250c0429e96b2dbeb8841e5ad6e417d66462fcd"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-baseline.json",
+      "bytes": 504104,
+      "sha256": "32a5e026fb1bedee9a68c18da84f6595eb21baf09268e1fa02443bef0fbcf63e"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-browser-checks.json",
+      "bytes": 562,
+      "sha256": "baba0c340aa4dc5eaab913b042505b2641bc666696023eba4e27ee250d440fe2"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-browser-state.txt",
+      "bytes": 88175,
+      "sha256": "0ea3aed7dba764d249d018ca9387ad9be4cdab925f2ad1d72439f3ed97a1c26c"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-focused-tests.txt",
+      "bytes": 671,
+      "sha256": "f765683d94fffec7a7638784a7f19bc626defc259a87fa461b846c572723ff76"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-india-source-research.md",
+      "bytes": 4122,
+      "sha256": "48ddcf806e7fe0bb4169a6079a485fc84b51af579c9fbbf8083bde8c73098f97"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-india-source-research.png",
+      "bytes": 202327,
+      "sha256": "6630c90db3b696ff51c2b9c06f4897108ddff4d1e8916d5360aaed91e7a1c7f9"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-prepare.py",
+      "bytes": 3579,
+      "sha256": "c1df8004971309616639cc8fc2264a7b9efc29a9a3df17f0e29650a72ac50a24"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-process-results.json",
+      "bytes": 936,
+      "sha256": "82c15fd6b6e0ea6b165ed041e9c3edcd5e53643f5c5eea41d623f83d6ef8563d"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-research-input.json",
+      "bytes": 8753,
+      "sha256": "fcad2105f0a6ea49c6de288de948e297cefa4039b390b267b3ca4a5b638f1669"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-source-config.json",
+      "bytes": 6967,
+      "sha256": "d8407245ac5092be08cb3048ec48ad8be77e2a821d758efcee6a0a15f35723aa"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-verification.json",
+      "bytes": 1197,
+      "sha256": "796921b553d9220b78c67ee1d96a774b5d782896e353011b68d46e5e72e57c2c"
+    },
+    {
+      "path": "phases/phase-76-2026-09-27-verify.py",
+      "bytes": 6206,
+      "sha256": "d4b442782156c4385e90f04d67b8e56d04358bfd7aa67899261c59f78e77e113"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "d9d245dbbf6ddca9e734a26e980d7ddbd233eae659967341f86942e7b6084363"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 298428,
+      "sha256": "467f8c826e0ad63a21b949c87ab000ce176a6cc192afd594e0883c3acc60f885"
+    }
+  ]
+}

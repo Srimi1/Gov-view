@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-09-27T00:41:22.526244+00:00",
+  "phase": 70,
+  "status": "verified discovery checkpoint",
+  "registeredSources": 188,
+  "indiaSources": 99,
+  "sourcePresenceJurisdictions": 75,
+  "jurisdictionDenominator": 250,
+  "jurisdictionsWithoutRegisteredSource": 175,
+  "newDisabledSources": 5,
+  "previousSourcesUnchanged": 183,
+  "previousCoverageRowsUnchanged": 70,
+  "healthAndReviewFilesUnchanged": 83,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "priorFullSuite": {
+    "phase": 69,
+    "passed": 362,
+    "failed": 0,
+    "typecheckExitCode": 0,
+    "runtimeFilesUnchanged": true,
+    "rerunThisPhase": false
+  },
+  "browserPagesChecked": 5,
+  "localReadRetries": [],
+  "limitations": [
+    "Reader-only research; original bytes and current notice criteria not accepted.",
+    "Source presence is not complete authority/pathway coverage.",
+    "No human approval, connector acceptance, production build or worldwide audit.",
+    "Storage choice remains unanswered; collection pause and 800 MiB cap unchanged."
+  ]
+}

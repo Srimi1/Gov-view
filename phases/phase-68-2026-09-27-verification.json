@@ -1,0 +1,81 @@
+{
+  "phase": 68,
+  "checkedAt": "2026-09-26T23:55:51.139452+00:00",
+  "registeredSources": 183,
+  "indiaSources": 99,
+  "existingSourcesUnchanged": 182,
+  "existingNonIndiaCoverageRowsUnchanged": 69,
+  "protectedReviewAndPublishedFilesUnchanged": 83,
+  "existingHealthEntriesUnchanged": 54,
+  "retainedOriginals": 4,
+  "draftPreviewCycles": 1,
+  "newReviewPackets": 0,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "publicRecords": 0,
+  "approvedRecords": 0,
+  "staging": {
+    "exitCode": 1,
+    "error": "Retained evidence storage budget reached; previous records preserved"
+  },
+  "writeFreeLiveDryRun": {
+    "exitCode": 0
+  },
+  "tests": {
+    "passed": 358,
+    "failed": 0,
+    "focusedPassed": 4
+  },
+  "typecheck": {
+    "exitCode": 0,
+    "basis": "Terminal process result recorded during this phase; current log checked for diagnostics."
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0
+  },
+  "codeReview": {
+    "initialSpecFindings": [
+      {
+        "severity": "P2",
+        "finding": "Prior examination permission placed at outcome",
+        "status": "resolved",
+        "fix": "Selection-stage prerequisite; release/resignation remains at outcome"
+      }
+    ],
+    "initialStandardsFindings": [
+      {
+        "severity": "P1",
+        "finding": "Single/unquoted amendment links ignored",
+        "status": "resolved",
+        "fix": "Count all supported HTML attribute forms"
+      },
+      {
+        "severity": "P1",
+        "finding": "Dashboard outside-row amendments ignored",
+        "status": "resolved",
+        "fix": "Validate full matching 2026 notice section"
+      }
+    ],
+    "resolutionReview": {
+      "spec": "No remaining finding in revised lines",
+      "standards": "No remaining finding in fixes reviewed"
+    },
+    "scope": "Phase 68 only; not whole repository or worldwide completeness"
+  },
+  "browser": {
+    "checkedAt": "2026-09-26T23:46:47.212Z",
+    "url": "http://localhost:3003/coverage/IN/#official-sources",
+    "search": "CPCT",
+    "matchingSources": 1,
+    "indiaRegisteredSources": 99,
+    "reviewOnlyWordingVisible": true,
+    "nationalityAndNonMpRouteVisible": true,
+    "shorthand100WordsPerMinuteVisible": true,
+    "stagingFailureVisible": true,
+    "sourceIdentification": "https://esb.mp.gov.in/student_dashboard.htm",
+    "screenshot": "phases/phase-68-2026-09-27-cpct-source-search.png",
+    "state": "phases/phase-68-2026-09-27-browser-state.txt"
+  },
+  "localFileReadRetries": []
+}

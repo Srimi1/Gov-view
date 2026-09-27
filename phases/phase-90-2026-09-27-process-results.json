@@ -1,0 +1,75 @@
+{
+  "phase": 90,
+  "preparation": {
+    "exitCode": 0,
+    "chunkId": "d88be3",
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "chunkId": "4edfae",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-90-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "chunkId": "f940ef",
+    "publicListings": 0,
+    "log": "phases/phase-90-2026-09-27-public-data-build.txt"
+  },
+  "logRead": {
+    "exitCode": 0,
+    "chunkId": "e5c024",
+    "actualPass6Fail0Verified": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "Coal employer reader 403; GATE original unreviewed; CBT original available through reader only.",
+    "IREL CMD PDF reader text unavailable and browser viewer blank; DAE identity direct reader timed out.",
+    "CI order primary indexed but direct reader/browser PDF unread; indexed translation unaccepted.",
+    "Togo migrated pages show ministry shell; old PDF path now HTML under construction."
+  ],
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "CI",
+      "TG"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 110,
+    "screenshot": "phases/phase-90-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 45151,
+    "initialChunkId": "4b0a87",
+    "chunkId": "f75919",
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T05:57:46.750579+00:00"
+  },
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "960b00"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps read during final receipts; no restart"
+  },
+  "reportOpen": {
+    "status": "queued"
+  }
+}

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "in-powergrid-job-opportunities",
+    "name": "POWERGRID job opportunities",
+    "country": "IN",
+    "authority": "Power Grid Corporation of India Limited — Ministry of Power, Government of India",
+    "homepage": "https://www.powergrid.in/en/job-opportunities",
+    "discoveredFrom": "https://www.powergrid.in/en/job-opportunities",
+    "notes": "Official index separates executive, non-executive, contractual and regional recruitment. Engineer Trainee-2027 original CC/03/2026 permits Indian nationals only. POWERGRID application tentatively March/April 2027, not GATE registration. One-year training followed by E2 engineer absorption; bond not fixed tenure. Hindi/English certificate translations are document requirements, not proficiency. Nationwide or overseas postings do not establish state collection scopes or exam venues.",
+    "accessGap": "First detailed link truncated filename; duplicate full PDF link readable. Index row 2 September predates 24 September advertisement; row date not accepted as application opening. Future vacancy/selection notification pending; exact window, later amendments, full inventory and collection policy need review. No original bytes retained.",
+    "appointmentType": {
+      "status": "sample-specific",
+      "note": "CC/03/2026 training one year then E2 engineer absorption/regularization.",
+      "value": "training followed by regularization"
+    },
+    "internationalApplicantAssessment": {
+      "status": "sample-restricted-indian-nationals",
+      "note": "CC/03/2026 general instruction 1: only Indian nationals aged at least 18; degree, age, GATE and fitness independent."
+    },
+    "languageAssessment": {
+      "status": "document-language-only",
+      "note": "Certified Hindi/English category-document translation separate from proficiency; no mandatory framework level.",
+      "namedLanguage": [
+        "Hindi",
+        "English"
+      ],
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://www.powergrid.in/en/job-opportunities",
+        "type": "official-jobs-index",
+        "observationMethod": "official-reader",
+        "summary": "Current GATE-2027 notice plus closed older cycles, contractual and regional sections; mixed stages."
+      },
+      {
+        "url": "https://www.powergrid.in/sites/default/files/job_opportunities_document/ET2027_Detailed_Advertisement_For%20Website_1.pdf",
+        "type": "original-sample-notice",
+        "observationMethod": "official-reader",
+        "summary": "CC/03/2026 Indian nationals, tentative future company window, independent qualification/fitness and training-to-absorption route; document translation not language level."
+      }
+    ]
+  },
+  {
+    "id": "in-nhpc-careers",
+    "name": "NHPC Limited careers",
+    "country": "IN",
+    "authority": "NHPC Limited — Government of India Navratna enterprise",
+    "homepage": "https://www.nhpcindia.com/welcome/job",
+    "discoveredFrom": "https://www.nhpcindia.com/welcome/job",
+    "notes": "Current career page includes September/August selection and apprenticeship results, not new application windows. Sample NH/Rectt./02/2026 trainee engineers only Indian nationals; SC/ST/OBC(NCL)/PwBD drive has separate category/degree/GATE conditions. Original applications 16 March 10:00–6 April 17:00, timezone unstated, closed. One-year training then engineer/officer absorption with one-year probation. Future UGC-NET June-2026 HR/PR route requires separate NHPC application after results. Formal language unknown; overseas posting does not waive citizenship.",
+    "accessGap": "Current index and linked/search-indexed employer originals reader/browser accessible, raw bytes unretained. Full pagination, current application status, amendments, formal language, governing timezone, source policy and post-form grouping await review. Candidate-result attachments not opened or retained. Indian university qualification clause separate from citizenship; neither national footprint nor project sites creates state scope or venues.",
+    "appointmentType": {
+      "status": "sample-specific",
+      "note": "NH/Rectt./02/2026 training one year, absorption then probation one year; four-year bond not fixed-term job.",
+      "value": "training followed by absorption and probation"
+    },
+    "internationalApplicantAssessment": {
+      "status": "sample-restricted-indian-nationals",
+      "note": "NH/Rectt./02/2026 instruction 1 Indian nationals only; reserved drive cannot be treated as unrestricted because candidate meets nationality."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "note": "No formal named proficiency requirement accepted; Hindi/English interface not criterion.",
+      "namedLanguage": null,
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://www.nhpcindia.com/welcome/job",
+        "type": "official-careers-index",
+        "observationMethod": "official-reader",
+        "summary": "September/August selection, verification and apprenticeships, with distinct notice identity."
+      },
+      {
+        "url": "https://www.nhpcindia.com/assests/pzi_public/job/details_1773306619_5633.pdf",
+        "type": "original-sample-notice",
+        "observationMethod": "official-reader",
+        "summary": "NH/Rectt./02/2026 closed trainee-engineer SRD, Indian nationals, category/GATE/degree and fitness gates, training/absorption/probation."
+      },
+      {
+        "url": "https://www.nhpcindia.com/assests/pzi_public/job/details_1775130581_1955.pdf",
+        "type": "separate-route-advisory",
+        "observationMethod": "official-reader",
+        "summary": "HR/PR UGC-NET June-2026 subject codes 55/63; separate NHPC application after result, not exam registration alone."
+      }
+    ]
+  },
+  {
+    "id": "in-ongc-recruitment-notices",
+    "name": "ONGC recruitment notices",
+    "country": "IN",
+    "authority": "Oil and Natural Gas Corporation Limited — Schedule A CPSE",
+    "homepage": "https://ongcindia.com/web/eng/career/recruitment-notice",
+    "discoveredFrom": "https://ongcindia.com/",
+    "notes": "Official current 2026 notices include E1 geologist/engineer recruitment, fixed-term doctors, retired-official consultants and board appointments. Doctor 3/2026 detail links original, separate fitness requirements and external registration host. Original unread, so duration, window, nationality and language unknown. Two CBT call-letter entries must not duplicate one intake. Results and apprenticeships have separate pages. English/Hindi navigation not proficiency; domestic/overseas operations not collection scope or exam venues.",
+    "accessGap": "Legacy recruitment URL and current reader inaccessible; ordinary browser home/current notices/detail rendered. Doctor original reader inaccessible and browser PDF blank after timeout. Exact original/amendments, eligibility, tenure, cutoff/timezone, inventory and permitted collection pending. Employer referral to external form observed only, no registration/login or submission.",
+    "appointmentType": {
+      "status": "index-title-only",
+      "note": "Doctor 3/2026 title explicitly fixed-term; original duration and terms unreviewed.",
+      "value": "fixed-term"
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "Current doctor original unread; no citizenship or foreign-applicant route accepted."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "note": "English/Hindi website navigation not qualification; current formal requirements unknown.",
+      "namedLanguage": null,
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://ongcindia.com/",
+        "type": "official-employer-home",
+        "observationMethod": "ordinary-browser",
+        "summary": "Employer home career menu links exact current recruitment-notice path."
+      },
+      {
+        "url": "https://ongcindia.com/web/eng/career/recruitment-notice",
+        "type": "official-recruitment-index",
+        "observationMethod": "ordinary-browser",
+        "summary": "2026 panel current recruitment/consultant/board notices and duplicate CBT call-letter entries, historical panels separate."
+      },
+      {
+        "url": "https://ongcindia.com/web/eng/detail?assetEntry=85545687&assetClassPK=85545682",
+        "type": "official-sample-detail",
+        "observationMethod": "ordinary-browser",
+        "summary": "Doctor 3/2026 fixed-term title and original/medical/external-form referrals."
+      },
+      {
+        "url": "https://ongcindia.com/documents/77751/2660534/advt040826.pdf",
+        "type": "unread-original",
+        "observationMethod": "reader-failure-and-ordinary-browser",
+        "summary": "Reader inaccessible; browser PDF blank after navigation timeout."
+      }
+    ]
+  },
+  {
+    "id": "bj-government-employment-offers",
+    "name": "Benin government employment offers",
+    "country": "BJ",
+    "authority": "Government of the Republic of Benin — official opportunities publisher",
+    "homepage": "https://www.gouv.bj/opportunites/offres-emploi/",
+    "discoveredFrom": "https://www.gouv.bj/opportunites/offres-emploi/",
+    "notes": "Government index mixes domestic public hiring, regional CIPRES recruitment, training and other opportunities; CDD metadata not accepted as universal appointment type. Justice 004/2026 HTML requires Beninese nationality; foreign-diploma equivalence does not waive citizenship. Body submission 27 April–11 May date-only differs from precise header metadata; timezone unknown. Judiciary and clerk streams have separate age/degree/service gates. International agroforestry title is a discovery lead, not blanket foreign permission. French source does not establish language level.",
+    "accessGap": "Index first page 1–60 of 154, remaining pages unchecked. Ministry competitions page empty list after hydration, not checked-empty coverage. Justice ten-page original has no reader text and remains unread; HTML translation, exact deadline precision, appointment type, amendments, complete authorities and source policy await review. CIPRES regional scope separate; bootcamps/beneficiary calls not automatically government jobs.",
+    "appointmentType": {
+      "status": "needs verification",
+      "note": "CDD header conflicts with broad index classification; exact justice service tenure unreviewed.",
+      "value": null
+    },
+    "internationalApplicantAssessment": {
+      "status": "sample-restricted-beninese-nationals",
+      "note": "Justice sample HTML nationality Beninese; other public and international-project routes need originals."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "note": "French notice is not proficiency; no standardized level accepted.",
+      "namedLanguage": null,
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://www.gouv.bj/opportunites/offres-emploi/",
+        "type": "official-government-index",
+        "observationMethod": "ordinary-browser",
+        "summary": "Mixed current/historical jobs and non-job calls, CDD labels and 154 entries, no complete cycle count."
+      },
+      {
+        "url": "https://www.travail.gouv.bj/concours",
+        "type": "ministry-discovery-gap",
+        "observationMethod": "ordinary-browser",
+        "summary": "Current ministry branding Budget and Public Service; competitions list empty, not verified empty inventory."
+      },
+      {
+        "url": "https://www.gouv.bj/opportunite/169/avis-recrutement-cent-auditeurs-justice-eleves-greffiers-profit-ministere-justice-legislation/",
+        "type": "official-sample-html",
+        "observationMethod": "official-reader",
+        "summary": "Justice 004 nationality, route-specific age/degree/service, foreign equivalence and body-vs-header dates need original/translation review."
+      },
+      {
+        "url": "https://www.gouv.bj/doc/973/download",
+        "type": "unread-original",
+        "observationMethod": "official-reader",
+        "summary": "Ten-page scanned original has no reader text; unread."
+      },
+      {
+        "url": "https://www.gouv.bj/opportunite/185/appel-candidatures-recrutement-expert-local-expert-international-agroforesterie-dans-cadre-projet-ocri/",
+        "type": "separate-international-project-lead",
+        "observationMethod": "official-reader",
+        "summary": "Local/international expert title, original rules unreviewed; no foreign-applicant permission inferred."
+      }
+    ]
+  },
+  {
+    "id": "bf-econcours-direct",
+    "name": "Burkina Faso eConcours direct competitions",
+    "country": "BF",
+    "authority": "Ministère des Serviteurs du Peuple — Burkina Faso",
+    "homepage": "https://www.econcours.gov.bf/",
+    "discoveredFrom": "https://www.service-public.gov.bf/eservices",
+    "notes": "Government e-services directory separately refers direct eConcours and professional eConcours-pro. Direct portal currently displays loading/partial state and no available information, without session year or registration dates. This is not verified absence of current opportunities. July government bulletin describes electronic examinations at Ouagadougou centre; online tests do not mean remote-from-home. Current originals, nationality, tenure and language unknown.",
+    "accessGap": "Portal shell and partial count rendered but session/date fields remain empty. No candidate lists, registration, login, mobile download or payment used. Original direct notices, complete inventory, nationality/language/appointment rules, scheduling, source policy and migration/health need review. Service-directory legacy MFPTPS name differs from current MSP portal; preserve distinction.",
+    "appointmentType": {
+      "status": "needs verification",
+      "note": "Competition/training route alone does not establish final appointment tenure.",
+      "value": null
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "No current direct notice nationality/residence rule read."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "note": "French interface not applicant proficiency; no accepted level.",
+      "namedLanguage": null,
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://www.service-public.gov.bf/eservices",
+        "type": "official-government-referral",
+        "observationMethod": "ordinary-browser",
+        "summary": "Government service directory lists exact direct and professional hosts separately under MFPTPS."
+      },
+      {
+        "url": "https://www.econcours.gov.bf/",
+        "type": "official-direct-portal",
+        "observationMethod": "ordinary-browser",
+        "summary": "Loading/partial shell, unknown year/dates and no-information wording; not checked-empty."
+      },
+      {
+        "url": "https://gouvernement.gov.bf/actualites/concours-directs-de-la-fonction-publique-2026-cest-parti-pour-la-composition-electronique/",
+        "type": "government-selection-stage-news",
+        "observationMethod": "official-reader",
+        "summary": "July electronic exams at physical Ouagadougou centre and other written centres; selection dates not applications."
+      }
+    ]
+  },
+  {
+    "id": "bf-econcours-professional",
+    "name": "Burkina Faso eConcours professional competitions",
+    "country": "BF",
+    "authority": "Ministère des Serviteurs du Peuple — Burkina Faso",
+    "homepage": "https://www.econcours-pro.gov.bf/",
+    "discoveredFrom": "https://www.service-public.gov.bf/eservices",
+    "notes": "Separate government professional-competition portal shows 2026 registrations 17–26 September, date-only, timezone unstated. General professional route must not be treated as unrestricted direct recruitment; current service/grade/seniority conditions unreviewed. Portal says no physical documents at online registration, complementary documents after admission; application acceptance differs from selection/appointment eligibility. No nationality, tenure or formal language accepted.",
+    "accessGap": "Reader direct zero text; browser initial loading resolved to 2026 dates. Opening-communiqué referral HTTP concurs host remains unreviewed; originals and route-specific service/citizenship/language conditions pending. No account creation, login, payment or candidate-list access. Assistance hours are not deadline hours; portal date does not create collector validation timestamp.",
+    "appointmentType": {
+      "status": "needs verification",
+      "note": "Professional promotion/competition may require existing service; final job type unverified.",
+      "value": null
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "Current professional originals/service and nationality criteria unread."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "note": "French interface and assistance text not formal proficiency.",
+      "namedLanguage": null,
+      "standardizedLevel": null
+    },
+    "documents": [
+      {
+        "url": "https://www.service-public.gov.bf/eservices",
+        "type": "official-government-referral",
+        "observationMethod": "ordinary-browser",
+        "summary": "Government directory lists E concours-pro host distinct from direct portal."
+      },
+      {
+        "url": "https://www.econcours-pro.gov.bf/",
+        "type": "official-professional-portal",
+        "observationMethod": "ordinary-browser",
+        "summary": "Hydrated 2026 registration dates 17–26 September; online paperwork/admission steps distinct."
+      }
+    ]
+  }
+]

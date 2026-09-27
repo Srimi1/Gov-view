@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-09-27T03:25:10.248230+00:00",
+  "phase": 81,
+  "status": "verified official-source directory expansion",
+  "registeredSources": 222,
+  "indiaSources": 99,
+  "japanSources": 10,
+  "usCountrySources": 5,
+  "sourcePresenceJurisdictions": 105,
+  "jurisdictionDenominator": 250,
+  "jurisdictionsWithoutRegisteredSources": 145,
+  "disabledSourcesAdded": 4,
+  "previousRegistryEntriesUnchanged": 218,
+  "previousCoverageRowsUnchanged": 101,
+  "healthAndReviewFilesUnchanged": 83,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "humanApprovals": 0,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "publicDataBuildExitCode": 0,
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "runtimeUnchanged": true,
+  "productionBuildRun": false,
+  "limitations": [
+    "Directory sources are not accepted collectors or reviewed cycles.",
+    "Sample rules do not establish portal-wide eligibility.",
+    "Three-stage personalized eligibility remains unverified.",
+    "Storage choice, founder review, export gate and worldwide audit outstanding."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "phase": 89,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 108,
+      "filteredSources": 1,
+      "newSourceLinks": [
+        "https://iocl.com/latest-job-opening",
+        "https://www.npcindia.gov.in/NPC/User/Notification_Career"
+      ],
+      "reviewWarning": true,
+      "indianoilFilterMatches": 1,
+      "npcFullNameFilterMatches": 1
+    },
+    "SN": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://emploi-fpublique.sec.gouv.sn/login"
+      ]
+    },
+    "CM": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.minfopra.gov.cm/index.php/fr/ouverture-des-concours"
+      ]
+    },
+    "DZ": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.mjustice.dz/fr/annonces-et-publications/"
+      ]
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores108": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=IndianOil#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-89-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timeout; same tab rendered current IndianOil filter one of 108.",
+    "National Productivity Council full-name filter one of 108; correct source and review warning.",
+    "Clear restored 108 and removed sourceQuery.",
+    "Fresh share initial server default; hydrated IndianOil filter restored one of 108 and correct official link.",
+    "SN/CM/DZ each one source, zero public/fetched, Never fetch/validation, research warning and gaps.",
+    "No browser protection changes."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

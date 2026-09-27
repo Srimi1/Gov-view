@@ -1,0 +1,16 @@
+✔ Andhra index ties brief notification 16/2026 to one official PDF (4.042042ms)
+✔ Andhra future cycle keeps international eligibility uncertain and both qualifying languages explicit (14.319166ms)
+✔ Andhra unknown timezone cannot create an Indian midnight cutoff (1.730666ms)
+✔ Andhra changed PDF or detailed-notice date blocks stale brief extraction (1.318042ms)
+✔ CGPSC archive selects one original notice and fails on new microbiologist amendments (6.066042ms)
+✔ CGPSC counts separately applied posts and keeps international applicant eligibility uncertain (50.864708ms)
+✔ CGPSC unknown timezone keeps deadline boundary uncertain until all civil dates pass (5.419167ms)
+✔ CGPSC changed notice bytes cannot reuse extracted dates or job identities (1.72375ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 20320.517208

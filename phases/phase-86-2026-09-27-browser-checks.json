@@ -1,0 +1,60 @@
+{
+  "phase": 86,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 103,
+      "filteredSources": 1,
+      "newSourceLink": "https://careers.ntpc.co.in/recruitment/",
+      "reviewWarning": true
+    },
+    "BM": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    },
+    "KY": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    },
+    "VG": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores103": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=NTPC",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-86-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "India first navigation timed out; same tab subsequently rendered. No restart or browser protection changes.",
+    "Initial input occurred before hydration; after hydration NTPC filter returned 1 of 103 and public query URL.",
+    "Shared view initially showed server default; hydrated view restored NTPC and 1 of 103.",
+    "Clear returned 103 of 103 and removed sourceQuery.",
+    "All three new jurisdiction pages showed one source, review warning and Never fetch/validation."
+  ],
+  "scope": "Directory and filter checks only; not official-source extraction acceptance or worldwide audit.",
+  "finalEnrichedCardsObserved": [
+    "IN",
+    "BM",
+    "KY",
+    "VG"
+  ]
+}

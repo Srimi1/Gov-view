@@ -1,0 +1,106 @@
+{
+  "phase": 93,
+  "previousGoalTurnClassification": "verified progress",
+  "previousStateInspection": {
+    "exitCode": 0,
+    "chunkId": "8af6ce",
+    "phase92ManifestVerified": true
+  },
+  "researchPreparation": {
+    "exitCode": 0,
+    "chunkId": "325309"
+  },
+  "preparation": {
+    "exitCode": 0,
+    "chunkId": "f8d6cb",
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 68678,
+    "initialChunkId": "426a30",
+    "chunkId": "e29aab",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-93-2026-09-27-focused-tests.txt"
+  },
+  "publicDataInitial": {
+    "exitCode": 1,
+    "sessionId": 30457,
+    "initialChunkId": "852766",
+    "chunkId": "2a6310",
+    "error": "ECANCELED: operation canceled, read",
+    "log": "phases/phase-93-2026-09-27-public-data-build.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 86798,
+    "initialChunkId": "3a1f91",
+    "chunkId": "3e2d32",
+    "log": "phases/phase-93-2026-09-27-public-data-retry.txt",
+    "publicListings": 0
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "EIL originals reader inaccessible; browser PDF timeout then blank snapshot.",
+    "RITES dynamic reader/original PDFs inaccessible; browser current table first ten of 27.",
+    "Eswatini home/legacy access timeouts; linked .doc unsupported.",
+    "Malawi historical judge HTML readable; exact current linked PDF no text/screenshot timeout. National inventory incomplete."
+  ],
+  "executionNotes": [
+    "Initial public-data process terminated on iCloud read cancellation; retry terminated successfully. Initial failed log preserved."
+  ],
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps read during final receipts; no restart"
+  },
+  "logRead": {
+    "exitCode": 0,
+    "chunkId": "9ccc93",
+    "initialErrorRead": true,
+    "actualPass6Fail0Verified": true
+  },
+  "retryLogRead": {
+    "exitCode": 0,
+    "sessionId": 71388,
+    "initialChunkId": "d8d2bf",
+    "chunkId": "5084d9",
+    "publicZeroVerified": true
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "MW",
+      "SZ"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 117,
+    "screenshot": "phases/phase-93-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "reportOpen": {
+    "status": "queued"
+  },
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "eee800"
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "chunkId": "810941",
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T06:52:06.885286+00:00"
+  }
+}

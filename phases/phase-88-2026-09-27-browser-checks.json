@@ -1,0 +1,53 @@
+{
+  "phase": 88,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 106,
+      "filteredSources": 1,
+      "newSourceLinks": [
+        "https://www.hal-india.co.in/career",
+        "https://www.npcil.nic.in/content/289_1_Opportunities.aspx"
+      ],
+      "reviewWarning": true,
+      "npcilFilterMatches": 1,
+      "halFullNameFilterMatches": 1,
+      "halSubstringFilterMatches": 9
+    },
+    "EG": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    },
+    "LB": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores106": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=NPCIL#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-88-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timed out; same tab later rendered current NPCIL preview.",
+    "NPCIL query one of 106; correct official employer link and review warning.",
+    "HAL substring query nine of 106 including correct employer; existing substring semantics also match other written research. Full Hindustan Aeronautics query one of 106.",
+    "Clear restored 106 of 106 and removed sourceQuery.",
+    "Fresh NPCIL share tab initial server default; hydrated view restored NPCIL and one of 106.",
+    "EG/LB each one source, zero public/fetched, Never fetch/validation, review warning and gaps.",
+    "No browser protection changes."
+  ],
+  "scope": "Directory/filter checks only, not extraction acceptance or worldwide audit."
+}

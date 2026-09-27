@@ -1,0 +1,328 @@
+# AL
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Albania AL" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Albania.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "2 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Department of Public Administration, Albania
+    - listitem: National Employment and Skills Agency, Albania
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 2 of 2 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Albania — DAP civil-service recruitment ↗":
+      - /url: https://rekrutimi.administrata.al/shpalljet
+    - generic: Department of Public Administration, Albania
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "DAP official homepage links recruitment register. Sample 7884 offers one Rare Languages Specialist post at General Directorate of Archives: parallel transfer for confirmed civil servants, then civil-service entry if vacancies remain. Transfer deadline 9 October 2026 and entry deadline 14 October are date-only; timezone unverified. Entry requires Albanian citizenship and written/spoken Albanian. Both routes require professional Master in Social Sciences, at least one year of professional experience and certified Ottoman Turkish knowledge; no CEFR level stated. Foreign-degree recognition does not grant foreign-citizen eligibility. External entry is not synonymous with international eligibility."
+    - strong: Collection gap
+    - paragraph: "Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Notice 7884 uses detail URL 7588: those identifiers must not be conflated. Complete requirements, translations, amendments, tenure and actual selection venues require review. Application routes have separate deadlines. DAP and Puna may overlap; portal counters cannot be summed into cycle counts. Collection permission, all public authorities and other pathways remain gaps. Application-guide subsequent reader timed out."
+    - link "Source identification evidence ↗":
+      - /url: https://dap.gov.al/
+    - text: · researched 2026-09-27
+    - link "Albania — Puna unified public-sector recruitment ↗":
+      - /url: https://www.puna.gov.al/SektoriPublik
+    - generic: National Employment and Skills Agency, Albania
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Council of Ministers announcement dated 7 April 2026 identifies unified portal for civil service, other central/local public institutions and companies with more than 50% state ownership. Public-sector page identifies National Employment and Skills Agency; each institution handles its recruitment. Current browser results include teaching, training and electrical-engineering roles. Result totals are not verified distinct application-cycle counts. No individual nationality, appointment tenure or language threshold verified; private-sector sections are outside this source scope.
+    - strong: Collection gap
+    - paragraph: Browser-only dynamic public-sector directory awaiting review; no adapter, retained originals or published cycle. Employer originals, amendments, application windows, international eligibility and formal language levels remain unreviewed. Shared advertisements with DAP must be deduplicated by actual intake identity. Complete employer inventory, permitted collection and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.kryeministria.al/en/newsroom/nje-platforme-e-vetme-per-cdo-mundesi-lehtesohet-punesimi-i-te-rinjve-ne-sektorin-publik/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Albania — DAP civil-service recruitment: Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Notice 7884 uses detail URL 7588: those identifiers must not be conflated. Complete requirements, translations, amendments, tenure and actual selection venues require review. Application routes have separate deadlines. DAP and Puna may overlap; portal counters cannot be summed into cycle counts. Collection permission, all public authorities and other pathways remain gaps. Application-guide subsequent reader timed out."
+    - listitem: "Albania — Puna unified public-sector recruitment: Browser-only dynamic public-sector directory awaiting review; no adapter, retained originals or published cycle. Employer originals, amendments, application windows, international eligibility and formal language levels remain unreviewed. Shared advertisements with DAP must be deduplicated by actual intake identity. Complete employer inventory, permitted collection and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Albania opportunities →":
+      - /url: /?country=AL
+- button "Open Next.js Dev Tools":
+- alert
+
+# AD
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Andorra AD" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Andorra.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Andorra — Public Service
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Andorra — Government public recruitment ↗":
+      - /url: https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions
+    - generic: Government of Andorra — Public Service
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Government directory separates general corps and special corps. Sample 61-2026 F offers two interim cultural-guide places and requires Catalan B2 diploma or higher. Original lists four nationality priority tiers: Andorrans and specified existing Spanish/French/Portuguese public agents; Spanish/French/Portuguese with valid work authorization; other nationalities with authorization; other nationalities without it. Award remains subject to quota regulations. Foreign-applicant routes exist; priority is not prohibition and application permission does not guarantee appointment or work authorization. Application closes 7 October 2026 at service closing time, exact hour/timezone unverified. Printed contract 1 October–31 December starts before closing deadline: unresolved date conflict."
+    - strong: Collection gap
+    - paragraph: Reader/browser discovery awaiting review; no adapter, retained original bytes/hash, accepted translation or published cycle. Sample BOPA original fully read but bases and quota rules need review. Preserve conflicting contract/application dates without correction. Catalan B2 and nationality tiers belong only to 61-2026 F; other general/special corps and local councils remain unreviewed. Museum work locations are not examination venues. Collection permission, authority reconciliation and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions/treballar-a-l-administracio
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Andorra — Government public recruitment: Reader/browser discovery awaiting review; no adapter, retained original bytes/hash, accepted translation or published cycle. Sample BOPA original fully read but bases and quota rules need review. Preserve conflicting contract/application dates without correction. Catalan B2 and nationality tiers belong only to 61-2026 F; other general/special corps and local councils remain unreviewed. Museum work locations are not examination venues. Collection permission, authority reconciliation and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Andorra opportunities →":
+      - /url: /?country=AD
+- button "Open Next.js Dev Tools":
+- alert
+
+# ME
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Montenegro ME" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Montenegro.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Human Resources Administration, Montenegro
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Montenegro — Human Resources Administration recruitment ↗":
+      - /url: https://uzk.gov.me/oglasi/
+    - generic: Human Resources Administration, Montenegro
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official authority links separate internal advertisements, public advertisements and public competitions. Current table contains an explicitly withdrawn advertisement; table presence does not mean open. Sample 02-100/26-2948/3 of 23 September 2026 offers one indefinite Market Inspector I post in Herceg Novi, minimum level VI specified education, state-service professional exam and five years experience. Table deadline 8 October is date-only, timezone unverified. Original mentions foreign-degree recognition and conditional foreign-language/IT/typing checks, without a verified nationality clause or formal language threshold. Foreign degrees do not establish foreign-citizen permission; work location is not exam venue.
+    - strong: Collection gap
+    - paragraph: Reader/browser discovery awaiting review; no adapter, retained originals/hash or published cycle. Sample four-page PDF visually read after navigation timeout; diacritics render as question marks in portions, requiring original/translation review. Reader PDF route inaccessible. Nationality, all selection conditions, language applicability, amendments and cutoff timezone remain unverified. FAQ published 20 September 2025 describes one-year probation on first indefinite appointment, not tenure for every job. Authority scope does not cover every public employer. Collection permission, other authorities and pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.me/uzk
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Montenegro — Human Resources Administration recruitment: Reader/browser discovery awaiting review; no adapter, retained originals/hash or published cycle. Sample four-page PDF visually read after navigation timeout; diacritics render as question marks in portions, requiring original/translation review. Reader PDF route inaccessible. Nationality, all selection conditions, language applicability, amendments and cutoff timezone remain unverified. FAQ published 20 September 2025 describes one-year probation on first indefinite appointment, not tenure for every job. Authority scope does not cover every public employer. Collection permission, other authorities and pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Montenegro opportunities →":
+      - /url: /?country=ME
+- button "Open Next.js Dev Tools":
+- alert
+
+# MK
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "North Macedonia MK" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in North Macedonia.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Agency for Administration, North Macedonia
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "North Macedonia — Agency for Administration recruitment ↗":
+      - /url: https://www.aa.mk/
+    - generic: Agency for Administration, North Macedonia
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Agency describes administrative-servant advertisements, selection, examinations and appeals; internal advertisements, corrections and results are separate. Recruitment FAQ requires North Macedonian citizenship and active use of Macedonian for administrative servants, with notice-specific qualifications and competencies. No CEFR level given. Three stages are administrative screening, examination, and evidence/interview. This is scoped FAQ evidence, not a rule for every public-sector job. Status page cites older legislation; current notices and law changes need review. Macedonian/Albanian portal controls do not establish bilingual applicant proficiency.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery awaiting review; no adapter, retained original, accepted connector or published cycle. Active prijava portal reader exposes unresolved templates rather than inventory; this does not prove no vacancies. Current notice originals, appointment tenure, governing 2026 legislation, amendments, dates, nationality exceptions and formal language levels require review. Complete public-employer scope, collection permission and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.aa.mk/status-i-nadleznosti.nspx
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "North Macedonia — Agency for Administration recruitment: Reader-only discovery awaiting review; no adapter, retained original, accepted connector or published cycle. Active prijava portal reader exposes unresolved templates rather than inventory; this does not prove no vacancies. Current notice originals, appointment tenure, governing 2026 legislation, amendments, dates, nationality exceptions and formal language levels require review. Complete public-employer scope, collection permission and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse North Macedonia opportunities →":
+      - /url: /?country=MK
+- button "Open Next.js Dev Tools":
+- alert
+
+# AD-shared
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Andorra AD" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Andorra.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Andorra — Public Service
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources": Catalan B2
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Andorra — Government public recruitment ↗":
+      - /url: https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions
+    - generic: Government of Andorra — Public Service
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Government directory separates general corps and special corps. Sample 61-2026 F offers two interim cultural-guide places and requires Catalan B2 diploma or higher. Original lists four nationality priority tiers: Andorrans and specified existing Spanish/French/Portuguese public agents; Spanish/French/Portuguese with valid work authorization; other nationalities with authorization; other nationalities without it. Award remains subject to quota regulations. Foreign-applicant routes exist; priority is not prohibition and application permission does not guarantee appointment or work authorization. Application closes 7 October 2026 at service closing time, exact hour/timezone unverified. Printed contract 1 October–31 December starts before closing deadline: unresolved date conflict."
+    - strong: Collection gap
+    - paragraph: Reader/browser discovery awaiting review; no adapter, retained original bytes/hash, accepted translation or published cycle. Sample BOPA original fully read but bases and quota rules need review. Preserve conflicting contract/application dates without correction. Catalan B2 and nationality tiers belong only to 61-2026 F; other general/special corps and local councils remain unreviewed. Museum work locations are not examination venues. Collection permission, authority reconciliation and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions/treballar-a-l-administracio
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Andorra — Government public recruitment: Reader/browser discovery awaiting review; no adapter, retained original bytes/hash, accepted translation or published cycle. Sample BOPA original fully read but bases and quota rules need review. Preserve conflicting contract/application dates without correction. Catalan B2 and nationality tiers belong only to 61-2026 F; other general/special corps and local councils remain unreviewed. Museum work locations are not examination venues. Collection permission, authority reconciliation and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Andorra opportunities →":
+      - /url: /?country=AD
+- button "Open Next.js Dev Tools":
+- alert

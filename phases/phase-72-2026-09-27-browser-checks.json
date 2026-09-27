@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-09-27T01:02:18.250Z",
+  "pages": [
+    {
+      "country": "LU",
+      "url": "http://localhost:3003/coverage/LU/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "CZ",
+      "url": "http://localhost:3003/coverage/CZ/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "SK",
+      "url": "http://localhost:3003/coverage/SK/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "SI",
+      "url": "http://localhost:3003/coverage/SI/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "GR",
+      "url": "http://localhost:3003/coverage/GR/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "CY",
+      "url": "http://localhost:3003/coverage/CY/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "MT",
+      "url": "http://localhost:3003/coverage/MT/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    },
+    {
+      "country": "MD",
+      "url": "http://localhost:3003/coverage/MD/#official-sources",
+      "sourceCountOne": true,
+      "neverFetched": true,
+      "reviewWarning": true,
+      "noAdapter": true
+    }
+  ]
+}

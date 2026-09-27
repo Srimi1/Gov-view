@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-09-26T22:36:45.629Z",
+  "countryPages": [
+    {
+      "code": "IN",
+      "registeredSources": 93
+    },
+    {
+      "code": "JP",
+      "registeredSources": 7
+    },
+    {
+      "code": "US",
+      "registeredSources": 5
+    }
+  ],
+  "searchChecks": [
+    {
+      "code": "IN",
+      "query": "Konkani",
+      "matches": 3
+    },
+    {
+      "code": "IN",
+      "query": "  in-hr  ",
+      "matches": 2
+    },
+    {
+      "code": "IN",
+      "query": "zqx-no-registered-source",
+      "matches": 0,
+      "explicitUncertainty": true
+    },
+    {
+      "code": "IN",
+      "action": "Clear source search using Return key",
+      "restoredMatches": 93
+    },
+    {
+      "code": "IN",
+      "query": "NLSIU",
+      "matches": 2,
+      "foreignApplicationAndAppointmentConditionsVisible": true
+    },
+    {
+      "code": "JP",
+      "query": "N1",
+      "matches": 4,
+      "conditionalAndNotRequiredLevelsRemainText": true
+    },
+    {
+      "code": "US",
+      "query": "California",
+      "matches": 1
+    }
+  ],
+  "missingResearchUnknownState": "Observed on USAJOBS source card",
+  "directSearchShortcutVerified": true,
+  "afterDuplicateFixIndiaIssuesBadge": false,
+  "sourceCountsRemainDistinctFromApplicationCycles": true,
+  "profileDataEntered": false,
+  "officialApplicationSubmitted": false,
+  "screenshot": "phase-64-2026-09-27-source-search.png"
+}

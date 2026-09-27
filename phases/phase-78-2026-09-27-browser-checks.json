@@ -1,0 +1,20 @@
+{
+  "apNoticeFiltered": true,
+  "apSelectionVisible": true,
+  "apLanguageSeparationVisible": true,
+  "apTimezoneUnknown": true,
+  "apForeignUnknown": true,
+  "apSharedURL": "http://localhost:3003/coverage/IN/?state=IN-AP&sourceQuery=16%2F2026#official-sources",
+  "apStateSourceCount": 1,
+  "ctStateSourceCount": 1,
+  "ctNoticeFiltered": true,
+  "ctSeparatePostsVisible": true,
+  "ctForeignUnknown": true,
+  "ctMediumNotProficiency": true,
+  "ctTimezoneUnknown": true,
+  "clearCount": 99,
+  "sharedViewRestored": true,
+  "reviewWarning": true,
+  "noEligibilityResultClaim": true,
+  "publicStateOnly": true
+}

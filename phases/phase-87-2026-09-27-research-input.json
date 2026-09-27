@@ -1,0 +1,191 @@
+[
+  {
+    "id": "in-bhel-careers",
+    "name": "Bharat Heavy Electricals Limited (BHEL) careers",
+    "country": "IN",
+    "authority": "Bharat Heavy Electricals Limited",
+    "homepage": "https://careers.bhel.in/index.jsp",
+    "discoveredFrom": "https://www.bhel.com/career-bhel",
+    "notes": "BHEL employer recruitment. Official employer referral verifies careers portal. It separates regular recruitment, consultants/experts/deputation, and fixed tenure/part-time roles. Sample EDN Project Engineers fixed tenure application closed 22 August 2026; hardcopy receipt 27 August or 29 August for listed far-flung areas/abroad. Overseas residence postal allowance is not foreign-citizen permission. Current Openings header and result links do not establish open applications. Nationality, original qualifications, selection language and standardized proficiency remain unverified.",
+    "accessGap": "Reader returned 403 for careers index; ordinary browser rendered portal and linked EDN sample. PSSR September part-time medical consultant PDF navigation timed out and viewer rendered blank; original unread. EDN detailed advertisement and amendments unreviewed. Inventory, nationality, language, full eligibility and permitted collection need acceptance; no state scopes inferred from nationwide footprint.",
+    "appointmentType": {
+      "status": "sample-specific",
+      "value": "fixed tenure",
+      "note": "EDN Defence and Aerospace Project Engineers index explicitly fixed tenure; duration and appointment conditions require original. Other portal roles have separate tenure."
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "EDN hardcopy allowance includes candidates residing abroad. Residence abroad does not establish foreign-citizen eligibility or immigration permission; original nationality criteria unread."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "namedLanguage": null,
+      "standardizedLevel": null,
+      "note": "English/Hindi site and document versions are not verified applicant proficiency or selection-medium criteria."
+    },
+    "documents": [
+      {
+        "url": "https://www.bhel.com/career-bhel",
+        "type": "official-employer-referral",
+        "observationMethod": "web-reader",
+        "summary": "Employer career page links Current Job Openings to careers.bhel.in/index.jsp. Page content update 6 March 2025 is not current collector freshness."
+      },
+      {
+        "url": "https://careers.bhel.in/index.jsp",
+        "type": "public-recruitment-index",
+        "observationMethod": "ordinary-browser",
+        "summary": "Portal groups regular recruitment, consultants/experts/deputation and fixed tenure/part-time positions. Artisan 2025 results and old walk-in dates coexist with other notices; index presence is not active intake."
+      },
+      {
+        "url": "https://ednnet.bhel.in/FTARecruitment/",
+        "type": "official-unit-sample-index",
+        "observationMethod": "ordinary-browser",
+        "sampleId": "EDN Project Engineers fixed tenure 2026",
+        "summary": "Defence and Aerospace Business Group, ESD, Project Engineers on fixed tenure. Online start 8 August 2026 10:00, close 22 August date only; hardcopy 27 August, listed far-flung areas/abroad 29 August. Governing timezone and cutoff hours unknown. Closed sample; original FTA2026.pdf unreviewed. Multiple submission stages must not become multiple cycles."
+      },
+      {
+        "url": "https://careers.bhel.in/static/PTMC%20Advt.-%20English_PSSR_092026.pdf",
+        "type": "unread-original-notice",
+        "observationMethod": "reader-failure-and-browser-blank-viewer",
+        "summary": "PSSR Chennai September part-time medical consultant notice linked from employer portal. Reader inaccessible; browser navigation timeout followed by blank viewer. No original fields accepted."
+      }
+    ]
+  },
+  {
+    "id": "bh-civil-service-vacancies",
+    "name": "Bahrain Civil Service Bureau job vacancies",
+    "country": "BH",
+    "authority": "Kingdom of Bahrain — Civil Service Bureau",
+    "homepage": "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-EServiceDetails?esID=82",
+    "discoveredFrom": "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-MultipleEntitiesByEService/GSX-UI-EServicesByEntity?entityID=26",
+    "notes": "National portal verifies Civil Service Bureau Job Vacancies service for searching and applying to advertised jobs. Service explicitly Arabic only; English entry displays switch-to-Arabic notice. This is interface language, not a formal applicant proficiency threshold. Service conditions alone do not establish foreign-applicant eligibility. No vacancy inventory, tenure or application windows accepted; personalized application, selection and appointment remain unverified.",
+    "accessGap": "Reader 403 for provider/service pages; ordinary browser rendered provider, service conditions and English entry. Arabic notice inventory and vacancy originals unreviewed. Nationality/residence, tenure, language requirements, permitted collection and complete authority reconciliation remain gaps. No login, ID entry or application performed.",
+    "appointmentType": {
+      "status": "needs verification",
+      "value": null,
+      "note": "Service directory is not a vacancy-specific permanent, temporary or contract appointment rule."
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "Service condition says to complete e-form and attach documents when no pending application. It does not establish nationality permission; general portal audience and expatriate private-employer routes cannot clear government eligibility."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "namedLanguage": null,
+      "standardizedLevel": null,
+      "note": "Arabic-only service interface confirmed; no vacancy-specific required language or CEFR-equivalent threshold verified."
+    },
+    "documents": [
+      {
+        "url": "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-MultipleEntitiesByEService/GSX-UI-EServicesByEntity?entityID=26",
+        "type": "official-provider-directory",
+        "observationMethod": "ordinary-browser",
+        "summary": "Civil Service Bureau provider lists Employment Request Application and Job Vacancies, both Arabic only; employee salary services are separate."
+      },
+      {
+        "url": "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-EServiceDetails?esID=82",
+        "type": "official-vacancy-service-detail",
+        "observationMethod": "ordinary-browser",
+        "summary": "Search and apply for advertised jobs; Use eService links EmploymentApplication_en. Expanded conditions state e-form/documents when no pending application. No citizenship rule printed in inspected conditions."
+      },
+      {
+        "url": "https://services.bahrain.bh/wps/portal/EmploymentApplication_en",
+        "type": "public-service-entry",
+        "observationMethod": "ordinary-browser",
+        "summary": "English entry says service available only in Arabic and requests language switch. No jobs inspected and no account/login action performed; not checked-empty inventory."
+      }
+    ]
+  },
+  {
+    "id": "kw-government-employment-directory",
+    "name": "Kuwait Government Online employment directory",
+    "country": "KW",
+    "authority": "State of Kuwait — Kuwait Government Online",
+    "homepage": "https://e.gov.kw/sites/kgoenglish/Pages/CitizensResidents/InfoSubPages/Employment.aspx",
+    "discoveredFrom": "https://e.gov.kw/sites/kgoenglish/Pages/CitizensResidents/InfoSubPages/Employment.aspx",
+    "notes": "Official government employment information directory is a discovery entry, not accepted live vacancy feed. Primary search index lists educational-certificate-holder employment and civil-to-government-sector transfer services. Citizens/Residents navigation does not prove international applicants can apply. CSC direct site inaccessible due browser certificate error; no bypass. Current job type, nationality, language level and dates remain unknown.",
+    "accessGap": "Official employment directory returned 403 in reader and ordinary browser. CSC.gov.kw reader timeout and browser ERR_CERT_COMMON_NAME_INVALID; security warning not bypassed. Directory identity supported by primary government search index only. Service originals, current vacancy inventory, nationality/residence, language, dates, tenure and collection terms unaccepted.",
+    "appointmentType": {
+      "status": "needs verification",
+      "value": null,
+      "note": "Employment-information navigation does not identify any particular vacancy or tenure."
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "Citizens/Residents page grouping, work-permit links or transfer-service links do not establish foreign-citizen eligibility for government recruitment."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "namedLanguage": null,
+      "standardizedLevel": null,
+      "note": "English/Arabic government interface does not establish required applicant language or formal level."
+    },
+    "documents": [
+      {
+        "url": "https://e.gov.kw/sites/kgoenglish/Pages/CitizensResidents/InfoSubPages/Employment.aspx",
+        "type": "official-employment-discovery-directory",
+        "observationMethod": "primary-search-index; direct-reader-and-browser-403",
+        "summary": "Primary government index describes employment planning and educational-certificate-holder/civil-sector transfer services. Body inaccessible in direct observation; no current vacancy fields accepted."
+      },
+      {
+        "url": "https://csc.gov.kw/",
+        "type": "unaccepted-related-commission-access-gap",
+        "observationMethod": "reader-timeout-and-browser-certificate-error",
+        "summary": "Related Civil Service Commission lead could not be inspected safely. Certificate error retained as access gap; no collection or zero-opportunity inference."
+      }
+    ]
+  },
+  {
+    "id": "jo-spac-public-recruitment",
+    "name": "Jordan SPAC public-sector recruitment",
+    "country": "JO",
+    "authority": "Jordan — Service and Public Administration Commission",
+    "homepage": "https://applyjobs.spac.gov.jo/Default.aspx",
+    "discoveredFrom": "https://spac.gov.jo/Default/Ar",
+    "notes": "SPAC government subdomain public recruitment lists department advertisements; Ministry of Public Works and Housing sample JobID 9820 Materials Engineer applications 27 September–5 October 2026, cutoff hour/timezone unknown. Arabic HTML gives male, born 1 January 1995 onward, relevant bachelor's degree and five-year experience criteria. Nationwide scope is not foreign-national permission. Original advertisement unread, tenure/nationality/language unknown. One job per department advertisement constraint; vacancy positions/subdivision variants and repeat notices must not inflate cycle counts. Translations pending review.",
+    "accessGap": "SPAC official parent and government recruitment subdomain rendered. Parent navigation additionally refers a separate unified government advertisements platform; direct link to applyjobs not observed on parent homepage. Sample original PDF reader timeout/browser blank viewer; job-description PDF unreviewed. General instructions, original nationality/residence, tenure, selection language, translations, full inventory and permitted collection need acceptance.",
+    "appointmentType": {
+      "status": "needs verification",
+      "value": null,
+      "note": "Sample HTML gives post and salary but no accepted permanent/fixed-term tenure. Separate annual-contract exam notices do not transfer."
+    },
+    "internationalApplicantAssessment": {
+      "status": "needs verification",
+      "note": "JobID 9820 nationwide geographic scope, gender, birth cutoff, degree and experience do not establish foreign nationality permission. Advertisement original/general instructions unread; neither foreign qualification recognition nor international-organization links clear Jordan government eligibility."
+    },
+    "languageAssessment": {
+      "status": "needs verification",
+      "namedLanguage": null,
+      "standardizedLevel": null,
+      "note": "Arabic notice/UI is evidence language. No required named language, standardized level or examination medium verified for sample."
+    },
+    "documents": [
+      {
+        "url": "https://spac.gov.jo/Default/Ar",
+        "type": "official-commission-identity",
+        "observationMethod": "web-reader",
+        "summary": "Service and Public Administration Commission parent identifies establishment under regulation 80/2023; navigation separates exams/interviews/appointments, own jobs and international jobs. Unified government advertisements referral is separate from applyjobs subdomain."
+      },
+      {
+        "url": "https://applyjobs.spac.gov.jo/Default.aspx",
+        "type": "government-subdomain-public-recruitment-index",
+        "observationMethod": "web-reader",
+        "summary": "Observed seven department advertisements, not accepted cycle denominator. Ministry Public Works and Housing dates 27 September–5 October 2026. Portal says one job per department advertisement; complete inventory unreconciled."
+      },
+      {
+        "url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=9820",
+        "type": "public-vacancy-detail",
+        "observationMethod": "web-reader-and-ordinary-browser",
+        "sampleId": "JobID 9820 / AdvID 710",
+        "summary": "Materials Engineer, two positions, Ministry Public Works and Housing. Relevant materials/civil engineering bachelor's degree, at least five years relevant experience, male, born 1 January 1995 onward, nationwide vacancy scope. Applications 27 September–5 October, date precision; hour/zone unknown. Arabic translation draft pending review. Nationality, tenure and language level unknown."
+      },
+      {
+        "url": "https://applyjobs.spac.gov.jo/AppJob/9820_1175_553019.pdf",
+        "type": "unread-original-advertisement",
+        "observationMethod": "reader-timeout-and-browser-blank-viewer",
+        "sampleId": "JobID 9820",
+        "summary": "Original attachment linked from government detail. Reader timeout, browser navigation timeout then blank viewer; no original critical fields accepted."
+      }
+    ]
+  }
+]

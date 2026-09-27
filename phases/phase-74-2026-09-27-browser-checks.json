@@ -1,0 +1,38 @@
+{
+  "japanRegisteredSources": 8,
+  "territories": {
+    "GU": {
+      "oneSource": true,
+      "noAdapter": true,
+      "neverFetched": true,
+      "nonAutonomousScope": true,
+      "zeroPublicRecords": true,
+      "notConnectedState": true
+    },
+    "PR": {
+      "oneSource": true,
+      "noAdapter": true,
+      "neverFetched": true,
+      "zeroPublicRecords": true,
+      "notConnectedState": true,
+      "foreignWorkAuthorizationVisible": true,
+      "transitoryVisible": true,
+      "languageUncertain": true
+    },
+    "VI": {
+      "oneSource": true,
+      "noAdapter": true,
+      "neverFetched": true,
+      "zeroPublicRecords": true,
+      "notConnectedState": true,
+      "duplicateWarningVisible": true,
+      "closedApplicationWarningVisible": true
+    }
+  },
+  "navigationTimeoutRecovered": true,
+  "osakaSearchOnlyOne": true,
+  "osakaForeignResidenceVisible": true,
+  "osakaLanguageUncertain": true,
+  "reviewWarning": true,
+  "sharedOsakaViewRestored": true
+}

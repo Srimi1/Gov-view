@@ -1,0 +1,67 @@
+{
+  "phase": 82,
+  "preparation": {
+    "sessionId": 26198,
+    "exitCode": 0,
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "sessionId": 79858,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-82-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "sessionId": 69380,
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-82-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "IN",
+      "FJ",
+      "PG",
+      "SB",
+      "WS"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-82-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "RBI and Assistant official HTML rendered in ordinary browser after reader human-verification response; no CAPTCHA solved.",
+      "PNG job portal initially empty then rendered cards; View navigation timed out, same tab rendered Test placeholder detail. No job terms accepted.",
+      "Fiji central portal reader/browser navigation and observation timed out; no usable role page.",
+      "Solomon Islands reader failed; ordinary browser application route, vacancy list and graduate detail read.",
+      "Local India and PNG navigation timed out; same tabs recovered. PNG helper focus timeout resolved through screenshot then DOM observation.",
+      "India shared query restored after hydration; clear restored 100. Pacific pages show unknown timestamps and unconnected coverage. Empty text filter does not imply no opportunities or ineligibility."
+    ]
+  },
+  "researchFailures": [
+    "RBI selection/language appendices reader human-verification or inaccessible; originals not accepted.",
+    "Fiji central portal inaccessible during check.",
+    "PNG sample has placeholder substantive fields; production authenticity unresolved. Historical non-citizen order search lead not accepted.",
+    "Samoa AG003269 ZIP unsupported; no download/extraction. Circular/table reference code conflict and layout reconciliation remain unresolved."
+  ],
+  "researchObservationCorrection": {
+    "exitCode": 0,
+    "filesChanged": 2,
+    "description": "Current RBI directory browser observation recorded in input and matrix; complete inventory still unresolved."
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 36026,
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T03:45:49.903630+00:00"
+  }
+}

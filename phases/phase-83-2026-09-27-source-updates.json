@@ -1,0 +1,41 @@
+[
+  {
+    "sourceId": "in-rbi-careers",
+    "changedFields": [
+      "notes",
+      "accessGap"
+    ],
+    "before": {
+      "id": "in-rbi-careers",
+      "name": "India — Reserve Bank of India careers",
+      "country": "IN",
+      "authority": "Reserve Bank of India — Services Board and Human Resource Management",
+      "homepage": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx",
+      "discoveredFrom": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4997",
+      "notes": "Official RBI Grade B notice dated 29 April 2026, panel year 2026, describes direct recruitment on probation: initially two years, extendable to four. Original window closed 20 May at 18:00; governing timezone unverified. It permits Indian citizens, subjects of Nepal/Bhutan and specified Tibetan-refugee/Indian-origin migration categories. Required Government of India eligibility certificate can remain pending at examination admission but must be issued before appointment offer. This is restricted-category eligibility, not permission for every foreign citizen. Assistant panel year 2025 was advertised 16 February 2026. Its preliminary/main selection includes English tests and mandatory state official/local-language proficiency test, without exemption or CEFR equivalence. These are separate cycles; edit notices and exam cities do not create new intakes.",
+      "accessGap": "Browser-read HTML research awaiting review; reader returned human-verification pages. No CAPTCHA solved, raw originals retained, adapter accepted or cycle published. Grade B language appendices and Assistant office-language mapping PDF inaccessible to reader and not accepted. Assistant original March window and tentative examination dates must be reconciled with linked corrigendum/April notices before publication. Full nationality category definitions, age, qualification equivalence, attempts, reservation conditions and official timezone require review. Online examinations occur at allocated centres, not assumed remote-from-home tests. National scope has no state tags inferred from examination cities. Complete RBI and other-pathway coverage unverified.",
+      "connector": "none",
+      "cadenceHours": 24,
+      "enabled": false,
+      "reviewRequired": true,
+      "discoveredAt": "2026-09-27",
+      "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+    },
+    "after": {
+      "id": "in-rbi-careers",
+      "name": "India — Reserve Bank of India careers",
+      "country": "IN",
+      "authority": "Reserve Bank of India — Services Board and Human Resource Management",
+      "homepage": "https://opportunities.rbi.org.in/Scripts/Vacancies.aspx",
+      "discoveredFrom": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4997",
+      "notes": "Official RBI Grade B notice dated 29 April 2026, panel year 2026, describes direct recruitment on probation: initially two years, extendable to four. Original window closed 20 May at 18:00; governing timezone unverified. It permits Indian citizens, subjects of Nepal/Bhutan and specified Tibetan-refugee/Indian-origin migration categories. Required Government of India eligibility certificate can remain pending at examination admission but must be issued before appointment offer. This is restricted-category eligibility, not permission for every foreign citizen. Assistant panel year 2025 was advertised 16 February 2026. Its preliminary/main selection includes English tests and mandatory state official/local-language proficiency test, without exemption or CEFR equivalence. These are separate cycles; edit notices and exam cities do not create new intakes. Phase 83 current-contract research: Current Itanagar medical-consultant notice dated 23 September 2026 describes a part-time, three-year contract with no renewal and independent medical-service-provider status. Printed deadline 22 October 2026 at 17:00; timezone unverified. MBBS recognition, two years of medical practice, EWS certification and local dispensary/residence conditions require notice-specific review. Interview precedes medical fitness and contractual engagement. Earlier Grade B/Assistant nationality certificate routes and Assistant local-language test must not be transferred to this medical contract. Nationality and language threshold for this sample remain unverified.",
+      "accessGap": "Browser-read HTML research awaiting review; reader returned human-verification pages. No CAPTCHA solved, raw originals retained, adapter accepted or cycle published. Grade B language appendices and Assistant office-language mapping PDF inaccessible to reader and not accepted. Assistant original March window and tentative examination dates must be reconciled with linked corrigendum/April notices before publication. Full nationality category definitions, age, qualification equivalence, attempts, reservation conditions and official timezone require review. Online examinations occur at allocated centres, not assumed remote-from-home tests. National scope has no state tags inferred from examination cities. Complete RBI and other-pathway coverage unverified. Phase 83 current-contract research: Current BMC HTML read in ordinary browser after reader human-verification response; no CAPTCHA solved. Application/EWS annex PDFs unreviewed, medical recognition terminology and the printed dispensary-or-residence 3–5 km wording need review. Published office address is a work location, not an interview venue. Publication date does not establish intake opening. No original retained, collector accepted, personalized eligibility cleared or cycle published.",
+      "connector": "none",
+      "cadenceHours": 24,
+      "enabled": false,
+      "reviewRequired": true,
+      "discoveredAt": "2026-09-27",
+      "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+    }
+  }
+]

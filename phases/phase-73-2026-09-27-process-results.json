@@ -1,0 +1,22 @@
+{
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0
+  },
+  "productionBuildRun": false,
+  "fullSuiteRerun": false,
+  "browserNavigationTimeout": "Recovered by same-tab observation; existing port 3003 listener returned HTTP 200; no restart.",
+  "finalVerifier": {
+    "sessionId": 25979,
+    "exitCode": 0,
+    "sourcesEnriched": 2,
+    "registeredSources": 202,
+    "indiaSources": 99,
+    "protectedFilesUnchanged": 83,
+    "savedFiles": 18
+  }
+}

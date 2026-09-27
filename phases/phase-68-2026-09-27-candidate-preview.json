@@ -1,0 +1,196 @@
+{
+  "purpose": "Offline preview from retained originals. Not a stored review packet, approval or published record.",
+  "createdAt": "2026-09-26T23:45:48.976Z",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "2026 · joint application",
+      "programme": "MPESB Subedar Stenographer and Assistant Sub-Inspector Recruitment Test",
+      "status": "open",
+      "statusNote": "New applications 24 September–8 October; corrections end 13 October. First-stage exams start 3 November, not an assigned exam date. Complete Hindi rulebook and appointment conditions await founder review.",
+      "scopeLabel": "Madhya Pradesh police hiring scope. Cadres and work units do not identify examination venues.",
+      "outcome": "Possible Subedar (Ministerial Stenographer) or ASI (Ministerial) appointment following written, document, skill and medical checks. Class III classification and minimum service before transfer do not establish permanent tenure.",
+      "qualifications": "Both roles require higher-secondary/10+2 qualification, CPCT with Hindi typing and specified recognized computer qualification routes. Subedar additionally requires a recognized Hindi shorthand examination at 100 words per minute. Qualification equivalence and documentary proof need review (pp. 9–10).",
+      "citizenshipRule": "Rulebook p. 6, clause 3(i): applicant must be an Indian citizen. Foreign citizens do not meet this condition for this joint police recruitment.",
+      "residenceRule": "Non-MP domiciled applicants may apply only for unreserved open vacancies, with no reservation or age-relaxation benefits and a maximum age of 33 on 8 October 2026 (p. 9). MP domicile supports specified concessions; it is not a blanket bar on other Indian applicants.",
+      "selectionStages": [
+        "Joint online application and certificates",
+        "First-stage Hindi MCQ",
+        "Police document verification and role-specific practical/skill tests",
+        "Medical, character and final appointment checks"
+      ],
+      "fee": "First page distinguishes ESB examination fees, police departmental fees and MPOnline charges, with certain MP-domicile concessions. Full combined amount and applicant category need founder confirmation.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Original MPESB Steno/ASI 2026 rulebook p. 6, clause 3(i): Indian citizenship mandatory."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Original pp. 9–10: higher-secondary/10+2 qualification for both roles; additional computer/skill certificates remain mandatory."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "requirement": "CPCT certificate passed with Hindi typing",
+            "mandatory": true,
+            "stage": "apply",
+            "certificateRequired": true,
+            "evidence": "Original rulebook p. 9 specifies CPCT with Hindi typing for both roles; required certificates by 8 October are in clause 3(iii), p. 6.",
+            "sourceUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf"
+          },
+          {
+            "language": "hi",
+            "requirement": "First-stage written multiple-choice examination in Hindi",
+            "mandatory": true,
+            "stage": "selection",
+            "certificateRequired": false,
+            "evidence": "Original rulebook p. 13, clauses 8–9: first-stage Hindi MCQ.",
+            "sourceUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify recognized 10+2 and computer qualification route, CPCT Hindi typing, certificates by 8 October, age/category/domicile and fee. Subedar applicants additionally need recognized Hindi shorthand qualification at 100 words per minute; do not apply that role condition to ASI alone."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Hindi MCQ ability, admit card/ID and assigned venue, documents and role-specific practical tests. Government employees need prior appointing-authority permission to participate in the examination (p. 7, clause 3(iv)). First-stage start date is not an individual test appointment."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify medical, character, family/service conditions and final appointment terms. Selected government employees need accepted resignation/release from previous service (p. 7, clause 3(iv)); exam success does not guarantee appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Applicant examination and practical-test venues not assigned in this extraction"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://esb.mponline.gov.in/Portal/Examinations/ESB/notifications.aspx?langid=en-US&id=86",
+      "changes": [],
+      "id": "mpesb-subedar-steno-asi-2026",
+      "sourceId": "in-mp-esb-steno-asi-2026",
+      "title": "Madhya Pradesh Police — Subedar (Stenographer) and ASI (Ministerial), 2026",
+      "authority": "Police Headquarters, Home (Police) Department, Government of Madhya Pradesh",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MP"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Original p. 1 and both official registers give 8 October closing date. Clause 2.17(i), p. 29 says midnight on the final date; timezone and midnight interpretation remain unverified. No 23:59 or next-day cutoff invented. 13 October concerns corrections only."
+      },
+      "languageNote": "First-stage MCQ is in Hindi (p. 13). Both roles require CPCT certificate with Hindi typing; Subedar additionally requires recognized Hindi shorthand examination at 100 words per minute (p. 9). These are specific skills/certificates, not CEFR levels. Role-specific practical tests and equivalences require review.",
+      "sources": [
+        {
+          "id": "in-mp-esb-steno-asi-2026:ed1d4a3f5431",
+          "title": "MPESB Steno/ASI 2026 current form and rulebook links",
+          "authority": "Madhya Pradesh Employees Selection Board",
+          "language": "English/Hindi",
+          "format": "HTML",
+          "url": "https://esb.mp.gov.in/home_n.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://esb.mp.gov.in/home_n.html",
+          "sha256": "4959757fe320bebd5f28bd8d613fcc86eae65864868ad0d5db92593059467c2e",
+          "lastSuccessfulFetchAt": "2026-09-26T23:33:05.788Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mp-esb-steno-asi-2026:0ead6a745a78",
+          "title": "MPESB Steno/ASI application, correction and exam-start dates",
+          "authority": "Madhya Pradesh Employees Selection Board",
+          "language": "English/Hindi",
+          "format": "HTML",
+          "url": "https://esb.mp.gov.in/student_dashboard.htm",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://esb.mp.gov.in/student_dashboard.htm",
+          "sha256": "e9ac12c6260687314428203a97d71bb077458cf06c13cc408fa63002f9792eb1",
+          "lastSuccessfulFetchAt": "2026-09-26T23:32:20.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mp-esb-steno-asi-2026:68114ac08fab",
+          "title": "MPOnline joint Steno/ASI 2026 new-application service",
+          "authority": "Madhya Pradesh Employees Selection Board",
+          "language": "Hindi",
+          "format": "HTML",
+          "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+          "sha256": "50fdfafaca8734f0c94e6072283108b53de9fab888f44f7537aaff6d05dee825",
+          "lastSuccessfulFetchAt": "2026-09-26T23:33:07.005Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mp-esb-steno-asi-2026:94e8ffdab13e",
+          "title": "MPESB Steno/ASI 2026 original Hindi rulebook",
+          "authority": "Madhya Pradesh Employees Selection Board",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+          "sha256": "0af335cfde1efd8e339d1dab7c29c68127152d987d59cea35494ce9ce12b6f8c",
+          "lastSuccessfulFetchAt": "2026-09-26T23:33:28.695Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://esb.mp.gov.in/home_n.html",
+      "fetchedAt": "2026-09-26T23:33:05.788Z",
+      "sha256": "4959757fe320bebd5f28bd8d613fcc86eae65864868ad0d5db92593059467c2e",
+      "contentType": "text/html",
+      "bytes": 11543
+    },
+    {
+      "url": "https://esb.mp.gov.in/student_dashboard.htm",
+      "fetchedAt": "2026-09-26T23:32:20.240Z",
+      "sha256": "e9ac12c6260687314428203a97d71bb077458cf06c13cc408fa63002f9792eb1",
+      "contentType": "text/html",
+      "bytes": 534685
+    },
+    {
+      "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+      "fetchedAt": "2026-09-26T23:33:07.005Z",
+      "sha256": "50fdfafaca8734f0c94e6072283108b53de9fab888f44f7537aaff6d05dee825",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 61033
+    },
+    {
+      "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+      "fetchedAt": "2026-09-26T23:33:28.695Z",
+      "sha256": "0af335cfde1efd8e339d1dab7c29c68127152d987d59cea35494ce9ce12b6f8c",
+      "contentType": "application/pdf",
+      "bytes": 2314726
+    }
+  ],
+  "complete": false,
+  "warnings": [
+    "Exact-hash pilot covers one joint 2026 Steno/ASI application. Other ESB, MPPSC and departmental recruitment remain gaps.",
+    "Hindi extraction awaits human review. Nationality, CPCT, role-specific shorthand and non-MP open-category route are separate conditions.",
+    "Midnight wording lacks verified timezone; deadline boundary remains uncertain. Correction service never extends new applications."
+  ]
+}

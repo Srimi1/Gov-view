@@ -1,0 +1,34 @@
+{
+  "japanRegisteredSources": 10,
+  "territories": {
+    "AS": {
+      "oneSource": true,
+      "noAdapter": true,
+      "neverFetched": true,
+      "zeroPublicRecords": true,
+      "notConnected": true,
+      "malformedDatePreserved": true,
+      "dateNotRepaired": true,
+      "unknownNationalityLanguage": true
+    },
+    "MP": {
+      "oneSource": true,
+      "noAdapter": true,
+      "neverFetched": true,
+      "zeroPublicRecords": true,
+      "notConnected": true,
+      "certificateGapVisible": true,
+      "noBypass": true,
+      "historicalNotCurrent": true
+    }
+  },
+  "reviewWarning": true,
+  "tokyoOneResult": true,
+  "tokyoNationalityRestriction": true,
+  "tokyoResidenceNotOverride": true,
+  "tokyoLanguageUncertain": true,
+  "hokkaidoOneResult": true,
+  "hokkaidoScopedNationalityRestriction": true,
+  "hokkaidoClosedWindow": true,
+  "sharedTokyoViewRestored": true
+}

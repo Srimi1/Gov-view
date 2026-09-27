@@ -1,0 +1,106 @@
+{
+  "savedAt": "2026-09-27T07:14:46.261060+00:00",
+  "status": "directory preservation verified; browser acceptance passed",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 61046,
+      "sha256": "a1ce15357895d2ed4b71f496393484ce2eda578667b7539d3625ba87a86c940c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 73154,
+      "sha256": "b92264a26ba9898fd69e4031e36b217593ca95e57ab358d80d3cd0e644ad8cae"
+    },
+    {
+      "path": "data/discovery/india-nmdc-nalco-lesotho-mozambique-recruitment-2026-09-27.json",
+      "bytes": 25800,
+      "sha256": "a7263ece93e32f54a4492f93024f1e6147fee3190f311f5aa90a5e50482dfb87"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 246555,
+      "sha256": "837fbdd176ad0a136f08b2922a8c3fe1c9865ae7923b0188cb1743b7a2c5f033"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-baseline.json",
+      "bytes": 690724,
+      "sha256": "c02be6be1076fe6bdfe11c1212ebc9a2703018ffecb8021d4248515c95c710b4"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-browser-checks.json",
+      "bytes": 2253,
+      "sha256": "755bede9f44c0e941635993908eefa8ec8480d979429bcba2ce607010116f3b6"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-finalize.py",
+      "bytes": 3131,
+      "sha256": "94f41548c90a5748c8e7ddc46885dfc728f5987247283ee9cb887395f4a8257e"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-focused-tests.txt",
+      "bytes": 672,
+      "sha256": "1a7547eb47eec9b344f2ac0e62da796c89d485aa985ca8ba484ee768c5df081c"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-preparation-initial-failure.json",
+      "bytes": 320,
+      "sha256": "8281b20444ee320a3c57950bb5918b76b8c4be413296ba192ed9966be182bb89"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-prepare.py",
+      "bytes": 4753,
+      "sha256": "29df63baf54f84f25b5ee2561ba689c529eda55821b8ca59ed1066ba07ab2f6e"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-process-results.json",
+      "bytes": 2841,
+      "sha256": "ba3c79e66d24647e232c34ece17d495bc8c1c460bfc3632a1e9bd4ece3c7b753"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-research-input.json",
+      "bytes": 17413,
+      "sha256": "97fc95c62dbe8159211ee99b0591c7c2ab3899c81371bc8de2fc664c2f598884"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-source-config.json",
+      "bytes": 8184,
+      "sha256": "4641d27b3ac042e87581473c15e0df64954e31296665ef6521d09755f98b8a81"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-source-preview.png",
+      "bytes": 219786,
+      "sha256": "f8e29670f1bfdba640748a4062342c1a459623c02f35663209c9ee467d4a41ec"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-verification.json",
+      "bytes": 1647,
+      "sha256": "a07fb123b8f910e95821f630a9b711da242ce26941dda3b9aef510495b16f2e3"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-verify.py",
+      "bytes": 7806,
+      "sha256": "ec5b316960d27ad74d2542cce7be1d656dabdcba37ee312484e291cb1c95c919"
+    },
+    {
+      "path": "phases/phase-94-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 8534,
+      "sha256": "2d38fe2bcb4c0b42cd433badc9ef078a28406614a7fc74256dcae5c9dda40a07"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "e6daff0bb773912237da36f1c14c453c489596581d8c3d9f1ed2928bde66aba4"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 430996,
+      "sha256": "b50236e0b7484e9efb5fa93325dfa841113dff92e967bbc707f6e98a93576abe"
+    }
+  ]
+}

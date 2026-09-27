@@ -1,0 +1,12 @@
+{
+  "spec": "No actionable findings; browser navigation subsequently checked by root",
+  "standardsInitialFinding": {
+    "priority": "P2",
+    "issue": "Audit whole-file compression/decompression not memory bounded"
+  },
+  "fix": "Streaming 1 MiB chunks and 128 MiB decoded body limit",
+  "followup": "Resolved; no remaining scoped findings",
+  "workerChecks": 4,
+  "originalAuditRuntime": "Whole-store audit began before memory fix; results are read-only measurements from original worker. Updated worker checked separately.",
+  "scope": "Source-directory filters and read-only storage audit; not worldwide acceptance audit"
+}

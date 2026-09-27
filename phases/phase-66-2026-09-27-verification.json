@@ -1,0 +1,55 @@
+{
+  "phase": 66,
+  "checkedAt": "2026-09-26T23:15:04.015058+00:00",
+  "verificationRuntime": "Python standard library with bounded child-process file reads. Earlier Node and first Python verifiers interrupted after stalled reads of existing review files. Final hashes checked against baseline.",
+  "localFileReadRetries": [],
+  "registeredSources": 174,
+  "indiaSources": 98,
+  "existingSourcesUnchanged": 167,
+  "newSources": 7,
+  "allNewSourcesDisabledReviewRequired": true,
+  "existingCoverageRowsUnchanged": 56,
+  "newJurisdictions": [
+    "CN",
+    "TW",
+    "MN",
+    "VN",
+    "KH",
+    "LA"
+  ],
+  "protectedFilesUnchanged": 83,
+  "reviewPacketsUnchanged": 82,
+  "researchRequests": 22,
+  "retainedOriginals": 7,
+  "failedRequests": 15,
+  "retainedPdfOriginals": 0,
+  "collectionJobs": 0,
+  "publicationDecisions": 0,
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0,
+    "countries": 0
+  },
+  "tests": {
+    "command": "node --experimental-strip-types --test scripts/report-metrics.test.ts",
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "browser": {
+    "checkedAt": "2026-09-26T23:09:43.825Z",
+    "url": "http://localhost:3003/coverage/KH/#official-sources",
+    "renderedSourceCount": 2,
+    "query": "short-term",
+    "results": 1,
+    "awaitingReviewLabel": true,
+    "appointmentTypeVisible": true,
+    "foreignCitizenUncertaintyVisible": true,
+    "languageUncertaintyVisible": true,
+    "knownGaps": 2,
+    "publicRecords": 0,
+    "collectorFetchedSources": 0,
+    "screenshot": "phases/phase-66-2026-09-27-contract-source-search.png",
+    "browserRecovery": "Original tab connection lost during reload. New Chrome tab verified corrected gap display and search."
+  }
+}

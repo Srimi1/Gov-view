@@ -1,0 +1,12 @@
+{
+  "measuredAt": "2026-09-26T23:48:25.012105+00:00",
+  "retainedEvidenceBytes": 871622022,
+  "limitBytes": 838860800,
+  "excessBytes": 32761222,
+  "stagingExitCode": 1,
+  "error": "Retained evidence storage budget reached; previous records preserved",
+  "newReviewPackets": 0,
+  "writeFreeLiveDryRunExitCode": 0,
+  "draftPreview": "phases/phase-68-2026-09-27-candidate-preview.json",
+  "limitChanged": false
+}

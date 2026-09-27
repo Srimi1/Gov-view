@@ -1,0 +1,84 @@
+[
+  {
+    "id":"im-public-service-careers",
+    "country":"IM",
+    "name":"Isle of Man — Public Service careers",
+    "authority":"Isle of Man Government — Office of Human Resources",
+    "homepage":"https://www.jobtrain.co.uk/iomgovjobs/Home/Job",
+    "discoveredFrom":"https://www.gov.im/categories/working-in-the-isle-of-man/finding-a-job/",
+    "notes":"Government page identifies Jobtrain as its public-sector recruitment service. Browser list includes permanent, limited-term and internal-only roles; reader's zero-row response is not an empty-inventory result. Sample DOEF-025466 Grounds Staff (JobId 35546) is permanent, full-time at Curraghs Wildlife Park, closes 12 October 2026 and offers no relocation package. Detail says applications accepted up to midnight of closing date; boundary meaning and official timezone require review, not an invented 23:59 cutoff. Guidance separates Isle of Man Worker/local work-permit status from Worker Migrant visa and employer Confirmation of Employment. Relocation support or its absence is not nationality permission. No sample language threshold verified; person specification unreviewed.",
+    "accessGap":"Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Supporting job-description PDF reader inaccessible. Full qualifications, nationality, actual selection requirements, formal language levels, permitted collection and amendments remain gaps. Guidance nationality/visa categories require current immigration reconciliation; local worker status is separate from citizenship. Internal-only roles must not become external intakes. Park is work location, not examination venue. Complete public-employer and other-pathway coverage unverified.",
+    "appointmentType":"DOEF-025466 is permanent, full-time; list separately labels limited-term and internal-only roles.",
+    "internationalApplicantAssessment":"Guidance describes local work-permit and immigration visa/Confirmation of Employment routes separately. Sample does not establish foreign-citizen permission; no relocation package is not a ban. All three individual assessments need verification.",
+    "languageAssessment":"English interface and guidance observed; no sample-specific language threshold verified. Supporting person specification and applicable immigration requirements need review.",
+    "documents":[
+      {"url":"https://www.gov.im/categories/working-in-the-isle-of-man/finding-a-job/","label":"Government identifies official public-sector vacancies service","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.jobtrain.co.uk/iomgovjobs/Home/Job","label":"Public-service vacancy list","sourceLanguage":"English","readerStatus":"reader returned zero rows; ordinary browser rendered multiple roles; no empty-inventory claim"},
+      {"url":"https://www.jobtrain.co.uk/iomgovjobs/Job/JobDetail?JobId=35546","label":"DOEF-025466 Grounds Staff full detail","sourceLanguage":"English","readerStatus":"ordinary browser full rendered notice read"},
+      {"url":"https://www.jobtrain.co.uk/iomgovjobs/CMS/CMSPage/19","label":"Application guidance, local work permits and immigration visas","sourceLanguage":"English","readerStatus":"reader-accessible; exact current immigration-law reconciliation pending"},
+      {"url":"https://www.jobtrain.co.uk/iomgovjobs/Job/GetJobAdvertDocument?Id=231633&JobId=35546","label":"Linked Grounds Staff job description and person specification","sourceLanguage":"English","readerStatus":"reader-inaccessible; not downloaded or accepted"}
+    ]
+  },
+  {
+    "id":"je-public-service-careers",
+    "country":"JE",
+    "name":"Jersey — Public Service careers",
+    "authority":"Government of Jersey — Jersey Public Service",
+    "homepage":"https://careers.gov.je/",
+    "discoveredFrom":"https://www.gov.je/working/jobcareeradvice/pages/jobs.aspx",
+    "notes":"Government Jobs in Jersey page separates public-service portal from private-sector jobs. Sample Lecturer - Media Studies is permanent/full-time, closes 11 October 2026 date-only and requires candidate to be entitled for work. Residential/employment status, immigration permission and nationality are separate. Recruitment policy version 1.2 effective 27 March 2026 permits licensed recruitment only in limited circumstances; it does not guarantee sponsorship for every post. Lecturer criteria include level-two literacy/numeracy and fluent effective communication, without a named language or CEFR threshold. Work-permit policy Appendix 3 states English CEFR B1 across four skills for applicable routes, IELTS for UKVI 4.0 overall and each component, with exemptions/alternative proofs; this is immigration evidence, not a universal job-entry requirement.",
+    "accessGap":"Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Exact candidate employment status, immigration exceptions, licensed permission, qualifications, amendments, application opening/timezone and language-route applicability require review. General moving-to-Jersey page simplifies work-permit rules; detailed policy lists additional exemptions and controls interpretation. Permit English B1 must not override the sample's entitled-for-work restriction or substitute for qualifications. Current employees use separate internal Connect People portal. Complete public-authority and other-pathway coverage unverified.",
+    "appointmentType":"Sample Lecturer - Media Studies is permanent/full-time; portal also contains other contract types, which require exact notices.",
+    "internationalApplicantAssessment":"Sample requires entitled-for-work status. Recruitment licensed permission and immigration work permits have separate conditions and exceptions; nationality alone cannot establish eligibility. Full application, selection and appointment assessments remain unverified.",
+    "languageAssessment":"Sample communication/literacy criteria have no named CEFR level. Immigration Appendix 3 gives English B1/four skills and IELTS for UKVI 4.0 overall/each component for applicable routes, with exemptions and alternative proofs including nationality, academic and school qualifications or professional assessments. Do not apply this threshold to every job or applicant.",
+    "documents":[
+      {"url":"https://www.gov.je/working/jobcareeradvice/pages/jobs.aspx","label":"Government identifies public recruitment separately from private jobs","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://careers.gov.je/","label":"Jersey Public Service careers","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://careers.gov.je/search/?createNewAlert=false&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=&q=","label":"Current public-service search","sourceLanguage":"English","readerStatus":"reader-accessible; displayed result totals not accepted cycle counts"},
+      {"url":"https://careers.gov.je/job/Lecturer-Media-Studies/1369449655/","label":"Permanent Lecturer sample and entitled-for-work condition","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gov.je/Working/WorkingForTheStates/PoliciesAndProcedures/PeopleServices/Pages/RecruitmentSelection.aspx","label":"Recruitment policy 1.2 effective 27 March 2026","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gov.je/LifeEvents/MovingToJersey/LivingInJersey/pages/work.aspx/work.aspx","label":"Employment-status overview and simplified permit statement","sourceLanguage":"English","readerStatus":"reader-accessible; reconcile with detailed permit policy exemptions"},
+      {"url":"https://www.gov.je/Working/WorkPermits/Pages/WorkPermitPolicy.aspx","label":"Detailed work-permit exemptions and Appendix 3 English requirements","sourceLanguage":"English","readerStatus":"reader-accessible; relevant sections read, route applicability awaits review"}
+    ]
+  },
+  {
+    "id":"gg-financial-services-commission-careers",
+    "country":"GG",
+    "name":"Guernsey — Financial Services Commission careers",
+    "authority":"Guernsey Financial Services Commission",
+    "homepage":"https://www.gfsc.gg/careers",
+    "discoveredFrom":"https://www.gfsc.gg/careers",
+    "notes":"Commission identifies itself as independent public body accountable to States of Guernsey, funded by regulated licensees. Its own recruitment is public-regulator employment; private jobs at regulated firms are outside source scope. Sample Analyst - Investment, Fiduciary and Pension Division closes 30 September 2026 date-only, timezone unknown. Linked September 2026 job description requires clear written work and professional communication without a named language or formal proficiency level. Tenure and foreign-national permission are unstated in checked sample. Relocation information is not work/immigration permission. Speculative applications and graduate/school-leaver routes are distinct from specific application cycles.",
+    "accessGap":"Reader-only discovery awaiting review; no adapter, retained originals/hash, accepted connector or published cycle. Sample two-page PDF text read, exact bytes not accepted. Nationality, residence, permit/sponsorship, tenure, qualifications, amendments and cutoff timezone need authority review. States of Guernsey careers page reader failed and browser ended ERR_CONNECTION_TIMED_OUT; it remains an unresolved separate public-service source, not checked-empty. Regulator source does not complete Bailiwick public-employer coverage or other pathways.",
+    "appointmentType":"Sample is Analyst recruitment at independent public regulator; permanent/temporary tenure unverified.",
+    "internationalApplicantAssessment":"Not established by checked Analyst notice or relocation page. Public-body status, international regulatory work and relocation information do not grant foreign-citizen permission.",
+    "languageAssessment":"September 2026 job description specifies written and professional communication skills; no named language, test score or CEFR threshold verified.",
+    "documents":[
+      {"url":"https://www.gfsc.gg/careers","label":"Official public-regulator status and recruitment list","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gfsc.gg/careers/analyst-investment-fiduciary-and-pension-division-2","label":"Current Analyst sample","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gfsc.gg/sites/default/files/inline-files/20260902%20Analyst%20Investment%20Fiduciary%20and%20Pension%20-%20Job%20Description_0.pdf","label":"September 2026 Analyst job description","sourceLanguage":"English","readerStatus":"reader text accessible on both pages; no byte/hash acceptance","numberOfPages":2},
+      {"url":"https://www.gfsc.gg/careers/relocating-to-guernsey","label":"Relocation information, not eligibility permission","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gov.gg/careers","label":"Separate States public-service source unresolved","sourceLanguage":"Unverified current page","readerStatus":"reader failed; browser navigation/observation timeouts then visible ERR_CONNECTION_TIMED_OUT; not registered or empty-inventory proof"}
+    ]
+  },
+  {
+    "id":"gi-government-job-opportunities",
+    "country":"GI",
+    "name":"Gibraltar — Government job opportunities",
+    "authority":"HM Government of Gibraltar — Department of Personnel and Development",
+    "homepage":"https://www.gibraltar.gov.gi/press/job-opportunities",
+    "discoveredFrom":"https://www.gibraltar.gov.gi/ministers/portfolios/personnel-development",
+    "notes":"Government recruitment department identifies external press notices and separate internal circulars. Job Opportunities archive includes passed deadlines, not only open applications. Administrative Assistant sample published 26 August 2026 is permanent, requires Gibraltar right of abode/red ID card and five specified school passes including English Language and Mathematics, held at application. Expression of Interest closed 9 September; written selection at Bayside Comprehensive School was scheduled 19 September 09:00–12:00, with later full applications only after qualifying exam pass. Right of abode is separate from nationality; external public recruitment does not mean every foreign citizen qualifies. English school qualification is not CEFR. Government banner clock is not evidence of governing deadline timezone.",
+    "accessGap":"Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample detail reader initially returned then timed out; full current rendered browser detail read. Linked notice image and person specification remain unreviewed. Closed Expression of Interest must not become an open full-application intake; candidate-specific later-stage notices and exact intake identity need review. Right-of-abode acquisition, nationality exceptions, full qualifications, amendments and official timezone unverified. Linked Microsoft form not opened or adopted as a published application URL. Full authority inventory and other pathways remain gaps.",
+    "appointmentType":"Administrative Assistant sample explicitly permanent; archive contains other roles with separate terms.",
+    "internationalApplicantAssessment":"Sample restricts entry to right-of-abode/red-ID holders. This is a residence/status condition, not a normalized nationality ban. Later application requires selection pass; three individual assessments remain unverified.",
+    "languageAssessment":"Sample requires specified English Language school pass or equivalent/higher qualification. No CEFR or language-test score inferred.",
+    "documents":[
+      {"url":"https://www.gibraltar.gov.gi/ministers/portfolios/personnel-development","label":"Government recruitment authority and external/internal routes","sourceLanguage":"English","readerStatus":"reader-accessible"},
+      {"url":"https://www.gibraltar.gov.gi/press/job-opportunities","label":"Official job-opportunity archive","sourceLanguage":"English","readerStatus":"reader-accessible; not open-only inventory"},
+      {"url":"https://www.gibraltar.gov.gi/press-releases/vacancies-for-administrative-assistant-12292","label":"Administrative Assistant sample, staged expression-of-interest and selection","sourceLanguage":"English","readerStatus":"initial reader response then repeated reader timeout; full rendered ordinary browser detail read"},
+      {"url":"https://www.gibraltar.gov.gi/uploads/_PressOffice/Vacancies/Official%20notice1.png","label":"Linked official notice image","sourceLanguage":"Unverified original","readerStatus":"linked in full browser detail; not opened, retained or accepted"},
+      {"url":"https://www.gibraltar.gov.gi/uploads/_PressOffice/Vacancies/AA%20Job%20Description%20and%20Person%20Specification.pdf","label":"Linked Administrative Assistant person specification","sourceLanguage":"Unverified original","readerStatus":"linked in full browser detail; not opened, retained or accepted"}
+    ]
+  }
+]

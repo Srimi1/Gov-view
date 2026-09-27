@@ -1,0 +1,31 @@
+{
+  "fullTests": {
+    "exitCode": 0,
+    "passed": 362,
+    "failed": 0,
+    "session": 73305
+  },
+  "typecheck": {
+    "exitCode": 0,
+    "session": 99421
+  },
+  "firstAudit": {
+    "exitCode": 1,
+    "session": 69250,
+    "error": "Evidence tree changed during audit; do not use mixed-time totals",
+    "originalWorker": "whole-file buffering; updated streaming worker checked separately"
+  },
+  "baseline": {
+    "exitCode": 0,
+    "session": 31244
+  },
+  "storageAudit": {
+    "sessionId": 37874,
+    "exitCode": 0,
+    "originalSnapshotComplete": false,
+    "auditedFiles": 2353,
+    "unreadFiles": 2,
+    "supplementalReadsSucceeded": 2,
+    "reconciledInventoryComplete": true
+  }
+}

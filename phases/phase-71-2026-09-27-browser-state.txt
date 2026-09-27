@@ -1,0 +1,73 @@
+Browser tab: 169868790, Title: "Romania coverage — GOV View", URL: "http://localhost:3003/coverage/RO/#official-sources".
+1 AXWebArea Romania coverage — GOV View, URL: localhost:3003/coverage/RO/#official-sources
+	2 container
+		3 link Description: GOV View, Value: localhost:3003/
+		4 container Main
+			5 link Description: Find opportunities, Value: localhost:3003/
+			6 link Description: Where we look, Value: localhost:3003/coverage/
+		7 link Description: ← Worldwide coverage directory, Value: localhost:3003/coverage/
+		8 heading RomaniaRO, Value: 1
+			9 text Romania RO
+		10 container
+			11 text Source access blocked or not connected .  Official source identified; collection blocked . Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in  Romania .
+		12 container
+			13 text Not a government website—confirm on official site. Directory built  27 Sept 2026 .
+		14 definition list
+			15 container Public records
+				16 text Public records
+			17 text 0
+			18 container Currently approved records
+				19 text Currently approved records
+			20 text 0
+			21 container Official sources registered
+				22 text Official sources registered
+			23 link Description: 1 — search sources, Value: localhost:3003/coverage/RO/#official-sources
+			24 container Sources fetched
+				25 text Sources fetched
+			26 text 0
+			27 container Last successful fetch
+				28 text Last successful fetch
+			29 text Never
+			30 container Last validation
+				31 text Last validation
+			32 text Never
+		33 container
+			34 heading Researched authorities, Value: 2
+				35 text Researched authorities
+			36 content list
+				37 container
+					38 AXListMarker • 
+					39 text Government of Romania — Information Technology Directorate
+		40 container official-sources
+			41 heading Official sources, Value: 2
+				42 text Official sources
+			43 text Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+			44 container
+				45 text Search official sources
+				46 search text field (settable) Search official sources, ID: source-search
+			47 text Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+			48 container
+				49 text 1  of  1  registered sources . Source counts are not application-cycle counts.
+			50 content list
+				51 container
+					52 link Description: Romania — Posturi public-sector contractual recruitment ↗, Value: posturi.gov.ro/
+					53 text Government of Romania — Information Technology Directorate Collection status:  Official source linked; adapter not built Applicant and source research — awaiting review Research only. Portal covers central/local public institutions, especially contractual personnel. Government Decision 1336/2022 lists Romanian, EU, EEA or Swiss citizenship and written/spoken Romanian for covered posts; no CEFR threshold was established. Scope exclusions and current post criteria need review. Sample SGG consilier II is indefinite employment. Its header deadline is 23 October 2026, while the application calendar ends 5 October; do not rely on the header as an application deadline. Collection gap Reader-only discovery; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Notice-specific residence, qualifications, age, fees, official timezone, venues and complete eligibility need review. Other authorities and pathways remain gaps. Reconcile sample header/body date conflict with original employer notice; some calendar rows have missing days. The linked original could not be read. Legislative reader shows a 27 April 2023 consolidation history; applicability and subsequent changes need review. Separate statutory civil-service and contractual routes.
+					54 link Description: Source identification evidence ↗, Value: posturi.gov.ro/despre/
+					55 text  · researched 2026-09-27
+		56 container
+			57 heading Known gaps, Value: 2
+				58 text Known gaps
+			59 content list
+				60 container
+					61 AXListMarker • 
+					62 text Romania — Posturi public-sector contractual recruitment: Reader-only discovery; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Notice-specific residence, qualifications, age, fees, official timezone, venues and complete eligibility need review. Other authorities and pathways remain gaps. Reconcile sample header/body date conflict with original employer notice; some calendar rows have missing days. The linked original could not be read. Legislative reader shows a 27 April 2023 consolidation history; applicability and subsequent changes need review. Separate statutory civil-service and contractual routes.
+			63 text Worldwide authority coverage and source completeness have not passed independent audit.
+		64 link Description: Browse Romania opportunities →, Value: localhost:3003/?country=RO
+	65 container
+		66 button logo icon
+			67 image logo icon
+			68 image
+		69 container
+			70 button
+
+The focused UI element is 1 AXWebArea Romania coverage — GOV View, URL: localhost:3003/coverage/RO/#official-sources

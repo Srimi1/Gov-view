@@ -1,0 +1,75 @@
+{
+  "phase": 86,
+  "preparation": {
+    "exitCode": 0,
+    "chunkId": "f488ba",
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "chunkId": "52be70",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-86-2026-09-27-focused-tests.txt",
+    "sessionId": 77153,
+    "initialChunkId": "6597d5",
+    "afterFinalNotes": true
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 9552,
+    "initialChunkId": "e865fd",
+    "chunkId": "866538",
+    "publicListings": 0,
+    "log": "phases/phase-86-2026-09-27-public-data-build.txt",
+    "afterFinalNotes": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "NTPC original advertisement frame blocked and reader inaccessible; nationality/tenure/language unverified.",
+    "Bermuda reader failed; browser successful after initial navigation abort.",
+    "Cayman job-description attachment unreviewed; session detail lacks unique link.",
+    "BVI list/detail date-display discrepancy and non-resident permission unresolved."
+  ],
+  "notesEnrichment": {
+    "exitCode": 0,
+    "sessionId": 94564,
+    "chunkId": "602d97",
+    "olderEntriesUnchanged": true
+  },
+  "documentation": {
+    "exitCode": 0,
+    "sessionId": 3552,
+    "chunkId": "3cb201"
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "BM",
+      "KY",
+      "VG"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 103,
+    "screenshot": "phases/phase-86-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 4844,
+    "chunkId": "f7056e",
+    "savedFiles": 18,
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T04:54:28.496856+00:00"
+  }
+}

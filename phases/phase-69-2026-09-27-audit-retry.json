@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-09-27T00:33:15.780017+00:00",
+  "readOnly": true,
+  "supplementalReadsOnly": true,
+  "originalWholeStoreAuditStillIncomplete": true,
+  "files": [
+    {
+      "path": "data/evidence/research/drdo-lrde-jrf-2026-evidence.json",
+      "exists": true,
+      "exitCode": 0,
+      "stderr": "",
+      "result": {
+        "path": "/Users/srimi/Library/Mobile Documents/com~apple~CloudDocs/Gov-view/data/evidence/research/drdo-lrde-jrf-2026-evidence.json",
+        "bytes": 267,
+        "sha256": "ef79a73f9c0a5e382b76ff7adb3dda424d9a377a3ce97f60ff964a7341f171cd",
+        "mtimeNs": 1790450669138478755
+      }
+    },
+    {
+      "path": "data/evidence/research/drdo-dysl-sm-jrf-detail-2026.html",
+      "exists": true,
+      "exitCode": 0,
+      "stderr": "",
+      "result": {
+        "path": "/Users/srimi/Library/Mobile Documents/com~apple~CloudDocs/Gov-view/data/evidence/research/drdo-dysl-sm-jrf-detail-2026.html",
+        "bytes": 281179,
+        "sha256": "d6448b09f660df807281a7785f615bdfe630284301219c7e4cb5755b2df6f495",
+        "mtimeNs": 1790450667119240283,
+        "gzipBytes": 97876
+      }
+    }
+  ]
+}

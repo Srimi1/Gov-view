@@ -1,0 +1,52 @@
+{
+  "countries": {
+    "IN": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "cycleCountsDistinct": true
+    },
+    "FJ": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "PG": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "SB": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "WS": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    }
+  },
+  "rbiCertificateAndLocalLanguageScoped": true,
+  "rbiPanelYearSeparateFromAdvertYear": true,
+  "indiaClearRestores100": true,
+  "fijiClosedCitizenshipScope": true,
+  "pngPlaceholderNotPublished": true,
+  "solomonTrainingNotPermanent": true,
+  "samoaVacanciesSeparateFromAppointments": true,
+  "noFalseEmptyInventory": true,
+  "sharedIndiaViewRestored": true,
+  "publicStateOnly": true
+}

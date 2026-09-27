@@ -1,0 +1,142 @@
+--- app/coverage/[code]/page.tsx (before Phase 64)
++++ app/coverage/[code]/page.tsx
+@@ -1,10 +1,11 @@
+ import type { Metadata } from "next";
+ import { notFound } from "next/navigation";
+ import SiteHeader from "@/components/SiteHeader";
++import SourceDirectory from "@/components/SourceDirectory";
+ import { withBase } from "@/lib/base-path";
+ import { coverageLabel, researchLabel } from "@/lib/coverage-labels";
+ import { dateLabel } from "@/lib/format";
+-import { countryCodes, countryName } from "@/lib/places";
++import { countryCodes, countryName, subdivisionName } from "@/lib/places";
+ import { publishedOverview } from "@/lib/published.server";
+ 
+ type Props = { params: Promise<{ code: string }> };
+@@ -26,12 +27,24 @@
+   const { demo, sources, status, coverage, counts, approvedCounts, generatedAt } = publishedOverview();
+   const record = coverage.find((item) => item.jurisdictionCode === code);
+   const registered = sources.filter((source) => source.country === code);
++  const sourceEntries = registered.map((source) => {
++    const info = status[source.id];
++    const collectionStatus = source.connector === "none" ? "Official source linked; adapter not built" : source.reviewRequired ? `Draft collection; founder review pending${info?.pendingReviewCount ? ` (${info.pendingReviewCount} draft${info.pendingReviewCount === 1 ? "" : "s"})` : ""}${info?.lastSuccessfulFetchAt ? `; checked ${dateLabel(info.lastSuccessfulFetchAt)}` : ""}${info?.lastError ? `; last attempt failed: ${info.lastError}` : ""}` : !source.enabled ? "Linked; collection not connected" : info?.needsSecret ? "Waiting for API credentials" : info?.lastError ? `Last attempt failed: ${info.lastError}` : info?.lastSuccessfulFetchAt ? `Last successful check ${dateLabel(info.lastSuccessfulFetchAt)}` : "Not checked yet";
++    return {
++      id: source.id, name: source.name, authority: source.authority, homepage: source.homepage,
++      collectionStatus,
++      jurisdictions: (source.subdivisionCodes ?? []).map((code) => ({ code, name: subdivisionName(code) })),
++      notes: source.notes, accessGap: source.accessGap,
++      discoveredFrom: source.discoveredFrom, discoveredAt: source.discoveredAt,
++    };
++  });
+   const publishedCount = demo ? 0 : counts[code] ?? 0;
+   const research = researchLabel(record, registered.length);
+-  const knownGaps = [
++  const researchedAuthorities = [...new Set(record?.researchedAuthorities ?? [])];
++  const knownGaps = [...new Set([
+     ...(record?.unresolvedGaps ?? []),
+     ...registered.filter((source) => source.accessGap).map((source) => `${source.name}: ${source.accessGap}`),
+-  ];
++  ])];
+ 
+   return <div className="app">
+     <SiteHeader current="coverage" />
+@@ -46,27 +59,18 @@
+         <dl className="coverage-facts">
+           <dt>Public records</dt><dd>{demo ? "—" : publishedCount.toLocaleString()}</dd>
+           <dt>Currently approved records</dt><dd>{demo ? "—" : (approvedCounts[code] ?? 0).toLocaleString()}</dd>
+-          <dt>Official sources registered</dt><dd>{registered.length}</dd>
++          <dt>Official sources registered</dt><dd>{registered.length ? <a href="#official-sources">{registered.length} — search sources</a> : 0}</dd>
+           <dt>Sources fetched</dt><dd>{record?.connectedSourceCount ?? 0}</dd>
+           <dt>Last successful fetch</dt><dd>{dateLabel(record?.lastSuccessfulFetchAt, "Never")}</dd>
+           <dt>Last validation</dt><dd>{dateLabel(record?.lastValidatedAt, "Never")}</dd>
+         </dl>
+         <section>
+           <h2>Researched authorities</h2>
+-          {record?.researchedAuthorities.length ? <ul>{record.researchedAuthorities.map((authority) => <li key={authority}>{authority}</li>)}</ul> : <p>None recorded yet.</p>}
++          {researchedAuthorities.length ? <ul>{researchedAuthorities.map((authority) => <li key={authority}>{authority}</li>)}</ul> : <p>None recorded yet.</p>}
+         </section>
+-        <section>
++        <section id="official-sources">
+           <h2>Official sources</h2>
+-          {registered.length ? <ul className="country-source-list">{registered.map((source) => {
+-            const info = status[source.id];
+-            const sourceState = source.connector === "none" ? "Official source linked; adapter not built" : source.reviewRequired ? `Draft collection; founder review pending${info?.pendingReviewCount ? ` (${info.pendingReviewCount} draft${info.pendingReviewCount === 1 ? "" : "s"})` : ""}${info?.lastSuccessfulFetchAt ? `; checked ${dateLabel(info.lastSuccessfulFetchAt)}` : ""}${info?.lastError ? `; last attempt failed: ${info.lastError}` : ""}` : !source.enabled ? "Linked; collection not connected" : info?.needsSecret ? "Waiting for API credentials" : info?.lastError ? `Last attempt failed: ${info.lastError}` : info?.lastSuccessfulFetchAt ? `Last successful check ${dateLabel(info.lastSuccessfulFetchAt)}` : "Not checked yet";
+-            return <li key={source.id}>
+-              <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name} ↗</a>
+-              <span>{sourceState}</span>
+-              {source.subdivisionCodes?.length ? <small>Jurisdiction: {source.subdivisionCodes.join(", ")}</small> : null}
+-              {source.accessGap && <small>Collection gap: {source.accessGap}</small>}
+-            </li>;
+-          })}</ul> : <p>No official source is registered for this place yet. This does not mean there are no opportunities.</p>}
++          {registered.length ? <SourceDirectory entries={sourceEntries} /> : <p>No official source is registered for this place yet. This does not mean there are no opportunities.</p>}
+         </section>
+         <section>
+           <h2>Known gaps</h2>
+--- app/globals.css (before Phase 64)
++++ app/globals.css
+@@ -273,8 +273,13 @@
+ .coverage-facts dt { color: var(--ink-3); }
+ .coverage-facts dd { margin: 0; }
+ .country-source-list { display: grid; gap: 12px; list-style: none; padding: 0 !important; }
+-.country-source-list li { display: grid; gap: 2px; padding: 12px; background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); }
++.country-source-list li { display: grid; gap: 6px; padding: 12px; background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius); overflow-wrap: anywhere; }
+ .country-source-list span, .country-source-list small { color: var(--ink-2); }
++.source-research, .source-gap { padding-top: 8px; border-top: 1px solid var(--rule); }
++.source-research strong, .source-gap strong { font-size: 14px; }
++.source-research p, .source-gap p, .source-search-help { color: var(--ink-2); font-size: 14px; line-height: 1.6; }
++.source-search-help { max-width: 560px; margin-top: 8px; }
++.source-clear { min-height: 44px; padding: 8px 12px; border: 1px solid var(--rule-strong); border-radius: var(--radius); background: var(--surface); color: var(--ink); cursor: pointer; }
+ .job-page { max-width: 760px; margin: 0 auto; background: var(--surface); border-left: 1px solid var(--rule); border-right: 1px solid var(--rule); min-height: 100%; }
+ .back-link { display: inline-flex; align-items: center; gap: 6px; margin: 18px 24px 0; font-size: 14px; }
+ 
+--- components/SourceDirectory.tsx (before Phase 64)
++++ components/SourceDirectory.tsx
+@@ -0,0 +1,48 @@
++"use client";
++
++import { useState } from "react";
++
++/** Public display fields only; collector configuration stays on the server. */
++export interface SourceDirectoryEntry {
++  id: string;
++  name: string;
++  authority: string;
++  homepage: string;
++  collectionStatus: string;
++  jurisdictions: { code: string; name: string }[];
++  notes?: string;
++  accessGap?: string;
++  discoveredFrom?: string;
++  discoveredAt?: string;
++}
++
++export default function SourceDirectory({ entries }: { entries: SourceDirectoryEntry[] }) {
++  const [query, setQuery] = useState("");
++  const needle = query.trim().toLocaleLowerCase();
++  const visible = entries.filter((entry) => [
++    entry.name, entry.authority, entry.notes, entry.accessGap,
++    ...entry.jurisdictions.flatMap(({ code, name }) => [code, name]),
++  ].join(" ").toLocaleLowerCase().includes(needle));
++
++  return <>
++    <p>Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.</p>
++    <label className="country-search" htmlFor="source-search">Search official sources
++      <input id="source-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Authority, state, citizenship or language" aria-describedby="source-search-help" />
++    </label>
++    <p id="source-search-help" className="source-search-help">Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.</p>
++    <p className="country-results" role="status">{visible.length} of {entries.length} registered sources. Source counts are not application-cycle counts.</p>
++    {query && <button type="button" className="source-clear" onClick={() => setQuery("")}>Clear source search</button>}
++    {visible.length ? <ul className="country-source-list">{visible.map((entry) => <li key={entry.id}>
++      <a href={entry.homepage} target="_blank" rel="noopener noreferrer">{entry.name} ↗</a>
++      <span>{entry.authority}</span>
++      <small>Collection status: {entry.collectionStatus}</small>
++      {entry.jurisdictions.length > 0 && <small>Jurisdiction: {entry.jurisdictions.map(({ code, name }) => `${name} (${code})`).join(", ")}</small>}
++      <div className="source-research">
++        <strong>Applicant and source research — awaiting review</strong>
++        <p>{entry.notes || "No applicant research recorded for this source. Appointment type, international-applicant permission and language criteria need the specific official notice."}</p>
++      </div>
++      {entry.accessGap && <div className="source-gap"><strong>Collection gap</strong><p>{entry.accessGap}</p></div>}
++      {entry.discoveredFrom && <small><a href={entry.discoveredFrom} target="_blank" rel="noopener noreferrer">Source identification evidence ↗</a>{entry.discoveredAt ? ` · researched ${entry.discoveredAt}` : ""}</small>}
++    </li>)}</ul> : <p>No registered source matches this text. This does not mean there are no opportunities or that you are ineligible.</p>}
++  </>;
++}

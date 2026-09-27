@@ -1,0 +1,35 @@
+{
+  "phase": 76,
+  "preparationAttempts": [
+    {
+      "exitCode": 1,
+      "registryOrCoverageWritten": false,
+      "error": "KeyError: 'reviewRequired'",
+      "resolution": "Optional legacy field omission preserved; safe default only in guard."
+    },
+    {
+      "exitCode": 0
+    }
+  ],
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 63871,
+    "log": "phases/phase-76-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 4567,
+    "log": "phases/phase-76-2026-09-27-public-data-build.txt"
+  },
+  "browserNavigationObservations": [
+    "Local initial navigation timed out; same tab then rendered and hydrated successfully.",
+    "External JSV PDF navigation timed out; document was not read."
+  ],
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 32013,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "completedAt": "2026-09-27T01:56:10.887039+00:00"
+  }
+}

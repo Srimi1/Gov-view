@@ -1,0 +1,44 @@
+{
+  "updates": {
+    "in-tg-recruitment": {
+      "homepage": "https://websitenew.tgpsc.gov.in/",
+      "discoveredFrom": "https://www.tgpsc.gov.in/",
+      "notes": "Reader-only research, awaiting review. Official legacy homepage links the new TGPSC portal. Manager (Engineering) 04/OG/HM/2026 guide specifies 130 provisional HMWSSB vacancies, direct recruitment and Indian citizenship; foreign citizens do not meet this notice's nationality rule. Engineering qualification must be declared by 18 September 2026; citizenship cannot override age or qualifications. Original application dates 23 September–17 October 2026, close 5:00 PM, official timezone unknown. Paper I English/Telugu, Paper II English; Basic English syllabus is 10th-class standard, not a proficiency certificate. Local reservation is separate from nationality; other-state applicants receive no reservation. OTR registration alone is not an application. Permanent tenure unverified.",
+      "accessGap": "New portal returned reader 403 but ordinary browser displayed current official notices; linked 42-page Manager guide, brief web note and 21 September syllabus clarification were readable through web research. Browser access does not clear previous non-text robots response, scheduled collector permission or health. Originals and amendment reconciliation remain unretained/unreviewed. Departmental tests, cancellation notices and selection results are not fresh unrestricted job applications. No new cycle, health timestamp, venue pin or accepted eligibility result."
+    },
+    "in-hp-jsv-recruitment": {
+      "notes": "Reader-only research, awaiting review. Official Jal Shakti recruitment index lists Katrain Para Pump Operator, Para Fitter and Multipurpose Worker notice dated 23 September 2026, alongside Thunag deadline-extension notice dated 9 September. Keylong selection/results and division skill-test notices are later recruitment stages, not fresh application cycles. Index labels establish role names only; appointment terms, nationality, required languages and current application windows remain unverified. Index header says 1 April 2025 despite September 2026 entries; that header is not source freshness.",
+      "accessGap": "Previous robots access failure remains unresolved. Current index is reader-accessible; Katrain and Kullu linked originals timed out in reader. Thunag extension is a one-page scanned PDF with no extracted text; browser showed thumbnail but no readable main page. Do not accept extension date or infer closure from these failures. Original notices, amendment linkage, foreign-applicant rules and language requirements need review. No new retained original, connector, review packet or validation timestamp."
+    }
+  },
+  "coverageGapEdits": [
+    {
+      "sourceId": "in-hp-jsv-recruitment",
+      "field": "notes",
+      "index": 41,
+      "before": "Himachal Pradesh Jal Shakti Vibhag — Recruitment: Official index displayed September 2026 division-level recruitment notices during manual research. No original applicant notice was retained under the project collector, so no deadline or eligibility is imported.",
+      "after": "Himachal Pradesh Jal Shakti Vibhag — Recruitment: Reader-only research, awaiting review. Official Jal Shakti recruitment index lists Katrain Para Pump Operator, Para Fitter and Multipurpose Worker notice dated 23 September 2026, alongside Thunag deadline-extension notice dated 9 September. Keylong selection/results and division skill-test notices are later recruitment stages, not fresh application cycles. Index labels establish role names only; appointment terms, nationality, required languages and current application windows remain unverified. Index header says 1 April 2025 despite September 2026 entries; that header is not source freshness."
+    },
+    {
+      "sourceId": "in-hp-jsv-recruitment",
+      "field": "accessGap",
+      "index": 190,
+      "before": "Himachal Pradesh Jal Shakti Vibhag — Recruitment: On 25 September 2026 the collector could not reach jsv.hp.gov.in/robots.txt; collection is disabled until access policy can be established.",
+      "after": "Himachal Pradesh Jal Shakti Vibhag — Recruitment: Previous robots access failure remains unresolved. Current index is reader-accessible; Katrain and Kullu linked originals timed out in reader. Thunag extension is a one-page scanned PDF with no extracted text; browser showed thumbnail but no readable main page. Do not accept extension date or infer closure from these failures. Original notices, amendment linkage, foreign-applicant rules and language requirements need review. No new retained original, connector, review packet or validation timestamp."
+    },
+    {
+      "sourceId": "in-tg-recruitment",
+      "field": "notes",
+      "index": 242,
+      "before": "Telangana Public Service Commission: Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps.",
+      "after": "Telangana Public Service Commission: Reader-only research, awaiting review. Official legacy homepage links the new TGPSC portal. Manager (Engineering) 04/OG/HM/2026 guide specifies 130 provisional HMWSSB vacancies, direct recruitment and Indian citizenship; foreign citizens do not meet this notice's nationality rule. Engineering qualification must be declared by 18 September 2026; citizenship cannot override age or qualifications. Original application dates 23 September–17 October 2026, close 5:00 PM, official timezone unknown. Paper I English/Telugu, Paper II English; Basic English syllabus is 10th-class standard, not a proficiency certificate. Local reservation is separate from nationality; other-state applicants receive no reservation. OTR registration alone is not an application. Permanent tenure unverified."
+    },
+    {
+      "sourceId": "in-tg-recruitment",
+      "field": "accessGap",
+      "index": 243,
+      "before": "Telangana Public Service Commission: 27 September legacy homepage retained and still links the new official website. New website robots endpoint again returned non-text content; automated original-notice access remains unavailable. Visible application link or old hall-ticket route does not establish notice-specific international eligibility or a new application cycle.",
+      "after": "Telangana Public Service Commission: New portal returned reader 403 but ordinary browser displayed current official notices; linked 42-page Manager guide, brief web note and 21 September syllabus clarification were readable through web research. Browser access does not clear previous non-text robots response, scheduled collector permission or health. Originals and amendment reconciliation remain unretained/unreviewed. Departmental tests, cancellation notices and selection results are not fresh unrestricted job applications. No new cycle, health timestamp, venue pin or accepted eligibility result."
+    }
+  ]
+}

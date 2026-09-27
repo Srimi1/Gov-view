@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tr-career-gate-public-recruitment",
+    "country": "TR",
+    "name": "Türkiye — Kariyer Kapısı public recruitment",
+    "authority": "Presidency of the Republic of Türkiye — Kariyer Kapısı",
+    "homepage": "https://kariyerkapisi.gov.tr/isealim",
+    "discoveredFrom": "https://kariyerkapisi.gov.tr/isealim",
+    "notes": "Official public recruitment portal identified by its Presidency footer. Current reader shows institution, active-notice and closing-date headings with search controls; absent rows do not prove no vacancies. Appointment type, international-applicant permission and formal language level require each employer’s original notice. Turkish interface does not establish an applicant language threshold.",
+    "accessGap": "Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Dynamic notice inventory, original advertisements, institution-specific nationality/residence, qualifications, appointment tenure, language rules and deadline timezone remain unverified. FAQ reader currently fails; earlier Phase 78 observation is not a fresh successful fetch. Collection permission, complete authority inventory and other pathways remain gaps.",
+    "appointmentType": "Unverified; platform category does not determine an individual appointment.",
+    "internationalApplicantAssessment": "Unverified at all three stages; login access or lack of reader rows cannot determine nationality eligibility.",
+    "languageAssessment": "Turkish interface observed; no formal applicant language level established.",
+    "documents": [
+      {"url":"https://kariyerkapisi.gov.tr/isealim","label":"Current public recruitment portal and official footer","sourceLanguage":"Turkish","readerStatus":"reader-accessible-dynamic-list-incomplete"},
+      {"url":"https://kariyerkapisi.gov.tr/sss","label":"FAQ access failure in this phase","sourceLanguage":"Turkish","readerStatus":"reader-failed; prior Phase 78 observation preserved separately"}
+    ]
+  },
+  {
+    "id": "ma-public-employment-portal",
+    "country": "MA",
+    "name": "Morocco — Emploi Public recruitment competitions",
+    "authority": "Ministry of Digital Transition and Administrative Reform, Morocco",
+    "homepage": "https://www.emploi-public.ma/fr/concours-liste",
+    "discoveredFrom": "https://www.mmsp.gov.ma/fr/nos-services/portail-de-l%E2%80%99emploi-public",
+    "notes": "Ministry confirms official recruitment portal; recruitment competitions, senior posts, responsibility posts, experts and staff mobility are distinct routes. Sample C43846/26 Civil Engineering State Engineer notice is regular recruitment for one post. Its Arabic original requires Moroccan nationality; foreign-degree equivalence does not grant foreign-citizen eligibility. Window 23 September–7 October 2026 at 16:30; official timezone unestablished. No formal language threshold verified; Arabic original and French interface are not proficiency levels.",
+    "accessGap": "Reader/browser-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample nationality rule applies only to C43846/26, not every public employer. Permanent tenure, complete candidate qualifications, amendments, deadlines/timezone and exact venue notices require review. PDF read visually on all three pages but not retained or hash-accepted. Portal result count and repeated selection/result notices are not distinct-cycle totals. Collection terms, full national/local/public-enterprise inventory and other pathways remain gaps.",
+    "appointmentType": "Sample portal calls C43846/26 regular recruitment; permanent tenure not normalized from that label.",
+    "internationalApplicantAssessment": "Sample original requires Moroccan nationality. This applies to that competition only; foreign qualifications and nationality are separate. No individual eligibility result published.",
+    "languageAssessment": "Arabic original and French portal observed; no formal applicant proficiency level verified.",
+    "documents": [
+      {"url":"https://www.mmsp.gov.ma/fr/nos-services/portail-de-l%E2%80%99emploi-public","label":"Ministry identifies official employment portal","sourceLanguage":"French","readerStatus":"reader-accessible"},
+      {"url":"https://www.emploi-public.ma/fr/concours-liste","label":"Current competition list and separate recruitment categories","sourceLanguage":"French","readerStatus":"reader-accessible; complete inventory unverified"},
+      {"url":"https://www.emploi-public.ma/fr/concours/details/bd7d21e6-ce27-4590-9ae0-ba4755897c51","label":"C43846/26 sample Civil Engineering State Engineer detail","sourceLanguage":"French","readerStatus":"reader-accessible"},
+      {"url":"https://www.emploi-public.ma/fr/concours/download/arrete/bd7d21e6-ce27-4590-9ae0-ba4755897c51","label":"C43846/26 Arabic original","sourceLanguage":"Arabic","readerStatus":"reader-text-accessible; web screenshots failed; ordinary browser visually read all 3 pages after navigation timeout","visuallyReadPages":[1,2,3],"numberOfPages":3}
+    ]
+  },
+  {
+    "id": "tn-national-public-competitions",
+    "country": "TN",
+    "name": "Tunisia — National Public Recruitment Competition Portal",
+    "authority": "Government of Tunisia — National Public Recruitment Competition Portal",
+    "homepage": "https://www.concours.gov.tn/",
+    "discoveredFrom": "https://www.concours.gov.tn/",
+    "notes": "National portal identifies civil-service and public-sector recruitment competitions. News includes announcements and selection results, which must not create duplicate cycles. Sample Hammamet municipality news dated 25 September 2026 describes external test-based recruitment for a temporary category A1 civil engineer under a 19 June 2026 decision. National-ID login does not establish foreign-citizen eligibility. Arabic interface is not a proficiency requirement; no formal language level verified.",
+    "accessGap": "Reader-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Municipal organization/opening decisions and original current applications need review. Sample announcement gives no verified window, timezone, full qualifications or nationality rule. It prints a non-government recruitment-domain spelling that remains unverified and is not adopted as an application link. Portal introduction request failed after an initial response; do not treat failure as closure or checked-empty coverage. Complete public-authority inventory, terms, translations and other pathways remain gaps.",
+    "appointmentType": "Hammamet sample news explicitly describes temporary category A1 recruitment; no general tenure claim for portal jobs.",
+    "internationalApplicantAssessment": "Not established; national-ID login alone cannot prove permission or prohibition.",
+    "languageAssessment": "Arabic portal/sample news observed; no exam medium or formal proficiency threshold verified.",
+    "documents": [
+      {"url":"https://www.concours.gov.tn/","label":"Current public recruitment portal and news","sourceLanguage":"Arabic","readerStatus":"reader-accessible"},
+      {"url":"https://www.concours.gov.tn/P1/index31.aspx?id=325","label":"Hammamet temporary civil-engineer competition news","sourceLanguage":"Arabic","readerStatus":"reader-accessible"},
+      {"url":"https://www.concours.gov.tn/P1/index8.aspx","label":"Portal introduction","sourceLanguage":"Arabic","readerStatus":"initial reader response; subsequent timeout; not used for fresh eligibility claims"}
+    ]
+  }
+]

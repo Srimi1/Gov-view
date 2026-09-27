@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-09-27T02:36:22.271608+00:00",
+  "phase": 78,
+  "status": "verified original-backed draft corrections",
+  "registeredSources": 210,
+  "indiaSources": 99,
+  "sourcePresenceJurisdictions": 94,
+  "jurisdictionDenominator": 250,
+  "sourcesEnriched": 2,
+  "otherSourcesUnchanged": 208,
+  "coverageGapEdits": 2,
+  "otherCoverageRowsUnchanged": 93,
+  "healthAndOtherReviewFilesUnchanged": 81,
+  "amendedPackets": 2,
+  "amendedCycles": 3,
+  "exactReviewSheets": 3,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "humanApprovals": 0,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "fullTests": {
+    "passed": 364,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "connectorTests": {
+    "passed": 8,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "typecheckExitCode": 0,
+  "publicDataBuildExitCode": 0,
+  "explorationRuntimeUnchanged": true,
+  "productionBuildRun": false,
+  "localReadRetries": [],
+  "limitations": [
+    "Current browser originals not byte-matched to earlier retained originals.",
+    "Detailed AP notice, complete foreign routes and appointment tenure unverified.",
+    "No human approval or publication.",
+    "Storage choice, review, export gate and worldwide audit pending."
+  ]
+}

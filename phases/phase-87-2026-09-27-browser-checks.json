@@ -1,0 +1,55 @@
+{
+  "phase": 87,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 104,
+      "filteredSources": 1,
+      "newSourceLink": "https://careers.bhel.in/index.jsp",
+      "reviewWarning": true
+    },
+    "BH": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    },
+    "KW": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    },
+    "JO": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores104": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=BHEL#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-87-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial BHEL query returned zero because full name lacked acronym; corrected source label and notes, regenerated data, observed 1 of 104.",
+    "Reload/navigation observation timed out; same tab subsequently rendered corrected preview.",
+    "Clear restored 104 of 104.",
+    "Fresh share tab first rendered server default; hydrated view restored BHEL and 1 of 104.",
+    "BH/KW/JO each rendered one source, zero public records/fetched, Never fetch/validation and review warning.",
+    "No browser protection changes."
+  ],
+  "scope": "Directory/filter checks only; not extraction acceptance or worldwide audit."
+}

@@ -1,0 +1,62 @@
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Morocco MA" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Morocco.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Ministry of Digital Transition and Administrative Reform, Morocco
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources": C43846
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Morocco — Emploi Public recruitment competitions ↗":
+      - /url: https://www.emploi-public.ma/fr/concours-liste
+    - generic: Ministry of Digital Transition and Administrative Reform, Morocco
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Ministry confirms official recruitment portal; recruitment competitions, senior posts, responsibility posts, experts and staff mobility are distinct routes. Sample C43846/26 Civil Engineering State Engineer notice is regular recruitment for one post. Its Arabic original requires Moroccan nationality; foreign-degree equivalence does not grant foreign-citizen eligibility. Window 23 September–7 October 2026 at 16:30; official timezone unestablished. No formal language threshold verified; Arabic original and French interface are not proficiency levels.
+    - strong: Collection gap
+    - paragraph: Reader/browser-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample nationality rule applies only to C43846/26, not every public employer. Permanent tenure, complete candidate qualifications, amendments, deadlines/timezone and exact venue notices require review. PDF read visually on all three pages but not retained or hash-accepted. Portal result count and repeated selection/result notices are not distinct-cycle totals. Collection terms, full national/local/public-enterprise inventory and other pathways remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://www.mmsp.gov.ma/fr/nos-services/portail-de-l%E2%80%99emploi-public
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Morocco — Emploi Public recruitment competitions: Reader/browser-only discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Sample nationality rule applies only to C43846/26, not every public employer. Permanent tenure, complete candidate qualifications, amendments, deadlines/timezone and exact venue notices require review. PDF read visually on all three pages but not retained or hash-accepted. Portal result count and repeated selection/result notices are not distinct-cycle totals. Collection terms, full national/local/public-enterprise inventory and other pathways remain gaps."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Morocco opportunities →":
+      - /url: /?country=MA
+- button "Open Next.js Dev Tools":
+- alert

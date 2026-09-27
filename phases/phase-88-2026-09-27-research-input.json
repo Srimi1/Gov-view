@@ -1,0 +1,72 @@
+[
+  {
+    "id": "in-hal-careers",
+    "name": "Hindustan Aeronautics Limited (HAL) careers",
+    "country": "IN",
+    "authority": "Hindustan Aeronautics Limited — Ministry of Defence, Government of India",
+    "homepage": "https://www.hal-india.co.in/career",
+    "discoveredFrom": "https://www.hal-india.co.in/career",
+    "notes": "HAL official careers index separates divisions and mixes recruitment, corrigenda, provisional results and internship shortlists. Consultant/Experimental Test Pilot Fixed Wing at Transport Aircraft Division Kanpur explicitly contract basis; index due/detail Active Upto 1 October 2026 is displayed validity, not accepted original application cutoff. Original PDF unread. Nationality, qualifications, contract duration and language level need verification; historical Indian-national restrictions from other advertisements cannot transfer. Duty locations are not exam venues; national division footprint does not establish state source scopes.",
+    "accessGap": "Reader careers page JavaScript-only; ordinary browser rendered current index and session-dependent Career Details. Generic career-details URL does not restore exact notice identity. Linked current Test Pilot original reader unavailable and browser PDF viewer blank after navigation timeout. Current nationality, language, qualifications, deadline interpretation, full inventory and permitted collection remain unaccepted.",
+    "appointmentType": {"status": "sample-specific", "value": "contract", "note": "Consultant/Experimental Test Pilot Fixed Wing, TAD Kanpur, is expressly on contract basis; duration and renewal unknown. Visiting consultant part-time schedule is separate."},
+    "internationalApplicantAssessment": {"status": "needs verification", "note": "Current Test Pilot original nationality rule unread. Older HAL Indian-national-only notices and international company operations cannot establish current sample eligibility."},
+    "languageAssessment": {"status": "needs verification", "namedLanguage": null, "standardizedLevel": null, "note": "English UI/job title and aviation duties are not a verified applicant language or formal proficiency requirement."},
+    "documents": [
+      {"url": "https://www.hal-india.co.in/career", "type": "official-employer-recruitment-index", "observationMethod": "ordinary-browser", "summary": "Official footer identifies HAL as Government of India Ministry of Defence PSU. Current rows include recruitment, results and shortlist notices. Provisional result display due dates are not application deadlines; reader JavaScript-only response is not empty inventory."},
+      {"url": "https://www.hal-india.co.in/career-details", "type": "session-dependent-public-notice-detail", "observationMethod": "ordinary-browser", "sampleId": "Consultant/Experimental Test Pilot Fixed Wing — TAD Kanpur — floated 18 September 2026", "summary": "Contract engagement title and division rendered after initial loading placeholders. Floated 18 September; Active Upto 1 October 2026. Generic URL lacks durable sample ID and cannot independently restore selected notice. Current original fields unreviewed."},
+      {"url": "https://hal-india.co.in/backend//wp-content/uploads/career/Notification%20-%20ETP,TAD,%20Kanpur_1789732684.pdf", "type": "unread-original-notification", "observationMethod": "reader-unavailable-and-browser-blank-viewer", "summary": "Original linked in selected employer detail. Reader unavailable; browser navigation timeout followed by blank PDF viewer. No original nationality, qualification, duration or language fields accepted."}
+    ]
+  },
+  {
+    "id": "in-npcil-opportunities",
+    "name": "Nuclear Power Corporation of India Limited (NPCIL) recruitment",
+    "country": "IN",
+    "authority": "Nuclear Power Corporation of India Limited — Department of Atomic Energy, Government of India",
+    "homepage": "https://www.npcil.nic.in/content/289_1_Opportunities.aspx",
+    "discoveredFrom": "https://www.npcil.nic.in/content/289_1_Opportunities.aspx",
+    "notes": "NPCIL official job index links unit notices and recruitment portal; distinct from Nuclear Fuel Complex. Tarapur GDMO FTA/01/2026 original invites eligible Indian citizens, fixed term one year or regular selection earlier. Walk-in 4 September 2026 began 09:00; reporting after 12:00 cannot register, governing timezone unstated. MBBS plus relevant PG diploma or one-year post-qualification experience, medical registration and age rules remain independent. Bilingual evidence is not required proficiency. Separate Kudankulam opening postponement is not cancellation; later notices require reconciliation. GATE exam admission does not confer NPCIL job eligibility.",
+    "accessGap": "Official index and Tarapur eight-page PDF readable through reader; original bytes not retained or accepted for publication. Main five-page notice plus application forms, Hindi/English extraction and age-relaxation interpretation need review. Recruitment portal reader access unavailable; complete unit notices/amendments and current Kudankulam opening status unresolved. Collection terms and originals require acceptance before connector activation.",
+    "appointmentType": {"status": "sample-specific", "value": "fixed term", "note": "Tarapur GDMO NPCIL/TMS/HRM/FTA/01/2026: one year or until personnel selected on regular basis, whichever earlier. No permanent appointment inferred."},
+    "internationalApplicantAssessment": {"status": "sample-restricted-indian-citizens", "note": "Tarapur GDMO original invites eligible Indian citizens. Foreign-citizen route not evidenced for this sample. Citizenship does not override age, qualifications, experience, medical registration, document/NOC or appointment fitness conditions; rules not generalized across NPCIL."},
+    "languageAssessment": {"status": "needs verification", "namedLanguage": null, "standardizedLevel": null, "note": "Hindi/English original versions do not establish mandatory proficiency or interview medium; no formal level verified."},
+    "documents": [
+      {"url": "https://www.npcil.nic.in/content/289_1_Opportunities.aspx", "type": "official-employer-opportunities-index", "observationMethod": "web-reader", "summary": "Government enterprise DAE footer and unit notices verified. Index links npcilcareers.co.in. Kudankulam HRM/01/2026 row explicitly postpones opening for administrative reason, fresh date to follow; not official cancellation. Results, apprenticeship, GATE job recruitment and medical fixed terms are distinct notice purposes."},
+      {"url": "https://www.npcil.nic.in/WriteReadData/userfiles/file/Advt_20082026_01.pdf", "type": "official-unit-original-advertisement", "observationMethod": "web-reader", "sampleId": "NPCIL/TMS/HRM/FTA/01/2026", "summary": "Tarapur Maharashtra Site GDMO, two UR positions, Indian citizens, fixed term one year or regular selection earlier. MBBS/relevant PG diploma alternative to MBBS/one-year experience; mandatory internship excluded from experience. Walk-in 4 September 2026 09:00 onwards, reporting after 12:00 registration refused; timezone unstated. Original medical registration/document verification and serving-public-employee NOC gate selection; authorized medical fitness gates appointment. Printed Anuashram Guest House venue remains text, no published pin. Closed sample, not cancellation. Main notice five pages plus forms in eight-page PDF."}
+    ]
+  },
+  {
+    "id": "eg-caoa-government-jobs",
+    "name": "Egypt CAOA government jobs portal",
+    "country": "EG",
+    "authority": "Egypt — Central Agency for Organization and Administration",
+    "homepage": "https://jobs.caoa.gov.eg/",
+    "discoveredFrom": "https://caoa.gov.eg/",
+    "notes": "Official CAOA government-jobs subdomain primary search index describes vacancies by appointment/contract, transfer/secondment/loan, and leadership/supervision routes. These are distinct recruitment types; government website audience wording does not establish foreign nationality permission. Direct portal and parent reader timeout; browser navigation/focus errors left blank page. No current vacancy dates, tenure, qualification or language level accepted. Arabic interface is not applicant proficiency evidence.",
+    "accessGap": "Primary government search-index identity/navigation only; direct reader portal/parent timeout. Ordinary browser repeated navigation/focus timeouts and remained blank, not checked-empty jobs. No sample detail or original notice inspected. Nationality/residence, language, vacancy dates, full inventory, original translations and permitted collection remain unaccepted; direct parent referral not verified.",
+    "appointmentType": {"status": "route-dependent", "value": null, "note": "Indexed menu separates appointment/contract from transfer/secondment/loan and leadership/supervision. No particular vacancy tenure established."},
+    "internationalApplicantAssessment": {"status": "needs verification", "note": "Indexed citizen audience and government employment menu cannot establish permitted nationalities, reciprocal exceptions or immigration rights. No vacancy original read."},
+    "languageAssessment": {"status": "needs verification", "namedLanguage": null, "standardizedLevel": null, "note": "Arabic portal content is evidence language; no verified applicant proficiency, examination medium or standardized level."},
+    "documents": [
+      {"url": "https://jobs.caoa.gov.eg/", "type": "official-government-subdomain-index", "observationMethod": "primary-web-search-index; direct-reader-timeout-and-browser-blank", "summary": "Primary portal search index identifies CAOA ownership and recruitment/menu routes. Indexed Sohag education leadership examples lack currently inspected dates/details. Search index not current live vacancy inventory or accepted cycle evidence."},
+      {"url": "https://caoa.gov.eg/", "type": "unread-official-parent", "observationMethod": "web-reader-timeout", "summary": "Official parent unavailable in reader; direct referral to hosted government jobs not verified. Subdomain/primary index identity retained with explicit access gap."}
+    ]
+  },
+  {
+    "id": "lb-csb-public-competitions",
+    "name": "Lebanon Civil Service Board public competitions",
+    "country": "LB",
+    "authority": "Lebanon — Civil Service Board",
+    "homepage": "https://portal.csb.gov.lb/ar/Examination/Default",
+    "discoveredFrom": "https://www.csb.gov.lb/ar",
+    "notes": "Current CSB government portal displays competitions including Administrative Labour Inspector extension to 1 October 2026 and exam 29 October. Original decision 255-2 dated 13 August amended; extension scoped to this post, not every job. Dates only, cutoff/zone unknown. General candidate guide offers French or English examination language and personal paper submission; no formal level established or cycle-specific medium accepted. Current originals, nationality, tenure and full criteria unreviewed. Legacy page saying no new competitions conflicts newer portal and cannot prove no current opportunities.",
+    "accessGap": "Current government portal and candidate guide readable; legacy indexed page stale/no-new-competitions conflicts current board. Competition rules links href #; ordinary browser click produced no new original/tab. Original amendments, nationality/residence, tenure, precise deadlines, cycle language, translations and complete authority inventory remain unaccepted. Foreign education equivalence is not foreign-citizen permission.",
+    "appointmentType": {"status": "needs verification", "value": null, "note": "Board distinguishes filling established posts and contracting tasks in other competition. Administrative Labour Inspector original tenure unreviewed; role title does not prove permanence."},
+    "internationalApplicantAssessment": {"status": "needs verification", "note": "Competition conditions/original nationality rules unread. Foreign education equivalence, engineering licensure or general fairness language does not establish foreign-citizen permission; serving-employee alternative has separate experience conditions."},
+    "languageAssessment": {"status": "general-examination-choice", "namedLanguage": "French or English", "standardizedLevel": null, "note": "General candidate guide asks foreign-language choice French/English for examination. Cycle-specific original, skill requirements and formal proficiency level remain unverified; no CEFR invented."},
+    "documents": [
+      {"url": "https://portal.csb.gov.lb/ar/Examination/Default", "type": "current-official-competition-index", "observationMethod": "web-reader-and-ordinary-browser", "sampleId": "Administrative Labour Inspector amendment to decision 255-2 / 13 August 2026", "summary": "Post-specific extension 1 October 2026 and examination 29 October, date precision only. Qualifications include relevant degree route or fourth-category administrative employee ten-year service alternative. Separate Traffic/Vehicles Authority competition closes 19 October and exam 21 November. Original rules href #; browser click did not expose document. Draft Arabic translations need review."},
+      {"url": "https://portal.csb.gov.lb/ar/Examination/GuideLines", "type": "general-candidate-guide", "observationMethod": "web-reader", "summary": "Other-posts guide instructs form preparation/printing and personal paper delivery, then attendance at designated competition venue. Foreign language choice French or English; no standardized level. First-category online application has separate guide, no route transfer."},
+      {"url": "https://www.csb.gov.lb/Examination/", "type": "legacy-index-conflict", "observationMethod": "primary-web-search-index", "summary": "Legacy page indexed with February update/May display says no new competitions; newer portal has current notices. Do not treat old empty statement as checked-empty jurisdiction or infer cancellation."}
+    ]
+  }
+]

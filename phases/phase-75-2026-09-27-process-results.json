@@ -1,0 +1,29 @@
+{
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0
+  },
+  "productionBuildRun": false,
+  "fullSuiteRerun": false,
+  "cnmiBrowserAccess": "net::ERR_CERT_COMMON_NAME_INVALID; warning not bypassed; connection not downgraded",
+  "browserChecks": "Local Japan and territory pages passed; shared Tokyo view checked after hydration",
+  "finalVerifier": {
+    "sessionId": 12845,
+    "exitCode": 0,
+    "registeredSources": 210,
+    "disabledSourcesAdded": 4,
+    "protectedFilesUnchanged": 83,
+    "savedFiles": 19
+  },
+  "receiptMetadataCorrection": {
+    "correctedAt": "2026-09-27T01:44:04.796768+00:00",
+    "field": "phase",
+    "before": 74,
+    "after": 75,
+    "reason": "Copied prior verifier phase label corrected in script and receipt; validation assertions and data unchanged."
+  }
+}

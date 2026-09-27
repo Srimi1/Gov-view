@@ -1,0 +1,49 @@
+{
+  "countries": {
+    "IM": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "JE": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true,
+      "emptyFilterNotEligibility": true,
+      "clearRestoresSource": true
+    },
+    "GG": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "GI": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true,
+      "unopenedImageNotCalledSigned": true
+    }
+  },
+  "manxPermitsSeparateAndMidnightUnresolved": true,
+  "jerseyStatusAndPermitLanguageScoped": true,
+  "guernseyPublicRegulatorScope": true,
+  "gibraltarClosedStageAndEnglishQualification": true,
+  "separateJurisdictionAccounting": true,
+  "noFalseEmptyInventory": true,
+  "sharedJerseyViewRestored": true,
+  "publicStateOnly": true,
+  "sharedUrl": "http://localhost:3003/coverage/JE/?sourceQuery=CEFR+B1",
+  "checkedAt": "2026-09-27T03:20:07.178Z"
+}

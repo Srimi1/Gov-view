@@ -1,0 +1,20 @@
+{
+  "id": "in-mp-esb-steno-asi-2026",
+  "name": "MP Employees Selection Board — Subedar Stenographer and ASI 2026",
+  "country": "IN",
+  "subdivisionCodes": [
+    "IN-MP"
+  ],
+  "authority": "Madhya Pradesh Employees Selection Board",
+  "homepage": "https://esb.mp.gov.in/home_n.html",
+  "connector": "mpesb-steno-asi-2026",
+  "cadenceHours": 1,
+  "licence": "Official MP government recruitment pages and original rulebook; robots permits checked routes. Exact bytes and hashes retained for human review; reuse terms require acceptance review.",
+  "notes": "Review-only pilot for one joint 2026 Subedar Stenographer and Assistant Sub-Inspector (Ministerial) application. New applications 24 September–8 October; corrections end 13 October. Indian citizenship required. Non-MP Indians can use unreserved open route subject to age and other conditions. Hindi MCQ and CPCT Hindi typing apply to both roles; Subedar requires recognized Hindi shorthand at 100 words per minute. No CEFR level inferred. Midnight wording and official timezone need review; permanent tenure is unverified.",
+  "accessGap": "Exact rulebook and live home/dashboard/form identities are pinned. One intake only; other ESB, MPPSC and departmental notices remain gaps. Hindi translation, complete qualifications, age/category conditions, combined fees, midnight interpretation, selection venues and final service rules await founder review. Live staging reached the 800 MiB retained-evidence storage limit; no review packet was created. Write-free live extraction passed; publication remains unavailable.",
+  "discoveredFrom": "https://esb.mp.gov.in/student_dashboard.htm",
+  "discoveredAt": "2026-09-27",
+  "enabled": false,
+  "reviewRequired": true,
+  "maxRecords": 1
+}

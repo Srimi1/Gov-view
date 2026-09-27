@@ -1,0 +1,106 @@
+{
+  "savedAt": "2026-09-27T05:58:31.060890+00:00",
+  "status": "directory preservation verified; browser acceptance passed",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 47125,
+      "sha256": "9dcb37bf114981051557f4671c4d23f6cd4a4b79678768d525769cc30feee6b0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70630,
+      "sha256": "03369c4785746d09ea45a183b9222eb4c2192b776b0f784f00ec57098ade223a"
+    },
+    {
+      "path": "data/discovery/india-coal-india-irel-cote-ivoire-togo-recruitment-2026-09-27.json",
+      "bytes": 19455,
+      "sha256": "8310a1500a40c53d4d9463f20ddaa5c9a84d6b7f1328643aa62b86f1f0ff1ba6"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 233723,
+      "sha256": "590c394b43a7a1a19a48dc01c8b2f0a9c1a657eef070e0b3991d65e8e7a059c3"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-baseline.json",
+      "bytes": 645504,
+      "sha256": "846b0ce5e62467ad2abc09bb33a203c7d67ea948fdaa901bd71c3761cc895fa9"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-browser-checks.json",
+      "bytes": 2031,
+      "sha256": "d4cf9b915b4cb04f7ac51e1bf7ab959f2d60a31b67635e46715800f333b04657"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-finalize.py",
+      "bytes": 3325,
+      "sha256": "afe3c2c017179d67943f4d51146f404233f2253868e6bbbe340d496aff3f51b1"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-focused-tests.txt",
+      "bytes": 663,
+      "sha256": "3ebec3ea0ae4f8b5c067e2457658e10d258e02652d8745946e5ca598d28b5fa4"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-prepare.py",
+      "bytes": 4620,
+      "sha256": "efd63e984c03b823a7634277ac72abc7016078f96d291e0e5670a4693586613e"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-process-results.json",
+      "bytes": 1958,
+      "sha256": "e6f4adb14a2ebb8820bec2244c2b5363af624b3f86dc364ae74d618fdd99d6e3"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-research-input.json",
+      "bytes": 13288,
+      "sha256": "0b0c59258e116ccb3f7a2dd1493bca63e72730b2490f267119b0a8b846e1b1a4"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-save-checkpoint.py",
+      "bytes": 17189,
+      "sha256": "f07891af4a674cf770a918d67dce48bc03be5244548dbb612c87e63bac4ed782"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-source-config.json",
+      "bytes": 6754,
+      "sha256": "2b96118f7586a27c1a88f2d8c75f442d96022686b342250cde72898b013b4378"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-source-preview.png",
+      "bytes": 219958,
+      "sha256": "1a1be5ca97f94191ecc95b716e8b33b5499d99f44c08e8733426ea72bdd9e2f1"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-verification.json",
+      "bytes": 1647,
+      "sha256": "773981d1a3155320a55b92f0c6eb977d640020ca5cbe105eb1e44fbdaaa4a09a"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-verify.py",
+      "bytes": 7780,
+      "sha256": "3f3a4d8683f12e1755adabad650f306486fc03797a9a139845a13068f814e9c1"
+    },
+    {
+      "path": "phases/phase-90-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 8118,
+      "sha256": "2c37f832e2003ab72401ea95b1285abbf7c7cf3f9ee75783b2f67a21eea685e0"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "0445f260379f5bc875395dfcaa5f841d4836cbed8f733dc3be268c62cfe83363"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 397358,
+      "sha256": "bcd0fe4d861216b9f4ad027dfbb466e41e9f94ad480868b8a4c68797c46c9bc4"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-09-27T01:32:37.307571+00:00",
+  "phase": 74,
+  "status": "verified official-source discovery checkpoint",
+  "registeredSources": 206,
+  "indiaSources": 99,
+  "japanSources": 8,
+  "usCountrySources": 5,
+  "sourcePresenceJurisdictions": 92,
+  "jurisdictionDenominator": 250,
+  "jurisdictionsWithoutRegisteredSources": 158,
+  "disabledSourcesAdded": 4,
+  "previousRegistryEntriesUnchanged": 202,
+  "newTerritoryCoverageRows": 3,
+  "unrelatedCoverageRowsUnchanged": 88,
+  "existingJapanCoverageMetadataPreserved": true,
+  "healthAndReviewFilesUnchanged": 83,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "priorFullSuite": {
+    "phase": 69,
+    "passed": 362,
+    "typecheckExitCode": 0,
+    "runtimeFilesUnchanged": true,
+    "rerunThisPhase": false
+  },
+  "localReadRetries": [],
+  "limitations": [
+    "No new cycle or exact original evidence retained.",
+    "All three eligibility stages need verification.",
+    "Source presence is not complete coverage.",
+    "Storage choice, founder review, export gate and worldwide audit unresolved."
+  ]
+}

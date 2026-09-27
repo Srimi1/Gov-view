@@ -1,0 +1,68 @@
+{
+  "phase": 64,
+  "checkedAt": "2026-09-26T22:40:40.380Z",
+  "registrySources": 162,
+  "IndiaSources": 93,
+  "JapanSources": 7,
+  "USSources": 5,
+  "protectedRegistryCoverageHealthAndReviewFilesUnchanged": 85,
+  "fullTestSuite": {
+    "tests": 354,
+    "passed": 354,
+    "failed": 0,
+    "skipped": 0,
+    "exitCode": 0
+  },
+  "typecheck": {
+    "completedRuns": 2,
+    "exitCodes": [
+      0,
+      0
+    ]
+  },
+  "reactRenderCheckedCountries": [
+    "IN",
+    "JP",
+    "US",
+    "GH"
+  ],
+  "nextDevBrowserCheckedCountries": [
+    "IN",
+    "JP",
+    "US"
+  ],
+  "duplicateWarningFix": {
+    "IndiaAuthorityDuplicates": 3,
+    "IndiaCombinedGapDuplicates": 49,
+    "afterReloadIssuesBadge": false
+  },
+  "staticReview": {
+    "StandardsFindings": 0,
+    "SpecFindings": 0,
+    "followupFindings": 0
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0,
+    "countries": 0
+  },
+  "newSources": 0,
+  "newDrafts": 0,
+  "currentApprovedAndPublicRecords": 0,
+  "reviewQueue": {
+    "pendingPackets": 82,
+    "pendingCycles": 328,
+    "measuredHumanDecisions": 0
+  },
+  "productionFrameworkBuildRun": false,
+  "publicationOrDeploymentPerformed": false,
+  "goalComplete": false,
+  "whitespaceAndJsonChecksPassed": true,
+  "filesystemWarmup": {
+    "dependencyFiles": 682,
+    "dependencyBytes": 3397444,
+    "sourceFiles": 239,
+    "sourceBytes": 1704739,
+    "concurrentReadLimit": 16
+  }
+}

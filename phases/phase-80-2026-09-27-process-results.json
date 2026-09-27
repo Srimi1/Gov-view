@@ -1,0 +1,58 @@
+{
+  "phase": 80,
+  "preparation": {
+    "sessionId": 1038,
+    "exitCode": 0,
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "sessionId": 36121,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-80-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "sessionId": 66067,
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-80-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "AL",
+      "AD",
+      "ME",
+      "MK"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-80-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "Montenegro PDF navigation timed out; same tab later rendered four pages, visually read.",
+      "Local Albania navigation and initial focus observation timed out; same tab subsequently rendered two sources.",
+      "Andorra shared public search restored after hydration."
+    ]
+  },
+  "researchFailures": [
+    "DAP application-guide subsequent reader timeout; no new eligibility fields accepted from guide.",
+    "Puna and BOPA readers JavaScript-required; rendered ordinary browser pages read.",
+    "Montenegro direct PDF reader inaccessible; ordinary browser reading used with visible damaged diacritics.",
+    "North Macedonia active portal reader exposes unresolved templates, not complete or empty inventory."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 71212,
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T03:05:28.373052+00:00"
+  }
+}

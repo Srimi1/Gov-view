@@ -1,0 +1,2418 @@
+{
+  "checkedAt": "2026-09-27T00:34:20.224888+00:00",
+  "readOnly": true,
+  "completeReconciledInventory": true,
+  "originalAuditComplete": false,
+  "method": "Original streaming hashes plus two supplemental successful reads; every current path, size and mtime checked against its successful read. Original audit remains unchanged.",
+  "auditedFiles": 2355,
+  "currentFiles": 2355,
+  "metadataMismatches": [],
+  "logicalBytes": 871622022,
+  "collectorLimitBytes": 838860800,
+  "exactDuplicateRedundantBytes": 223389648,
+  "exactDuplicateGroups": [
+    {
+      "sha256": "6fd057e3f361be611558e575c3e6ba391fce274a2986062d691b64f41fb046e8",
+      "bytesPerCopy": 10735645,
+      "paths": [
+        "data/evidence/bodies/in-or-recruitment/6fd057e3f361be611558e575c3e6ba391fce274a2986062d691b64f41fb046e8.bin",
+        "data/evidence/research/opsc-app-09-2026-second-corrigendum-response.bin"
+      ],
+      "redundantBytes": 10735645
+    },
+    {
+      "sha256": "fb0e0920b4f97954312b1abb954202658de18a842811bf05a6f3c229d2f16ae7",
+      "bytesPerCopy": 9042011,
+      "paths": [
+        "data/evidence/bodies/in-ka-recruitment/fb0e0920b4f97954312b1abb954202658de18a842811bf05a6f3c229d2f16ae7.bin",
+        "data/evidence/research/kpsc-gp-2026-main.pdf"
+      ],
+      "redundantBytes": 9042011
+    },
+    {
+      "sha256": "570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9",
+      "bytesPerCopy": 8079720,
+      "paths": [
+        "data/evidence/bodies/in-hr-hssc/570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9.bin",
+        "data/evidence/research/hssc-05-2026-original.pdf"
+      ],
+      "redundantBytes": 8079720
+    },
+    {
+      "sha256": "421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90",
+      "bytesPerCopy": 6662076,
+      "paths": [
+        "data/evidence/bodies/in-la-hme-admission/421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90.bin",
+        "data/evidence/research/ladakh-central-pool-758-2026.pdf"
+      ],
+      "redundantBytes": 6662076
+    },
+    {
+      "sha256": "086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476",
+      "bytesPerCopy": 5664334,
+      "paths": [
+        "data/evidence/bodies/in-tr-recruitment/086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476.bin",
+        "data/evidence/research/tpsc-03-2026.pdf"
+      ],
+      "redundantBytes": 5664334
+    },
+    {
+      "sha256": "801e254599b1c7127693d35b2e8626a0c1c38c2633eea56db5da08bceb690d31",
+      "bytesPerCopy": 5053461,
+      "paths": [
+        "data/evidence/bodies/in-ar-recruitment/801e254599b1c7127693d35b2e8626a0c1c38c2633eea56db5da08bceb690d31.bin",
+        "data/evidence/research/arunachal-appscce-2026.pdf"
+      ],
+      "redundantBytes": 5053461
+    },
+    {
+      "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+      "bytesPerCopy": 4891970,
+      "paths": [
+        "data/evidence/bodies/in-isro-iprc-rmt-2026-01/b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a.bin",
+        "data/evidence/research/iprc-rmt-2026-01.pdf"
+      ],
+      "redundantBytes": 4891970
+    },
+    {
+      "sha256": "5708c6080bcf03539495cb718d945752935f94313a5e958ae760b0d0b988e2a6",
+      "bytesPerCopy": 4702273,
+      "paths": [
+        "data/evidence/bodies/in-jh-jjb-cwc-2026/5708c6080bcf03539495cb718d945752935f94313a5e958ae760b0d0b988e2a6.bin",
+        "data/evidence/research/jharkhand-jjb-cwc-file-199.pdf"
+      ],
+      "redundantBytes": 4702273
+    },
+    {
+      "sha256": "9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616",
+      "bytesPerCopy": 4686871,
+      "paths": [
+        "data/evidence/bodies/in-hr-hssc/9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616.bin",
+        "data/evidence/research/hssc-06-2026.pdf"
+      ],
+      "redundantBytes": 4686871
+    },
+    {
+      "sha256": "510c8e4a2b462f948f5e5af2168c9e007b64cdd2bff0bec1952489a8047de726",
+      "bytesPerCopy": 4561949,
+      "paths": [
+        "data/evidence/bodies/in-mh-dmer-nashik-faculty-2026/510c8e4a2b462f948f5e5af2168c9e007b64cdd2bff0bec1952489a8047de726.bin",
+        "data/evidence/research/dmer-nashik-faculty-2026-09-24.pdf"
+      ],
+      "redundantBytes": 4561949
+    },
+    {
+      "sha256": "cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72",
+      "bytesPerCopy": 4484053,
+      "paths": [
+        "data/evidence/bodies/in-tr-recruitment/cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72.bin",
+        "data/evidence/research/tpsc-02-2026.pdf"
+      ],
+      "redundantBytes": 4484053
+    },
+    {
+      "sha256": "93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f",
+      "bytesPerCopy": 4457815,
+      "paths": [
+        "data/evidence/bodies/in-jk-recruitment/93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f.bin",
+        "data/evidence/research/jkpsc-hed-backlog-2026.pdf"
+      ],
+      "redundantBytes": 4457815
+    },
+    {
+      "sha256": "2e72ddd7e8bb169636be45de6990c1c4de71fb53dbfa4e5d26a068801c1442d2",
+      "bytesPerCopy": 4021258,
+      "paths": [
+        "data/evidence/bodies/in-jh-jjb-cwc-2026/2e72ddd7e8bb169636be45de6990c1c4de71fb53dbfa4e5d26a068801c1442d2.bin",
+        "data/evidence/research/jharkhand-jjb-file-198.pdf"
+      ],
+      "redundantBytes": 4021258
+    },
+    {
+      "sha256": "8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d",
+      "bytesPerCopy": 3975093,
+      "paths": [
+        "data/evidence/bodies/in-an-recruitment/8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d.bin",
+        "data/evidence/research/andaman-agriculture-1055-2026.pdf"
+      ],
+      "redundantBytes": 3975093
+    },
+    {
+      "sha256": "30992031cd914f54ef40720f98aa357c263fc435e2f187a2cf734647017d33e8",
+      "bytesPerCopy": 3141353,
+      "paths": [
+        "data/evidence/bodies/bt-rcsc-bcse-2026/30992031cd914f54ef40720f98aa357c263fc435e2f187a2cf734647017d33e8.bin",
+        "data/evidence/research/bt-rcsc-bcse-announcement-2026.pdf"
+      ],
+      "redundantBytes": 3141353
+    },
+    {
+      "sha256": "7c9064a03fdfc86ceaa52b41fbfc004b1c7443bf9118991a0c14c031760b900b",
+      "bytesPerCopy": 3080419,
+      "paths": [
+        "data/evidence/bodies/in-dh-recruitment/7c9064a03fdfc86ceaa52b41fbfc004b1c7443bf9118991a0c14c031760b900b.bin",
+        "data/evidence/research/ddd-20260923187262113.pdf"
+      ],
+      "redundantBytes": 3080419
+    },
+    {
+      "sha256": "8b3e99830d4c622133cb2ca3a4c8a2065f285dfd95a483202ba82189c35f06a9",
+      "bytesPerCopy": 2949482,
+      "paths": [
+        "data/evidence/bodies/in-uk-icfre-fri-walkin-2026/8b3e99830d4c622133cb2ca3a4c8a2065f285dfd95a483202ba82189c35f06a9.bin",
+        "data/evidence/research/icfre-fri-walkin-september-2026.pdf"
+      ],
+      "redundantBytes": 2949482
+    },
+    {
+      "sha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+      "bytesPerCopy": 2833316,
+      "paths": [
+        "data/evidence/bodies/in-ct-recruitment/f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a.bin",
+        "data/evidence/research/cgpsc-05-2026.pdf"
+      ],
+      "redundantBytes": 2833316
+    },
+    {
+      "sha256": "140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291",
+      "bytesPerCopy": 2781551,
+      "paths": [
+        "data/evidence/bodies/in-tr-recruitment/140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291.bin",
+        "data/evidence/research/tpsc-01-2026.pdf"
+      ],
+      "redundantBytes": 2781551
+    },
+    {
+      "sha256": "e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219",
+      "bytesPerCopy": 2674753,
+      "paths": [
+        "data/evidence/bodies/in-la-hme-admission/e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219.bin",
+        "data/evidence/research/ladakh-hme-guidelines-2026.pdf"
+      ],
+      "redundantBytes": 2674753
+    },
+    {
+      "sha256": "fcd37778de6096bef2f1b42fa3e50a22c21a50c9515f64b58b8d128b4563f5be",
+      "bytesPerCopy": 2626320,
+      "paths": [
+        "data/evidence/bodies/in-icmr-nihr-bhubaneswar-junior-consultant-2026/fcd37778de6096bef2f1b42fa3e50a22c21a50c9515f64b58b8d128b4563f5be.bin",
+        "data/evidence/research/icmr-nihr-bhubaneswar-junior-consultant-2026-institute.pdf"
+      ],
+      "redundantBytes": 2626320
+    },
+    {
+      "sha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+      "bytesPerCopy": 2500141,
+      "paths": [
+        "data/evidence/bodies/in-nbems-fmge/15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429.bin",
+        "data/evidence/research/nbems-fmge-oct-2026-v22.pdf"
+      ],
+      "redundantBytes": 2500141
+    },
+    {
+      "sha256": "1bf07c28d382585e013852f62687b8d9f641a7b06e65497a9ea5230aeb27c8ab",
+      "bytesPerCopy": 2398506,
+      "paths": [
+        "data/evidence/bodies/in-mh-pune-divcomm-legal/1bf07c28d382585e013852f62687b8d9f641a7b06e65497a9ea5230aeb27c8ab.bin",
+        "data/evidence/research/pune-divcomm-legal-officer-2026.pdf"
+      ],
+      "redundantBytes": 2398506
+    },
+    {
+      "sha256": "56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b",
+      "bytesPerCopy": 1179904,
+      "paths": [
+        "data/evidence/bodies/in-ut-recruitment/56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b.bin",
+        "data/evidence/research/uttarakhand-psc-1843959203.pdf",
+        "data/evidence/research/uttarakhand-psc-52805175.pdf"
+      ],
+      "redundantBytes": 2359808
+    },
+    {
+      "sha256": "d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182",
+      "bytesPerCopy": 2290003,
+      "paths": [
+        "data/evidence/bodies/in-tn-recruitment/d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182.bin",
+        "data/evidence/research/tnpsc-08-2026.pdf"
+      ],
+      "redundantBytes": 2290003
+    },
+    {
+      "sha256": "6ab8df414fc7f0c485d78375f8471a8c802edffb0b8bfcf8a6ad3cfa60a9bf29",
+      "bytesPerCopy": 2283593,
+      "paths": [
+        "data/evidence/bodies/in-tg-nfc-iti-apprenticeship/6ab8df414fc7f0c485d78375f8471a8c802edffb0b8bfcf8a6ad3cfa60a9bf29.bin",
+        "data/evidence/research/nfc-iti-apprenticeship-2026.pdf"
+      ],
+      "redundantBytes": 2283593
+    },
+    {
+      "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+      "bytesPerCopy": 2274213,
+      "paths": [
+        "data/evidence/bodies/in-ut-nituk-nt08-2026/d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526.bin",
+        "data/evidence/research/nituk-nt08-2026.pdf"
+      ],
+      "redundantBytes": 2274213
+    },
+    {
+      "sha256": "51b9ee4b156f96c24e136f560de6136120edbe3255c2c3a7dd8bed7a7924f892",
+      "bytesPerCopy": 2268165,
+      "paths": [
+        "data/evidence/bodies/in-rrb-railways/51b9ee4b156f96c24e136f560de6136120edbe3255c2c3a7dd8bed7a7924f892.bin",
+        "data/evidence/research/rrb-cen-03-2026-section-controller-en.pdf"
+      ],
+      "redundantBytes": 2268165
+    },
+    {
+      "sha256": "cdd7e95758a523cbe60eb2e2a202bbdcb834afd02adb2a3876686d3a9b031e16",
+      "bytesPerCopy": 2106040,
+      "paths": [
+        "data/evidence/bodies/in-sk-recruitment/cdd7e95758a523cbe60eb2e2a202bbdcb834afd02adb2a3876686d3a9b031e16.bin",
+        "data/evidence/research/spsc-vlw-2026-notification.pdf"
+      ],
+      "redundantBytes": 2106040
+    },
+    {
+      "sha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247",
+      "bytesPerCopy": 997463,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-booklet-1.pdf",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-booklet-2.pdf"
+      ],
+      "redundantBytes": 1994926
+    },
+    {
+      "sha256": "d7b034b5b9c200db939b6255c707383c3155cfb0b2e26d18f1fcfd6b2bd32e86",
+      "bytesPerCopy": 1952914,
+      "paths": [
+        "data/evidence/bodies/in-sk-recruitment/d7b034b5b9c200db939b6255c707383c3155cfb0b2e26d18f1fcfd6b2bd32e86.bin",
+        "data/evidence/research/spsc-vlw-2026-advertisement.pdf"
+      ],
+      "redundantBytes": 1952914
+    },
+    {
+      "sha256": "16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f",
+      "bytesPerCopy": 1714802,
+      "paths": [
+        "data/evidence/bodies/in-kvs-deputation/16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f.bin",
+        "data/evidence/research/kvs-advertisement-03-2026.pdf"
+      ],
+      "redundantBytes": 1714802
+    },
+    {
+      "sha256": "9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e",
+      "bytesPerCopy": 1656990,
+      "paths": [
+        "data/evidence/bodies/in-gj-recruitment/9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e.bin",
+        "data/evidence/research/gpsc-rr-43-2026.pdf"
+      ],
+      "redundantBytes": 1656990
+    },
+    {
+      "sha256": "754d8d8893ef76a5b37499fe58487b6ea7da602d084196d0a10471c803b59216",
+      "bytesPerCopy": 1649537,
+      "paths": [
+        "data/evidence/bodies/in-icmr-nihr-bhubaneswar-junior-consultant-2026/754d8d8893ef76a5b37499fe58487b6ea7da602d084196d0a10471c803b59216.bin",
+        "data/evidence/research/icmr-nihr-bhubaneswar-junior-consultant-2026-hindi.pdf"
+      ],
+      "redundantBytes": 1649537
+    },
+    {
+      "sha256": "743add69aa699f3126d2003c9f2e4b80534dbd32dc0f9b00a9b651dc2a13512e",
+      "bytesPerCopy": 1622693,
+      "paths": [
+        "data/evidence/bodies/jp-jinji/743add69aa699f3126d2003c9f2e4b80534dbd32dc0f9b00a9b651dc2a13512e.bin",
+        "data/evidence/research/jinji-900036094.pdf"
+      ],
+      "redundantBytes": 1622693
+    },
+    {
+      "sha256": "d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9",
+      "bytesPerCopy": 794495,
+      "paths": [
+        "data/evidence/bodies/in-jh-recruitment/d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9.bin",
+        "data/evidence/research/jpsc-07-2026-advertisement.pdf",
+        "data/evidence/research/jpsc-assistant-professor-07-2026-advertisement.pdf"
+      ],
+      "redundantBytes": 1588990
+    },
+    {
+      "sha256": "09e84904bb0e99eadf5f92ccddf71353fbbfe5eba6f786c2596e5009c3e74af5",
+      "bytesPerCopy": 1573735,
+      "paths": [
+        "data/evidence/bodies/in-jk-jkssb/09e84904bb0e99eadf5f92ccddf71353fbbfe5eba6f786c2596e5009c3e74af5.bin",
+        "data/evidence/research/jkssb-08-2026-application-instructions.pdf"
+      ],
+      "redundantBytes": 1573735
+    },
+    {
+      "sha256": "28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f",
+      "bytesPerCopy": 1559543,
+      "paths": [
+        "data/evidence/bodies/in-drdo-jrf-september-2026/28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f.bin",
+        "data/evidence/research/drdo-dysl-sm-jrf-2026.pdf"
+      ],
+      "redundantBytes": 1559543
+    },
+    {
+      "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+      "bytesPerCopy": 774932,
+      "paths": [
+        "data/evidence/bodies/in-gj-recruitment/76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4.bin",
+        "data/evidence/research/gpsc-da-42-2026.pdf",
+        "data/evidence/research/gpsc-da-43-2026.pdf"
+      ],
+      "redundantBytes": 1549864
+    },
+    {
+      "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+      "bytesPerCopy": 1549821,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508.bin",
+        "data/evidence/research/ibps-rrb-xv-notification.pdf"
+      ],
+      "redundantBytes": 1549821
+    },
+    {
+      "sha256": "7fd74dc392bf829bc491c538c6e5284aa10b2c160eb8a755f514c4fac10848a8",
+      "bytesPerCopy": 1545323,
+      "paths": [
+        "data/evidence/bodies/in-mp-esb-police-gd/7fd74dc392bf829bc491c538c6e5284aa10b2c160eb8a755f514c4fac10848a8.bin",
+        "data/evidence/research/mpesb-pcrt-2026-rulebook.pdf"
+      ],
+      "redundantBytes": 1545323
+    },
+    {
+      "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+      "bytesPerCopy": 1520732,
+      "paths": [
+        "data/evidence/bodies/in-dl-recruitment/e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3.bin",
+        "data/evidence/research/dsssb-03-2026.pdf"
+      ],
+      "redundantBytes": 1520732
+    },
+    {
+      "sha256": "2c511ec605826028186612ff38da5cd5ec9121a9668f30b432350f849f955155",
+      "bytesPerCopy": 1504193,
+      "paths": [
+        "data/evidence/bodies/in-sk-recruitment/2c511ec605826028186612ff38da5cd5ec9121a9668f30b432350f849f955155.bin",
+        "data/evidence/research/spsc-vlw-2026-syllabus.pdf"
+      ],
+      "redundantBytes": 1504193
+    },
+    {
+      "sha256": "7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce",
+      "bytesPerCopy": 1484488,
+      "paths": [
+        "data/evidence/bodies/in-gj-recruitment/7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce.bin",
+        "data/evidence/research/gpsc-rr-42-2026.pdf"
+      ],
+      "redundantBytes": 1484488
+    },
+    {
+      "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065",
+      "bytesPerCopy": 741714,
+      "paths": [
+        "data/evidence/bodies/in-la-police/e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065.bin",
+        "data/evidence/research/ladakh-police-constable-2026.pdf",
+        "data/evidence/research/ladakh-police-constable-board-2026.pdf"
+      ],
+      "redundantBytes": 1483428
+    },
+    {
+      "sha256": "0328e194ae8c610800703642233bb5f37052bbdc409660b8151524e850fb33ce",
+      "bytesPerCopy": 1476903,
+      "paths": [
+        "data/evidence/bodies/in-hp-forest-joa-it-pwd-2026/0328e194ae8c610800703642233bb5f37052bbdc409660b8151524e850fb33ce.bin",
+        "data/evidence/research/hpforest-joa-it-pwd-2026.pdf"
+      ],
+      "redundantBytes": 1476903
+    },
+    {
+      "sha256": "61a12b83e5ca2aa9342a8e2b35621f66e3cd8e3bf6bd2e8858d9a730c4ded398",
+      "bytesPerCopy": 1476684,
+      "paths": [
+        "data/evidence/bodies/in-br-recruitment/61a12b83e5ca2aa9342a8e2b35621f66e3cd8e3bf6bd2e8858d9a730c4ded398.bin",
+        "data/evidence/research/bpsc-tre4-15-2026-advertisement.pdf"
+      ],
+      "redundantBytes": 1476684
+    },
+    {
+      "sha256": "641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa",
+      "bytesPerCopy": 1403966,
+      "paths": [
+        "data/evidence/bodies/in-nbems-executive-director/641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa.bin",
+        "data/evidence/research/nbems-executive-director-2026-hi.pdf"
+      ],
+      "redundantBytes": 1403966
+    },
+    {
+      "sha256": "0c606d2d3e6f04248cd9f564d0934c6fa691004573fa60b94cc613b1b5b85791",
+      "bytesPerCopy": 1383482,
+      "paths": [
+        "data/evidence/research/jkpsc-extension-page1.png",
+        "data/evidence/research/jkpsc-higher-ed-extension-sep2026-page-1.png"
+      ],
+      "redundantBytes": 1383482
+    },
+    {
+      "sha256": "21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e",
+      "bytesPerCopy": 1330428,
+      "paths": [
+        "data/evidence/bodies/in-pb-sssb/21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e.bin",
+        "data/evidence/research/psssb-04-2026-original.pdf"
+      ],
+      "redundantBytes": 1330428
+    },
+    {
+      "sha256": "99ffb1cf841c791aa41e37716ed4e20129b701a413777fd2849eb7b812bd7151",
+      "bytesPerCopy": 1308376,
+      "paths": [
+        "data/evidence/bodies/in-jk-jkssb/99ffb1cf841c791aa41e37716ed4e20129b701a413777fd2849eb7b812bd7151.bin",
+        "data/evidence/research/jkssb-08-2026-original.pdf"
+      ],
+      "redundantBytes": 1308376
+    },
+    {
+      "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+      "bytesPerCopy": 1280652,
+      "paths": [
+        "data/evidence/bodies/in-isro-sac-02-2026/e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9.bin",
+        "data/evidence/research/isro-sac-02-2026-notice.pdf"
+      ],
+      "redundantBytes": 1280652
+    },
+    {
+      "sha256": "5ad3430569649927c7d75028c78d9d1ef7baa84c5abe598957d6c56ba1deed56",
+      "bytesPerCopy": 1270241,
+      "paths": [
+        "data/evidence/bodies/in-bel-september-engineers-2026/5ad3430569649927c7d75028c78d9d1ef7baa84c5abe598957d6c56ba1deed56.bin",
+        "data/evidence/research/bel-sr-assistant-engineer-2026-09-27.pdf"
+      ],
+      "redundantBytes": 1270241
+    },
+    {
+      "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+      "bytesPerCopy": 1222215,
+      "paths": [
+        "data/evidence/bodies/in-wb-iiserkol-nt04-2026/830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b.bin",
+        "data/evidence/research/iiserkol-nt04-2026-hi.pdf"
+      ],
+      "redundantBytes": 1222215
+    },
+    {
+      "sha256": "d59068b116ab91808181eb5e1de9b5ac46c15f375df53f4b828f8cf09e4e163f",
+      "bytesPerCopy": 1171269,
+      "paths": [
+        "data/evidence/bodies/in-jk-jkssb/d59068b116ab91808181eb5e1de9b5ac46c15f375df53f4b828f8cf09e4e163f.bin",
+        "data/evidence/research/jkssb-09-2026-original.pdf"
+      ],
+      "redundantBytes": 1171269
+    },
+    {
+      "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+      "bytesPerCopy": 1097699,
+      "paths": [
+        "data/evidence/bodies/in-ga-recruitment/9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f.bin",
+        "data/evidence/research/goa-psc-instructions-2026.pdf"
+      ],
+      "redundantBytes": 1097699
+    },
+    {
+      "sha256": "738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488",
+      "bytesPerCopy": 999679,
+      "paths": [
+        "data/evidence/bodies/in-nbems-executive-director/738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488.bin",
+        "data/evidence/research/nbems-executive-director-2026-en.pdf"
+      ],
+      "redundantBytes": 999679
+    },
+    {
+      "sha256": "dc0d4dff2d21a9490278bfa48fe9c1244fe2c2962b2a8a390c9fa0cba8d83a8c",
+      "bytesPerCopy": 980817,
+      "paths": [
+        "data/evidence/bodies/in-icmr-nihr-bhubaneswar-junior-consultant-2026/dc0d4dff2d21a9490278bfa48fe9c1244fe2c2962b2a8a390c9fa0cba8d83a8c.bin",
+        "data/evidence/research/icmr-nihr-bhubaneswar-junior-consultant-2026-english.pdf"
+      ],
+      "redundantBytes": 980817
+    },
+    {
+      "sha256": "86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259",
+      "bytesPerCopy": 468993,
+      "paths": [
+        "data/evidence/bodies/in-jk-recruitment/86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259.bin",
+        "data/evidence/research/jkpsc-hed-extension-2026.pdf",
+        "data/evidence/research/jkpsc-higher-ed-extension-sep2026.pdf"
+      ],
+      "redundantBytes": 937986
+    },
+    {
+      "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02",
+      "bytesPerCopy": 921210,
+      "paths": [
+        "data/evidence/bodies/in-la-police/91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02.bin",
+        "data/evidence/research/ladakh-police-pst-postponement-2026.pdf"
+      ],
+      "redundantBytes": 921210
+    },
+    {
+      "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c",
+      "bytesPerCopy": 895209,
+      "paths": [
+        "data/evidence/bodies/in-mz-recruitment/84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c.bin",
+        "data/evidence/research/mizoram-mizo-language-2024.pdf"
+      ],
+      "redundantBytes": 895209
+    },
+    {
+      "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+      "bytesPerCopy": 888823,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516.bin",
+        "data/evidence/research/ibps-rrb-xv-vacancies-15sep.pdf"
+      ],
+      "redundantBytes": 888823
+    },
+    {
+      "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+      "bytesPerCopy": 888570,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a.bin",
+        "data/evidence/research/ibps-rrb-xv-vacancies-09sep.pdf"
+      ],
+      "redundantBytes": 888570
+    },
+    {
+      "sha256": "c0c17b650c918950bbd724fba0133a0fa3b53362de4ef4abcbcb86871a353dc9",
+      "bytesPerCopy": 838787,
+      "paths": [
+        "data/evidence/bodies/br-navbrasil-2026/c0c17b650c918950bbd724fba0133a0fa3b53362de4ef4abcbcb86871a353dc9.bin",
+        "data/evidence/research/navbrasil-edital-01-2026-retificado.pdf"
+      ],
+      "redundantBytes": 838787
+    },
+    {
+      "sha256": "59073874d2d59e296fb23cf1169ba14e5007e37a2b2bf50b59603e76bbce6be8",
+      "bytesPerCopy": 823997,
+      "paths": [
+        "data/evidence/bodies/in-mz-mirsac-group-d-2026/59073874d2d59e296fb23cf1169ba14e5007e37a2b2bf50b59603e76bbce6be8.bin",
+        "data/evidence/research/mirsac-group-d-2026.pdf"
+      ],
+      "redundantBytes": 823997
+    },
+    {
+      "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+      "bytesPerCopy": 773796,
+      "paths": [
+        "data/evidence/bodies/in-mecl-nonexecutive/e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805.bin",
+        "data/evidence/research/mecl-advertisement-03-2026.pdf"
+      ],
+      "redundantBytes": 773796
+    },
+    {
+      "sha256": "ab87daf6c2414c6ccf6da17823654666f277d157195c81607c3054970ae58eb1",
+      "bytesPerCopy": 765187,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-14.png",
+        "data/evidence/research/opsc-ocr/page-32.png"
+      ],
+      "redundantBytes": 765187
+    },
+    {
+      "sha256": "ff202260b670b594baec78ec676bf147f19cda5604eeb1065e2b8d09580504c4",
+      "bytesPerCopy": 761436,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-16.png",
+        "data/evidence/research/opsc-ocr/page-34.png"
+      ],
+      "redundantBytes": 761436
+    },
+    {
+      "sha256": "41f5c1272408d63b58e1a9358ecef7d914de1a7b235620fb48abbccd86cd4395",
+      "bytesPerCopy": 743023,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-06.png",
+        "data/evidence/research/opsc-ocr/page-24.png"
+      ],
+      "redundantBytes": 743023
+    },
+    {
+      "sha256": "150160c513a616ae8487c3be888a50da56eab201b1da76d2ab6815244189fc1c",
+      "bytesPerCopy": 728279,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-11.png",
+        "data/evidence/research/opsc-ocr/page-29.png"
+      ],
+      "redundantBytes": 728279
+    },
+    {
+      "sha256": "adeb7ac119a9deaac2153b68bc3492be3f8d2c319f99d571fcc71fd63dcb8198",
+      "bytesPerCopy": 718303,
+      "paths": [
+        "data/evidence/bodies/in-as-goalpara-ft8/adeb7ac119a9deaac2153b68bc3492be3f8d2c319f99d571fcc71fd63dcb8198.bin",
+        "data/evidence/research/goalpara-ft8-copyist-2026.pdf"
+      ],
+      "redundantBytes": 718303
+    },
+    {
+      "sha256": "912a72d81fa2243cd1e643d32040b258c0c980c4241e4acf76519d45b8bb8737",
+      "bytesPerCopy": 716857,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-03.png",
+        "data/evidence/research/opsc-ocr/page-21.png"
+      ],
+      "redundantBytes": 716857
+    },
+    {
+      "sha256": "e05e8f4387785b62aca11b1c4d42e409f905593a9b5f01cc060160fba870ffaa",
+      "bytesPerCopy": 355744,
+      "paths": [
+        "data/evidence/bodies/in-pb-psegs/e05e8f4387785b62aca11b1c4d42e409f905593a9b5f01cc060160fba870ffaa.bin",
+        "data/evidence/research/punjab-dgm-cyber-2026.pdf",
+        "data/evidence/research/punjab-dgm-cyber-dit-2026.pdf"
+      ],
+      "redundantBytes": 711488
+    },
+    {
+      "sha256": "9319255aa399e3081f6e9ba52b5216e458a4fc4614de290c197cd16d0715481e",
+      "bytesPerCopy": 696952,
+      "paths": [
+        "data/evidence/bodies/in-as-sribhumi-ft2/9319255aa399e3081f6e9ba52b5216e458a4fc4614de290c197cd16d0715481e.bin",
+        "data/evidence/research/sribhumi-ft2-deo-copyist-2026.pdf"
+      ],
+      "redundantBytes": 696952
+    },
+    {
+      "sha256": "69a30d35a2d9dbcfed3e6cf540cd67b09e93cddb7a593368f85c353f7fa8d4d4",
+      "bytesPerCopy": 687949,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-08.png",
+        "data/evidence/research/opsc-ocr/page-26.png"
+      ],
+      "redundantBytes": 687949
+    },
+    {
+      "sha256": "32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f",
+      "bytesPerCopy": 682559,
+      "paths": [
+        "data/evidence/bodies/in-pb-sssb/32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f.bin",
+        "data/evidence/research/psssb-04-2026-aug-corrigendum.pdf"
+      ],
+      "redundantBytes": 682559
+    },
+    {
+      "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769",
+      "bytesPerCopy": 677080,
+      "paths": [
+        "data/evidence/bodies/in-mz-recruitment/f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769.bin",
+        "data/evidence/research/mizoram-25-2026-27-ldc.pdf"
+      ],
+      "redundantBytes": 677080
+    },
+    {
+      "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b",
+      "bytesPerCopy": 672462,
+      "paths": [
+        "data/evidence/bodies/in-mz-recruitment/24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b.bin",
+        "data/evidence/research/mizoram-26-2026-27-peon.pdf"
+      ],
+      "redundantBytes": 672462
+    },
+    {
+      "sha256": "c21e674d9e02aff1372d1d63e2a4ec01ef19ff50a1b2e6a29319ed982dedd26b",
+      "bytesPerCopy": 662028,
+      "paths": [
+        "data/evidence/research/ukpsc-sep22-2026.pdf",
+        "data/evidence/research/uttarakhand-psc-22-sep-2026.pdf"
+      ],
+      "redundantBytes": 662028
+    },
+    {
+      "sha256": "78c738fdb29f1a19d6fb548ba43062a635b04a26c37f68d19fbe8c8baea8135a",
+      "bytesPerCopy": 655437,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-07.png",
+        "data/evidence/research/opsc-ocr/page-25.png"
+      ],
+      "redundantBytes": 655437
+    },
+    {
+      "sha256": "d5649a3124ceda6ed5f97c7be6bacb62ee0533df513fbe4af66c7b419ef6dcd2",
+      "bytesPerCopy": 653067,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-12.png",
+        "data/evidence/research/opsc-ocr/page-30.png"
+      ],
+      "redundantBytes": 653067
+    },
+    {
+      "sha256": "2d5bb842f1f79efcaeba35abe4b1f0aee89ceb77d887c372e296d0f720bd97e5",
+      "bytesPerCopy": 652171,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-13.png",
+        "data/evidence/research/opsc-ocr/page-31.png"
+      ],
+      "redundantBytes": 652171
+    },
+    {
+      "sha256": "431a18956e5b7e5dfb332d641520196b9c100d5bbeba0c86b9190d9fa6c12c96",
+      "bytesPerCopy": 650367,
+      "paths": [
+        "data/evidence/bodies/in-ka-recruitment/431a18956e5b7e5dfb332d641520196b9c100d5bbeba0c86b9190d9fa6c12c96.bin",
+        "data/evidence/research/kpsc-gp-2026-schedule.pdf"
+      ],
+      "redundantBytes": 650367
+    },
+    {
+      "sha256": "bb74494ecce7eab520442cc47b9343c6f7f0480a6c81801eec5890d0a345a124",
+      "bytesPerCopy": 645699,
+      "paths": [
+        "data/evidence/bodies/in-rrb-railways/bb74494ecce7eab520442cc47b9343c6f7f0480a6c81801eec5890d0a345a124.bin",
+        "data/evidence/research/rrb-cen-03-2026-corrigendum-1.pdf"
+      ],
+      "redundantBytes": 645699
+    },
+    {
+      "sha256": "2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469",
+      "bytesPerCopy": 631586,
+      "paths": [
+        "data/evidence/bodies/in-jk-recruitment/2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469.bin",
+        "data/evidence/research/jkpsc-hed-corrigendum-2026.pdf"
+      ],
+      "redundantBytes": 631586
+    },
+    {
+      "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+      "bytesPerCopy": 621465,
+      "paths": [
+        "data/evidence/bodies/in-ml-recruitment/ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4.bin",
+        "data/evidence/research/meghalaya-03-2026.pdf"
+      ],
+      "redundantBytes": 621465
+    },
+    {
+      "sha256": "c50bfdc76b1d553a25de6ba7b5ca422825fc6a586b19a274ec91c2681b809ab1",
+      "bytesPerCopy": 614343,
+      "paths": [
+        "data/evidence/bodies/in-ch-recruitment/c50bfdc76b1d553a25de6ba7b5ca422825fc6a586b19a274ec91c2681b809ab1.bin",
+        "data/evidence/research/chandigarh-utcps-2026.pdf"
+      ],
+      "redundantBytes": 614343
+    },
+    {
+      "sha256": "0fb5f56092db5edb88841028889192914c9f26c8bd97c7707172e9706f9d2c29",
+      "bytesPerCopy": 614157,
+      "paths": [
+        "data/evidence/bodies/in-br-dnsricm-lecturer-2026/0fb5f56092db5edb88841028889192914c9f26c8bd97c7707172e9706f9d2c29.bin",
+        "data/evidence/research/dnsricm-lecturer-form-2026.pdf"
+      ],
+      "redundantBytes": 614157
+    },
+    {
+      "sha256": "44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da",
+      "bytesPerCopy": 611640,
+      "paths": [
+        "data/evidence/bodies/in-pb-sssb/44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da.bin",
+        "data/evidence/research/psssb-04-2026-corrigendum-merged.pdf"
+      ],
+      "redundantBytes": 611640
+    },
+    {
+      "sha256": "5cd1afa0a2c09a5432729a94ec7fd08a99dd81f9838075709daee8a47367caf7",
+      "bytesPerCopy": 608378,
+      "paths": [
+        "data/evidence/bodies/in-wb-recruitment/5cd1afa0a2c09a5432729a94ec7fd08a99dd81f9838075709daee8a47367caf7.bin",
+        "data/evidence/research/wbpsc-05-2026.pdf"
+      ],
+      "redundantBytes": 608378
+    },
+    {
+      "sha256": "b4d7fd232888b994a56bd8533fe700bcca4ff14e072b625544fd956ef5d575dd",
+      "bytesPerCopy": 608156,
+      "paths": [
+        "data/evidence/bodies/in-dh-recruitment/b4d7fd232888b994a56bd8533fe700bcca4ff14e072b625544fd956ef5d575dd.bin",
+        "data/evidence/research/ddd-202609151067779559.pdf"
+      ],
+      "redundantBytes": 608156
+    },
+    {
+      "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+      "bytesPerCopy": 600372,
+      "paths": [
+        "data/evidence/bodies/in-dl-ignou-nonteaching-2026/4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272.bin",
+        "data/evidence/research/ignou-nonteaching-69-2026.pdf"
+      ],
+      "redundantBytes": 600372
+    },
+    {
+      "sha256": "149fa8c009ed2b53d45fd6221eead7017da34fb3392e098db7bced85489e8262",
+      "bytesPerCopy": 600300,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-10.png",
+        "data/evidence/research/opsc-ocr/page-28.png"
+      ],
+      "redundantBytes": 600300
+    },
+    {
+      "sha256": "e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2",
+      "bytesPerCopy": 598991,
+      "paths": [
+        "data/evidence/bodies/in-jk-recruitment/e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2.bin",
+        "data/evidence/research/jkpsc-hed-aug-extension-2026.pdf"
+      ],
+      "redundantBytes": 598991
+    },
+    {
+      "sha256": "34f8a42568867f0481a94198b67f5bf342eb6e0f71a3416d9a828a37c2982cb0",
+      "bytesPerCopy": 595551,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-05.png",
+        "data/evidence/research/opsc-ocr/page-23.png"
+      ],
+      "redundantBytes": 595551
+    },
+    {
+      "sha256": "9ea0ad69ea2e9715f2bacce8080159498b7269288da21d9ec70820003fab97f0",
+      "bytesPerCopy": 594207,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-15.png",
+        "data/evidence/research/opsc-ocr/page-33.png"
+      ],
+      "redundantBytes": 594207
+    },
+    {
+      "sha256": "9996c0901ce2b30c2c32e7df9ce907a694d4c8c08b9dbc19f3413c1d1bd3b62c",
+      "bytesPerCopy": 594124,
+      "paths": [
+        "data/evidence/bodies/in-br-dnsricm-lecturer-2026/9996c0901ce2b30c2c32e7df9ce907a694d4c8c08b9dbc19f3413c1d1bd3b62c.bin",
+        "data/evidence/research/dnsricm-lecturer-details-2026.pdf"
+      ],
+      "redundantBytes": 594124
+    },
+    {
+      "sha256": "3f25f3839e759bcd4b8d10de9a3873913c1cd447487edc93b29f4604a1cba9a0",
+      "bytesPerCopy": 584843,
+      "paths": [
+        "data/evidence/bodies/in-dh-recruitment/3f25f3839e759bcd4b8d10de9a3873913c1cd447487edc93b29f4604a1cba9a0.bin",
+        "data/evidence/research/ddd-202609222113125409.pdf"
+      ],
+      "redundantBytes": 584843
+    },
+    {
+      "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+      "bytesPerCopy": 580934,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f.bin",
+        "data/evidence/research/ibps-rrb-xv-vacancies-25sep.pdf"
+      ],
+      "redundantBytes": 580934
+    },
+    {
+      "sha256": "415e13db25828ff4791551dba72ab2ff518588f42432edea4020c6595d377fb1",
+      "bytesPerCopy": 561962,
+      "paths": [
+        "data/evidence/bodies/in-isro-iprc-rmt-2026-01/415e13db25828ff4791551dba72ab2ff518588f42432edea4020c6595d377fb1.bin",
+        "data/evidence/research/iprc-rmt-2026-01-annexure-a.pdf"
+      ],
+      "redundantBytes": 561962
+    },
+    {
+      "sha256": "063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11",
+      "bytesPerCopy": 275428,
+      "paths": [
+        "data/evidence/bodies/in-jh-recruitment/063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11.bin",
+        "data/evidence/research/jpsc-07-2026-press.pdf",
+        "data/evidence/research/jpsc-assistant-professor-07-2026-press.pdf"
+      ],
+      "redundantBytes": 550856
+    },
+    {
+      "sha256": "667960213d2a258fd0ebfabaec5297c995450b7b13de01781d07715b380aede6",
+      "bytesPerCopy": 549472,
+      "paths": [
+        "data/evidence/bodies/in-ut-recruitment/667960213d2a258fd0ebfabaec5297c995450b7b13de01781d07715b380aede6.bin",
+        "data/evidence/research/uttarakhand-psc-1247631101.pdf"
+      ],
+      "redundantBytes": 549472
+    },
+    {
+      "sha256": "5edf564f6205a6ebced25fd12670e87ed96dfa1f1fa9c40335ae1d32a3b760c9",
+      "bytesPerCopy": 539656,
+      "paths": [
+        "data/evidence/bodies/in-dh-recruitment/5edf564f6205a6ebced25fd12670e87ed96dfa1f1fa9c40335ae1d32a3b760c9.bin",
+        "data/evidence/research/ddd-202609151431689579.pdf"
+      ],
+      "redundantBytes": 539656
+    },
+    {
+      "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2",
+      "bytesPerCopy": 528248,
+      "paths": [
+        "data/evidence/bodies/in-la-police/7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2.bin",
+        "data/evidence/research/ladakh-police-no-extension-2026.pdf"
+      ],
+      "redundantBytes": 528248
+    },
+    {
+      "sha256": "9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531",
+      "bytesPerCopy": 517260,
+      "paths": [
+        "data/evidence/bodies/in-pb-sssb/9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531.bin",
+        "data/evidence/research/psssb-04-2026-punjabi-corrigendum.pdf"
+      ],
+      "redundantBytes": 517260
+    },
+    {
+      "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+      "bytesPerCopy": 514014,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a.bin",
+        "data/evidence/research/ibps-rrb-xv-corr-15sep.pdf"
+      ],
+      "redundantBytes": 514014
+    },
+    {
+      "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+      "bytesPerCopy": 513481,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8.bin",
+        "data/evidence/research/ibps-rrb-xv-corr-09sep.pdf"
+      ],
+      "redundantBytes": 513481
+    },
+    {
+      "sha256": "a6dc075877c845e8750bfbe83bb8975439382779bbe719c3012d42625d49f10e",
+      "bytesPerCopy": 511894,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-17.png",
+        "data/evidence/research/opsc-ocr/page-35.png"
+      ],
+      "redundantBytes": 511894
+    },
+    {
+      "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+      "bytesPerCopy": 499406,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555.bin",
+        "data/evidence/research/kerala-general-conditions-current.pdf"
+      ],
+      "redundantBytes": 499406
+    },
+    {
+      "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+      "bytesPerCopy": 495506,
+      "paths": [
+        "data/evidence/bodies/in-ga-recruitment/3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660.bin",
+        "data/evidence/research/goa-psc-advt-09-2026.pdf"
+      ],
+      "redundantBytes": 495506
+    },
+    {
+      "sha256": "04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294",
+      "bytesPerCopy": 488799,
+      "paths": [
+        "data/evidence/bodies/in-mh-actrec/04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294.bin",
+        "data/evidence/research/actrec-senior-resident-198-2026.pdf"
+      ],
+      "redundantBytes": 488799
+    },
+    {
+      "sha256": "9925f84b104181d071ad2c8630631e445e2e6d969f978bc33c5d604ef907e741",
+      "bytesPerCopy": 486968,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-09.png",
+        "data/evidence/research/opsc-ocr/page-27.png"
+      ],
+      "redundantBytes": 486968
+    },
+    {
+      "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+      "bytesPerCopy": 485230,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01.bin",
+        "data/evidence/research/ibps-rrb-xv-corr-25sep.pdf"
+      ],
+      "redundantBytes": 485230
+    },
+    {
+      "sha256": "c232bc0999d94ea8761719331d6125b22568427e2f2d3f9c27fdd89ea8f07ec1",
+      "bytesPerCopy": 470617,
+      "paths": [
+        "data/evidence/bodies/in-icmr-nithr-yp1-admin-2026/c232bc0999d94ea8761719331d6125b22568427e2f2d3f9c27fdd89ea8f07ec1.bin",
+        "data/evidence/research/icmr-nithr-yp1-admin-2026-hindi.pdf"
+      ],
+      "redundantBytes": 470617
+    },
+    {
+      "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f",
+      "bytesPerCopy": 470271,
+      "paths": [
+        "data/evidence/bodies/in-la-police/b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f.bin",
+        "data/evidence/research/ladakh-police-standing-order-2026.pdf"
+      ],
+      "redundantBytes": 470271
+    },
+    {
+      "sha256": "fc014b8204cdf44e845011ab49375775c2e60aeb76982ab2e6f5e5bc5ec25f1e",
+      "bytesPerCopy": 448276,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/fc014b8204cdf44e845011ab49375775c2e60aeb76982ab2e6f5e5bc5ec25f1e.bin",
+        "data/evidence/research/btsc-27-2026.pdf"
+      ],
+      "redundantBytes": 448276
+    },
+    {
+      "sha256": "9873d807bca98d270a69947489639dd86f93dfa6a03e0712a788992f483a9842",
+      "bytesPerCopy": 440716,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-18.png",
+        "data/evidence/research/opsc-ocr/page-36.png"
+      ],
+      "redundantBytes": 440716
+    },
+    {
+      "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+      "bytesPerCopy": 430077,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8.bin",
+        "data/evidence/research/ibps-rrb-xv-window.pdf"
+      ],
+      "redundantBytes": 430077
+    },
+    {
+      "sha256": "b72ef8e4290027eb04feee551eed8f67a7262cbc6be32cffd63d07972e52d5f1",
+      "bytesPerCopy": 418912,
+      "paths": [
+        "data/evidence/bodies/in-indiapost-gds/b72ef8e4290027eb04feee551eed8f67a7262cbc6be32cffd63d07972e52d5f1.bin",
+        "data/evidence/research/indiapost-gds-2026-Annexure-Ia.pdf"
+      ],
+      "redundantBytes": 418912
+    },
+    {
+      "sha256": "93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540",
+      "bytesPerCopy": 414760,
+      "paths": [
+        "data/evidence/bodies/in-hr-hssc/93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540.bin",
+        "data/evidence/research/hssc-05-2026-extension.pdf"
+      ],
+      "redundantBytes": 414760
+    },
+    {
+      "sha256": "534975a5ed69e980e45d2eb45c6d42eb2cee633ed9c1f1f6356d344a4bf71fb0",
+      "bytesPerCopy": 403627,
+      "paths": [
+        "data/evidence/bodies/in-indiapost-gds/534975a5ed69e980e45d2eb45c6d42eb2cee633ed9c1f1f6356d344a4bf71fb0.bin",
+        "data/evidence/research/indiapost-gds-2026-descriptive-notification-hindi.pdf"
+      ],
+      "redundantBytes": 403627
+    },
+    {
+      "sha256": "dd735c34aab12be48c1dd8ca95c7887647edb02e95c77bc68cb4a06db9fa2e00",
+      "bytesPerCopy": 397673,
+      "paths": [
+        "data/evidence/bodies/in-py-pihmct-lecturer-2026/dd735c34aab12be48c1dd8ca95c7887647edb02e95c77bc68cb4a06db9fa2e00.bin",
+        "data/evidence/research/pihmct-assistant-lecturer-2026.pdf"
+      ],
+      "redundantBytes": 397673
+    },
+    {
+      "sha256": "ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23",
+      "bytesPerCopy": 395898,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23.bin",
+        "data/evidence/research/btsc-28-2026.pdf"
+      ],
+      "redundantBytes": 395898
+    },
+    {
+      "sha256": "e2a248d0db4aecbaecdfeb004ed2e5a5f869baabccd900605680ac1fe995ef6e",
+      "bytesPerCopy": 197889,
+      "paths": [
+        "data/evidence/bodies/in-pb-psegs/e2a248d0db4aecbaecdfeb004ed2e5a5f869baabccd900605680ac1fe995ef6e.bin",
+        "data/evidence/research/punjab-dgm-cyber-dit-newspaper-2026.pdf",
+        "data/evidence/research/punjab-dgm-cyber-newspaper-2026.pdf"
+      ],
+      "redundantBytes": 395778
+    },
+    {
+      "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+      "bytesPerCopy": 393898,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f.bin",
+        "data/evidence/research/kerala-146-150-2026.pdf"
+      ],
+      "redundantBytes": 393898
+    },
+    {
+      "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+      "bytesPerCopy": 391434,
+      "paths": [
+        "data/evidence/bodies/in-ap-recruitment/3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8.bin",
+        "data/evidence/research/andhra-16-2026.pdf"
+      ],
+      "redundantBytes": 391434
+    },
+    {
+      "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+      "bytesPerCopy": 391265,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f.bin",
+        "data/evidence/research/kerala-139-142-2026.pdf"
+      ],
+      "redundantBytes": 391265
+    },
+    {
+      "sha256": "b4134120b034d86ee053886c95ad7ab6db9d531c86a4c0fc2aaa4b0ddacf592e",
+      "bytesPerCopy": 388386,
+      "paths": [
+        "data/evidence/research/uttarakhand-psc-1843959203-page-1.png",
+        "data/evidence/research/uttarakhand-psc-52805175-page-1.png"
+      ],
+      "redundantBytes": 388386
+    },
+    {
+      "sha256": "04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16",
+      "bytesPerCopy": 387602,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16.bin",
+        "data/evidence/research/kerala-136-2026.pdf"
+      ],
+      "redundantBytes": 387602
+    },
+    {
+      "sha256": "21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235",
+      "bytesPerCopy": 386647,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235.bin",
+        "data/evidence/research/kerala-138-2026.pdf"
+      ],
+      "redundantBytes": 386647
+    },
+    {
+      "sha256": "e90b94e7ac50bafc069618c808e2ed7762fd71c47f006b6f1ba67c5ba32887c2",
+      "bytesPerCopy": 383902,
+      "paths": [
+        "data/evidence/bodies/in-bel-september-engineers-2026/e90b94e7ac50bafc069618c808e2ed7762fd71c47f006b6f1ba67c5ba32887c2.bin",
+        "data/evidence/research/bel-senior-fixed-term-engineer-2026-09-27.pdf"
+      ],
+      "redundantBytes": 383902
+    },
+    {
+      "sha256": "90f4b1a5ef1c231646888ea4651bf244df75f4142f19540f922298a7771a8885",
+      "bytesPerCopy": 381281,
+      "paths": [
+        "data/evidence/bodies/in-icmr-nithr-yp1-admin-2026/90f4b1a5ef1c231646888ea4651bf244df75f4142f19540f922298a7771a8885.bin",
+        "data/evidence/research/icmr-nithr-yp1-admin-2026.pdf"
+      ],
+      "redundantBytes": 381281
+    },
+    {
+      "sha256": "017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0",
+      "bytesPerCopy": 380834,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0.bin",
+        "data/evidence/research/kerala-143-2026.pdf"
+      ],
+      "redundantBytes": 380834
+    },
+    {
+      "sha256": "1864645263621cb83506f0508bbe9dd0a792d7437e0fe91ea420e45bb00e92d6",
+      "bytesPerCopy": 374049,
+      "paths": [
+        "data/evidence/bodies/in-apeda-associates-2026/1864645263621cb83506f0508bbe9dd0a792d7437e0fe91ea420e45bb00e92d6.bin",
+        "data/evidence/research/apeda-associate-legal-2026.pdf"
+      ],
+      "redundantBytes": 374049
+    },
+    {
+      "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+      "bytesPerCopy": 373499,
+      "paths": [
+        "data/evidence/bodies/in-wb-iiserkol-nt04-2026/0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6.bin",
+        "data/evidence/research/iiserkol-nt04-2026-en.pdf"
+      ],
+      "redundantBytes": 373499
+    },
+    {
+      "sha256": "89f892575a8a22f6fe727d8046901becb97f450ba025027b941ebf729a5e82f0",
+      "bytesPerCopy": 368637,
+      "paths": [
+        "data/evidence/bodies/in-br-dnsricm-lecturer-2026/89f892575a8a22f6fe727d8046901becb97f450ba025027b941ebf729a5e82f0.bin",
+        "data/evidence/research/dnsricm-lecturer-announcement-2026.jpeg"
+      ],
+      "redundantBytes": 368637
+    },
+    {
+      "sha256": "9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748",
+      "bytesPerCopy": 368628,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748.bin",
+        "data/evidence/research/kerala-145-2026.pdf"
+      ],
+      "redundantBytes": 368628
+    },
+    {
+      "sha256": "33002895050801561fbf9bae7d0bf8ef7999eb957d989d4d1b8959fc638ee95f",
+      "bytesPerCopy": 367789,
+      "paths": [
+        "data/evidence/bodies/in-ka-recruitment/33002895050801561fbf9bae7d0bf8ef7999eb957d989d4d1b8959fc638ee95f.bin",
+        "data/evidence/research/kpsc-gp-2026-age.pdf"
+      ],
+      "redundantBytes": 367789
+    },
+    {
+      "sha256": "07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806",
+      "bytesPerCopy": 367446,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806.bin",
+        "data/evidence/research/kerala-134-2026.pdf"
+      ],
+      "redundantBytes": 367446
+    },
+    {
+      "sha256": "464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde",
+      "bytesPerCopy": 363678,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde.bin",
+        "data/evidence/research/kerala-135-2026.pdf"
+      ],
+      "redundantBytes": 363678
+    },
+    {
+      "sha256": "95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc",
+      "bytesPerCopy": 360279,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc.bin",
+        "data/evidence/research/kerala-132-2026.pdf"
+      ],
+      "redundantBytes": 360279
+    },
+    {
+      "sha256": "08306466792e991b2275c6b1f4e57aa05c7f124698acaa091156c1f55bbd31b4",
+      "bytesPerCopy": 359617,
+      "paths": [
+        "data/evidence/bodies/in-apeda-associates-2026/08306466792e991b2275c6b1f4e57aa05c7f124698acaa091156c1f55bbd31b4.bin",
+        "data/evidence/research/apeda-associate-trade-2026.pdf"
+      ],
+      "redundantBytes": 359617
+    },
+    {
+      "sha256": "d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d",
+      "bytesPerCopy": 357572,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d.bin",
+        "data/evidence/research/kerala-137-2026.pdf"
+      ],
+      "redundantBytes": 357572
+    },
+    {
+      "sha256": "f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927",
+      "bytesPerCopy": 354392,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927.bin",
+        "data/evidence/research/kerala-144-2026.pdf"
+      ],
+      "redundantBytes": 354392
+    },
+    {
+      "sha256": "369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544",
+      "bytesPerCopy": 350835,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544.bin",
+        "data/evidence/research/kerala-131-2026.pdf"
+      ],
+      "redundantBytes": 350835
+    },
+    {
+      "sha256": "8173fb01fe72e9e263eb8aa1b9acd1a7e0c2d14cb8509b23aac2ba5b27866b2d",
+      "bytesPerCopy": 349100,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-19.png",
+        "data/evidence/research/opsc-ocr/page-37.png"
+      ],
+      "redundantBytes": 349100
+    },
+    {
+      "sha256": "50799e314530726481395c7b4ca3859c5bc116cb0f05dacf53288db18904d055",
+      "bytesPerCopy": 345823,
+      "paths": [
+        "data/evidence/bodies/in-as-recruitment/50799e314530726481395c7b4ca3859c5bc116cb0f05dacf53288db18904d055.bin",
+        "data/evidence/research/apsc-12-2026.pdf"
+      ],
+      "redundantBytes": 345823
+    },
+    {
+      "sha256": "24ea238b86ba2b28e0736f6000b84cf719c6ae2bd6f02bf8c1a9bde62ee81620",
+      "bytesPerCopy": 334802,
+      "paths": [
+        "data/evidence/bodies/in-mz-mirsac-group-d-2026/24ea238b86ba2b28e0736f6000b84cf719c6ae2bd6f02bf8c1a9bde62ee81620.bin",
+        "data/evidence/research/mirsac-group-d-2026-form.pdf"
+      ],
+      "redundantBytes": 334802
+    },
+    {
+      "sha256": "a9ed71da8e694e31218a3cdcca6c3964d0fdf9907c0c385d247adbaa0b4b8814",
+      "bytesPerCopy": 316366,
+      "paths": [
+        "data/evidence/bodies/in-ka-recruitment/a9ed71da8e694e31218a3cdcca6c3964d0fdf9907c0c385d247adbaa0b4b8814.bin",
+        "data/evidence/research/kpsc-gp-2026-extension.pdf"
+      ],
+      "redundantBytes": 316366
+    },
+    {
+      "sha256": "fbd5721ce789ff0b307a973eac5d0e6ee776a9619fe9abd4903a3f8c1e6e3ebb",
+      "bytesPerCopy": 309910,
+      "paths": [
+        "data/evidence/bodies/in-indiapost-gds/fbd5721ce789ff0b307a973eac5d0e6ee776a9619fe9abd4903a3f8c1e6e3ebb.bin",
+        "data/evidence/research/indiapost-gds-2026-descriptive-notification.pdf"
+      ],
+      "redundantBytes": 309910
+    },
+    {
+      "sha256": "cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc",
+      "bytesPerCopy": 308622,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc.bin",
+        "data/evidence/research/kerala-130-2026.pdf"
+      ],
+      "redundantBytes": 308622
+    },
+    {
+      "sha256": "c31a3c45c8bb4557a2054406ad4b681accf823fdab6480ddbaa68b8d6aa0ed20",
+      "bytesPerCopy": 306831,
+      "paths": [
+        "data/evidence/bodies/in-ka-recruitment/c31a3c45c8bb4557a2054406ad4b681accf823fdab6480ddbaa68b8d6aa0ed20.bin",
+        "data/evidence/research/kpsc-gp-2026-pressnote.pdf"
+      ],
+      "redundantBytes": 306831
+    },
+    {
+      "sha256": "ef48c0b7766ce2ecef5d62bad18cb2bfcdcc50192d6c060ec80eaaf573ecabda",
+      "bytesPerCopy": 301836,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-04.png",
+        "data/evidence/research/opsc-ocr/page-22.png"
+      ],
+      "redundantBytes": 301836
+    },
+    {
+      "sha256": "f6f653e3d96588f14ff42d3eabec334c729a864b156c6743d37ae48142117659",
+      "bytesPerCopy": 292109,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/f6f653e3d96588f14ff42d3eabec334c729a864b156c6743d37ae48142117659.bin",
+        "data/evidence/research/gssc-2026-3-1.pdf"
+      ],
+      "redundantBytes": 292109
+    },
+    {
+      "sha256": "f00b45445ede7c0cf1f2d810bd4b94e9fd404f9bd160903c737a6d852eda3cb0",
+      "bytesPerCopy": 290786,
+      "paths": [
+        "data/evidence/bodies/in-iitb-faculty-l10-2026/f00b45445ede7c0cf1f2d810bd4b94e9fd404f9bd160903c737a6d852eda3cb0.bin",
+        "data/evidence/research/iitb-l10-eligibility.pdf"
+      ],
+      "redundantBytes": 290786
+    },
+    {
+      "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+      "bytesPerCopy": 288556,
+      "paths": [
+        "data/evidence/bodies/in-mn-recruitment/6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f.bin",
+        "data/evidence/research/manipur-04-2026.pdf"
+      ],
+      "redundantBytes": 288556
+    },
+    {
+      "sha256": "c0a1602e36e99747a16d5a811ad382e3945bd3f6c385272378f16e3ec2687d2f",
+      "bytesPerCopy": 285597,
+      "paths": [
+        "data/evidence/bodies/bt-rcsc-bcse-2026/c0a1602e36e99747a16d5a811ad382e3945bd3f6c385272378f16e3ec2687d2f.bin",
+        "data/evidence/research/bt-rcsc-bcse-vacancies-2026.pdf"
+      ],
+      "redundantBytes": 285597
+    },
+    {
+      "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+      "bytesPerCopy": 281376,
+      "paths": [
+        "data/evidence/bodies/in-mecl-nonexecutive/51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8.bin",
+        "data/evidence/research/mecl-exam-instructions-03-2026.pdf"
+      ],
+      "redundantBytes": 281376
+    },
+    {
+      "sha256": "508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0",
+      "bytesPerCopy": 277244,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0.bin",
+        "data/evidence/research/kerala-133-2026.pdf"
+      ],
+      "redundantBytes": 277244
+    },
+    {
+      "sha256": "7b98c8efdb9d01e9f6b64f05c10903b2d57bea82d616df544859ba59684375f3",
+      "bytesPerCopy": 259461,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/7b98c8efdb9d01e9f6b64f05c10903b2d57bea82d616df544859ba59684375f3.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-energy.pdf"
+      ],
+      "redundantBytes": 259461
+    },
+    {
+      "sha256": "cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129",
+      "bytesPerCopy": 258543,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129.bin",
+        "data/evidence/research/nlsiu-notification-17-2026.pdf"
+      ],
+      "redundantBytes": 258543
+    },
+    {
+      "sha256": "444edf6db32032526f59717db01f211396efb03913eab914c0960af9b105c245",
+      "bytesPerCopy": 258315,
+      "paths": [
+        "data/evidence/bodies/in-or-drdo-pxe-apprentices/444edf6db32032526f59717db01f211396efb03913eab914c0960af9b105c245.bin",
+        "data/evidence/research/drdo-pxe-apprentices-2026.pdf"
+      ],
+      "redundantBytes": 258315
+    },
+    {
+      "sha256": "c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008",
+      "bytesPerCopy": 252885,
+      "paths": [
+        "data/evidence/bodies/in-kvs-deputation/c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008.bin",
+        "data/evidence/research/kvs-extension-2026-09-17.pdf"
+      ],
+      "redundantBytes": 252885
+    },
+    {
+      "sha256": "3874a51edcf58bf73a286774cb59ea621aac72f3b9899f86a387365957b5bb63",
+      "bytesPerCopy": 246550,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/3874a51edcf58bf73a286774cb59ea621aac72f3b9899f86a387365957b5bb63.bin",
+        "data/evidence/research/gssc-instructions.pdf"
+      ],
+      "redundantBytes": 246550
+    },
+    {
+      "sha256": "030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5",
+      "bytesPerCopy": 243343,
+      "paths": [
+        "data/evidence/bodies/in-drdo-jrf-september-2026/030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5.bin",
+        "data/evidence/research/drdo-lrde-jrf-2026.pdf"
+      ],
+      "redundantBytes": 243343
+    },
+    {
+      "sha256": "05f40d4a465eb856f6ce2e48d9599546c7ebfc14ff128312428f70c5fc5cf53f",
+      "bytesPerCopy": 240319,
+      "paths": [
+        "data/evidence/bodies/br-navbrasil-2026/05f40d4a465eb856f6ce2e48d9599546c7ebfc14ff128312428f70c5fc5cf53f.bin",
+        "data/evidence/research/navbrasil-retificacao-2-2026.pdf"
+      ],
+      "redundantBytes": 240319
+    },
+    {
+      "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+      "bytesPerCopy": 235349,
+      "paths": [
+        "data/evidence/bodies/in-ibps-crp/39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966.bin",
+        "data/evidence/research/ibps-rrb-xv-extension.pdf"
+      ],
+      "redundantBytes": 235349
+    },
+    {
+      "sha256": "cdb3044987595b874c7c60d8ed9baaa9a196fc314ac5f1db7c028d6057210739",
+      "bytesPerCopy": 230048,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/cdb3044987595b874c7c60d8ed9baaa9a196fc314ac5f1db7c028d6057210739.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-hr.pdf"
+      ],
+      "redundantBytes": 230048
+    },
+    {
+      "sha256": "52cfae6f1b29a72822b75e5b77e73cb108f616b46f2197f616b46a335534f821",
+      "bytesPerCopy": 229358,
+      "paths": [
+        "data/evidence/bodies/in-tg-sports-physio/52cfae6f1b29a72822b75e5b77e73cb108f616b46f2197f616b46a335534f821.bin",
+        "data/evidence/research/tg-sports-physio-2026.pdf"
+      ],
+      "redundantBytes": 229358
+    },
+    {
+      "sha256": "dd67a0d79fb21c76061deb1a9389cd76afc6c0e4c426b0258c1d89f83e8a60f6",
+      "bytesPerCopy": 221453,
+      "paths": [
+        "data/evidence/research/uttarakhand-psc-1843959203.txt",
+        "data/evidence/research/uttarakhand-psc-52805175.txt"
+      ],
+      "redundantBytes": 221453
+    },
+    {
+      "sha256": "48fe88dffd0fabbd268b4412f7263eb378d7e2128abfa7662ba959830f003710",
+      "bytesPerCopy": 220272,
+      "paths": [
+        "data/evidence/bodies/in-wb-recruitment/48fe88dffd0fabbd268b4412f7263eb378d7e2128abfa7662ba959830f003710.bin",
+        "data/evidence/research/wbpsc-05-2026-indicative.pdf"
+      ],
+      "redundantBytes": 220272
+    },
+    {
+      "sha256": "6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9",
+      "bytesPerCopy": 218776,
+      "paths": [
+        "data/evidence/bodies/in-tr-recruitment/6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9.bin",
+        "data/evidence/research/tpsc-01-2026-addendum.pdf"
+      ],
+      "redundantBytes": 218776
+    },
+    {
+      "sha256": "eab8c46c99e96b0597ae6e859218a40bf3912149ac6ccb9d8c06ec4280301e51",
+      "bytesPerCopy": 211437,
+      "paths": [
+        "data/evidence/research/ladakh-notification-index-2026.html",
+        "data/evidence/research/ladakh-notifications-2026.html"
+      ],
+      "redundantBytes": 211437
+    },
+    {
+      "sha256": "de3f2f695cd6a138d594d0e7979241edaec59e78e71ecd6b999c9aeab45112c2",
+      "bytesPerCopy": 208391,
+      "paths": [
+        "data/evidence/bodies/br-navbrasil-2026/de3f2f695cd6a138d594d0e7979241edaec59e78e71ecd6b999c9aeab45112c2.bin",
+        "data/evidence/research/navbrasil-retificacao-1-2026.pdf"
+      ],
+      "redundantBytes": 208391
+    },
+    {
+      "sha256": "51ee90e7f0aae3ad638c9a080e30aebe974fe383d351aa20f8f78cfabc40e9bb",
+      "bytesPerCopy": 206691,
+      "paths": [
+        "data/evidence/research/ukpsc-sep24-2026.pdf",
+        "data/evidence/research/uttarakhand-psc-24-sep-2026.pdf"
+      ],
+      "redundantBytes": 206691
+    },
+    {
+      "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40",
+      "bytesPerCopy": 205824,
+      "paths": [
+        "data/evidence/bodies/in-dl-recruitment/326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40.bin",
+        "data/evidence/research/dsssb-33-26-corrigendum.pdf"
+      ],
+      "redundantBytes": 205824
+    },
+    {
+      "sha256": "c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7",
+      "bytesPerCopy": 205413,
+      "paths": [
+        "data/evidence/bodies/in-pb-sssb/c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7.bin",
+        "data/evidence/research/psssb-04-2026-correction-portal.pdf"
+      ],
+      "redundantBytes": 205413
+    },
+    {
+      "sha256": "1f66a79ea7e5d1e15fb95a90c819085116874a37753d08d1dcf6b3a4fe5f1c0d",
+      "bytesPerCopy": 204659,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-professor-law-2026/1f66a79ea7e5d1e15fb95a90c819085116874a37753d08d1dcf6b3a4fe5f1c0d.bin",
+        "data/evidence/research/nlsiu-professor-law-notification-15-2026.pdf"
+      ],
+      "redundantBytes": 204659
+    },
+    {
+      "sha256": "c5b375a4c7241bbeb5d1cbec88f152336a22ef87720d2f48a467c93808bb4d0e",
+      "bytesPerCopy": 203479,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-20.png",
+        "data/evidence/research/opsc-ocr/page-38.png"
+      ],
+      "redundantBytes": 203479
+    },
+    {
+      "sha256": "f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a",
+      "bytesPerCopy": 195815,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a.bin",
+        "data/evidence/research/nlsiu-notification-18-2026.pdf"
+      ],
+      "redundantBytes": 195815
+    },
+    {
+      "sha256": "70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3",
+      "bytesPerCopy": 193628,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3.bin",
+        "data/evidence/research/nlsiu-notification-16-2026.pdf"
+      ],
+      "redundantBytes": 193628
+    },
+    {
+      "sha256": "58b191aa2e20df2def6310527a801dcd8abc82167b623d148629cce479030cb0",
+      "bytesPerCopy": 192904,
+      "paths": [
+        "data/evidence/bodies/bt-rcsc-bcse-2026/58b191aa2e20df2def6310527a801dcd8abc82167b623d148629cce479030cb0.bin",
+        "data/evidence/research/bt-rcsc-bcse-reprioritised-2026.pdf"
+      ],
+      "redundantBytes": 192904
+    },
+    {
+      "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5",
+      "bytesPerCopy": 192609,
+      "paths": [
+        "data/evidence/bodies/in-dl-recruitment/a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5.bin",
+        "data/evidence/research/dsssb-28-26-corrigendum.pdf"
+      ],
+      "redundantBytes": 192609
+    },
+    {
+      "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+      "bytesPerCopy": 185617,
+      "paths": [
+        "data/evidence/bodies/in-ml-recruitment/1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30.bin",
+        "data/evidence/research/meghalaya-03-2026-coach-addendum.pdf"
+      ],
+      "redundantBytes": 185617
+    },
+    {
+      "sha256": "4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023",
+      "bytesPerCopy": 185173,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023.bin",
+        "data/evidence/research/nlsiu-notification-19-2026.pdf"
+      ],
+      "redundantBytes": 185173
+    },
+    {
+      "sha256": "2267670b39688054108188323039f0c68f5ee2086ae8d546dcf4d266ae24f81f",
+      "bytesPerCopy": 184394,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/2267670b39688054108188323039f0c68f5ee2086ae8d546dcf4d266ae24f81f.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-conditions.pdf"
+      ],
+      "redundantBytes": 184394
+    },
+    {
+      "sha256": "04045866ee0a51000c9e1a4f8b50a54742dc689202e9d2575e9a558f7f03e2fc",
+      "bytesPerCopy": 178448,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/04045866ee0a51000c9e1a4f8b50a54742dc689202e9d2575e9a558f7f03e2fc.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-finance.pdf"
+      ],
+      "redundantBytes": 178448
+    },
+    {
+      "sha256": "2a4bd173bc77e4d481ce89cc18e32efb5a36403412faabf5341f43c9a42390a4",
+      "bytesPerCopy": 166215,
+      "paths": [
+        "data/evidence/research/gpsc-da-42-2026.txt",
+        "data/evidence/research/gpsc-da-43-2026.txt"
+      ],
+      "redundantBytes": 166215
+    },
+    {
+      "sha256": "9b057388ef33b4fbbf02224aa07758e8b16acee3658e7124510c9ad8dbe4ea03",
+      "bytesPerCopy": 161776,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/9b057388ef33b4fbbf02224aa07758e8b16acee3658e7124510c9ad8dbe4ea03.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-health.pdf"
+      ],
+      "redundantBytes": 161776
+    },
+    {
+      "sha256": "799829f4f8a9557fc0e90a1b486367302eb57410cf4bf9267a8d6bbb02d87031",
+      "bytesPerCopy": 152308,
+      "paths": [
+        "data/evidence/bodies/ie-publicjobs-ao-specialist-2026/799829f4f8a9557fc0e90a1b486367302eb57410cf4bf9267a8d6bbb02d87031.bin",
+        "data/evidence/research/ie-publicjobs-ao-specialist-9005-2026-eligibility.pdf"
+      ],
+      "redundantBytes": 152308
+    },
+    {
+      "sha256": "bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3",
+      "bytesPerCopy": 151808,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3.bin",
+        "data/evidence/research/nlsiu-associate-professor-hss-corrigendum-2026.pdf"
+      ],
+      "redundantBytes": 151808
+    },
+    {
+      "sha256": "a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad",
+      "bytesPerCopy": 143845,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad.bin",
+        "data/evidence/research/nlsiu-professor-hss-corrigendum-2026.pdf"
+      ],
+      "redundantBytes": 143845
+    },
+    {
+      "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+      "bytesPerCopy": 69631,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c.txt",
+        "data/evidence/research/btsc-page-0.html",
+        "data/evidence/research/btsc-recruitment.html"
+      ],
+      "redundantBytes": 139262
+    },
+    {
+      "sha256": "85e87b23f42de284f13558e7d46e0bf054c586d6eff80bdb91eec52c65e8f499",
+      "bytesPerCopy": 130641,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/85e87b23f42de284f13558e7d46e0bf054c586d6eff80bdb91eec52c65e8f499.bin",
+        "data/evidence/research/gssc-2026-3-0.pdf"
+      ],
+      "redundantBytes": 130641
+    },
+    {
+      "sha256": "6770bffedb59b6a6dd51532f2ecd63ed752f332ce99d8fd266d1d3236434a2f6",
+      "bytesPerCopy": 127223,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/6770bffedb59b6a6dd51532f2ecd63ed752f332ce99d8fd266d1d3236434a2f6.bin",
+        "data/evidence/research/gssc-2026-3-2.pdf"
+      ],
+      "redundantBytes": 127223
+    },
+    {
+      "sha256": "dd94d0268d715ecb6268ebecdfe449e69550abe1503281921187c365bf62e665",
+      "bytesPerCopy": 122959,
+      "paths": [
+        "data/evidence/research/ukpsc-recruitment-2026.html",
+        "data/evidence/research/uttarakhand-psc-recruitment-2026.html"
+      ],
+      "redundantBytes": 122959
+    },
+    {
+      "sha256": "74986a331d00a8aa07bf1e98d237b34bd2e3a8003bf04cae3e078a2508193868",
+      "bytesPerCopy": 119740,
+      "paths": [
+        "data/evidence/bodies/in-iitb-faculty-l10-2026/74986a331d00a8aa07bf1e98d237b34bd2e3a8003bf04cae3e078a2508193868.bin",
+        "data/evidence/research/iitb-l10-specializations.pdf"
+      ],
+      "redundantBytes": 119740
+    },
+    {
+      "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+      "bytesPerCopy": 112611,
+      "paths": [
+        "data/evidence/bodies/in-ml-recruitment/08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51.bin",
+        "data/evidence/research/meghalaya-03-2026-fishery-age.pdf"
+      ],
+      "redundantBytes": 112611
+    },
+    {
+      "sha256": "ee29f64b6c4b81a6fd11d76fab08596af2057b5a57177966c6ac82e7d3c64a3b",
+      "bytesPerCopy": 87560,
+      "paths": [
+        "data/evidence/bodies/in-wb-recruitment/ee29f64b6c4b81a6fd11d76fab08596af2057b5a57177966c6ac82e7d3c64a3b.bin",
+        "data/evidence/research/wbpsc-05-2026-extension.pdf"
+      ],
+      "redundantBytes": 87560
+    },
+    {
+      "sha256": "dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4",
+      "bytesPerCopy": 76437,
+      "paths": [
+        "data/evidence/bodies/in-mn-recruitment/dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4.txt",
+        "data/evidence/research/manipur-whats-new.html"
+      ],
+      "redundantBytes": 76437
+    },
+    {
+      "sha256": "81ec7be5f577698d0a9556e899cf8acd5b4be967b1aa47b40e0cbc96cedc10c7",
+      "bytesPerCopy": 73655,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/81ec7be5f577698d0a9556e899cf8acd5b4be967b1aa47b40e0cbc96cedc10c7.txt",
+        "data/evidence/research/gssc-advertisements.html"
+      ],
+      "redundantBytes": 73655
+    },
+    {
+      "sha256": "35423263e45c44210d2c7caf9c0e162d1f90d7fc88c314ad274d3f031f6bbfc9",
+      "bytesPerCopy": 72681,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/35423263e45c44210d2c7caf9c0e162d1f90d7fc88c314ad274d3f031f6bbfc9.txt",
+        "data/evidence/research/btsc-page-3.html"
+      ],
+      "redundantBytes": 72681
+    },
+    {
+      "sha256": "1bdbc8d44d35f45980c1b57371602ffc4ea6be5d47fbaabeb46af8ebe0043cc0",
+      "bytesPerCopy": 71366,
+      "paths": [
+        "data/evidence/bodies/in-ga-gssc/1bdbc8d44d35f45980c1b57371602ffc4ea6be5d47fbaabeb46af8ebe0043cc0.txt",
+        "data/evidence/research/gssc-instructions.html"
+      ],
+      "redundantBytes": 71366
+    },
+    {
+      "sha256": "c3623af82b7ef9b6a8c05815211c4023a0a3f51f11b28b1cec31661c558d0280",
+      "bytesPerCopy": 70540,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/c3623af82b7ef9b6a8c05815211c4023a0a3f51f11b28b1cec31661c558d0280.txt",
+        "data/evidence/research/btsc-page-2.html"
+      ],
+      "redundantBytes": 70540
+    },
+    {
+      "sha256": "e13f2221925a61e9f942f5ee5d2fb78f5b772c54015de22d862e7865bb86e4d0",
+      "bytesPerCopy": 70448,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/e13f2221925a61e9f942f5ee5d2fb78f5b772c54015de22d862e7865bb86e4d0.txt",
+        "data/evidence/research/btsc-page-1.html"
+      ],
+      "redundantBytes": 70448
+    },
+    {
+      "sha256": "2a9d1d163642272857acd3ea901f7a7248db0d6c1b2ced3d893808c1321dc0cc",
+      "bytesPerCopy": 70394,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/2a9d1d163642272857acd3ea901f7a7248db0d6c1b2ced3d893808c1321dc0cc.txt",
+        "data/evidence/research/btsc-page-5.html"
+      ],
+      "redundantBytes": 70394
+    },
+    {
+      "sha256": "83a8e38dd0b6b3dbffee2543d44a32cbeb2ddc473697e4e781f910e341e32976",
+      "bytesPerCopy": 70334,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/83a8e38dd0b6b3dbffee2543d44a32cbeb2ddc473697e4e781f910e341e32976.txt",
+        "data/evidence/research/btsc-page-4.html"
+      ],
+      "redundantBytes": 70334
+    },
+    {
+      "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+      "bytesPerCopy": 66848,
+      "paths": [
+        "data/evidence/bodies/in-ml-recruitment/f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3.txt",
+        "data/evidence/research/meghalaya-advertisements.html"
+      ],
+      "redundantBytes": 66848
+    },
+    {
+      "sha256": "1e1563cbc22d03fcbe4b5010946523a491811c938c2d71c0b572fb664bf5a582",
+      "bytesPerCopy": 61107,
+      "paths": [
+        "data/evidence/bodies/in-br-btsc/1e1563cbc22d03fcbe4b5010946523a491811c938c2d71c0b572fb664bf5a582.txt",
+        "data/evidence/research/btsc-page-6.html"
+      ],
+      "redundantBytes": 61107
+    },
+    {
+      "sha256": "db7a6b0ac80cb4c5c4a1c3d76f0f5b05b0f83cf5812aba789f205edd02aad45e",
+      "bytesPerCopy": 52220,
+      "paths": [
+        "data/evidence/bodies/in-mp-esb-police-gd/db7a6b0ac80cb4c5c4a1c3d76f0f5b05b0f83cf5812aba789f205edd02aad45e.bin",
+        "data/evidence/research/mpesb-pcrt-2026-revised-page.pdf"
+      ],
+      "redundantBytes": 52220
+    },
+    {
+      "sha256": "82928c9ea42cebc6af425d449f2ba5f82703039daceccc6d0c62aaf8b8934b37",
+      "bytesPerCopy": 48324,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/82928c9ea42cebc6af425d449f2ba5f82703039daceccc6d0c62aaf8b8934b37.txt",
+        "data/evidence/research/kerala-index.html"
+      ],
+      "redundantBytes": 48324
+    },
+    {
+      "sha256": "e2b7085db502fea6719f2e46521a4c85c1a0a1567b0e867d47faa0290e36713e",
+      "bytesPerCopy": 35824,
+      "paths": [
+        "data/evidence/research/hprca-home-2026.html",
+        "data/evidence/research/hprca-robots-2026.txt"
+      ],
+      "redundantBytes": 35824
+    },
+    {
+      "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+      "bytesPerCopy": 34795,
+      "paths": [
+        "data/evidence/bodies/in-kl-recruitment/9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e.txt",
+        "data/evidence/research/kerala-august-2026.html"
+      ],
+      "redundantBytes": 34795
+    },
+    {
+      "sha256": "7a1414d521d3c5eb3afb3e38fa8ff8326a890600de263bcf9c6ce186c69959e2",
+      "bytesPerCopy": 31325,
+      "paths": [
+        "data/evidence/research/jpsc-07-2026-advertisement.txt",
+        "data/evidence/research/jpsc-assistant-professor-07-2026-advertisement.txt"
+      ],
+      "redundantBytes": 31325
+    },
+    {
+      "sha256": "fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237",
+      "bytesPerCopy": 27630,
+      "paths": [
+        "data/evidence/bodies/in-ct-recruitment/fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237.txt",
+        "data/evidence/research/cgpsc-advertisements.html"
+      ],
+      "redundantBytes": 27630
+    },
+    {
+      "sha256": "837f90898c0a60b4de1b8dce3f24ba8172a137ae69be1bc774c10eb03f6bf515",
+      "bytesPerCopy": 27330,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb.txt.gz",
+        "data/evidence/bodies/in-ka-nlsiu-professor-law-2026/1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb.txt.gz"
+      ],
+      "redundantBytes": 27330
+    },
+    {
+      "sha256": "0aff8f1d269f327dd24ffbbae5f239ae4bd9b6ea1e76405600b334c123af8d8e",
+      "bytesPerCopy": 25884,
+      "paths": [
+        "data/evidence/bodies/in-br-recruitment/0aff8f1d269f327dd24ffbbae5f239ae4bd9b6ea1e76405600b334c123af8d8e.bin",
+        "data/evidence/research/bpsc-tre4-15-2026-important-notice.pdf"
+      ],
+      "redundantBytes": 25884
+    },
+    {
+      "sha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+      "bytesPerCopy": 25778,
+      "paths": [
+        "data/evidence/bodies/za-dpsa-cpsi-internships-2026/907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34.bin",
+        "data/evidence/research/za-dpsa-circular-34-2026-cpsi.pdf"
+      ],
+      "redundantBytes": 25778
+    },
+    {
+      "sha256": "60c56a145b956991a77b3a763b2b2277cabaa236ef6e5b5feec6dda6699b09b6",
+      "bytesPerCopy": 24768,
+      "paths": [
+        "data/evidence/research/jpsc-01-2026.html",
+        "data/evidence/research/jpsc-exam-13039-2026.html"
+      ],
+      "redundantBytes": 24768
+    },
+    {
+      "sha256": "1f69322e5d8722054929f44952323a424e0882289c38b7f359bbdb7a4a8156c3",
+      "bytesPerCopy": 23189,
+      "paths": [
+        "data/evidence/research/india61-in-tg-recruitment-primary-entry-2026-09-27.html",
+        "data/evidence/research/tg-home-2026-09-25.html"
+      ],
+      "redundantBytes": 23189
+    },
+    {
+      "sha256": "2fbad3c6c6305fa6f55db2ebd0e2a58d885b61abd6de40e03872f6e68099769e",
+      "bytesPerCopy": 19852,
+      "paths": [
+        "data/evidence/research/jpsc-04-2026.html",
+        "data/evidence/research/jpsc-exam-13042-2026.html"
+      ],
+      "redundantBytes": 19852
+    },
+    {
+      "sha256": "ec41f38b10d2d377052b4ad313bca61c3a5693f96ba478810c13bdf85d047ccf",
+      "bytesPerCopy": 19339,
+      "paths": [
+        "data/evidence/research/jpsc-07-2026.html",
+        "data/evidence/research/jpsc-exam-13045-2026.html"
+      ],
+      "redundantBytes": 19339
+    },
+    {
+      "sha256": "4959757fe320bebd5f28bd8d613fcc86eae65864868ad0d5db92593059467c2e",
+      "bytesPerCopy": 11543,
+      "paths": [
+        "data/evidence/research/mpesb-home-2026-09-25.html",
+        "data/evidence/research/mpesb68-home-2026-09-27.html"
+      ],
+      "redundantBytes": 11543
+    },
+    {
+      "sha256": "e77d61cdd1a5372cdccda36bb8f6d5ccbb9c3b5e6309789affc867e7d80376bd",
+      "bytesPerCopy": 11232,
+      "paths": [
+        "data/evidence/bodies/in-ka-nlsiu-other-faculty-2026/60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7.txt.gz",
+        "data/evidence/bodies/in-ka-nlsiu-professor-law-2026/60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7.txt.gz"
+      ],
+      "redundantBytes": 11232
+    },
+    {
+      "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f",
+      "bytesPerCopy": 1245,
+      "paths": [
+        "data/evidence/research/andaman-erecruitment-robots-2026.txt",
+        "data/evidence/research/gpsc-robots.txt",
+        "data/evidence/research/jk-robots-2026.txt",
+        "data/evidence/research/jkpsc-higher-ed-backlog-2026-404.html",
+        "data/evidence/research/jkpsc-higher-ed-fresh-2026-404.html",
+        "data/evidence/research/ladakh-police-robots-404.html",
+        "data/evidence/research/spsc-robots.txt"
+      ],
+      "redundantBytes": 7470
+    },
+    {
+      "sha256": "8e3ace2edb83d802632b99e87c7a66596efa94af7f90f7140dfea7aa55f677c5",
+      "bytesPerCopy": 4363,
+      "paths": [
+        "data/evidence/research/india61-in-mh-recruitment-primary-entry-2026-09-27.html",
+        "data/evidence/research/mpsc-home.html"
+      ],
+      "redundantBytes": 4363
+    },
+    {
+      "sha256": "ffe3937e79a320fd8c6fb91f29a17fd1d9a70020f04c402d26e9ca147df80d13",
+      "bytesPerCopy": 3118,
+      "paths": [
+        "data/evidence/research/ukpsc-sep22-2026.txt",
+        "data/evidence/research/uttarakhand-psc-22-sep-2026.txt"
+      ],
+      "redundantBytes": 3118
+    },
+    {
+      "sha256": "11a53e93132d255a35a072af08cfe5160f23733064ef0532be9b12c439dc83dc",
+      "bytesPerCopy": 3054,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-14.txt",
+        "data/evidence/research/opsc-ocr/page-32.txt"
+      ],
+      "redundantBytes": 3054
+    },
+    {
+      "sha256": "a25a663ab41b719cbbd2150902ce65d806014fa005fa7421099e0eef88c45429",
+      "bytesPerCopy": 3042,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-16.txt",
+        "data/evidence/research/opsc-ocr/page-34.txt"
+      ],
+      "redundantBytes": 3042
+    },
+    {
+      "sha256": "9373eac423a8917e4f9722d6ca40f08f8ebad0d1a1d26320760e4e9b72423819",
+      "bytesPerCopy": 2998,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-11.txt",
+        "data/evidence/research/opsc-ocr/page-29.txt"
+      ],
+      "redundantBytes": 2998
+    },
+    {
+      "sha256": "919a5e9ec88a136dbf93103f7ea437ca31e73c9ef92135f567e36de2a5cea6ff",
+      "bytesPerCopy": 2872,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-03.txt",
+        "data/evidence/research/opsc-ocr/page-21.txt"
+      ],
+      "redundantBytes": 2872
+    },
+    {
+      "sha256": "60f2cd579ff59bfd8410b539ef09e4395a961dc98b8b7548f02275585253c4c1",
+      "bytesPerCopy": 2864,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-06.txt",
+        "data/evidence/research/opsc-ocr/page-24.txt"
+      ],
+      "redundantBytes": 2864
+    },
+    {
+      "sha256": "05cd1f950497c3ca696f267c961dbc51a2347823d35b9ab68b1e1b5b8c55ef73",
+      "bytesPerCopy": 2718,
+      "paths": [
+        "data/evidence/research/ukpsc-sep24-2026.txt",
+        "data/evidence/research/uttarakhand-psc-24-sep-2026.txt"
+      ],
+      "redundantBytes": 2718
+    },
+    {
+      "sha256": "a2debb2ef756e0c3e5f2004b6cbc49b1436eda625fa71a8e6fb4bf0eb01eee76",
+      "bytesPerCopy": 2700,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-08.txt",
+        "data/evidence/research/opsc-ocr/page-26.txt"
+      ],
+      "redundantBytes": 2700
+    },
+    {
+      "sha256": "fe744ea5cbbd04564bc03e1d100a792249156b90894ef9d7079feec6d34ca67c",
+      "bytesPerCopy": 2602,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-13.txt",
+        "data/evidence/research/opsc-ocr/page-31.txt"
+      ],
+      "redundantBytes": 2602
+    },
+    {
+      "sha256": "455f702866c3788b948ea2aa2e40d1e033a0ac99d2b052aa644dbcc38dcf10ca",
+      "bytesPerCopy": 2564,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-07.txt",
+        "data/evidence/research/opsc-ocr/page-25.txt"
+      ],
+      "redundantBytes": 2564
+    },
+    {
+      "sha256": "6003e6fb3353b1304154f714e05a17af2e828e3fd7680dd68e930f45b83fe108",
+      "bytesPerCopy": 2499,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-12.txt",
+        "data/evidence/research/opsc-ocr/page-30.txt"
+      ],
+      "redundantBytes": 2499
+    },
+    {
+      "sha256": "088825602ce8f50cb325d09924d052d749c205ebdf6d8345db2f382bbdf4fe9f",
+      "bytesPerCopy": 2352,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-10.txt",
+        "data/evidence/research/opsc-ocr/page-28.txt"
+      ],
+      "redundantBytes": 2352
+    },
+    {
+      "sha256": "a65ad6ce0a664f134de6a818d879bbefe7aa7a0480f6af422d98ae65e0c706bd",
+      "bytesPerCopy": 2281,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-15.txt",
+        "data/evidence/research/opsc-ocr/page-33.txt"
+      ],
+      "redundantBytes": 2281
+    },
+    {
+      "sha256": "0aa526bddd7b2f667dd055319162cc37871acb1946e60264520ee1af8b01a7f4",
+      "bytesPerCopy": 2144,
+      "paths": [
+        "data/evidence/research/jpsc-07-2026-press.txt",
+        "data/evidence/research/jpsc-assistant-professor-07-2026-press.txt"
+      ],
+      "redundantBytes": 2144
+    },
+    {
+      "sha256": "773fb8d35bb9a39d35335ee6db8dc5c912d2aacbfb823152d9c61cd647dd902d",
+      "bytesPerCopy": 2027,
+      "paths": [
+        "data/evidence/research/iitb-robots-2026.txt",
+        "data/evidence/research/sribhumi-robots-2026-09-25.txt"
+      ],
+      "redundantBytes": 2027
+    },
+    {
+      "sha256": "6c90872fce799bd064ca00d689a6b8f3e88c38cf7bb06715b92b9aa2425a7988",
+      "bytesPerCopy": 1963,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-05.txt",
+        "data/evidence/research/opsc-ocr/page-23.txt"
+      ],
+      "redundantBytes": 1963
+    },
+    {
+      "sha256": "64f045679b644552d5933a4c9dec96baf60c29dc9d99ad7b007d949832b8c795",
+      "bytesPerCopy": 1752,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-09.txt",
+        "data/evidence/research/opsc-ocr/page-27.txt"
+      ],
+      "redundantBytes": 1752
+    },
+    {
+      "sha256": "797fda53a6f5aba668be4b398c348059d76af358ea712f689dcbb00b0f3c47e6",
+      "bytesPerCopy": 1748,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-17.txt",
+        "data/evidence/research/opsc-ocr/page-35.txt"
+      ],
+      "redundantBytes": 1748
+    },
+    {
+      "sha256": "4a94a73a5c072148b6847cd5c5233843f320f8681653e664ef157879b565f3b0",
+      "bytesPerCopy": 1500,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-18.txt",
+        "data/evidence/research/opsc-ocr/page-36.txt"
+      ],
+      "redundantBytes": 1500
+    },
+    {
+      "sha256": "8fa3036c68bfcbd32365f6225d24333264093b7cd38d306e106b4dbdc934fd5b",
+      "bytesPerCopy": 1248,
+      "paths": [
+        "data/evidence/research/nbems-natboard-robots.txt",
+        "data/evidence/research/nbems-nbe-robots.txt"
+      ],
+      "redundantBytes": 1248
+    },
+    {
+      "sha256": "198d0d51102e52b3ed3d6d960e8426e1716c467f47bb064abebd2cf32d297942",
+      "bytesPerCopy": 1209,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-19.txt",
+        "data/evidence/research/opsc-ocr/page-37.txt"
+      ],
+      "redundantBytes": 1209
+    },
+    {
+      "sha256": "74921560be19015f348320dc7958d108db1297ebf0292dc19aa966d55fcd58d4",
+      "bytesPerCopy": 941,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-04.txt",
+        "data/evidence/research/opsc-ocr/page-22.txt"
+      ],
+      "redundantBytes": 941
+    },
+    {
+      "sha256": "bc931ed01faa7bb876fc21050027900035a46d6ecf5501269c85561aeec02a73",
+      "bytesPerCopy": 533,
+      "paths": [
+        "data/evidence/research/opsc-ocr/page-20.txt",
+        "data/evidence/research/opsc-ocr/page-38.txt"
+      ],
+      "redundantBytes": 533
+    },
+    {
+      "sha256": "19da1323421519b1107b1935f1083057de3bca09a170b8155885789b7f9c9652",
+      "bytesPerCopy": 359,
+      "paths": [
+        "data/evidence/research/ladakh-central-pool-758-ocr/page-04.txt",
+        "data/evidence/research/ladakh-hme-guidelines-ocr/page-02.txt"
+      ],
+      "redundantBytes": 359
+    },
+    {
+      "sha256": "7e7531e2c03201178546dbf4cc56b2b766901dbdd1456be9851dec6cd5cfa630",
+      "bytesPerCopy": 246,
+      "paths": [
+        "data/evidence/research/btsc-page-0.json",
+        "data/evidence/research/btsc-recruitment.json"
+      ],
+      "redundantBytes": 246
+    },
+    {
+      "sha256": "9311bab30d8b5d05f5fa5563a251b8c96b8470873bb77c62d3d17c146d7acab7",
+      "bytesPerCopy": 67,
+      "paths": [
+        "data/evidence/research/kvs-robots.txt",
+        "data/evidence/research/ladakh-admin-robots-2026.txt"
+      ],
+      "redundantBytes": 67
+    },
+    {
+      "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
+      "bytesPerCopy": 23,
+      "paths": [
+        "data/evidence/research/pb-robots-2026.txt",
+        "data/evidence/research/punjab-dit-robots-2026-09-25.txt",
+        "data/evidence/research/punjab-state-robots-2026-09-25.txt"
+      ],
+      "redundantBytes": 46
+    },
+    {
+      "sha256": "bfe719d1c68277189402336c3dfe046c0b89ae887c52c23466847efe4374a90a",
+      "bytesPerCopy": 24,
+      "paths": [
+        "data/evidence/research/bpsc-tre4-15-2026-advertisement.txt",
+        "data/evidence/research/ladakh-police-constable-2026.txt"
+      ],
+      "redundantBytes": 24
+    },
+    {
+      "sha256": "c7f9034fd448868f927dcf94fe314df53b524af244a01203ee2bad12dddc8386",
+      "bytesPerCopy": 16,
+      "paths": [
+        "data/evidence/research/ladakh-hme-guidelines-2026.txt",
+        "data/evidence/research/tpsc-03-2026.txt"
+      ],
+      "redundantBytes": 16
+    },
+    {
+      "sha256": "ee3e9571f483c678ab4ec83579e8bef9c1399e8d319a66a073e1d60491f85468",
+      "bytesPerCopy": 12,
+      "paths": [
+        "data/evidence/research/pune-divcomm-legal-officer-2026.txt",
+        "data/evidence/research/tpsc-02-2026.txt"
+      ],
+      "redundantBytes": 12
+    },
+    {
+      "sha256": "72babeb35d543219be557f8a5a73974b98a74a4a417117e9834d70f1384497c8",
+      "bytesPerCopy": 9,
+      "paths": [
+        "data/evidence/research/btsc-27-2026.txt",
+        "data/evidence/research/tpsc-01-2026.txt"
+      ],
+      "redundantBytes": 9
+    },
+    {
+      "sha256": "a61f149fa51d21a7666743f05977a61c858db20e63ecc70834dd3885b3062550",
+      "bytesPerCopy": 8,
+      "paths": [
+        "data/evidence/research/arunachal-group-ab-part2-2026.txt",
+        "data/evidence/research/btsc-28-2026.txt"
+      ],
+      "redundantBytes": 8
+    },
+    {
+      "sha256": "ef6cbd2161eaea7943ce8693b9824d23d1793ffb1c0fca05b600d3899b44c977",
+      "bytesPerCopy": 1,
+      "paths": [
+        "data/evidence/research/bpsc-tre4-15-2026-important-notice.txt",
+        "data/evidence/research/kpsc-gp-2026-age.txt",
+        "data/evidence/research/kpsc-gp-2026-extension.txt",
+        "data/evidence/research/kpsc-gp-2026-pressnote.txt",
+        "data/evidence/research/kpsc-gp-2026-schedule.txt",
+        "data/evidence/research/lakshadweep-cardiologist-2026.txt",
+        "data/evidence/research/tpsc-01-2026-addendum.txt"
+      ],
+      "redundantBytes": 6
+    },
+    {
+      "sha256": "9478ac3ef61ae9df286d951edbfce4c24049f65e860f053ed9eb2c3fbd78d051",
+      "bytesPerCopy": 3,
+      "paths": [
+        "data/evidence/research/ddd-202609222113125409.txt",
+        "data/evidence/research/ddd-20260923187262113.txt",
+        "data/evidence/research/spsc-vlw-2026-notification.txt"
+      ],
+      "redundantBytes": 6
+    },
+    {
+      "sha256": "009391559b2777d7003b4a8f2ac076416b66eee634361c208c85dae6d174cda0",
+      "bytesPerCopy": 4,
+      "paths": [
+        "data/evidence/research/gpsc-rr-42-2026.txt",
+        "data/evidence/research/hpforest-joa-it-pwd-2026.txt"
+      ],
+      "redundantBytes": 4
+    },
+    {
+      "sha256": "7060584c3e59f0b2f12f34aa0b40faadf4aa5790a0459f3319852bcd63262cbb",
+      "bytesPerCopy": 2,
+      "paths": [
+        "data/evidence/research/india65-in-nta-neet-ug-re-examination-notice-2026-05-2026-09-27.txt",
+        "data/evidence/research/ndma-forest-fire-young-consultant-2026.txt"
+      ],
+      "redundantBytes": 2
+    },
+    {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytesPerCopy": 0,
+      "paths": [
+        "data/evidence/research/lakshadweep-robots.txt",
+        "data/evidence/research/tgprb-robots-response.txt",
+        "data/evidence/research/tgprb-www-robots-response.txt"
+      ],
+      "redundantBytes": 0
+    }
+  ],
+  "compressibleTextBytes": 80884229,
+  "textGzipBytes": 18846497,
+  "collectorBodiesChecked": 617,
+  "collectorBodyHashMismatches": [],
+  "limitations": [
+    "Logical file sizes match the collector quota. They are not APFS physical allocated space or iCloud remote capacity.",
+    "Duplicate contents do not make their URL receipts, source identity, review links or historical manifests interchangeable.",
+    "Compression sizes are estimates from exact text bytes; no evidence was compressed in place.",
+    "No evidence path was deleted, relocated, replaced with a link or excluded from quota.",
+    "Objects stored outside this directory need an explicit storage contract and quota; directory relocation alone is not a remedy.",
+    "If file metadata changed or any file was unread, this is an incomplete snapshot and duplicate/compression totals are not a complete stable-store measurement.",
+    "Size/mtime comparison detects ordinary changes; this is not a filesystem transaction or independent forensic integrity audit. No physical disk savings are claimed."
+  ]
+}

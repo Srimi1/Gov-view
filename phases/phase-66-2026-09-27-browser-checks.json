@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-26T23:09:43.825Z",
+  "url": "http://localhost:3003/coverage/KH/#official-sources",
+  "renderedSourceCount": 2,
+  "query": "short-term",
+  "results": 1,
+  "awaitingReviewLabel": true,
+  "appointmentTypeVisible": true,
+  "foreignCitizenUncertaintyVisible": true,
+  "languageUncertaintyVisible": true,
+  "knownGaps": 2,
+  "publicRecords": 0,
+  "collectorFetchedSources": 0,
+  "screenshot": "phases/phase-66-2026-09-27-contract-source-search.png",
+  "browserRecovery": "Original tab connection lost during reload. New Chrome tab verified corrected gap display and search."
+}

@@ -1,0 +1,21 @@
+{
+  "phase": 63,
+  "registrySources": 162,
+  "IndiaSources": 93,
+  "JapanSources": 7,
+  "jurisdictionsWithRegisteredSources": 56,
+  "jurisdictionsWithoutRegisteredSources": 194,
+  "addedSourcesDisabledReviewRequired": 10,
+  "originalHTMLResponsesHashAndBytesVerified": 10,
+  "actualFailedRequests": 9,
+  "requestsNotAttempted": 2,
+  "existingCoverageRowsPreservedDuringAppend": 46,
+  "newCoverageRowsEmptyConnectorHealth": 10,
+  "sourceHealthAndReviewPacketHashesUnchanged": 83,
+  "newDrafts": 0,
+  "currentApprovedAndPublicRecords": 0,
+  "existingTestsPassed": 3,
+  "publicDataBuildExitCode": 0,
+  "fullTestSuiteRun": false,
+  "frameworkBuildRun": false
+}

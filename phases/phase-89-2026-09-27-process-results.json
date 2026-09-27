@@ -1,0 +1,76 @@
+{
+  "phase": 89,
+  "preparation": {
+    "exitCode": 0,
+    "sessionId": 22541,
+    "chunkId": "904012",
+    "initialChunkId": "711cba",
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "IndianOil original initially timed out; tenure/timezone/language remain unverified.",
+    "NPC original reader unavailable; browser visual reading unaccepted.",
+    "Senegal reader access failed; login/service referral verified only.",
+    "Cameroon reader index/original unavailable; scanned translation pending.",
+    "Algeria detail/canonical index failed or blocked; DGFP blank lead not registered."
+  ],
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 47474,
+    "initialChunkId": "cc8bf8",
+    "chunkId": "a85cb7",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-89-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 58724,
+    "initialChunkId": "8f4e71",
+    "chunkId": "596eae",
+    "publicListings": 0,
+    "log": "phases/phase-89-2026-09-27-public-data-build.txt"
+  },
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "ef5fe9"
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "SN",
+      "CM",
+      "DZ"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 108,
+    "screenshot": "phases/phase-89-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 29796,
+    "initialChunkId": "4d69fd",
+    "chunkId": "ba9649",
+    "savedFiles": 18,
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T05:40:03.430100+00:00"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps command read during final receipts"
+  }
+}

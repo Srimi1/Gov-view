@@ -1,0 +1,152 @@
+{
+  "savedAt": "2026-09-27T00:34:48.449511+00:00",
+  "status": "UI verified; storage inventory reconciled",
+  "excludedLiveOutputs": [],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 70741,
+      "sha256": "46ca062bdb01b9dcc4e87e3eb4072281beaca8d7f8e398e78a95cd437be99002"
+    },
+    {
+      "path": "app/coverage/[code]/page.tsx",
+      "bytes": 5782,
+      "sha256": "ca22f6dd3c9c851beeb17e220c8f706bbb1854ec736234bfb390ebef1b5f628c"
+    },
+    {
+      "path": "app/coverage/page.tsx",
+      "bytes": 9124,
+      "sha256": "3fa749a9eb2db0cddd50eccb8b15af70edc693fea98199746e82ebcf037e0433"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 24849,
+      "sha256": "b6faeb1303710fbbfe52cb8612983bb03b331a3bc0bdc6af2080268ca97cbe10"
+    },
+    {
+      "path": "components/SourceDirectory.tsx",
+      "bytes": 5153,
+      "sha256": "817ee5dd1d697b822a491888deade338151051104bdd3afb6ee7dbe78451db3f"
+    },
+    {
+      "path": "lib/source-directory.test.ts",
+      "bytes": 2602,
+      "sha256": "aeb9bc2573859751e42c9abea752fb91ffdfb83ea561f110644e13055bc46f81"
+    },
+    {
+      "path": "lib/source-directory.ts",
+      "bytes": 1719,
+      "sha256": "ff176aa8f41aaa385e58d983e4ca03c451f983c6a8ac8a756e70f59c50440337"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-audit-evidence.py",
+      "bytes": 6311,
+      "sha256": "6c467176199e718e414c54a0afcf9871ff59c4529b96481f54ec39f68d61ec15"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-audit-log.txt",
+      "bytes": 580,
+      "sha256": "cd746045227550cdce6a3c354201732f33a9a4ca84f7b4ececcba6533237e449"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-audit-reconciliation.json",
+      "bytes": 94933,
+      "sha256": "f4de041d1b57905df7e62e44927821a85db52db103c00c3cc7ce6c9fa845cf6b"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-audit-retry.json",
+      "bytes": 1135,
+      "sha256": "fc557343fe917bc35e8b3bf494b9cdf1759e5c10e3283b01b138c85c3ce64454"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-audit-worker-tests.json",
+      "bytes": 268,
+      "sha256": "42285751f6925c9fd571a5969ba190ffbb5af8d531e488e4a30c006b7fd080ce"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-baseline.json",
+      "bytes": 53128,
+      "sha256": "012001ee82c6f0b9ece5a6a2642af18b58c116398a59afc3e0f2e5eafad8675f"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-browser-checks.json",
+      "bytes": 687,
+      "sha256": "1bb08d63a5c579ffac956ca4545c8ef129be26ce689dcb580bccb0e40268677d"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-browser-state.txt",
+      "bytes": 100683,
+      "sha256": "9b706dfc4e00e2741ceba091b5793b5a695fe67b5f87b4efb6fe2c3b26c9f34e"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-checkpoint.json",
+      "bytes": 1863,
+      "sha256": "d39a4a1ffd7ada3278282b8865c0ad9423161ef2b2a41ac12d8997b5f08cc6f6"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-code-changes.diff",
+      "bytes": 12499,
+      "sha256": "47886b1f59cddbba246807ebe4dd4a4866decbaeaa17a093eeaa5dce481c1ecd"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-evidence-storage-audit.json",
+      "bytes": 798712,
+      "sha256": "72554c3bd874a43c28b139c8455dbb240fb2e92dd56401b400d87bb47464647b"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-process-results.json",
+      "bytes": 691,
+      "sha256": "a3fc20daf05cde8b1f7fdcdd970e4a082b743b10912b965ed7672ccd82991271"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-public-index-check.json",
+      "bytes": 234,
+      "sha256": "80ea195838b4d7fe5295da28c5311150b7162449e3b1311e29aec6e892f1b85c"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-reconcile-audit.py",
+      "bytes": 3083,
+      "sha256": "759a7a8a5a7fc10f62c30bdbd79045294df46406f6fbabaf0733fca54aff0712"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-review-results.json",
+      "bytes": 629,
+      "sha256": "4706c3c6d3e29d288340f4796adbe1c24b1c096340cd0dd6626dec32ed02336c"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-source-filters-and-storage.md",
+      "bytes": 6704,
+      "sha256": "506d5c49e15a3715417050f925fa05717ea313df438136972a1bec0fdbf73375"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-state-source-filters.png",
+      "bytes": 213981,
+      "sha256": "40bb2c9140cdc0a1152e0f7d1d1ac0f4aa1af5378b9401fb86c4ad028781a01c"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-test-results.txt",
+      "bytes": 33774,
+      "sha256": "f083b1f242e629d77fc5939f61d1e51a378390ccac554bbb1df6b188a22d7179"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-tests-before.txt",
+      "bytes": 1506,
+      "sha256": "1e8e94c3cd030e63a991099c356e6056a96e72657f63fe0947cf894c1019704d"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-tests-focused.txt",
+      "bytes": 484,
+      "sha256": "b911119c1d42086a290857b00a5fc8ad0e3cc27a35d9247992f379ca88d43cd2"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-typecheck.txt",
+      "bytes": 64,
+      "sha256": "f8e600e7f6bdb3cf8b3b23b3bafb56d56498a03afed9bb36bb0e3dbd209e8f8e"
+    },
+    {
+      "path": "phases/phase-69-2026-09-27-verify.py",
+      "bytes": 4522,
+      "sha256": "206ddc6bf0063b18980a827cad8f17b003c915dbe0048599242f0e14c52b75dd"
+    }
+  ]
+}

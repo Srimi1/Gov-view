@@ -1,0 +1,96 @@
+{
+  "savedAt": "2026-09-27T01:04:08.990306+00:00",
+  "status": "verified discovery checkpoint",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 3492,
+      "sha256": "ed3faaa9ce5d0c3424d9862394fbb181a247832e0e738ce191702db3006837f4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70778,
+      "sha256": "c573f63b1b20a1aa7be52a7fb369e2ceedf9cefe418198007b32c6bc15f7f543"
+    },
+    {
+      "path": "data/discovery/europe-recruitment-routes-matrix-2026-09-27.json",
+      "bytes": 34377,
+      "sha256": "354559c348509388c7fc2e5f91a4f3fffedb4631b362cb8149e24c9492912aa2"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 178590,
+      "sha256": "11c33e86c540dbe9105c0c057334fec92b4943d4030cd1e0d2e1073dc20775ad"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-baseline.json",
+      "bytes": 455572,
+      "sha256": "667976c23a10d93a79a741b5ec1fd196c19c0545f6a4c32749b418bba8fdd436"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-browser-checks.json",
+      "bytes": 1783,
+      "sha256": "2cd7d97f430a79327b441f14c0524deaeed1e20af662f1c1f71dc4af360438b1"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-browser-state.txt",
+      "bytes": 35434,
+      "sha256": "3957262d257155c37c4950984866585a153e1f9990a2732daa0e8c21eaa79647"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-focused-tests.txt",
+      "bytes": 669,
+      "sha256": "4e99091861fd571c5ef8fde550acf07b9d17a8efdc50b0b67b238a3e372b7532"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-prepare.py",
+      "bytes": 21829,
+      "sha256": "d7188237aba3d049222fe82b483d0e839c5ab1c918155de35fe9bfbe9a9b97d1"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-process-results.json",
+      "bytes": 378,
+      "sha256": "6c36671b751a68e2cb8224bff242e1054f7751c4880dcff901b2951fe5c71ac5"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-regional-official-directories.md",
+      "bytes": 6929,
+      "sha256": "2837869234211e800eda5f551874e55efef06f6fc6df41d6bb1e676bdd3384d7"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-regional-source-discovery.png",
+      "bytes": 227844,
+      "sha256": "76577c6a7a82fb3be3a7e83058f421a8c9383fba222830c5a0bd0fd88d29d39c"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-source-config.json",
+      "bytes": 14546,
+      "sha256": "bce726439531e370157e6d35313b72a735fbaec68e16c227da4c770cd4152cc2"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-verification.json",
+      "bytes": 1339,
+      "sha256": "73ac3c350e971818bb8e9833ece6ca90ae53a881152fb9210d435f6183ae00d5"
+    },
+    {
+      "path": "phases/phase-72-2026-09-27-verify.py",
+      "bytes": 6419,
+      "sha256": "4a0fc9dc31a938e7b034bcdff500e8c3956fe5d98388650a264c511be5026f1e"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "0be64731b956dd628aa137616d2da877a346bf8533bb17443b650a131784b28b"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 280370,
+      "sha256": "de7190e1eebd2337d6f0f4eb72a6c843d79abc37f21e0314622dd9ad7182119e"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "amendedAt": "2026-09-27T02:14:16.183Z",
+  "networkRequests": 0,
+  "newEvidenceBytes": 0,
+  "approvals": 0,
+  "amendments": [
+    {
+      "sourceId": "in-ap-recruitment",
+      "cycleId": "andhra-psc-2026-16-forest-range-officers",
+      "before": {
+        "evidenceRevision": "0abf1c43ac84f7b68cb23112abb77de1d8829b599efe30d925fa8381b0ed9a76",
+        "recordRevision": "f63ba27200b17c5aac17446366049c428a5c742783ffd7d9c7a64cf7a13c458e"
+      },
+      "after": {
+        "evidenceRevision": "c358abcd6805dffdfd314dab45bd8bfc4b261f83cc0843a006c7722509d3c65a",
+        "recordRevision": "0a23242d814ba5f72f6b2307a1fb5d7f79da6da79a6e99ba921c60efc856ecf3"
+      }
+    },
+    {
+      "sourceId": "in-ct-recruitment",
+      "cycleId": "cgpsc-2026-05-food-lab",
+      "before": {
+        "evidenceRevision": "d3638e57410e22cb161f30a339c9e972bb3f6618c9f63fb51d535fee29fa1e7c",
+        "recordRevision": "29c7694fb3ff8f3bcdae8ec6cfb4245365c30661ca346a201889fe5603b76be3"
+      },
+      "after": {
+        "evidenceRevision": "c3e1be1667fe1fabf33c7a51223002082d6d428bfc7b69d1ddce92f62f162731",
+        "recordRevision": "3e191b235a455cb673662a028307465cfcf916b48a8bbde8f0668df693f6142e"
+      }
+    },
+    {
+      "sourceId": "in-ct-recruitment",
+      "cycleId": "cgpsc-2026-05-drug-lab",
+      "before": {
+        "evidenceRevision": "d3638e57410e22cb161f30a339c9e972bb3f6618c9f63fb51d535fee29fa1e7c",
+        "recordRevision": "ef1c373e8143b451a0026ed029fe8018d85e00f46879060e0e3776dbe75560da"
+      },
+      "after": {
+        "evidenceRevision": "c3e1be1667fe1fabf33c7a51223002082d6d428bfc7b69d1ddce92f62f162731",
+        "recordRevision": "258619037e2729dcb519399a65a7cc28da461d7af3fc6831df5a8e388d2b6788"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+✔ Steno/ASI binds current home, date row and new-application service; rejects extra amendments and correction-only forms (19.777875ms)
+✔ one joint draft separates citizenship, non-MP residence, Hindi certificate and exam medium (95.677666ms)
+✔ changed bytes, forged receipt and redirected PDF cannot reuse pinned extraction (15.564583ms)
+✔ unknown timezone leaves deadline boundary uncertain; correction window never keeps applications open (14.685708ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 337.3695

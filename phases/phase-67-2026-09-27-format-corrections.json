@@ -1,0 +1,12 @@
+[
+  {
+    "from": "data/evidence/research/latam67-do-map-concursa-environmental-educator-september-2026-2026-09-27.html",
+    "to": "data/evidence/research/latam67-do-map-concursa-environmental-educator-september-2026-2026-09-27.pdf",
+    "reason": "Normalize lowercase PDF request format; original bytes and receipt hash unchanged."
+  },
+  {
+    "from": "data/evidence/research/latam67-do-map-concursa-inclusive-labour-relations-register-2026-2026-09-27.html",
+    "to": "data/evidence/research/latam67-do-map-concursa-inclusive-labour-relations-register-2026-2026-09-27.pdf",
+    "reason": "Normalize lowercase PDF request format; original bytes and receipt hash unchanged."
+  }
+]

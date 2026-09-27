@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "raw SHA and size",
+    "gzip original SHA and decoded size",
+    "wrong body filename flagged",
+    "129 MiB decoded content rejected"
+  ],
+  "passed": 4,
+  "runtime": "updated streaming worker; original whole-store audit began before this fix"
+}

@@ -1,0 +1,42 @@
+{
+  "updates": {
+    "in-mp-recruitment": {
+      "notes": "Reader-only research, awaiting review. MPPSC Assistant Director Fisheries 11/2026 original, dated 6 July, lists 14 vacancies, gazetted Class II and temporary post status. Online applications 17 July–16 August 2026; paper documents separately due 25 August at 18:00, official timezone unknown. Qualifications must exist by 16 August; five years specified experience and postgraduate/training conditions need review. Age 21–under 40 as at 1 January 2027 before exceptions. Interview selection, with written examination conditional on more than 500 eligible applicants. Printed page 4 invites Indian citizens and other categories recognized under India's Constitution; this does not establish unrestricted international eligibility. Other-state reservation rules are distinct from foreign citizenship. Hindi original does not establish a language proficiency requirement; language level remains unknown.",
+      "accessGap": "Scheduled collection remains blocked by existing robots.txt disallow for /. Current reader home/detail/PDF attempts failed; ordinary browser rendered advertisements after delayed table loading, HTML details and 17-page Fisheries original. Do not infer empty inventory from initial unloaded table. Exact original is unretained and amendments unreconciled; original and late-document dates are not accepted current windows. Website footer 26 September is not successful-fetch or validation time. No connector activation, new cycle, review packet, source-health timestamp or published eligibility result."
+    },
+    "in-pb-recruitment": {
+      "notes": "Reader-only research, awaiting review. PPSC Open Advertisement page explicitly displayed no open advertisements on 27 September; this is one directory observation, not Punjab-wide absence or reviewed checked-empty coverage. Official 4 August 2026 Senior Assistant letter concerns four posts by transfer from serving Senior Assistants in other Punjab government departments, not unrestricted fresh recruitment. Punjabi page 1 gives completed probation, satisfactory service and no pending disciplinary/vigilance inquiry; forwarding within 21 days and handwritten 25 August receipt date, official timezone unknown. One-year probation after transfer. Citizenship and language proficiency remain unestablished; Punjabi document language is not a qualification level. Exam slots, answer keys and internal service registers are not new public application windows.",
+      "accessGap": "Previous collector HTTP 302 and session-expiry history remain unresolved. Current reader homepage/open-advertisement routes timed out or were inaccessible; ordinary browser displayed explicit empty open index and two-page Punjabi transfer PDF reached through Senior Assistant announcement. Generic usermanual.ashx filename was visually checked against the letter; only page 1 interpreted. Raw original, complete conditions, amendments and translation acceptance remain pending. Reader access does not clear scheduled access permission, source freshness or whole-state authority gaps. No new retained original, connector, draft cycle or validation timestamp."
+    }
+  },
+  "coverageGapEdits": [
+    {
+      "sourceId": "in-mp-recruitment",
+      "field": "notes",
+      "index": 234,
+      "before": "Madhya Pradesh Public Service Commission: Official MPPSC homepage and robots.txt checked. Homepage links an advertisement section, but no notice-specific eligibility was imported; other MP authorities remain gaps.",
+      "after": "Madhya Pradesh Public Service Commission: Reader-only research, awaiting review. MPPSC Assistant Director Fisheries 11/2026 original, dated 6 July, lists 14 vacancies, gazetted Class II and temporary post status. Online applications 17 July–16 August 2026; paper documents separately due 25 August at 18:00, official timezone unknown. Qualifications must exist by 16 August; five years specified experience and postgraduate/training conditions need review. Age 21–under 40 as at 1 January 2027 before exceptions. Interview selection, with written examination conditional on more than 500 eligible applicants. Printed page 4 invites Indian citizens and other categories recognized under India's Constitution; this does not establish unrestricted international eligibility. Other-state reservation rules are distinct from foreign citizenship. Hindi original does not establish a language proficiency requirement; language level remains unknown."
+    },
+    {
+      "sourceId": "in-mp-recruitment",
+      "field": "accessGap",
+      "index": 235,
+      "before": "Madhya Pradesh Public Service Commission: 27 September normal collector recheck: robots.txt disallows /. No automated notice collection; a permitted official feed or manual notice review is needed. No verified listing or applicant language/nationality imported.",
+      "after": "Madhya Pradesh Public Service Commission: Scheduled collection remains blocked by existing robots.txt disallow for /. Current reader home/detail/PDF attempts failed; ordinary browser rendered advertisements after delayed table loading, HTML details and 17-page Fisheries original. Do not infer empty inventory from initial unloaded table. Exact original is unretained and amendments unreconciled; original and late-document dates are not accepted current windows. Website footer 26 September is not successful-fetch or validation time. No connector activation, new cycle, review packet, source-health timestamp or published eligibility result."
+    },
+    {
+      "sourceId": "in-pb-recruitment",
+      "field": "notes",
+      "index": 240,
+      "before": "Punjab Public Service Commission: Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps.",
+      "after": "Punjab Public Service Commission: Reader-only research, awaiting review. PPSC Open Advertisement page explicitly displayed no open advertisements on 27 September; this is one directory observation, not Punjab-wide absence or reviewed checked-empty coverage. Official 4 August 2026 Senior Assistant letter concerns four posts by transfer from serving Senior Assistants in other Punjab government departments, not unrestricted fresh recruitment. Punjabi page 1 gives completed probation, satisfactory service and no pending disciplinary/vigilance inquiry; forwarding within 21 days and handwritten 25 August receipt date, official timezone unknown. One-year probation after transfer. Citizenship and language proficiency remain unestablished; Punjabi document language is not a qualification level. Exam slots, answer keys and internal service registers are not new public application windows."
+    },
+    {
+      "sourceId": "in-pb-recruitment",
+      "field": "accessGap",
+      "index": 241,
+      "before": "Punjab Public Service Commission: 27 September homepage retained. Observed Open Advertisement and 4 August Senior Assistant transfer-notice links each failed normal collection with HTTP 302. Earlier session-expired behavior is historical evidence; this recheck establishes only the recorded HTTP failure. Latest examination/answer-key notices do not establish fresh application windows. Stable original advertisement access remains required.",
+      "after": "Punjab Public Service Commission: Previous collector HTTP 302 and session-expiry history remain unresolved. Current reader homepage/open-advertisement routes timed out or were inaccessible; ordinary browser displayed explicit empty open index and two-page Punjabi transfer PDF reached through Senior Assistant announcement. Generic usermanual.ashx filename was visually checked against the letter; only page 1 interpreted. Raw original, complete conditions, amendments and translation acceptance remain pending. Reader access does not clear scheduled access permission, source freshness or whole-state authority gaps. No new retained original, connector, draft cycle or validation timestamp."
+    }
+  ]
+}

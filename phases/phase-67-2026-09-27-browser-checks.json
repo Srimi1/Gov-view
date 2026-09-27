@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-09-26T23:30:18.152Z",
+  "url": "http://localhost:3003/coverage/DO/#official-sources",
+  "sourceSearch": "nationality",
+  "matchingSources": 1,
+  "registeredSources": 1,
+  "knownGaps": 1,
+  "publicRecords": 0,
+  "sourcesFetched": 0,
+  "lastSuccessfulFetch": "Never",
+  "lastValidation": "Never",
+  "researchAwaitsReview": true,
+  "noticeSpecificDominicanNationalityVisible": true,
+  "workAddressNotExamVenueVisible": true,
+  "screenshot": "phases/phase-67-2026-09-27-nationality-source-search.png",
+  "accessibilityState": "phases/phase-67-2026-09-27-browser-state.txt",
+  "navigationObservation": "Initial navigation command timed out; subsequent observed state verified successful destination. No repeated navigation."
+}

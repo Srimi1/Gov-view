@@ -1,0 +1,20 @@
+{
+  "phase": 62,
+  "registrySources": 152,
+  "IndiaSources": 93,
+  "JapanSources": 7,
+  "jurisdictionsWithRegisteredSources": 46,
+  "newDisabledReviewRequiredSources": 3,
+  "newAdapters": 0,
+  "newDrafts": 0,
+  "originalResponsesHashAndByteVerified": 11,
+  "derivedTextHashesVerified": 5,
+  "otherCoverageRowsPreservedDuringAppend": 45,
+  "JapanCoverageHealthFieldsUnchanged": true,
+  "sourceHealthAndReviewPacketFilesHashUnchanged": 83,
+  "currentApprovedAndPublicRecords": 0,
+  "existingTestsPassed": 3,
+  "fullTestSuiteRun": false,
+  "publicDataBuildExitCode": 0,
+  "frameworkBuildRun": false
+}

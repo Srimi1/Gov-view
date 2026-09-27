@@ -1,0 +1,261 @@
+LOCAL PREVIEW ONLY
+India card:
+India — Reserve Bank of India careers ↗
+Reserve Bank of India — Services Board and Human Resource Management
+Collection status: Official source linked; adapter not built
+Applicant and source research — awaiting review
+
+Official RBI Grade B notice dated 29 April 2026, panel year 2026, describes direct recruitment on probation: initially two years, extendable to four. Original window closed 20 May at 18:00; governing timezone unverified. It permits Indian citizens, subjects of Nepal/Bhutan and specified Tibetan-refugee/Indian-origin migration categories. Required Government of India eligibility certificate can remain pending at examination admission but must be issued before appointment offer. This is restricted-category eligibility, not permission for every foreign citizen. Assistant panel year 2025 was advertised 16 February 2026. Its preliminary/main selection includes English tests and mandatory state official/local-language proficiency test, without exemption or CEFR equivalence. These are separate cycles; edit notices and exam cities do not create new intakes. Phase 83 current-contract research: Current Itanagar medical-consultant notice dated 23 September 2026 describes a part-time, three-year contract with no renewal and independent medical-service-provider status. Printed deadline 22 October 2026 at 17:00; timezone unverified. MBBS recognition, two years of medical practice, EWS certification and local dispensary/residence conditions require notice-specific review. Interview precedes medical fitness and contractual engagement. Earlier Grade B/Assistant nationality certificate routes and Assistant local-language test must not be transferred to this medical contract. Nationality and language threshold for this sample remain unverified.
+
+Collection gap
+
+Browser-read HTML research awaiting review; reader returned human-verification pages. No CAPTCHA solved, raw originals retained, adapter accepted or cycle published. Grade B language appendices and Assistant office-language mapping PDF inaccessible to reader and not accepted. Assistant original March window and tentative examination dates must be reconciled with linked corrigendum/April notices before publication. Full nationality category definitions, age, qualification equivalence, attempts, reservation conditions and official timezone require review. Online examinations occur at allocated centres, not assumed remote-from-home tests. National scope has no state tags inferred from examination cities. Complete RBI and other-pathway coverage unverified. Phase 83 current-contract research: Current BMC HTML read in ordinary browser after reader human-verification response; no CAPTCHA solved. Application/EWS annex PDFs unreviewed, medical recognition terminology and the printed dispensary-or-residence 3–5 km wording need review. Published office address is a work location, not an interview venue. Publication date does not establish intake opening. No original retained, collector accepted, personalized eligibility cleared or cycle published.
+
+Source identification evidence ↗ · researched 2026-09-27
+KI
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Kiribati KI" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Kiribati.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Kiribati — Ministry of Employment and Human Resource
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Kiribati — Employment Ministry government vacancies ↗":
+      - /url: https://employment.gov.ki/node/203
+    - generic: Kiribati — Ministry of Employment and Human Resource
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Current browser government table lists Clerk to Cabinet, Office of Te Beretitenti, deadline 29 September 2026, date only; clock time and timezone unknown. Four-page scanned position description requires fluent English and Kiribati, with degree and management-study requirements; no CEFR equivalence inferred. Tenure and citizenship permission unverified. Government application guidance requires hard copies at HQ Bairiki, disallows online/email submission and accepts national ID, passport or photo ID: identification choices do not establish citizenship eligibility. Separate EOI table contains other employers and expired rows still marked Open."
+    - strong: Collection gap
+    - paragraph: Reader directory cached older August entries; current browser table and scanned Clerk PDF supersede that observation. Reader PDF failed; browser navigation timed out then PDF rendered, pages 1, 3 and 4 inspected visually, page 2 not inspected. No raw originals retained; complete duties, eligibility, amendments, tenure and opening date need review. No inference from salary grade. Diplomatic/partner EOI employers are not automatically Kiribati government jobs. Complete authority/pathway coverage unresolved; no adapter or accepted cycle.
+    - link "Source identification evidence ↗":
+      - /url: https://employment.gov.ki/administration-division/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Kiribati — Employment Ministry government vacancies: Reader directory cached older August entries; current browser table and scanned Clerk PDF supersede that observation. Reader PDF failed; browser navigation timed out then PDF rendered, pages 1, 3 and 4 inspected visually, page 2 not inspected. No raw originals retained; complete duties, eligibility, amendments, tenure and opening date need review. No inference from salary grade. Diplomatic/partner EOI employers are not automatically Kiribati government jobs. Complete authority/pathway coverage unresolved; no adapter or accepted cycle."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Kiribati opportunities →":
+      - /url: /?country=KI
+
+TV
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Tuvalu TV" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Tuvalu.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Tuvalu — Public Service Commission
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Tuvalu — Public Service Commission vacancies ↗":
+      - /url: https://psc.gov.tv/?page_id=1218
+    - generic: Tuvalu — Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Official vacancy board lists 2026 advertisements as Closed; latest listed 04-26 was published 5 August and closed 19 August at 15:00, timezone unverified. This board observation does not establish no opportunities across Tuvalu. Separate New Vacancies page still describes 10 April 2025 deadline and qualified Tuvaluan citizens, with missing vacancy table: historical conditions must not be transferred to current advertisements. Employment navigation separates special/contract recruitment and confirmed appointments. Current role tenure, foreign eligibility and language threshold remain unverified."
+    - strong: Collection gap
+    - paragraph: Reader directory and historical page accessible; original current vacancy notices and job descriptions unavailable through observed board rows. Special/contract navigation loops to employment page; regulations access timed out. No original bytes retained, collector accepted or cycle published. Citizenship restriction is scoped to historical 2025 page. Appointment confirmations are not new intake. Complete authority/pathway coverage and present vacancy inventory unresolved; no checked-empty claim.
+    - link "Source identification evidence ↗":
+      - /url: https://psc.gov.tv/?page_id=806
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Tuvalu — Public Service Commission vacancies: Reader directory and historical page accessible; original current vacancy notices and job descriptions unavailable through observed board rows. Special/contract navigation loops to employment page; regulations access timed out. No original bytes retained, collector accepted or cycle published. Citizenship restriction is scoped to historical 2025 page. Appointment confirmations are not new intake. Complete authority/pathway coverage and present vacancy inventory unresolved; no checked-empty claim."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Tuvalu opportunities →":
+      - /url: /?country=TV
+
+TO
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Tonga TO" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Tonga.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Tonga — Office of the Public Service Commission
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Tonga — Public Service Commission vacancies ↗":
+      - /url: https://psc.gov.to/index.php/all-vacancies/
+    - generic: Tonga — Office of the Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official directory mixes recruitment, extensions and procurement. September extension covers ten permanent PSC positions with printed deadline 11 September 2026 at 16:30, already elapsed; timezone unverified. It invites candidates within and outside public service, which does not establish foreign citizenship permission. Serving public servants need CEO endorsement; successful non-permanent entrants need recent medical and qualifying residence-country police records for appointment. Role-specific education, experience and driver-licence requirements remain independent. No formal language threshold established.
+    - strong: Collection gap
+    - paragraph: Official HTML and linked four-page DOCX via public Google viewer read without raw retention. Original bytes, complete job descriptions, nationality rules, translations, amendments and timezone require review. Policy PDF contents list read but relevant recruitment body failed; no policy permission inferred. Procurement invitation is not a job intake; extension does not create a new cycle. Complete authority and pathway coverage unresolved; no adapter or reviewed listings.
+    - link "Source identification evidence ↗":
+      - /url: https://psc.gov.to/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Tonga — Public Service Commission vacancies: Official HTML and linked four-page DOCX via public Google viewer read without raw retention. Original bytes, complete job descriptions, nationality rules, translations, amendments and timezone require review. Policy PDF contents list read but relevant recruitment body failed; no policy permission inferred. Procurement invitation is not a job intake; extension does not create a new cycle. Complete authority and pathway coverage unresolved; no adapter or reviewed listings."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Tonga opportunities →":
+      - /url: /?country=TO
+- button "Open Next.js Dev Tools":
+- alert
+
+VU
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Vanuatu VU" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Vanuatu.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Vanuatu — Office of the Public Service Commission
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Vanuatu — Public Service Commission vacancies ↗":
+      - /url: https://psc.gov.vu/index.php/vacancies
+    - generic: Vanuatu — Office of the Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official scanned notice dated 4 March 2026 lists four permanent PSC positions in Port Vila, with 18 March 2026 at 16:00 deadline, already elapsed; timezone unverified. English, French and Bislama versions describe the same posts, not three separate intakes. Notice seeks experienced, qualified Ni-Vanuatu; legal citizenship meaning and any exceptions need review before a nationality rule is normalized. Detailed selection criteria are in a separate information package. No applicant language threshold verified. Port Vila is work location, not examination venue.
+    - strong: Collection gap
+    - paragraph: Reader PDF has zero extracted text and screenshot fetch timed out; ordinary browser three-page scanned PDF visually read. No raw originals/screenshots saved. Information package, citizenship definition, qualifications, language criteria and translations require review. Staff manual cover contains 2024/2026 policy labels; effective version and recruitment body not reconciled. Closed sample does not prove country-wide empty inventory. Complete authority/pathway coverage unresolved; no adapter or published cycle.
+    - link "Source identification evidence ↗":
+      - /url: https://psc.gov.vu/index.php/vacancies
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Vanuatu — Public Service Commission vacancies: Reader PDF has zero extracted text and screenshot fetch timed out; ordinary browser three-page scanned PDF visually read. No raw originals/screenshots saved. Information package, citizenship definition, qualifications, language criteria and translations require review. Staff manual cover contains 2024/2026 policy labels; effective version and recruitment body not reconciled. Closed sample does not prove country-wide empty inventory. Complete authority/pathway coverage unresolved; no adapter or published cycle."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Vanuatu opportunities →":
+      - /url: /?country=VU
+- button "Open Next.js Dev Tools":
+- alert

@@ -1,0 +1,20 @@
+{
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0
+  },
+  "productionBuildRun": false,
+  "fullSuiteRerun": false,
+  "finalVerifier": {
+    "sessionId": 48725,
+    "exitCode": 0,
+    "registeredSources": 194,
+    "sourcePresenceJurisdictions": 81,
+    "protectedFilesUnchanged": 83,
+    "savedFiles": 18
+  }
+}

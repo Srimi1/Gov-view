@@ -1,0 +1,76 @@
+{
+  "phase": 87,
+  "preparation": {
+    "exitCode": 0,
+    "chunkId": "a77af9",
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "searchLabelCorrection": {
+    "exitCode": 0,
+    "chunkId": "112781"
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "chunkId": "44b432",
+    "passed": 6,
+    "failed": 0,
+    "log": "phase-87-2026-09-27-focused-tests.txt",
+    "afterFinalNotes": true
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "chunkId": "bccf90",
+    "publicListings": 0,
+    "log": "phase-87-2026-09-27-public-data-build.txt",
+    "afterFinalNotes": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "BHEL reader 403; linked PSSR PDF blank and EDN original unreviewed.",
+    "Bahrain Arabic vacancy originals unreviewed.",
+    "Kuwait government directory 403; CSC certificate error not bypassed.",
+    "Jordan original PDF blank; general instructions/translation unaccepted.",
+    "BSNL hosted recruitment employer referral not established; no registry entry."
+  ],
+  "documentation": {
+    "exitCode": 0,
+    "sessionId": 29863,
+    "chunkId": "1383f3"
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "BH",
+      "KW",
+      "JO"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 104,
+    "screenshot": "phases/phase-87-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 83876,
+    "chunkId": "770fdf",
+    "savedFiles": 18,
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T05:10:23.203086+00:00"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processChunkId": "c08425"
+  }
+}

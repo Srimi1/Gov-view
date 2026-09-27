@@ -1,0 +1,216 @@
+{
+  "savedAt": "2026-09-26T23:15:04.015058+00:00",
+  "protectedFilesUnchangedAfterPublicBuild": 83,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 70683,
+      "sha256": "1585e87765694b1e895a76203d77c3b70d82471b2eafc3e610ac94f7e11f7731"
+    },
+    {
+      "path": "data/discovery/asia-public-source-matrix-2026-09-27.json",
+      "bytes": 18640,
+      "sha256": "df4f3aaeac53d70a153b72897338e14d15ef65587db0f189babb4b35db80a2c6"
+    },
+    {
+      "path": "data/discovery/asia-public-sources-2026-09-27-fetch-outcomes.json",
+      "bytes": 11449,
+      "sha256": "32a0d147da94f564e8416a48f2ee07cfc3fed0c4b070d384c904c711261f2789"
+    },
+    {
+      "path": "data/discovery/asia-public-sources-2026-09-27-requests.json",
+      "bytes": 4515,
+      "sha256": "767c5ab4413b52bfd4b00ce0f3241e55c70c06cd5f18e896f3e8a0dd5d7d5893"
+    },
+    {
+      "path": "data/discovery/asia-public-sources-2026-09-27-research.json",
+      "bytes": 2136,
+      "sha256": "9d2f3df80d0c4ab1f873d885f5df67b33be6f965aad048a25ece3696c44c3745"
+    },
+    {
+      "path": "data/evidence/research/asia66-cn-scs-national-exams-annual-2026-portal-2026-09-27-failure.json",
+      "bytes": 387,
+      "sha256": "d882a55b263b76cb162a52153ab10ed240b0ed173cb33f13db9855e88569408a"
+    },
+    {
+      "path": "data/evidence/research/asia66-cn-scs-national-exams-authority-home-2026-09-27-failure.json",
+      "bytes": 375,
+      "sha256": "c3cc9cd4ae3428ce4dea026a872a403251bbf63b58fe3c2a6dce1c2fd8e7da37"
+    },
+    {
+      "path": "data/evidence/research/asia66-cn-scs-national-exams-government-2026-notice-2026-09-27.html",
+      "bytes": 108320,
+      "sha256": "2593275e2e0b92759e037aeeffa317117bac2ee3b8a8197a69cc83c55748101a"
+    },
+    {
+      "path": "data/evidence/research/asia66-kh-mcs-civil-service-authority-home-2026-09-27-failure.json",
+      "bytes": 373,
+      "sha256": "f4d8fb245aa28424faa67e044148c8d33ed09adb89baed38fb8938faa6e46812"
+    },
+    {
+      "path": "data/evidence/research/asia66-kh-mcs-civil-service-teacher-registration-2024-2026-09-27-failure.json",
+      "bytes": 596,
+      "sha256": "cdb2aa157491b88f2797faa735cba17facf89caeeea572f3bae3527950633a13"
+    },
+    {
+      "path": "data/evidence/research/asia66-kh-nec-official-recruitment-authority-home-2026-09-27.html",
+      "bytes": 51109,
+      "sha256": "a6cdf8cf5dd6454ad33bdfe3cf3cdff43eb994929f35eec39e4e893d567f8b05"
+    },
+    {
+      "path": "data/evidence/research/asia66-kh-nec-official-recruitment-contract-plan-2026-2026-09-27.html",
+      "bytes": 41326,
+      "sha256": "02eed41a4c5d1a0047ab7d2a3978a6c255f72bdb602d1419b4e6f065fc94f6dc"
+    },
+    {
+      "path": "data/evidence/research/asia66-la-nuol-public-admissions-admission-news-2026-09-27-failure.json",
+      "bytes": 411,
+      "sha256": "992e7f543ce8f82fd604ab5275e60d4aab3c64e2ebd0749aea7303176c266f67"
+    },
+    {
+      "path": "data/evidence/research/asia66-la-nuol-public-admissions-authority-home-2026-09-27-failure.json",
+      "bytes": 385,
+      "sha256": "18571966e9af9526f3646e5e09d5fd6a72a97f1dd1ecd3449388813f5237296a"
+    },
+    {
+      "path": "data/evidence/research/asia66-la-nuol-public-admissions-chinese-teacher-2026-27-report-2026-09-27-failure.json",
+      "bytes": 1073,
+      "sha256": "6e08fbe49dffafffaa7c790af344153bc18c114e4eab32f334f34c22be783f3a"
+    },
+    {
+      "path": "data/evidence/research/asia66-la-nuol-public-admissions-english-admission-2026-09-27-failure.json",
+      "bytes": 413,
+      "sha256": "3278ff3dabbde430268f1a811eb74719aa0f622f099106f2c8c19813f2c535af"
+    },
+    {
+      "path": "data/evidence/research/asia66-la-nuol-public-admissions-entrance-portal-2026-09-27-failure.json",
+      "bytes": 421,
+      "sha256": "96cd28ecf144a5e9d5c51c2db0cbabf802e33ab5ef5d2d8a31900808e52e0cc2"
+    },
+    {
+      "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-news-2026-09-27.html",
+      "bytes": 284539,
+      "sha256": "8f9f46e4d27e7985e681f556236a61536a1684af77d01e34dfb0625ed2adf5d6"
+    },
+    {
+      "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-referral-2026-09-27.html",
+      "bytes": 1208,
+      "sha256": "c71fb81a75954753b09254d5ccc7d0f1ad7e3570908cad37d0a69354a097ac16"
+    },
+    {
+      "path": "data/evidence/research/asia66-mn-csc-public-exams-government-selection-referral-2026-09-27.html",
+      "bytes": 132072,
+      "sha256": "3bc356edd381067a6d800a1dba5b6c2d119a6e62b7e6db6faaaf2da35b7dd170"
+    },
+    {
+      "path": "data/evidence/research/asia66-mn-csc-public-exams-selection-register-2026-09-27.html",
+      "bytes": 31049,
+      "sha256": "a0b3b0680f751dd50152bc52737670964a63316b6f78b921c47e7b34e52cc957"
+    },
+    {
+      "path": "data/evidence/research/asia66-tw-moex-national-exams-authority-home-2026-09-27-failure.json",
+      "bytes": 432,
+      "sha256": "41ee527e802fb746c41eadc116a2c0556631315efcb6267c3855247d10aa2bc8"
+    },
+    {
+      "path": "data/evidence/research/asia66-tw-moex-national-exams-high-general-2026-guide-2026-09-27-failure.json",
+      "bytes": 466,
+      "sha256": "5c644edaaa0fcd01175d9e0037ec4ca43c4de244c065599272c30ef9e57ab67f"
+    },
+    {
+      "path": "data/evidence/research/asia66-tw-moex-national-exams-local-2026-detail-2026-09-27-failure.json",
+      "bytes": 425,
+      "sha256": "b6136790bdeb1079350a23c537282fd3885210e4dcd302db0523cbb4a6ea862c"
+    },
+    {
+      "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-authority-home-2026-09-27-failure.json",
+      "bytes": 393,
+      "sha256": "915057be9a198416f93db90be504dfd6d0f1940dfd5368db92924ed4d2ec46c3"
+    },
+    {
+      "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-historical-may-2026-plan-2026-09-27-failure.json",
+      "bytes": 466,
+      "sha256": "7d95367d9c30d50e67e835671b24eb4420f18a1f447264ee67ee1e5cb07c5935"
+    },
+    {
+      "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-round3-2026-plan-2026-09-27-failure.json",
+      "bytes": 420,
+      "sha256": "2cdd04aaeab27a20aa74cdcf66e67ac975595890cbf5f7b78978ee86b690931a"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 152483,
+      "sha256": "5156a65dd190d9287b71e693df88deed8268a8d868fb8e1b63fe94936dd876d0"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-asian-public-sources.md",
+      "bytes": 7915,
+      "sha256": "c55dd5ec2ef1f657f18d4e966848093113333d1c19aba017a5e3a7b85702f71f"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-baseline.json",
+      "bytes": 382657,
+      "sha256": "3e5571e1d1ab26e46f5d1f366aa8a7c7075883a20682f6ec86d2ecf480813623"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-browser-checks.json",
+      "bytes": 597,
+      "sha256": "9bae83322b1408bcfc225a36f0cb63d340d6959601fda28e13fc9868bee5b065"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-contract-source-search.png",
+      "bytes": 227097,
+      "sha256": "ee18ced67ea78c86bfb53d197d21d82eb4746758c5b38805d9cbf6be53493c64"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-fetch-research.mjs",
+      "bytes": 2438,
+      "sha256": "2d7e0e97e39d55298fa09fb81214f3fcb7a212e1aa946fcd19e1ed71398d0a7b"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-metrics.json",
+      "bytes": 2221,
+      "sha256": "cb2b37227b7d5a00829ba3167e8425999b00e0671a0a06588fdd6d7a77a12892"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-readme-before.md",
+      "bytes": 70783,
+      "sha256": "fd19d38606b3305f1f223eea8b3c964313a8eb7a2126e12dfa1928f23bbeed60"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-save-research.mjs",
+      "bytes": 13783,
+      "sha256": "4111ca6f8307bd2ef86d37e8ca1607642749b1dcdaf5f829e776f2836a33242f"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-test-results.txt",
+      "bytes": 302,
+      "sha256": "66afc04b44d05693d12bd8f21191c884dc84e35e42d53bbbffe3f886ce74dc02"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-verification.json",
+      "bytes": 1709,
+      "sha256": "8a5901e8ef0dbbf926c31085c3540bf56f81080fb3a9e3ea7df69850e03fc255"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-verify.mjs",
+      "bytes": 5015,
+      "sha256": "04c7e9fcb658bb87f997e0862fe1e96a4f54a54147b97e1b6f5970352a876b0c"
+    },
+    {
+      "path": "phases/phase-66-2026-09-27-verify.py",
+      "bytes": 5193,
+      "sha256": "6d941ed640b928ce07f3833f6504c76ad526d79ab2a382cc2d5e2398b8b7edc2"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 229519,
+      "sha256": "202910a9c7b5024fc4283ef37c5bfa0fa985d2eafad3b0ec881744ad8bcfcb34"
+    }
+  ]
+}

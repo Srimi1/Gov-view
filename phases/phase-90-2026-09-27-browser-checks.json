@@ -1,0 +1,57 @@
+{
+  "phase": 90,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 110,
+      "filteredSources": 1,
+      "coalIndiaFilterMatches": 1,
+      "irelFullNameFilterMatches": 1,
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.coalindia.in/career-cil/jobs-coal-india/",
+        "https://irel.co.in/careers"
+      ]
+    },
+    "CI": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.fonctionpublique.gouv.ci/"
+      ]
+    },
+    "TG": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.fonctionpublique.gouv.tg/actualites"
+      ]
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores110": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=Coal%20India#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-90-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timeout; same handle rendered Coal India one of 110 with correct official link.",
+    "IREL full-name filter one of 110 with correct source and review warning.",
+    "Clear restored all 110 and removed sourceQuery.",
+    "Fresh share initially rendered server default 110; after hydration Coal India query restored one of 110.",
+    "CI/TG each one source, zero public/fetched, Never fetch/validation, research warning and explicit access gaps.",
+    "Local preview screenshot saved and visually checked. No browser protection changes."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

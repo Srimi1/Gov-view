@@ -1,0 +1,63 @@
+{
+  "phase": 83,
+  "preparation": {
+    "sessionId": 93535,
+    "exitCode": 0,
+    "sourcesAdded": 4,
+    "existingSourcesEnriched": 1,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "sessionId": 78362,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-83-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "sessionId": 12329,
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-83-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "IN",
+      "TO",
+      "VU",
+      "KI",
+      "TV"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-83-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "India navigation timed out; same tab rendered updated research and shared query. Clear restored 100 sources.",
+      "Tonga linked document rendered through official embedded Google viewer.",
+      "Kiribati and Vanuatu PDF navigation timed out; same tabs displayed scanned PDFs. No raw downloads or external screenshots saved.",
+      "Kiribati current browser directory differs from cached reader August entries; current role and source-specific language criteria recorded.",
+      "Four new local country pages show one source, unknown successful-fetch/validation and unconnected coverage. Text filter empty result is not an empty job inventory."
+    ]
+  },
+  "researchFailures": [
+    "RBI application/EWS PDFs not reviewed; current medical-contract nationality and language unknown.",
+    "Tonga policy body timeout; no generic foreign rule inferred.",
+    "Vanuatu PDF reader zero text and screenshots timed out; browser pages visually readable. Information package and manual recruitment rules unreviewed.",
+    "Kiribati PDF reader failed; pages 1, 3, 4 visually read, page 2 uninspected.",
+    "Tuvalu current job originals unavailable from observed board; special/contract loop and regulation timeout."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 29965,
+    "exitCode": 0,
+    "savedFiles": 20,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T04:02:01.538759+00:00"
+  }
+}

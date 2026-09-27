@@ -1,0 +1,34 @@
+{
+  "researchDate": "2026-09-27",
+  "status": "reader-only-leads-not-registered-or-published",
+  "registryJurisdictionsUnchanged": 94,
+  "noRawOriginalsRetained": true,
+  "leads": [
+    {
+      "jurisdictionCode": "TR",
+      "name": "Türkiye — Kariyer Kapısı public recruitment",
+      "homepage": "https://kariyerkapisi.gov.tr/isealim",
+      "officialIdentification": ["https://www.cbiko.gov.tr/en/projects/career-gate", "https://kariyerkapisi.gov.tr/sss"],
+      "status": "current-official-reader-pages-verified; registry-addition-pending",
+      "observations": [
+        "Current recruitment page renders search controls and table headings; no rows in reader output is not an empty-listing proof.",
+        "Footer identifies 2026 Kariyer Kapısı / Presidency.",
+        "Current official FAQ describes e-Devlet integration and institution-defined recruitment rules.",
+        "FAQ says existing KPSS/YDS requirements continue where governing rules require them; it does not establish a universal score or language level."
+      ],
+      "gaps": ["Notice-level nationality, appointment type, qualifications, language thresholds and dates unverified.", "Login access is not proof of foreign-citizen eligibility.", "Scheduled collector permission, exact originals and complete authority inventory unresolved."]
+    },
+    {
+      "jurisdictionCode": "EG",
+      "name": "Egypt — Central Agency for Organization and Administration Government Jobs Portal",
+      "homepage": "https://jobs.caoa.gov.eg/",
+      "status": "official-domain-search-lead; current-direct-access-unverified",
+      "observations": [
+        "Search index identifies CAOA government jobs portal, with appointment/contract, transfer/secondment/loan and leadership categories.",
+        "Search copy was crawled two months earlier; direct reader request timed out.",
+        "Ordinary browser navigation and subsequent same-tab observations timed out; no current page or empty listing state accepted."
+      ],
+      "gaps": ["Current portal content and original notice access need verification before registration.", "Nationality, Arabic proficiency, job type and deadlines require specific original notices.", "No failure-derived closure or checked-empty coverage claim."]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "meaning": "Duplicate display strings removed in country view only. Registry sources, stored coverage and candidate cycles unchanged.",
+  "rows": [
+    {
+      "code": "IN",
+      "authorityDuplicates": 3,
+      "gapDuplicates": 49,
+      "withinRecordedGapDuplicates": 0
+    },
+    {
+      "code": "US",
+      "authorityDuplicates": 0,
+      "gapDuplicates": 3,
+      "withinRecordedGapDuplicates": 0
+    },
+    {
+      "code": "JP",
+      "authorityDuplicates": 0,
+      "gapDuplicates": 3,
+      "withinRecordedGapDuplicates": 0
+    }
+  ]
+}

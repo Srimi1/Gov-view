@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-09-27T00:13:15.638Z",
+  "indiaJurisdictionOptions": 36,
+  "indiaRegisteredSources": 99,
+  "madhyaPradeshSources": 3,
+  "mpCpctSources": 1,
+  "punjabCpctSources": 0,
+  "punjabSources": 3,
+  "punjabWithUnscopedSources": 29,
+  "clearSources": 99,
+  "reloadRestoresPunjabAfterHydration": true,
+  "californiaSources": 1,
+  "usRegisteredSources": 5,
+  "browserBackRestoresIndia": true,
+  "sourceScopeSeparateFromApplicantEligibility": true,
+  "finalUrl": "http://localhost:3003/coverage/IN/?sourceQuery=CPCT&state=IN-MP#official-sources",
+  "screenshot": "phases/phase-69-2026-09-27-state-source-filters.png",
+  "state": "phases/phase-69-2026-09-27-browser-state.txt"
+}

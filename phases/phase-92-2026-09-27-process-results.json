@@ -1,0 +1,104 @@
+{
+  "phase": 92,
+  "previousGoalTurnClassification": "verified progress",
+  "previousStateInspection": {
+    "exitCode": 0,
+    "chunkId": "9eac41",
+    "phase91ManifestVerified": true
+  },
+  "researchPreparation": {
+    "exitCode": 0,
+    "sessionId": 43132,
+    "initialChunkId": "22d897",
+    "chunkId": "a4b6b1"
+  },
+  "preparation": {
+    "exitCode": 0,
+    "sessionId": 55468,
+    "initialChunkId": "2fc0ed",
+    "chunkId": "8fac23",
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 10490,
+    "initialChunkId": "190b7e",
+    "chunkId": "5c00f5",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-92-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 42540,
+    "initialChunkId": "47bd66",
+    "chunkId": "a13bca",
+    "publicListings": 0,
+    "log": "phases/phase-92-2026-09-27-public-data-build.txt"
+  },
+  "logRead": {
+    "exitCode": 0,
+    "chunkId": "9f1a72",
+    "actualPass6Fail0Verified": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "SAIL employer reader unavailable; ordinary-browser official Careers referral and hosted advisor original accepted only as research.",
+    "GAIL reader index headings only; browser current register rendered. Medical original reader inaccessible and browser PDF blank.",
+    "Sierra Leone PSC direct careers/about reader and browser careers HTTP 403; indexed loading count not verified empty inventory.",
+    "Liberia CSA homepage reader timeout; jobs browser timeout resolved in same tab; domestic jobs page unresolved shortcode.",
+    "GAC original weekday/date contradiction and national-service wording require review."
+  ],
+  "executionNotes": [
+    "Four orchestration syntax errors occurred before shell execution; no filesystem writes from those attempts. Corrected commands succeeded."
+  ],
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "579647"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps read during final receipts; no restart"
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "SL",
+      "LR"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 115,
+    "screenshot": "phases/phase-92-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 96970,
+    "initialChunkId": "5f8529",
+    "chunkId": "b22efc",
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T06:34:16.312449+00:00"
+  },
+  "reportOpen": {
+    "status": "queued"
+  },
+  "calendarCheck": {
+    "exitCode": 0,
+    "chunkId": "33366b",
+    "date": "2026-09-10",
+    "weekday": "Thursday",
+    "originalConflictPreserved": true
+  }
+}

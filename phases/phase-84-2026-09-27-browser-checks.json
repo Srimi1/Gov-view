@@ -1,0 +1,42 @@
+{
+  "countries": {
+    "IN": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "cycleCountsDistinct": true
+    },
+    "FM": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "CK": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "PW": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores101": true,
+  "indiaJournalDiscoveryNotEligibility": true,
+  "fsmPriorityNotUniversalForeignPermission": true,
+  "cookInternationalSeparateFromAppointment": true,
+  "palauPublicPrivateScopesSeparate": true,
+  "publicStateOnly": true,
+  "noFalseEmptyInventory": true
+}

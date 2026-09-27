@@ -1,0 +1,59 @@
+{
+  "phase": 94,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 119,
+      "nmdcFilterMatches": 1,
+      "nalcoFilterMatches": 1,
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.nmdc.co.in/careers",
+        "https://nalcoindia.com/Career/"
+      ]
+    },
+    "LS": {
+      "currentPreview": true,
+      "registeredSources": 2,
+      "researchedAuthorities": 2,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.gov.ls/jobs/",
+        "https://psc.gov.ls/"
+      ]
+    },
+    "MZ": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "researchedAuthorities": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://iam.gov.mz/index.php/informacao/concursos/"
+      ]
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores119": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=NMDC%20Limited#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-94-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigate timeout resolved on same tab;119 pre-hydration became NMDC one of119.",
+    "NMDC and NALCO fullname filters one of119; exact official hrefs and review warning/gaps inspected. Clear119/query removed.",
+    "LS two sources/two authorities; MZ one source/one authority; public/fetched zero, Never fetch/validation and explicit gaps.",
+    "Fresh shared India page pre-hydration119 became NMDC one of119 without interaction; public-only sourceQuery and anchor.",
+    "Local screenshot saved and visually inspected; shared tab retained. No browser protection changes.",
+    "Additional ordinary browser Mozambique IAM official index confirmed mixed recruitment/procurement and 2026 fiscal detail referral; no raw source retention."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

@@ -1,0 +1,272 @@
+JAPAN
+
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Japan JP" [level=1]
+  - paragraph: Partial coverage; listings may await review. Sources identified; collection incomplete. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Japan.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "8 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "1"
+  - term: Last successful fetch
+  - definition: 25 Sept 2026
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Embassy of Japan in India / Ministry of Foreign Affairs of Japan, with JET contracting organisations
+    - listitem: 人事院 (National Personnel Authority)
+    - listitem: JET Program USA, Embassy of Japan in the United States
+    - listitem: Embassy of Japan in India, Japan Exchange and Teaching Programme
+    - listitem: Ministry of Health, Labour and Welfare (MHLW), Medical Affairs Division, Japan
+    - listitem: Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan; JASSO Study in Japan official portal
+    - listitem: Ministry of Health, Labour and Welfare (MHLW), Human Resources Development, Japan
+    - listitem: Osaka Prefectural Government — Personnel Commission and Human Resources Division
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources" [active]: Osaka
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 8 registered sources. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Japan — Osaka Prefecture staff recruitment ↗":
+      - /url: https://www.pref.osaka.lg.jp/o210010/jinji-i/saiyo/index.html
+    - generic: Osaka Prefectural Government — Personnel Commission and Human Resources Division
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only; Osaka prefectural scope, not nationwide. Official FAQ allows non-Japanese candidates in competitive categories except police administration; resulting appointments exclude public-power/public-decision roles. Current guard/civil-construction selection explicitly accepts foreign citizens, but requires residence status permitting the duties at appointment. Born on/after 2 April 1977; education/work experience not required. Original application window 28 August 10:00–1 October 18:00, 2026; official timezone unestablished. General-knowledge test, guard essay and interview; no formal Japanese level stated. Appointment tenure unverified.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Current HTML guide and PDF attachment must be reconciled. Nationality permission cannot override age, disqualifications or lawful residence at appointment. Japanese test/page text does not establish JLPT or CEFR threshold. Police, education and other selection routes need separate notices. Osaka name describes authority scope; no geographic code or venue pin added.
+    - link "Source identification evidence ↗":
+      - /url: https://www.pref.osaka.lg.jp/o040030/jinji/senkou/index.html
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Embassy of Japan in India — 2026 JET CIR recruitment: Closed 2026 Indian-national recruitment for one-year CIR appointments in Japan. Four named local-government placements have Japanese N1/N2 and English, Hindi or Telugu criteria; Indian-state origins are preferences. Different edition from existing ALT 2027 source. No NAT-to-JLPT conversion or universal certificate obligation inferred."
+    - listitem: "JET Programme USA — 2027 ALT or CIR application: Draft-only 2027 US-citizenship application route for paid work in Japan as ALT or CIR; some ALT placements are private schools, so not every outcome is a government job. One shared application window opens 21 September and closes 13 November at 23:59 HST. English ability is required; CIR functional Japanese is needed with N1/N2 equivalent desirable, not a required certificate. India and other embassy routes use different rules and deadlines."
+    - listitem: "Embassy of Japan in India — 2027 JET Assistant Language Teacher: India-to-Japan 2027 ALT recruitment route is open for Indian-passport applicants with a bachelor's degree by July 2027 and strong English ability; no mandatory JLPT certificate stated. Embassy application page says email submission by 30 October, while its linked generic guidelines say 31 October, so the date conflict needs embassy clarification. No draft or public record is created from inaccessible source bytes. Rechecked 27 September: incorporated PDF also allows a three-year school-teaching credential alternative not stated in the webpage bachelor requirement; reconcile before any education exclusion."
+    - listitem: "人事院 — 受験案内一覧: 0 records retained; source reports 21 items"
+    - listitem: "人事院 — 受験案内一覧: 1 candidate revisions await review"
+    - listitem: "人事院 — 受験案内一覧: latest source check incomplete; some notices may be missing"
+    - listitem: "Embassy of Japan in India — 2026 JET CIR recruitment: Same embassy host robots fetch returned HTTP 403 during ALT access check; CIR original bytes not attempted after origin-policy failure. No adapter activated. CIR page excludes JET participation since 2022 while linked 2026 PDF says 2023. NAT alternative, position-specific language requirements, preferred origins, passport proof, deadline timezone and later notices require review. Web-reader research is not collector freshness or applicant publication."
+    - listitem: "JET Programme USA — 2027 ALT or CIR application: 2027 application-guidelines PDF is under /wp-content/uploads/, disallowed by jetprogramusa.org robots.txt. Four current official HTML pages are collected; the PDF remains linked for founder review. The Embassy of Japan in India 2027 route is separately researched but its host denies automated access."
+    - listitem: "Embassy of Japan in India — 2027 JET Assistant Language Teacher: Embassy host returns Access Denied for robots.txt, application page and PDF to the local collector. The source can be read through the web research tool, but automated collection permission and exact-byte retention are unresolved. No connector is activated."
+    - listitem: "Japan — MHLW foreign medical graduate examination recognition: Professional licensing route, separate from civil-service recruitment. Foreign medical graduates/licence holders require individual ministerial recognition before Japan medical examination entry; foreign degrees are not blanket-approved. Current criteria image conditionally requires JLPT N1 or expressly recognized old Level 1 category used through December 2009 for applicants without the specified Japanese junior/senior-high schooling. Clinical Japanese assessment is separate; N1 alone cannot establish eligibility. Current page gives 27 February 2026 recognition-sheet deadline, not a new open 2027 window. No adapter or reviewed cycle. Original Japanese education, hours, graduation recency, foreign licence, school recognition, precise schooling exception, preliminary versus direct recognition, clinical assessment, application documents, current edition and fee/window rules require review. Traditional-medicine-only education/licence is excluded by the retained 2024 clarification. Recognition, sitting national examination, obtaining licence, immigration/work permission and public employment are separate outcomes; no job tenure or nationality whitelist inferred."
+    - listitem: "Japan — MEXT undergraduate embassy-recommendation admission pathway: Public education admission/scholarship pathway; not a government job or universal university application. Retained 2027 Japanese/English guidelines permit eligible international students from diplomatic-partner countries, with special Japanese dual-national residence/status conditions. General route requires willingness to learn/study in Japanese; it does not specify universal N1/N2 or CEFR threshold. University direct placement may require language tests, scores or interviews. Existing language-certificate submission is conditional, distinct from screening and later admission. No adapter or reviewed cycle. Embassy country-specific schedule, original/current amendments, actual opening/closing, birth-date and education exceptions, direct-placement university language thresholds, dual-national conditions, Student residence status, health and exclusion criteria require review. April/May recruitment guidance is not an exact global application window. Preparatory completion does not guarantee university admission; application, screening, placement and entry outcomes differ. Embassy India notice access remains independently unresolved; old 2025/2026 PDFs must not establish 2027 criteria."
+    - listitem: "Japan — MHLW national skills certification and foreign-trainee routes: National vocational qualification pathway administered by prefectures or designated examination bodies. Official page separately describes foreign technical-intern basic, ad-hoc grade 3 and ad-hoc grade 2 routes. Vocational grades are not language levels. Retained overview describes Japanese exam medium and route-specific furigana/accommodations, without a universal JLPT or CEFR threshold. Subject inventory is not application-cycle or vacancy count; qualification is not a promised job or visa. No adapter or reviewed cycle. Trade, grade, experience, approved trainee-plan status, prefecture/designated-body intake, dates, actual venue, fees, original notice language and current eligibility require review. Retained overview is explicitly 2021 guidance; linked leaflet is updated March 2025, not a 2026 intake notice. General applicants and foreign-intern special routes cannot be conflated. Changes to training/immigration systems require current official notices; no permission to work, public appointment type or proficiency score inferred."
+    - listitem: "Japan — Osaka Prefecture staff recruitment: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Current HTML guide and PDF attachment must be reconciled. Nationality permission cannot override age, disqualifications or lawful residence at appointment. Japanese test/page text does not establish JLPT or CEFR threshold. Police, education and other selection routes need separate notices. Osaka name describes authority scope; no geographic code or venue pin added."
+    - listitem: "Japan — MHLW foreign medical graduate examination recognition: No adapter or reviewed cycle. Original Japanese education, hours, graduation recency, foreign licence, school recognition, precise schooling exception, preliminary versus direct recognition, clinical assessment, application documents, current edition and fee/window rules require review. Traditional-medicine-only education/licence is excluded by the retained 2024 clarification. Recognition, sitting national examination, obtaining licence, immigration/work permission and public employment are separate outcomes; no job tenure or nationality whitelist inferred."
+    - listitem: "Japan — MEXT undergraduate embassy-recommendation admission pathway: No adapter or reviewed cycle. Embassy country-specific schedule, original/current amendments, actual opening/closing, birth-date and education exceptions, direct-placement university language thresholds, dual-national conditions, Student residence status, health and exclusion criteria require review. April/May recruitment guidance is not an exact global application window. Preparatory completion does not guarantee university admission; application, screening, placement and entry outcomes differ. Embassy India notice access remains independently unresolved; old 2025/2026 PDFs must not establish 2027 criteria."
+    - listitem: "Japan — MHLW national skills certification and foreign-trainee routes: No adapter or reviewed cycle. Trade, grade, experience, approved trainee-plan status, prefecture/designated-body intake, dates, actual venue, fees, original notice language and current eligibility require review. Retained overview is explicitly 2021 guidance; linked leaflet is updated March 2025, not a 2026 intake notice. General applicants and foreign-intern special routes cannot be conflated. Changes to training/immigration systems require current official notices; no permission to work, public appointment type or proficiency score inferred."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Japan opportunities →":
+      - /url: /?country=JP
+- button "Open Next.js Dev Tools":
+- alert
+
+GUAM
+
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Guam GU" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Guam.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Guam — Department of Administration, Human Resources Recruitment Branch
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Guam — Department of Administration recruitment ↗":
+      - /url: https://hr.doa.guam.gov/branches/recruitment/
+    - generic: Government of Guam — Department of Administration, Human Resources Recruitment Branch
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Official branch posts recruitment for non-autonomous departments/agencies and establishes eligible lists. Meeting minimum qualifications does not guarantee a passing numerical rating or appointment. Employment listing link failed in reader. Job type, international-applicant rules and mandatory language levels require individual notices. Central branch scope does not cover every autonomous authority.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Employment route reader error cannot establish empty coverage or closure. Current complete notice inventory, autonomous bodies, citizenship/work authorization, appointment terms and language criteria remain gaps. Application form fields and site language cannot decide eligibility.
+    - link "Source identification evidence ↗":
+      - /url: https://doa.guam.gov/hrd/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Guam — Department of Administration recruitment: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Employment route reader error cannot establish empty coverage or closure. Current complete notice inventory, autonomous bodies, citizenship/work authorization, appointment terms and language criteria remain gaps. Application form fields and site language cannot decide eligibility."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Guam opportunities →":
+      - /url: /?country=GU
+
+PUERTO RICO
+
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Puerto Rico PR" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Puerto Rico.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Puerto Rico — Office of Administration and Transformation of Human Resources (OATRH)
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Puerto Rico — Central recruitment registry ↗":
+      - /url: https://empleos.pr.gov/
+    - generic: Government of Puerto Rico — Office of Administration and Transformation of Human Resources (OATRH)
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Official OATRH directory separates internal, external, reopened and transitory recruitment; internal is not open to every applicant. Aguadilla nutrition-services coordinator 09-2026-HSAr is labelled Transitorio, until further notice. Notice accepts foreigners authorized by federal immigration authorities to work in Puerto Rico; this is not visa sponsorship or permission for all foreign applicants. Academic conditions apply at application, with post-selection medical/drug tests. Clear oral/written expression required; no named language or formal level established.
+    - strong: Collection gap
+    - paragraph: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Reconcile downloadable original, amendment history, online/offline instructions and general conditions. Until further notice has no invented cutoff. Transitorio label does not establish exact duration. Portal index exposes both date and until-further-notice text on some other cards; unresolved dates must not become deadlines. Municipality/duty location is not an examination venue.
+    - link "Source identification evidence ↗":
+      - /url: https://pr.gov/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Puerto Rico — Central recruitment registry: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Reconcile downloadable original, amendment history, online/offline instructions and general conditions. Until further notice has no invented cutoff. Transitorio label does not establish exact duration. Portal index exposes both date and until-further-notice text on some other cards; unresolved dates must not become deadlines. Municipality/duty location is not an examination venue."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Puerto Rico opportunities →":
+      - /url: /?country=PR
+
+US VIRGIN ISLANDS
+
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "United States Virgin Islands VI" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in United States Virgin Islands.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of the United States Virgin Islands — Division of Personnel
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "United States Virgin Islands — Division of Personnel careers ↗":
+      - /url: https://www.dopusvi.org/careers/
+    - generic: Government of the United States Virgin Islands — Division of Personnel
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Research only. Government Property and Procurement department refers applicants to Division of Personnel; official careers page links GovernmentJobs portal. Open careers and promotional opportunities are distinct. September exam announcements repeat correction-officer and call-center entries: duplicate display does not create extra cycles. Applications closed 18 September 2026; October testing does not reopen them. Foreign qualification evaluation is separate from foreign-citizen permission. Individual job type and mandatory language level unverified."
+    - strong: Collection gap
+    - paragraph: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Embedded/external vacancy inventory and exact employer notices need review; sparse reader output is not checked-empty coverage. Promotion, retiree and Army PaYS routes are distinct; interview access does not guarantee employment. Official timezone, citizenship/work authorization and appointment tenure unestablished. No location coordinates inferred.
+    - link "Source identification evidence ↗":
+      - /url: https://dpp.vi.gov/careers/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "United States Virgin Islands — Division of Personnel careers: Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Embedded/external vacancy inventory and exact employer notices need review; sparse reader output is not checked-empty coverage. Promotion, retiree and Army PaYS routes are distinct; interview access does not guarantee employment. Official timezone, citizenship/work authorization and appointment tenure unestablished. No location coordinates inferred."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse United States Virgin Islands opportunities →":
+      - /url: /?country=VI

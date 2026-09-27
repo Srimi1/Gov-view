@@ -1,0 +1,10 @@
+✔ metrics count only current approved revisions and leave unaudited measures unavailable (12.298458ms)
+✔ missing static export is reported as unavailable, not zero files (3.045209ms)
+ℹ tests 2
+ℹ suites 0
+ℹ pass 2
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 200.444708

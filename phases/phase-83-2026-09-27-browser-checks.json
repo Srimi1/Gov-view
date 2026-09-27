@@ -1,0 +1,51 @@
+{
+  "countries": {
+    "IN": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "cycleCountsDistinct": true
+    },
+    "TO": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "VU": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "KI": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    },
+    "TV": {
+      "oneSource": true,
+      "officialLink": true,
+      "awaitingReview": true,
+      "unknownFreshness": true,
+      "blockedCoverage": true,
+      "cycleCountsDistinct": true
+    }
+  },
+  "rbiMedicalContractScoped": true,
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores100": true,
+  "tongaExtensionClosed": true,
+  "vanuatuTranslationsOneNotice": true,
+  "kiribatiFluentLanguagesNotCEFR": true,
+  "tuvaluHistoricalCriteriaScoped": true,
+  "noFalseEmptyInventory": true,
+  "publicStateOnly": true
+}

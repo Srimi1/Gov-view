@@ -1,0 +1,197 @@
+LOCAL PREVIEW ONLY
+India: India — Employment News official jobs index ↗
+Publications Division, Ministry of Information and Broadcasting, Government of India
+Collection status: Official source linked; adapter not built
+Applicant and source research — awaiting review
+
+Official government employment journal provides national discovery leads across public employers. Current index has twelve rows with organisation, post, appointment-method and last-date labels; rows are not verified application cycles. Recruitment, Contractual and Deputation labels do not independently establish tenure or foreign eligibility. NDMA Young Consultant row says Deputation and 18 October, conflicting with previously researched employer contract notice; DNS-RICM row's 27 September date also needs employer reconciliation. Journal publishes English, Hindi and Urdu editions; publication language is not applicant proficiency. No personal eligibility assessed.
+
+Collection gap
+
+Current official index and homepage reader-accessible; About Us detail timed out, ministry identity stated in current footer. Issued-date heading says MM/DD/YYYY while displayed date interpretation needs review; do not normalize issue dates or treat them as intake opening. Exact employer notices, amendments, authority scope, row identity, foreign eligibility and language criteria remain required. No paid subscription opened or bought. No raw originals, adapter or accepted cycles. Preserve existing NDMA/DNS conflict records; repeated notices must not duplicate employer cycles. Complete national/state/UT and other-pathway coverage unverified.
+
+Source identification evidence ↗ · researched 2026-09-27
+FM
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Micronesia (Federated States of) FM" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Micronesia (Federated States of).
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Federated States of Micronesia — National Government Office of Personnel
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Micronesia — National Government Personnel vacancies ↗":
+      - /url: https://personnel.gov.fm/fsm-government-vacancies/
+    - generic: Federated States of Micronesia — National Government Office of Personnel
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official national vacancy directory separates government posts, consultancies, other entities and bidding. Financial Management Specialist FSM-073-26 advert opens 24 September and closes 25 October 2026, date only; cutoff hour/timezone unknown. Notice gives qualified FSM citizens priority, with other Micronesians and US citizens considered where no qualified FSM citizen is available. This conditional preference is neither universal foreign permission nor automatic citizen-only exclusion. Bachelor degree in Business Administration, Accounting or related field and three years financial-management experience remain independent. Tenure and formal language level unverified. Palikir is duty location, not exam venue.
+    - strong: Collection gap
+    - paragraph: Official directory and sample HTML reader-accessible. Linked Image is government logo, not original advertisement; no notice image falsely claimed retained. Complete policy definitions for other Micronesians, immigration/work permission, appointment tenure, selection, amendments and language criteria need review. Pagination and four state governments remain coverage gaps; consultancy/other-entity/bid sections not reconciled. Open-until-filled labels need current authority confirmation, not invented dates. No raw originals, adapter or reviewed cycle; national source has no state tags inferred from job locations.
+    - link "Source identification evidence ↗":
+      - /url: https://personnel.gov.fm/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Micronesia — National Government Personnel vacancies: Official directory and sample HTML reader-accessible. Linked Image is government logo, not original advertisement; no notice image falsely claimed retained. Complete policy definitions for other Micronesians, immigration/work permission, appointment tenure, selection, amendments and language criteria need review. Pagination and four state governments remain coverage gaps; consultancy/other-entity/bid sections not reconciled. Open-until-filled labels need current authority confirmation, not invented dates. No raw originals, adapter or reviewed cycle; national source has no state tags inferred from job locations."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Micronesia (Federated States of) opportunities →":
+      - /url: /?country=FM
+- button "Open Next.js Dev Tools":
+- alert
+
+CK
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Cook Islands CK" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Cook Islands.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Cook Islands — Office of the Public Service Commissioner
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Cook Islands — Public Service Commissioner government jobs ↗":
+      - /url: https://jobs.psc.gov.ck/
+    - generic: Cook Islands — Office of the Public Service Commissioner
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official PSC page links current government jobs portal. Older page reports four active jobs; current browser portal rendered five cards, not accepted cycle count. Sample Secretary for Ministry of Infrastructure closes 28 September 2026, date only; cutoff/timezone unknown. Card explicitly opens applications to Cook Islanders/PR and International. Detail labels contract Fulltime permanent, pending original-job-description reconciliation. International application permission does not establish selection success, immigration/work rights or appointment eligibility. Leadership/administration experience is requested; no formal language level identified. Teacher subject English is not universal applicant proficiency rule.
+    - strong: Collection gap
+    - paragraph: Reader current portal returned zero content; ordinary browser loaded cards after initial progress indicator, then embedded Secretary detail rendered after loading. Full job-description PDF shown as attachment label without readable link and not opened/downloaded; tenure label, qualifications and immigration/appointment conditions require original review. Old-page count differs from live portal; repeated older police cards must not create duplicate cycles. No-internships message applies only to internship section. Full agency/island inventory, dates, language rules and amendments unresolved. No raw original, collector or reviewed listing. CK treated as separate jurisdiction from NZ.
+    - link "Source identification evidence ↗":
+      - /url: https://www.psc.gov.ck/government-jobs
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Cook Islands — Public Service Commissioner government jobs: Reader current portal returned zero content; ordinary browser loaded cards after initial progress indicator, then embedded Secretary detail rendered after loading. Full job-description PDF shown as attachment label without readable link and not opened/downloaded; tenure label, qualifications and immigration/appointment conditions require original review. Old-page count differs from live portal; repeated older police cards must not create duplicate cycles. No-internships message applies only to internship section. Full agency/island inventory, dates, language rules and amendments unresolved. No raw original, collector or reviewed listing. CK treated as separate jurisdiction from NZ."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Cook Islands opportunities →":
+      - /url: /?country=CK
+
+PW
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Palau PW" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Palau.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Republic of Palau — Bureau of Human Resources, National Government
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Palau — National Government employment opportunities ↗":
+      - /url: https://republicofpalaupwpw.munisselfservice.com/ess/employmentopportunities/default.aspx
+    - generic: Republic of Palau — Bureau of Human Resources, National Government
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official government homepage links this separate hosted national-employment portal. Ordinary browser rendered nine openings; no accepted cycle count. Accounting Technician I, code 202659-2, displays 27 August–30 September 2026 dates without cutoff hour/timezone. High-school diploma, training and two years relevant record-keeping experience or equivalent combination; police clearance no older than three months submitted with application. Communication/interpersonal skills are qualitative, not named-language or CEFR threshold. Nationality and appointment tenure remain unverified. Ministry's broader workforce portal also hosts private employers; nonresident labels there do not establish this government role's eligibility.
+    - strong: Collection gap
+    - paragraph: Reader national portal redirected to JavaScript/cookie upgrade page; ordinary browser public listing/detail accessible without login. Off-domain host identity grounded in government homepage link. Job type, citizenship, work authorization, language criteria, full procedures, current amendments and other public authorities need review. External-employment page has separately scoped organizations and expired August row; do not merge with national staffing. No Apply, login, subscription or email-alert action used. No raw originals or accepted connector; no country-wide checked-empty conclusion.
+    - link "Source identification evidence ↗":
+      - /url: https://www.palaugov.pw/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Palau — National Government employment opportunities: Reader national portal redirected to JavaScript/cookie upgrade page; ordinary browser public listing/detail accessible without login. Off-domain host identity grounded in government homepage link. Job type, citizenship, work authorization, language criteria, full procedures, current amendments and other public authorities need review. External-employment page has separately scoped organizations and expired August row; do not merge with national staffing. No Apply, login, subscription or email-alert action used. No raw originals or accepted connector; no country-wide checked-empty conclusion."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Palau opportunities →":
+      - /url: /?country=PW

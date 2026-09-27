@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-09-27T05:40:03.430100+00:00",
+  "phase": 89,
+  "status": "directory preservation verified; browser acceptance passed",
+  "registeredSources": 257,
+  "indiaSources": 108,
+  "japanSources": 10,
+  "usCountrySources": 5,
+  "sourcePresenceJurisdictions": 130,
+  "jurisdictionDenominator": 250,
+  "jurisdictionsWithoutRegisteredSources": 120,
+  "disabledSourcesAdded": 5,
+  "previousRegistryEntriesUnchanged": 252,
+  "previousCoverageRowsUnchanged": 126,
+  "indiaCoverageRowEnriched": true,
+  "healthAndReviewFilesUnchanged": 83,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "humanApprovals": 0,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "browserAcceptance": {
+    "status": "passed",
+    "countriesObserved": [
+      "IN",
+      "SN",
+      "CM",
+      "DZ"
+    ],
+    "sharedFilterChecksCompleted": true
+  },
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "publicDataBuildExitCode": 0,
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "runtimeUnchanged": true,
+  "productionBuildRun": false,
+  "limitations": [
+    "Directory sources are not accepted collectors or reviewed cycles.",
+    "Sample rules do not establish portal-wide eligibility.",
+    "Three-stage personalized eligibility remains unverified.",
+    "Storage choice, founder review, export gate and worldwide audit outstanding.",
+    "Browser acceptance scope recorded separately; pending observations are not passing checks."
+  ]
+}

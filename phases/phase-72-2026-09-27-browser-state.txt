@@ -1,0 +1,489 @@
+LU
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Luxembourg LU" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Luxembourg.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Luxembourg — GovJobs / CGPO recruitment guidance
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Luxembourg — GovJobs public recruitment ↗":
+      - /url: https://govjobs.public.lu/
+    - generic: Government of Luxembourg — GovJobs / CGPO recruitment guidance
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Since 15 September 2026 most common-route recruitment begins with a post application, then integrated EAG and selection; language verification follows selection. General official-language thresholds are chosen order B2/B1/B1 for Luxembourgish, French and German, with exemptions and possible higher post-specific needs. EU/Swiss routes coexist with Luxembourg-only reserved posts and some non-EU education/exception routes. Salarié recruitment has separate rules. Status does not establish permanent tenure; full notice eligibility needs review.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Preserve September reform and transition exceptions; older standalone-EAG prerequisites and language tables cannot drive current rules. Applicant chooses language order, so do not assign fixed B2 to French or Luxembourgish. Exact legislation, exemptions, individual posts and lawful work/residence conditions remain unaccepted.
+    - link "Source identification evidence ↗":
+      - /url: https://govjobs.public.lu/fr/nous-rejoindre/votre-parcours-de-recrutement.html
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Luxembourg — GovJobs public recruitment: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Preserve September reform and transition exceptions; older standalone-EAG prerequisites and language tables cannot drive current rules. Applicant chooses language order, so do not assign fixed B2 to French or Luxembourgish. Exact legislation, exemptions, individual posts and lawful work/residence conditions remain unaccepted."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Luxembourg opportunities →":
+      - /url: /?country=LU
+- button "Open Next.js Dev Tools":
+- alert
+
+CZ
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Czechia CZ" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Czechia.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Ministry of Industry and Trade, Czech Republic
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Czechia — Ministry of Industry and Trade recruitment ↗":
+      - /url: https://mpo.gov.cz/zprava61716.html
+    - generic: Ministry of Industry and Trade, Czech Republic
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Ministry directory separates statutory civil-service posts from Labour Code employment. Live reader page dated 18 September 2026 differs from indexed content dated 24 September. Its service-post deadlines are 23/25 September, while an internal-auditor employment row closes 30 September. No deadline is accepted until individual notices and amendments reconcile. Employment regime does not establish permanent tenure. Citizenship and mandatory language level are unverified.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Ministry Interior vacancy link redirects to an archive, so it is not registered as a current index. Central civil-service portal and other ministries remain gaps. Preserve indexed/live disagreement; do not publish closed service entries as open.
+    - link "Source identification evidence ↗":
+      - /url: https://mpo.gov.cz/zprava61716.html
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Czechia — Ministry of Industry and Trade recruitment: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Ministry Interior vacancy link redirects to an archive, so it is not registered as a current index. Central civil-service portal and other ministries remain gaps. Preserve indexed/live disagreement; do not publish closed service entries as open."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Czechia opportunities →":
+      - /url: /?country=CZ
+
+SK
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Slovakia SK" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Slovakia.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Office of the Government of the Slovak Republic (Úrad vlády SR)
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Slovakia — CISŠS state-service competitions ↗":
+      - /url: https://cisss.gov.sk/
+    - generic: Office of the Government of the Slovak Republic (Úrad vlády SR)
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. CISŠS replaces the old selection portal from 1 June 2024. Current home links advertised competitions. Government guidance last changed 8 March 2021 describes indefinite and fixed-term service; Slovak, EU, EEA and Swiss citizens may seek admission, with reserved posts limited to Slovak citizens. State-language knowledge is required, but no CEFR threshold is given. Current legislation, full post requirements and the new application workflow need review.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Legacy transition page is indexed but direct reader redirects to login error. Do not use pre-migration instructions for current submissions. eID access does not establish citizenship permission. Older general guidance is not accepted as current notice eligibility.
+    - link "Source identification evidence ↗":
+      - /url: https://open.slovensko.sk/VK/Info
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Slovakia — CISŠS state-service competitions: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Legacy transition page is indexed but direct reader redirects to login error. Do not use pre-migration instructions for current submissions. eID access does not establish citizenship permission. Older general guidance is not accepted as current notice eligibility."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Slovakia opportunities →":
+      - /url: /?country=SK
+
+SI
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Slovenia SI" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Slovenia.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Government of Slovenia — GOV.SI vacancy directory
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Slovenia — GOV.SI public vacancies ↗":
+      - /url: https://www.gov.si/zbirke/delovna-mesta/
+    - generic: Government of Slovenia — GOV.SI vacancy directory
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Government vacancy table separates public competitions and other job advertisements, ongoing/closed status, fixed-term/indefinite employment, employer and duty city. September rows show both appointment terms. Table dates and locations need individual employer evidence; duty cities are not examination venues. No current individual nationality rule, language certificate or CEFR threshold was accepted.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Filtered table reader initially worked, then subsequent base/filtered reads failed. Reader failure cannot prove no vacancies or closure. Reconcile individual notices, attached documents and amendments; public competition and other job advertisement are distinct routes.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.si/zbirke/delovna-mesta/?nrOfItems=100&start=0&status=ongoing%40title
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Slovenia — GOV.SI public vacancies: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Filtered table reader initially worked, then subsequent base/filtered reads failed. Reader failure cannot prove no vacancies or closure. Reconcile individual notices, attached documents and amendments; public competition and other job advertisement are distinct routes."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Slovenia opportunities →":
+      - /url: /?country=SI
+
+GR
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Greece GR" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Greece.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Supreme Council for Civil Personnel Selection (ASEP), Greece
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Greece — ASEP recruitment information portal ↗":
+      - /url: https://info.asep.gr/
+    - generic: Supreme Council for Civil Personnel Selection (ASEP), Greece
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. ASEP home links the official information portal for jobs, competitions and announcements. Home announces electronic services and helpdesk unavailable 25–30 September 2026 for maintenance/upgrades. This service outage does not establish application extensions or cancellations. Government service referral names ASEP and describes authenticated submissions and fees. Current cycle eligibility, appointment terms and mandatory language levels remain unknown.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Separate information pages from applicant registry, results and electronic submissions. Do not infer open application cycles from announcements or exam appointments. Service outage notice is research context, not an accepted collector failure or deadline revision.
+    - link "Source identification evidence ↗":
+      - /url: https://www.asep.gr/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Greece — ASEP recruitment information portal: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Separate information pages from applicant registry, results and electronic submissions. Do not infer open application cycles from announcements or exam appointments. Service outage notice is research context, not an accepted collector failure or deadline revision."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Greece opportunities →":
+      - /url: /?country=GR
+
+CY
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Cyprus CY" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Cyprus.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: Public Service Commission, Republic of Cyprus
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Cyprus — Public Service Commission recruitment ↗":
+      - /url: https://www.psc.gov.cy/PSC/psc.nsf/home_en/home_en
+    - generic: Public Service Commission, Republic of Cyprus
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Government service referral identifies the Public Service Commission as responsible for appointment/promotion applications via CY Login. Commission English home confirms authority identity but supplies no vacancy details. English referral contains a contradictory expansion of PSC; responsible department and commission identity support Public Service Commission, while translation requires review. Nationality, appointment type and mandatory language level remain unknown.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. English commission home is identity evidence, not a complete current recruitment index. Official Greek language link reader failed. Obtain current original competition notices and separate promotion from externally open appointments. CY Login does not establish eligibility.
+    - link "Source identification evidence ↗":
+      - /url: https://www.gov.cy/en/service/application-for-appointment-or-promotion-in-the-public-sector/
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Cyprus — Public Service Commission recruitment: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. English commission home is identity evidence, not a complete current recruitment index. Official Greek language link reader failed. Obtain current original competition notices and separate promotion from externally open appointments. CY Login does not establish eligibility."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Cyprus opportunities →":
+      - /url: /?country=CY
+
+MT
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Malta MT" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Malta.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: People & Standards Division, Government of Malta
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Malta — Government recruitment portal ↗":
+      - /url: https://recruitment.gov.mt/en/page/home
+    - generic: People & Standards Division, Government of Malta
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. Portal separates internal/public recruitment. Closed Radiography example (29 December 2025) targets third-country nationals, definite employment, permits/entry conditions, EU-institution degree and professional registration. Closed Dental Technology example (17 July 2026) is indefinite and lists conditional citizenship/residence routes. Both allow alternative English proof by interview and Medical Maltese assessment before appointment confirmation. These historical routes are not general permission for foreign applicants.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Exact English/Maltese originals and general provisions remain unretained; Maltese version controls interpretation. Interview-stage English alternatives include English-taught qualification, listed test certificates or qualifying work experience. IELTS wording and certificate validity require original-version review. Medical Maltese is not inferred CEFR. No unknown official timezone or venue is filled.
+    - link "Source identification evidence ↗":
+      - /url: https://recruitment.gov.mt/en/page/aboutus
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Malta — Government recruitment portal: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Exact English/Maltese originals and general provisions remain unretained; Maltese version controls interpretation. Interview-stage English alternatives include English-taught qualification, listed test certificates or qualifying work experience. IELTS wording and certificate validity require original-version review. Medical Maltese is not inferred CEFR. No unknown official timezone or venue is filled."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Malta opportunities →":
+      - /url: /?country=MT
+
+MD
+- banner:
+  - link "GOV View":
+    - /url: /
+    - generic: GOV View
+  - navigation "Main":
+    - link "Find opportunities":
+      - /url: /
+      - generic: Find opportunities
+    - link "Where we look":
+      - /url: /coverage/
+      - generic: Where we look
+- main:
+  - link "← Worldwide coverage directory":
+    - /url: /coverage/
+  - heading "Republic of Moldova MD" [level=1]
+  - paragraph: Source access blocked or not connected. Official source identified; collection blocked. Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in Republic of Moldova.
+  - paragraph: Not a government website—confirm on official site. Directory built 27 Sept 2026.
+  - term: Public records
+  - definition: "0"
+  - term: Currently approved records
+  - definition: "0"
+  - term: Official sources registered
+  - definition:
+    - link "1 — search sources":
+      - /url: "#official-sources"
+  - term: Sources fetched
+  - definition: "0"
+  - term: Last successful fetch
+  - definition: Never
+  - term: Last validation
+  - definition: Never
+  - heading "Researched authorities" [level=2]
+  - list:
+    - listitem: State Chancellery (Cancelaria de Stat), Republic of Moldova
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 1 registered sources. Source counts are not application-cycle counts.
+  - list:
+    - link "Moldova — Cariere public-service vacancies ↗":
+      - /url: https://cariere.gov.md/ro
+    - generic: State Chancellery (Cancelaria de Stat), Republic of Moldova
+    - generic: "Collection status: Official source linked; adapter not built"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Research only. State Chancellery describes the unified portal for vacant/temporarily vacant public-service positions under the cited public-service framework. Ministry of Justice general conditions PDF lists Moldovan citizenship and state-language knowledge, with no formal language level. PDF is undated; current applicability and exact post conditions need review. Portal partner private job links do not become public-pathway evidence. General publication lead-time is not an application deadline.
+    - strong: Collection gap
+    - paragraph: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Reconcile portal and original employer notices. General citizenship PDF is not a portal-wide foreign-applicant ban for all employment regimes; date and current legislation need review. No account, CV or applicant profile collected; private partner vacancies excluded.
+    - link "Source identification evidence ↗":
+      - /url: https://cariere.gov.md/ro/despre-noi-3477.html
+    - text: · researched 2026-09-27
+  - heading "Known gaps" [level=2]
+  - list:
+    - listitem: "Moldova — Cariere public-service vacancies: Reader-only research; no retained original bytes, adapter, accepted translation or reviewed cycle. Automated access and reuse terms remain unassessed. Current notice-specific nationality, residence, age, qualifications, fees, deadline timezone and selection venues require review. Other authorities and pathways remain gaps. Reconcile portal and original employer notices. General citizenship PDF is not a portal-wide foreign-applicant ban for all employment regimes; date and current legislation need review. No account, CV or applicant profile collected; private partner vacancies excluded."
+  - paragraph: Worldwide authority coverage and source completeness have not passed independent audit.
+  - paragraph:
+    - link "Browse Republic of Moldova opportunities →":
+      - /url: /?country=MD

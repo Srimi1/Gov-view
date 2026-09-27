@@ -1,0 +1,58 @@
+{
+  "phase": 93,
+  "status": "passed",
+  "countries": {
+    "IN": {
+      "currentPreview": true,
+      "registeredSources": 117,
+      "eilFilterMatches": 1,
+      "ritesFilterMatches": 1,
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://recruitment.eil.co.in/",
+        "https://www.rites.com/Career"
+      ]
+    },
+    "MW": {
+      "currentPreview": true,
+      "registeredSources": 2,
+      "researchedAuthorities": 2,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.malawi.gov.mw/index.php/resources/news-and-media/advertisements",
+        "https://judiciary.mw/"
+      ]
+    },
+    "SZ": {
+      "currentPreview": true,
+      "registeredSources": 1,
+      "researchedAuthorities": 1,
+      "publicListings": 0,
+      "sourcesFetched": 0,
+      "lastSuccessfulFetch": "Never",
+      "lastValidation": "Never",
+      "reviewWarning": true,
+      "newSourceLinks": [
+        "https://www.gov.sz/index.php?id=206&view=category"
+      ]
+    }
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores117": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=Engineers%20India%20Limited#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-93-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timeout and pre-hydration default117 resolved after hydration to EIL one of117.",
+    "EIL/RITES official hrefs inspected directly; both filters one of117; clear117 and query removed.",
+    "MW2sources/twoauthorities and SZ1/oneauthority; each zero public/fetched, Never fetch/validation, explicit review and gaps.",
+    "Fresh shared India view initially pre-hydration117, then one of117 with Engineers India Limited query restored without interaction.",
+    "Local screenshot saved and visually checked; fresh shared tab retained. No browser protection changes."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

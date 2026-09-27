@@ -1,0 +1,29 @@
+{
+  "initialSpecFindings": [
+    {
+      "severity": "P2",
+      "finding": "Prior examination permission placed at outcome",
+      "status": "resolved",
+      "fix": "Selection-stage prerequisite; release/resignation remains at outcome"
+    }
+  ],
+  "initialStandardsFindings": [
+    {
+      "severity": "P1",
+      "finding": "Single/unquoted amendment links ignored",
+      "status": "resolved",
+      "fix": "Count all supported HTML attribute forms"
+    },
+    {
+      "severity": "P1",
+      "finding": "Dashboard outside-row amendments ignored",
+      "status": "resolved",
+      "fix": "Validate full matching 2026 notice section"
+    }
+  ],
+  "resolutionReview": {
+    "spec": "No remaining finding in revised lines",
+    "standards": "No remaining finding in fixes reviewed"
+  },
+  "scope": "Phase 68 only; not whole repository or worldwide completeness"
+}

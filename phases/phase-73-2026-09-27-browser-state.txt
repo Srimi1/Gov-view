@@ -1,0 +1,340 @@
+4 of 99 registered sources · Himachal Pradesh. Source counts are not application-cycle counts.
+
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Source jurisdiction
+  - combobox "Source jurisdiction":
+    - option "All source jurisdictions"
+    - option "Andaman and Nicobar Islands"
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli and Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh" [selected]
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra"
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - paragraph: Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.
+  - checkbox "Include sources without a recorded state or territory scope"
+  - text: Include sources without a recorded state or territory scope
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 4 of 99 registered sources · Himachal Pradesh. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Himachal Pradesh Public Service Commission ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - generic: Himachal Pradesh Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified."
+    - strong: Collection gap
+    - paragraph: Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp.
+    - link "Source identification evidence ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - text: · researched 2026-09-25
+    - link "Himachal Pradesh Rajya Chayan Aayog ↗":
+      - /url: https://hprca.hp.gov.in/
+    - generic: Himachal Pradesh Rajya Chayan Aayog, Government of Himachal Pradesh
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Separate state recruitment authority from HPPSC. The state government's vacancies page links this exact .gov.in host. The homepage and recent notices are visible in ordinary browser research, but no notice details or applicant criteria are imported. The similarly named hprca.in site is not used as an official source.
+    - strong: Collection gap
+    - paragraph: hprca.hp.gov.in/robots.txt returns HTTP 200 text/html containing the application shell, not a text/plain robots policy. The collector cannot establish permission for automated notice collection; no HPRCA cycles are staged or published.
+    - link "Source identification evidence ↗":
+      - /url: https://himachal.nic.in/Content/HtmlPage?qs=LdEF+AuYkB6xEcpFMHdArg%3D%3D
+    - text: · researched 2026-09-25
+    - link "HP Forest Department — JOA (IT) PwBD intake ↗":
+      - /url: https://hpforest.gov.in/recruitments
+    - generic: Himachal Pradesh Forest Department
+    - generic: "Collection status: Draft collection; founder review pending (1 draft); checked 25 Sept 2026"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Exact scanned-PDF connector for one JOA (IT) PwBD contract application, two reserved posts. Original notice prints conflicting application receipt dates (30 September schedule versus 10 October signed note), so deadline is unknown and status uncertain. Indian citizenship and bona fide Himachal residence are explicit; English/Hindi typing speeds are alternatives, not formal language levels.
+    - strong: Collection gap
+    - paragraph: Only this Forest Department notice is extracted. Other HP Forest recruitment rows, HPPSC, HPRCA and Jal Shakti remain unresolved; JSV robots policy was unreachable on collection host.
+    - link "Source identification evidence ↗":
+      - /url: https://hpforest.gov.in/recruitments
+    - text: · researched 2026-09-25
+    - link "Himachal Pradesh Jal Shakti Vibhag — Recruitment ↗":
+      - /url: https://jsv.hp.gov.in/Home/TableEntryPage?ms=h%2Fyhm1mKjnA9Q3v8n1lz%2FfEKxjyZ7mim03hiLdkahwFacFM%2FtTAfh%2F9qwq3eAJ60
+    - generic: Jal Shakti Vibhag, Government of Himachal Pradesh
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Official index displayed September 2026 division-level recruitment notices during manual research. No original applicant notice was retained under the project collector, so no deadline or eligibility is imported.
+    - strong: Collection gap
+    - paragraph: On 25 September 2026 the collector could not reach jsv.hp.gov.in/robots.txt; collection is disabled until access policy can be established.
+    - link "Source identification evidence ↗":
+      - /url: https://jsv.hp.gov.in/Home/TableEntryPage?ms=h%2Fyhm1mKjnA9Q3v8n1lz%2FfEKxjyZ7mim03hiLdkahwFacFM%2FtTAfh%2F9qwq3eAJ60
+    - text: · researched 2026-09-25
+
+
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Source jurisdiction
+  - combobox "Source jurisdiction":
+    - option "All source jurisdictions"
+    - option "Andaman and Nicobar Islands"
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli and Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh" [selected]
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra"
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - paragraph: Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.
+  - checkbox "Include sources without a recorded state or territory scope"
+  - text: Include sources without a recorded state or territory scope
+  - text: Search official sources
+  - searchbox "Search official sources" [active]: Hindi
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 2 of 99 registered sources · Himachal Pradesh. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Himachal Pradesh Public Service Commission ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - generic: Himachal Pradesh Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified."
+    - strong: Collection gap
+    - paragraph: Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp.
+    - link "Source identification evidence ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - text: · researched 2026-09-25
+    - link "HP Forest Department — JOA (IT) PwBD intake ↗":
+      - /url: https://hpforest.gov.in/recruitments
+    - generic: Himachal Pradesh Forest Department
+    - generic: "Collection status: Draft collection; founder review pending (1 draft); checked 25 Sept 2026"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Exact scanned-PDF connector for one JOA (IT) PwBD contract application, two reserved posts. Original notice prints conflicting application receipt dates (30 September schedule versus 10 October signed note), so deadline is unknown and status uncertain. Indian citizenship and bona fide Himachal residence are explicit; English/Hindi typing speeds are alternatives, not formal language levels.
+    - strong: Collection gap
+    - paragraph: Only this Forest Department notice is extracted. Other HP Forest recruitment rows, HPPSC, HPRCA and Jal Shakti remain unresolved; JSV robots policy was unreachable on collection host.
+    - link "Source identification evidence ↗":
+      - /url: https://hpforest.gov.in/recruitments
+    - text: · researched 2026-09-25
+
+
+4 of 99 registered sources · Maharashtra. Source counts are not application-cycle counts.
+
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Source jurisdiction
+  - combobox "Source jurisdiction":
+    - option "All source jurisdictions"
+    - option "Andaman and Nicobar Islands"
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli and Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh"
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra" [selected]
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - paragraph: Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.
+  - checkbox "Include sources without a recorded state or territory scope"
+  - text: Include sources without a recorded state or territory scope
+  - text: Search official sources
+  - searchbox "Search official sources"
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 4 of 99 registered sources · Maharashtra. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04 ↗":
+      - /url: https://dmer.maharashtra.gov.in/english/home-news-content/
+    - generic: Government Medical College Nashik / Directorate of Medical Education and Research, Maharashtra
+    - generic: "Collection status: Draft collection; founder review pending (1 draft); checked 25 Sept 2026"
+    - generic: "Jurisdiction: Maharashtra (IN-MH)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Review-only September 2026 call for eight temporary contractual Professor, Associate Professor and Assistant Professor vacancies in six subjects at GMC Nashik. Notice page 1 prints applications 21–28 September, 11:00–17:00, without named timezone, and an interview on 7 October. Multiple application delivery routes are described. Foreign-citizen eligibility and formal language level are not stated; subject/rank qualifications and Maharashtra-institution priority need individual review.
+    - strong: Collection gap
+    - paragraph: Only advertisement 04 is bound. Later corrigenda, other DMER colleges, rank-specific qualification checks, nationality and licensing route, application receipt semantics, and selection changes remain gaps. Founder review required before publication.
+    - link "Source identification evidence ↗":
+      - /url: https://dmer.maharashtra.gov.in/english/home-news-content/
+    - text: · researched 2026-09-25
+    - link "Maharashtra Public Service Commission ↗":
+      - /url: https://mpsc.gov.in/
+    - generic: Maharashtra Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Maharashtra (IN-MH)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Reader-only browser research confirms official MPSC home, footer dated 24 September 2026, showing interview schedule 105/2025, revised candidate instructions, FAQ and examination/typing guidance. Interview, answer-sheet and mock-test announcements do not establish fresh application windows. Revised-instructions link did not expose its document during this check. No individual appointment type, foreign-citizen rule or mandatory language level was accepted; English interface is not a proficiency requirement.
+    - strong: Collection gap
+    - paragraph: Earlier public notice API robots restrictions remain unresolved. Reader initially failed; ordinary browser subsequently displayed the official homepage, but no current original advertisement or revised-instructions document was read. Browser rendering does not clear scheduled collector access or prove complete/empty vacancy coverage. Permitted feed, exact notices and amendment history remain required; no new original bytes, health timestamp, connector or review packet.
+    - link "Source identification evidence ↗":
+      - /url: https://www.upsc.gov.in/external-links/state-public-service-commissions
+    - text: · researched 2026-09-25
+    - link "Tata Memorial Centre ACTREC — public recruitment ↗":
+      - /url: https://www.actrec.gov.in/jobs
+    - generic: Tata Memorial Centre ACTREC (Department of Atomic Energy grant-in-aid institution)
+    - generic: "Collection status: Draft collection; founder review pending (1 draft); checked 25 Sept 2026"
+    - generic: "Jurisdiction: Maharashtra (IN-MH)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: Draft-only exact-document pilot for Senior Resident, Transfusion Medicine, advertisement 198/2026. Indian nationals only; 8 October 2026 17:30 IST deadline, ₹100 application fee and separate joining deposit. No formal language level printed. Other ACTREC job rows remain gaps; Maharashtra PSC access restriction remains separate.
+    - link "Source identification evidence ↗":
+      - /url: https://www.actrec.gov.in/jobs
+    - text: · researched 2026-09-25
+    - link "Pune Divisional Commissioner — Legal Officer 2026 ↗":
+      - /url: https://divcompune.maharashtra.gov.in/en/recruitment/
+    - generic: Divisional Commissioner Office, Pune Division, Government of Maharashtra
+    - generic: "Collection status: Draft collection; founder review pending (1 draft); checked 25 Sept 2026"
+    - generic: "Jurisdiction: Maharashtra (IN-MH)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: One closed 2026 Legal Officer contract notice staged. Marathi notice gives a 31 August date-only application receipt deadline and adequate Marathi, Hindi and English knowledge without a formal level. No foreign-citizen rule was found; international eligibility remains unverified. Maharashtra PSC access restriction remains separate.
+    - strong: Collection gap
+    - paragraph: Only this Pune Division notice is covered. Other district, divisional and state departments, later amendments and Maharashtra PSC notices remain gaps.
+    - link "Source identification evidence ↗":
+      - /url: https://divcompune.maharashtra.gov.in/en/recruitment/
+    - text: · researched 2026-09-25
+
+
+  - heading "Official sources" [level=2]
+  - paragraph: Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+  - text: Source jurisdiction
+  - combobox "Source jurisdiction":
+    - option "All source jurisdictions"
+    - option "Andaman and Nicobar Islands"
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli and Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh" [selected]
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra"
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - paragraph: Filters recorded source scope. It does not test applicant residence, citizenship or eligibility.
+  - checkbox "Include sources without a recorded state or territory scope"
+  - text: Include sources without a recorded state or territory scope
+  - text: Search official sources
+  - searchbox "Search official sources" [active]: 63/9
+  - paragraph: Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+  - status: 1 of 99 registered sources · Himachal Pradesh. Source counts are not application-cycle counts.
+  - button "Clear source filters"
+  - list:
+    - link "Himachal Pradesh Public Service Commission ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - generic: Himachal Pradesh Public Service Commission
+    - generic: "Collection status: Official source linked; adapter not built"
+    - generic: "Jurisdiction: Himachal Pradesh (IN-HP)"
+    - strong: Applicant and source research — awaiting review
+    - paragraph: "Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified."
+    - strong: Collection gap
+    - paragraph: Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp.
+    - link "Source identification evidence ↗":
+      - /url: https://hppsc.hp.gov.in/Home/
+    - text: · researched 2026-09-25

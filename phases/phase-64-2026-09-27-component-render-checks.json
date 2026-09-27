@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-26T22:15:55.146Z",
+  "checks": [
+    {
+      "country": "IN",
+      "registeredSources": 93,
+      "renderedResearchCards": 93
+    },
+    {
+      "country": "JP",
+      "registeredSources": 7,
+      "renderedResearchCards": 7
+    },
+    {
+      "country": "US",
+      "registeredSources": 5,
+      "renderedResearchCards": 5
+    },
+    {
+      "country": "GH",
+      "registeredSources": 1,
+      "renderedResearchCards": 1
+    }
+  ],
+  "sourceNotesEscaped": true,
+  "scope": "React server render only; not browser interactions or Next page compilation."
+}

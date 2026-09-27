@@ -1,0 +1,101 @@
+{
+  "savedAt": "2026-09-27T04:14:55.747430+00:00",
+  "status": "verified official-source directory expansion",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 26953,
+      "sha256": "47f4d99fd48968547bfe7ba139f17d9561cd10f3946aae17c702e8f29b10af49"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70908,
+      "sha256": "4adf423c2f221ae8dabb9de36008d7f42d9d7054e66ee132cc0e13daae19e7b5"
+    },
+    {
+      "path": "data/discovery/india-employment-news-micronesia-cook-islands-palau-recruitment-2026-09-27.json",
+      "bytes": 20759,
+      "sha256": "70f5beb67baf86cbc0b078d48eb9eaad11876ffed8e38ec478ee7858d09b886d"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 215813,
+      "sha256": "8f0626b4120325186500d73753b99e2d9a33771371ae31ff631eb9d378196495"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-baseline.json",
+      "bytes": 579151,
+      "sha256": "ddd7a117fdd2cf42c8954790a475cba3b45e85d10241209ab6f865360ca90ae3"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-browser-checks.json",
+      "bytes": 1080,
+      "sha256": "d747910621a92d2b1f807a01b9a43932750bfc28f6d1fb1a3679f3ac8139f2ea"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-browser-state.txt",
+      "bytes": 16011,
+      "sha256": "0b00ee24c72e0cd59e71469d4068216e11f1812eef764aeb377e04771311369d"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-focused-tests.txt",
+      "bytes": 669,
+      "sha256": "9330123a529d8e6ca66ef054d40dd6d6659e0d39dd1a377ee01b7f3951caa077"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-prepare.py",
+      "bytes": 4640,
+      "sha256": "aec2c8085bfa1521464f2eed04e2efed3a35a25c7b2a3fd8c013e200b199bab9"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-process-results.json",
+      "bytes": 2256,
+      "sha256": "a4b12b1e32a3f892e41084a28f48a702be84d091ab1dc3cf47c637621c33139d"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-research-input.json",
+      "bytes": 13089,
+      "sha256": "60cc7b27ffc6e5348cfdd017eee1c1df43eb28105f807cd7efd24b54d1cc2e7b"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-source-config.json",
+      "bytes": 8343,
+      "sha256": "8fe5287e6fb47b4ac5378acaaa603da5c7d19d923e93d9543d57faf917f57f4b"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-verification.json",
+      "bytes": 1372,
+      "sha256": "be5c13156b18e5dc1bf56bdc53c05a2f3dfe9c290c365e039acd8b87ba42d8f0"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-verify.py",
+      "bytes": 6713,
+      "sha256": "1baa4961b60c3d4c8349db98603e7c63fd5e68c0f41b76020e6ef3be351891c6"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 7226,
+      "sha256": "4951f80179692bbe1c5d7749f29840da38a3b0b56e46b13edec999ab88fb5d1c"
+    },
+    {
+      "path": "phases/phase-84-2026-09-27-worldwide-source-expansion.png",
+      "bytes": 238696,
+      "sha256": "11015c04a2cb1012370626c34b411f6956bc8d446693b1e56db848693e5f8e34"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "9e46973cfccc27ecc93f0dd15c51f6e9f9a733719b9a51d5c714a4f76e5f2c3b"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 353208,
+      "sha256": "172f66869c8bf182929cd3617d987b87d2849f7c1a6368042d4265ebb0447790"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "phase": 92,
+  "status": "passed",
+  "countries": {
+    "IN": {"currentPreview": true, "registeredSources": 115, "sailFilterMatches": 1, "gailFullNameFilterMatches": 1, "reviewWarning": true, "newSourceLinks": ["https://sailcareers.com/", "https://www.gailonline.com/Vacancies.html"]},
+    "SL": {"currentPreview": true, "registeredSources": 1, "publicListings": 0, "sourcesFetched": 0, "lastSuccessfulFetch": "Never", "lastValidation": "Never", "reviewWarning": true, "newSourceLinks": ["https://www.psc.gov.sl/careers"]},
+    "LR": {"currentPreview": true, "registeredSources": 2, "researchedAuthorities": 2, "publicListings": 0, "sourcesFetched": 0, "lastSuccessfulFetch": "Never", "lastValidation": "Never", "reviewWarning": true, "newSourceLinks": ["https://csa.gov.lr/civil-service-jobs/", "https://gac.gov.lr/career-elements/"]}
+  },
+  "sharedIndiaViewRestored": true,
+  "indiaClearRestores115": true,
+  "shareURL": "http://localhost:3003/coverage/IN/?sourceQuery=Steel%20Authority%20of%20India#official-sources",
+  "shareContainsOnlyPublicDisplayState": true,
+  "screenshot": "phases/phase-92-2026-09-27-source-preview.png",
+  "failures": [],
+  "observations": [
+    "Initial India navigation timeout and pre-hydration 115 default resolved in same tab to SAIL one of 115; server request completed 200 after 29.6 seconds.",
+    "GAIL full-name filter one of 115; SAIL/GAIL official href values inspected directly. Both display research warning and gaps.",
+    "Clear restored all 115 and removed sourceQuery.",
+    "SL one source with HTTP 403 gap, LR two sources/two authorities with shortcode and original-date conflict; both zero public/fetched, Never fetch/validation.",
+    "Fresh SAIL share initial navigation timeout resolved in same tab; query and one of 115 restored after hydration.",
+    "Local screenshot saved and visually checked; shared tab retained. No browser protection changes."
+  ],
+  "scope": "Directory and public filter checks only; no extraction acceptance or worldwide audit."
+}

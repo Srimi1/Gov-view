@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-09-27T01:55:43.645223+00:00",
+  "phase": 76,
+  "status": "verified India reader-research checkpoint",
+  "registeredSources": 210,
+  "indiaSources": 99,
+  "sourcePresenceJurisdictions": 94,
+  "jurisdictionDenominator": 250,
+  "sourcesEnriched": 2,
+  "otherSourcesUnchanged": 208,
+  "coverageGapEdits": 4,
+  "otherCoverageRowsUnchanged": 93,
+  "healthAndReviewFilesUnchanged": 83,
+  "pendingPackets": 82,
+  "pendingCycles": 328,
+  "publicListings": 0,
+  "newHealthTimestamps": 0,
+  "evidenceFiles": 2355,
+  "logicalEvidenceBytes": 871622022,
+  "collectorCapBytes": 838860800,
+  "evidenceBytesAdded": 0,
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0,
+    "exitCode": 0
+  },
+  "publicDataBuild": {
+    "exitCode": 0
+  },
+  "priorFullSuite": {
+    "phase": 69,
+    "passed": 362,
+    "typecheckExitCode": 0,
+    "runtimeFilesUnchanged": true,
+    "rerunThisPhase": false
+  },
+  "localReadRetries": [],
+  "limitations": [
+    "No new cycle or exact original evidence retained.",
+    "Three-stage eligibility still needs verification.",
+    "Source presence is not complete coverage.",
+    "Storage choice, founder review, export gate and worldwide audit unresolved."
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "savedAt": "2026-09-26T23:30:28.433935+00:00",
+  "protectedFilesUnchangedAfterPublicBuild": 83,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 70730,
+      "sha256": "b09ce1f8eff9196b3752bb34d0a8eba76ae69454d50d68e1da7e30d0077f7e58"
+    },
+    {
+      "path": "data/discovery/latin-america-public-source-matrix-2026-09-27.json",
+      "bytes": 32721,
+      "sha256": "9183a92c2b42a1ad68cdc45408988e5498e6791f730c3574ccff6c2a163727c8"
+    },
+    {
+      "path": "data/discovery/latin-america-public-sources-2026-09-27-fetch-outcomes.json",
+      "bytes": 15443,
+      "sha256": "0b94c1d4e84327f7d70138be2a0192105c5208aeb4eaa7dc6bbddd32d6c30aca"
+    },
+    {
+      "path": "data/discovery/latin-america-public-sources-2026-09-27-requests.json",
+      "bytes": 5071,
+      "sha256": "ff997876755ebe1f771544d128088b9fb5984fa32aca7ce00f0a422e737b7af2"
+    },
+    {
+      "path": "data/discovery/latin-america-public-sources-2026-09-27-research.json",
+      "bytes": 1650,
+      "sha256": "fb3385b2a7f5494e2669f1166fcfb7c3cc466b44602c935ac936c53730f21c36"
+    },
+    {
+      "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-authority-directory-2026-09-27.html",
+      "bytes": 35809,
+      "sha256": "9ce131ca87ab5fc6e88b5178dae5f2f32bb6dab4e39f9b0d4d415d1f315d2f21"
+    },
+    {
+      "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-general-faq-2026-09-27.html",
+      "bytes": 48773,
+      "sha256": "8e3854045e7fab874d6d552d121a677bbdaa09f934f6d70d57f39ec1218307f3"
+    },
+    {
+      "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-museum-call-2026-2026-09-27.html",
+      "bytes": 37311,
+      "sha256": "ff3e1ff05ce39e3987a6e12ad843910408517d71e216b834a5176c05239237ff"
+    },
+    {
+      "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-museum-historico-2026-bases-2026-09-27.pdf",
+      "bytes": 813159,
+      "sha256": "185c77cf3fdb049a499e4a7db7c3a3cb86971b6c9db6d59e3acc2c1d4663e1bb"
+    },
+    {
+      "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-applicant-eligible-registers-2026-09-27.html",
+      "bytes": 56528,
+      "sha256": "80e33a1418ae475982381e529fcb0f953c8e7816cddfc236dbf6946a110bd66a"
+    },
+    {
+      "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-authority-faq-2026-09-27.html",
+      "bytes": 59821,
+      "sha256": "2f1543b8d1c18880d6c6c1a1b75d91a15bb4eedbe4a738b4dfde0f6df5ef64e0"
+    },
+    {
+      "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-vacancy-register-2026-09-27.html",
+      "bytes": 3564151,
+      "sha256": "7bb98ee070d6de12ea837f6c3c4c504d41dbaae30f2464fffbc034c6edf62476"
+    },
+    {
+      "path": "data/evidence/research/latam67-do-map-concursa-environmental-educator-september-2026-2026-09-27.pdf",
+      "bytes": 234712,
+      "sha256": "a79109620c0059bee5ad374f8ae267af1754145b3e7c3b220c5d52d3d1c34747"
+    },
+    {
+      "path": "data/evidence/research/latam67-do-map-concursa-inclusive-labour-relations-register-2026-2026-09-27.pdf",
+      "bytes": 245187,
+      "sha256": "539cd80fc831ef511f319efaaa303adb7a4155d239496d41712153af910a2941"
+    },
+    {
+      "path": "data/evidence/research/latam67-do-map-concursa-inclusive-register-2026-2026-09-27.html",
+      "bytes": 168762,
+      "sha256": "ad36a5f8dc053b28d4a209ce8e951fb5abc823a765c56b54391576ab40a45a43"
+    },
+    {
+      "path": "data/evidence/research/latam67-do-map-concursa-public-contests-2026-09-27.html",
+      "bytes": 73415,
+      "sha256": "ab67368d6e4455a6c5355b8ecde06794d408071f02fe7b89413d5aa505c8465b"
+    },
+    {
+      "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-authority-faq-2026-09-27-failure.json",
+      "bytes": 479,
+      "sha256": "26169739c2e33507b94df3f4e76146a521e82b62e78e61e9cf8473de97cc1c7a"
+    },
+    {
+      "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-authority-home-2026-09-27-failure.json",
+      "bytes": 434,
+      "sha256": "ec9204de5e09463a3b24aa9ddfd1ca044f6518262f345a20095199e744ffc6f0"
+    },
+    {
+      "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-selection-authority-2026-09-27-failure.json",
+      "bytes": 452,
+      "sha256": "068efb0f0c9fb75421f49304435a38e1ca37195e18ad8a21ae1f45289b3ed0d2"
+    },
+    {
+      "path": "data/evidence/research/latam67-gt-onsec-guatempleo-authority-home-2026-09-27-failure.json",
+      "bytes": 373,
+      "sha256": "e9ac0b3531fe5b6f2290ec4b01ada573c97591d639d8bee3fe3bbe19f7df6677"
+    },
+    {
+      "path": "data/evidence/research/latam67-gt-onsec-guatempleo-historical-authority-referral-2019-2026-09-27-failure.json",
+      "bytes": 482,
+      "sha256": "0d339eeb3dba48c96b5d2aa5ba9e4243f60307a0c7b7c6affa981be7f4ac6bed"
+    },
+    {
+      "path": "data/evidence/research/latam67-gt-onsec-guatempleo-public-portal-2026-09-27-failure.json",
+      "bytes": 385,
+      "sha256": "506a5652c4d307b13641c20d19692333cd9da186613a11feb63cc750c15d5596"
+    },
+    {
+      "path": "data/evidence/research/latam67-pe-servir-talento-peru-authority-campaign-2026-09-27.html",
+      "bytes": 76243,
+      "sha256": "26c4d9b33693ce6b9cfe3c96e534dd5985ba096e041135ab2c19f8902e6fc23a"
+    },
+    {
+      "path": "data/evidence/research/latam67-pe-servir-talento-peru-authority-service-referral-2026-09-27.html",
+      "bytes": 34113,
+      "sha256": "85cb003118a1c8892af8df06274e166b6b0c507d054f6fb4cb0256947279c382"
+    },
+    {
+      "path": "data/evidence/research/latam67-pe-servir-talento-peru-servir-employer-routes-2026-09-27.html",
+      "bytes": 28013,
+      "sha256": "f1c5111956edc53c122a53e20ced38bd383a54d400cb14a010db90752267fad6"
+    },
+    {
+      "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-authority-referral-2026-09-27.html",
+      "bytes": 53282,
+      "sha256": "cccb174f26a221f66a20eb31f88c30ecedd5f4462af932a36d891bac54714116"
+    },
+    {
+      "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-employer-contests-2026-09-27.html",
+      "bytes": 37359,
+      "sha256": "48116ab26721378108d4a6b3ac1f23cd54cad3ead8b8ace4e41feacadefa73ff"
+    },
+    {
+      "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-public-portal-2026-09-27-failure.json",
+      "bytes": 406,
+      "sha256": "5ba8ce597868ea0b22125951d437530cf9ed54dad510bcf364a0d111fa030462"
+    },
+    {
+      "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-government-referral-2026-09-27.html",
+      "bytes": 41261,
+      "sha256": "28a695723c2c20caf0e7b23565db866cf271d83d29eed58068a32ee0fd40c1d4"
+    },
+    {
+      "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-legal-citizenship-service-2026-09-27.html",
+      "bytes": 50921,
+      "sha256": "2ccd7a6962cf25eafa7cf95f5bef88bd3d6f527f6c1f3c93a42010c279447022"
+    },
+    {
+      "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-soriano-masonry-8184-2026-2026-09-27-failure.json",
+      "bytes": 465,
+      "sha256": "fb296b96382c6a1671ecd91fc264e9505ecd9c3cec82b7ce2aae0399da51c2eb"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 158687,
+      "sha256": "30f9e53fc923e0d30c5884a205bb6f0016b88a70b7636d1f5c436fae7947f061"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-ar-concursar-public-recruitment-authority-directory.txt",
+      "bytes": 1272,
+      "sha256": "03a36b1017a080dc524804b063ed3d192e4228e1a1bd08dc23329a4bf74960bf"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-ar-concursar-public-recruitment-general-faq.txt",
+      "bytes": 9736,
+      "sha256": "d5a0f359cf55ef556536580255ce466771675f934e1b638ee7124386d3bd8086"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-ar-concursar-public-recruitment-museum-call-2026.txt",
+      "bytes": 2977,
+      "sha256": "cfd710d92ed0c6b58cce6546c3e68d6deea5f74a1f3727c5fdbf9fb1b6137287"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-ar-concursar-public-recruitment-museum-historico-2026-bases.txt",
+      "bytes": 78296,
+      "sha256": "0a75960eba28858689f3a65535125640ca98e73cf289646a403cd62e1849f526"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-baseline.json",
+      "bytes": 400034,
+      "sha256": "c0a7c22a362ce4b7790275668939138d64a3f30dfe775433da5d70c5903f0927"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-browser-checks.json",
+      "bytes": 745,
+      "sha256": "23381031150141e0e277430578a7dfae46eb9663448743caa02f06b7ac888a96"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-browser-state.txt",
+      "bytes": 5391,
+      "sha256": "f11ceb39d891c80449c380237d57fb1574c3c221833a4af28cd51675b68da1a1"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-cr-dgsc-public-recruitment-applicant-eligible-registers.txt",
+      "bytes": 17852,
+      "sha256": "799fe4acf61fabe7f1bf56ee148aaa726fea1eec076482175ce2c21dfc0a5342"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-cr-dgsc-public-recruitment-authority-faq.txt",
+      "bytes": 41653,
+      "sha256": "aa2b0c653beb9b2eda20b56e97ebc4d76471971383ba4bdf3861f36e1137e36e"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-cr-dgsc-public-recruitment-vacancy-register.txt",
+      "bytes": 721632,
+      "sha256": "8b60b7edd77ef34a14aa4b2ab31ec5d2735faa21e518eca23948a2eeed0717d3"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-do-map-concursa-environmental-educator-september-2026.txt",
+      "bytes": 12226,
+      "sha256": "f26bab36479c8ecf25a5d2a6e430f4146bd73214aa592ae3b24921868b5e1720"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-do-map-concursa-inclusive-labour-relations-register-2026.txt",
+      "bytes": 15694,
+      "sha256": "fe5d95eafdfee00125f6a509125002dc946addfc4a08beb863fb2bdb7afaf0cc"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-do-map-concursa-inclusive-register-2026.txt",
+      "bytes": 8749,
+      "sha256": "5c0b6af2e052d496296f508ca0e16598c6a66c3025a642d40c553da3d72b577a"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-do-map-concursa-public-contests.txt",
+      "bytes": 10503,
+      "sha256": "2155940c6ff27172c7fb95e964172607a53a774cd4ccc52775ec4123d7bcac4d"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-fetch-research.mjs",
+      "bytes": 2457,
+      "sha256": "89f8a5ff12585128e1338f7938e9c172928bf2a2d12f085963f258bce9fcb7ce"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-format-corrections.json",
+      "bytes": 683,
+      "sha256": "cb2f3516502d18eacb63ae5f8c02204d48471faaaf1c4a941acffa5598445ee0"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-latin-american-public-sources.md",
+      "bytes": 7990,
+      "sha256": "b333c06ffed6eea914f23d5dcd41926d0ac341c129d62d7cb134c4e602189377"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-metrics.json",
+      "bytes": 2222,
+      "sha256": "b2e451f216ab4521bd91d4a7ee95156542ddcd24f6434b9904ddfee13585f24c"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-nationality-source-search.png",
+      "bytes": 188794,
+      "sha256": "75e8dcaf09b76b835d83b0e1376751c8fd5de89f13befb56aa4f82b34b03b422"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-pe-servir-talento-peru-authority-campaign.txt",
+      "bytes": 4088,
+      "sha256": "245f7de73ec9f7dd7da45fc1cda3f54e2a618a1a49afaf7607406f35b748424c"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-pe-servir-talento-peru-authority-service-referral.txt",
+      "bytes": 1504,
+      "sha256": "3168185134f027e8fa0a67c69d5c36d94e0073571a40ac1a7d66adcf449903ba"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-pe-servir-talento-peru-servir-employer-routes.txt",
+      "bytes": 1116,
+      "sha256": "1bfc7677847181167b15ed0c4eefb20927ec662a7347625be15710cbb0f0aba9"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-prepare.py",
+      "bytes": 4475,
+      "sha256": "321c52d6ccf38c2311d42efff142c2ee9fa5a1e445689466daac6fc16ef5fdfa"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-py-mef-paraguay-concursa-authority-referral.txt",
+      "bytes": 5211,
+      "sha256": "dbe641ad4fbf3987281d9eec67c0db3578cb6fecada23586685246e0d84cabfa"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-py-mef-paraguay-concursa-employer-contests.txt",
+      "bytes": 4393,
+      "sha256": "1a16b2ae0d405dc873d0b1a0d5157a20a25712e205e355e55a0121c9123404b2"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-readme-before.md",
+      "bytes": 70683,
+      "sha256": "1585e87765694b1e895a76203d77c3b70d82471b2eafc3e610ac94f7e11f7731"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-save-research.py",
+      "bytes": 17069,
+      "sha256": "cfcc3cc153a6accd7a84d0d00c07e5257892d5937c0b3df5650667221787619d"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-test-results.txt",
+      "bytes": 303,
+      "sha256": "d6cfcc36072cde5651bd56f03d64e528a8ac2d3127554da37b7736b0883d14c2"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-uy-onsc-uruguay-concursa-government-referral.txt",
+      "bytes": 4742,
+      "sha256": "d47eabdbc0b0527fe6877d94999b62cb38cc7a4a875895c220b334a0596b22aa"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-uy-onsc-uruguay-concursa-legal-citizenship-service.txt",
+      "bytes": 12808,
+      "sha256": "c6c53c53b08051fd56f387161e67eef9ef430f86079504216e5884cd7935af8f"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-verification.json",
+      "bytes": 1808,
+      "sha256": "41933100b1200328d038d01f83180299aa3cf4304485297ea2b80cb7b578091c"
+    },
+    {
+      "path": "phases/phase-67-2026-09-27-verify.py",
+      "bytes": 6032,
+      "sha256": "d598f66207d05e5f76f176fe00ebfaaac3fbab5bb9dff64a1957c0aeef8d11af"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 242715,
+      "sha256": "6ed66db54dc39b19a5a7d3f8d55377922aec46af1524778a91ee4a8590e30a15"
+    }
+  ]
+}

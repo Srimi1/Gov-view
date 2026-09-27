@@ -1,0 +1,59 @@
+{
+  "phase": 67,
+  "checkedAt": "2026-09-26T23:30:28.433935+00:00",
+  "verificationRuntime": "Python standard library with bounded child-process file reads. All protected hashes checked against the pre-research baseline.",
+  "localFileReadRetries": [],
+  "registeredSources": 182,
+  "indiaSources": 98,
+  "existingSourcesUnchanged": 174,
+  "newSources": 8,
+  "allNewSourcesDisabledReviewRequired": true,
+  "existingCoverageRowsUnchanged": 62,
+  "newJurisdictions": [
+    "AR",
+    "PE",
+    "EC",
+    "UY",
+    "CR",
+    "DO",
+    "PY",
+    "GT"
+  ],
+  "protectedFilesUnchanged": 83,
+  "reviewPacketsUnchanged": 82,
+  "researchRequests": 26,
+  "retainedOriginals": 18,
+  "failedRequests": 8,
+  "retainedPdfOriginals": 3,
+  "collectionJobs": 0,
+  "publicationDecisions": 0,
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0,
+    "countries": 0
+  },
+  "tests": {
+    "command": "node --experimental-strip-types --test scripts/report-metrics.test.ts",
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "browser": {
+    "checkedAt": "2026-09-26T23:30:18.152Z",
+    "url": "http://localhost:3003/coverage/DO/#official-sources",
+    "sourceSearch": "nationality",
+    "matchingSources": 1,
+    "registeredSources": 1,
+    "knownGaps": 1,
+    "publicRecords": 0,
+    "sourcesFetched": 0,
+    "lastSuccessfulFetch": "Never",
+    "lastValidation": "Never",
+    "researchAwaitsReview": true,
+    "noticeSpecificDominicanNationalityVisible": true,
+    "workAddressNotExamVenueVisible": true,
+    "screenshot": "phases/phase-67-2026-09-27-nationality-source-search.png",
+    "accessibilityState": "phases/phase-67-2026-09-27-browser-state.txt",
+    "navigationObservation": "Initial navigation command timed out; subsequent observed state verified successful destination. No repeated navigation."
+  }
+}

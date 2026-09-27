@@ -1,0 +1,101 @@
+{
+  "savedAt": "2026-09-27T06:16:58.974208+00:00",
+  "status": "directory preservation verified; browser acceptance passed",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 50832,
+      "sha256": "8295319cdc102a7f9c06f130191137c77f1147d3fce406878bd66039bec110df"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70562,
+      "sha256": "162fa6bd6db4c8bf3aaf97fa9e83d227adc8e7f524908618c9b46954b78c1764"
+    },
+    {
+      "path": "data/discovery/india-powergrid-nhpc-ongc-benin-burkina-faso-recruitment-2026-09-27.json",
+      "bytes": 26982,
+      "sha256": "6be5f8fc74dee8b5dece0b49a9cb6510f8a790ef334e7ced7b712d8e70f8b78d"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 237238,
+      "sha256": "ff150c0e4a390b6d4da57892c8fc3bb98241f86930421fd56b1890778856ff63"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-baseline.json",
+      "bytes": 655134,
+      "sha256": "a02dddc7cbb3aa054f67598c1ec1ea4b346bdc55eacdc6e3c14abfc40e0f52d7"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-browser-checks.json",
+      "bytes": 2036,
+      "sha256": "7164f0167a6ecb35558595636d91549e43992163e75d9f923e1f5626a0b155c2"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-finalize.py",
+      "bytes": 3331,
+      "sha256": "455831ec76ce625c582a5354c15c647723bd6e377ca0f5e561f207791f29fd08"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-focused-tests.txt",
+      "bytes": 675,
+      "sha256": "77a4c21a0abf034fb8761c2d6b1fd3e09cf3d0f65d5e9575abc75e0d296888a2"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-prepare.py",
+      "bytes": 4644,
+      "sha256": "078750b4caadf3256efb7b008489a95939f608b8961772e16e57a0f60a7e602f"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-process-results.json",
+      "bytes": 2316,
+      "sha256": "0ed9b06f80f501e4ba56c44a22146118bef2419d3ab219e191c4ab56aa314d06"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-research-input.json",
+      "bytes": 17736,
+      "sha256": "df1be6da1694fbaef81d4205088e8fee901cac362fb11f4a49a4cdaff75160d1"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-source-config.json",
+      "bytes": 9646,
+      "sha256": "2cca87f92b46e847c116fe3513c03d672576d514b7439f0409e50973b879fb1b"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-source-preview.png",
+      "bytes": 216816,
+      "sha256": "b6cc691c083d07eb520a7ca9b070d6cab90923a940ef9644186e0ad5768e7a8f"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-verification.json",
+      "bytes": 1647,
+      "sha256": "b337a85fbbb9a66bf012454c7bcd988ffb3b7af6c3a9f370dab37206d0121ab3"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-verify.py",
+      "bytes": 7825,
+      "sha256": "6c695abc091c2e7c873188d6e4715ce623dc079b2af736eefb9e4d4a1db04806"
+    },
+    {
+      "path": "phases/phase-91-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 9118,
+      "sha256": "0d4fe6136709272eb5870f21710fe182d4885e25cb40089220be93444be81d30"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "c4f53b7147fb62f238c333103abba6aadb7171d80fa9a1ece11e6de55cd59482"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 407193,
+      "sha256": "cabbbaefe76f2388e3021fd151effdfa48e0e701ac26325fc518c9d6430ab0ca"
+    }
+  ]
+}

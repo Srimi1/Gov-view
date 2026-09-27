@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-09-26T21:47:06.303Z",
+  "coverage": {
+    "inventoryAsOf": "2026-09-24",
+    "jurisdictions": 250,
+    "jurisdictionsWithRegisteredSource": 46,
+    "jurisdictionsWithEnabledSource": 5,
+    "unresearchedJurisdictions": 204,
+    "jurisdictionsWithCollectedRecords": 3,
+    "jurisdictionsWithApprovedRecords": 0,
+    "jurisdictionsWithPublicRecords": 0,
+    "unknownRegistryJurisdictions": [],
+    "collectedRecords": 18760,
+    "publicRecords": 0,
+    "approvedRecords": 0
+  },
+  "approvedRuleDepth": {
+    "denominator": 0,
+    "withAnyStructuredRule": 0,
+    "completeRules": 0,
+    "fieldCounts": {
+      "age": 0,
+      "education": 0,
+      "nationality": 0,
+      "residence": 0,
+      "attempts": 0,
+      "experience": 0,
+      "languages": 0,
+      "manualChecks": 0
+    }
+  },
+  "syllabus": {
+    "denominator": 0,
+    "verifiedCycles": 0,
+    "verifiedProgrammes": 0,
+    "verifiedTopics": 0
+  },
+  "review": {
+    "measuredDecisions": 0,
+    "measuredMinutes": 0,
+    "medianMinutesPerDecision": null,
+    "pendingPackets": 82,
+    "pendingCycles": 328,
+    "oldestPacketAgeDays": 2.067477673611111,
+    "medianPacketAgeDays": 1.6177712905092592,
+    "unknownPacketAge": 0,
+    "estimatedPendingMinutes": null,
+    "exceedsTwoHourWeeklyCapacity": null
+  },
+  "sourceFreshness": {
+    "enabledSources": 6,
+    "disabledSources": 146,
+    "freshSources": 1,
+    "overdueSources": 4,
+    "neverFetchedSources": 1,
+    "sourcesWithError": 2,
+    "overdueThreshold": "2 × source cadence"
+  },
+  "build": {
+    "status": "measured",
+    "filesAtLeast": 18383,
+    "bytesAtLeast": 331709866,
+    "largestAssetBytes": 6018837,
+    "truncated": false,
+    "exact": true,
+    "limits": {
+      "files": 18000,
+      "totalBytes": 786432000,
+      "perAssetBytes": 20971520
+    },
+    "withinLimits": false
+  },
+  "audits": {
+    "falseChangeRate": {
+      "status": "unavailable",
+      "reason": "No verified labelled change audit dataset."
+    },
+    "incorrectDateIncidents": {
+      "status": "unavailable",
+      "reason": "No verified incident register."
+    },
+    "usage": {
+      "status": "unavailable",
+      "reason": "No verified privacy-appropriate usage measurement."
+    }
+  }
+}

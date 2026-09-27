@@ -1,0 +1,12 @@
+Audited 200/2355 evidence files
+Audited 400/2355 evidence files
+Audited 600/2355 evidence files
+Audited 800/2355 evidence files
+Audited 1000/2355 evidence files
+Audited 1200/2355 evidence files
+Audited 1400/2355 evidence files
+Audited 1600/2355 evidence files
+Audited 1800/2355 evidence files
+Audited 2000/2355 evidence files
+Audited 2200/2355 evidence files
+{"files": 2355, "auditedFiles": 2353, "complete": false, "logicalBytes": 871622022, "overLimitBytes": 32761222, "exactDuplicateRedundantBytes": 223389648, "collectorBodiesChecked": 617, "collectorBodyHashMismatches": []}

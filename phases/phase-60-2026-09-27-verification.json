@@ -1,0 +1,28 @@
+{
+  "phase": 60,
+  "registrySources": 149,
+  "IndiaSources": 93,
+  "jurisdictionsWithRegisteredSources": 46,
+  "jurisdictionsWithoutRegisteredSources": 204,
+  "addedSourcesDisabledAndReviewRequired": 7,
+  "existingCoverageRowsPreservedDuringAppend": 40,
+  "newCoverageRowsWithEmptyConnectorHealth": 6,
+  "sourceHealthAndReviewPacketHashesUnchanged": 83,
+  "retainedResponsesHashVerified": 12,
+  "failedRequests": 4,
+  "requestsNotAttempted": 1,
+  "tests": {
+    "passed": 3,
+    "files": [
+      "connectors/index.test.ts",
+      "scripts/report-metrics.test.ts"
+    ],
+    "fullSuiteRun": false
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0,
+    "countries": 0
+  },
+  "frameworkBuildRun": false
+}

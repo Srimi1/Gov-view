@@ -1,0 +1,13 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-mp-esb-steno-asi-2026 --dry-run
+
+
+▸ in-mp-esb-steno-asi-2026 (MP Employees Selection Board — Subedar Stenographer and ASI 2026)
+  ⚠ Exact-hash pilot covers one joint 2026 Steno/ASI application. Other ESB, MPPSC and departmental recruitment remain gaps.
+  ⚠ Hindi extraction awaits human review. Nationality, CPCT, role-specific shorthand and non-MP open-category route are separate conditions.
+  ⚠ Midnight wording lacks verified timezone; deadline boundary remains uncertain. Correction service never extends new applications.
+  ✓ 1 collected, 0 approved, 1 pending, 0 kept (10s)
+    · Madhya Pradesh Police — Subedar (Stenographer) and ASI (Ministerial), 2026 — closes 2026-10-08
+
+Dry run: nothing written.

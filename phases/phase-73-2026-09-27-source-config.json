@@ -1,0 +1,44 @@
+{
+  "updates": {
+    "in-hp-recruitment": {
+      "homepage": "https://hppsc.hp.gov.in/Home/",
+      "discoveredFrom": "https://hppsc.hp.gov.in/Home/",
+      "notes": "Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified.",
+      "accessGap": "Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp."
+    },
+    "in-mh-recruitment": {
+      "notes": "Reader-only browser research confirms official MPSC home, footer dated 24 September 2026, showing interview schedule 105/2025, revised candidate instructions, FAQ and examination/typing guidance. Interview, answer-sheet and mock-test announcements do not establish fresh application windows. Revised-instructions link did not expose its document during this check. No individual appointment type, foreign-citizen rule or mandatory language level was accepted; English interface is not a proficiency requirement.",
+      "accessGap": "Earlier public notice API robots restrictions remain unresolved. Reader initially failed; ordinary browser subsequently displayed the official homepage, but no current original advertisement or revised-instructions document was read. Browser rendering does not clear scheduled collector access or prove complete/empty vacancy coverage. Permitted feed, exact notices and amendment history remain required; no new original bytes, health timestamp, connector or review packet."
+    }
+  },
+  "coverageGapEdits": [
+    {
+      "sourceId": "in-hp-recruitment",
+      "field": "notes",
+      "index": 228,
+      "before": "Himachal Pradesh Public Service Commission: Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps.",
+      "after": "Himachal Pradesh Public Service Commission: Reader-only research, awaiting review. Current CMS links September 2026 Agriculture Development Officer 63/9 and Medical Officer 62/9 notices under fixed-emolument job-trainee scheme; permanent tenure is not established. All 23 ADO vacancies are wards-of-ex-servicemen backlog categories, including UR wards; UR is not unrestricted here. ADO requires four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc and HP customs/dialects are desirable. Both selection schemes include Hindi and English knowledge sections, 20 marks each; no formal proficiency level established. Original closes: ADO 22 October, medical 16 October, both 11:59 PM; official timezone and opening dates unknown. Foreign-citizen permission remains unverified."
+    },
+    {
+      "sourceId": "in-hp-recruitment",
+      "field": "accessGap",
+      "index": 229,
+      "before": "Himachal Pradesh Public Service Commission: 27 September normal collector recheck: robots.txt unreachable at https://hppsc.hp.gov.in: fetch failed. Earlier legacy TLS renegotiation failure remains recorded history; no security setting was weakened. Secure current notice access, permitted feeds and notice-specific eligibility remain unavailable.",
+      "after": "Himachal Pradesh Public Service Commission: Earlier 27 September collector recheck could not reach robots.txt; legacy TLS failure remains history. Current CMS and two linked PDFs are readable through web research, which does not establish collector access, accepted output or source health. No original bytes retained in this phase. Exact originals, current amendments, job-trainee scheme, nationality, category/domicile evidence and full selection/appointment criteria require review. Other-state reservation wording cannot override ADO wards-only vacancy table. Medical qualifications follow notice-referenced statutory schedules and compulsory rotating internship; foreign qualification or application acceptance does not establish employment or licence permission. No new cycle, venue pin or validation timestamp."
+    },
+    {
+      "sourceId": "in-mh-recruitment",
+      "field": "notes",
+      "index": 236,
+      "before": "Maharashtra Public Service Commission: Official source identified; listings not imported. Public website loads notices through API routes that robots.txt disallows for automated collection (checked 2026-09-25). Needs a permitted official feed or manual notice review.",
+      "after": "Maharashtra Public Service Commission: Reader-only browser research confirms official MPSC home, footer dated 24 September 2026, showing interview schedule 105/2025, revised candidate instructions, FAQ and examination/typing guidance. Interview, answer-sheet and mock-test announcements do not establish fresh application windows. Revised-instructions link did not expose its document during this check. No individual appointment type, foreign-citizen rule or mandatory language level was accepted; English interface is not a proficiency requirement."
+    },
+    {
+      "sourceId": "in-mh-recruitment",
+      "field": "accessGap",
+      "index": 237,
+      "before": "Maharashtra Public Service Commission: 27 September homepage retained as JavaScript shell, without verified notice contents. Previously observed public notice API robots restrictions remain unresolved. A permitted official feed or reviewed original notice route is needed; page fetch does not prove complete or empty vacancy coverage.",
+      "after": "Maharashtra Public Service Commission: Earlier public notice API robots restrictions remain unresolved. Reader initially failed; ordinary browser subsequently displayed the official homepage, but no current original advertisement or revised-instructions document was read. Browser rendering does not clear scheduled collector access or prove complete/empty vacancy coverage. Permitted feed, exact notices and amendment history remain required; no new original bytes, health timestamp, connector or review packet."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-09-27T01:13:15.428Z",
+  "hpStateSourceCount": 4,
+  "mhStateSourceCount": 4,
+  "hpHindiSourceVisible": true,
+  "hpTraineeResearchVisible": true,
+  "mhResearchVisible": true,
+  "clearCount": 99,
+  "reviewWarning": true,
+  "noEligibilityResultClaim": true,
+  "finalUrl": "http://localhost:3003/coverage/IN/?sourceQuery=63%2F9&state=IN-HP#official-sources",
+  "navigationTimeoutResolvedBySameTabObservation": true
+}

@@ -1,0 +1,18 @@
+{
+  "mpStateSourceCount": 3,
+  "mpNoticeFiltered": true,
+  "mpTemporaryVisible": true,
+  "mpNationalityUncertain": true,
+  "mpDeadlineSeparationVisible": true,
+  "mpSharedURL": "http://localhost:3003/coverage/IN/?sourceQuery=11%2F2026&state=IN-MP#official-sources",
+  "pbStateSourceCount": 3,
+  "pbNoticeFiltered": true,
+  "pbTransferVisible": true,
+  "pbEmptyIndexLimitsVisible": true,
+  "pbLanguageUncertain": true,
+  "clearCount": 99,
+  "sharedViewRestored": true,
+  "reviewWarning": true,
+  "noEligibilityResultClaim": true,
+  "publicStateOnly": true
+}

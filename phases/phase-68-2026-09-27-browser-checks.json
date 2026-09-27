@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-09-26T23:46:47.212Z",
+  "url": "http://localhost:3003/coverage/IN/#official-sources",
+  "search": "CPCT",
+  "matchingSources": 1,
+  "indiaRegisteredSources": 99,
+  "reviewOnlyWordingVisible": true,
+  "nationalityAndNonMpRouteVisible": true,
+  "shorthand100WordsPerMinuteVisible": true,
+  "stagingFailureVisible": true,
+  "sourceIdentification": "https://esb.mp.gov.in/student_dashboard.htm",
+  "screenshot": "phases/phase-68-2026-09-27-cpct-source-search.png",
+  "state": "phases/phase-68-2026-09-27-browser-state.txt"
+}

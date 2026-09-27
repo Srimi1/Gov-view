@@ -1,0 +1,80 @@
+{
+  "phase": 78,
+  "preparationAttempts": [
+    {
+      "exitCode": 1,
+      "error": "Initial patch context mismatch",
+      "filesWritten": false
+    },
+    {
+      "exitCode": 0
+    }
+  ],
+  "draftCorrectionAttempts": [
+    {
+      "exitCode": 1,
+      "sessionId": 3814,
+      "error": "Percent-encoded URL pathname passed as filesystem path",
+      "packetsWritten": false
+    },
+    {
+      "exitCode": 0,
+      "sessionId": 6246,
+      "networkRequests": 0,
+      "amendedCycles": 3
+    }
+  ],
+  "draftCorrection": {
+    "exitCode": 0,
+    "sessionId": 6246
+  },
+  "sourceEnrichment": {
+    "exitCode": 0,
+    "sessionId": 65603,
+    "sources": 2,
+    "coverageGapEdits": 2
+  },
+  "connectorTests": {
+    "exitCode": 0,
+    "sessionId": 96467,
+    "passed": 8,
+    "log": "phases/phase-78-2026-09-27-connector-tests.txt"
+  },
+  "fullTests": {
+    "exitCode": 0,
+    "sessionId": 18671,
+    "status": "completed",
+    "log": "phases/phase-78-2026-09-27-full-tests.txt",
+    "passed": 364,
+    "failed": 0
+  },
+  "typecheck": {
+    "exitCode": 0,
+    "sessionId": 68840,
+    "status": "completed",
+    "log": "phases/phase-78-2026-09-27-typecheck.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 81750,
+    "log": "phases/phase-78-2026-09-27-public-data-build.txt"
+  },
+  "processDiagnostic": {
+    "sampleExitCode": 0,
+    "sampleSessionId": 35257,
+    "sampleFile": "phases/phase-78-2026-09-27-typecheck-sample.txt",
+    "observation": "Sample showed synchronous filesystem reads while tsc was running. Both original test and typecheck sessions subsequently completed with exit code 0; neither was restarted."
+  },
+  "browserObservations": [
+    "Local navigation timeout; same tab later rendered and restored public filters.",
+    "Egypt navigation and same-tab observations timed out; no accepted current page."
+  ],
+  "finalVerifier": {
+    "sessionId": 79508,
+    "exitCode": 0,
+    "savedFiles": 32,
+    "protectedFilesUnchanged": 81,
+    "amendedCycles": 3,
+    "checkedAt": "2026-09-27T02:36:40.933531+00:00"
+  }
+}

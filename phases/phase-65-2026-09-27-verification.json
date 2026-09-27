@@ -1,0 +1,40 @@
+{
+  "phase": 65,
+  "checkedAt": "2026-09-26T22:53:51.183Z",
+  "existingSourcesUnchanged": 162,
+  "allNewSourcesDisabledReviewRequired": true,
+  "otherCoverageRecordsUnchanged": 55,
+  "indiaCollectorFieldsUnchanged": true,
+  "indiaConnectedSources": 42,
+  "protectedFilesUnchanged": 83,
+  "reviewPacketsUnchanged": 82,
+  "requests": 20,
+  "retainedOriginals": 19,
+  "failedRequests": 1,
+  "derivedPdfTexts": 5,
+  "visuallyCheckedPages": 2,
+  "publicationDecisions": 0,
+  "collectionJobs": 0,
+  "publicDataBuild": {
+    "exitCode": 0,
+    "records": 0,
+    "countries": 0
+  },
+  "tests": {
+    "command": "node --experimental-strip-types --test scripts/report-metrics.test.ts",
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "derivedPdfTextCaveat": "4 usable text derivatives; scanned NEET re-examination notice yielded form feeds only and was visually checked",
+  "browser": {
+    "renderedSourceCount": 98,
+    "newSourcesRendered": 5,
+    "query": "Joint Admission Test",
+    "results": 1,
+    "total": 98,
+    "awaitingReviewLabel": true,
+    "examAdmissionDistinctionVisible": true,
+    "screenshot": "phases/phase-65-2026-09-27-admission-directory.png"
+  }
+}

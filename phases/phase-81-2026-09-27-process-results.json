@@ -1,0 +1,72 @@
+{
+  "phase": 81,
+  "preparation": {
+    "sessionId": 53093,
+    "exitCode": 0,
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "sessionId": 63365,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-81-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "sessionId": 65406,
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-81-2026-09-27-public-data-build.txt",
+    "previousBuild": {
+      "sessionId": 27464,
+      "exitCode": 0
+    },
+    "rerunReason": "Corrected unsupported signing wording for unopened Gibraltar image."
+  },
+  "researchWordingCorrection": {
+    "sessionId": 97768,
+    "exitCode": 0,
+    "filesChanged": 5,
+    "old": "Linked signed image",
+    "new": "Linked notice image",
+    "reason": "Signing status was not verified; linked image remains unopened/unaccepted."
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "IM",
+      "JE",
+      "GG",
+      "GI"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-81-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "Guernsey government tab navigation/observations timed out; eventual visible page ERR_CONNECTION_TIMED_OUT. Not accepted as current source or empty inventory.",
+      "Fresh Isle of Man tab rendered notice list; clicked card left refining intermediate state, direct observed notice URL then rendered full detail.",
+      "Local Isle of Man and Gibraltar navigation timed out; same tabs rendered without restarting server.",
+      "Gibraltar local page reloaded after wording correction; new description verified.",
+      "Shared Jersey public search restored after hydration; empty text-filter result explicitly does not imply ineligibility."
+    ]
+  },
+  "researchFailures": [
+    "Guernsey government careers reader failed; browser connection timeout. Wider public-service source remains unresolved.",
+    "Isle of Man supporting PDF reader inaccessible; no download attempted.",
+    "Gibraltar detail initial reader response then repeated timeout; full ordinary-browser detail read."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 48365,
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T03:25:10.248230+00:00"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "phase": 61,
+  "evidenceResponses": {
+    "retained": 12,
+    "failed": 7,
+    "not-attempted": 0
+  },
+  "hashVerifiedRetainedResponses": 12,
+  "primaryEntryRetained": 5,
+  "primaryEntryFailed": 4,
+  "unchangedSourceHealthAndReviewPacketFiles": 83,
+  "otherCoverageRowsPreservedDuringUpdate": 45,
+  "allCoverageHealthCountersAndTimesPreservedDuringUpdate": true,
+  "registrySources": 149,
+  "IndiaSources": 93,
+  "registeredJurisdictions": 46,
+  "primarySourcesWithoutAdapter": 9,
+  "newDrafts": 0,
+  "publicRecords": 0,
+  "publicDataBuildExitCode": 0,
+  "fullTestSuiteRun": false,
+  "frameworkBuildRun": false
+}

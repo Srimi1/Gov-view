@@ -1,0 +1,166 @@
+{
+  "savedAt": "2026-09-27T02:36:22.271608+00:00",
+  "status": "verified original-backed draft corrections",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 4562,
+      "sha256": "9faa68ca9748a9cd1c7d473e7f6c444c1c54521fdf6ad40ffe41890f148d621e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70651,
+      "sha256": "bc85d4350077180ca2d53c99766c53616688c8d97a13bad97c280550d6244cce"
+    },
+    {
+      "path": "connectors/andhra-psc.test.ts",
+      "bytes": 4358,
+      "sha256": "bbbf42f557b6898bba08d802ced8422fdd43f4b508bd64f9b7f42882a30f595e"
+    },
+    {
+      "path": "connectors/andhra-psc.ts",
+      "bytes": 6459,
+      "sha256": "88793a20c9f37a7792510848ad2151065da4547c9a4f693b7c0888338a76a9e9"
+    },
+    {
+      "path": "connectors/cgpsc.test.ts",
+      "bytes": 4055,
+      "sha256": "53dbd83e67d9f3cbd02838d3efad3dc52925488b36242473c2ed0421290217e9"
+    },
+    {
+      "path": "connectors/cgpsc.ts",
+      "bytes": 5393,
+      "sha256": "5e5a89ed323ff53499e99ff401af8bb3e6b41af604975be4ea77bdbb9e5a38f6"
+    },
+    {
+      "path": "data/discovery/india-andhra-cgpsc-original-corrections-2026-09-27.json",
+      "bytes": 4031,
+      "sha256": "4b53a9c20291dc861925dd4b6f9ee165b9cc4960aacc17b68f8e2d4733ef0101"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 192006,
+      "sha256": "a74d1c8566bdd8586f3b4e481aecffabe2cf7d34ab2bff65ef6c79f43d11e783"
+    },
+    {
+      "path": "data/review/in-ap-recruitment.json",
+      "bytes": 6505,
+      "sha256": "3ba3153f89265513037857930d67ed1423d53cc8e210e9e7c4751a6541a3c0c7"
+    },
+    {
+      "path": "data/review/in-ct-recruitment.json",
+      "bytes": 9334,
+      "sha256": "459a8d26bd557a40ca8a292cffbaf2279fd7cfdffb4f72bbf6afd0d5830e2d50"
+    },
+    {
+      "path": "data/review/sheets/andhra-psc-2026-16-forest-range-officers.md",
+      "bytes": 4856,
+      "sha256": "b144d0a0ee5692d059c40ba59371e418b7ebdae60be5dd4f738d0bad8c59b59d"
+    },
+    {
+      "path": "data/review/sheets/cgpsc-2026-05-drug-lab.md",
+      "bytes": 3867,
+      "sha256": "38a4f0440f97997fb42ea76c928e6d8c02a1de481335109dfdd9db2ef784e691"
+    },
+    {
+      "path": "data/review/sheets/cgpsc-2026-05-food-lab.md",
+      "bytes": 3867,
+      "sha256": "3db02709c7105297ee064ec3c0c7c1ef8e34af49fbd21224a2789e3795c045d8"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-baseline.json",
+      "bytes": 548844,
+      "sha256": "d3799321513379290a43625441a55f99dc9c4108f6f17049cdb9a6eb63ab9cc8"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-browser-checks.json",
+      "bytes": 608,
+      "sha256": "015c3bf0248feaa0c0d30611f3409b20f01572f9bb96ee46f2f1e0e1e81b8931"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-browser-state.txt",
+      "bytes": 1350,
+      "sha256": "b1d4b00d766ca04eae88c5be7ec59add8693765be0cb6fa624abd3e6ff1e66b2"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-connector-tests.txt",
+      "bytes": 894,
+      "sha256": "9cd486cbd9f6629e1a8fa0218f226b8d5aa0d461e0fcb80a5873041df4437bba"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-correct-drafts.ts",
+      "bytes": 4276,
+      "sha256": "ecb0375d966e985502f33a6d0ab607516e0ff55b6ec368b3e056acd48856f2d6"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-draft-amendments.json",
+      "bytes": 1728,
+      "sha256": "65a2e2eb794a348430cf2e8c874b7835ed2dd6000ca7c2fbc9c55ed98d193f2f"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-full-tests.txt",
+      "bytes": 33981,
+      "sha256": "9d2c22c65a78592506404853fbb8cdbdbf651e153d1f4352e505151c191997fe"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-india-source-corrections.md",
+      "bytes": 6744,
+      "sha256": "0f384907ea454a424f4782f32ed779b3328088f5c5b263b20b3db3f8634c29db"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-india-source-corrections.png",
+      "bytes": 205833,
+      "sha256": "d00393713820e1598700e173ed39b6af1e36a10fcd66222e0e03c7800a6fd2cd"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-process-results.json",
+      "bytes": 2049,
+      "sha256": "3bb88dd59ba0291a744c7140d9e2d482afcec2503cceeed82fafd50384532a7a"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-source-config.json",
+      "bytes": 4998,
+      "sha256": "f31186700f33155a20b4c1b7fbdc5f6d6efd6be68567e5a90391d096963c0728"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-typecheck-sample.txt",
+      "bytes": 92774,
+      "sha256": "53f0ab1166078fa87180c456d35ec8c56f34b18df4241450b11f769fe60dddc2"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-typecheck.txt",
+      "bytes": 64,
+      "sha256": "f8e600e7f6bdb3cf8b3b23b3bafb56d56498a03afed9bb36bb0e3dbd209e8f8e"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-verification.json",
+      "bytes": 1337,
+      "sha256": "b865c0d49c8c061becce4c115b792486680c6a961b278f30287e6ae9903c9caa"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-verify.py",
+      "bytes": 9431,
+      "sha256": "82cbb1ac88ea167b6c31081e038de0cb84c63a3ec17b1b44cfeb7c0e6bcd6497"
+    },
+    {
+      "path": "phases/phase-78-2026-09-27-worldwide-next-leads.json",
+      "bytes": 2271,
+      "sha256": "97afbc16ca760ed4781a9f1d403acf4a305d9ec35c7b8b5acff00a1507ff41ef"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "17baa8ff28d230d4bc704cc29bd5f7f5e7ecac6e7df41e69b6e34256272fc34a"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 301805,
+      "sha256": "be2ec3d9e8f678d4bd4aeff99914a80d97e0e2e159f6ddca86f354a45b444adf"
+    }
+  ]
+}

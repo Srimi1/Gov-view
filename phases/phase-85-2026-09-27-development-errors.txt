@@ -1,0 +1,9 @@
+Disk free at observation: 941 MiB. Prior dev log showed iCloud ETIMEDOUT reads/writes and module build failures. Niue browser build error: Module not found: Can't resolve '@swc/helpers/_/_interop_require_wildcard'. Installed package and CJS/ESM helper read successfully, no reinstall. Actual failed dev server restarted: ▲ Next.js 16.3.6 (webpack)
+- Local:         http://localhost:3003
+- Network:       http://192.168.1.6:3003
+✓ Ready in 67s
+✓ Running next.config.ts took 2.4s
+
+○ Compiling /coverage/[code] ...
+
+Current Chrome local screenshot: localhost is blocked / ERR_BLOCKED_BY_CLIENT. No protection bypass.

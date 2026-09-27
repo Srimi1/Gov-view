@@ -1,0 +1,101 @@
+{
+  "savedAt": "2026-09-27T03:26:04.963567+00:00",
+  "status": "verified official-source directory expansion",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 14818,
+      "sha256": "7dcea230a0a3639958c87e99c75165cc628e148071d5d23a139bbe2a15d8730e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70929,
+      "sha256": "c7ba40d4f98007fadf408eeac9c0db3022dbdfaf2a5afd005e8a75f115b279d6"
+    },
+    {
+      "path": "data/discovery/isle-of-man-jersey-guernsey-gibraltar-recruitment-2026-09-27.json",
+      "bytes": 24491,
+      "sha256": "c4a833f46d9124cce03ed395f4d5fe790c61b84df34834f0c505426443c1e35f"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 203031,
+      "sha256": "ba61e7045786356be980bda8095872e0c4666e88066654203752dd23f667269c"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-baseline.json",
+      "bytes": 537811,
+      "sha256": "fc7421d767956a4e0085486903e3e49047aa43a245e913f0efa6f563ae939d82"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-browser-checks.json",
+      "bytes": 1388,
+      "sha256": "f18b146c28234a8bef681db8f5a84381fdf2bc2380aff58ecac0296640c9ec92"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-browser-state.txt",
+      "bytes": 24096,
+      "sha256": "94db506e9f8e93ab31a8687291a7e4483418c3c6f8af04a3aac2ac1928e26c27"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-focused-tests.txt",
+      "bytes": 675,
+      "sha256": "a73a69552dc34f09605802f7b6b1be686da7f801bc1d3d688fb981f89479a5bd"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-prepare.py",
+      "bytes": 4206,
+      "sha256": "f756ce84adc50977d0e64c6ccfc47e52752ba21db12e49bebf37065fb729d212"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-process-results.json",
+      "bytes": 2463,
+      "sha256": "f5361811e825db9cc997ce61593cd0c7ff490983b350e1d65254db66b44b0431"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-research-input.json",
+      "bytes": 15251,
+      "sha256": "750c89ff60ba9fc7220222e6fffb5c642e4b78a6d0d48a4ebe4b59533beae6dc"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-source-config.json",
+      "bytes": 8544,
+      "sha256": "a2b5de603f7e1dd860c23126008652f095f4f4d66af5ea5216bc9eeb2c8d4521"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-verification.json",
+      "bytes": 1335,
+      "sha256": "fdc32b8579882e99fb40af3e39ea595070082f49be7d19c0c3a34e35327013ae"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-verify.py",
+      "bytes": 6291,
+      "sha256": "bb1fb7c47a93cb4c89aae827cc077b7ee0edf383767d88d8d12b6a598c3f8285"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 7813,
+      "sha256": "6be0f052e06edd36434dc7dbe9f79bd093b298c1d4577793671addfe1b6d0e3a"
+    },
+    {
+      "path": "phases/phase-81-2026-09-27-worldwide-source-expansion.png",
+      "bytes": 171856,
+      "sha256": "27546dd06647a2ab8f698a2a96cc83bb695767e69665ebf4cb629fef33169bf3"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "b252ad675146e822e0f0014a0cc5bdf4e1bc168834f9ed4dbb529e6a229430e4"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 325684,
+      "sha256": "500ce21f1a2fcc3536c02d1c924f9b46cb8ff6624a623ff698e9bf99ed4f2edd"
+    }
+  ]
+}

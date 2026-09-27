@@ -1,0 +1,56 @@
+{
+  "phase": 79,
+  "preparation": {
+    "sessionId": 7454,
+    "exitCode": 0,
+    "sourcesAdded": 3,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "sessionId": 36578,
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-79-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "sessionId": 4527,
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-79-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "TR",
+      "MA",
+      "TN"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-79-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "Morocco original navigation timed out; same tab then rendered all three PDF pages.",
+      "Local Morocco navigation timed out; same tab rendered and hydrated public source filter.",
+      "Web PDF screenshot requests failed; ordinary browser visual reading used, no external screenshot saved."
+    ]
+  },
+  "researchFailures": [
+    "T\u00fcrkiye FAQ reader requests failed.",
+    "Tunisia introduction subsequent reader request timed out.",
+    "Egypt current reader failed; remains unregistered lead."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 50242,
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T02:46:12.069493+00:00"
+  }
+}

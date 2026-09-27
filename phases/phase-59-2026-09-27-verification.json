@@ -1,0 +1,29 @@
+{
+  "observedDate": "2026-09-27",
+  "checks": [
+    {
+      "command": "node --experimental-strip-types --test connectors/uttarakhand-psc.test.ts connectors/andaman-agriculture.test.ts connectors/tnpsc.test.ts lib/review.server.test.ts",
+      "exitCode": 0,
+      "passed": 18,
+      "timing": "Before collector timestamp patch; connector and publication modules unchanged."
+    },
+    {
+      "command": "node --experimental-strip-types --test scripts/collect-health.test.ts",
+      "exitCode": 0,
+      "passed": 2,
+      "timing": "After collector patch. Receipt regression failed before patch."
+    },
+    {
+      "command": "npm run typecheck",
+      "exitCode": 0
+    },
+    {
+      "command": "npm run data",
+      "exitCode": 0,
+      "publicRecords": 0
+    }
+  ],
+  "fullSuiteRun": false,
+  "liveRequestsVerified": 12,
+  "humanApprovalRecorded": false
+}

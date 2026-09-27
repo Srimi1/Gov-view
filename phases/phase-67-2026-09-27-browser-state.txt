@@ -1,0 +1,76 @@
+Browser tab: 169868790, Title: "Dominican Republic coverage — GOV View", URL: "http://localhost:3003/coverage/DO/#official-sources".
+1 AXWebArea Dominican Republic coverage — GOV View, URL: localhost:3003/coverage/DO/#official-sources
+	2 container
+		3 link Description: GOV View, Value: localhost:3003/
+		4 container Main
+			5 link Description: Find opportunities, Value: localhost:3003/
+			6 link Description: Where we look, Value: localhost:3003/coverage/
+		7 link Description: ← Worldwide coverage directory, Value: localhost:3003/coverage/
+		8 heading Dominican RepublicDO, Value: 1
+			9 text Dominican Republic DO
+		10 container
+			11 text Source access blocked or not connected .  Official source identified; collection blocked . Public count includes only reviewed records or a clearly marked prior approved version; it does not measure all opportunities in  Dominican Republic .
+		12 container
+			13 text Not a government website—confirm on official site. Directory built  26 Sept 2026 .
+		14 definition list
+			15 container Public records
+				16 text Public records
+			17 text 0
+			18 container Currently approved records
+				19 text Currently approved records
+			20 text 0
+			21 container Official sources registered
+				22 text Official sources registered
+			23 link Description: 1 — search sources, Value: localhost:3003/coverage/DO/#official-sources
+			24 container Sources fetched
+				25 text Sources fetched
+			26 text 0
+			27 container Last successful fetch
+				28 text Last successful fetch
+			29 text Never
+			30 container Last validation
+				31 text Last validation
+			32 text Never
+		33 container
+			34 heading Researched authorities, Value: 2
+				35 text Researched authorities
+			36 content list
+				37 container
+					38 AXListMarker • 
+					39 text Ministry of Public Administration (MAP), Dominican Republic
+		40 container official-sources
+			41 heading Official sources, Value: 2
+				42 text Official sources
+			43 text Source research can describe appointment types, international applicants and language requirements. It awaits review and does not establish whether you can apply, enter selection or obtain the resulting job or credential. Check the specific cycle and its official evidence.
+			44 container
+				45 text Search official sources
+				46 search text field (settable) Search official sources, Value: nationality, ID: source-search
+			47 text Search matches written research, including restrictions and unresolved questions. A match is not an eligibility result.
+			48 container
+				49 text 1  of  1  registered sources. Source counts are not application-cycle counts.
+			65 button Clear source search
+			50 content list
+				51 container
+					52 link Description: Dominican Republic — MAP CONCURSA public recruitment ↗, Value: map.gob.do/Concursa/
+					53 text Ministry of Public Administration (MAP), Dominican Republic Collection status:  Official source linked; adapter not built Applicant and source research — awaiting review Retained environmental-educator September 2026 notice explicitly requires Dominican nationality, relevant degree and one year of experience. External competition does not mean international eligibility. Documents accepted 22–28 September, 08:00–16:00; timezone not printed. Receipt confirmation precedes jury admission; fuller bases are available only after admission. Work address is not an exam venue. Separate disability-inclusive Labour Relations Analyst notice creates an eligible register, also requires Dominican nationality, and closed 3 August at 15:00. No formal language level established. Collection gap No adapter or reviewed cycle. Preserve independent immediate-vacancy and future-register identities; portal result/seat counts are not application-cycle totals. Confirm amendments and tenure, current notice hierarchy, fees and official cutoff timezone. Full selection bases are available only after admission and remain an evidence gap. Nationality conditions apply to these notices, not every public-sector role.
+					54 link Description: Source identification evidence ↗, Value: map.gob.do/Concursa/Concurso/ObtenerArchivoDePublicacion?archivo=02ca7e17ce8349448c65949fe1beba99.pdf
+					55 text  · researched 2026-09-27
+		56 container
+			57 heading Known gaps, Value: 2
+				58 text Known gaps
+			59 content list
+				60 container
+					61 AXListMarker • 
+					62 text Dominican Republic — MAP CONCURSA public recruitment: No adapter or reviewed cycle. Preserve independent immediate-vacancy and future-register identities; portal result/seat counts are not application-cycle totals. Confirm amendments and tenure, current notice hierarchy, fees and official cutoff timezone. Full selection bases are available only after admission and remain an evidence gap. Nationality conditions apply to these notices, not every public-sector role.
+			63 text Worldwide authority coverage and source completeness have not passed independent audit.
+		64 link Description: Browse Dominican Republic opportunities →, Value: localhost:3003/?country=DO
+		66 pop up button (collapsed) Description: Open Next.js Dev Tools, ID: next-logo, Secondary Actions: Expand
+			67 image
+	68 container
+		69 button logo icon
+			70 image logo icon
+			71 image
+		72 container
+			73 button
+
+The focused UI element is 46 search text field (settable) Search official sources, Value: nationality, ID: source-search

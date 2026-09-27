@@ -1,0 +1,60 @@
+{
+  "phase": 84,
+  "preparation": {
+    "chunkId": "53a5d1",
+    "exitCode": 0,
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "chunkId": "7d89d7",
+    "exitCode": 0,
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-84-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "chunkId": "f7b8b5",
+    "exitCode": 0,
+    "publicListings": 0,
+    "log": "phases/phase-84-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "browser": {
+    "countries": [
+      "IN",
+      "FM",
+      "CK",
+      "PW"
+    ],
+    "allSavedChecksPassed": true,
+    "screenshot": "phases/phase-84-2026-09-27-worldwide-source-expansion.png",
+    "observations": [
+      "Current Cook Islands portal reader zero content; browser loaded cards and embedded Secretary detail after loading.",
+      "Palau national portal reader upgrade redirect; browser public listing and Accounting Technician detail accessible.",
+      "Local pages rendered correctly; initial receipt capture failed selector timeout/Debugger unattached. Fresh tabs in same selected browser recovered; no browser reselection.",
+      "India shared query restored; clear restored 101. New country pages show one source, no collector/validation timestamps and blocked/unconnected coverage.",
+      "Text filter empty state explicitly differs from no opportunities or ineligibility."
+    ]
+  },
+  "researchFailures": [
+    "Employment News About Us detail timed out; current footer government publisher identity available. NDMA and DNS conflicts unresolved.",
+    "FSM policy definitions, state authorities and directory pagination unreviewed.",
+    "Cook Islands original Secretary job description attachment lacked readable URL; no raw download. Appointment tenure label and work rights unreviewed.",
+    "Palau current role citizenship and tenure unknown; private workforce nonresident labels not transferred."
+  ],
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "finalVerifier": {
+    "sessionId": 69573,
+    "exitCode": 0,
+    "savedFiles": 19,
+    "protectedFilesUnchanged": 83,
+    "checkedAt": "2026-09-27T04:14:55.747430+00:00"
+  }
+}

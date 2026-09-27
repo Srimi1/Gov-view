@@ -1,0 +1,18 @@
+{
+  "tgStateSourceCount": 5,
+  "tgNoticeFiltered": true,
+  "tgNationalityVisible": true,
+  "tgLanguageVisible": true,
+  "tgHomepageOfficial": true,
+  "tgSharedURL": "http://localhost:3003/coverage/IN/?sourceQuery=04%2FOG%2FHM%2F2026&state=IN-TG#official-sources",
+  "hpStateSourceCount": 4,
+  "hpNoticeFiltered": true,
+  "hpUnknownEligibilityVisible": true,
+  "hpAmendmentGapVisible": true,
+  "hpStaleHeaderVisible": true,
+  "clearCount": 99,
+  "sharedViewRestored": true,
+  "reviewWarning": true,
+  "noEligibilityResultClaim": true,
+  "publicStateOnly": true
+}

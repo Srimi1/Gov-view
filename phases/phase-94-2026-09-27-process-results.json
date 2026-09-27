@@ -1,0 +1,102 @@
+{
+  "phase": 94,
+  "previousGoalTurnClassification": "verified progress",
+  "previousStateInspection": {
+    "exitCode": 0,
+    "chunkId": "b32269",
+    "phase93ManifestVerified": true
+  },
+  "researchPreparation": {
+    "exitCode": 0,
+    "chunkId": "602ca2"
+  },
+  "preparationInitial": {
+    "exitCode": 1,
+    "sessionId": 77274,
+    "initialChunkId": "394dd7",
+    "chunkId": "cc80b9",
+    "error": "TimeoutError: [Errno 60] Operation timed out",
+    "registryWritesPerformed": false,
+    "receipt": "phases/phase-94-2026-09-27-preparation-initial-failure.json"
+  },
+  "preparation": {
+    "exitCode": 0,
+    "sessionId": 31600,
+    "initialChunkId": "10557f",
+    "chunkId": "d3f5da",
+    "sourcesAdded": 5,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 21009,
+    "initialChunkId": "d15bac",
+    "chunkId": "439c36",
+    "passed": 6,
+    "failed": 0,
+    "log": "phases/phase-94-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 28233,
+    "initialChunkId": "265d52",
+    "chunkId": "d1144c",
+    "log": "phases/phase-94-2026-09-27-public-data-build.txt",
+    "publicListings": 0
+  },
+  "logRead": {
+    "exitCode": 0,
+    "chunkId": "cdfc71",
+    "actualPass6Fail0AndPublicZeroVerified": true
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "Lesotho PSC certificate revoked: ERR_CERT_REVOKED; no bypass.",
+    "NMDC current medical original reader timed out; ICVL original unread.",
+    "NALCO detailed originals reader502; medical ordinary browser PDF blank after timeout; Hindi handout timeout.",
+    "Lesotho original attachment inaccessible; judicial detail timeout/ZIP original gap.",
+    "Mozambique original route reader returns same detail HTML; original/translation acceptance pending."
+  ],
+  "executionNotes": [
+    "Initial preparation iCloud read timed out before registry writes; terminal failure retained and retry terminal0."
+  ],
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "LS",
+      "MZ"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 119,
+    "screenshot": "phases/phase-94-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "chunkId": "f6c711",
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T07:14:31.278303+00:00"
+  },
+  "reportOpen": {
+    "status": "queued"
+  },
+  "documentation": {
+    "exitCode": 0,
+    "chunkId": "5f9856"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processObservation": "ps read during final receipts; no restart"
+  }
+}

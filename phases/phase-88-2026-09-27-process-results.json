@@ -1,0 +1,73 @@
+{
+  "phase": 88,
+  "preparation": {
+    "exitCode": 0,
+    "chunkId": "5cec2e",
+    "sourcesAdded": 4,
+    "protectedFilesRechecked": 83
+  },
+  "focusedTests": {
+    "exitCode": 0,
+    "sessionId": 26619,
+    "chunkId": "ce9fd9",
+    "initialChunkId": "9a6d6d",
+    "passed": 6,
+    "failed": 0,
+    "log": "phase-88-2026-09-27-focused-tests.txt"
+  },
+  "publicDataBuild": {
+    "exitCode": 0,
+    "sessionId": 48787,
+    "chunkId": "7b1d28",
+    "initialChunkId": "cff96b",
+    "publicListings": 0,
+    "log": "phase-88-2026-09-27-public-data-build.txt"
+  },
+  "priorFullSuite": {
+    "phase": 78,
+    "passed": 364,
+    "typecheckExitCode": 0,
+    "rerunThisPhase": false
+  },
+  "newEvidenceBytes": 0,
+  "productionBuildRun": false,
+  "researchFailures": [
+    "HAL current original unread; generic detail URL session dependent.",
+    "NPCIL reader original observed; exact original acceptance/age interpretation and inventory pending.",
+    "Egypt primary search-index only, direct access/navigation failed.",
+    "Lebanon original rules href #, legacy/current freshness conflict.",
+    "Iraq FPSC reader inaccessible; no source added."
+  ],
+  "documentation": {
+    "exitCode": 0,
+    "sessionId": 94762,
+    "chunkId": "5008e6"
+  },
+  "browser": {
+    "status": "passed",
+    "countries": [
+      "IN",
+      "EG",
+      "LB"
+    ],
+    "sharedFilterRestored": true,
+    "clearRestored": 106,
+    "screenshot": "phases/phase-88-2026-09-27-source-preview.png",
+    "noProtectionChanges": true
+  },
+  "finalVerifier": {
+    "exitCode": 0,
+    "sessionId": 57037,
+    "chunkId": "51a11e",
+    "savedFiles": 18,
+    "protectedFilesUnchanged": 83,
+    "browserAcceptance": "passed",
+    "checkedAt": "2026-09-27T05:23:35.703494+00:00"
+  },
+  "previewServer": {
+    "pid": 58555,
+    "port": 3003,
+    "observedRunning": true,
+    "processChunkId": "397e90"
+  }
+}

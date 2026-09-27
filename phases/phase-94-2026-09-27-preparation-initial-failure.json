@@ -1,0 +1,11 @@
+{
+  "phase": 94,
+  "exitCode": 1,
+  "sessionId": 77274,
+  "initialChunkId": "394dd7",
+  "terminalChunkId": "cc80b9",
+  "error": "TimeoutError: [Errno 60] Operation timed out",
+  "stage": "protected file reads before baseline or registry mutations",
+  "registryWritesPerformed": false,
+  "retryAfterTerminalExit": true
+}

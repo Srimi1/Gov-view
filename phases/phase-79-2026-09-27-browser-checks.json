@@ -1,0 +1,32 @@
+{
+  "countries": {
+    "MA": {
+      "oneRegisteredSource": true,
+      "officialLink": true,
+      "reviewWarning": true,
+      "adapterNotBuilt": true,
+      "unknownFreshness": true
+    },
+    "TN": {
+      "oneRegisteredSource": true,
+      "officialLink": true,
+      "reviewWarning": true,
+      "adapterNotBuilt": true,
+      "unknownFreshness": true
+    },
+    "TR": {
+      "oneRegisteredSource": true,
+      "officialLink": true,
+      "reviewWarning": true,
+      "adapterNotBuilt": true,
+      "unknownFreshness": true
+    }
+  },
+  "moroccoSampleNationalityScoped": true,
+  "foreignDegreeNotNationality": true,
+  "tunisiaTemporaryScoped": true,
+  "noFalseEmptyInventory": true,
+  "languageNotProficiency": true,
+  "sharedMoroccoViewRestored": true,
+  "publicStateOnly": true
+}

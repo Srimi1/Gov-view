@@ -1,0 +1,9 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-mp-esb-steno-asi-2026 --stage
+
+
+▸ in-mp-esb-steno-asi-2026 (MP Employees Selection Board — Subedar Stenographer and ASI 2026)
+  ✗ Retained evidence storage budget reached; previous records preserved
+
+Stage only: review packets, evidence and source health written; published opportunities unchanged.

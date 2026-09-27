@@ -1,0 +1,96 @@
+{
+  "savedAt": "2026-09-27T05:11:07.250221+00:00",
+  "status": "directory preservation verified; browser acceptance passed",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 36716,
+      "sha256": "3ce4791a2898bdf74c072ff2f1709dfc8cb7fb26bb62ee3d606c16fa7e530a29"
+    },
+    {
+      "path": "README.md",
+      "bytes": 70683,
+      "sha256": "2504b8a4baeba0658c0384a7a450e26fc527ef39242c1798cb176db33c7bcbf3"
+    },
+    {
+      "path": "data/discovery/india-bhel-bahrain-kuwait-jordan-recruitment-2026-09-27.json",
+      "bytes": 20855,
+      "sha256": "3f8f7e0c9d16d4940f450d3bef42c6d79961ee2f3679d0c5ea4275399e1bf681"
+    },
+    {
+      "path": "data/published/coverage.json",
+      "bytes": 225085,
+      "sha256": "d455d941ea798e883bb742fc092c67eef3eef96b4463f1080f24559667b74459"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-baseline.json",
+      "bytes": 613855,
+      "sha256": "752cde7c49ace30ccdea02431271abb2b0ef0d1db88e860ef36dee2e230a835a"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-browser-checks.json",
+      "bytes": 1877,
+      "sha256": "b2b0ab9b8bcfd9f399efe27ef0ba9940eaff92b43590b0463625a6b26f54ca9e"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-focused-tests.txt",
+      "bytes": 673,
+      "sha256": "635d88fc9180322a6deb066469508268c6dd074b4d56cacc77286a3618e73fef"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-prepare.py",
+      "bytes": 4621,
+      "sha256": "4e1ab1e15b962faed24eaf5eb06eb516a4482a946bac0ef5d61066cf9708e5df"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-process-results.json",
+      "bytes": 1883,
+      "sha256": "a1382eb28bd6b9ec536cdee35df876a708801e7158c8cab0bfe8d7ceba54bf7a"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-public-data-build.txt",
+      "bytes": 122,
+      "sha256": "c79514fdfe546665d4fa5536e2da6426ed1a08a7793fd1bb33d0dcf269757a68"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-research-input.json",
+      "bytes": 14481,
+      "sha256": "9c66a109653ea947adf948df3204bba5443e1e8dbbaedc23775bfb1afed9b6a6"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-source-config.json",
+      "bytes": 6643,
+      "sha256": "8f345a636dc639f504b0ab703246c337749f1ab6757a3cc087d2224185281a17"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-source-preview.png",
+      "bytes": 217555,
+      "sha256": "1def97fbde1e369b9f230bff87de00be327c9c14c9a24844bc42f9e05cce3ee0"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-verification.json",
+      "bytes": 1659,
+      "sha256": "89e5932020304bfb8e802b26591ebd70a56bf5dcc10e3429b6a16171113ffd79"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-verify.py",
+      "bytes": 7666,
+      "sha256": "7e1c2212f82a7d8c76dad52221af25fe76eae8088d9acdd3aeda2ca8e561786e"
+    },
+    {
+      "path": "phases/phase-87-2026-09-27-worldwide-source-expansion.md",
+      "bytes": 8123,
+      "sha256": "de35a146bac4fa90eab2d71614e55a94ebaf7981a7d45d4bd7fccb9bcb310174"
+    },
+    {
+      "path": "public/data/index.json",
+      "bytes": 389,
+      "sha256": "90c7686de01d53362f954cc1e85d44bfeb43ed15823558e436b0596f6f2bb3d6"
+    },
+    {
+      "path": "sources/registry.json",
+      "bytes": 375126,
+      "sha256": "92f230760a44d2b042ebe0a3b06de9f41bf7bc639a07dc304f2f17066ea2a4ad"
+    }
+  ]
+}
