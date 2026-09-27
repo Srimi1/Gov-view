@@ -29,6 +29,20 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          fetch-depth: 0
+      - name: Continue pending review branch
+        run: |
+          git config user.name "gov-view-collector"
+          git config user.email "gov-view-collector@users.noreply.github.com"
+          git fetch origin main
+          if git ls-remote --exit-code --heads origin data/collected >/dev/null; then
+            git fetch origin data/collected
+            git switch -c data/collected origin/data/collected
+            git merge --no-edit origin/main
+          else
+            git switch -c data/collected
+          fi
       - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
         with:
           node-version: 26
@@ -37,6 +51,8 @@ jobs:
       - run: npm ci --ignore-scripts
 
       - name: Collect
+        id: collect
+        continue-on-error: true
         env:
           USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
           USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
@@ -48,29 +64,48 @@ jobs:
           if [ "$FORCE" = "true" ]; then args+=(--force); fi
           npm run collect -- "${args[@]}"
 
+      - name: Discover India recruitment leads
+        id: discover
+        continue-on-error: true
+        run: npm run discover:india
+
       - name: Test collected data
-        run: npm test
+        run: |
+          npm test
+          npm run typecheck
 
       # Every change goes through a pull request: reviewing and merging it is publishing.
       - name: Open or update the review pull request
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet -- data && [ -z "$(git ls-files --others --exclude-standard data)" ]; then
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: collected $(date -u +%Y-%m-%dT%H:%MZ)"
+          fi
+          branch="data/collected"
+          if git show-ref --verify --quiet refs/remotes/origin/data/collected; then
+            if [ "$(git rev-list --count origin/data/collected..HEAD)" -eq 0 ]; then
+              echo "No data or branch changes."
+              exit 0
+            fi
+          elif git diff --quiet origin/main HEAD -- data; then
             echo "No data changes."
             exit 0
           fi
-          branch="data/collected"
-          git config user.name "gov-view-collector"
-          git config user.email "gov-view-collector@users.noreply.github.com"
-          git checkout -B "$branch"
-          git add data
-          git commit -m "data: collected $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push --force origin "$branch"
+          git push origin "HEAD:$branch"
           summary=$(node -e 'const s=require("./data/published/sources-status.json");for(const [id,v] of Object.entries(s))console.log(`- **${id}**: ${v.lastError?`failed: ${v.lastError}`:`${v.recordCount} records`}`)')
-          body=$(printf "Automated collection from official sources.\n\n%s\n\nReview the diff (one record per line), then merge to publish. Reviewer corrections go in data/overrides/<id>.json." "$summary")
+          body_file=$(mktemp)
+          printf "Automated collection from official sources.\n\n%s\n\nReview the diff (one record per line), then merge to publish. Reviewer corrections go in data/overrides/<id>.json.\n" "$summary" > "$body_file"
           if [ "$(gh pr view "$branch" --json state -q .state 2>/dev/null)" = "OPEN" ]; then
-            gh pr edit "$branch" --body "$body"
+            gh pr edit "$branch" --body-file "$body_file"
           else
-            gh pr create --head "$branch" --base main --title "Collected opportunities" --body "$body"
+            gh pr create --head "$branch" --base main --title "Collected opportunities" --body-file "$body_file"
           fi
+          rm -f "$body_file"
+      - name: Report collection failure after saving status
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
+      - name: Report discovery failure after preserving snapshot
+        if: steps.discover.outcome == 'failure'
+        run: exit 1
