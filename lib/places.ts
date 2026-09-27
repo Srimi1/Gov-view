@@ -1,6 +1,7 @@
-/** ISO 3166 reference lists used by forms and filters. Names come from the browser via Intl. */
+/** Dated M49 inventory shared by directory, forms and filters. */
+import jurisdictionInventory from "../data/reference/jurisdictions.json" with { type: "json" };
 
-export const countryCodes = (
+export const isoCountryCodes = (
   "AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ " +
   "CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR " +
   "GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP " +
@@ -10,7 +11,12 @@ export const countryCodes = (
   "UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW"
 ).split(" ");
 
+export const countryCodes = jurisdictionInventory.jurisdictions.map(({ code }) => code);
+const inventoryNames = new Map(jurisdictionInventory.jurisdictions.map(({ code, name }) => [code, name]));
+
 export function countryName(code: string): string {
+  const official = inventoryNames.get(code);
+  if (official) return official;
   try {
     return new Intl.DisplayNames(["en"], { type: "region" }).of(code) ?? code;
   } catch {

@@ -70,3 +70,14 @@ export function clockIn(timeZone: string, now: Date = new Date()): string {
     return now.toISOString().slice(11, 16);
   }
 }
+
+/** Current "HH:MM:SS" wall-clock time for notices that publish seconds. */
+export function clockSecondIn(timeZone: string, now: Date = new Date()): string {
+  try {
+    const parts = new Intl.DateTimeFormat("en-GB", { timeZone, hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23" }).formatToParts(now);
+    const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "00";
+    return `${get("hour")}:${get("minute")}:${get("second")}`;
+  } catch {
+    return now.toISOString().slice(11, 19);
+  }
+}

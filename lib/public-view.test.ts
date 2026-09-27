@@ -6,6 +6,7 @@ import { decodePublicView, encodePublicView, type PublicViewState } from "./publ
 const displayState: PublicViewState = {
   query: "nursing exam",
   pathways: ["licensing", "recruitment"],
+  appointmentType: "contract",
   country: "IN",
   region: "IN-MH",
   shortcut: "closing",
@@ -32,7 +33,7 @@ test("public view roundtrips all display fields with map precision", () => {
 });
 
 test("malformed fields are ignored or clamped to safe ranges", () => {
-  assert.deepEqual(decodePublicView("?pathways=unknown,licensing,licensing&country=ZZ&shortcut=next&from=2026-02-30&to=2028-02-29&cycle=..%2Fsecret%20id&tab=admin&view=map&area=1&bbox=-500,-120,500,120&camera=120,-300,9999999999"), {
+  assert.deepEqual(decodePublicView("?pathways=unknown,licensing,licensing&appointment=secret&country=ZZ&shortcut=next&from=2026-02-30&to=2028-02-29&cycle=..%2Fsecret%20id&tab=admin&view=map&area=1&bbox=-500,-120,500,120&camera=120,-300,9999999999"), {
     pathways: ["licensing"],
     deadlineTo: "2028-02-29",
     mobileView: "map",
@@ -49,21 +50,26 @@ test("public URLs allowlist display keys and never serialize account or profile 
   const input = {
     ...displayState,
     searchArea: false,
-    profile: { name: "Private Person", citizenship: "IN", residence: "US" },
+    profile: { name: "Private Person", citizenship: "US", ociStatus: "yes", residence: "US" },
+    languageSkills: [{ language: "ja", framework: "JLPT", level: "N1" }],
     savedSearchId: "personal-saved-search",
     email: "private@example.com",
     hash: "#profile=private",
   };
   const encoded = encodePublicView(input);
   const params = new URLSearchParams(encoded);
-  assert.deepEqual([...params.keys()], ["q", "pathways", "country", "region", "shortcut", "from", "to", "cycle", "tab", "view", "camera"]);
+  assert.deepEqual([...params.keys()], ["q", "pathways", "appointment", "country", "region", "shortcut", "from", "to", "cycle", "tab", "view", "camera"]);
   assert.equal(encoded.includes("bbox"), false);
   assert.equal(encoded.includes("Private Person"), false);
   assert.equal(encoded.includes("private@example.com"), false);
+  assert.equal(encoded.includes("JLPT"), false);
+  assert.equal(encoded.includes("languageSkills"), false);
+  assert.equal(encoded.includes("ociStatus"), false);
   assert.equal(encoded.includes("#"), false);
   assert.deepEqual(decodePublicView(`${encoded}&email=private%40example.com&citizenship=US&savedSearchId=secret#profile=private`), {
     query: displayState.query,
     pathways: displayState.pathways,
+    appointmentType: displayState.appointmentType,
     country: displayState.country,
     region: displayState.region,
     shortcut: displayState.shortcut,
@@ -81,6 +87,7 @@ test("encoder drops invalid runtime data and default values", () => {
     ...displayState,
     query: "x".repeat(205),
     pathways: ["invalid", "vocational", "vocational"],
+    appointmentType: "invalid",
     country: "ZZ",
     shortcut: "invalid",
     deadlineFrom: "2026-02-30",

@@ -4,6 +4,7 @@ import { AlertTriangle, ArrowUpRight, CheckCircle2, ChevronDown, CircleHelp, Fil
 import { evaluateEligibility, profileIsEmpty } from "@/lib/eligibility/evaluate";
 import type { ApplicantProfile, Assessment, EligibilityResult } from "@/lib/eligibility/types";
 import {
+  appointmentTypeLabels,
   cutoffText,
   dateLabel,
   deadlineText,
@@ -15,6 +16,11 @@ import {
 } from "@/lib/format";
 import type { OpportunityCycle } from "@/lib/opportunities";
 import { languageName } from "@/lib/eligibility/languages";
+import { approvedRevision } from "@/lib/public-approval";
+import CalendarDownload from "@/components/CalendarDownload";
+import LocalTracker from "@/components/LocalTracker";
+import ImageResizer from "@/components/ImageResizer";
+import FeedLinks from "@/components/FeedLinks";
 
 type Props = {
   item: OpportunityCycle;
@@ -80,7 +86,14 @@ function Eligibility({ item, profile, onEditProfile }: Props) {
 
 export default function JobArticle({ item, profile, onEditProfile, onShare }: Props) {
   const dates = item.applicationWindow;
-  const canApply = !!item.applicationUrl && !item.fixture && (item.status === "open" || item.status === "extended");
+  const approved = !!approvedRevision(item);
+  const canApply = approved && !!item.applicationUrl && (item.status === "open" || item.status === "extended");
+  const applicationActionLabel = item.applicationMethod ? {
+    online: "Apply on the official site",
+    post: "Get official postal application form",
+    email: "Get official email application instructions",
+    "in-person": "View official walk-in instructions",
+  }[item.applicationMethod] : "View official application instructions";
   const officialSources = item.sources.filter((source) => source.url);
   return (
     <article className="job-article">
@@ -88,16 +101,19 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
         <p className="eyebrow">{item.jurisdictionName} · {pathwayLabels[item.pathway]}</p>
         <h2 className="article-title">{item.title}</h2>
         <p className="article-authority">{item.authority}{item.cycleLabel ? ` — ${item.cycleLabel}` : ""}</p>
+        {officialSources[0]?.url && <p className="fine-print"><a href={officialSources[0].url} target="_blank" rel="noopener noreferrer">Read official source ↗</a> · Last fetched {dateLabel(officialSources[0].lastSuccessfulFetchAt, "never")} · Last reviewed {dateLabel(item.reviewDecision?.reviewedAt ?? item.lastVerifiedAt, "never")}</p>}
 
         <div className="article-status">
           <span className={`status-tag status-${item.status}`}>{statusLabels[item.status]}</span>
           <span className={deadlineUrgent(item) ? "deadline urgent" : "deadline"}>{deadlineText(item)}</span>
           {onShare && <button type="button" className="icon-button" onClick={onShare} aria-label="Copy link to this page" title="Copy link"><Link2 size={16} /></button>}
         </div>
+        {item.reviewPending ? <p className="fine-print">Previous verified version. Newer evidence or source availability awaits review; dates below may have changed. Confirm current details on the official site.</p> : !item.fixture && !approved && <p className="fine-print">This record awaits review against its current official evidence. Confirm every detail on the official site.</p>}
         {item.statusNote && <p className="status-note">{item.statusNote}</p>}
 
         <section>
           <h3>Key dates</h3>
+          {item.reviewPending && <p className="fine-print">Dates from previous verified version; do not rely on them for current applications.</p>}
           <dl className="facts">
             <div><dt>Applications open</dt><dd>{dateLabel(dates.opensOn)}</dd></div>
             <div><dt>Last date</dt><dd>{dateLabel(dates.closesOn)}</dd></div>
@@ -111,11 +127,9 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
 
         <section>
           <h3>Who can apply</h3>
-          <Eligibility item={item} profile={profile} onEditProfile={onEditProfile} />
+          {approved || item.fixture ? <Eligibility item={item} profile={profile} onEditProfile={onEditProfile} /> : <p className="fine-print">Eligibility rules await review for this notice. Read official conditions before applying.</p>}
           <dl className="facts stacked">
             <div><dt>Qualifications</dt><dd>{item.qualifications}</dd></div>
-            <div><dt>Nationality</dt><dd>{item.citizenshipRule}</dd></div>
-            <div><dt>Residence</dt><dd>{item.residenceRule}</dd></div>
           </dl>
         </section>
 
@@ -126,22 +140,24 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
             <div><dt>Residence conditions</dt><dd>{item.residenceRule}</dd></div>
             <div><dt>Work authorisation / visa sponsorship</dt><dd>Not separately verified. Check the official notice and employer requirements before applying.</dd></div>
           </dl>
+          {item.languageNote && <p className="fine-print"><strong>Language by post:</strong> {item.languageNote}</p>}
           {item.rules?.languages?.length ? (
             <ul className="language-requirements">
               {item.rules.languages.map((rule, index) => (
                 <li key={`${rule.language}-${index}`}>
-                  <strong>{languageName(rule.language)}{rule.framework && rule.minimumLevel ? ` · ${rule.framework} ${rule.minimumLevel}` : " · notice-specific requirement"}</strong>
+                  <strong>{languageName(rule.language)}{rule.mandatory === false ? " · desirable" : rule.framework && rule.minimumLevel ? ` · ${rule.framework} ${rule.minimumLevel}` : " · notice-specific requirement"}</strong>
                   <p>{rule.requirement}</p>
-                  <p className="fine-print">Required for {rule.stage === "apply" ? "application" : rule.stage === "selection" ? "examination / selection" : "appointment / licence"}.</p>
-                  {/^https:\/\//.test(rule.sourceUrl) && <a href={rule.sourceUrl} target="_blank" rel="noopener noreferrer">Official language requirement ↗</a>}
+                  <p className="fine-print">{rule.mandatory === false ? "Desirable for" : "Required for"} {rule.stage === "apply" ? "application" : rule.stage === "selection" ? "examination / selection" : "appointment / licence"}.</p>
+                  {!item.fixture && /^https:\/\//.test(rule.sourceUrl) && <a href={rule.sourceUrl} target="_blank" rel="noopener noreferrer">Official language wording ↗</a>}
                 </li>
               ))}
             </ul>
-          ) : <p className="fine-print">Language level not yet verified for this notice. The language of a webpage or examination guide does not establish a proficiency requirement.</p>}
+          ) : !item.languageNote ? <p className="fine-print">Language level not yet verified for this notice. The language of a webpage or examination guide does not establish a proficiency requirement.</p> : null}
         </section>
 
         <section>
           <h3>What you get</h3>
+          {item.pathway === "recruitment" && <dl className="facts stacked"><div><dt>Appointment type</dt><dd>{item.appointmentType ? appointmentTypeLabels[item.appointmentType] : "Not verified for this notice"}</dd></div></dl>}
           <p>{item.outcome}{item.salary ? ` · ${item.salary}` : ""}</p>
         </section>
 
@@ -151,11 +167,39 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
         </section>
 
         <section>
-          <h3>Fee and venue</h3>
+          <h3>Syllabus</h3>
+          {approved && item.syllabus?.status === "verified" ? (
+            <>
+              <p>Edition {item.syllabus.edition} · {item.syllabus.language}</p>
+              <ul className="source-list">
+                {item.syllabus.officialDocuments.map((document, index) => <li key={`${document.sourceId}-${index}`}><a href={document.url} target="_blank" rel="noopener noreferrer">Official syllabus document ↗</a></li>)}
+              </ul>
+              {item.syllabus.topics.length > 0 && <ul>{item.syllabus.topics.map((topic, index) => <li key={`${topic.stage}-${topic.subject}-${index}`}><strong>{topic.stage} · {topic.subject}:</strong> {topic.topic}{topic.citation.page ? ` (p. ${topic.citation.page})` : ""}</li>)}</ul>}
+            </>
+          ) : <p className="fine-print">Syllabus topics not yet verified for this programme or cycle. Check the authority's official notice.</p>}
+        </section>
+
+        <section>
+          <h3>Fee and locations</h3>
           <dl className="facts stacked">
             <div><dt>Application fee</dt><dd>{item.fee}</dd></div>
-            <div><dt><MapPin size={13} aria-hidden="true" /> Where</dt><dd>{venueText(item)}</dd></div>
+            {item.workLocations?.length ? <div><dt>Work location</dt><dd>{item.workLocations.join("; ")}</dd></div> : null}
+            <div><dt><MapPin size={13} aria-hidden="true" /> Examination / selection venue</dt><dd>{venueText(item)}</dd></div>
           </dl>
+          {approved && item.structuredFees?.length ? <ul>{item.structuredFees.map((fee, index) => <li key={index}>{fee.category}: {fee.exemption ? "exempt" : fee.amount === null ? "amount not specified" : `${fee.currency} ${fee.amount}`}{fee.conditions ? ` · ${fee.conditions}` : ""}</li>)}</ul> : null}
+        </section>
+
+        <section>
+          <h3>Documents and images</h3>
+          {approved && item.requiredDocuments?.length ? <ul>{item.requiredDocuments.map((document, index) => <li key={`${document.name}-${index}`}><strong>{document.name}</strong> · {document.stage}{document.conditions ? ` · ${document.conditions}` : ""}{document.specifications ? ` · ${document.specifications}` : ""}</li>)}</ul> : <p className="fine-print">Document list not yet verified for this notice.</p>}
+          {approved && item.imageRequirements?.length ? <details><summary>Resize photo or signature locally</summary><ImageResizer key={item.id} requirements={item.imageRequirements} /></details> : null}
+        </section>
+
+        <section>
+          <h3>Applicant tools</h3>
+          <CalendarDownload key={item.id} item={item} />
+          <FeedLinks key={item.id} item={item} />
+          <details><summary>Saved notice tracker</summary><LocalTracker key={item.id} item={item} /></details>
         </section>
 
         <section>
@@ -191,11 +235,14 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
 
       <footer className="article-foot">
         {canApply ? (
-          <a className="button-primary wide" href={item.applicationUrl!} target="_blank" rel="noopener noreferrer">Apply on the official site <ArrowUpRight size={16} aria-hidden="true" /></a>
+          <>
+            <a className="button-primary wide" href={item.applicationUrl!} target="_blank" rel="noopener noreferrer">{applicationActionLabel} <ArrowUpRight size={16} aria-hidden="true" /></a>
+            {item.applicationMethod === "post" && <p>Follow postal delivery instructions in official notice. Form must arrive by stated deadline.</p>}
+          </>
         ) : (
           <>
             <button type="button" className="button-primary wide" disabled>Apply on the official site</button>
-            <p>{item.fixture ? "Demo record — there is no real application." : item.status === "closed" || item.status === "cancelled" ? "Applications for this cycle are not being accepted." : "We don't have a verified application link yet."}</p>
+            <p>{item.fixture ? "Demo record — there is no real application." : !approved ? "Application details await review against current official evidence." : item.status === "closed" || item.status === "cancelled" ? "Applications for this cycle are not being accepted." : "We don't have a verified application link yet."}</p>
           </>
         )}
       </footer>

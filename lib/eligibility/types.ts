@@ -35,6 +35,8 @@ export interface LanguageRequirement {
   language: string;
   requirement: string; // Preserve the authority's wording; no invented level equivalences.
   stage: Stage;
+  /** False when notice calls language knowledge desirable rather than mandatory. */
+  mandatory?: boolean;
   framework?: LanguageFramework;
   minimumLevel?: string;
   certificateRequired?: boolean;
@@ -45,6 +47,8 @@ export interface LanguageRequirement {
 export interface ApplicantProfile {
   dateOfBirth?: string; // YYYY-MM-DD
   nationality?: string; // ISO 3166-1 alpha-2
+  /** Foreign citizenship and Overseas Citizen of India status are distinct. Omitted means unknown. */
+  ociStatus?: "yes" | "no";
   residenceCountry?: string; // ISO 3166-1 alpha-2
   residenceSubdivision?: string; // ISO 3166-2, e.g. IN-MH
   education?: EducationLevel;
@@ -83,8 +87,18 @@ export interface EligibilityRules {
   education?: { minLevel: EducationLevel; fields?: string[]; finalYearAllowed?: boolean; evidence: string };
   nationality?: {
     allowed: string[];
+    /** Only set when the official notice expressly accepts Overseas Citizens of India. */
+    ociAccepted?: boolean;
     /** Nationalities accepted only with an extra certificate or permission. */
     conditional?: string[];
+    /** Source-specific explanation for a conditional route; absence uses generic wording. */
+    conditionalReason?: string;
+    /** Nationalities whose route cannot be established from nationality alone, or whose wording conflicts. `*` applies to all other nationalities. */
+    uncertain?: string[];
+    /** Source-specific explanation for uncertainty; absence uses conflict wording. */
+    uncertainReason?: string;
+    /** First stage where the published nationality rule applies; defaults to application. */
+    stage?: Stage;
     evidence: string;
   };
   residence?: { countries?: string[]; subdivisions?: string[]; stage?: Stage; evidence: string };

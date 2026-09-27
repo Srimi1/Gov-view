@@ -1,4 +1,4 @@
-import { jurisdictions, type Pathway } from "./opportunities.ts";
+import { jurisdictions, type AppointmentType, type Pathway } from "./opportunities.ts";
 
 export type PublicViewBounds = { west: number; south: number; east: number; north: number };
 export type PublicViewCamera = { latitude: number; longitude: number; height: number };
@@ -9,6 +9,7 @@ export type PublicViewTab = "explore" | "coverage";
 export type PublicViewState = {
   query: string;
   pathways: readonly Pathway[];
+  appointmentType?: AppointmentType | "";
   country: string;
   /** ISO 3166-2 state or region within `country`. */
   region?: string;
@@ -24,6 +25,7 @@ export type PublicViewState = {
 };
 
 const knownPathways = new Set<Pathway>(["recruitment", "licensing", "admission", "vocational"]);
+const knownAppointmentTypes = new Set<AppointmentType>(["permanent", "contract", "temporary", "deputation", "apprenticeship"]);
 const knownCountries = new Set(jurisdictions.map((item) => item.code));
 /** Cycle ids are lowercase slugs; real ids are only known after data loads, so check the shape. */
 const cyclePattern = /^[a-z0-9][a-z0-9-]{0,119}$/;
@@ -114,6 +116,7 @@ export function encodePublicView(state: PublicViewState): string {
 
   const pathways = cleanPathways(state.pathways);
   if (pathways.length) params.set("pathways", pathways.join(","));
+  if (knownAppointmentTypes.has(state.appointmentType as AppointmentType)) params.set("appointment", state.appointmentType!);
   if (knownCountries.has(state.country)) {
     params.set("country", state.country);
     if (typeof state.region === "string" && regionPattern.test(state.region) && state.region.startsWith(`${state.country}-`)) params.set("region", state.region);
@@ -145,6 +148,8 @@ export function decodePublicView(search: string): Partial<PublicViewState> {
 
   const pathwayParam = params.get("pathways");
   if (pathwayParam !== null) state.pathways = cleanPathways(pathwayParam.split(","));
+  const appointment = params.get("appointment");
+  if (knownAppointmentTypes.has(appointment as AppointmentType)) state.appointmentType = appointment as AppointmentType;
 
   const country = params.get("country");
   if (country !== null && knownCountries.has(country)) {

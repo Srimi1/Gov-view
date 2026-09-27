@@ -1,0 +1,19 @@
+.shell { position: relative; width: 100%; height: 100%; min-height: 360px; overflow: hidden; isolation: isolate; background: radial-gradient(circle at center, #dce8ea, #c5d9de 78%, #b8d0d7); }
+.canvas { position: absolute; inset: 0; width: 100%; height: 100%; cursor: grab; touch-action: none; }
+.canvas:active { cursor: grabbing; }
+.marker, .venue { position: absolute; z-index: 2; transform: translate(-50%, -50%); border: 0; cursor: pointer; }
+.marker { display: flex; align-items: center; gap: 5px; min-width: 26px; min-height: 26px; padding: 3px 7px; border: 1px solid #baf1ee; border-radius: 18px; background: #087e88; color: white; box-shadow: 0 2px 8px #062e3b88; font-size: 12px; font-weight: 700; }
+.marker[aria-current="true"] { background: #f2bc6b; border-color: white; color: #172b38; }
+.markerLabel { white-space: nowrap; font-size: 11px; font-weight: 500; }
+.venue { width: 22px; height: 22px; border: 2px solid white; border-radius: 50%; background: #c2562b; color: white; font-size: 10px; box-shadow: 0 2px 8px #062e3b88; }
+.controls { position: absolute; z-index: 3; top: 58px; left: 12px; display: grid; border: 1px solid #acc5cc; border-radius: 7px; overflow: hidden; }
+.controls button { width: 32px; height: 32px; border: 0; background: #f7fafa; color: #15374b; font-size: 22px; cursor: pointer; }
+.controls button + button { border-top: 1px solid #acc5cc; }
+.markerMenu { position: absolute; z-index: 3; top: 58px; right: 12px; width: min(240px, calc(100% - 65px)); border: 1px solid #acc5cc; border-radius: 7px; background: #f7fafa; color: #15374b; font-size: 13px; }
+.markerMenu summary { padding: 8px 10px; cursor: pointer; }
+.markerMenu ul { max-height: 240px; overflow: auto; margin: 0; padding: 0 5px 7px; list-style: none; }
+.markerMenu li button { display: flex; justify-content: space-between; gap: 8px; width: 100%; padding: 7px 5px; border: 0; border-radius: 4px; background: none; color: inherit; text-align: left; cursor: pointer; }
+.markerMenu li button:hover { background: #e1f2f2; }
+.credit { position: absolute; right: 10px; bottom: 7px; margin: 0; color: #234455; font-size: 11px; }
+.message { position: absolute; z-index: 2; left: 50%; top: 45%; transform: translate(-50%, -50%); padding: 12px 16px; border-radius: 7px; background: #f7fafa; color: #15374b; text-align: center; }
+@media (max-width: 959px) { .shell { min-height: 310px; } .markerLabel { display: none; } }

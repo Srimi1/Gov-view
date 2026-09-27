@@ -17,6 +17,7 @@ export function sanitizeProfile(input: unknown): ApplicantProfile {
     const value = typeof raw[key] === "string" ? (raw[key] as string).toUpperCase() : "";
     if (iso2.test(value)) profile[key] = value;
   }
+  if (profile.nationality && profile.nationality !== "IN" && (raw.ociStatus === "yes" || raw.ociStatus === "no")) profile.ociStatus = raw.ociStatus;
   const region = typeof raw.residenceSubdivision === "string" ? raw.residenceSubdivision.toUpperCase() : "";
   if (subdivision.test(region)) profile.residenceSubdivision = region;
   if (typeof raw.education === "string" && (educationLevels as readonly string[]).includes(raw.education)) profile.education = raw.education as ApplicantProfile["education"];

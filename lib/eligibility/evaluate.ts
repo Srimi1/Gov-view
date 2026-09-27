@@ -81,20 +81,27 @@ function checkEducation(rules: EligibilityRules, profile: ApplicantProfile, stag
   }
 
   if (profile.finalYear) {
-    if (!rule.finalYearAllowed) return fail("education", "The qualification must be complete by the cut-off date; final-year students are not accepted.", rule.evidence);
+    if (rule.finalYearAllowed === undefined) return unsure("education", "The notice does not establish whether final-year students may apply.", rule.evidence);
+    if (rule.finalYearAllowed === false) return fail("education", "The qualification must be complete by the cut-off date; final-year students are not accepted.", rule.evidence);
     if (stage === "outcome") return unsure("education", "Final-year students may apply, but you must show your result before appointment.", rule.evidence);
     return match("education", "Final-year students may apply.", rule.evidence);
   }
   return match("education", `You have ${educationNames[profile.education]}; ${educationNames[rule.minLevel]} is required.`, rule.evidence);
 }
 
-function checkNationality(rules: EligibilityRules, profile: ApplicantProfile): RuleCheck | null {
+function checkNationality(rules: EligibilityRules, profile: ApplicantProfile, stage: Stage): RuleCheck | null {
   const rule = rules.nationality;
   if (!rule) return null;
+  if (["apply", "selection", "outcome"].indexOf(stage) < ["apply", "selection", "outcome"].indexOf(rule.stage ?? "apply")) return null;
   if (!profile.nationality) return unsure("nationality", "Add your nationality to check this.", rule.evidence);
   const code = profile.nationality.toUpperCase();
   if (rule.allowed.includes("*") || rule.allowed.includes(code)) return match("nationality", "Your nationality is accepted.", rule.evidence);
-  if (rule.conditional?.includes(code)) return unsure("nationality", "Your nationality is accepted only with an extra certificate or permission.", rule.evidence);
+  if (rule.ociAccepted) {
+    if (profile.ociStatus === "yes") return match("nationality", "Your reported OCI status meets the published citizenship route. The authority must verify your OCI card.", rule.evidence);
+    if (profile.ociStatus !== "no") return unsure("nationality", "Add whether you hold Overseas Citizen of India (OCI) status to check this rule.", rule.evidence);
+  }
+  if (rule.conditional?.includes(code)) return unsure("nationality", rule.conditionalReason ?? "Your nationality is accepted only with an extra certificate or permission.", rule.evidence);
+  if (rule.uncertain?.includes(code) || rule.uncertain?.includes("*")) return unsure("nationality", rule.uncertainReason ?? "Published nationality clauses conflict for your nationality. Ask the authority to confirm eligibility.", rule.evidence);
   return fail("nationality", "The notice does not accept your nationality.", rule.evidence);
 }
 
@@ -149,7 +156,7 @@ function combine(checks: RuleCheck[]): EligibilityResult {
 
 function checkLanguages(rules: EligibilityRules, profile: ApplicantProfile, stage: Stage): RuleCheck[] {
   const stages: Stage[] = ["apply", "selection", "outcome"];
-  return (rules.languages ?? []).filter((rule) => stages.indexOf(rule.stage) <= stages.indexOf(stage)).map((rule) => {
+  return (rules.languages ?? []).filter((rule) => rule.mandatory !== false && stages.indexOf(rule.stage) <= stages.indexOf(stage)).map((rule) => {
     // Notice language is not evidence of a required proficiency level.
     if (!rule.evidence.trim() || !/^https:\/\//.test(rule.sourceUrl)) return unsure("language", "The language requirement needs official evidence.");
     const levels = rule.framework ? languageLevels[rule.framework] as readonly string[] : undefined;
@@ -174,7 +181,7 @@ function assess(rules: EligibilityRules | null | undefined, profile: ApplicantPr
 
   // Every stage re-checks the application criteria: passing citizenship never
   // overrides a failed age, residence, or qualification rule.
-  push(checkNationality(rules, profile));
+  push(checkNationality(rules, profile, stage));
   push(checkAge(rules, profile));
   push(checkEducation(rules, profile, stage));
   push(checkExperience(rules, profile));

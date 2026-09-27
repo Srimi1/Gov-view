@@ -67,6 +67,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
     onSave(sanitizeProfile({
       dateOfBirth: text("dateOfBirth"),
       nationality: text("nationality"),
+      ociStatus: nationality && nationality !== "IN" ? text("ociStatus") : undefined,
       residenceCountry: text("residenceCountry"),
       residenceSubdivision: text("residenceSubdivision"),
       education: text("education"),
@@ -95,6 +96,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
 
         <div className="privacy-note"><Lock size={14} aria-hidden="true" />Saved only in this browser. Never sent to us or added to links you share.</div>
 
+        <div className="dialog-scroll">
         <div className="form-grid">
           <label>Date of birth
             <input type="date" name="dateOfBirth" defaultValue={profile.dateOfBirth} max={today} min="1940-01-01" />
@@ -105,6 +107,16 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
               {countries.map((country) => <option key={country.code} value={country.code}>{country.name}</option>)}
             </select>
           </label>
+          {nationality && nationality !== "IN" && (
+            <label>Overseas Citizen of India (OCI) status
+              <select name="ociStatus" defaultValue={profile.ociStatus ?? ""}>
+                <option value="">Not specified</option>
+                <option value="yes">Yes, I hold OCI status</option>
+                <option value="no">No OCI status</option>
+              </select>
+              <small>Only relevant when an official notice accepts OCI applicants. Card and passport still need authority verification.</small>
+            </label>
+          )}
           <label>Country you live in
             <select name="residenceCountry" value={residence} onChange={(event) => setResidence(event.target.value)}>
               <option value="">Choose…</option>
@@ -187,6 +199,7 @@ export default function ProfileDialog({ open, profile, onClose, onSave, onClear 
           ))}
           <button type="button" className="button-quiet" disabled={languageSkills.length >= 12} onClick={() => setLanguageSkills((items) => [...items, { language: "en", framework: "CEFR", level: "" }])}>Add language</button>
         </fieldset>
+        </div>
 
         <footer className="dialog-foot">
           <button type="button" className="button-quiet danger" onClick={() => { onClear(); onClose(); }}>Delete my details</button>
