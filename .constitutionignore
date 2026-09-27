@@ -1,0 +1,9 @@
+# CONSTITUTION-GIT-GUARD per-repo false-positive list (documented control, see
+# _scan.sh header). Each entry below was proven a false positive by the lead's
+# pre-baseline secret audit on 2026-09-27 (evidence on docs/AGENT_BOARD.md):
+# public Akamai Boomerang RUM keys embedded in saved copies of public
+# government pages. They are visible to anyone via view-source, are not
+# credentials, and do not belong to this project.
+data/evidence/research/ca-fswep-2026-09-25.html
+data/evidence/research/navbrasil-fgv-2026.html
+data/evidence/research/world-source-mx-trabajaen-authority-referral-2026-09-27.html
