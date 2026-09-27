@@ -1,0 +1,36 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-ml-recruitment",
+  "records": [
+    {
+      "file": "data/evidence/research/meghalaya-advertisements.html",
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+      "bytes": 66848
+    },
+    {
+      "file": "data/evidence/research/meghalaya-03-2026.pdf",
+      "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+      "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+      "bytes": 621465
+    },
+    {
+      "file": "data/evidence/research/meghalaya-03-2026-fishery-age.pdf",
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+      "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+      "bytes": 112611
+    },
+    {
+      "file": "data/evidence/research/meghalaya-03-2026-coach-addendum.pdf",
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+      "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+      "bytes": 185617
+    }
+  ],
+  "notes": [
+    "Official advertisement archive and three scanned PDFs. Source robots.txt returned HTTP 404; no disallow rule was published.",
+    "Original notice has two separately applied post codes, 11 Fishery Officer vacancies and 2 Junior Football Coach vacancies, Indian-citizen requirement, 50-mark General English screening components and five published examination-centre cities.",
+    "3 June corrigendum changes Fishery Officer age range. 24 June addendum adds Coach BSc qualification route and extends online applications to 30 June at 17:00. Extension's scope for Fishery Officer is not explicit and requires founder decision.",
+    "Notice and corrections are scans; dates, rule wording, qualification alternatives, venue precision and any later amendments require founder verification. No CEFR level is inferred."
+  ]
+}

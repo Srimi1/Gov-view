@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://pihmct.py.gov.in/notice-board",
+  "fetchedAt": "2026-09-25T15:20:39.487Z",
+  "sha256": "643af2534214320be60c31d7ffa54a97940ff9ae5c32596e8d5daab65aaf6129",
+  "bytes": 110502,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pihmct.py.gov.in/applications-invited-03-posts-assistant-lecturer-contractual-basis",
+  "fetchedAt": "2026-09-25T15:20:40.247Z",
+  "sha256": "7cc2c008aef9ecda10966a1278502b5e2624dc7bb4430f078b7822ac2585530a",
+  "bytes": 106056,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pihmct.py.gov.in/sites/default/files/recruitment-notice-assistant-lecturer-contract.pdf",
+  "fetchedAt": "2026-09-25T15:20:42.555Z",
+  "sha256": "dd735c34aab12be48c1dd8ca95c7887647edb02e95c77bc68cb4a06db9fa2e00",
+  "bytes": 397673,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,149 @@
+{
+  "sourceId": "in-mh-actrec",
+  "collectedAt": "2026-09-25T03:32:40.974Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "TMC-ACTREC/ADVT/198/2026",
+      "programme": "Senior Resident — Transfusion Medicine (ACTREC)",
+      "status": "open",
+      "statusNote": "Original PDF and live index retained. Advertisement dated 24 September and index links online application; opening clock time and vacancy count are unknown. Founder review pending.",
+      "scopeLabel": "Tata Memorial Centre ACTREC, a Department of Atomic Energy grant-in-aid institution; tenured, non-permanent residency. Appointment may rotate to other TMC centres; those are job placements, not examination venues.",
+      "outcome": "Senior Resident appointment in Transfusion Medicine through 31 July 2027; vacancy count not printed",
+      "qualifications": "MD in Immuno-Haematology and Blood Transfusion or Transfusion Medicine, or equivalent postgraduate degree; all degrees must be National Medical Commission recognized. Maharashtra Medical Council registration is mandatory on appointment.",
+      "citizenshipRule": "Original ACTREC advertisement page 1 invites Indian nationals. Foreign citizens do not meet this published application criterion. Foreign education or overseas work does not change the nationality condition.",
+      "residenceRule": "No applicant domicile requirement is printed. Placement can rotate among TMC centres; work location is not an applicant residence rule.",
+      "selectionStages": [
+        "Online application and ₹100 fee",
+        "Qualification and document screening",
+        "MCQ if applicant numbers trigger one",
+        "Interview in person or online by request",
+        "Maharashtra Medical Council registration and joining checks"
+      ],
+      "fee": "₹100 online application fee. Separate ₹133,623 refundable caution deposit applies at joining or via five salary deductions, subject to notice conditions; it is not an application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-08",
+        "education": {
+          "minLevel": "master",
+          "fields": [
+            "Immuno-Haematology and Blood Transfusion",
+            "Transfusion Medicine"
+          ],
+          "evidence": "ACTREC 198/2026 PDF page 1: MD in named Transfusion Medicine subjects or equivalent PG degree; NMC recognition also required."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "ACTREC 198/2026 PDF page 1: applications invited from Indian Nationals."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm NMC-recognized MD or equivalent postgraduate degree, age 40 or relevant relaxation as of 8 October 2026, and documents. Foreign citizens do not meet printed Indian-national criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm degree proof and any required employer NOC; MCQ may be held before interview based on applicant numbers."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm Maharashtra Medical Council registration, joining deposit, service terms and any placement rotation."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "online",
+          "name": "Interview may be attended online if shortlisted candidate requests a link"
+        },
+        {
+          "kind": "unknown",
+          "name": "MCQ or in-person interview venue not yet published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://webapps.actrec.gov.in/actjrfapp/frm_Registration.aspx",
+      "changes": [],
+      "id": "actrec-senior-resident-transfusion-198-2026",
+      "sourceId": "in-mh-actrec",
+      "title": "Senior Resident — Transfusion Medicine (ACTREC)",
+      "authority": "Tata Memorial Centre ACTREC (Department of Atomic Energy grant-in-aid institution)",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MH"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "PDF page 2: online applications close 8 October 2026 at 17:30 IST. Index displays 24 September–8 October; first date is not explicitly labelled application opening."
+      },
+      "salary": "₹133,623–₹145,530 per month, depending on experience, per original PDF.",
+      "sources": [
+        {
+          "id": "in-mh-actrec:8f999b5df6f1",
+          "title": "ACTREC public jobs index, advertisement 198/2026",
+          "authority": "Tata Memorial Centre ACTREC (Department of Atomic Energy grant-in-aid institution)",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.actrec.gov.in/jobs",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.actrec.gov.in/jobs",
+          "sha256": "2fceb361c4453eac5a5500c72e5b8d96ebe5fc10efc4bf024110e76366eb2ccd",
+          "lastSuccessfulFetchAt": "2026-09-25T03:32:42.499Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mh-actrec:762ade4c9877",
+          "title": "ACTREC advertisement 198/2026 original notice",
+          "authority": "Tata Memorial Centre ACTREC (Department of Atomic Energy grant-in-aid institution)",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.actrec.gov.in/sites/default/files/2026-09/FINAL%20ADVT-%20Senior%20Resident%20%28Transfusion%20Medicine%29FINAL.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.actrec.gov.in/sites/default/files/2026-09/FINAL%20ADVT-%20Senior%20Resident%20%28Transfusion%20Medicine%29FINAL.pdf",
+          "sha256": "04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294",
+          "lastSuccessfulFetchAt": "2026-09-25T03:32:43.309Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.actrec.gov.in/jobs",
+      "fetchedAt": "2026-09-25T03:32:42.499Z",
+      "sha256": "2fceb361c4453eac5a5500c72e5b8d96ebe5fc10efc4bf024110e76366eb2ccd",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 62928
+    },
+    {
+      "url": "https://www.actrec.gov.in/sites/default/files/2026-09/FINAL%20ADVT-%20Senior%20Resident%20%28Transfusion%20Medicine%29FINAL.pdf",
+      "fetchedAt": "2026-09-25T03:32:43.309Z",
+      "sha256": "04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294",
+      "contentType": "application/pdf",
+      "bytes": 488799
+    }
+  ],
+  "warnings": [
+    "Only ACTREC advertisement 198/2026 is bound here; other permanent and walk-in rows on this feed remain coverage gaps.",
+    "Vacancy count, application opening instant and any language proficiency level are not printed in the reviewed notice.",
+    "Caution deposit applies at joining; it is separate from the ₹100 application fee."
+  ],
+  "approvalRevisions": {
+    "actrec-senior-resident-transfusion-198-2026": {
+      "evidenceRevision": "2c72cfe3e4d63df3b6c0312c7dcaa577bed9b02ddaa82b8a8e843231e145c94b",
+      "recordRevision": "35581638861f481ab17cb5030b98ee31a534518f602bc7c8cde518f4be983f1a"
+    }
+  }
+}

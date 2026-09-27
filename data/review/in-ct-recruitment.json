@@ -1,0 +1,188 @@
+{
+  "sourceId": "in-ct-recruitment",
+  "collectedAt": "2026-09-24T21:10:33.981Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "05/2026 · food-lab",
+      "programme": "Microbiologist (Food Laboratory)",
+      "status": "uncertain",
+      "statusNote": "Application dates and separate post applications read from official Hindi advertisement; governing timezone and founder review remain unresolved.",
+      "scopeLabel": "Chhattisgarh government recruitment; state reservation benefits and applicant domicile must be assessed separately",
+      "outcome": "Appointment as Microbiologist (Food Laboratory) (3 advertised vacancies; subject to revision)",
+      "qualifications": "Post-specific degrees, experience and age conditions in official Hindi advertisement need founder review.",
+      "citizenshipRule": "The Hindi notice invites Indian citizens and candidate categories recognized by Government of India. Whether a particular foreign citizen qualifies, and required documents, need verification. Do not infer an automatic yes or no.",
+      "residenceRule": "Chhattisgarh local-resident reservation and fee benefits are described separately. Residence outside the state is not treated as an automatic ban on applying.",
+      "selectionStages": [
+        "Written examination and interview, subject to notice conditions.",
+        "Question paper medium is stated as Hindi and English. No separate CEFR or other standardized language level is stated; notice-specific language eligibility needs review."
+      ],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://psc.cg.gov.in/",
+      "changes": [],
+      "id": "cgpsc-2026-05-food-lab",
+      "sourceId": "in-ct-recruitment",
+      "title": "Microbiologist (Food Laboratory)",
+      "authority": "Chhattisgarh Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-CT"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-10-09",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Applications open at 12:00 noon; governing timezone is not established. Later correction windows are separate from initial application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-ct-recruitment:fa84f1c1137f",
+          "title": "Official advertisement archive",
+          "authority": "Chhattisgarh Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://psc.cg.gov.in/Advertisement.php",
+          "sha256": "fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237",
+          "lastSuccessfulFetchAt": "2026-09-24T21:10:35.166Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://psc.cg.gov.in/Advertisement.php"
+        },
+        {
+          "id": "in-ct-recruitment:f4d11ad11752",
+          "title": "Advertisement 05/2026 (original Hindi)",
+          "authority": "Chhattisgarh Public Service Commission",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
+          "sha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+          "lastSuccessfulFetchAt": "2026-09-24T21:10:37.051Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "05/2026 · drug-lab",
+      "programme": "Microbiologist (Drug Laboratory)",
+      "status": "uncertain",
+      "statusNote": "Application dates and separate post applications read from official Hindi advertisement; governing timezone and founder review remain unresolved.",
+      "scopeLabel": "Chhattisgarh government recruitment; state reservation benefits and applicant domicile must be assessed separately",
+      "outcome": "Appointment as Microbiologist (Drug Laboratory) (2 advertised vacancies; subject to revision)",
+      "qualifications": "Post-specific degrees, experience and age conditions in official Hindi advertisement need founder review.",
+      "citizenshipRule": "The Hindi notice invites Indian citizens and candidate categories recognized by Government of India. Whether a particular foreign citizen qualifies, and required documents, need verification. Do not infer an automatic yes or no.",
+      "residenceRule": "Chhattisgarh local-resident reservation and fee benefits are described separately. Residence outside the state is not treated as an automatic ban on applying.",
+      "selectionStages": [
+        "Written examination and interview, subject to notice conditions.",
+        "Question paper medium is stated as Hindi and English. No separate CEFR or other standardized language level is stated; notice-specific language eligibility needs review."
+      ],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://psc.cg.gov.in/",
+      "changes": [],
+      "id": "cgpsc-2026-05-drug-lab",
+      "sourceId": "in-ct-recruitment",
+      "title": "Microbiologist (Drug Laboratory)",
+      "authority": "Chhattisgarh Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-CT"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-10-09",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Applications open at 12:00 noon; governing timezone is not established. Later correction windows are separate from initial application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-ct-recruitment:fa84f1c1137f",
+          "title": "Official advertisement archive",
+          "authority": "Chhattisgarh Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://psc.cg.gov.in/Advertisement.php",
+          "sha256": "fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237",
+          "lastSuccessfulFetchAt": "2026-09-24T21:10:35.166Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://psc.cg.gov.in/Advertisement.php"
+        },
+        {
+          "id": "in-ct-recruitment:f4d11ad11752",
+          "title": "Advertisement 05/2026 (original Hindi)",
+          "authority": "Chhattisgarh Public Service Commission",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
+          "sha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+          "lastSuccessfulFetchAt": "2026-09-24T21:10:37.051Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://psc.cg.gov.in/Advertisement.php",
+      "fetchedAt": "2026-09-24T21:10:35.166Z",
+      "sha256": "fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 27630
+    },
+    {
+      "url": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
+      "fetchedAt": "2026-09-24T21:10:37.051Z",
+      "sha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+      "contentType": "application/pdf",
+      "bytes": 2833316
+    }
+  ],
+  "warnings": [
+    "Draft connector covers only advertisement 05/2026. Other 2026 advertisements and departments remain coverage gaps.",
+    "Hindi applicant categories and post-specific qualifications, age, residence and language conditions require founder review. Bilingual question-paper medium is not a proficiency threshold."
+  ],
+  "approvalRevisions": {
+    "cgpsc-2026-05-food-lab": {
+      "evidenceRevision": "c3e1be1667fe1fabf33c7a51223002082d6d428bfc7b69d1ddce92f62f162731",
+      "recordRevision": "3e191b235a455cb673662a028307465cfcf916b48a8bbde8f0668df693f6142e"
+    },
+    "cgpsc-2026-05-drug-lab": {
+      "evidenceRevision": "c3e1be1667fe1fabf33c7a51223002082d6d428bfc7b69d1ddce92f62f162731",
+      "recordRevision": "258619037e2729dcb519399a65a7cc28da461d7af3fc6831df5a8e388d2b6788"
+    }
+  },
+  "researchAmendedAt": "2026-09-27T02:14:16.177Z"
+}

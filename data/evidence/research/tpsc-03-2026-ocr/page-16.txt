@@ -1,0 +1,64 @@
+Measurement of Non-electrical quantities:
+Study of the following transducers:
+Piezo-electric crystal.
+Thermistor.
+Strainguage.
+Proximity switch.
+Thermocouple.
+LVDT.
+Tachogenerator (a.c.& d.c.)
+Capacitive transducers
+Seismic transducers.
+CONTROL SYSTEM:
+Brief descriptions with physical example (along with schematic diagram) of:
+On-off controller.
+Proportional controller.
+Proportional plus derivative controller.
+P+I controller.
+P+D +I controller.
+
+5, ELECTRICAL INSTALLATION, MAINTENANCE AND TESTING
+
+General guidelines for Installation:
+
+Loading & unloading of heavy electrical m/c:
+
+Electrical Installation requirements:
+
+Earthing Installation:
+
+General requirement of electric installation according to I.E. Rules:
+Motor generator set for battery charging and to supply Yarious loads.
+Synchronization of two alternators. .
+Maintenance of electrical installations
+
+Insulations
+
+Troubleshooting
+
+Repair & maintenance with maintenance Schedule of
+
+D.C. machine
+
+Transformer
+
+Induction motor
+
+Switchgear & Substation:
+
+Relays
+
+Brief account of maintenance of contractors
+
+Storage Batteries
+
+OH lines and Cables
+
+Testing
+
+Electric Safety Regulations 5 ya
+\
+
+Deputy Sécretary
+Public Works Department
+

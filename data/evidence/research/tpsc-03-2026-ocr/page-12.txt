@@ -1,0 +1,54 @@
+Synchronous Machines. Construction. Circuit model. Operating characteristics
+Synchronous reactance. iciency. Voltage regulation. Salient-pole machine, Parallel
+operation. Hunting. Short circuit transients.
+
+Induction Machines. Construction. Principle of operation. Rotating fields.
+Characteristics and performance analysis. Determination of-circuit model. Circle
+diagram. Starting and speed control. Fractional KW motors. Single-phase
+synchronous and induction motors.
+
+2, POWER SYSTEMS
+
+Types of Power Stations, Hydro, Thermal and Nuclear Stations. Pumped storage
+plants. Economics and operating factors. Power transmission lines. Modeling and
+performance characteristics. Voltage control. Load flow studies. Optimal power
+system operation. Load frequency control. Symmetrical Components. Per
+Unit representation. Fault analysis. Transient and steady-state stability of power
+systems. Equal area criterion. Power system Transients. Power system Protection
+Circuit breakers, Relays. HVDC transmission.
+
+3. ANALOG AND DIGITAL ELECTRONICS AND CIRCUITS
+
+Semi conductor device physics, PN junctions and transistors, circuit models and
+parameters, FET, Zener, tunnel, Schottky, photo diodes and their applications,
+rectifier circuits, voltage regulators and multipliers, switching behavior of
+diodes and transistors. Small signal amplifiers, biasing circuits, frequency
+response and improvement, multistage amplifiers and feed-back amplifiers,
+D.C. amplifiers, Oscillators, Large signal amplifiers, coupling methods, push pull
+amplifiers, operational amplifiers, wave shaping cirguits. Multivibrators and flip-
+flops and their applications. Digital logic gate families, universal gates-
+combination circuits for arithmetic and logic operational, sequential logic
+circuits. Counters, registers, RAM and- ROMs.
+
+4, MICROPROCESSORS
+
+Microprocessor architecture-Instruction set and simple assembly language
+programming. Interfacing for memory and I/O. Applications of Micro-processors in
+power system.
+
+5. COMMUNICATION SYSTEMS
+
+Types of modulation; AM, FM and PM. Demodulators. Noise and bandwidth
+considerations. Digital communication systems. Pulse code
+modulation and demodulation. Elements of sound and vision broadcasting.
+Carrier communication. Frequency division and time division
+multiplexing, Telemetry system in power engineering.
+
+6. POWER ELECTRONICS
+
+Power Semiconductor devices. Thyristor. Power transistor, GTOs and MOSFETS.
+Characteristics and operation. AC to DC Converters; 1-phase and 3-phase DC to
+DC Converters; AC regulators. Thyristor controlled reactors; switched capacitor
+networks. Inverters; single-phase and 3-phase. Pulse width modulation.
+Sinusoidal modulation with uniform sampling. Switched mode power s) ies.
+

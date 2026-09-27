@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="XXTJI5YcGB2oSc5SArobdqLZ3gXbvzOOhIbj8dmB">
+
+        <title>E-Recruitment</title>
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+
+        <!-- Scripts -->
+        <link rel="preload" as="style" href="https://erecruitment.psc.gov.zw/build/assets/app-DxNGsLRZ.css" /><link rel="modulepreload" as="script" href="https://erecruitment.psc.gov.zw/build/assets/app-BfHZrpkp.js" /><link rel="stylesheet" href="https://erecruitment.psc.gov.zw/build/assets/app-DxNGsLRZ.css" /><script type="module" src="https://erecruitment.psc.gov.zw/build/assets/app-BfHZrpkp.js"></script>    </head>
+    <body class="font-sans antialiased">
+        <div class="min-h-screen bg-gray-100">
+                        
+            <!-- Public landing header (guests only) -->
+    <header
+        x-data="{ open: false, scrolled: false }"
+        @scroll.window="scrolled = window.scrollY > 20"
+        class="sticky top-0 z-50 bg-gradient-to-r from-indigo-400 via-indigo-600 to-indigo-900"
+    >
+        <div
+            class="absolute inset-0 bg-indigo-950/90 backdrop-blur-md transition-opacity duration-300"
+            :class="scrolled ? 'opacity-100' : 'opacity-0'"
+        ></div>
+
+        <div class="relative z-10 max-w-7xl mx-auto px-3 sm:px-4 lg:px-6">
+            <div class="flex items-center justify-between gap-2 h-14 sm:h-[72px]">
+                <a href="https://erecruitment.psc.gov.zw" class="flex items-center gap-2 sm:gap-3 min-w-0 shrink rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900">
+                    <div class="relative h-10 w-10 sm:h-12 sm:w-12 shrink-0 overflow-hidden rounded-full border-2 border-white/80 shadow-sm bg-white">
+                        <img src="https://erecruitment.psc.gov.zw/assets/logo.png" alt="Public Service Commission"
+                             class="h-full w-full object-contain" />
+                    </div>
+                    <span class="font-semibold text-sm sm:text-lg leading-tight text-white whitespace-nowrap">
+                        PSC Erecruitment<br class="hidden sm:block" /> System
+                    </span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-6">
+                    <nav aria-label="Primary" class="flex items-center gap-6">
+                        <a href="#latest-opportunities"
+                           class="relative text-white/90 font-medium hover:text-white transition-colors after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-yellow-400 after:transition-all after:duration-300 hover:after:w-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900 rounded-sm">
+                            Jobs
+                        </a>
+                        <a href="#how-to-apply"
+                           class="relative text-white/90 font-medium hover:text-white transition-colors after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-yellow-400 after:transition-all after:duration-300 hover:after:w-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900 rounded-sm">
+                            How to Apply
+                        </a>
+                        <a href="#faq"
+                           class="relative text-white/90 font-medium hover:text-white transition-colors after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-yellow-400 after:transition-all after:duration-300 hover:after:w-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900 rounded-sm">
+                            FAQs
+                        </a>
+                    </nav>
+
+                    <div class="flex items-center gap-3 pl-6 border-l border-white/25">
+                        <a href="https://erecruitment.psc.gov.zw/login"
+                           class="inline-flex items-center rounded-full border border-white/70 px-5 py-1.5 text-sm font-semibold text-white hover:bg-white/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900">
+                            Login
+                        </a>
+                        <a href="https://erecruitment.psc.gov.zw/register"
+                           class="inline-flex items-center rounded-full bg-yellow-500 px-5 py-1.5 text-sm font-bold text-indigo-900 shadow-sm hover:bg-yellow-400 active:bg-yellow-600 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-500 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900">
+                            Register
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Mobile hamburger -->
+                <button
+                    @click="open = !open"
+                    type="button"
+                    class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-white hover:bg-white/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400 focus-visible:ring-offset-2 focus-visible:ring-offset-indigo-900"
+                    :aria-expanded="open.toString()"
+                    aria-controls="guest-mobile-menu"
+                    aria-label="Toggle menu"
+                >
+                    <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                        <path :class="{ 'hidden': open, 'inline-flex': !open }" class="inline-flex" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        <path :class="{ 'hidden': !open, 'inline-flex': open }" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Mobile menu panel -->
+            <div
+                id="guest-mobile-menu"
+                x-show="open"
+                x-transition:enter="transition ease-out duration-200"
+                x-transition:enter-start="opacity-0 -translate-y-2"
+                x-transition:enter-end="opacity-100 translate-y-0"
+                x-transition:leave="transition ease-in duration-150"
+                x-transition:leave-start="opacity-100 translate-y-0"
+                x-transition:leave-end="opacity-0 -translate-y-2"
+                class="md:hidden pb-4"
+                style="display: none;"
+                @click.outside="open = false"
+            >
+                <nav aria-label="Primary" class="flex flex-col gap-1 border-t border-white/20 pt-3">
+                    <a href="#latest-opportunities" @click="open = false" class="rounded-md px-3 py-2.5 text-white/90 font-medium hover:bg-white/10 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400">Jobs</a>
+                    <a href="#how-to-apply" @click="open = false" class="rounded-md px-3 py-2.5 text-white/90 font-medium hover:bg-white/10 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400">How to Apply</a>
+                    <a href="#faq" @click="open = false" class="rounded-md px-3 py-2.5 text-white/90 font-medium hover:bg-white/10 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400">FAQs</a>
+                    <div class="flex items-center gap-3 px-3 pt-3">
+                        <a href="https://erecruitment.psc.gov.zw/login" class="flex-1 inline-flex items-center justify-center rounded-full border border-white/70 px-4 py-2.5 text-sm font-semibold text-white hover:bg-white/10 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-400">Login</a>
+                        <a href="https://erecruitment.psc.gov.zw/register" class="flex-1 inline-flex items-center justify-center rounded-full bg-yellow-500 px-4 py-2.5 text-sm font-bold text-indigo-900 hover:bg-yellow-400 active:bg-yellow-600 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-500">Register</a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+            <!-- Page Heading -->
+            
+            <!-- Page Content -->
+            <main>
+                <!-- Hero Section -->
+    <div class="relative bg-indigo-900 overflow-hidden">
+        <div class="absolute inset-0">
+            <img src="https://erecruitment.psc.gov.zw/assets/cover.jpeg" alt="" class="h-full w-full object-cover scale-105 blur-[2px]" fetchpriority="high" />
+            <div class="absolute inset-0 bg-indigo-950/50 mix-blend-multiply"></div>
+            <div class="absolute inset-0 bg-gradient-to-b from-indigo-950/40 via-indigo-900/50 to-indigo-950/65"></div>
+        </div>
+        <div class="relative max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
+            <h1 class="text-[30px] sm:text-[38px] lg:text-[48px] xl:text-[56px] font-extrabold leading-tight tracking-tight text-white text-center [text-shadow:_0_2px_12px_rgb(0_0_0_/_45%)]">
+                Find Your Career in<br class="block" /> <span class="text-yellow-400">Zimbabwe's Public Services</span>
+            </h1>
+            <p class="mt-3 max-w-3xl mx-auto text-[15px] sm:text-[17px] lg:text-[19px] xl:text-[20px] text-indigo-100 text-center [text-shadow:_0_2px_12px_rgb(0_0_0_/_45%)]">
+                Join the Public Service Commission and contribute to building a prosperous nation through dedicated public service work.
+            </p>
+
+            <!-- Search Section in Hero -->
+            <div class="mt-6 max-w-4xl mx-auto bg-white rounded-xl shadow-xl p-2 sm:p-3">
+                <form action="https://erecruitment.psc.gov.zw" method="GET" class="flex flex-col md:flex-row gap-2">
+                    <div class="flex-grow relative">
+                        <label for="search-q" class="sr-only">Job title, keywords, or company</label>
+                        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                            </svg>
+                        </div>
+                        <input type="text" id="search-q" name="q" value="" placeholder="Job title, keywords, or company"
+                               class="block w-full h-[60px] pl-11 pr-3 border-0 rounded-xl ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-yellow-400 focus:ring-offset-1 sm:text-sm sm:leading-6">
+                    </div>
+                    <div class="md:w-52 relative">
+                        <label for="search-location" class="sr-only">Location</label>
+                        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                            </svg>
+                        </div>
+                        <select id="search-location" name="location" class="block w-full h-[60px] pl-11 pr-10 border-0 rounded-xl ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-yellow-400 focus:ring-offset-1 sm:text-sm sm:leading-6">
+                            <option value="">All Locations</option>
+                                                                                                                </select>
+                    </div>
+                    <div class="md:w-52 relative">
+                        <label for="search-category" class="sr-only">Category</label>
+                        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                            <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7h-3V5a2 2 0 00-2-2H9a2 2 0 00-2 2v2H4a1 1 0 00-1 1v10a2 2 0 002 2h14a2 2 0 002-2V8a1 1 0 00-1-1zM9 5h6v2H9V5z" />
+                            </svg>
+                        </div>
+                        <select id="search-category" name="category" class="block w-full h-[60px] pl-11 pr-10 border-0 rounded-xl ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-yellow-400 focus:ring-offset-1 sm:text-sm sm:leading-6">
+                            <option value="">All Categories</option>
+                                                                                                                </select>
+                    </div>
+                    <button type="submit" class="flex-shrink-0 h-[60px] bg-yellow-500 hover:bg-yellow-400 active:bg-yellow-600 text-indigo-900 font-bold px-8 rounded-xl transition-colors duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-yellow-500 focus-visible:ring-offset-2">
+                        Find Jobs
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div id="latest-opportunities" class="scroll-mt-28 bg-gray-50 pb-10 pt-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-3xl font-bold text-gray-900">Latest Opportunities</h2>
+                                    <span class="text-sm text-gray-500 font-medium">
+                        Showing 1 - 3 of 3
+                    </span>
+                            </div>
+
+                            <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                                            <div class="group relative bg-white rounded-2xl shadow-sm border border-gray-200 hover:shadow-xl hover:border-indigo-300 transition-all duration-300 flex flex-col h-full">
+                            <div class="p-8 flex-grow flex flex-col">
+                                <div class="flex justify-between items-start mb-4">
+                                    <div class="flex flex-wrap gap-2">
+                                        <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-indigo-50 text-indigo-700">
+                                            Full-time
+                                        </div>
+                                                                                    <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-gray-100 text-gray-700 border border-gray-200">
+                                                Ref: A/GEN/13/32
+                                            </div>
+                                                                            </div>
+                                                                            <span class="flex h-3 w-3">
+                                            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500" title="Ending Soon"></span>
+                                        </span>
+                                                                    </div>
+                                
+                                <h3 class="text-xl font-bold text-gray-900 mb-2 uppercase group-hover:text-indigo-600 transition-colors">
+                                    <a href="https://erecruitment.psc.gov.zw/jobs/216" class="focus:outline-none">
+                                        <span class="absolute inset-0" aria-hidden="true"></span>
+                                        Deputy Director, Information Communication Technology Development and Consultancy
+                                    </a>
+                                </h3>
+
+                                <p class="text-gray-500 text-sm font-medium mb-4 flex items-center uppercase">
+                                    <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                                    </svg>
+                                                                            Ministry of Information, Communication Technology and Postal and Courier Services
+                                                                    </p>
+                                
+                                <p class="text-gray-600 line-clamp-3 mb-6 text-sm flex-grow">
+                                    Contribute to the formulation, implementation, and review of national ICT policies and strategies in line with the Ministry&#039;s mandate and national dev...
+                                </p>
+                                
+                                <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
+                                    <div class="flex items-center text-sm text-gray-500">
+                                        <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                        </svg>
+                                        Harare
+                                    </div>
+                                                                            <div class="text-sm font-medium text-red-600">
+                                            Closes Oct 05
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="group relative bg-white rounded-2xl shadow-sm border border-gray-200 hover:shadow-xl hover:border-indigo-300 transition-all duration-300 flex flex-col h-full">
+                            <div class="p-8 flex-grow flex flex-col">
+                                <div class="flex justify-between items-start mb-4">
+                                    <div class="flex flex-wrap gap-2">
+                                        <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-indigo-50 text-indigo-700">
+                                            Full-time
+                                        </div>
+                                                                                    <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-gray-100 text-gray-700 border border-gray-200">
+                                                Ref: A/GEN/13/7
+                                            </div>
+                                                                            </div>
+                                                                            <span class="flex h-3 w-3">
+                                            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500" title="Ending Soon"></span>
+                                        </span>
+                                                                    </div>
+                                
+                                <h3 class="text-xl font-bold text-gray-900 mb-2 uppercase group-hover:text-indigo-600 transition-colors">
+                                    <a href="https://erecruitment.psc.gov.zw/jobs/215" class="focus:outline-none">
+                                        <span class="absolute inset-0" aria-hidden="true"></span>
+                                        Manager Foreign Service
+                                    </a>
+                                </h3>
+
+                                <p class="text-gray-500 text-sm font-medium mb-4 flex items-center uppercase">
+                                    <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                                    </svg>
+                                                                            Public Service Commission
+                                                                    </p>
+                                
+                                <p class="text-gray-600 line-clamp-3 mb-6 text-sm flex-grow">
+                                    The Manager of Foreign Services for Zimbabwe’s Foreign Missions is a key leadership position which is mandated to address staffing needs for diplomati...
+                                </p>
+                                
+                                <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
+                                    <div class="flex items-center text-sm text-gray-500">
+                                        <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                        </svg>
+                                        Harare
+                                    </div>
+                                                                            <div class="text-sm font-medium text-red-600">
+                                            Closes Oct 02
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="group relative bg-white rounded-2xl shadow-sm border border-gray-200 hover:shadow-xl hover:border-indigo-300 transition-all duration-300 flex flex-col h-full">
+                            <div class="p-8 flex-grow flex flex-col">
+                                <div class="flex justify-between items-start mb-4">
+                                    <div class="flex flex-wrap gap-2">
+                                        <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-indigo-50 text-indigo-700">
+                                            Full-time
+                                        </div>
+                                                                                    <div class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-gray-100 text-gray-700 border border-gray-200">
+                                                Ref: A/GEN/14
+                                            </div>
+                                                                            </div>
+                                                                            <span class="flex h-3 w-3">
+                                            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-500" title="Ending Soon"></span>
+                                        </span>
+                                                                    </div>
+                                
+                                <h3 class="text-xl font-bold text-gray-900 mb-2 uppercase group-hover:text-indigo-600 transition-colors">
+                                    <a href="https://erecruitment.psc.gov.zw/jobs/195" class="focus:outline-none">
+                                        <span class="absolute inset-0" aria-hidden="true"></span>
+                                        Accountant General
+                                    </a>
+                                </h3>
+
+                                <p class="text-gray-500 text-sm font-medium mb-4 flex items-center uppercase">
+                                    <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                                    </svg>
+                                                                            Ministry of Finance and Economic Development
+                                                                    </p>
+                                
+                                <p class="text-gray-600 line-clamp-3 mb-6 text-sm flex-grow">
+                                    Preside over the planning, development, implementation and formulation of policy pertaining to accounting systems, procedures, rules and regulations....
+                                </p>
+                                
+                                <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
+                                    <div class="flex items-center text-sm text-gray-500">
+                                        <svg class="flex-shrink-0 mr-1.5 h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                        </svg>
+                                        Harare
+                                    </div>
+                                                                            <div class="text-sm font-medium text-red-600">
+                                            Closes Oct 16
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
+                
+                <div class="mt-12">
+                    
+                </div>
+                    </div>
+    </div>
+
+    <!-- How to Apply -->
+        <section id="how-to-apply" class="scroll-mt-28 bg-gray-50 pb-14" aria-labelledby="how-to-apply-heading">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 id="how-to-apply-heading" class="text-3xl font-bold text-gray-900 text-center mb-10">How to Apply</h2>
+
+            <div class="relative">
+                <div class="hidden lg:block absolute top-7 left-0 right-0 h-0.5 bg-gray-200" aria-hidden="true"></div>
+                <div class="lg:hidden absolute left-7 top-0 bottom-0 w-0.5 bg-gray-200" aria-hidden="true"></div>
+
+                <ol class="relative grid gap-10 lg:grid-cols-5 lg:gap-6">
+                                            <li class="reveal relative flex items-start gap-4 lg:flex-col lg:items-center lg:text-center" style="transition-delay: 0ms">
+                            <div class="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-yellow-500 text-indigo-900 text-xl font-bold shadow-md">
+                                1
+                            </div>
+                            <div class="lg:mt-2">
+                                <h3 class="text-base font-semibold text-gray-900">Register Account</h3>
+                                <p class="mt-1 text-sm text-gray-500 leading-relaxed">Create your PSC eRecruitment account with a few personal details.</p>
+                            </div>
+                        </li>
+                                            <li class="reveal relative flex items-start gap-4 lg:flex-col lg:items-center lg:text-center" style="transition-delay: 100ms">
+                            <div class="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-red-600 text-white text-xl font-bold shadow-md">
+                                2
+                            </div>
+                            <div class="lg:mt-2">
+                                <h3 class="text-base font-semibold text-gray-900">Complete Profile</h3>
+                                <p class="mt-1 text-sm text-gray-500 leading-relaxed">Add your qualifications, work experience, skills, and upload your CV.</p>
+                            </div>
+                        </li>
+                                            <li class="reveal relative flex items-start gap-4 lg:flex-col lg:items-center lg:text-center" style="transition-delay: 200ms">
+                            <div class="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-indigo-900 text-white text-xl font-bold shadow-md">
+                                3
+                            </div>
+                            <div class="lg:mt-2">
+                                <h3 class="text-base font-semibold text-gray-900">Search Vacancies</h3>
+                                <p class="mt-1 text-sm text-gray-500 leading-relaxed">Browse open positions and filter by location or category.</p>
+                            </div>
+                        </li>
+                                            <li class="reveal relative flex items-start gap-4 lg:flex-col lg:items-center lg:text-center" style="transition-delay: 300ms">
+                            <div class="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-yellow-500 text-indigo-900 text-xl font-bold shadow-md">
+                                4
+                            </div>
+                            <div class="lg:mt-2">
+                                <h3 class="text-base font-semibold text-gray-900">Submit Application</h3>
+                                <p class="mt-1 text-sm text-gray-500 leading-relaxed">Apply to any vacancy you qualify for in just a few clicks.</p>
+                            </div>
+                        </li>
+                                            <li class="reveal relative flex items-start gap-4 lg:flex-col lg:items-center lg:text-center" style="transition-delay: 400ms">
+                            <div class="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-red-600 text-white text-xl font-bold shadow-md">
+                                5
+                            </div>
+                            <div class="lg:mt-2">
+                                <h3 class="text-base font-semibold text-gray-900">Track Application Status</h3>
+                                <p class="mt-1 text-sm text-gray-500 leading-relaxed">Follow your application&#039;s progress from your dashboard.</p>
+                            </div>
+                        </li>
+                                    </ol>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Join Public Service -->
+        <section class="bg-white py-14" aria-labelledby="why-join-heading">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 id="why-join-heading" class="text-3xl font-bold text-gray-900 text-center mb-8">Why Join Public Service</h2>
+            <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+                                    <div class="reveal rounded-2xl border border-gray-100 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:-translate-y-1 transition-[transform,box-shadow] duration-300" style="transition-delay: 0ms">
+                        <div class="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full bg-indigo-50 text-indigo-700">
+                            <svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                            </svg>
+                        </div>
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Career Growth</h3>
+                        <p class="text-gray-500 text-sm leading-relaxed">Structured progression paths across ministries, departments, and grades.</p>
+                    </div>
+                                    <div class="reveal rounded-2xl border border-gray-100 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:-translate-y-1 transition-[transform,box-shadow] duration-300" style="transition-delay: 100ms">
+                        <div class="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full bg-indigo-50 text-indigo-700">
+                            <svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">National Impact</h3>
+                        <p class="text-gray-500 text-sm leading-relaxed">Work that directly shapes public services for the people of Zimbabwe.</p>
+                    </div>
+                                    <div class="reveal rounded-2xl border border-gray-100 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:-translate-y-1 transition-[transform,box-shadow] duration-300" style="transition-delay: 200ms">
+                        <div class="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full bg-indigo-50 text-indigo-700">
+                            <svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422A12.083 12.083 0 0121 12.5c0 1.474-.298 2.878-.84 4.15M12 14L5.84 10.578A12.083 12.083 0 003 12.5c0 1.474.298 2.878.84 4.15M12 14v7" />
+                            </svg>
+                        </div>
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Professional Development</h3>
+                        <p class="text-gray-500 text-sm leading-relaxed">Ongoing training and skills programmes throughout your career.</p>
+                    </div>
+                                    <div class="reveal rounded-2xl border border-gray-100 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:-translate-y-1 transition-[transform,box-shadow] duration-300" style="transition-delay: 300ms">
+                        <div class="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full bg-indigo-50 text-indigo-700">
+                            <svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Job Stability</h3>
+                        <p class="text-gray-500 text-sm leading-relaxed">The security and benefits of a permanent public service career.</p>
+                    </div>
+                            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+        <section id="faq" class="scroll-mt-28 bg-gray-50 py-14" aria-labelledby="faq-heading">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 id="faq-heading" class="reveal text-3xl font-bold text-gray-900 text-center mb-8">Frequently Asked Questions</h2>
+            <div class="space-y-4">
+                                    <div x-data="{ open: false }" class="reveal rounded-2xl border border-gray-200 bg-white overflow-hidden" style="transition-delay: 0ms">
+                        <button
+                            type="button"
+                            @click="open = !open"
+                            :aria-expanded="open.toString()"
+                            aria-controls="faq-answer-0"
+                            class="flex w-full items-center justify-between gap-4 px-6 py-5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-inset"
+                        >
+                            <span class="font-semibold text-gray-900">How do I apply?</span>
+                            <svg class="h-5 w-5 shrink-0 text-gray-400 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        <div
+                            id="faq-answer-0"
+                            x-show="open"
+                            x-transition:enter="transition ease-out duration-200"
+                            x-transition:enter-start="opacity-0 -translate-y-1"
+                            x-transition:enter-end="opacity-100 translate-y-0"
+                            x-transition:leave="transition ease-in duration-150"
+                            x-transition:leave-start="opacity-100 translate-y-0"
+                            x-transition:leave-end="opacity-0 -translate-y-1"
+                            style="display: none;"
+                        >
+                            <p class="px-6 pb-5 text-sm text-gray-600 leading-relaxed">Register an account, complete your profile, then click Apply on any vacancy you&#039;re qualified for.</p>
+                        </div>
+                    </div>
+                                    <div x-data="{ open: false }" class="reveal rounded-2xl border border-gray-200 bg-white overflow-hidden" style="transition-delay: 75ms">
+                        <button
+                            type="button"
+                            @click="open = !open"
+                            :aria-expanded="open.toString()"
+                            aria-controls="faq-answer-1"
+                            class="flex w-full items-center justify-between gap-4 px-6 py-5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-inset"
+                        >
+                            <span class="font-semibold text-gray-900">Can I edit my application?</span>
+                            <svg class="h-5 w-5 shrink-0 text-gray-400 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        <div
+                            id="faq-answer-1"
+                            x-show="open"
+                            x-transition:enter="transition ease-out duration-200"
+                            x-transition:enter-start="opacity-0 -translate-y-1"
+                            x-transition:enter-end="opacity-100 translate-y-0"
+                            x-transition:leave="transition ease-in duration-150"
+                            x-transition:leave-start="opacity-100 translate-y-0"
+                            x-transition:leave-end="opacity-0 -translate-y-1"
+                            style="display: none;"
+                        >
+                            <p class="px-6 pb-5 text-sm text-gray-600 leading-relaxed">You can update your profile and CVs at any time. A submitted application can be withdrawn and reapplied to while the vacancy is still open.</p>
+                        </div>
+                    </div>
+                                    <div x-data="{ open: false }" class="reveal rounded-2xl border border-gray-200 bg-white overflow-hidden" style="transition-delay: 150ms">
+                        <button
+                            type="button"
+                            @click="open = !open"
+                            :aria-expanded="open.toString()"
+                            aria-controls="faq-answer-2"
+                            class="flex w-full items-center justify-between gap-4 px-6 py-5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-inset"
+                        >
+                            <span class="font-semibold text-gray-900">How do I track my application?</span>
+                            <svg class="h-5 w-5 shrink-0 text-gray-400 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        <div
+                            id="faq-answer-2"
+                            x-show="open"
+                            x-transition:enter="transition ease-out duration-200"
+                            x-transition:enter-start="opacity-0 -translate-y-1"
+                            x-transition:enter-end="opacity-100 translate-y-0"
+                            x-transition:leave="transition ease-in duration-150"
+                            x-transition:leave-start="opacity-100 translate-y-0"
+                            x-transition:leave-end="opacity-0 -translate-y-1"
+                            style="display: none;"
+                        >
+                            <p class="px-6 pb-5 text-sm text-gray-600 leading-relaxed">Open &quot;My Applications&quot; from your dashboard to see the status of everything you&#039;ve submitted.</p>
+                        </div>
+                    </div>
+                                    <div x-data="{ open: false }" class="reveal rounded-2xl border border-gray-200 bg-white overflow-hidden" style="transition-delay: 225ms">
+                        <button
+                            type="button"
+                            @click="open = !open"
+                            :aria-expanded="open.toString()"
+                            aria-controls="faq-answer-3"
+                            class="flex w-full items-center justify-between gap-4 px-6 py-5 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-inset"
+                        >
+                            <span class="font-semibold text-gray-900">What documents are required?</span>
+                            <svg class="h-5 w-5 shrink-0 text-gray-400 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </button>
+                        <div
+                            id="faq-answer-3"
+                            x-show="open"
+                            x-transition:enter="transition ease-out duration-200"
+                            x-transition:enter-start="opacity-0 -translate-y-1"
+                            x-transition:enter-end="opacity-100 translate-y-0"
+                            x-transition:leave="transition ease-in duration-150"
+                            x-transition:leave-start="opacity-100 translate-y-0"
+                            x-transition:leave-end="opacity-0 -translate-y-1"
+                            style="display: none;"
+                        >
+                            <p class="px-6 pb-5 text-sm text-gray-600 leading-relaxed">A CV, academic certificates, and any qualification or skills documents the vacancy listing asks for.</p>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-indigo-950 text-indigo-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <nav aria-label="Footer" class="grid gap-10 sm:grid-cols-2 lg:grid-cols-5">
+                <div class="lg:col-span-1">
+                    <div class="flex items-center gap-2 mb-4">
+                        <span class="h-2 w-2 rounded-full bg-yellow-400"></span>
+                        <span class="font-semibold text-lg text-white">eRecruitment</span>
+                    </div>
+                    <p class="text-sm text-indigo-200 leading-relaxed">
+                        The Public Service Commission is committed to building a competent and professional civil service for Zimbabwe.
+                    </p>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Job Search</h4>
+                    <ul class="space-y-2 text-sm text-indigo-200">
+                        <li><a href="https://erecruitment.psc.gov.zw" class="hover:text-yellow-400 transition-colors">Latest Vacancies</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Job Categories</a></li>
+                        <li><a href="#how-to-apply" class="hover:text-yellow-400 transition-colors">Application Process</a></li>
+                        <li><a href="#faq" class="hover:text-yellow-400 transition-colors">FAQs</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Career Planning</h4>
+                    <ul class="space-y-2 text-sm text-indigo-200">
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Career Development</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Training Programmes</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Resources</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Career Path Guide</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Ministries</h4>
+                    <ul class="space-y-2 text-sm text-indigo-200">
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Ministry Listings</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Departmental Structure</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Government Services</a></li>
+                        <li><a href="#" class="hover:text-yellow-400 transition-colors">Contact Directory</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Contact Us</h4>
+                    <address class="not-italic text-sm text-indigo-200 space-y-2 leading-relaxed">
+                        <p>Julius Nyerere Way &amp; Sam Nujoma Street,<br>Harare, Zimbabwe</p>
+                        <p>Phone: <a href="tel:+2632427008813" class="hover:text-yellow-400 transition-colors">+263 242 700 881-3</a></p>
+                        <p>Email: <a href="mailto:feedback@psc.org.zw" class="hover:text-yellow-400 transition-colors">feedback@psc.org.zw</a></p>
+                    </address>
+                </div>
+            </nav>
+
+            <div class="mt-8 pt-6 border-t border-indigo-800/60 flex flex-col sm:flex-row items-center justify-between gap-6">
+                <div class="flex items-center gap-4">
+                    <a href="#" aria-label="Facebook" class="text-indigo-300 hover:text-yellow-400 transition-colors">
+                        <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.16 8.44 9.94v-7.03H7.9v-2.91h2.54V9.85c0-2.5 1.49-3.89 3.78-3.89 1.1 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.44 2.91h-2.34V22c4.78-.78 8.44-4.94 8.44-9.94z"/></svg>
+                    </a>
+                    <a href="#" aria-label="Twitter" class="text-indigo-300 hover:text-yellow-400 transition-colors">
+                        <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.37-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21-.36.1-.74.15-1.13.15-.28 0-.55-.03-.81-.08.55 1.71 2.14 2.95 4.03 2.98A8.6 8.6 0 012 18.58 12.13 12.13 0 008.29 20.5c7.55 0 11.68-6.26 11.68-11.68 0-.18 0-.36-.01-.53.8-.58 1.5-1.3 2.05-2.12z"/></svg>
+                    </a>
+                    <a href="#" aria-label="LinkedIn" class="text-indigo-300 hover:text-yellow-400 transition-colors">
+                        <svg class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3a2 2 0 012 2v14a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14zM8.34 18v-8.4H5.67V18h2.67zM7 8.48A1.55 1.55 0 107 5.4a1.55 1.55 0 000 3.08zM18.34 18h.01v-4.68c0-2.5-1.34-3.67-3.13-3.67-1.44 0-2.09.79-2.44 1.35v-1.16H10.1c.03.71 0 8.16 0 8.16h2.67v-4.56c0-.24.02-.49.09-.66.2-.49.65-1 1.4-1 .99 0 1.39.75 1.39 1.86V18h2.69z"/></svg>
+                    </a>
+                    <a href="#" aria-label="Instagram" class="text-indigo-300 hover:text-yellow-400 transition-colors">
+                        <svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+                            <rect x="3" y="3" width="18" height="18" rx="5" />
+                            <circle cx="12" cy="12" r="4" />
+                            <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+                        </svg>
+                    </a>
+                </div>
+                <ul class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm text-indigo-300">
+                    <li><a href="https://erecruitment.psc.gov.zw" class="hover:text-yellow-400 transition-colors">About PSC</a></li>
+                    <li><a href="https://erecruitment.psc.gov.zw/privacy-policy" class="hover:text-yellow-400 transition-colors">Privacy Policy</a></li>
+                    <li><a href="https://erecruitment.psc.gov.zw/terms-conditions" class="hover:text-yellow-400 transition-colors">Terms &amp; Conditions</a></li>
+                    <li><a href="https://erecruitment.psc.gov.zw/accessibility-statement" class="hover:text-yellow-400 transition-colors">Accessibility Statement</a></li>
+                </ul>
+            </div>
+
+            <div class="mt-4 pt-4 border-t border-indigo-800/60 text-center">
+                <p class="text-sm text-indigo-300">
+                    &copy; 2026 Public Service Commission of Zimbabwe. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+            </main>
+        </div>
+    </body>
+</html>

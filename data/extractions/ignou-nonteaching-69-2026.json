@@ -1,0 +1,25 @@
+{
+  "indexUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+  "documentUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+  "documentSha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+  "advertisement": "69/2026/Admn.",
+  "postedOn": "2026-09-23",
+  "opensOn": "2026-10-03",
+  "closesOn": "2026-11-02",
+  "cutoffLocalTime": "23:59:59",
+  "hardCopyClosesOn": "2026-11-12",
+  "posts": [
+    { "number": 1, "title": "Technical Assistant — LMS", "vacancies": 2, "ageMax": 37, "experienceYears": 3, "specialty": "Learning Management System installation, configuration, administration and online assessment" },
+    { "number": 2, "title": "Technical Assistant — Networking", "vacancies": 2, "ageMax": 37, "experienceYears": 3, "specialty": "enterprise networks, hyperconverged infrastructure and mini cloud management" },
+    { "number": 3, "title": "Technical Assistant — Animator", "vacancies": 1, "ageMax": 37, "experienceYears": 3, "specialty": "2D/3D animation, multimedia, motion graphics, visual effects and video editing" },
+    { "number": 4, "title": "Technical Assistant — Game Designer", "vacancies": 1, "ageMax": 37, "experienceYears": 3, "specialty": "game design and development, interactive multimedia, 2D/3D assets and testing" },
+    { "number": 5, "title": "Technical Assistant — VR/AR Application Development", "vacancies": 1, "ageMax": 37, "experienceYears": 3, "specialty": "virtual/augmented reality applications and immersive learning content" },
+    { "number": 6, "title": "Technical Assistant — Artificial Intelligence", "vacancies": 1, "ageMax": 37, "experienceYears": 3, "specialty": "AI/ML application development, data analytics and deployment" },
+    { "number": 7, "title": "Technical Manager — LMS", "vacancies": 1, "ageMax": 42, "experienceYears": 5, "specialty": "Learning Management System installation, configuration, administration and online assessment" },
+    { "number": 8, "title": "Technical Manager — Networking", "vacancies": 1, "ageMax": 42, "experienceYears": 5, "specialty": "enterprise networks, hyperconverged infrastructure and mini cloud management" },
+    { "number": 9, "title": "Technical Manager — VR/AR Application Development", "vacancies": 1, "ageMax": 42, "experienceYears": 5, "specialty": "virtual/augmented reality applications and immersive learning content" },
+    { "number": 10, "title": "Technical Manager — Artificial Intelligence", "vacancies": 1, "ageMax": 42, "experienceYears": 5, "specialty": "AI/ML application development, data analytics and deployment" },
+    { "number": 11, "title": "Assistant Director — LMS", "vacancies": 1, "ageMax": 48, "experienceYears": 10, "specialty": "Learning Management System administration and large-scale online education, with additional software and integration knowledge" },
+    { "number": 12, "title": "Assistant Director — Networking", "vacancies": 1, "ageMax": 48, "experienceYears": 10, "specialty": "enterprise networking, cloud and media-delivery infrastructure" }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+  "fetchedAt": "2026-09-24T21:28:00.690Z",
+  "sha256": "354c7410a3d5a7810c58a99e5b48f3761b16b8f7b9053b2736b1654c92890586",
+  "bytes": 56554,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+  "fetchedAt": "2026-09-24T21:28:02.065Z",
+  "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+  "bytes": 391434,
+  "contentType": "application/pdf"
+ }
+]

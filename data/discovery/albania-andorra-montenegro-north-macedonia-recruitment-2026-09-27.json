@@ -1,0 +1,399 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 80,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "al-dap-civil-service-recruitment",
+      "country": "AL",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "al-dap-civil-service-recruitment",
+        "name": "Albania — DAP civil-service recruitment",
+        "country": "AL",
+        "authority": "Department of Public Administration, Albania",
+        "homepage": "https://rekrutimi.administrata.al/shpalljet",
+        "discoveredFrom": "https://dap.gov.al/",
+        "notes": "DAP official homepage links recruitment register. Sample 7884 offers one Rare Languages Specialist post at General Directorate of Archives: parallel transfer for confirmed civil servants, then civil-service entry if vacancies remain. Transfer deadline 9 October 2026 and entry deadline 14 October are date-only; timezone unverified. Entry requires Albanian citizenship and written/spoken Albanian. Both routes require professional Master in Social Sciences, at least one year of professional experience and certified Ottoman Turkish knowledge; no CEFR level stated. Foreign-degree recognition does not grant foreign-citizen eligibility. External entry is not synonymous with international eligibility.",
+        "accessGap": "Reader/browser discovery awaiting review; no adapter, retained originals, accepted connector or published cycle. Notice 7884 uses detail URL 7588: those identifiers must not be conflated. Complete requirements, translations, amendments, tenure and actual selection venues require review. Application routes have separate deadlines. DAP and Puna may overlap; portal counters cannot be summed into cycle counts. Collection permission, all public authorities and other pathways remain gaps. Application-guide subsequent reader timed out.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://dap.gov.al/",
+          "label": "DAP homepage links official recruitment register",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://rekrutimi.administrata.al/shpalljet",
+          "label": "Recruitment list and sample 7884 route deadlines",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "reader has no rows; ordinary browser rendered list and expanded sample",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://rekrutimi.administrata.al/shpalljet/shfaq/7588",
+          "label": "Full sample 7884 original notice",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "ordinary browser full rendered notice read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://dap.gov.al/rekrutimi/si-te-aplikoj/",
+          "label": "Application guide access status",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "initial limited reader response; subsequent timeout; no eligibility fields accepted from guide",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Sample 7884 civil-service transfer followed by entry route; tenure not normalized.",
+      "internationalApplicantAssessment": "Sample entry expressly requires Albanian citizenship; transfer requires an existing confirmed civil-service position. Foreign-degree equivalence and external recruitment do not establish foreign-national permission. Full three-stage assessment awaits review.",
+      "languageAssessment": "Sample entry requires written/spoken Albanian; both routes require Ottoman Turkish knowledge evidenced by certificate. No CEFR level verified.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "al-puna-public-sector",
+      "country": "AL",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "al-puna-public-sector",
+        "name": "Albania — Puna unified public-sector recruitment",
+        "country": "AL",
+        "authority": "National Employment and Skills Agency, Albania",
+        "homepage": "https://www.puna.gov.al/SektoriPublik",
+        "discoveredFrom": "https://www.kryeministria.al/en/newsroom/nje-platforme-e-vetme-per-cdo-mundesi-lehtesohet-punesimi-i-te-rinjve-ne-sektorin-publik/",
+        "notes": "Council of Ministers announcement dated 7 April 2026 identifies unified portal for civil service, other central/local public institutions and companies with more than 50% state ownership. Public-sector page identifies National Employment and Skills Agency; each institution handles its recruitment. Current browser results include teaching, training and electrical-engineering roles. Result totals are not verified distinct application-cycle counts. No individual nationality, appointment tenure or language threshold verified; private-sector sections are outside this source scope.",
+        "accessGap": "Browser-only dynamic public-sector directory awaiting review; no adapter, retained originals or published cycle. Employer originals, amendments, application windows, international eligibility and formal language levels remain unreviewed. Shared advertisements with DAP must be deduplicated by actual intake identity. Complete employer inventory, permitted collection and other pathways remain gaps.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.kryeministria.al/en/newsroom/nje-platforme-e-vetme-per-cdo-mundesi-lehtesohet-punesimi-i-te-rinjve-ne-sektorin-publik/",
+          "label": "Government announcement identifies public-sector scope",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "reader-accessible; article dated 7 April 2026",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.puna.gov.al/SektoriPublik",
+          "label": "Public-sector portal and official agency footer",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "reader JavaScript-required; ordinary browser rendered",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.puna.gov.al/KerkoSektoriPublik",
+          "label": "Current public-sector job search",
+          "sourceLanguage": "Albanian",
+          "readerStatus": "ordinary browser rendered result cards; employer originals not reviewed",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Public-sector directory spans employers; individual appointment type unverified.",
+      "internationalApplicantAssessment": "Unverified; public search access does not establish eligibility. Each employer notice must distinguish application, selection and appointment rules.",
+      "languageAssessment": "Albanian interface observed; no applicant proficiency threshold verified.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "ad-government-public-recruitment",
+      "country": "AD",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "ad-government-public-recruitment",
+        "name": "Andorra — Government public recruitment",
+        "country": "AD",
+        "authority": "Government of Andorra — Public Service",
+        "homepage": "https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions",
+        "discoveredFrom": "https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions/treballar-a-l-administracio",
+        "notes": "Government directory separates general corps and special corps. Sample 61-2026 F offers two interim cultural-guide places and requires Catalan B2 diploma or higher. Original lists four nationality priority tiers: Andorrans and specified existing Spanish/French/Portuguese public agents; Spanish/French/Portuguese with valid work authorization; other nationalities with authorization; other nationalities without it. Award remains subject to quota regulations. Foreign-applicant routes exist; priority is not prohibition and application permission does not guarantee appointment or work authorization. Application closes 7 October 2026 at service closing time, exact hour/timezone unverified. Printed contract 1 October–31 December starts before closing deadline: unresolved date conflict.",
+        "accessGap": "Reader/browser discovery awaiting review; no adapter, retained original bytes/hash, accepted translation or published cycle. Sample BOPA original fully read but bases and quota rules need review. Preserve conflicting contract/application dates without correction. Catalan B2 and nationality tiers belong only to 61-2026 F; other general/special corps and local councils remain unreviewed. Museum work locations are not examination venues. Collection permission, authority reconciliation and other pathways remain gaps.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions",
+          "label": "Government public recruitment directory",
+          "sourceLanguage": "Catalan",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions/treballar-a-l-administracio",
+          "label": "General and special corps routes",
+          "sourceLanguage": "Catalan",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.govern.ad/ca/tematiques/ocupacio-i-treball/ocupacio-publica-ofertes-i-oposicions/treballar-a-l-administracio/treballar-al-cos-general/ofertes-publiques-de-llocs-de-treball",
+          "label": "Current general-corps list including 61-2026 F",
+          "sourceLanguage": "Catalan",
+          "readerStatus": "reader-accessible; list is not all-country inventory",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.bopa.ad/Documents/Detall?doc=GP_2026_09_21_10_56_25",
+          "label": "61-2026 F original edict, BOPA 107 of 23 September 2026",
+          "sourceLanguage": "Catalan",
+          "readerStatus": "reader JavaScript-required; ordinary browser full article read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "61-2026 F is interim/temporary, two places; contract dates conflict with application timing. General-corps list also contains civil-servant vacancies; no portal-wide tenure claim.",
+      "internationalApplicantAssessment": "61-2026 F explicitly includes foreign-national priority tiers with and without existing work authorization; award subject to quotas. Full selection and appointment conditions await bases/current-law review. No personalized outcome published.",
+      "languageAssessment": "61-2026 F expressly requires Catalan B2 diploma or higher; not generalized to every Andorran public job.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "me-human-resources-recruitment",
+      "country": "ME",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "me-human-resources-recruitment",
+        "name": "Montenegro — Human Resources Administration recruitment",
+        "country": "ME",
+        "authority": "Human Resources Administration, Montenegro",
+        "homepage": "https://uzk.gov.me/oglasi/",
+        "discoveredFrom": "https://www.gov.me/uzk",
+        "notes": "Official authority links separate internal advertisements, public advertisements and public competitions. Current table contains an explicitly withdrawn advertisement; table presence does not mean open. Sample 02-100/26-2948/3 of 23 September 2026 offers one indefinite Market Inspector I post in Herceg Novi, minimum level VI specified education, state-service professional exam and five years experience. Table deadline 8 October is date-only, timezone unverified. Original mentions foreign-degree recognition and conditional foreign-language/IT/typing checks, without a verified nationality clause or formal language threshold. Foreign degrees do not establish foreign-citizen permission; work location is not exam venue.",
+        "accessGap": "Reader/browser discovery awaiting review; no adapter, retained originals/hash or published cycle. Sample four-page PDF visually read after navigation timeout; diacritics render as question marks in portions, requiring original/translation review. Reader PDF route inaccessible. Nationality, all selection conditions, language applicability, amendments and cutoff timezone remain unverified. FAQ published 20 September 2025 describes one-year probation on first indefinite appointment, not tenure for every job. Authority scope does not cover every public employer. Collection permission, other authorities and pathways remain gaps.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.me/uzk",
+          "label": "Government authority links recruitment portal",
+          "sourceLanguage": "Montenegrin",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://uzk.gov.me/oglasi/",
+          "label": "Recruitment categories and current public advertisements",
+          "sourceLanguage": "Montenegrin",
+          "readerStatus": "reader category routing incomplete; ordinary browser rendered table including explicit withdrawn marker",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.me/clanak/najcesca-pitanja",
+          "label": "Authority FAQ, published 20 September 2025",
+          "sourceLanguage": "Montenegrin",
+          "readerStatus": "reader-accessible; current notice and law reconciliation pending",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://uzk.gov.me/oglasi/webfolder/Javni%20oglas_broj_02-100_26-2948_3_7b6f63133f0fadd4b66f95f6bc446670.pdf",
+          "label": "Original 02-100/26-2948/3 advertisement",
+          "sourceLanguage": "Montenegrin",
+          "readerStatus": "web reader inaccessible; browser navigation timeout then rendered; four pages visually read; damaged diacritics visible",
+          "visuallyReadPages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "numberOfPages": 4,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Sample 02-100/26-2948/3 states one indefinite inspector appointment. Other table rows and internal routes have separate terms.",
+      "internationalApplicantAssessment": "Sample nationality permission not established; foreign-degree recognition is separate from citizenship. Full three-stage criteria need original and current service-law review.",
+      "languageAssessment": "Original describes foreign-language testing where applicable, but sample-specific language and numerical/CEFR level unverified. Interface language establishes no threshold.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mk-administration-agency-recruitment",
+      "country": "MK",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mk-administration-agency-recruitment",
+        "name": "North Macedonia — Agency for Administration recruitment",
+        "country": "MK",
+        "authority": "Agency for Administration, North Macedonia",
+        "homepage": "https://www.aa.mk/",
+        "discoveredFrom": "https://www.aa.mk/status-i-nadleznosti.nspx",
+        "notes": "Agency describes administrative-servant advertisements, selection, examinations and appeals; internal advertisements, corrections and results are separate. Recruitment FAQ requires North Macedonian citizenship and active use of Macedonian for administrative servants, with notice-specific qualifications and competencies. No CEFR level given. Three stages are administrative screening, examination, and evidence/interview. This is scoped FAQ evidence, not a rule for every public-sector job. Status page cites older legislation; current notices and law changes need review. Macedonian/Albanian portal controls do not establish bilingual applicant proficiency.",
+        "accessGap": "Reader-only discovery awaiting review; no adapter, retained original, accepted connector or published cycle. Active prijava portal reader exposes unresolved templates rather than inventory; this does not prove no vacancies. Current notice originals, appointment tenure, governing 2026 legislation, amendments, dates, nationality exceptions and formal language levels require review. Complete public-employer scope, collection permission and other pathways remain gaps.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.aa.mk/",
+          "label": "Official agency and recruitment routes",
+          "sourceLanguage": "Macedonian",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.aa.mk/status-i-nadleznosti.nspx",
+          "label": "Agency status and authority scope",
+          "sourceLanguage": "Macedonian",
+          "readerStatus": "reader-accessible; older legislation cited",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.aa.mk/prasanjavrabotuvanje.nspx",
+          "label": "Recruitment FAQ nationality, language and selection stages",
+          "sourceLanguage": "Macedonian",
+          "readerStatus": "reader-accessible; exact current notices and law unreviewed",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://prijava.aa.mk/",
+          "label": "Dynamic active recruitment portal",
+          "sourceLanguage": "Macedonian/Albanian controls",
+          "readerStatus": "reader unresolved templates; no empty-inventory inference",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Administrative-servant recruitment and separate internal routes; current notice-specific tenure unverified.",
+      "internationalApplicantAssessment": "FAQ requires North Macedonian citizenship for administrative servants. Current-law and exact-notice reconciliation pending; not generalized to all public employment. No individual three-stage result published.",
+      "languageAssessment": "FAQ requires active Macedonian use for administrative servants; qualitative condition only, no CEFR level stated. Portal language choices are not eligibility evidence.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

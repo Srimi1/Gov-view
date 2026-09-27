@@ -1,0 +1,132 @@
+{
+  "sourceId": "in-mn-recruitment",
+  "collectedAt": "2026-09-24T21:35:38.264Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 04/2026",
+      "programme": "Dental Surgeon (Manipur Health Service Grade-IV)",
+      "status": "upcoming",
+      "statusNote": "Draft transcription from scanned advertisement; founder verification pending.",
+      "scopeLabel": "Manipur Health Service recruitment; applicant citizenship and residence rules are separate",
+      "outcome": "Dental Surgeon appointment (13 posts: 9 unreserved, 4 Scheduled Tribe)",
+      "qualifications": "Recognised dental qualification under the First or Third Schedule of the Indian Dentist Act, 1948, and registration with a State Dental Council. Required documents must be held by 23 September 2026 (advertisement page 1).",
+      "citizenshipRule": "Candidate must be a citizen of India (advertisement page 1). Foreign citizens do not match this published criterion.",
+      "residenceRule": "Permanent Manipur residence required, with stated exception when parent or direct-line ancestor is a permanent resident of Manipur. Proper documentary proof required; domicile certificates alone are not accepted (advertisement page 1).",
+      "selectionStages": [
+        "Written MCQ examination: 85 marks; two hours; wrong-answer penalty 0.33 mark.",
+        "Interview/viva voce: 15 marks. Written-exam schedule and venue will be announced later."
+      ],
+      "fee": "₹600 General/OBC; ₹400 SC/ST; no fee for persons with disabilities (advertisement page 2).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-23",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 04/2026, page 1, eligibility condition 3(i): candidate must be a citizen of India."
+        },
+        "languages": [
+          {
+            "language": "mni",
+            "requirement": "Must be able to speak Manipuri (Meetei/Meitei Lon) or any tribal dialect of Manipur; no formal level stated.",
+            "stage": "apply",
+            "evidence": "Advertisement 04/2026, page 1, eligibility condition 3(ii).",
+            "sourceUrl": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify permanent residence or parent/direct-ancestor exception with accepted proof; domicile certificate alone is not accepted (page 1)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age 21–38 on 23 September 2026 and applicable category, disability or service relaxation (page 1)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify recognised dental qualification, State Dental Council registration and certificates held by notice date (page 1)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written examination venue to be notified later (advertisement page 3)"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://empsconline.gov.in/",
+      "changes": [],
+      "id": "manipur-psc-2026-04-dental-surgeon",
+      "sourceId": "in-mn-recruitment",
+      "title": "Dental Surgeon (Manipur Health Service Grade-IV)",
+      "authority": "Manipur Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-28",
+        "closesOn": "2026-10-18",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Advertisement 04/2026, page 2. Notice states 11:59 PM without printing a timezone; Asia/Kolkata is the local Manipur time interpretation. Apply through official eMPSC portal."
+      },
+      "salary": "Level 12 (₹53,100–₹167,800), advertisement page 1.",
+      "sources": [
+        {
+          "id": "in-mn-recruitment:dc6e3333db61",
+          "title": "MPSC latest-notifications table",
+          "authority": "Manipur Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpscmanipur.gov.in/whats_new.html",
+          "sha256": "dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4",
+          "lastSuccessfulFetchAt": "2026-09-24T21:35:39.542Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mn-recruitment:6acfe2a153f4",
+          "title": "Advertisement 04/2026: Dental Surgeon",
+          "authority": "Manipur Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
+          "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+          "lastSuccessfulFetchAt": "2026-09-24T21:35:40.598Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://mpscmanipur.gov.in/whats_new.html",
+      "fetchedAt": "2026-09-24T21:35:39.542Z",
+      "sha256": "dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4",
+      "contentType": "text/html",
+      "bytes": 76437
+    },
+    {
+      "url": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
+      "fetchedAt": "2026-09-24T21:35:40.598Z",
+      "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+      "contentType": "application/pdf",
+      "bytes": 288556
+    }
+  ],
+  "warnings": [
+    "One document-bound Dental Surgeon draft only; other Manipur authorities and notices remain coverage gaps.",
+    "Separate syllabus https://mpscmanipur.gov.in/files/DS_Syllabus_2026.pdf is retained for manual review; no language proficiency scale inferred.",
+    "Residence exception, age relaxations, dental registration and scanned transcription require founder review before publication."
+  ]
+}

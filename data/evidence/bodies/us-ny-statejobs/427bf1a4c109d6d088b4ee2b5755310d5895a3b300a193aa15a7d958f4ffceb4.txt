@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		
+<script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10341260622154106.js" data-dtconfig="app=4dd53cdc7e4ff668|agentId=b93054ac1692a2aa|owasp=1|featureHash=ICA7NVfqrux|rdnt=1|uxrgce=1|cuc=c55jnn85|mel=100000|expw=1|dpvc=1|lastModification=1790011527514|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_ICA7NVfqrux_10341260622154106.js|reportUrl=/rb_ff8821ed-3c09-41dd-ad29-f1af6647ca98|rid=RID_332952300|rpid=1486616454|domain=ny.gov"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N7KVP95Z');</script>
+ 
+<script async src=https://www.googletagmanager.com/gtag/js?id=G-D2X0LX9SEH></script> 
+<script> window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date()); 
+
+gtag('config', 'G-D2X0LX9SEH'); 
+</script>
+	
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		
+		<link type="text/css" rel="stylesheet" media="all" href="/assets/css/basic.css" />
+		
+	<link type="text/css" rel="stylesheet" media="all" href="/assets/css/jquery-ui.min.css" />
+	
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="https://code.jquery.com/jquery-migrate-3.3.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+
+			<title>StateJobsNY - Public Information: Review Vacancy</title>
+			<link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+			<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+			
+			<link type="text/css" rel="stylesheet" media="all" href="/assets/css/colorTip.css" />
+			<script type="text/javascript" src="/assets/scripts/javascript/colortip-1.0-jquery.js"></script>
+			<script type="text/javascript" src="/assets/scripts/javascript/lib.js"></script>
+			
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('#vacancyDetails').tabs();
+				construct();
+			});
+		</script>
+		<style type="text/css">
+			#agency_pk_id {
+				max-width: 300px;
+			}
+			div.note {
+				border: 2px solid #000;
+				margin-right: 20px;
+				margin-bottom: 15px;
+			}
+			div.note div {
+				padding: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-N7KVP95Z
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> <div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2014-11-07 08:30">
+    <noscript>
+        <iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+            Your browser does not support iFrames
+        </iframe>
+    </noscript>
+    <script type="text/javascript">
+        var _NY = {
+            HOST: "static-assets.ny.gov",
+            BASE_HOST: "www.ny.gov",
+            hideSettings: false,
+            hideSearch: false
+        };
+        (function (document, bundle, head) {
+            head = document.getElementsByTagName('head')[0];
+            bundle = document.createElement('script');
+            bundle.type = 'text/javascript';
+            bundle.async = true;
+            bundle.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js";
+            head.appendChild(bundle);
+        }(document));
+    </script>
+</div>
+		<div id="leftShadow">
+			<div id="rightShadow">
+				<div id="mainContent" class="public">
+					<div id="header" style="border-top:1px solid #ccc;">
+	<a href="/index.cfm" title="Link to StateJobsNY home page" ><img src="/assets/images/nys-statejobsny-500x90.png" alt="StateJobsNY" id="seal" /></a>
+	
+
+</div>
+
+<div id="nav">
+	<a href="#content" >Skip to Content</a><br />
+	<ul>
+		<li class="localNavItem"><a href="/public/index.cfm">Home</a></li>
+		<li class="localNavItem"><a href="/public/howItWorks.cfm">How to Get a State Job</a></li>
+		<li class="localNavItem"><a href="/public/faq.cfm">FAQs</a></li>
+		<li class="localNavItem"><a href="/public/vacancyTable.cfm">Vacancies</a></li>
+		<li class="localNavItem"><a href="/public/search.cfm">Search Vacancies</a></li>
+		
+		<li class="localNavItem"><a href="/public/offsitePostings.cfm">Other State Listings</a></li>
+	</ul>
+	<nav class="navSection">
+		<div>Helpful Links</div>
+		<ul>
+			<li><a href="http://www.cs.ny.gov/examannouncements/types/oc/" >Exam Announcements for the General Public<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+			<li><a href="http://www.cs.ny.gov/jobseeker/gettingajob/empnys.cfm">Explore Opportunities<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+			<li><a href="http://www.cs.ny.gov/rp55/">Workers with Disabilities Program<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+			<li><a href="http://www.cs.ny.gov/jobseeker/faq/reinstatement.cfm">Reinstatement<img src="/assets/images/external-link.gif"alt="Leaving the StateJobsNY site"  /></a></li>
+            <li><a href="https://oer.ny.gov/salary-schedules">Salary Schedules<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+			<li><a href="https://oer.ny.gov/state-union-contracts">Unions/Units<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+			<li><a href="https://oer.ny.gov/training-and-professional-development">Training and Development<img src="/assets/images/external-link.gif" alt="Leaving the StateJobsNY site" /></a></li>
+		</ul>
+	</nav>
+</div>
+
+					<div id="content">
+						
+						
+						<div class="note">
+							<div>
+								<strong>Please note:</strong> State agencies that contact job applicants do not usually request personal or financial information via text message or over the phone in connection with your response to a job posting. If you are contacted for such information by these methods, or any other method, please verify the identity of the individual before transmitting such information to that person.
+							</div>
+						</div>
+						
+						
+							
+								<div class="note">
+									<div>
+										<em>Note: For questions about the job posting, please contact the agency that posted this position by using the contact information provided on the &quot;Contact&quot; tab for the position.</em>
+									</div>
+								</div>
+							
+						
+						<h2>Review Vacancy</h2>
+						
+<div class="columnReport">
+	<p class="row"><span class="leftCol"><a href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.posted" title="The date on which the vacancy post was submitted." class="help"></a>Date Posted</span><span class="rightCol"> 09&#x2f;24&#x2f;26</span></p>
+	
+	<p class="row"><span class="leftCol"><a href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.due" title="The last date that applications will be accepted." class="help"></a>Applications Due</span><span class="rightCol">10&#x2f;09&#x2f;26</span></p>
+	
+		<p class="row"><span class="leftCol"><a href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.id" title="This is the unique identifier for this vacancy." class="help"></a>Vacancy ID</span><span class="rightCol">225629</span></p>
+	
+</div>
+	<div class="columnReport" id="vacancyDetails">
+		<ul>
+			<li><a href="#information">Basics</a></li>
+			<li><a href="#schedule">Schedule</a></li>
+			<li><a href="#location">Location</a></li>
+			<li><a href="#jobspecifics">Job Specifics</a></li>
+			<li><a href="#contact">How to Apply</a></li>
+		</ul>
+		<div id="information">
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.isnyhelp" title="Indicates whether if this vacancy posting is part of the NY HELPS Program." class="help"></a>NY HELP</span><span class="rightCol">No</span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.agency" title="The agency in which the vacancy exists." class="help"></a>Agency</span><span class="rightCol">Military and Naval Affairs, Division of </span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.title" title="The job title for the vacancy." class="help"></a>Title</span><span class="rightCol">Air Base Security Guard</span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.category" title="The job title for the vacancy." class="help"></a>Occupational Category</span><span class="rightCol">Enforcement or Protective Services</span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.grade" title="The salary grade for this vacancy.  Salaries are determined by salary grade and bargaining unit." class="help"></a>Salary Grade</span><span class="rightCol">12</span></p>
+			<div class="spacer"></div>
+
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.bu" title="The collective bargaining unit to which this vacancy is assigned." class="help"></a>Bargaining Unit</span><span class="rightCol">DMNA - Division of Military and Naval Affairs (CSEA)</span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.salRange" title="The minimum and maximum of the salary range for this vacancy." class="help"></a>Salary Range</span><span class="rightCol">From $52694 to $52694 Annually</span></p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.employmentType" title="Indicates whether this job is full-time or part-time.  If the job is part-time, an estimated percentage will be provided." class="help"></a> Employment Type </span><span class="rightCol">Full-Time</span></p>
+			
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.appointmentType" title="This indicates the type of job, typically permanent, temporary, or provisional.  'Provisional' means that the appointment will be temporary until the incumbent takes and passes an appropriate civil service examination." class="help"></a> Appointment Type </span><span class="rightCol">
+				
+						Permanent
+					
+				</span> </p>
+			<div class="spacer"></div>
+            
+				
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.jurisClass" title="Jurisdictional class is the indicator for how this job can be filled.  The classified service is governed by the Civil Service Commission, and consists of competitive, non-competitive, exempt, and labor classes.  'Competitive class' indicates that the applicant must take and pass an appropriate civil service examination.  'Non-competitive class' indicates that the applicant's qualifications will be evaluated without a civil service examination.  'Exempt class' indicates that the applicant will be evaluated by methods other than competitive or non-competitive, and that incumbents will not be granted tenure.  'Labor class' requires that applicants possess skills or other physical characteristics that cannot effectively be evaluated by other means.  The unclassified service is legislatively defined, and includes such positions as elected officials, department and agency heads, and all academic personnel in public schools, colleges, and universities." class="help"></a> Jurisdictional Class </span><span class="rightCol">
+				
+						"Other" (generally Military Law positions)
+					
+				</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.travelPercent" title="Estimates the percentage of time incumbents of this vacancy will be required to travel." class="help"></a> Travel Percentage </span><span class="rightCol">10%</span> </p>
+			<div class="spacer"></div>
+
+		</div>
+		
+		
+		
+		<div id="schedule">
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.workweek" title="This provides information on the expected workweek." class="help"></a> Workweek </span><span class="rightCol">Variable</span> </p>
+			
+						<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.hours" title="The number of hours in the workweek, typically 37.5 or 40 for full time, or any other number for part time." class="help"></a>Hours Per Week </span><span class="rightCol">40</span> </p>
+
+			<div class="spacer"></div>
+			<h5 class="heading">Workday</h5>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.workdayFrom" title="The start time for this vacancy.  If the agency employs flextime, this will be the earliest time this vacancy's shift can start." class="help"></a> From </span><span class="rightCol">6 AM</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.workdayTo" title="The end time for this vacancy.  If the agency employs flextime, this will be the latest time this vacancy's shift can end." class="help"></a> To </span><span class="rightCol"> 6 AM</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.flextime" title="If checked, the agency allows flextime." class="help"></a> Flextime allowed? </span><span class="rightCol"> No</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.mandatoryOT" title="If checked, this vacancy includes mandatory overtime." class="help"></a> Mandatory overtime? </span><span class="rightCol"> No</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.compressed" title="If checked, this agency allows compressed workweek scheduling." class="help"></a> Compressed workweek allowed? </span><span class="rightCol">No</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.telecommuting" title="If checked, this agency allows telecommuting for this position." class="help"></a> Telecommuting allowed? </span><span class="rightCol">No</span> </p>
+			<div class="spacer"></div>
+		</div>
+		
+		
+		
+		<div id="location">
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.county" title="The county in which the vacancy is located." class="help"></a> County </span><span class="rightCol"> Schenectady</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.street" title="The street address where the vacancy is located." class="help"></a> Street Address </span><span class="rightCol"> Stratton Air National Guard Base </span> </p>
+			<p class="row"> <span class="leftCol"> </span><span class="rightCol">1 Air Nationall Guard Road</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.city" title="The city where the vacancy is located." class="help"></a> City </span><span class="rightCol"> Scotia</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.state" title="The state where the vacancy is located (the default is New York)." class="help"></a> State</span><span class="rightCol">NY</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.zip" title="The zip code where the vacancy is located." class="help"></a> Zip Code</span><span class="rightCol">12302</span> </p>
+			<div class="spacer"></div>
+		</div>
+		
+		
+		
+		<div id="jobspecifics">
+			<div class="spacer"></div>
+				<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.duties" title="The duties that the incumbent of the vacancy will be expected to perform." class="help"></a> Duties Description </span><span class="rightCol">Air Base Security Guards (ABSGs) provide security and related services to personnel and resources at various Air National Guard Bases (ANGBs) located within the State of New York.<br /><br />The position performs responsibilities in accordance with National Guard Bureau (NGB) standards, as outlined in the Master Cooperative Agreement (MCA) between NGB and DMNA, and specifically as required under the Security Cooperative Agreement (SCA), Appendix 23, National Guard Regulation (NGR) 5-1, Air Force Instructions (AFI) and all other applicable NGB regulations, as well as Agency and labor contract duties and responsibilities - current and as amended. Incumbents of this position are considered essential personnel.<br /><br />Under the direct supervision of the Unit Chief of Security Forces (CSF), Security Forces Commander, or other appropriate designated supervisor, ABSGs perform all duties in accordance with Agency and NGB policy requirements noted above.<br /><br />Responsibilities include, but not limited to the following:<br /><br />•	Enforces standards of conduct and adherence to applicable laws, regulations and procedures within the Air National Guard (ANG) Area of Responsibility (AOR).<br />•	Patrols flightline aircraft and other federal equipment on a priority basis to deter criminal activity by means of presence and witness. Detect fires or other dangerous situations.<br />•	Performs inspections of weapons and ammunition vaults, doors and other portals to ensure that all areas are properly locked and secured. Detect evidence of theft, burglary, vandalism, sabotage, or other hazardous conditions.<br />•	Questions suspicious persons to ascertain the legitimacy of presence in the area and detain unauthorized persons within jurisdictional limits until proper authorities arrive to take control.<br />•	Controls entry and exit of military and civilian personnel, contractors and general public, to include all vehicles and other equipment.<br />•	Performs traffic control duties, responds to incidents, accidents and other calls to assist personnel, secure the scene, investigate circumstances and complete required reports.<br />•	Performs pass and identification duties as required.<br />•	Maintains radio contact with Base Defense Operations Center (BDOC) personnel at all times.<br />•	Monitors alarm equipment and emergency response systems, and initiates appropriate response forces when applicable.<br />•	Provides other services necessary to secure location resources and personnel.<br />•	Makes periodic checks of boiler rooms, security lighting, mess hall freezers and other areas as directed.<br />•	Performs inspections and operator maintenance on all assigned vehicles and equipment in an effective and safe manner when required.<br />•	Dispatches security personnel to scenes of incidents and irregularities.<br />•	Receives information on all complaints, taking appropriate action that may be necessary to notify appropriate law enforcement agencies, Fire Department and base personnel as required.<br />•	Maintains appropriate records of all normal or emergency actions taken.<br />•	Periodic overtime may be required<br />•	Periodic travel may be required to other facilities; to attend training; or other requirements related to duties as needed.<br />•	Other job duties as assigned.<br /><br />JOB REQUIREMENTS:<br /><br />•	•	Ability to work independently with minimal supervision or with other individuals in a team/group setting.<br />•	Ability to push, pull, lift and carry heavy objects and equipment (50+ lbs).<br />•	Ability to work outside in various temperatures and inclement weather for extended periods of time.<br />•	Incumbents of this position are considered essential personnel.<br />•	WILL BE REQUIRED TO CARRY FIREARMS.<br />•	At all times must meet requirements to carry firearms in accordance with National Guard Bureau and Air Base specific standards. Firearm requirements are in accordance with the authority of Title 10 United States Code (U.S.C.) 8013, Secretary of the Air Force, Air Force Instruction (AFI) 31-117, and EO 9397 (SSN), current and as amended.<br />•	Must be eligible to obtain a permit to carry a handgun in New York State (NYS). May be required to obtain a NYS permit for base specific requirement. Appointees will be afforded a length of time equal to that of the required probationary period in which to obtain permit, but will not be deemed permanent until proof of permit is provided.<br />•	At the time of hire and annually thereafter, must meet mission specific weapons qualification requirements.<br />•	At the time of hire and annually thereafter, must meet and maintain physical fitness and agility standards established in accordance with Agency and NGB policy requirements. Separate entry level and annual maintenance programs will be applied in accordance with Agency and NGB policy requirements.<br />•	At the time of hire and annually thereafter, must meet the medical screening requirements to include drug testing, as established in accordance with Agency and NGB policy requirements.<br />•	At the time of hire and annually thereafter, must meet and maintain all mission specific proficiency training requirements to include, but not limited to, Use of Force, Rules of engagement and Search/Handcuffing; including annual evaluations.<br />•	Must be eligible to be designated as a Peace Officer; training may be required. (Note: this may be a Base specific requirement. Peace Officers are required to maintain residence in the State of New York)<br />•	Ability to read and write in English.<br />•	Demonstrate reliability and trustworthiness.<br />•	Good verbal and written communication skills.</span> </p>
+			<div class="spacer"></div>
+				<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.minQuals" title="The minimum qualifications required for this vacancy." class="help"></a> Minimum Qualifications </span><span class="rightCol">Must be a member of the New York Air National Guard assigned to Security Police Flight at the time of appointment and possess at a minimum a current Air Force Specialty Code (AFSC) 3P031.<br /><br />OR<br /><br />Must possess a current AFSC 3P051/3P071.<br /><br />OR<br /><br />Must possess at least two years of verifiable military work experience in law enforcement showing successful completion of a military law enforcement career-training course.<br /><br />OR<br /><br />Must possess at least two years of verifiable civilian work experience in law enforcement showing successful completion of a Municipal Police Training Council Basic Course for Police Officers or other related training as may be deemed appropriate by the appointing authority or designee in accordance with NGB hiring requirements.<br /><br />AND<br /><br />Must be at least eighteen (18) years of age.<br /><br />Must be a High School Graduate or equivalent (GED). <br /><br />Must be able to read and write in English.<br /><br />Ability to work independently with minimal supervision or with other individuals in a team/group setting.<br /><br />Ability to push, pull, lift and carry heavy objects and equipment (50+ lbs).<br /><br />Ability to work outside in various temperatures and inclement weather for extended periods of time.<br /><br />WILL BE REQUIRED TO CARRY FIREARMS. Must have or be legally eligible to obtain a permit to carry a handgun in New York State.<br /><br />At all times must meet requirements to carry firearms in accordance with National Guard Bureau and Air Base specific standards. Firearm requirements are in accordance with the authority of Title 10 United States Code (U.S.C.) 8013, Secretary of the Air Force, Air Force Instruction (AFI) 31-117, and EO 9397 (SSN), current and as amended.<br /><br />Must be eligible to obtain a permit to carry a handgun in New York State (NYS). May be required to obtain a NYS permit for base specific requirement. Appointees will be afforded a length of time equal to that of the required probationary period in which to obtain permit but will not be deemed permanent until proof of permit is provided.<br /><br />At the time of hire and annually thereafter, must meet mission specific weapons qualification requirements.<br /><br />Individuals convicted of domestic violence are not eligible for hire or retention. Any arrests/convictions related to domestic violence must be reported through the Chain of Command.<br /><br />At the time of hire and annually thereafter, must meet and maintain physical fitness and agility standards established in accordance with Agency and NGB policy requirements. Separate entry level and annual maintenance programs will be applied in accordance with Agency and NGB policy requirements.<br /><br />At the time of hire and annually thereafter, must meet the medical screening requirements to include drug testing, as established in accordance with Agency and NGB policy requirements.<br /><br />At the time of hire and annually thereafter, must meet and maintain all mission specific proficiency training requirements to include, but not limited to, Use of Force, Rules of engagement and Search/Handcuffing, including annual evaluations.<br /><br />Must be eligible to be designated as a Peace Officer; training may be required. (Note: this may be a Base specific requirement. Peace Officers are required to maintain residence in the State of New York)<br /><br />Must obtain and maintain a favorable background investigation and have an appropriate clearance to allow access to computer networks and restricted areas to determine suitability, loyalty, and trustworthiness. Dependent on current regulation, this will minimally be a National Agency Check with Inquiry (NACI) but may require a SECRET or CLASSIFIED clearance.<br /><br />Required to have or successfully complete within 90 days of receiving computer access, all training associated with assigned data systems such as SFS, GFEBS and the Statewide Learning Management System (SLMS) and/or other computer training as related to duty assignments. Should related regulations, procedures and requirements change, additional training and/or certifications may be required.<br /><br />Required to report any personal arrest by local, state, or federal law enforcement authorities to the CSF or designated representative within 24 hours of incident.<br />Convictions other than those for domestic violence will be addressed on an individual basis. State Human Resources must be notified.<br /><br />Must possess a valid driver's license to operate a motor vehicle in the State of New York. Must report any changes to supervisory chain and State Human Resources (MNHS).<br /><br />In accordance with current NGB policies, will be required to obtain and maintain a military driver’s license identifying appropriate vehicles authorized for operation – this will include physical evaluation requirements.<br /><br />In accordance with National Guard Regulations there may be additional Air Base Specific requirements in order to accomplish necessary security protocols to meet and maintain the Base mission. Maintaining all minimum qualifications, and Base authorization to obtain government issued weapons/firearms to perform duties, is a condition of employment.<br /><br />At all times, the employee MUST maintain minimum standards in accordance with current statutes, Agency requirements and directives. Failure to do so will subject the individual to disciplinary action and/or termination.<br /><br />NOTE: Position standards illustrate the nature, extent and scope of duties and responsibilities of the position described. Standards cannot and do not include all of the work that might be appropriately performed by an incumbent. The minimum<br />qualifications above are those which were required for appointment at the time the Position Standards were written. Please contact State Human Resources Directorate for current information on minimum requirements for appointment.</span> </p>
+			<div class="spacer"></div>
+			
+				<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.comments" title="Additional comments regarding the vacancy." class="help"></a> Additional Comments </span><span class="rightCol">This position is not in the Classified Service of New York State, but is covered under New York State Military Law. If selected, current Civil Service employees will lose their seniority within the Classified Service, thereby exempting them from applying for promotional exams within Civil Service.<br /><br />Current Start Rate: $52,694*<br />Job Rate: $64,321<br /><br />(*All hires begin at “Start Rate” unless prior state experience affords eligibility for hiring step increase as determined by OSC.)</span> </p>
+				<div class="spacer"></div>
+			
+			<p>Some positions may require additional credentials or a background check to verify your identity.</p>
+		</div>
+		
+		
+		
+		<div id="contact">
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactName" title="The name of the contact person for this vacancy." class="help"></a> Name </span><span class="rightCol"> State Human Resources</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactPhone" title="The telephone number to use for questions about this vacancy." class="help"></a> Telephone </span><span class="rightCol">518-786-4830</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactFax" title="The fax to use for this vacancy." class="help"></a> Fax </span><span class="rightCol">518-786-6085</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactEmail" title="Email address for emailing applications, or to ask questions about this vacancy." class="help"></a> Email Address </span><span class="rightCol"> ng.ny.nyarng.mbx.mnhs-job-posting&#x40;army.mil</span> </p>
+			<div class="spacer"></div>
+			<h5 class="heading">Address</h5>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactStreet" title="The street address of the contact for this vacancy." class="help"></a> Street </span><span class="rightCol"> New York State Division of Military and Naval Affairs - State Human Resources Management</span> </p>
+			<p class="row"> <span class="leftCol"></span><span class="rightCol">330 Old Niskayuna Road</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactCity" title="The city for the contact for this vacancy." class="help"></a> City </span><span class="rightCol"> Latham</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactState" title="The state of the contact for this vacancy (the default is New York)." class="help"></a> State </span><span class="rightCol"> NY</span> </p>
+			<div class="spacer"></div>
+			<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contact.Zip" title="The zip code for the contact for this vacancy." class="help"></a> Zip Code </span><span class="rightCol"> 12110</span> </p>
+			<div class="spacer"></div>
+			<p>&nbsp;</p>
+			
+			<div class="spacer"></div>
+				<p class="row"><span class="leftCol"><a   href="/assets/help/vacancyReviewHelp.cfm#vacancyInfo.contactNotes" title="Instructions for potential applicants." class="help"></a>Notes on Applying</span><span class="rightCol">To be considered for an interview, please submit your cover letter and resume to one of the following:<br /><br />BY E-MAIL (PREFERRED METHOD):<br />Send to: ng.ny.nyarng.mbx.mnhs-job-posting@army.mil <br />Subject line to say: Job Title and Location<br /><br />BY MAIL:<br />New York State Division of Military and Naval Affairs <br />State Human Resources Management<br />330 Old Niskayuna Road <br />Latham, New York 12110-3514 <br />Attn: Classifications<br /><br />BY FAX:<br />(518) 786-6085<br />Fax Cover sheet to say: Job Title and Location<br /><br />In your submission, please be sure to indicate what position and location you are apply to.<br /><br />Ensure to CLEARLY note how you meet the minimum qualifications for the position. <br /><br />Be sure to include any specific licenses and/or certification in a skilled trade.<br /><br />ALL DOCUMENTS MUST BE RECEIVED IN STATE HUMAN RESOURCES MANAGEMENT (MNHS) BY OCTOBER 9, 2026. <br /><br />Vagueness and omissions will not be resolved in your favor.<br /><br />For questions, please reach out to State Human Resources at (518) 786-4830.<br /><br />ALL CURRENT PERMANENT DMNA STATE EMPLOYEES WHO MEET THE MINIMUM QUALIFICATIONS WILL BE INTERVIEWED TO EVALUATE THEIR QUALIFICATIONS, TRAINING, EXPERIENCE, ABILITY TO MEET THE NEEDS OF THE DIVISION AND ABILITY TO PERFORM THE DUTIES AND REQUIREMENTS OF THE POSITION. THE REQUIREMENT TO PROVE QUALIFICATION SHALL REST WITH THE EMPLOYEE.<br /><br />ALL OTHER CANDIDATES WHO MEET THE MINIMUM QUALIFICATIONS WILL BE CONSIDERED FOR INTERVIEW TO EVALUATE THEIR QUALIFICATIONS, TRAINING AND EXPERIENCE IN RELATION TO THE DUTIES AND REQUIREMENTS OF THE POSITION.</span> </p>
+				<div class="spacer"> </div>
+			
+		</div>
+	</div>
+    
+    <a class="button" href="vacancyDetailsPrint.cfm?id=225629">Printable Version</a>
+
+						
+					</div>
+					<div id="organDonor">
+	<p><a href="https://donatelife.ny.gov/register/"><u>Become an Organ Donor - Enroll Today</u></a></p>
+</div>
+
+	<div class="centered" id="footer">
+		
+	<p><a href="/public/faq.cfm">FAQs</a>
+		&nbsp;&bull;&nbsp;<a href="https://www.cs.ny.gov/rp55/">Workers with Disabilities (55b/c)</a>&nbsp;&bull;&nbsp;<a href="https://www.cs.ny.gov/jobseeker/" >Civil Service Exams</a></p>
+	
+	<p><strong>State Agencies:</strong> <a href="http://www.cs.ny.gov" >Department of Civil Service</a>&nbsp;&bull;&nbsp;<a href="http://osc.state.ny.us/" >Office of the State Comptroller</a></p>
+	
+	<p><strong>OER Link:</strong> <a href="https://oer.ny.gov/labor-relations">Employee Unions and Bargaining Units</a></p>
+	
+	<p> <a href="https://www.cs.ny.gov/examannouncements/types/oc/">Exam announcements</a>&nbsp;&bull;&nbsp;<a href="http://ny.gov" >General Information about NYS Government</a></p>
+	<br />
+	<p>&copy; 2026 NYS Department of Civil Service</p>
+	<p>StateJobsNY &#8480; 2026 NYS Department of Civil Service</p>
+	
+	<p><a href="/accuracy.cfm">Accuracy</a>&nbsp;&bull;&nbsp;<a href="/privacy.cfm">Privacy</a>&nbsp;&bull;&nbsp;<a href="/accessibility.cfm">Accessibility</a>&nbsp;&bull;&nbsp;<a href="/contact.cfm">Contact</a></p>
+
+	</div>
+
+				</div>
+			</div>
+		</div>
+		
+			<div id="bottomShadowLeft">
+				<div id="bottomShadowRight">
+					<div id="bottomInnerShadow"></div>
+				</div>
+			</div>
+		<div id="nygov-universal-footer" class="nygov-universal-container">
+    <noscript>
+        <iframe id="nygov-universal-footer-frame" class="nygov-universal-container" width="100%" height="200px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" data-updated="2014-11-07 08:30" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" scrolling="no">
+            Your browser does not support iFrames
+        </iframe>
+    </noscript>
+</div>
+	</body>
+</html>

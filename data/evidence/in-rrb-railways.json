@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://rrbsecunderabad.gov.in/notices/",
+  "fetchedAt": "2026-09-25T15:04:51.666Z",
+  "sha256": "2528534095cffe170f2ecb9afef1f5bf7f035fff20d76c2223dc3b36a32c5f9e",
+  "bytes": 802906,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://rrbsecunderabad.gov.in/wp-content/uploads/2026/07/FINAL-CEN-03_2026_SECTION-CONTROLLER.pdf",
+  "fetchedAt": "2026-09-25T15:05:01.331Z",
+  "sha256": "51b9ee4b156f96c24e136f560de6136120edbe3255c2c3a7dd8bed7a7924f892",
+  "bytes": 2268165,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://rrbsecunderabad.gov.in/wp-content/uploads/2026/07/Corrigendun-1-CEN-03_2026.pdf",
+  "fetchedAt": "2026-09-25T15:04:53.405Z",
+  "sha256": "bb74494ecce7eab520442cc47b9343c6f7f0480a6c81801eec5890d0a345a124",
+  "bytes": 645699,
+  "contentType": "application/pdf"
+ }
+]

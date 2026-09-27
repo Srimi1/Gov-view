@@ -1,0 +1,10 @@
+{
+  "sourceId": "uy-onsc-uruguay-concursa",
+  "label": "soriano-masonry-8184-2026",
+  "url": "https://www.uruguayconcursa.gub.uy/llamado/43217",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-soriano-masonry-8184-2026-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:19:31.651Z",
+  "error": "robots.txt unreachable at https://www.uruguayconcursa.gub.uy: robots.txt returned non-text content"
+}

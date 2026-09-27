@@ -1,0 +1,2369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>MPSC - Manipur Public Service Commission</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords"
+		content="MPSC, Manipur, Imphal, Manipur Civil Services Combined Competitive, Civil Services" />
+	<meta name="_globalsign-domain-verification" content="ArFx_UKkTcgDo_uxdQcISY7Gmi0l9g5ZKaZ4CfmDn9" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+	<link rel="shortcut icon" href="favico.ico" />
+	<link rel="icon" type="image/png" href="favico.png">
+	<link rel="stylesheet" href="assets/vendor/bootstrap/5.3.3/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/vendor/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/vendor/google-fonts/libre-baskerville-source-sans-3.css">
+	<link rel="stylesheet" href="includes/css/common.css" />
+	<link rel="stylesheet" href="style.css?v=1.2">
+	<script src="main.js?v=5.4"></script>
+	<script src="assets/vendor/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+
+	<style>
+		:root {
+			--mpsc-primary: #0f4c81;
+			--mpsc-primary-dark: #0a3558;
+			--mpsc-accent: #dbeeff;
+			--mpsc-border: #d9e2ec;
+			--mpsc-surface: #ffffff;
+			--mpsc-background: #f4f8fb;
+			--mpsc-text: #1f2933;
+			--mpsc-text-muted: #6b6560;
+			--font-display: 'Libre Baskerville', Georgia, serif;
+			--font-body: 'Source Sans 3', 'Segoe UI', sans-serif;
+		}
+
+		body {
+			font-family: var(--font-body);
+			background: linear-gradient(180deg, #eef5fb 0%, #f9fbfd 100%);
+			color: var(--mpsc-text);
+		}
+
+		.new-badge-animated {
+			background-color: #ff4081;
+			color: white;
+			padding: 2px 8px;
+			font-size: 12px;
+			font-weight: bold;
+			border-radius: 50px;
+			animation: pulse 1.5s infinite;
+			display: inline-block;
+			margin-left: 8px;
+		}
+
+		/* Callout box styles (if used) */
+		.callout {
+			position: fixed;
+			bottom: 50px;
+			right: 20px;
+			max-width: 350px;
+			z-index: 1050;
+		}
+
+		.callout-header {
+			padding: 20px;
+			background: #3F00FF;
+			color: white;
+			font-size: 20px;
+		}
+
+		.callout-container {
+			background: #ccc;
+			padding: 15px;
+		}
+
+		.closebtn {
+			position: absolute;
+			top: 5px;
+			right: 15px;
+			font-size: 20px;
+			cursor: pointer;
+			color: white;
+		}
+
+		/* Main flash carousel images */
+		.mainflash img {
+			width: 20%;
+			height: 20%;
+		}
+
+		/* Logo image */
+		.logo img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		/* Table header style */
+		table thead th {
+			font-size: 20px;
+			font-weight: bold;
+			background-color: var(--mpsc-primary);
+			color: white;
+			border-color: var(--mpsc-primary-dark) !important;
+			position: sticky;
+			top: 0;
+			z-index: 5;
+			box-shadow: 0 2px 0 rgba(10, 53, 88, 0.12);
+		}
+
+		/* Table body font size */
+		tbody#notificationTableBody {
+			font-size: 18px;
+		}
+
+		/* Navbar */
+		.navbar-nav .nav-link {
+			font-size: 18px;
+			font-weight: 500;
+		}
+
+		.navbar-nav .dropdown-menu .dropdown-item {
+			font-size: 16px;
+		}
+
+		/* Responsive header alignment */
+		@media (max-width: 767px) {
+
+			.header-logo,
+			.header-contact {
+				text-align: center;
+				justify-content: center !important;
+			}
+
+			.header-contact {
+				margin-top: 15px;
+			}
+		}
+
+		/* Utility padding classes */
+		.no-padding {
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+
+		.no-padding-left {
+			padding-left: 5px !important;
+		}
+
+		.no-gutter-left {
+			padding-left: 0 !important;
+		}
+
+		.no-gutters {
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+		}
+
+		.word-wrap {
+			word-wrap: break-word;
+			white-space: normal;
+		}
+
+		tbody#notificationTableBody {
+			counter-reset: rowNumber;
+		}
+
+		tbody#notificationTableBody tr {
+			counter-increment: rowNumber;
+		}
+
+		tbody#notificationTableBody tr td:first-child::before {
+			content: counter(rowNumber);
+			min-width: 1em;
+			margin-right: 0.5em;
+		}
+
+		table#notificationTable th:first-child,
+		table#notificationTable td:first-child {
+			text-align: center;
+		}
+
+		.whats-new-panel {
+			background: var(--mpsc-surface);
+			border: 1px solid var(--mpsc-border);
+			border-radius: 18px;
+			box-shadow: 0 16px 40px rgba(15, 76, 129, 0.08);
+			padding: 24px;
+			margin: 30px 0 40px;
+		}
+
+		.whats-new-hero {
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-start;
+			gap: 20px;
+			flex-wrap: wrap;
+			margin-bottom: 22px;
+		}
+
+		.whats-new-hero h2 {
+			margin: 0 0 8px;
+			color: var(--mpsc-primary-dark);
+			font-weight: 700;
+		}
+
+		.whats-new-hero p {
+			margin: 0;
+			font-size: 16px;
+			color: #52606d;
+			max-width: 700px;
+		}
+
+		.filter-toolbar {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			gap: 12px;
+			margin-bottom: 18px;
+			padding: 14px;
+			background: var(--mpsc-background);
+			border: 1px solid var(--mpsc-border);
+			border-radius: 14px;
+		}
+
+		.filter-toolbar .form-control {
+			flex: 1 1 280px;
+			height: 44px;
+			border-radius: 10px;
+			border: 1px solid #bfd0df;
+			box-shadow: none;
+		}
+
+		.filter-group {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			gap: 8px;
+			flex: 1 1 100%;
+		}
+
+		.filter-label {
+			font-size: 13px;
+			font-weight: 700;
+			letter-spacing: 0.04em;
+			text-transform: uppercase;
+			color: #486581;
+		}
+
+		.filter-select {
+			min-width: 220px;
+			height: 42px;
+			padding: 8px 14px;
+			border: 1px solid #b3cbe0;
+			border-radius: 10px;
+			background: #fff;
+			color: var(--mpsc-primary-dark);
+			font-size: 14px;
+			font-weight: 600;
+			box-shadow: none;
+		}
+
+		.filter-select:focus {
+			border-color: var(--mpsc-primary);
+			box-shadow: 0 0 0 3px rgba(15, 76, 129, 0.12);
+			outline: none;
+		}
+
+		.table-status {
+			margin: 0 0 14px;
+			font-size: 14px;
+			color: #52606d;
+			font-weight: 600;
+		}
+
+		.table-responsive {
+			border: 1px solid var(--mpsc-border);
+			border-radius: 14px;
+			overflow: hidden;
+		}
+
+		.notifications-scroll-box {
+			max-height: 70vh;
+			overflow-y: auto;
+			overflow-x: auto;
+			background: #fff;
+		}
+
+		.notifications-scroll-box::-webkit-scrollbar {
+			width: 10px;
+			height: 10px;
+		}
+
+		.notifications-scroll-box::-webkit-scrollbar-thumb {
+			background: #b8c9d8;
+			border-radius: 999px;
+		}
+
+		.notifications-scroll-box::-webkit-scrollbar-track {
+			background: #eef4f8;
+		}
+
+		table#notificationTable {
+			margin-bottom: 0;
+			background: #fff;
+		}
+
+		table#notificationTable tbody tr td {
+			vertical-align: middle;
+		}
+
+		.notification-link {
+			color: var(--mpsc-primary-dark);
+			font-weight: 600;
+			line-height: 1.6;
+			text-decoration: none;
+		}
+
+		.notification-link:hover,
+		.notification-link:focus {
+			color: var(--mpsc-primary);
+			text-decoration: none;
+		}
+
+		.notification-sub-link {
+			display: inline-block;
+			margin-top: 8px;
+			color: var(--mpsc-primary);
+			font-weight: 700;
+		}
+
+		.upload-date {
+			font-weight: 600;
+			color: #486581;
+			white-space: nowrap;
+		}
+
+		.empty-state {
+			display: none;
+			padding: 24px 16px;
+			text-align: center;
+			color: #52606d;
+			font-size: 16px;
+			border: 1px dashed #bfd0df;
+			border-radius: 14px;
+			margin-top: 16px;
+			background: #f9fbfd;
+		}
+
+		.footer {
+			font-family: var(--font-body);
+			font-size: 16px;
+			color: var(--mpsc-text);
+			background: #f4f2ed !important;
+			border-top: 1px solid #d9d3c7;
+			margin-top: 24px;
+			padding-top: 18px !important;
+			padding-bottom: 18px !important;
+		}
+
+		.footer p,
+		.footer span,
+		.footer a,
+		.footer strong {
+			font-size: 16px;
+			line-height: 1.5;
+		}
+
+		.footer p {
+			margin-bottom: 6px;
+		}
+
+		.footer a {
+			color: var(--mpsc-primary-dark);
+			font-weight: 600;
+			text-decoration: none;
+		}
+
+		.footer a:hover,
+		.footer a:focus {
+			color: var(--mpsc-primary);
+			text-decoration: none;
+		}
+
+		.footer #lastUpdated {
+			font-weight: 600;
+			color: var(--mpsc-text-muted);
+		}
+
+		.footer img#counterImg {
+			margin-top: 4px;
+		}
+
+		@media (max-width: 767px) {
+			.whats-new-panel {
+				padding: 18px;
+				border-radius: 14px;
+			}
+
+			.filter-toolbar {
+				padding: 12px;
+			}
+
+			.filter-toolbar .form-control {
+				flex-basis: 100%;
+			}
+
+			.year-tag {
+				padding: 6px 12px;
+			}
+
+			table thead th,
+			tbody#notificationTableBody {
+				font-size: 15px;
+			}
+
+			.footer .text-start,
+			.footer .text-end {
+				text-align: center !important;
+			}
+
+			.footer .text-end {
+				margin-top: 12px;
+			}
+		}
+
+		.pdf-modal .modal-dialog {
+			width: 92%;
+			max-width: 1100px;
+			margin: 30px auto;
+		}
+
+		.pdf-modal .modal-content {
+			border: 0;
+			border-radius: 8px;
+			overflow: hidden;
+			box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+		}
+
+		.pdf-modal .modal-header {
+			background: var(--mpsc-primary-dark);
+			color: #fff;
+			border-bottom: 0;
+			padding: 14px 20px;
+		}
+
+		.pdf-modal .modal-title {
+			font-family: var(--font-display);
+			font-size: 18px;
+			color: #fff;
+		}
+
+		.pdf-modal .btn-close {
+			filter: invert(1) grayscale(100%) brightness(200%);
+			opacity: 0.9;
+		}
+
+		.pdf-modal .btn-close:hover {
+			opacity: 1;
+		}
+
+		.pdf-modal .modal-body {
+			padding: 0;
+			background: #f3f3f3;
+		}
+
+		.pdf-frame {
+			display: block;
+			width: 100%;
+			height: 78vh;
+			min-height: 500px;
+			border: 0;
+			background: #fff;
+		}
+
+		@media (max-width: 768px) {
+			.pdf-modal .modal-dialog {
+				width: 96%;
+				margin: 15px auto;
+			}
+
+			.pdf-frame {
+				height: 70vh;
+				min-height: 380px;
+			}
+		}
+	</style>
+	<link rel="stylesheet" href="assets/css/pdf-modal.css">
+</head>
+
+<body>
+	<!-- Header -->
+	<div id="header-placeholder"></div>
+	<script>
+		fetch('header.html')
+			.then(response => response.text())
+			.then(data => {
+				document.getElementById('header-placeholder').innerHTML = data;
+			})
+			.catch(error => console.error('Header load error:', error));
+	</script>
+	<!-- What's New Section -->
+	<div class="gencontent" id="whatsNewSection">
+		<div class="container">
+			<div class="whats-new-panel">
+				<div class="whats-new-hero">
+					<div>
+						<h2>What's New</h2>
+						<p>Browse the latest notifications, search by keyword, or jump directly to a specific year.</p>
+					</div>
+				</div>
+				<div class="filter-toolbar">
+					<input class="form-control" id="searchInput" type="text"
+						placeholder="Search notifications, answer keys, results or departments">
+					<div class="filter-group">
+						<span class="filter-label">Filter By Type</span>
+						<select class="filter-select" id="categoryFilters"
+							aria-label="Filter notifications by type"></select>
+					</div>
+					<div class="filter-group">
+						<span class="filter-label">Filter By Year</span>
+						<select class="filter-select" id="yearFilters"
+							aria-label="Filter notifications by year"></select>
+					</div>
+				</div>
+				<p class="table-status" id="tableStatus">Showing all notifications</p>
+				<div class="table-responsive">
+					<div class="notifications-scroll-box">
+						<table class="table table-bordered table-striped" id="notificationTable" style="width:100%">
+							<thead class="sticky-header">
+								<tr>
+									<th width="7%">Sl. No.</th>
+									<th width="70%">Notification</th>
+									<th width="13%">Date of upload</th>
+								</tr>
+							</thead>
+							<tbody id="notificationTableBody" style="font-size:18px;">
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26092317020.pdf">
+											<b>Notification for recruitment of 13 posts of Dental Surgeon (MHS Grade-IV) in the Health Department, Manipur</b>
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+											<span class="new-badge-animated">New</span>
+										</a>
+										<br>
+										<a class="notification-link notification-sub-link" href="files/DS_Syllabus_2026.pdf">
+											<i class="fa fa-book" aria-hidden="true"></i> Syllabus
+										</a>
+									</td>
+									<td align=center class="upload-date">23-09-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26091515250.pdf">
+											<b>Schedule of Written Examination for Recruitment of Under Secretary (Law)
+												and Law Officers in the Law &amp; Legislative Affairs Department</b>
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+											<span class="new-badge-animated">New</span>
+										</a>
+									</td>
+									<td align=center class="upload-date">15-09-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/RA_Exam_notice.pdf">
+											Schedule of Written Examination for Recruitment of Research Assistant in
+											Planning Department
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">28-08-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="Cutoff.html">
+											MCSCC (Main) Examination, 2022 – Cutoff Marks.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">15-07-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26070416190.pdf">
+											MCSCC (Main) Examination, 2022 – Link for Viewing Marks of Candidates.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">04-07-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26060620350.pdf">
+											Final results of recruitment to various posts in the Directorate of Handloom
+											&amp; Textiles, Manipur.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">06-06-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26052719480.pdf">
+											Schedule of Interview for Recruitment to Various Posts under the Directorate
+											of Handloom &amp; Textiles, Manipur.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">27-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26052016560.pdf">
+											Notification for postponement of interview for direct recruitment of various
+											posts in the Directorate of Handloom &amp; Textiles, Manipur.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">20-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26052016561.pdf">
+											Notification for postponement of recruitment examinaiton for the posts of
+											<p>(i) Under Secretary (Law) &amp; Law Officer in the Law &amp; Legislative
+												Affairs Department,</p>
+											<p>(ii) various posts in the Directorate of
+												Trade, Commerce &amp; Industries, Manipur and </p>
+											<p>(iii) Research Assistant in Planning Department</p>
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">20-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051814080.pdf">
+											Deferment of examination for recruitment to the posts of Research Assistant
+											in Planning Department.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">18-05-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051515260.pdf">
+											Deferment of examiantion for recruitment to the posts of Under
+											Secretary (Law) and Law Officer.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">15-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051320250.pdf">
+											Interview Schedule for recruitment to various posts in the Directorate of
+											Handloom & Textiles, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">13-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051217430.pdf">
+											Written results for recruitment to various posts in the Directorate of
+											Handloom & Textiles, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">12-05-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051213570.pdf">
+											Corrigendum to Notification dated 16 April 2026 regarding recruitment to the
+											posts of Under Secretary (Law) and Law Officer.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">12-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26051212320.pdf">
+											Final Answer Key for recruitment of vearious posts in the Directorate of
+											Handloom & Textiles, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">12-05-2026</td>
+								</tr>
+
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link"
+											href="files/Notification_Under_Secy_Law_Officer_Admit_card.pdf">
+											Under Secretary (Law) and Law Officer Recruitment – Examination Schedule.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">08-05-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link"
+											href="files/Research_Asst_notification_Admit_card.pdf">
+											Planning Department Research Assistant Recruitment – Examination Schedule.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">08-05-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/MPSC_26043019410.pdf">
+											Examination schedule for recruitment of various posts in the Directorate of
+											Trade, Commerce & Industries, Manipur.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">30-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/2022/MCSCCE_2022/MPSC_26042300140.pdf">
+											Final Results of MCSCCE, 2022
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">22-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link"
+											href="files/Partial_Modification_of_ADVT_02_2026.pdf">
+											Notification regarding partial modification of Advt. No. 02/2026 dated
+											16/04/2026
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">20-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a class="notification-link" href="files/AE_Exam_Deferment.pdf">
+											Deferment of examination for recruitment of 130 posts of Assistant Engineers
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center class="upload-date">18-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26041620561.pdf">
+											Notification for recruitment of Under Secretary (Law) and Law Officer in
+											Law &
+											Legislative Affairs Department, Government of Manipur.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>16-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26041620560.pdf">
+											Notification for recruitment of Research Assistant in Planning Department on
+											contractual
+											basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>16-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_2604091842.pdf">
+											Rescheduling of Interview/ Personality Test for MCSCC (M) Exam, 2022 which
+											was earlier
+											scheduled on 8th April, 2026.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>09-04-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26032416590.pdf">
+											Deferment of examination for recruitment of 130 posts of Assistant
+											Engineers.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_26032318030.pdf">
+											Corrigendum to Provisional Answer Key of Paper-I [(Handloom & Textiles) for
+											the post of
+											Project Manager (Handloom)]
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>23-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26032020040.pdf">
+											Notification for Answer Key of Paper-I (Subject Paper)
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+										<br /><span class="date">
+											<a href="files/A-I.pdf">Annexure-I</a> |
+											<a href="files/A-II.pdf">Annexure-II</a> |
+											<a href="files/A-III.pdf">Annexure-III</a> |
+											<a href="files/A-IV.pdf">Annexure-IV</a> |
+											<a href="files/A-V.pdf">Annexure-V</a> |
+											<a href="files/A-VI.pdf">Annexure-VI</a> |
+											<a href="files/A-VII.pdf">Annexure-VII</a> |
+											<a href="files/A-VIII.pdf">Annexure-VIII</a> |
+											<a href="files/A-IX.pdf">Annexure-IX</a> |
+											<a href="files/A-X.pdf">Annexure-X</a>
+										</span>
+									</td>
+									<td align=center>20-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_26031820591.pdf">
+											Interview/ Personality Test Schedule for Manipur Civil Services Combined
+											Competitive
+											(Main) Examination, 2022
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>18-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26031816180.pdf">
+											Result of the Limited Departmental Examination, 2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>18-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26031816181.pdf">
+											Result of the Limited Qualifying Speed Test Examination for Stenographer
+											Grade-I (for
+											non secretariat stenographer) and Grade-II & I (for secretariat
+											stenographers), 2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>18-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26031620520.pdf">
+											Instructions regarding filing of objection(s) to the provisional answer key.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>16-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26031522350.pdf">
+											Answer Key for Paper-II (General Studies) for recruitment examiantion for
+											various
+											posts in the Directorate of Handloom & Textiles, Manipur on contract basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>15-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_26031320330.pdf">
+											Result of Written Part of Manipur Civil Services Combined Competitive (Main)
+											Examination, 2022
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>13-03-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26022419280.pdf">
+											Recruitment of Various post in Handloom & Textiles Department - Notification
+											for
+											Rescheduling of Written Exam
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26022417210.pdf">
+											Recruitment of Assistant Engineer/ Manager (Civil/ Electrical) - Important
+											Notification
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26021216120.pdf">
+											Limited Departmental Examination, 2025 - Notification for Viva-voce schedule
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>12-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26021216120.pdf">
+											Recruitment of Assistant Engineer/ Manager (Civil/ Electrical) - Plan of
+											Examination and
+											Syllabus
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>10-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26020715090.pdf">
+											Recruitment of Various post in Handloom & Textiles Department - Written Exam
+											Schedule
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>07-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_26020619580.pdf">
+											Recruitment of Various post in Trade, Commerce & Industries Department -
+											List of provisionally eligible applicants, list of applicants whose
+											eligibility is subject to verification and confirmation of experience
+											certificates
+											from the concerned Department and list of applicants required to submit
+											subject
+											equivalency certificates/documents.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>06-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/LDE_2025_Exam_Schedule.pdf">
+											Examination Schedule for Limited Departmental Examination, 2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>04-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Steno_2025_Exam_Schedule.pdf">
+											Examination Schedule for Limited Qualifying Speed Test Examination for
+											Stenographer
+											Grade-I (for non secretariat stenographer) and Grade-II & I (for secretariat
+											stenographers), 2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>04-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/AE_Recuitment_2026.pdf">
+											Advertisement for direct recruitment of 130 posts of Assistant Engineer/
+											Manager (Civil/
+											Electrical)
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>03-02-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/LDE_LQST_Examination_Extension_Notification_2025.pdf">
+											Extension of last for submission of online application for Limited
+											Departmental
+											Exam, 2025 and Limited Qualifying Speed Test Examination for Stenographer
+											Grade-I
+											(for non secretariat stenographer) and Grade-II & I (for secretariat
+											stenographers),
+											2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>27-01-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/DMCTE_HTTC_Extn.pdf">
+											Recruitment of 7 posts of Assistant Professors of D.M. College of Teacher’s
+											Education and 4 posts of Assistant Professors of Hindi Teachers
+											Training College under Higher Educaiton Department, Manipur – Extension of
+											last date
+											for submission of hard copies
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-01-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/AP_21012026.pdf">
+											Recruitment of 419 posts of Assistant Professor under Higher Education
+											Department,
+											Manipur – Recommendation of the Expert Committee constituted by the Higher
+											Education
+											Department to examine the relevant and allied subjects adopted in connection
+											with
+											recruitment to the post of Assistant Professor of Government Colleges.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>21-01-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/AP_Last_Date_Extension.pdf">
+											Recruitment of 419 posts of Assistant Professor under Higher Education
+											Department,
+											Manipur – Extension of last date for submission of online applications and
+											hard copies.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>19-01-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_AP_261001.pdf">
+											Assistant Professor Recruitment: Partial modification of Advt. No. 02/2025
+											dated
+											05-12-2025 in respect of para 8 of the notification regarding Mode of
+											submission of
+											hard copies of the requisite documents.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>10-01-2026</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/AP_HTTC_2025.pdf">
+											Advertisement for recruitment of 4 posts of Assistant Professors of Hindi
+											Teachers
+											Training College.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/AP_DMCTE_2025.pdf">
+											Advertisement for recruitment of 7 posts of Assistant Professors of DM
+											College of
+											Teacher
+											Education.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/LDE_2025.pdf">
+											Notification for Limited Departmental Examination, 2025.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/LSG_I_II.pdf">
+											Notification for Limited Qualifying Speed Test Examination for Stenographer
+											Grade-I
+											(for non secretariat stenographer) and Grade-II & I (for secretariat
+											stenographers),
+											2025..
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>24-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_25121919530.pdf">
+											Assistant Professor Recruitment: Partial modification of Advt. No. 02/2025
+											dated
+											05-12-2025 reegarding concerned subject and age.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>19-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Re_Schedule_of_Handloom_Examination.pdf">
+											Re-scheduling of written examination for recruitment of various posts in
+											Directorate of Handloom & Textiles, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>16-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Asst_Prof_11122025.pdf">
+											Assistant Professor Recruitment: Partial modification of Advt. No. 02/2025
+											dated
+											05-12-2025.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>11-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Advt_AP_2025.pdf">
+											Notification for direct recruitment of 419 posts of Assistant Professor
+											under Higher
+											Education Department, Manipur
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>05-12-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_25111118560.pdf">
+											Notification for rescheduling of Paper-IV (General Studies-III) and Paper-V
+											(General
+											Studies-IV) of MCSCC (Main) Examination, 2022 to 26-11-2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>11-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_25110916460.pdf">
+											Notificaiton regarding intimation to the Commission for the candidates
+											appearing for
+											Indian Forest Service (Mains) Exam, 2025, if any.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>09-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_25110915570.pdf">
+											Clarification regarding rescheduling of Paper-IV (General Studies-III) and
+											Paper-V
+											(General Studies-IV)
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>09-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_25110914020.pdf">
+											Notification for rescheduling of Paper-IV (General Studies-III) and Paper-V
+											(General
+											Studies-IV) of MCSCC (Main) Examination, 2022
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>09-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Notification_5_11_25_PM.pdf">
+											Partial Modification of Earlier Notification Dated 05-11-2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>05-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Notification_5_11_25.pdf">
+											Notification regarding opening of window for online updation of details and
+											fees payment
+											for appearing at MCSCC (Mains) Exam, 2022
+											in compliance with the order of the Hon'ble High Court of Manipur dated
+											05/11/2025
+											passed in WP (C) No. 871 of 2025
+											(Stephen Kaikhochon Doungel -Vrs- MPSC through its Secretary & Anr.)
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>05-11-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Notification_for_download_of_e_Admit_card.pdf">
+											Notification regarding Download of e-Admit Card for the Manipur Civil
+											Services Combined
+											Competitive (Mains) Examination, 2022
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>20-10-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MPSC_25100318060.pdf">
+											Notification regarding conduct of Manipur Civil Services Combined
+											Competitive
+											(Mains-Written Part) Examination, 2022 on 7th, 8th & 9th November, 2025
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>03-10-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Handloom_Textile_ Exam_date_Notification.pdf">
+											Tentative examination schedule for recruitment of various posts in
+											Directorate of
+											Handloom & Textiles, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>29-09-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_Main_Deferment.pdf">
+											MCSCC (Mains) Examination, 2022: Deferment Notification
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27-08-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_Main_ReScheduled.pdf">
+											MCSCC (Mains) Examination, 2022: Reschedule Notification
+											<i class="fa fa-file-pdf-o" style="color: red;"></i>
+										</a>
+									</td>
+									<td align=center>19-08-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a
+											href="files/2022/MCSCCE_2022/MCSCCE(Mains), Exam, 2022_Tentative_Schedule.pdf">
+											MCSCC (Main) 2022: Tentative Exam Schedule Notification
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>25-07-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_M_2022.pdf">
+											Notification regarding conduct of Manipur Civil Services Combined
+											Competitive
+											(Mains-Written Part) Examination, 2022
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>11-07-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_25070321110.pdf">
+											Notification of extension of last date for submission of online application
+											for
+											recruitment to various post in the Directorate of Trade, Commerce &
+											Industries, Manipur
+											on contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>03-07-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/MPSC_25070321000.pdf">
+											Corrigendum to Advt. No. 1 of 2025 dated 17/06/2025 for recruitment to
+											various post in
+											the Directorate of Trade, Commerce & Industries, Manipur on contractual
+											basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>03-07-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Handloom_Eligible_Rejected_Applications.pdf">
+											Eligible and Rejected Application for recruitment of various post in the
+											Directorate
+											Handloom & Textile on contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17-06-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="TCI_2025.html">
+											Recruitment of various post in the Directorate of Trade, Commerce &
+											Industries, Manipur
+											on contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17-06-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/handloom_9_5_25.pdf">
+											Important Notification: Recruitment for Various Posts in the Handloom &
+											Textile
+											Department
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>09-05-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/Draft_RR_OSD_DS/Draft_RR_OSD_DS.pdf">
+											Notification inviting claims/objections from all stakeholders on the draft
+											RRs for the
+											post of OSD (Law) and Deputy Secretary of MPSC
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>25-03-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Staff_recruitment/G_IV_Result_2024.pdf">
+											Final Result for recruitment of Peon/Chowkidar/ Security Guard on
+											contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>24-01-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/Final_Result_RA.pdf">
+											Final Result for recruitment of Research Assistant in the Directorate of
+											Institutional
+											Finance, Manipur on contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>08-01-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/Final_Result_ARO.pdf">
+											Final Result for recruitment of Assistant Research Officer in the Planning
+											Department,
+											Manipur on contractual basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>08-01-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/LDE_2024/Result_LDE_2024.pdf">
+											Results of the Limited Departmental examination, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07-01-2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Result_MFS_Eligibility.pdf">
+											Results of the Eligibility Examination for Inclusion of Feeder Posts in the
+											Seniority
+											List for Promotion to MFS Grade-III held on 17th & 18th December, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/01/2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Final_LO_Result.pdf">
+											Final Result for recruitment of Legal Officer in the Law & Legislative
+											Affairs
+											Department, Manipur
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>06/01/2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2021/FSL_2021/Final_Result.pdf">
+											Final Result for recruitment of Scientific Officer (Cyber) in the
+											Directorate of
+											Forensic Science, Manipur (Foremerly Forensic Science Laboratory)
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>04/01/2025</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/Written_Result_ARO.pdf">
+											Results of written part of the examination for recruitment of Assistant
+											Research Officer
+											in the Planning Department, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>28/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/Written_Result_RA.pdf">
+											Results of written part of the examination for recruitment of Research
+											Assistant in the
+											Directorate of Institutional Finance, Manipur on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>28/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/Final_Key_RA.pdf">
+											Final Answer Key for recruitment examination of Research Assistant in
+											Directorate of
+											Institutional Finance on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>28/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/Final_Key_ARO.pdf">
+											Final Answer Key for recruitment examination of Assistant Research Officer
+											in Planning
+											Department on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>28/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td><a href="files/2021/FSL_2021/Written_Result.pdf">
+											Results of written part of the examination for recruitment of various posts
+											in Forensic
+											Science Department, Manipur (Formerly Forensic Science Laboratory).
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2021/FSL_2021/Final_Key.pdf">
+											Final Answer Key for recruitment of various posts in Forensic Science
+											Department,
+											Manipur (Formerly Forensic Science Laboratory).
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Written_result_LO_2024.pdf">
+											Results of written part of the examination for recruitment of Legal Officer
+											in Law &
+											Legislative Affairs Department, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Final_Key_LO_2024.pdf">
+											Final Answer Key for recruitment of Legal Officer in Law & Legislative
+											Affairs
+											Department, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="RA_2024.html">
+											Answer Key and Specimen Question Booklets for Research Assistant in
+											Institutional
+											Finance, Manipur recruitment examination held on 21-12-2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>21/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\2024\LDE_2024\LDE_24_Viva.pdf">
+											Limited Departmental Examination, 2024 - Viva Voce Schedule.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="LO_2024.html">
+											Answer Key and Specimen Question Booklets for Legal Officer in Law &
+											Legislative Affairs
+											Department Recruitment Examination held on 16-12-2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>16/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="aro_2024.html">
+											Answer Key and Specimen Question Booklets for Assistant Research Officer in
+											Planning
+											Department Recruitment Examination held on 14-12-2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>14/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="FSL_2021.html">
+											Answer Key and Specimen Question Booklets for Forensic Science Department
+											Recruitment
+											Examination held on 07-12-2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\2024\LDE_2024\LDE_Extn.pdf">
+											Extension of online form submission of Limited Departmental Examination,
+											2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\2024\LDE_2024\LDE_2024_Exam_Schedule.pdf">
+											Examination Schedule for Limited Departmental Examination, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\2024\Exam_schedule.pdf">
+											Time Table of recruitment examination for the post of (i) Assistant Research
+											Officer in
+											Planning Department (ii) Legal Officer in Law & Legislative Affairs
+											Department & (iii)
+											Research Assistant in the Directorate of Institutional Finance.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>03/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\Imp_Notification.pdf">
+											Notfication regarding conducting the examination as per schedule already
+											notified
+											earlier.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>02/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\LO_eAdmit_Card.pdf">
+											Notfication for issuance of e-Admit Card for recruitment to the post of
+											Legal Officer. < i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>02/12/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\syllabus\LDE_syllabus_2024.pdf">
+											Syllabus for Limited Departmental Examination, 2024. ]
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>25/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files\2021\FSL_2021\FSL_Addl.pdf">
+											Additional Provisonal Eligible list for recruitment of Scientific Officer
+											(Cyber)/Scientific Assistant (Cyber)/ Scientific Assistant (Chemistry)/
+											Scientific
+											Assistant (Photography) in Directorate of Forensic Science, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>22/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td><a href="files/2024/RA_2024/Exam_Notice_RA.pdf">
+											Examination Schedule for recruitment of Research Assistant in Institutional
+											Finance,
+											Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>15/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Steno_2024/Steno_2024.pdf">
+											Notification for Limited Qualifying Speed Test Examination for Stenographer
+											Grade-II &
+											I, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>14/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/LDE_2024/LDE_2024.pdf">
+											Notification for Limited Departmental Examination, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>14/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Exam_schedule_MFS_DE.pdf">
+											Re-schedule of Eligibility Exam for inclusion of feeder posts in the
+											seniority list for
+											promotion to the Manipur Finance Service Grade-III.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>12/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/LO_Exam_Schedule.pdf">
+											Examination schedule for recruitment of Legal Officer.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>11/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/ARO_Exam_Schedule.pdf">
+											Examination schedule for recruitment of Assistant Research Officer in
+											Planning
+											Department on contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_M_postponement.pdf">
+											Notification for postponement of MCSCC (M) Exam, 2022
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>04/11/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_Main_Schedule.pdf">
+											Schedule of MCSCC (Main) Exam, 2022
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>31/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2021/FSL_2021/Exam_schedule.pdf">
+											Examination schedule for recruitment of Scientific Officer
+											(Cyber)/Scientific Assistant
+											(Cyber)/ Scientific Assistant (Chemistry)/ Scientific Assistant
+											(Photography) in
+											Directorate of Forensic Science, Manipur (Formerly Forensic Science Lab).
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>23/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/MFS_III_Eligibility_Exam.pdf">
+											Eligibility Exam for inclusion of feeder posts in the seniority list for
+											promotion to
+											the Manipur Finance Service Grade-III.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>22/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/MCSCC_Extn.pdf">
+											MCSCC (M) Exam, 2022: Opening of window for online updation of details.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>22/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/principal_interview.pdf">
+											Interview Notice for recruitment of 22 posts of Principals ofGovernment
+											Colleges.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>22/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/staff_recruitment/Ans_Key.pdf">
+											Answer Key for recruitment examination of Peon/Chowkidar/Security Guard of
+											MPSC on
+											contractual basis held on 19th October, 2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>19/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="handloom.html">
+											Syllabus for recruitment on contractual basis by direct recruitment in
+											respect of
+											Directorate of Handloom & textiles, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>14/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Handloom_advt_2024.pdf">
+											Notification for filling up of 24(twenty four) nos of different Class-I and
+											II posts on
+											contractual basis by direct recruitment in respect of Directorate of
+											Handloom &
+											textiles, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>10/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/staff_recruitment/Result_driver.pdf">
+											Result of recruitment of Driver of MPSC on contract basis
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>07/10/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2021/MHS_MO_2021/MO_Result_3_petitioners.pdf">
+											Result of 3 (three) petitioners of MHS Grade-IV (MO) Exam, 2021 in
+											compliance of the of
+											the Order the Hon'ble High Court dated 21.08.2024 passed in the above
+											MC(WP(C) No. 296
+											of 2024 with MC(WP(C) No. 254 of 2024 dated 22.07.2024 with WP(C) No. 284 of
+											2024.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/LO_Advt.pdf">
+											Notification for recruitment of Legal Officer in the Law & Legislative
+											Affairs
+											Department, Govt. of Manipur on regular basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/RA_Notice_25_09_24.pdf">
+											Notification to submit marksheets for recruitment of Research Assistant in
+											Institutional
+											Finance, Manipur.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>25/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/ARO_Notification.pdf">
+											Notification to submit documents and reject list for recruitment of
+											Assistant Research
+											Officer in Planning Department.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>24/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/staff_recruitment/GIV_Exam_Notice.pdf">
+											Examination schedule for recruitment of Peon/Chowkidar/Security Guard of
+											MPSC on
+											contractual basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>23/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RSB_2024/Result_secy_RSB_2024.pdf">
+											Result of the recruitment of Secretary, Rajya Sainik Board.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/RA_Extension.pdf">
+											Extension of last date of submission of online application for recruitment
+											of Research
+											Assistant in the Directorate of Institutional Finance on contract basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/ARO_Extension.pdf">
+											Extension of last date of submission of online application for recruitment
+											of Assistant
+											Research Officer in the Planning Department, Manipur on contract basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/staff_recruitment/Recruitment_notice.pdf">
+											Examination schedule for recruitment of Driver and Peon/Chowkidar/ Security
+											Guard of
+											MPSC on contract basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>17/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RSB_2024/RSB_2024_Interview_Notice.pdf">
+											Interview Notice for recruitment of Secretary, Rajya Sainik Board.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>04/09/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RA_2024/RA_Advt_2024.pdf">
+											Notification for recruitment of Research Assistant in the Directorate of
+											Institutional
+											Finance, Manipur on contractual basis. </a>
+									</td>
+									<td align=center>28/08/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/ARO_2024/ARO_Advt_2024.pdf">
+											Notification for recruitment of Assistant Research Officer in the Planning
+											Department,
+											Manipur on Contractual Basis.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>27/08/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/RSB_2024/RSB_Advt_2024.pdf">
+											Notification for recruitment of Secretary, Rajya Sainik Board.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>14/08/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Main_Exam_Extension.pdf">
+											MCSCC (M) Exam, 2022: Extension of Last date for updation of details and
+											fees payment.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>06/08/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Principal_Govt_College.pdf">
+											Notification for recruitment to 22 posts of Government College Principals
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>15/07/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2024/Principal_DMCTE_HTTC.pdf">
+											Notification for recruitment to the post of Principals of DM College of
+											Teacher's
+											Education and Hindi Teacher's Training College
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>15/07/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Main_Exam_Notice.pdf">
+											Notification for MCSCC (Main) Exam, 2022.
+										</a>
+									</td>
+									<td align=center>09/07/2024</td>
+								</tr>
+								<tr>
+									<td></td>
+									<td>
+										<a href="files/2022/MCSCCE_2022/Prelim_2022_Result.pdf">
+											MCSCC (P) Exam, 2022: Result of the Preliminary Examination.
+											<i class="fa fa-file-pdf-o" style="color:red;"></i>
+										</a>
+									</td>
+									<td align=center>28/05/2024</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="empty-state" id="emptyState">No notifications match the selected search or year filter.
+				</div>
+			</div>
+		</div>
+		<script>
+			document.addEventListener('DOMContentLoaded', function () {
+				var searchInput = document.getElementById('searchInput');
+				var yearFilters = document.getElementById('yearFilters');
+				var categoryFilters = document.getElementById('categoryFilters');
+				var rows = Array.prototype.slice.call(document.querySelectorAll('#notificationTableBody tr'));
+				var status = document.getElementById('tableStatus');
+				var emptyState = document.getElementById('emptyState');
+				var activeYear = "all";
+				var activeCategory = "all";
+
+				function extractYear(dateText) {
+					var cleaned = (dateText || "").trim();
+					var match = cleaned.match(/(\d{4})$/);
+					return match ? match[1] : "Unknown";
+				}
+
+				function extractCategory(text) {
+					var cleaned = (text || "").toLowerCase();
+
+					if (/\banswer key\b/.test(cleaned)) {
+						return "answer-key";
+					}
+
+					if (/\bresults?\b/.test(cleaned)) {
+						return "result";
+					}
+
+					return "general";
+				}
+
+				function getCategoryLabel(category) {
+					if (category === "answer-key") {
+						return "Answer Key";
+					}
+
+					if (category === "result") {
+						return "Results";
+					}
+
+					return "All Notifications";
+				}
+
+				rows.forEach(function (row) {
+					var link = row.querySelector('td:nth-child(2) a');
+					var dateCell = row.querySelector('td:last-child');
+					var notificationText = link ? link.textContent.trim() : "";
+					var year = extractYear(dateCell ? dateCell.textContent : "");
+					var category = extractCategory(notificationText);
+
+					row.setAttribute("data-year", year);
+					row.setAttribute("data-category", category);
+
+					if (link) {
+						link.classList.add("notification-link");
+					}
+
+					if (dateCell) {
+						dateCell.classList.add("upload-date");
+					}
+				});
+
+				var years = rows.map(function (row) {
+					return row.getAttribute("data-year");
+				}).filter(function (value, index, array) {
+					return value && array.indexOf(value) === index;
+				}).sort(function (a, b) {
+					return parseInt(b, 10) - parseInt(a, 10);
+				});
+
+				var categories = ["answer-key", "result"].filter(function (category) {
+					return rows.some(function (row) {
+						return row.getAttribute("data-category") === category;
+					});
+				});
+
+				function renderYearTags() {
+					var options = ['<option value="all">All Years</option>'];
+
+					years.forEach(function (year) {
+						options.push('<option value="' + year + '">' + year + '</option>');
+					});
+
+					yearFilters.innerHTML = options.join("");
+				}
+
+				function renderCategoryTags() {
+					var options = ['<option value="all">All Notifications</option>'];
+
+					categories.forEach(function (category) {
+						options.push('<option value="' + category + '">' + getCategoryLabel(category) + '</option>');
+					});
+
+					categoryFilters.innerHTML = options.join("");
+				}
+
+				function updateStatus(visibleCount) {
+					var searchText = searchInput.value.trim();
+					var filters = [];
+
+					if (activeYear !== "all") {
+						filters.push("Year: " + activeYear);
+					}
+
+					if (activeCategory !== "all") {
+						filters.push("Type: " + getCategoryLabel(activeCategory));
+					}
+
+					if (searchText) {
+						filters.push('Search: "' + searchText + '"');
+					}
+
+					status.textContent =
+						visibleCount > 0
+							? "Showing " + visibleCount + " notification" + (visibleCount === 1 ? "" : "s") + (filters.length ? " | " + filters.join(" | ") : "")
+							: "No notifications found" + (filters.length ? " | " + filters.join(" | ") : "");
+				}
+
+				function applyFilters() {
+					var searchValue = searchInput.value.toLowerCase();
+					var visibleCount = 0;
+
+					rows.forEach(function (row) {
+						var matchesSearch = row.textContent.toLowerCase().indexOf(searchValue) > -1;
+						var matchesYear = activeYear === "all" || row.getAttribute("data-year") === activeYear;
+						var matchesCategory = activeCategory === "all" || row.getAttribute("data-category") === activeCategory;
+						var shouldShow = matchesSearch && matchesYear && matchesCategory;
+
+						row.style.display = shouldShow ? "" : "none";
+
+						if (shouldShow) {
+							visibleCount++;
+						}
+					});
+
+					emptyState.style.display = visibleCount === 0 ? "block" : "none";
+					updateStatus(visibleCount);
+				}
+
+				renderYearTags();
+				renderCategoryTags();
+				yearFilters.value = activeYear;
+				categoryFilters.value = activeCategory;
+				applyFilters();
+
+				searchInput.addEventListener("keyup", applyFilters);
+
+				yearFilters.addEventListener("change", function () {
+					activeYear = yearFilters.value.toString();
+					applyFilters();
+				});
+
+				categoryFilters.addEventListener("change", function () {
+					activeCategory = categoryFilters.value.toString();
+					applyFilters();
+				});
+			});
+		</script>
+		<script>
+			window.addEventListener('load', function () {
+				setTimeout(function () {
+					var section = document.getElementById('whatsNewSection');
+
+					if (section) {
+						section.scrollIntoView({
+							behavior: 'smooth',
+							block: 'start'
+						});
+					}
+				}, 250);
+			});
+		</script>
+	</div>
+	<div class="modal fade pdf-modal" id="pdfModal" tabindex="-1" aria-labelledby="pdfModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="pdfModalLabel">Document Preview</h4>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+					<iframe id="pdfModalFrame" class="pdf-frame" title="PDF document preview"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<div id="footer-placeholder"></div>
+	<script>
+		fetch('footer.html')
+			.then(response => response.text())
+			.then(data => {
+				document.getElementById('footer-placeholder').innerHTML = data;
+			})
+			.catch(error => console.error('Footer load error:', error));
+	</script>
+	<script>
+		document.addEventListener('click', function (event) {
+			var pdfLink = event.target.closest('#whatsNewSection a[href$=".pdf"]');
+
+			if (!pdfLink) {
+				return;
+			}
+
+			event.preventDefault();
+
+			var modalFrame = document.getElementById('pdfModalFrame');
+			var modalTitle = document.getElementById('pdfModalLabel');
+			var titleText = (pdfLink.textContent || '').replace(/\s+/g, ' ').trim();
+
+			modalFrame.src = pdfLink.href;
+			modalTitle.textContent = titleText || 'Document Preview';
+			var pdfModal = bootstrap.Modal.getOrCreateInstance(document.getElementById('pdfModal'));
+			pdfModal.show();
+		});
+
+		document.getElementById('pdfModal').addEventListener('hidden.bs.modal', function () {
+			document.getElementById('pdfModalFrame').src = '';
+		});
+	</script>
+	<script src="assets/js/pdf-modal.js" defer></script>
+</body>
+
+</html>

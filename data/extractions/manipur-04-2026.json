@@ -1,0 +1,24 @@
+{
+  "reviewStatus": "pending",
+  "advertisement": "04/2026",
+  "documentUrl": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
+  "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+  "post": "Dental Surgeon (Manipur Health Service Grade-IV)",
+  "vacancies": 13,
+  "opensOn": "2026-09-28",
+  "closesOn": "2026-10-18",
+  "cutoffLocalTime": "23:59",
+  "eligibilityAsOn": "2026-09-23",
+  "evidencePages": {
+    "postCitizenshipResidenceLanguageAgeQualifications": [1],
+    "applicationWindowFeesSelection": [2],
+    "venueUnknown": [3]
+  },
+  "notes": [
+    "Original advertisement is a scanned three-page PDF. Fields were transcribed by visual inspection and await founder review.",
+    "Only citizens of India may apply; permanent Manipur residence or the stated parent/ancestor exception requires documentary review. A current-address comparison cannot establish that exception.",
+    "Candidate must speak Manipuri (Meetei/Meitei Lon) or any tribal dialect of Manipur; no standardized proficiency level is stated.",
+    "Age ceiling has category, disability and government-service exceptions; do not automate an exclusion until these are reviewed.",
+    "Separate 47-page scanned syllabus is retained for review but not parsed into eligibility or language requirements."
+  ]
+}

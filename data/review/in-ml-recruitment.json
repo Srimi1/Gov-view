@@ -1,0 +1,389 @@
+{
+  "sourceId": "in-ml-recruitment",
+  "collectedAt": "2026-09-24T21:41:53.353Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 03/2026 · Post 01",
+      "programme": "Fishery Officer",
+      "status": "closed",
+      "statusNote": "Original deadline passed. Addendum extension scope for Post 01 needs founder verification.",
+      "scopeLabel": "Meghalaya government recruitment; state residence matters for specified benefits and relaxations",
+      "outcome": "Fishery Officer appointment (11 posts)",
+      "qualifications": "B.F.Sc. or B.Sc. in Pisciculture/Fishery Science from a recognized university (original page 1).",
+      "citizenshipRule": "Applications invited from citizens of India (original advertisement page 1); foreign citizens do not match this published criterion.",
+      "residenceRule": "No blanket Meghalaya residence condition is stated for application. SC/ST permanent residents of Meghalaya receive a half-rate fee; age relaxations require a Meghalaya-issued SC/ST certificate (original pages 2–3; Fishery corrigendum page 1).",
+      "selectionStages": [
+        "Screening test: General English 50 marks, General Knowledge and Current Affairs 50, Aptitude and Reasoning 50, fishery domain 150 (original page 5).",
+        "Personal interview after passing screening test; original documents required (page 5)."
+      ],
+      "fee": "₹350; half-rate for SC/ST permanent residents of Meghalaya; persons with benchmark disabilities exempt with certificate (original page 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, page 1: applications are invited from citizens of India."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "requirement": "General English, 50-mark screening subject; no formal proficiency level stated.",
+            "stage": "selection",
+            "evidence": "Advertisement 03/2026, page 5, method of selection for post codes 01 and 02.",
+            "sourceUrl": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify amended age 18–32 on 1 January 2026, applicable Meghalaya-issued SC/ST certificate, and fishery degree (original pages 1–2; corrigendum page 1)."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify screening result and original documents before interview (original page 5)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Shillong examination centre (city only; final allocation may change)",
+          "city": "Shillong",
+          "latitude": 25.5689,
+          "longitude": 91.8831,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Tura examination centre (city only; final allocation may change)",
+          "city": "Tura",
+          "latitude": 25.5142,
+          "longitude": 90.2024,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Jowai examination centre (city only; final allocation may change)",
+          "city": "Jowai",
+          "latitude": 25.436,
+          "longitude": 92.1913,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Williamnagar examination centre (city only; final allocation may change)",
+          "city": "Williamnagar",
+          "latitude": 25.4955,
+          "longitude": 90.6168,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Nongstoin examination centre (city only; final allocation may change)",
+          "city": "Nongstoin",
+          "latitude": 25.517,
+          "longitude": 91.2648,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://rpa.meghalaya.gov.in/rpaonline",
+      "changes": [
+        {
+          "at": "2026-06-03",
+          "kind": "eligibility",
+          "summary": "Corrigendum changes Fishery Officer age range to 18–32 years with specified SC/ST relaxation."
+        }
+      ],
+      "id": "meghalaya-psc-2026-03-post-01",
+      "sourceId": "in-ml-recruitment",
+      "title": "Fishery Officer",
+      "authority": "Meghalaya Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-ML"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-06-25",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Original advertisement, pages 1 and 4: 25 June 2026 at 17:00. Addendum concerns Post 02; whether extension covered Post 01 is unclear. Notice does not print timezone; Asia/Kolkata is local Shillong interpretation."
+      },
+      "salary": "Revised pay structure Level 12 (original page 1).",
+      "sources": [
+        {
+          "id": "in-ml-recruitment:f055aac47aa6",
+          "title": "MPSC advertisement and amendment table",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+          "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:41:54.545Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:ede5944913f1",
+          "title": "Advertisement 03/2026: original advertisement",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+          "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+          "lastSuccessfulFetchAt": "2026-09-24T21:41:58.583Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:08ad628187d3",
+          "title": "Advertisement 03/2026: Fishery Officer age corrigendum",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+          "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+          "lastSuccessfulFetchAt": "2026-09-24T21:42:00.149Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:1ca69cec33e9",
+          "title": "Advertisement 03/2026: Junior Football Coach qualification addendum and deadline extension",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+          "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+          "lastSuccessfulFetchAt": "2026-09-24T21:42:01.391Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 03/2026 · Post 02",
+      "programme": "Junior Football Coach",
+      "status": "closed",
+      "statusNote": "Post 02 extension to 30 June is in addendum; founder verification pending.",
+      "scopeLabel": "Meghalaya government recruitment; state residence matters for specified benefits and relaxations",
+      "outcome": "Junior Football Coach appointment (2 posts)",
+      "qualifications": "Graduate with recognized one-year sports-coaching diploma, or 10+2 with recognized sports-coaching diploma for medal achievers. Addendum adds four-year/eight-semester BSc Sports Coaching from National Sports University, Manipur, in the concerned discipline; medal winners receive special preference (original pages 1–2; addendum page 1).",
+      "citizenshipRule": "Applications invited from citizens of India (original advertisement page 1); foreign citizens do not match this published criterion.",
+      "residenceRule": "No blanket Meghalaya residence condition is stated for application. SC/ST permanent residents of Meghalaya receive a half-rate fee; age relaxations require a Meghalaya-issued SC/ST certificate (original pages 2–3; Fishery corrigendum page 1).",
+      "selectionStages": [
+        "Screening test: General English 50 marks, General Knowledge and Current Affairs 100, Reasoning 50; labelled Class XII Level (original page 5).",
+        "Personal interview after passing screening test; original documents required (page 5)."
+      ],
+      "fee": "₹350; half-rate for SC/ST permanent residents of Meghalaya; persons with benchmark disabilities exempt with certificate (original page 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, page 1: applications are invited from citizens of India."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "requirement": "General English, 50-mark screening subject within test labelled Class XII Level; no CEFR level stated.",
+            "stage": "selection",
+            "evidence": "Advertisement 03/2026, page 5, method of selection for post codes 01 and 02.",
+            "sourceUrl": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify age 18–32 on 1 January 2026, SC/ST and athlete relaxations, and accepted coaching qualification including added BSc route (original pages 1–2; addendum page 1)."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify screening result and original documents before interview (original page 5)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Shillong examination centre (city only; final allocation may change)",
+          "city": "Shillong",
+          "latitude": 25.5689,
+          "longitude": 91.8831,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Tura examination centre (city only; final allocation may change)",
+          "city": "Tura",
+          "latitude": 25.5142,
+          "longitude": 90.2024,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Jowai examination centre (city only; final allocation may change)",
+          "city": "Jowai",
+          "latitude": 25.436,
+          "longitude": 92.1913,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Williamnagar examination centre (city only; final allocation may change)",
+          "city": "Williamnagar",
+          "latitude": 25.4955,
+          "longitude": 90.6168,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        },
+        {
+          "kind": "published",
+          "name": "Nongstoin examination centre (city only; final allocation may change)",
+          "city": "Nongstoin",
+          "latitude": 25.517,
+          "longitude": 91.2648,
+          "precision": "city",
+          "subdivision": "IN-ML"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://rpa.meghalaya.gov.in/rpaonline",
+      "changes": [
+        {
+          "at": "2026-06-24",
+          "kind": "eligibility",
+          "summary": "Addendum adds BSc Sports Coaching qualification route."
+        },
+        {
+          "at": "2026-06-24",
+          "kind": "extended",
+          "summary": "Addendum extends online applications to 30 June 2026 at 17:00."
+        }
+      ],
+      "id": "meghalaya-psc-2026-03-post-02",
+      "sourceId": "in-ml-recruitment",
+      "title": "Junior Football Coach",
+      "authority": "Meghalaya Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-ML"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-06-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "24 June addendum, page 1, extends online applications to 30 June 2026 at 17:00. Notice does not print timezone; Asia/Kolkata is local Shillong interpretation."
+      },
+      "salary": "Revised pay structure Level 11 (original page 1).",
+      "sources": [
+        {
+          "id": "in-ml-recruitment:f055aac47aa6",
+          "title": "MPSC advertisement and amendment table",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+          "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:41:54.545Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:ede5944913f1",
+          "title": "Advertisement 03/2026: original advertisement",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+          "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+          "lastSuccessfulFetchAt": "2026-09-24T21:41:58.583Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:08ad628187d3",
+          "title": "Advertisement 03/2026: Fishery Officer age corrigendum",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+          "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+          "lastSuccessfulFetchAt": "2026-09-24T21:42:00.149Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ml-recruitment:1ca69cec33e9",
+          "title": "Advertisement 03/2026: Junior Football Coach qualification addendum and deadline extension",
+          "authority": "Meghalaya Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+          "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+          "lastSuccessfulFetchAt": "2026-09-24T21:42:01.391Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+      "fetchedAt": "2026-09-24T21:41:54.545Z",
+      "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+      "contentType": "text/html",
+      "bytes": 66848
+    },
+    {
+      "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+      "fetchedAt": "2026-09-24T21:41:58.583Z",
+      "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+      "contentType": "application/pdf",
+      "bytes": 621465
+    },
+    {
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+      "fetchedAt": "2026-09-24T21:42:00.149Z",
+      "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+      "contentType": "application/pdf",
+      "bytes": 112611
+    },
+    {
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+      "fetchedAt": "2026-09-24T21:42:01.391Z",
+      "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+      "contentType": "application/pdf",
+      "bytes": 185617
+    }
+  ],
+  "warnings": [
+    "Two post-code drafts only; other Meghalaya advertisements, departments and local authorities remain gaps.",
+    "The 24 June addendum is written for Junior Football Coach; whether its application extension also applied to Fishery Officer is ambiguous. Both dates have passed; founder review must resolve historical cutoff before publication.",
+    "Scanned transcripts, age exceptions, degree alternatives and English test interpretation require founder review."
+  ]
+}

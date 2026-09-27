@@ -1,0 +1,10 @@
+{
+  "sourceId": "cn-scs-national-exams",
+  "label": "annual-2026-portal",
+  "url": "https://bm.scs.gov.cn/kl2026",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-cn-scs-national-exams-annual-2026-portal-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:04:43.664Z",
+  "error": "robots.txt unreachable at https://bm.scs.gov.cn: fetch failed"
+}

@@ -1,0 +1,13 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-nl-recruitment --stage
+
+
+▸ in-nl-recruitment (Nagaland Public Service Commission)
+  ⚠ One closed Stenographer 2026 examination cycle only; other Nagaland advertisements, notifications and authorities remain gaps.
+  ⚠ Notice has twelve item numbers and 26 vacancies but advertises one Stenographer exam application; item numbers and departments do not inflate cycle count.
+  ⚠ All vacancies carry indigenous-inhabitant reservation. Notice does not state citizenship or a shorthand language/CEFR level; founder must verify international-applicant outcome and certificates.
+  ⚠ Notice body hash excludes dynamic visitor counter and anonymous form token. A new amendment or changed notice body blocks old extracted fields.
+  ✓ 1 collected, 0 approved, 1 pending, 0 kept (2s)
+
+Stage only: review packets and evidence written; published data unchanged.

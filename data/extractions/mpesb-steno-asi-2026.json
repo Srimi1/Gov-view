@@ -1,0 +1,19 @@
+{
+  "homeUrl": "https://esb.mp.gov.in/home_n.html",
+  "dashboardUrl": "https://esb.mp.gov.in/student_dashboard.htm",
+  "formsUrl": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+  "rulebookUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+  "rulebookSha256": "0af335cfde1efd8e339d1dab7c29c68127152d987d59cea35494ce9ce12b6f8c",
+  "applicationUrl": "https://esb.mponline.gov.in/Portal/Examinations/ESB/notifications.aspx?langid=en-US&id=86",
+  "opensOn": "2026-09-24",
+  "closesOn": "2026-10-08",
+  "correctionClosesOn": "2026-10-13",
+  "examStartsOn": "2026-11-03",
+  "languageEvidencePages": [
+    9,
+    13
+  ],
+  "nationalityEvidencePage": 6,
+  "midnightEvidencePage": 29,
+  "translationStatus": "draft-awaiting-human-review"
+}

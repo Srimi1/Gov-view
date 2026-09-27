@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://recruitment.jharkhand.gov.in/",
+  "fetchedAt": "2026-09-25T08:41:19.844Z",
+  "sha256": "9b264a6bacedfeef81962d92ee723030d040215dab6f6349b71c520c3c592b7c",
+  "bytes": 40499,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://recruitment.jharkhand.gov.in/Home/fileDownload/198",
+  "fetchedAt": "2026-09-25T08:41:22.664Z",
+  "sha256": "2e72ddd7e8bb169636be45de6990c1c4de71fb53dbfa4e5d26a068801c1442d2",
+  "bytes": 4021258,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://recruitment.jharkhand.gov.in/Home/fileDownload/199",
+  "fetchedAt": "2026-09-25T08:41:24.168Z",
+  "sha256": "5708c6080bcf03539495cb718d945752935f94313a5e958ae760b0d0b988e2a6",
+  "bytes": 4702273,
+  "contentType": "application/pdf"
+ }
+]

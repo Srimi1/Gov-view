@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://natboard.edu.in/vacancy.php",
+  "fetchedAt": "2026-09-25T06:02:55.254Z",
+  "sha256": "ad75d9bae818401110126a9c554f07a83c8fdbbf037d76cf8ddcea63cda1c097",
+  "bytes": 16440,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+  "fetchedAt": "2026-09-25T06:02:57.024Z",
+  "sha256": "738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488",
+  "bytes": 999679,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://natboard.edu.in/viewNotice.php?NBE=SnBOMlBnbGJ6VXZBOEZjNUd4aFN3QT09",
+  "fetchedAt": "2026-09-25T06:02:59.366Z",
+  "sha256": "641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa",
+  "bytes": 1403966,
+  "contentType": "application/pdf"
+ }
+]

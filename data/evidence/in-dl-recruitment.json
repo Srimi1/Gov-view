@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+  "fetchedAt": "2026-09-24T21:02:31.367Z",
+  "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+  "bytes": 69135,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+  "fetchedAt": "2026-09-24T21:02:32.745Z",
+  "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+  "bytes": 1520732,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_28_26.pdf",
+  "fetchedAt": "2026-09-24T21:02:32.463Z",
+  "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5",
+  "bytes": 192609,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf",
+  "fetchedAt": "2026-09-24T21:02:32.398Z",
+  "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40",
+  "bytes": 205824,
+  "contentType": "application/pdf"
+ }
+]

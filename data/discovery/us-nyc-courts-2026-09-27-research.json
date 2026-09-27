@@ -1,0 +1,203 @@
+{
+  "observedDate": "2026-09-27",
+  "scope": "New US official recruitment and interpreter-assessment sources. Research only; no notice accepted, applicant cycle imported or publication decision made.",
+  "sources": [
+    {
+      "id": "us-nyc-dcas-open-exams",
+      "name": "New York City — DCAS open competitive examinations",
+      "country": "US",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "authority": "New York City Department of Citywide Administrative Services, Bureau of Examinations",
+      "homepage": "https://www.nyc.gov/site/dcas/employment/exam-schedules-open-competitive-exams.page",
+      "discoveredFrom": "https://www.nyc.gov/jobs/exams.page",
+      "notes": "NYC municipal examination/eligible-list route, distinct from federal USAJOBS and New York StateJobsNY vacancy listings. Index mixes open, closed and explicitly cancelled exams. Exam 7307 requires functional English and lawful US employment eligibility before employment, without an explicit citizenship restriction. Police/Correction Officer notices require US citizenship at appointment; that is not automatically an application-stage prohibition.",
+      "gap": "No adapter or cycle imported. Retain notices and amendments for each numbered examination, including separate monthly Police Officer filing periods. Foreign education, alternative qualifications, education deadlines after filing, appointment-stage residence/citizenship, exam venues, fees/waivers, test dates and appointment kind need review. Five application-support centres are not guaranteed assigned test venues. Municipal scope does not cover all US public employers.",
+      "requests": [
+        {
+          "label": "open-exam-index",
+          "format": "HTML",
+          "url": "https://www.nyc.gov/site/dcas/employment/exam-schedules-open-competitive-exams.page"
+        },
+        {
+          "label": "pct-7307",
+          "format": "PDF",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277307000.pdf"
+        },
+        {
+          "label": "correction-7302",
+          "format": "PDF",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277302000.pdf"
+        },
+        {
+          "label": "police-monthly-7311-7322",
+          "format": "PDF",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277313000.pdf"
+        },
+        {
+          "label": "city-applicant-faq",
+          "format": "HTML",
+          "url": "https://www.nyc.gov/jobs/faqs.page"
+        }
+      ],
+      "criticalObservations": [
+        {
+          "document": "pct-7307",
+          "finding": "Filing 2 September–13 October 2026. Diploma requirement may be met by 13 October 2027; qualifying experience by filing close 13 October 2026. Education/experience alternatives and future qualification date cannot be flattened into one asOn date or completed-current-degree filter."
+        },
+        {
+          "document": "pct-7307",
+          "finding": "City residency not required. Functional English and proof of identity/lawful employment required; no formal CEFR score or explicit citizenship whitelist. Foreigner permission and work authorization remain individual review, not guaranteed sponsorship."
+        },
+        {
+          "document": "correction-7302",
+          "finding": "US citizenship required at appointment, with appointment-stage NYC or named adjacent-county residency. These conditions must be staged separately from ability to apply or sit the examination."
+        },
+        {
+          "document": "police-monthly-7311-7322",
+          "finding": "One linked PDF describes twelve separate monthly application/scheduling periods, July 2026–June 2027. Current index lists exam 7313 whose filing closed 14 September; broad PDF July-to-June heading is not one continuously open application window."
+        },
+        {
+          "document": "open-exam-index",
+          "finding": "Administrative Housing Development Specialist 7002 explicitly marked cancelled. No cancellation is inferred from disappearance of any page."
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "open-exam-index",
+          "status": "failed-research-attempt",
+          "url": "https://www.nyc.gov/site/dcas/employment/exam-schedules-open-competitive-exams.page",
+          "attemptedAt": "2026-09-26T20:41:09.517Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.nyc.gov",
+          "metadataPath": "data/evidence/research/us-nyc-dcas-open-exams-open-exam-index-2026-09-27-failure.json"
+        },
+        {
+          "label": "pct-7307",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277307000.pdf",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nyc.gov"
+        },
+        {
+          "label": "correction-7302",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277302000.pdf",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nyc.gov"
+        },
+        {
+          "label": "police-monthly-7311-7322",
+          "url": "https://www.nyc.gov/assets/dcas/downloads/pdf/noes/20277313000.pdf",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nyc.gov"
+        },
+        {
+          "label": "city-applicant-faq",
+          "url": "https://www.nyc.gov/jobs/faqs.page",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nyc.gov"
+        }
+      ],
+      "applicationCyclesImported": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "us-ny-courts-interpreters",
+      "name": "New York Unified Court System — per diem court interpreter assessment",
+      "country": "US",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "authority": "New York State Unified Court System, Office of Language Access",
+      "homepage": "https://www.nycourts.gov/language-access-court-interpreters/exam-information",
+      "discoveredFrom": "https://www.nycourts.gov/careers/exams/exams-process-and-content",
+      "notes": "Official screening/registry route for as-needed freelance per-diem court interpreting; separate from employee/staff recruitment. Guidance requires high-school diploma/equivalent and legal US work eligibility. Spoken-language English/legal-terminology and second-language assessment routes, reciprocity/waivers and recognised ASL credentials differ; no universal CEFR/JLPT threshold inferred.",
+      "gap": "No adapter or application cycle imported. Current intake window, exact language-specific written/oral/reference alternatives, accepted reciprocity or RID credentials, foreign-applicant work authorization, fees, ethics/background checks, notice versions and actual appointment/assignment arrangements require review. Registry inclusion does not guarantee work or a permanent job. An old staff eligible list is not a new opening. Linked Candidate Guide and current webpage give different per-diem rates; original PDF bytes are unretained due shared-origin robots failure. Screening is not professional certification. Current retained public application is a shell without citizenship/work-authorization fields; prior cached reader snippet cannot establish live form requirements or working intake.",
+      "requests": [
+        {
+          "label": "exam-information",
+          "format": "HTML",
+          "url": "https://www.nycourts.gov/language-access-court-interpreters/exam-information"
+        },
+        {
+          "label": "exam-process-content",
+          "format": "HTML",
+          "url": "https://www.nycourts.gov/careers/exams/exams-process-and-content"
+        },
+        {
+          "label": "candidate-guide",
+          "format": "PDF",
+          "url": "https://www.nycourts.gov/legacyPDFs/COURTINTERPRETER/Candidate_Guide.pdf"
+        },
+        {
+          "label": "public-unfilled-application",
+          "format": "HTML",
+          "url": "https://nycourts.powerappsportals.us/olapci/"
+        }
+      ],
+      "criticalObservations": [
+        {
+          "document": "exam-information",
+          "finding": "Successful screening, fingerprint/background investigation and legal work eligibility precede registry/assignments; per-diem freelance route is not guaranteed employee appointment. Agency mailing address is not an examination venue."
+        },
+        {
+          "document": "exam-process-content",
+          "finding": "Spanish and languages-other-than-Spanish written assessments differ. Spoken-language oral sight/consecutive/simultaneous interpreting assessments have language-specific availability and reference alternatives; named Hindi, Japanese, Punjabi and Urdu abbreviated routes cannot be treated as identical full assessments."
+        },
+        {
+          "document": "exam-information",
+          "finding": "ASL uses officially recognised RID credentials; source says court system does not administer ASL proficiency testing. Private credential matters only because this official pathway recognises it, with further background requirements."
+        },
+        {
+          "document": "public-unfilled-application",
+          "finding": "Prior web-reader search snippet displayed a non-US-citizen legal-work-right question, but exact retained current HTML contains neither citizenship nor work-authorization fields. It is a public application shell, not verified current form content or applicant eligibility. No account, form values or application submitted."
+        },
+        {
+          "document": "candidate-guide",
+          "finding": "Linked guide describes independent contractors and explicitly says screening is not professional certification. It lists $385 full day/$220 half day, while current exam-information webpage lists $500/$300. Rate conflict requires authority reconciliation; no rate auto-selected."
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "exam-information",
+          "status": "failed-research-attempt",
+          "url": "https://www.nycourts.gov/language-access-court-interpreters/exam-information",
+          "attemptedAt": "2026-09-26T20:41:09.775Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.nycourts.gov",
+          "metadataPath": "data/evidence/research/us-ny-courts-interpreters-exam-information-2026-09-27-failure.json"
+        },
+        {
+          "label": "exam-process-content",
+          "url": "https://www.nycourts.gov/careers/exams/exams-process-and-content",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nycourts.gov"
+        },
+        {
+          "label": "candidate-guide",
+          "url": "https://www.nycourts.gov/legacyPDFs/COURTINTERPRETER/Candidate_Guide.pdf",
+          "status": "not-attempted-after-origin-policy-failure",
+          "reason": "robots.txt unavailable (HTTP 403) at https://www.nycourts.gov"
+        },
+        {
+          "label": "public-unfilled-application",
+          "status": "retained-research-response",
+          "file": "data/evidence/research/us-ny-courts-interpreters-public-unfilled-application-2026-09-27.html",
+          "metadataPath": "data/evidence/research/us-ny-courts-interpreters-public-unfilled-application-2026-09-27-evidence.json",
+          "url": "https://nycourts.powerappsportals.us/olapci/",
+          "fetchedAt": "2026-09-26T20:41:14.774Z",
+          "sha256": "553821fdf46c56508bac72fa5f8ac54c92661f69ca4f54a20458ba8bbad141c8",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 34938,
+          "contentBoundary": "Public application shell; form citizenship/work-right fields absent from retained bytes. No successful intake or eligibility verification claimed."
+        }
+      ],
+      "applicationCyclesImported": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    }
+  ],
+  "evidenceBoundary": "Web-reader research supports the explicitly cited official-document findings; original NYC/DCAS and NY Courts notice bytes were not retained after robots HTTP 403. Only public unfilled interpreter application HTML was retained. No profile, form values, account action, application or human review decision. Reader research and anonymous public-form access do not establish connector freshness or verified eligibility.",
+  "retainedResponses": 1,
+  "failedAttempts": 2,
+  "skippedAfterOriginPolicyFailure": 6
+}

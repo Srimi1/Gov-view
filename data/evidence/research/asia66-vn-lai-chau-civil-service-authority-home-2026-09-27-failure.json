@@ -1,0 +1,10 @@
+{
+  "sourceId": "vn-lai-chau-civil-service",
+  "label": "authority-home",
+  "url": "https://sonv.laichau.gov.vn/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-authority-home-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T22:59:26.690Z",
+  "error": "robots.txt unreachable at https://sonv.laichau.gov.vn: fetch failed"
+}

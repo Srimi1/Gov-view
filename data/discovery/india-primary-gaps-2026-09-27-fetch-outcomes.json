@@ -1,0 +1,252 @@
+[
+  {
+    "sourceId": "in-hr-recruitment",
+    "label": "primary-entry",
+    "url": "https://hpsc.gov.in/en-us/Instructions",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-hr-recruitment-primary-entry-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:31:01.837Z",
+    "error": "robots.txt disallows /en-us/Instructions"
+  },
+  {
+    "sourceId": "in-hp-recruitment",
+    "label": "primary-entry",
+    "url": "https://hppsc.hp.gov.in/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-hp-recruitment-primary-entry-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:31:01.838Z",
+    "error": "robots.txt unreachable at https://hppsc.hp.gov.in: fetch failed"
+  },
+  {
+    "sourceId": "in-mp-recruitment",
+    "label": "primary-entry",
+    "url": "https://mppsc.mp.gov.in/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-mp-recruitment-primary-entry-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:31:01.838Z",
+    "error": "robots.txt disallows /"
+  },
+  {
+    "sourceId": "in-mh-recruitment",
+    "label": "primary-entry",
+    "url": "https://mpsc.gov.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-mh-recruitment-primary-entry-2026-09-27.html",
+    "evidence": {
+      "url": "https://mpsc.gov.in/",
+      "fetchedAt": "2026-09-26T21:31:02.938Z",
+      "sha256": "8e3ace2edb83d802632b99e87c7a66596efa94af7f90f7140dfea7aa55f677c5",
+      "contentType": "text/html",
+      "bytes": 4363
+    }
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "primary-entry",
+    "url": "https://www.ppsc.gov.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-pb-recruitment-primary-entry-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.ppsc.gov.in/",
+      "fetchedAt": "2026-09-26T21:31:05.788Z",
+      "sha256": "687541ad4a979a346d781a6987acbc15e69d7ba80019302adf707e9ceac7e114",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 1065103
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "primary-entry",
+    "url": "https://recruitment.py.gov.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-primary-entry-2026-09-27.html",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/",
+      "fetchedAt": "2026-09-26T21:31:03.427Z",
+      "sha256": "a57e38f635d4941e1e3691291fa96d797a17705359e360432059158624e1fa7e",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 185389
+    }
+  },
+  {
+    "sourceId": "in-tg-recruitment",
+    "label": "primary-entry",
+    "url": "https://www.tgpsc.gov.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-tg-recruitment-primary-entry-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.tgpsc.gov.in/",
+      "fetchedAt": "2026-09-26T21:31:02.920Z",
+      "sha256": "1f69322e5d8722054929f44952323a424e0882289c38b7f359bbdb7a4a8156c3",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 23189
+    }
+  },
+  {
+    "sourceId": "in-la-recruitment",
+    "label": "primary-entry",
+    "url": "https://ladakh.gov.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-la-recruitment-primary-entry-2026-09-27.html",
+    "evidence": {
+      "url": "https://ladakh.gov.in/",
+      "fetchedAt": "2026-09-26T21:31:03.860Z",
+      "sha256": "3efd9d9037e1979f334fddf8ae950c1b26e8c14ab2b12094ce50d6cd559f7df4",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 236394
+    }
+  },
+  {
+    "sourceId": "in-ld-recruitment",
+    "label": "primary-entry",
+    "url": "https://lakshadweep.gov.in/notice_category/recruitment/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-ld-recruitment-primary-entry-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:31:01.838Z",
+    "error": "robots.txt unreachable at https://lakshadweep.gov.in: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "open-advertisements",
+    "url": "https://www.ppsc.gov.in/index.aspx?page=27&tabid=48&tablinkid=27&tablinkyes=1",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-pb-recruitment-open-advertisements-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:32:51.476Z",
+    "error": "HTTP 302 for https://www.ppsc.gov.in/index.aspx?page=27&tabid=48&tablinkid=27&tablinkyes=1"
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "senior-assistant-transfer-notice",
+    "url": "https://www.ppsc.gov.in/index.aspx?page=2788&tabid=10&tablinkid=6827",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-pb-recruitment-senior-assistant-transfer-notice-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:32:54.833Z",
+    "error": "HTTP 302 for https://www.ppsc.gov.in/index.aspx?page=2788&tabid=10&tablinkid=6827"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist",
+    "url": "https://recruitment.py.gov.in/recruitment/cltcp20263/steps-to-apply-and-instructions-to-applicants",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-civil-specialist-2026-09-27.html",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/cltcp20263/steps-to-apply-and-instructions-to-applicants",
+      "fetchedAt": "2026-09-26T21:32:52.924Z",
+      "sha256": "2feae934dc3bcc7f09b644ec70dbe25e59790d734a94ddde0e1a9d3a5fbe9a48",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 23232
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector",
+    "url": "https://recruitment.py.gov.in/recruitment/cgl2026025/steps-to-apply-and-instructions-to-applicants",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-police-sub-inspector-2026-09-27.html",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/cgl2026025/steps-to-apply-and-instructions-to-applicants",
+      "fetchedAt": "2026-09-26T21:32:53.655Z",
+      "sha256": "a55aa28be2828b638847fe718460bd1905ff0a4e825aef96393c5b293ae55f4f",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 27615
+    }
+  },
+  {
+    "sourceId": "in-tg-recruitment",
+    "label": "new-notice-home",
+    "url": "https://websitenew.tgpsc.gov.in/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india61-in-tg-recruitment-new-notice-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:32:51.477Z",
+    "error": "robots.txt unreachable at https://websitenew.tgpsc.gov.in: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "in-la-recruitment",
+    "label": "recruitment-corner",
+    "url": "https://ladakh.gov.in/recruitment-corner/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-la-recruitment-recruitment-corner-2026-09-27.html",
+    "evidence": {
+      "url": "https://ladakh.gov.in/recruitment-corner/",
+      "fetchedAt": "2026-09-26T21:32:55.015Z",
+      "sha256": "5f1ed0fddeae835d9ab332b2ba3708bb8a9e615ddcbcee2890f7704e45c05534",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 104629
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist-notification",
+    "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/show-notification",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-civil-specialist-notification-2026-09-27.html",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/show-notification",
+      "fetchedAt": "2026-09-26T21:34:00.662Z",
+      "sha256": "49ed78a280db351ee0f479570ce27fd7764f21c03e8b143e90630df3082f2e16",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 22454
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector-notification",
+    "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/show-notification",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-police-sub-inspector-notification-2026-09-27.html",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/show-notification",
+      "fetchedAt": "2026-09-26T21:34:01.442Z",
+      "sha256": "9173e6c21ce9731cc3a75a0df6604828d12d54a1093fb47590f1c4c032319bab",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 22423
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist-notice",
+    "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/RenderNotification",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-civil-specialist-notice-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/RenderNotification",
+      "fetchedAt": "2026-09-26T21:34:47.178Z",
+      "sha256": "d4e73caae4728370ca7221a9d78d67811094b48066a26e8fe47e20e3f7f19759",
+      "contentType": "application/pdf",
+      "bytes": 602730
+    }
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector-notice",
+    "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/RenderNotification",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india61-in-py-recruitment-police-sub-inspector-notice-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/RenderNotification",
+      "fetchedAt": "2026-09-26T21:34:49.922Z",
+      "sha256": "47144cda7683b6dd1cdbaaf4d911215a7ed410dc1ba798494e62c0fe5d2f28ad",
+      "contentType": "application/pdf",
+      "bytes": 1355737
+    }
+  }
+]

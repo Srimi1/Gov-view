@@ -1,0 +1,2408 @@
+{
+  "sourceId": "us-ny-statejobs",
+  "collectedAt": "2026-09-24T20:23:31.597Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225041",
+      "programme": "Offender Rehabilitation Coordinator (Spanish Language)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Other Professional Careers · Full-Time · Contingent Permanent",
+      "qualifications": "This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS).*\n*For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply.\nAt a future date, it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in an NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nOFFENDER REHABILITATION COORDINATOR/SG-19 (SEE TRAINEE TITLES BELOW)\nOFFENDER REHABILITATION COORDINATOR (SL)/SG-19\nOFFENDER REHABILITATION COORDINATOR (MANUAL COMMUNICATIONS)/SG-19\nMinimum Qualifications for taking the Open Competitive Examination: must have a bachelor’s degree with a major in addiction studies, adolescent education (any subject), applied psychology, behavioral health, children and youth studies, clinical mental health counseling, community and human services, community health, community health and family studies, community mental health, correctional studies, counseling, counseling psychology, criminal intelligence analysis, criminal investigations, criminal justice, criminology, culture and deviance studies, deviant behavior, education, educational psychology, forensic psychology, forensic science/crime scene investigation, guidance and counseling, health and human performance, human development, human services, interdisciplinary cognitive sciences, law enforcement leadership, legal studies, marriage and family therapy, mental health counseling, occupational therapy, physical education, political science, psychology, public health, public justice, recreation, recreation education, rehabilitation counseling, social work, sociology, teaching, therapeutic recreation, urban studies and planning, visual arts education or vocational rehabilitation AND two years of experience providing individual and/or group counseling in a recognized correctional, criminal justice, or community/human services program aimed at assisting clients with the resolution of major social, behavioral, and personal problems. Experience must have included responsibility for conducting counseling sessions designed to provide the participant(s) with counseling for social and personal problems such as alcohol and drug abuse, mental, behavioral, and emotional problems.\nSubstitution: A master’s degree with a major in addiction studies, adolescent education (any subject), applied psychology, behavioral health, children and youth studies, clinical mental health counseling, community and human services, community health, community health and family studies, community mental health, correctional studies, counseling, counseling psychology, criminal intelligence analysis, criminal investigations, criminal justice, criminology, culture and deviance studies, deviant behavior, education, educational psychology, forensic psychology, forensic science/crime scene investigation, guidance and counseling, health and human performance, human development, human services, interdisciplinary cognitive sciences, law enforcement leadership, legal studies, marriage and family therapy, mental health counseling, occupational therapy, physical education, political science, psychology, public health, public justice, recreation, recreation education, rehabilitation counseling, social work, sociology, teaching, therapeutic recreation, urban studies and planning, visual arts education or vocational rehabilitation may be substituted for one year of the required experience.\nNon-Qualifying Experience: Group work oriented toward behavior modification in such areas as self-improvement of tobacco cessation, crisis intervention, or case management alone is NOT qualifying experience.\nNotes:\nIf you are considered for an Offender Rehabilitation Coordinator (Manual Communications) position, you will be required to demonstrate your proficiency in manual sign language with consumers who are deaf or hearing-impaired. Proficiency must be at a level that will ensure your ability to properly perform the duties of the position.\nIf you pass the examination for Offender Rehabilitation Coordinator (Spanish Language), you will be required to demonstrate your Spanish language proficiency at a level that will ensure your ability to perform properly the duties of the position. Only enough candidates to fill current vacancies will be called to the proficiency test.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": {
+        "asOn": null,
+        "complete": false,
+        "languages": [
+          {
+            "language": "es",
+            "stage": "selection",
+            "requirement": "For the examination route, demonstrate Spanish proficiency sufficient for the duties when called for the proficiency test. The notice also describes a NY HELPS route without an examination; the applicable route requires review. No CEFR level is specified.",
+            "evidence": "If you pass the examination for Offender Rehabilitation Coordinator (Spanish Language), you will be required to demonstrate your Spanish language proficiency at a level that will ensure your ability to perform properly the duties of the position. Only enough candidates to fill current vacancies will be called to the proficiency test.",
+            "sourceUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225041"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225041",
+      "changes": [],
+      "id": "ny-statejobs-225041",
+      "sourceId": "us-ny-statejobs",
+      "title": "Offender Rehabilitation Coordinator (Spanish Language)",
+      "authority": "Corrections and Community Supervision, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-17; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $70579 to $89645 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:6328718e3c73",
+          "title": "Vacancy 225041: Offender Rehabilitation Coordinator (Spanish Language)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225041",
+          "sha256": "6328718e3c73c91c2dd58503fcaa37d7dac954b3a550b0d7ff9e2aa8b0425f31",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:42.446Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 224639",
+      "programme": "Associate in Instructional Services (English Language Arts 7-12), Box OEP-321/65111",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "No Preference · Full-Time · Contingent Permanent",
+      "qualifications": "NY HELPS\nThis title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS).\nFor the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nNON-COMPETITIVE MINIMUM QUALIFICATIONS:\nTo be considered for appointment through NY HELPS candidates must meet the open-competitive minimum qualifications for this position. The qualifications are:\n• Master’s degree AND New York State permanent or professional teaching certification in English Language Arts 7-12 AND four years of full-time classroom teaching experience in English Language Arts grades 7-12.\nPROMOTION: Current State employees must have one year of permanent service as an Assistant in Instructional Services (English Language Arts 7-12).\nCOMPETITIVE MINIMUM QUALIFICATIONS:\nReassignment: Candidates must have one year of permanent competitive or 55b/c service as an Associate in Instructional Services (English Language Arts 7-12) and possess a New York State permanent or professional certification in English Language Arts 7-12.\nSection 70.1 Transfer: Candidates must meet the eligibility requirements and have one year of permanent competitive or 55b/c service in any of the Professional Educator Titles (Grade 26 or 28), as indicated here: http://www.nysed.gov/hr/section-701-transfer-determinations-between-professional-educator-titles-grade-22-26-and-28.\n55b/c Appointment: This position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess a current 55b/c eligibility letter and the following minimum qualifications:\n• Master’s degree AND New York State permanent or professional teaching certification in English Language Arts 7-12 AND four years of full-time classroom teaching experience in English Language Arts grades 7-12.\nPREFERRED QUALIFICATIONS:\nPreference may be given to candidates who have:\n• Experience developing and leading professional development workshops, courses, or programs.\n• Experience managing a grant program and/or budget experience.\n• Additional experience in Special Education or teaching English Language Learners.\n• Up-to-date job knowledge, including emerging trends in P-12 education.\n• Demonstrated expertise in aligning content standards with cross-content standards and integrating interdisciplinary concepts to support coherent, high-quality instruction across subject areas.\n• Experience leading or contributing to standards revision or implementation processes and applying standards to curriculum development, instructional design, assessment practices, and educator support resources.\n• Exceptional written and verbal communication and presentation skills.\n• Skill in fostering teamwork and building productive working relationships.\n• The ability to foster and maintain rapport with stakeholders and demonstrate an exceptional commitment to customer service and to delivering quality outcomes.\nFor information regarding the transfer options of your current title, please visit the Civil Service Career Mobility Office Website. https://careermobilityoffice.cs.ny.gov/cmo/gotit/title-search/index.cfm\nIt is essential that candidates clearly and concisely indicate exactly how they meet the above minimum qualifications in their resume. Failure to show how you meet the minimum qualifications above may result in disqualification and removal from consideration.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224639",
+      "changes": [],
+      "id": "ny-statejobs-224639",
+      "sourceId": "us-ny-statejobs",
+      "title": "Associate in Instructional Services (English Language Arts 7-12), Box OEP-321/65111",
+      "authority": "Education Department, State",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-16; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $105973 to $130626 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:d1a90f861bf6",
+          "title": "Vacancy 224639: Associate in Instructional Services (English Language Arts 7-12), Box OEP-321/65111",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224639",
+          "sha256": "d1a90f861bf67592ce4ed3b82408ca2b383bc852acd828f6e5e1ae49a4ca5727",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:44.478Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222943",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Suffolk County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "The NYS DMV Vehicle Safety Field Office is currently accepting applications for Automotive Facilities Inspector, G-16 or Automotive Facilities Inspector Trainee 1/2, G-NS (Equated to G-14/ Equated to G-15). Counties included in Region 1 include Suffolk and Nassau.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nIf interested in applying for this position, email your resume and a cover letter to dmv.sm.HELPSInspector@dmv.ny.gov. Please note the title and location you are applying for.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222943",
+      "changes": [],
+      "id": "ny-statejobs-222943",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Suffolk County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:3e25aa13935f",
+          "title": "Vacancy 222943: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Suffolk County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222943",
+          "sha256": "3e25aa13935f06c788e133b71899ea25faa197e221420760f66ef7d7588423b0",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:45.933Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222942",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) – Westchester County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "Vehicle Safety Field Office - Region 2 is currently accepting applications for Automotive Facilities Inspector, G-16. With location pay in certain Regions (see Additional Comments below). Counties included in Region 2 include: Bronx, New York, Orange, Putnam, Rockland, Sullivan, and Westchester.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nIf interested in applying for this position, email your resume and a cover letter to dmv.sm.HELPSInspector@dmv.ny.gov. Please note the title and location you are applying for.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222942",
+      "changes": [],
+      "id": "ny-statejobs-222942",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) – Westchester County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:766ee87718d4",
+          "title": "Vacancy 222942: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) – Westchester County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222942",
+          "sha256": "766ee87718d41d27602f486182bebe4182d2d57a4e51af943fe082f832ce65f4",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:46.600Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222941",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Albany County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "Vehicle Safety Field Office - Region 3 is currently accepting applications for Automotive Facilities Inspector, G-16. Counties included in Region 3 include: Albany, Clinton, Columbia, Dutchess, Essex, Fulton, Greene, Montgomery, Rensselaer, Saratoga, Schenectady, Schoharie, Ulster, Warren, and Washington.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nIf interested in applying for this position, email your resume and a cover letter to dmv.sm.HELPSInspector@dmv.ny.gov. Please note the title and location you are applying for.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222941",
+      "changes": [],
+      "id": "ny-statejobs-222941",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Albany County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:0777be9d5ff1",
+          "title": "Vacancy 222941: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Albany County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222941",
+          "sha256": "0777be9d5ff19673a963a371b6ee3e33df97d0095cb6410c7b96c0a3aa617851",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:47.632Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222940",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Onondaga County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "The NYS DMV Vehicle Safety Field Office is currently accepting applications for Automotive Facilities Inspector, G-16 or Automotive Facilities Inspector Trainee 1/2, G-NS (Equated to G-14/ Equated to G-15). Counties included in Region 4 include: Broome, Cayuga, Chemung, Chenango, Cortland, Delaware, Franklin, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Onondaga, Oswego, Otsego, Steuben, St. Lawrence, Schuyler, Seneca, Tioga, and Tompkins.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nIf interested in applying for this position, email your resume and a cover letter to dmv.sm.HELPSInspector@dmv.ny.gov. Please note the title and location you are applying for.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222940",
+      "changes": [],
+      "id": "ny-statejobs-222940",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Onondaga County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:09a72001f508",
+          "title": "Vacancy 222940: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Onondaga County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222940",
+          "sha256": "09a72001f5088d6b476f2ca896d903f189b701aa2aa1ae0416a3a647b33b4db8",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:48.358Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222939",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Erie County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "The NYS DMV Vehicle Safety Field Office is currently accepting applications for Automotive Facilities Inspector, G-16 or Automotive Facilities Inspector Trainee 1/2, G-NS (Equated to G-14/ Equated to G-15). Counties included in Region 5 include: Allegany, Cattaraugus, Chautauqua, Erie, Genesee, Livingston, Monroe, Niagara, Ontario, Orleans, Wayne, Wyoming, and Yates.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nIf interested in applying for this position, email your resume and a cover letter to dmv.sm.HELPSInspector@dmv.ny.gov. Please note the title and location you are applying for.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222939",
+      "changes": [],
+      "id": "ny-statejobs-222939",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Erie County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:c44574a5d913",
+          "title": "Vacancy 222939: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Erie County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222939",
+          "sha256": "c44574a5d9131fb35e31fa0c139b92186c0100359b2f7e9e1d1a0a604ca8b713",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:49.285Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 222938",
+      "programme": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Queens County",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Skilled Craft, Apprenticeship, Maintenance · Full-Time · Permanent",
+      "qualifications": "The NYS DMV Vehicle Safety Field Office is currently accepting applications for Automotive Facilities Inspector, G-16 or Automotive Facilities Inspector Trainee 1/2, G-NS (Equated to G-14/ Equated to G-15). Counties included in Region 6 include: Kings, Queens, and Richmond.\nTo be eligible for appointment, candidates must meet one of following conditions as detailed below:\nNY HELPS*:\nAutomotive Facilities Inspector, G-16: Five years of experience as an automotive mechanic, automotive diagnostician, or automotive technician instructor which must have included diagnosis and repair of On-Board Diagnostic 2 (OBD2) Systems.\nAutomotive Facilities Inspector Trainee 2, G-NS (Equated to G-15): Four years of experience as described above.\nAutomotive Facilities Inspector Trainee 1, G-NS (Equated to G-14): Three years of experience as described above.\nTransfer:\nOne year of permanent, contingent-permanent, or 55b/c service allocated to a G-12 or higher eligible for transfer and deemed administrative under Section 52.6 of the Civil Service Law; OR in a title approved for transfer under Section 70.1 of Civil Service Law. The transfer cannot be a second consecutive transfer resulting in an advancement of more than two salary grades.\nReinstatement:\nIf you previously served in this title or in a title otherwise transferable to this title, you may be reinstated pursuant to Civil Service Law. If you left state service less than one year ago, the reinstatement request from a state agency will usually be approved by the Department of Civil Service. If you left state service more than one year ago, the reinstatement must also be approved by the Civil Service Commission.\n55b/c Appointment:\nThis position is eligible for 55b/c designation and candidates with 55b/c eligibility are encouraged to apply. Candidates must possess the minimum qualifications and a current 55b/c eligibility letter. For 55b/c consideration, candidates must satisfy at least one of the Open Competitive qualifications listed.\nThe Automotive Facilities Inspector title series includes various languages such as: Chinese, Creole, Italian, Korean, Russian, and Spanish. Please note: For a language title, YOU WILL BE REQUIRED TO TAKE AND PASS the Civil Service Language proficiency exam at a level that will ensure the ability to perform the duties of the position.\n*This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). For the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply. At a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222938",
+      "changes": [],
+      "id": "ny-statejobs-222938",
+      "sourceId": "us-ny-statejobs",
+      "title": "Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Queens County",
+      "authority": "Motor Vehicles, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-01; this is not an evidenced opening date. Applications due: 09/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $56183 to $79795 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:a06a1bef839e",
+          "title": "Vacancy 222938: Automotive Facilities Inspector, G-16 and Various Languages or Trainee 1/2 (NY HELPS) - Queens County",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222938",
+          "sha256": "a06a1bef839e56eab7d887779967744db71b7db55daa5394487103d06d33e4be",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:50.278Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 214062",
+      "programme": "Interpreter (Sign Language) - HOURLY (John L. Norris Addiction Treatment Center)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Per Diem · Temporary",
+      "qualifications": "Certification by the Registry of Interpreters for the Deaf, Inc. (RID); or a passing score on the written portion of the RID certification examination and two years of experience providing sign language interpretive services; or a rating of intermediate or above on the Sign Communication Proficiency Interview conducted by the national Technical Institute for the Deaf.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=214062",
+      "changes": [],
+      "id": "ny-statejobs-214062",
+      "sourceId": "us-ny-statejobs",
+      "title": "Interpreter (Sign Language) - HOURLY (John L. Norris Addiction Treatment Center)",
+      "authority": "Addiction Services and Supports, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2027-05-15",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-04-15; this is not an evidenced opening date. Applications due: 05/15/27. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $32.87 to $32.87 Hourly",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:f1d88ed84c41",
+          "title": "Vacancy 214062: Interpreter (Sign Language) - HOURLY (John L. Norris Addiction Treatment Center)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=214062",
+          "sha256": "f1d88ed84c41cf071cd8f3f91e7fa74ce9a9bb1750e880e1f8cf2bea1d9a5f41",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:51.287Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225641",
+      "programme": "Psychologist 2 (NY HELPS)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Contingent Permanent",
+      "qualifications": "Transfer: One year of permanent competitive or 55b/c service in this title or in a title eligible for 70.1 transfer.\nOpen to the Public: This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS).*\nA Master of Psychology degree from a regionally accredited college or university psychology degree program which prepares graduates for clinical positions in the field of psychology in a clinical, forensic, community mental health, or school setting. Qualifying degree programs must have included coursework in psychological and behavioral assessment, and treatment modalities for psychological and behavioral disorders; AND you must also have three years of supervised post master's degree experience in a clinical, forensic, community mental health, or school setting, where your primary duties were providing psychological services as described below. *\nSubstitutions:\n• a doctoral degree in a clinical field of psychology and one year of qualifying experience may be substituted for both the education and experience requirements above.\n• a clinical psychology practicum, externship, or fieldwork assignment, that was completed as part of a qualifying Master of Psychology degree program, may be substituted for one year of the required experience. **\n• a certificate of advanced study in a clinical field of psychology or school psychology may be substituted for one year of the required experience.\nQualifying degree programs/majors include but are not limited to the following: clinical psychology, clinical forensic psychology, community psychology, counseling psychology, school psychology, and child psychology.\nNon-qualifying degree programs/majors include but are not limited to the following: education, counseling, clinical counseling, clinical hypnosis, community counseling, educational counseling, forensic counseling, guidance counseling, human relations, marriage and family counseling, professional counseling, rehabilitative counseling, school counseling, student and personnel services, mental health counseling, psychological counseling, pastoral psychology, transpersonal psychology, neuroscience, experimental psychology, industrial psychology, and organizational psychology.\n*Qualifying experience is considered to be direct experience with individuals, families, or groups in a hospital, psychiatric hospital, psychiatric clinic, community mental health clinic, correctional facility, intermediate care facility, institutional or school setting, or community based residential and/or day program, under the supervision of a doctoral level psychologist, licensed psychologist, licensed physician, licensed psychiatrist, psychiatric nurse practitioner, or licensed clinical social worker (Or in the case of school psychologists with permanent certification from the New York State Education Department, working under the supervision of a school principal or similar administrator). In order for experience to be considered qualifying, primary duties must have included activities such as administering assessments and tests for diagnostic psychological evaluations or completing functional behavior assessments; developing behavior support plans or writing psychological treatment plans; and/or providing psychological counseling and treatment in one or more of the following areas: mental and/or emotional disorders, cognitive disorders, behavioral disorders, intellectual disabilities, developmental disabilities, alcoholism, addictions, substance abuse disorders, sex offender assessment and treatment, or forensic mental health.\nNon-qualifying experience include but are not limited to experience in experimental psychology, research psychology, industrial psychology, organizational psychology, health psychology, utilization review, guidance counseling, pastoral counseling, or as a habilitation specialist, or instructor of psychology.\n**A practicum, externship, or clinical fieldwork assignment is defined as a direct clinical experience providing psychological services in a hospital, psychiatric hospital, psychiatric clinic, community mental health clinic, correctional facility, intermediate care facility, institutional or school setting, or community based residential and/or day program; and must have been a component of a qualifying master of psychology degree program listed on the official transcript.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225641",
+      "changes": [],
+      "id": "ny-statejobs-225641",
+      "sourceId": "us-ny-statejobs",
+      "title": "Psychologist 2 (NY HELPS)",
+      "authority": "Children & Family Services, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-24",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/24/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90582 to $114585 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:5a3c9ff679b5",
+          "title": "Vacancy 225641: Psychologist 2 (NY HELPS)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225641",
+          "sha256": "5a3c9ff679b5b36c872abeb36e5a1833a811ca9d0dc35b76a4ae0238ba089586",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:52.298Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225639",
+      "programme": "Licensed Psychologist (NY HELPS)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Contingent Permanent",
+      "qualifications": "Transfer: One year of permanent competitive or 55b/c service in this title or in a title eligible for 70.1 transfer.\nOpen to the Public: This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS).*\nTo be considered for appointment through NY HELPS, candidates must meet the open-competitive minimum qualifications for this position. The minimum qualifications for this position are: Licensed and currently registered to practice psychology in New York State.\nMust maintain a valid New York State license and registration.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225639",
+      "changes": [],
+      "id": "ny-statejobs-225639",
+      "sourceId": "us-ny-statejobs",
+      "title": "Licensed Psychologist (NY HELPS)",
+      "authority": "Children & Family Services, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-24",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/24/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $146875 to $146875 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:9a227357a982",
+          "title": "Vacancy 225639: Licensed Psychologist (NY HELPS)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225639",
+          "sha256": "9a227357a982dc19e27871467a30863e2cadfbb15a0cc56dfef48b28341c69e7",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:53.303Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225637",
+      "programme": "Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Bedford Hills Mental Health Unit, HALT, P28038",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Permanent",
+      "qualifications": "Candidates from outside or within State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (HELPS) program if they have a master’s degree in psychology and three years of supervised, post-degree psychology experience in a clinical, forensic, community mental health, or school setting.\no Substitutions\no Doctoral degree in a clinical field of psychology and 1 year of qualifying experience may be substituted for both the education and experience requirements.\no Clinical psychology practicum, externship, or fieldwork assignment, that was completed as part of a qualifying master of psychology degree, may be substituted for 1 year of the required experience.\no Certificate of advanced study in a clinical field of psychology or school psychology may be substituted for 1 year of required experience.\nOR\nCandidates from outside or within State Service can be considered for a competitive class appointment if they are reachable on the current Psychologist 2 eligible list.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Psychologist 2 at Central New York Psychiatric Center. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Psychologist 2 position consists of candidates who have 1 year of permanent service as a psychologist 1.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225637",
+      "changes": [],
+      "id": "ny-statejobs-225637",
+      "sourceId": "us-ny-statejobs",
+      "title": "Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Bedford Hills Mental Health Unit, HALT, P28038",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90582 to $114585 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:2f963521ce02",
+          "title": "Vacancy 225637: Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Bedford Hills Mental Health Unit, HALT, P28038",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225637",
+          "sha256": "2f963521ce023890a5e07a751de21eb8f58cabf3a11f7a06e90473fc7e6fc8c6",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:54.326Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225635",
+      "programme": "Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Mid-State Satellite Unit, Marcy, P28037",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Permanent",
+      "qualifications": "Candidates from outside or within State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (HELPS) program if they have a master’s degree in psychology and three years of supervised, post-degree psychology experience in a clinical, forensic, community mental health, or school setting.\no Substitutions:\no Doctoral degree in a clinical field of psychology and 1 year of qualifying experience may be substituted for both the education and experience requirements.\no Clinical psychology practicum, externship, or fieldwork assignment, that was completed as part of a qualifying master of psychology degree, may be substituted for 1 year of the required experience.\no Certificate of advanced study in a clinical field of psychology or school psychology may be substituted for 1 year of required experience.\nOR\nCandidates from outside or within State Service can be considered for a competitive class appointment if they are reachable on the current Psychologist 2 eligible list.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Psychologist 2 at Central New York Psychiatric Center. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Psychologist 2 position consists of candidates who have 1 year of permanent service as a psychologist 1.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225635",
+      "changes": [],
+      "id": "ny-statejobs-225635",
+      "sourceId": "us-ny-statejobs",
+      "title": "Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Mid-State Satellite Unit, Marcy, P28037",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90582 to $114585 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:08db7f949898",
+          "title": "Vacancy 225635: Psychologist 2 (NY HELPS), Central New York Psychiatric Center - Mid-State Satellite Unit, Marcy, P28037",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225635",
+          "sha256": "08db7f949898356a78e1ccd411bb380797703a91d17b31b1cd35a17731e3d5d6",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:55.366Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225633",
+      "programme": "Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Orleans Satellite Unit, P28037",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Permanent",
+      "qualifications": "Administrative Assistant 1 - Minimum Qualifications:\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant 1 if they have two (2) years of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nSubstitution: Certification (e.g. IAAP Certified Administrative Professional) or associate degree in office administration, secretarial science, administrative assistance, paralegal, business technology, or office technology substitutes for two years of experience.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nAdministrative Assistant Trainee 1 - Minimum Qualifications\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant Trainee 1 if they have 6 months of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nOR\nCandidates within State Service can be considered for a competitive class appointment if they are reachable on the current Administrative Assistant Trainee 1 eligible list.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant Trainee 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nTo be advanced to the full performance level of this title, you must successfully complete a training and development program. Upon successful completion of a 12-month training at the Administrative Assistant Trainee 1, you will automatically advance to the Administrative Assistant Trainee 2.\nAdministrative Assistant Trainee 2 - Minimum Qualifications\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant Trainee 1 if they have 1 year of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant Trainee 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nTo be advanced to the full performance level of this title, you must successfully complete a training and development program. Upon successful completion of a 12-month training at the Administrative Assistant Trainee 2, you will automatically advance to the Administrative Assistant 1 without further examination.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225633",
+      "changes": [],
+      "id": "ny-statejobs-225633",
+      "sourceId": "us-ny-statejobs",
+      "title": "Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Orleans Satellite Unit, P28037",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $42209 to $61076 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:a84b3fbfaef9",
+          "title": "Vacancy 225633: Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Orleans Satellite Unit, P28037",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225633",
+          "sha256": "a84b3fbfaef932819505ad1529367996811774c0efb1a30b8078b79bbc4a6c18",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:56.292Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225632",
+      "programme": "Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28036",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Permanent",
+      "qualifications": "Administrative Assistant 1 - Minimum Qualifications:\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant 1 if they have two (2) years of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nSubstitution: Certification (e.g. IAAP Certified Administrative Professional) or associate degree in office administration, secretarial science, administrative assistance, paralegal, business technology, or office technology substitutes for two years of experience.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nAdministrative Assistant Trainee 1 - Minimum Qualifications\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant Trainee 1 if they have 6 months of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nOR\nCandidates within State Service can be considered for a competitive class appointment if they are reachable on the current Administrative Assistant Trainee 1 eligible list.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant Trainee 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nTo be advanced to the full performance level of this title, you must successfully complete a training and development program. Upon successful completion of a 12-month training at the Administrative Assistant Trainee 1, you will automatically advance to the Administrative Assistant Trainee 2.\nAdministrative Assistant Trainee 2 - Minimum Qualifications\nCandidates from outside State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as an Administrative Assistant Trainee 1 if they have 1 year of administrative support experience which includes use of office software, provision of customer service, business writing, and/or management of an office.\nOR\nCandidates from within State Service can be considered for a competitive class appointment if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Administrative Assistant Trainee 1 at CNYPC. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Administrative Assistant 1 position consists of candidates who have 1 year of permanent service as an Office Assistant 2 Keyboarding (including all language parenthetics).\nTo be advanced to the full performance level of this title, you must successfully complete a training and development program. Upon successful completion of a 12-month training at the Administrative Assistant Trainee 2, you will automatically advance to the Administrative Assistant 1 without further examination.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225632",
+      "changes": [],
+      "id": "ny-statejobs-225632",
+      "sourceId": "us-ny-statejobs",
+      "title": "Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28036",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $42209 to $61076 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:add5a4c4a7a0",
+          "title": "Vacancy 225632: Administrative Assistant 1 or Administrative Assistant 1/2 Trainee (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28036",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225632",
+          "sha256": "add5a4c4a7a038124116ee5ca5d0742fd6961f246f01306d5ee4f57a0f060f53",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:57.291Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225631",
+      "programme": "Residential Program Manager 3 (NY HELPS), Kingsboro Psychiatric Center, P28035",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Contingent Permanent",
+      "qualifications": "Candidates from outside or within State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as a Residential Program Manager 3 if they have:\n• Bachelor’s degree;\nand\n• 3 years of experience working with individuals diagnosed with mental illness, 1 year of which must have been in a supervisory or administrative capacity and 1 year must have been in a residential setting.\nOR\nCandidates from outside or within State Service can be considered for a competitive class appointment if they are reachable on the current Residential Program Manager 3 eligible list.\nOR\nCandidates within State Service can be considered transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Residential Program Manager 3 at Kingsboro Psychiatric Center. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Residential Program Manager 3 position consists of candidates who have 1 year of permanent service as a Residential Program Manager 2.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225631",
+      "changes": [],
+      "id": "ny-statejobs-225631",
+      "sourceId": "us-ny-statejobs",
+      "title": "Residential Program Manager 3 (NY HELPS), Kingsboro Psychiatric Center, P28035",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-15",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/15/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90678 to $113292 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:14bebd5feba6",
+          "title": "Vacancy 225631: Residential Program Manager 3 (NY HELPS), Kingsboro Psychiatric Center, P28035",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225631",
+          "sha256": "14bebd5feba69d109a96b8b1552a6225099fa184d14aab5ffbf020ca8fb81dde",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:58.326Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225630",
+      "programme": "Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28034",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Permanent",
+      "qualifications": "Candidates from outside State service may be considered for hire under the Hiring for Emergency Limited Placement - Statewide (HELPS) program. There are no education or experience requirements for an Office Assistant 1 Keyboarding position, but candidates–must be able to read, write, and communicate in English.\nOR\nCandidates can be considered for a competitive class appointment if they are reachable on the current Office Assistant 1 Keyboarding eligible list.\nOR\nCandidates from within State service may be considered for transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225630",
+      "changes": [],
+      "id": "ny-statejobs-225630",
+      "sourceId": "us-ny-statejobs",
+      "title": "Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28034",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $37862 to $46843 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:7b9a368d728a",
+          "title": "Vacancy 225630: Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Sing Sing Satellite Unit, P28034",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225630",
+          "sha256": "7b9a368d728ab77f0dfe37e3085789ff1154d1da2a1dd0ae2c32f7292fc99a18",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:59.367Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225629",
+      "programme": "Air Base Security Guard",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Enforcement or Protective Services · Full-Time · Permanent",
+      "qualifications": "Must be a member of the New York Air National Guard assigned to Security Police Flight at the time of appointment and possess at a minimum a current Air Force Specialty Code (AFSC) 3P031.\nOR\nMust possess a current AFSC 3P051/3P071.\nOR\nMust possess at least two years of verifiable military work experience in law enforcement showing successful completion of a military law enforcement career-training course.\nOR\nMust possess at least two years of verifiable civilian work experience in law enforcement showing successful completion of a Municipal Police Training Council Basic Course for Police Officers or other related training as may be deemed appropriate by the appointing authority or designee in accordance with NGB hiring requirements.\nAND\nMust be at least eighteen (18) years of age.\nMust be a High School Graduate or equivalent (GED).\nMust be able to read and write in English.\nAbility to work independently with minimal supervision or with other individuals in a team/group setting.\nAbility to push, pull, lift and carry heavy objects and equipment (50+ lbs).\nAbility to work outside in various temperatures and inclement weather for extended periods of time.\nWILL BE REQUIRED TO CARRY FIREARMS. Must have or be legally eligible to obtain a permit to carry a handgun in New York State.\nAt all times must meet requirements to carry firearms in accordance with National Guard Bureau and Air Base specific standards. Firearm requirements are in accordance with the authority of Title 10 United States Code (U.S.C.) 8013, Secretary of the Air Force, Air Force Instruction (AFI) 31-117, and EO 9397 (SSN), current and as amended.\nMust be eligible to obtain a permit to carry a handgun in New York State (NYS). May be required to obtain a NYS permit for base specific requirement. Appointees will be afforded a length of time equal to that of the required probationary period in which to obtain permit but will not be deemed permanent until proof of permit is provided.\nAt the time of hire and annually thereafter, must meet mission specific weapons qualification requirements.\nIndividuals convicted of domestic violence are not eligible for hire or retention. Any arrests/convictions related to domestic violence must be reported through the Chain of Command.\nAt the time of hire and annually thereafter, must meet and maintain physical fitness and agility standards established in accordance with Agency and NGB policy requirements. Separate entry level and annual maintenance programs will be applied in accordance with Agency and NGB policy requirements.\nAt the time of hire and annually thereafter, must meet the medical screening requirements to include drug testing, as established in accordance with Agency and NGB policy requirements.\nAt the time of hire and annually thereafter, must meet and maintain all mission specific proficiency training requirements to include, but not limited to, Use of Force, Rules of engagement and Search/Handcuffing, including annual evaluations.\nMust be eligible to be designated as a Peace Officer; training may be required. (Note: this may be a Base specific requirement. Peace Officers are required to maintain residence in the State of New York)\nMust obtain and maintain a favorable background investigation and have an appropriate clearance to allow access to computer networks and restricted areas to determine suitability, loyalty, and trustworthiness. Dependent on current regulation, this will minimally be a National Agency Check with Inquiry (NACI) but may require a SECRET or CLASSIFIED clearance.\nRequired to have or successfully complete within 90 days of receiving computer access, all training associated with assigned data systems such as SFS, GFEBS and the Statewide Learning Management System (SLMS) and/or other computer training as related to duty assignments. Should related regulations, procedures and requirements change, additional training and/or certifications may be required.\nRequired to report any personal arrest by local, state, or federal law enforcement authorities to the CSF or designated representative within 24 hours of incident.\nConvictions other than those for domestic violence will be addressed on an individual basis. State Human Resources must be notified.\nMust possess a valid driver's license to operate a motor vehicle in the State of New York. Must report any changes to supervisory chain and State Human Resources (MNHS).\nIn accordance with current NGB policies, will be required to obtain and maintain a military driver’s license identifying appropriate vehicles authorized for operation – this will include physical evaluation requirements.\nIn accordance with National Guard Regulations there may be additional Air Base Specific requirements in order to accomplish necessary security protocols to meet and maintain the Base mission. Maintaining all minimum qualifications, and Base authorization to obtain government issued weapons/firearms to perform duties, is a condition of employment.\nAt all times, the employee MUST maintain minimum standards in accordance with current statutes, Agency requirements and directives. Failure to do so will subject the individual to disciplinary action and/or termination.\nNOTE: Position standards illustrate the nature, extent and scope of duties and responsibilities of the position described. Standards cannot and do not include all of the work that might be appropriately performed by an incumbent. The minimum\nqualifications above are those which were required for appointment at the time the Position Standards were written. Please contact State Human Resources Directorate for current information on minimum requirements for appointment.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225629",
+      "changes": [],
+      "id": "ny-statejobs-225629",
+      "sourceId": "us-ny-statejobs",
+      "title": "Air Base Security Guard",
+      "authority": "Military and Naval Affairs, Division of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-09",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/09/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $52694 to $52694 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:427bf1a4c109",
+          "title": "Vacancy 225629: Air Base Security Guard",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225629",
+          "sha256": "427bf1a4c109d6d088b4ee2b5755310d5895a3b300a193aa15a7d958f4ffceb4",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:00.290Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225628",
+      "programme": "Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Upstate Satellite Unit, P28033",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Permanent",
+      "qualifications": "Candidates from within or from outside State service may be considered for hire under the Hiring for Emergency Limited Placement - Statewide (HELPS) program. There are no education or experience requirements for an Office Assistant 1 Keyboarding position, but candidates–must be able to read, write, and communicate in English.\nOR\nCandidates can be considered for a competitive class appointment if they are reachable on the current Office Assistant 1 Keyboarding eligible list.\nOR\nCandidates from within State service may be considered for transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225628",
+      "changes": [],
+      "id": "ny-statejobs-225628",
+      "sourceId": "us-ny-statejobs",
+      "title": "Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Upstate Satellite Unit, P28033",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $37862 to $46843 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:02866ce8e70f",
+          "title": "Vacancy 225628: Office Assistant 1 Keyboarding (NY HELPS), Central New York Psychiatric Center, Upstate Satellite Unit, P28033",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225628",
+          "sha256": "02866ce8e70fc8b809bb13051b9d0bfd47b60255ac3395baf358b5539c373ba5",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:01.308Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225627",
+      "programme": "Licensed Mental Health Counselor (NY HELPS), Central New York Psychiatric Center - Upstate Satellite Unit, P28032",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Permanent",
+      "qualifications": "Candidates from outside or within State Service may be considered for hire under the Hiring for Emergency Limited Placement - Statewide (HELPS) program as a Licensed Mental Health Counselor if they have a license and current registration as a Licensed Mental Health Counselor in New York State.\nOR\nCandidates from outside or within State Service can be considered for a competitive class appointment if they are reachable on the current Licensed Mental Health Counselor eligible list.\nOR\nCandidates from within State Service may be considered for transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225627",
+      "changes": [],
+      "id": "ny-statejobs-225627",
+      "sourceId": "us-ny-statejobs",
+      "title": "Licensed Mental Health Counselor (NY HELPS), Central New York Psychiatric Center - Upstate Satellite Unit, P28032",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $73755 to $93682 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:9e98d8465c95",
+          "title": "Vacancy 225627: Licensed Mental Health Counselor (NY HELPS), Central New York Psychiatric Center - Upstate Satellite Unit, P28032",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225627",
+          "sha256": "9e98d8465c95860376effd5c905221389af72e10c9a33ffe9938d3d07db1c9c4",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:02.289Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225626",
+      "programme": "Nutrition Services Administrator 1 (NY HELPS), Rockland Children’s Psychiatric Center, P28031",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Permanent",
+      "qualifications": "Candidates from outside or within State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program as a Nutrition Services Administrator 1 if they have:\n• Current registration with the Commission on Dietetics Registration (CDR) as a Registered Dietitian (RD) or certification in Dietetics-Nutrition by the New York State Education Department, and\n• 2 years post-registration/certification professional administrative experience in a food or nutrition program, 1 year of which much have been at a supervisory level.\nOR\nCandidates from outside or within State Service can be considered for a competitive class appointment if they are reachable on the current Nutrition Services Administrator 1 eligible list.\nOR\nCandidates within State Service can be considered transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Nutrition Services Administrator 1 at Rockland Children's Psychiatric Center. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Nutrition Services Administrator 1 position consists of candidates who have 1 year of permanent service as a Dietitian 2.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225626",
+      "changes": [],
+      "id": "ny-statejobs-225626",
+      "sourceId": "us-ny-statejobs",
+      "title": "Nutrition Services Administrator 1 (NY HELPS), Rockland Children’s Psychiatric Center, P28031",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-16",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/16/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $77532 to $98354 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:f72620cebb47",
+          "title": "Vacancy 225626: Nutrition Services Administrator 1 (NY HELPS), Rockland Children’s Psychiatric Center, P28031",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225626",
+          "sha256": "f72620cebb4707434253f7ad73d53a31f245203a14f8280f47f4b65066d56ad2",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:03.293Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225625",
+      "programme": "Social Work Assistant 2 (NY HELPS), Capital District Psychiatric Center, P28030",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Permanent",
+      "qualifications": "Candidates from outside or within State Service can be considered for hire under the Hiring for Emergency Limited Placement – Statewide (NY HELPS) program if they have a bachelor’s degree in a human service field and 2 year of social work experience.\nSubstitution: Master’s degree in social work can substitute for 1 year of specialized experience.\nOR\nCandidates within State Service can be considered for a competitive class appointment if they are reachable on the current Social Work Assistant 3 eligible list.\nOR\nCandidates from within State Service can be considered transfer to a competitive class position if they have one year of permanent competitive or 55-b/55-c service in a title eligible for transfer under Section 70.1 of the Civil Service Law.\nOR\nIn accordance with Section 52.7 of the Civil Service Law, this notice advises all employees of the Office of Mental Health of our intention to conduct a non-competitive promotion examination for the position of Social Work Assistant 2 at Capital District Psychiatric Center. Permanent appointment may be made by non-competitive promotion of an applicant who meets the position’s minimum qualifications if all requirements of non-competitive promotion are met.\nThe promotion field for the Social Work Assistant 2 position consists of candidates who have 1 year of permanent service as a Social Work Assistant 1.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225625",
+      "changes": [],
+      "id": "ny-statejobs-225625",
+      "sourceId": "us-ny-statejobs",
+      "title": "Social Work Assistant 2 (NY HELPS), Capital District Psychiatric Center, P28030",
+      "authority": "Mental Health, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 11/30/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $66212 to $84286 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:da1006547547",
+          "title": "Vacancy 225625: Social Work Assistant 2 (NY HELPS), Capital District Psychiatric Center, P28030",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225625",
+          "sha256": "da1006547547096cf5ebab64701a3c2c3d50b1faaeb0438fc18c54ce74997076",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:04.303Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225620",
+      "programme": "Technology Analyst 2 (Human Centered Design)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "I.T. Engineering, Sciences · Full-Time · Permanent",
+      "qualifications": "Six (6) years of information technology experience, two (2) years of which must be within the discipline of human centered design.\nSUBSTITUTIONS:\n• Associate’s degree with 15 semester credit hours in computer science or a related field substitutes for one year of general information technology experience.\n• Candidates in a bachelo\nr’s degree program with at least 15 semester credit hours in computer science or a related field can substitute for one year of general information technology experience.\n• Bachelor’s degree in any field including or supplemented by fifteen (15) semester credit hours in computer science or a related field substitutes for three years substitutes for three (3) years of general information technology experience.\n• Bachelor’s degree in any field substitutes for two (2) years of general information technology experience.\n• Master’s degree or higher in computer science or related field substitutes for one year of general information technology experience.\nPreferred qualifications:\n• Preference for candidates holding relevant Human-Centered Design certification from recognized institutions or software providers.\n• Demonstrated experience with web page design, graphical user interface, and user centered design.\n• Technical proficiency in Human-Centered Design tools.\n• Fluency in a variety of programs, software, and systems such as CSS, HMI, JavaScript, and HTML.\n• Fluent in statistics, machine learning, and scripting.\n• Strong analytical skills to understand and translate business processes into technical requirements.\n• Problem-solving abilities to identify, troubleshoot, and resolve hardware, software, or networking issues.\n• Excellent communication skills to liaise effectively with both technical and non-technical staff, and to explain complex IT concepts in simple terms.\n• Strong leadership and project management skills\nPlease note:\n• Appointment to this position and continued employment with the agency is contingent upon obtaining and/or maintaining New York State residency within six months of hiring.\n• Appointment to this position is not final until all agency approvals have been granted.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225620",
+      "changes": [],
+      "id": "ny-statejobs-225620",
+      "sourceId": "us-ny-statejobs",
+      "title": "Technology Analyst 2 (Human Centered Design)",
+      "authority": "Information Technology Services, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-03",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/03/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $100671 to $126875 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:d5ae3750a928",
+          "title": "Vacancy 225620: Technology Analyst 2 (Human Centered Design)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225620",
+          "sha256": "d5ae3750a9283d8e8909808fbbc1cf05d7a0fa0e89df440ba24e0decaa6b4704",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:05.343Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225618",
+      "programme": "Principal Attorney (52660)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Legal · Full-Time · Permanent",
+      "qualifications": "QUALIFICATIONS: Admission to the New York State Bar and two (2) years of service in the Associate Attorney title; or Equivalent legal experience.\nA valid driver’s license and car are required.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225618",
+      "changes": [],
+      "id": "ny-statejobs-225618",
+      "sourceId": "us-ny-statejobs",
+      "title": "Principal Attorney (52660)",
+      "authority": "Court Administration, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-22",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/22/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $130061 to $130061 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:99a25e1816bc",
+          "title": "Vacancy 225618: Principal Attorney (52660)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225618",
+          "sha256": "99a25e1816bc03945d9a04e6de5731b53d6e218cf0ddbf89bb189c7a33b0edd5",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:06.377Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225607",
+      "programme": "Office Assistant 2 (NY HELPS) - 11101",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Contingent Permanent",
+      "qualifications": "Permanent Transfer: Current NYS employee with one year or more of permanent or contingent-permanent, competitive service as an Office Assistant 2 G-9, OR current New York State employee with one year or more of permanent or contingent- permanent, competitive service in a position allocated to a salary Grade 7 or above and eligible for transfer under Section 70.1 of the Civil Service Law to Office Assistant 2, G-9.\nProvisional or Non-Competitive Promotion: Current NYS Department of Health employee with one year or more permanent or contingent-permanent, competitive status or 55-b/55-c service in an office assistant, clerical or keyboarding title allocated to Grade 6 or higher. Qualifying titles are available at: https://www.cs.ny.gov/examannouncements/announcements/38687titles.cfm.\nNY HELPS Non-competitive: One year of clerical experience.\nPreferred Qualifications: Knowledgeable of Department of Health purchasing policies and New York State Finance Law; proficient in Microsoft Excel, Adobe Acrobat, and SFS software; experience managing and utilizing a Procurement Card (P-Card); effective communication skills, organizational skills, and effective time-management; and familiarity with performing clerical duties including recording and documenting transactions.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225607",
+      "changes": [],
+      "id": "ny-statejobs-225607",
+      "sourceId": "us-ny-statejobs",
+      "title": "Office Assistant 2 (NY HELPS) - 11101",
+      "authority": "Health, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $44560 to $54773 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:5ca9ed6fc9cd",
+          "title": "Vacancy 225607: Office Assistant 2 (NY HELPS) - 11101",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225607",
+          "sha256": "5ca9ed6fc9cd90fc3afadeb3da8406776ba1d40510442e96089ed0f08e1b8d1c",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:07.306Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225605",
+      "programme": "Office Assistant 1 (NY HELPS)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Clerical, Secretarial, Office Aide · Full-Time · Contingent Permanent",
+      "qualifications": "NY HELPS:\nThis title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS).\nFor the duration of the NY HELPS Program, this title may be filled via a non-competitive appointment, which means no examination is required but all candidates must meet the minimum qualifications of the title for which they apply.\nAt a future date (within one year of permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nNON-COMPETITIVE QUALIFICATIONS:\nThere are no minimum education or experience requirements for this title.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225605",
+      "changes": [],
+      "id": "ny-statejobs-225605",
+      "sourceId": "us-ny-statejobs",
+      "title": "Office Assistant 1 (NY HELPS)",
+      "authority": "Attorney General, Office of the",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $37862 to $46843 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:de35abd5ba96",
+          "title": "Vacancy 225605: Office Assistant 1 (NY HELPS)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225605",
+          "sha256": "de35abd5ba96156c37574fc298bdaa23347a18dea9fa4383ead973e475973be5",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:08.305Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225604",
+      "programme": "Assistant Attorney 1/ Assistant Attorney 2/ Assistant Attorney 3 / Senior Attorney (NY HELPS)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Legal · Full-Time · Permanent",
+      "qualifications": "Minimum Qualifications:\nFor appointment to Assistant Attorney 1 (Grade 18):\n• Law school graduation and/or eligibility for NYS Bar Admission*\nFor appointment to Assistant Attorney 2 (Grade 20):\n• Admission to NYS Bar\nFor appointment to Assistant Attorney 3 (Grade 22):\n• 12 months as an Assistant Attorney 2**; OR\n• Admission to the NYS Bar and 12 months of subsequent satisfactory legal experience\nFor appointment to Senior Attorney (Grade 25):\n• Reachable on current Civil Service eligible list for this title; OR\n• One year of permanent, competitive class service as a Senior Attorney; OR\n• One year of permanent, competitive class service in a title eligible for transfer under Section 52.6 of the Civil Service Law. 52.6 transfers may be considered only if you have passed the NYS Bar exam; OR\n• 2 months as an Assistant Attorney 3**; OR\n• Admission to the NYS Bar and 24 months of subsequent satisfactory legal experience*\n* If you are appointed as an Assistant Attorney 1, you will be automatically advanced to Assistant Attorney 2 upon admission to the New York State Bar. If you are not admitted to the New York State Bar within two years of appointment, your appointment will be terminated.\n** Admission to the New York State Bar and current registration to practice law in New York State is necessary for continued employment. Disbarment or loss of registration shall result in termination or suspension of employment.\nPreferred Qualifications:\n• Experience: Internship, externship, or professional exposure to information security and spotting potential litigation risks, artificial intelligence, data protection, or IT compliance environments and developing and maintaining cyber security and data privacy policies.\n• Certifications: Interest in pursuing industry-recognized designations (e.g., IAPP CIPP/US, CIPM, AIGP) or security certifications (e.g., Security + or CISSP)\nPlease be advised that the New York State Insurance Fund (NYSIF) does not offer sponsorship for employment visas to employees or potential employees. Candidates sponsored for employment by an organization should be aware of their sponsorship status and the relevant expiration date(s) of that sponsorship before applying to this position. NYSIF is not currently enrolled in eVerify, which is a requirement for certain types of employment verifications.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225604",
+      "changes": [],
+      "id": "ny-statejobs-225604",
+      "sourceId": "us-ny-statejobs",
+      "title": "Assistant Attorney 1/ Assistant Attorney 2/ Assistant Attorney 3 / Senior Attorney (NY HELPS)",
+      "authority": "Insurance Fund, State",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-09",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/09/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $74114 to $131025 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:ad54ae34f047",
+          "title": "Vacancy 225604: Assistant Attorney 1/ Assistant Attorney 2/ Assistant Attorney 3 / Senior Attorney (NY HELPS)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225604",
+          "sha256": "ad54ae34f0478b6f4e5eebf807f31e7725bd6ce000fde6a6356b66ec5bfba55b",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:09.337Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225603",
+      "programme": "Senior Attorney Financial Services, SG-25",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Legal · Full-Time · Contingent Permanent",
+      "qualifications": "Appointment Method:\nMinimum Qualifications:\nSenior Attorney, SG-25: One year as an Assistant Attorney 3 or admission to the NYS Bar and two years of subsequent professional legal experience.\nAssistant Attorney 3, SG-22: One year as Assistant Attorney 2 or admission to the NYS Bar and one year of subsequent professional legal experience.\nAssistant Attorney 2, SG-20: Admission to NYS Bar.\nAssistant Attorney 1, SG-18: Law School Graduation (or other eligibility to take the NYS Bar Examination). Note: If you are appointed as an Assistant Attorney 1, you will be automatically advanced to Assistant Attorney 2 upon admission to the New York State Bar. If you are not admitted to the New York State Bar within two years of appointment, your appointment will be terminated.\nThe Traineeship: If you are appointed to one of the entry levels of the Attorney Traineeship, you will normally be advanced after each twelve months of satisfactory service to the next higher title (with salary based on performance) until you reach the full performance level of a Senior Attorney. If your final performance evaluation as an Assistant Attorney 2, and your six-month performance evaluation as an Assistant Attorney 3 are rated outstanding, you may be eligible for early advancement to Senior Attorney, reducing your traineeship by six months. All service during the traineeship will be in probationary status. Performance will be evaluated every six months against established standards set by the individual agencies which reflect a timetable for gaining the knowledge and skills necessary so that appointees are able to function at the Senior Attorney level at the completion of the traineeship.\nNY HELPS: This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). The NY HELPS Program allows agencies to fill certain positions via permanent non-competitive appointments. At a future date (within one year of your permanent appointment), it is expected employees hired under NY HELPS will have their non-competitive employment status converted to competitive status, without having to compete in an examination. Employees will then be afforded with all of the same rights and privileges of competitive class employees of New York State. While serving permanently in a NY HELPS title, employees may take part in any promotion examination for which they are qualified.\nList Appointment: Candidates must be reachable on the Civil Service eligible list for 20-620010.\n55 b/c Appointment: Candidates must meet the eligibility requirements of the Governor's Program to Hire Individuals and Veterans with Disabilities as described in Civil Service Law § 55b/c. Information about this program can be found here: https://www.cs.ny.gov/rp55/\nTransfer: Candidates must have one year of permanent competitive service in a title eligible for transfer via Sections 52.6 of the Civil Service Law. Information regarding transfer eligibility may be available on the Civil Service Career Mobility Office website at http://careermobilityoffice.cs.ny.gov/cmo/. Please Note that under Civil Service Law, an employee cannot have two consecutive upward 70.1 or 52.6 transfers without an intervening eligible list appointment if such transfers would exceed two salary grades.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225603",
+      "changes": [],
+      "id": "ny-statejobs-225603",
+      "sourceId": "us-ny-statejobs",
+      "title": "Senior Attorney Financial Services, SG-25",
+      "authority": "Financial Services, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-23",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 11/23/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $69964 to $126875 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:69db86032f99",
+          "title": "Vacancy 225603: Senior Attorney Financial Services, SG-25",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225603",
+          "sha256": "69db86032f996f6c7af2246aca0ec9b133a59e63822030eb56a7a172bfc3f2d4",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:10.379Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225602",
+      "programme": "Associate Psychologist (NY HELPS)",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Health Care, Human/Social Services · Full-Time · Contingent Permanent",
+      "qualifications": "Transfer: One year of permanent competitive or 55b/c service in this title or in a title eligible for 70.1 transfer.\nIn addition, you must have a doctoral degree in a field of psychology.\nOpen to the Public: This title is part of the New York Hiring for Emergency Limited Placement Statewide Program (NY HELPS). *\nEarned doctoral degree in a field of psychology;\nAND\neither a one-year, full-time clinical internship, or traineeship; OR\none year of psychology experience in a clinical setting, under the supervision of a Licensed Psychologist.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225602",
+      "changes": [],
+      "id": "ny-statejobs-225602",
+      "sourceId": "us-ny-statejobs",
+      "title": "Associate Psychologist (NY HELPS)",
+      "authority": "Children & Family Services, Office of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-24",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/24/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90582 to $114585 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:9df46c11d3fe",
+          "title": "Vacancy 225602: Associate Psychologist (NY HELPS)",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225602",
+          "sha256": "9df46c11d3fe9652500148df0782795044ccbafe351a97a84c1b3ae4efc7e539",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:11.311Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Vacancy 225601",
+      "programme": "Assistant Public Information Officer",
+      "status": "uncertain",
+      "statusNote": "Official index and detail fields agree; deadline timezone, full eligibility and application-cycle identity await founder review.",
+      "scopeLabel": "New York State recruitment; applicant residence requirements need separate verification",
+      "outcome": "Other Professional Careers · Full-Time · Permanent",
+      "qualifications": "Bachelor’s degree and three years of relevant experience* in external communications, public relations, government affairs, or media relations.\n*Substitutions: four years of the specialized experience or associate’s degree and two years of the specialized experience may substitute for a bachelor’s degree; Master’s degree may substitute for one year of the specialized experience; J.D. may substitute for two years of the specialized experience; Ph.D. may substitute for three years of the specialized experience.",
+      "citizenshipRule": "International-applicant eligibility and visa sponsorship have not been verified. A public vacancy listing is not proof that every nationality can apply.",
+      "residenceRule": "Residence conditions need verification from the specific post and applicable service rules.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225601",
+      "changes": [],
+      "id": "ny-statejobs-225601",
+      "sourceId": "us-ny-statejobs",
+      "title": "Assistant Public Information Officer",
+      "authority": "Public Service, Department of",
+      "pathway": "recruitment",
+      "jurisdictionCode": "US",
+      "jurisdictionName": "United States",
+      "subdivisionCodes": [
+        "US-NY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Unknown",
+        "precision": "date",
+        "note": "Posted 2026-09-24; this is not an evidenced opening date. Applications due: 10/08/26. Official cutoff time and timezone need verification."
+      },
+      "salary": "From $90678 to $113292 Annually",
+      "sources": [
+        {
+          "id": "us-ny-statejobs:0b1b79d67110",
+          "title": "Public vacancy index",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+          "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+          "lastSuccessfulFetchAt": "2026-09-24T20:23:41.011Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "us-ny-statejobs:09ece11f5025",
+          "title": "Vacancy 225601: Assistant Public Information Officer",
+          "authority": "New York State Department of Civil Service",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225601",
+          "sha256": "09ece11f50253cdfe4c85ca87123c1ecf8af4fb107d79221bfde7ad00a0dd683",
+          "lastSuccessfulFetchAt": "2026-09-24T20:24:12.308Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+      "fetchedAt": "2026-09-24T20:23:41.011Z",
+      "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 768600
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225041",
+      "fetchedAt": "2026-09-24T20:23:42.446Z",
+      "sha256": "6328718e3c73c91c2dd58503fcaa37d7dac954b3a550b0d7ff9e2aa8b0425f31",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27273
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224639",
+      "fetchedAt": "2026-09-24T20:23:44.478Z",
+      "sha256": "d1a90f861bf67592ce4ed3b82408ca2b383bc852acd828f6e5e1ae49a4ca5727",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 34039
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222943",
+      "fetchedAt": "2026-09-24T20:23:45.933Z",
+      "sha256": "3e25aa13935f06c788e133b71899ea25faa197e221420760f66ef7d7588423b0",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31387
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222942",
+      "fetchedAt": "2026-09-24T20:23:46.600Z",
+      "sha256": "766ee87718d41d27602f486182bebe4182d2d57a4e51af943fe082f832ce65f4",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31427
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222941",
+      "fetchedAt": "2026-09-24T20:23:47.632Z",
+      "sha256": "0777be9d5ff19673a963a371b6ee3e33df97d0095cb6410c7b96c0a3aa617851",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31222
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222940",
+      "fetchedAt": "2026-09-24T20:23:48.358Z",
+      "sha256": "09a72001f5088d6b476f2ca896d903f189b701aa2aa1ae0416a3a647b33b4db8",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31373
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222939",
+      "fetchedAt": "2026-09-24T20:23:49.285Z",
+      "sha256": "c44574a5d9131fb35e31fa0c139b92186c0100359b2f7e9e1d1a0a604ca8b713",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31276
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222938",
+      "fetchedAt": "2026-09-24T20:23:50.278Z",
+      "sha256": "a06a1bef839e56eab7d887779967744db71b7db55daa5394487103d06d33e4be",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31210
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=214062",
+      "fetchedAt": "2026-09-24T20:23:51.287Z",
+      "sha256": "f1d88ed84c41cf071cd8f3f91e7fa74ce9a9bb1750e880e1f8cf2bea1d9a5f41",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 26511
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225641",
+      "fetchedAt": "2026-09-24T20:23:52.298Z",
+      "sha256": "5a3c9ff679b5b36c872abeb36e5a1833a811ca9d0dc35b76a4ae0238ba089586",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 33346
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225639",
+      "fetchedAt": "2026-09-24T20:23:53.303Z",
+      "sha256": "9a227357a982dc19e27871467a30863e2cadfbb15a0cc56dfef48b28341c69e7",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 30191
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225637",
+      "fetchedAt": "2026-09-24T20:23:54.326Z",
+      "sha256": "2f963521ce023890a5e07a751de21eb8f58cabf3a11f7a06e90473fc7e6fc8c6",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 28767
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225635",
+      "fetchedAt": "2026-09-24T20:23:55.366Z",
+      "sha256": "08db7f949898356a78e1ccd411bb380797703a91d17b31b1cd35a17731e3d5d6",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 28700
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225633",
+      "fetchedAt": "2026-09-24T20:23:56.292Z",
+      "sha256": "a84b3fbfaef932819505ad1529367996811774c0efb1a30b8078b79bbc4a6c18",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31311
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225632",
+      "fetchedAt": "2026-09-24T20:23:57.291Z",
+      "sha256": "add5a4c4a7a038124116ee5ca5d0742fd6961f246f01306d5ee4f57a0f060f53",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 31428
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225631",
+      "fetchedAt": "2026-09-24T20:23:58.326Z",
+      "sha256": "14bebd5feba69d109a96b8b1552a6225099fa184d14aab5ffbf020ca8fb81dde",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 28145
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225630",
+      "fetchedAt": "2026-09-24T20:23:59.367Z",
+      "sha256": "7b9a368d728ab77f0dfe37e3085789ff1154d1da2a1dd0ae2c32f7292fc99a18",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 26417
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225629",
+      "fetchedAt": "2026-09-24T20:24:00.290Z",
+      "sha256": "427bf1a4c109d6d088b4ee2b5755310d5895a3b300a193aa15a7d958f4ffceb4",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 36970
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225628",
+      "fetchedAt": "2026-09-24T20:24:01.308Z",
+      "sha256": "02866ce8e70fc8b809bb13051b9d0bfd47b60255ac3395baf358b5539c373ba5",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 26259
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225627",
+      "fetchedAt": "2026-09-24T20:24:02.289Z",
+      "sha256": "9e98d8465c95860376effd5c905221389af72e10c9a33ffe9938d3d07db1c9c4",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27549
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225626",
+      "fetchedAt": "2026-09-24T20:24:03.293Z",
+      "sha256": "f72620cebb4707434253f7ad73d53a31f245203a14f8280f47f4b65066d56ad2",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 28487
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225625",
+      "fetchedAt": "2026-09-24T20:24:04.303Z",
+      "sha256": "da1006547547096cf5ebab64701a3c2c3d50b1faaeb0438fc18c54ce74997076",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27915
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225620",
+      "fetchedAt": "2026-09-24T20:24:05.343Z",
+      "sha256": "d5ae3750a9283d8e8909808fbbc1cf05d7a0fa0e89df440ba24e0decaa6b4704",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 30172
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225618",
+      "fetchedAt": "2026-09-24T20:24:06.377Z",
+      "sha256": "99a25e1816bc03945d9a04e6de5731b53d6e218cf0ddbf89bb189c7a33b0edd5",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27017
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225607",
+      "fetchedAt": "2026-09-24T20:24:07.306Z",
+      "sha256": "5ca9ed6fc9cd90fc3afadeb3da8406776ba1d40510442e96089ed0f08e1b8d1c",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 29289
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225605",
+      "fetchedAt": "2026-09-24T20:24:08.305Z",
+      "sha256": "de35abd5ba96156c37574fc298bdaa23347a18dea9fa4383ead973e475973be5",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27909
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225604",
+      "fetchedAt": "2026-09-24T20:24:09.337Z",
+      "sha256": "ad54ae34f0478b6f4e5eebf807f31e7725bd6ce000fde6a6356b66ec5bfba55b",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 30212
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225603",
+      "fetchedAt": "2026-09-24T20:24:10.379Z",
+      "sha256": "69db86032f996f6c7af2246aca0ec9b133a59e63822030eb56a7a172bfc3f2d4",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 30619
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225602",
+      "fetchedAt": "2026-09-24T20:24:11.311Z",
+      "sha256": "9df46c11d3fe9652500148df0782795044ccbafe351a97a84c1b3ae4efc7e539",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 29569
+    },
+    {
+      "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225601",
+      "fetchedAt": "2026-09-24T20:24:12.308Z",
+      "sha256": "09ece11f50253cdfe4c85ca87123c1ecf8af4fb107d79221bfde7ad00a0dd683",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 27019
+    }
+  ],
+  "warnings": [
+    "Draft sample only. Public vacancies do not establish foreign-citizen eligibility, visa sponsorship or residence requirements. First connector output requires founder review.",
+    "1830 vacancy IDs indexed, not a verified count of distinct application cycles. 390 IDs held for possible duplicate/repost identity review; 1410 other IDs not fetched because of the 30-detail cap. Language-labelled titles are sampled first, then recent postings.",
+    "Posted dates are not application opening dates. Deadline times and official timezone are unspecified in these fields; status stays uncertain. Work addresses are not selection venues.",
+    "Possible duplicate/repost IDs held: 225562, 225563 — Senior Attorney/Assistant Attorney 1/2/3 (NY HELPS) WCB Item #8276",
+    "Possible duplicate/repost IDs held: 225549, 225551 — Office Assistant 2 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 225479, 225477, 225476, 225480 — Disability Review Psychologist (NY HELPS)",
+    "Possible duplicate/repost IDs held: 225473, 225474 — Disability Analyst 2 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 225448, 225496 — Habilitation Specialist 1",
+    "Possible duplicate/repost IDs held: 225432, 225433, 225428, 225429, 225430, 225434, 225435, 225431 — Professional Engineer 1 (Civil/Transportation)",
+    "Possible duplicate/repost IDs held: 225386, 225413 — Licensed Practical Nurse",
+    "Possible duplicate/repost IDs held: 225321, 225320, 225323 — Airport Firefighter 1",
+    "Possible duplicate/repost IDs held: 225328, 225327, 225329 — Airport Firefighter 1 Trainee",
+    "Possible duplicate/repost IDs held: 225325, 225326 — Contract Management Specialist 1 or Trainee 1 or 2 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 225187, 225195, 225189, 225183, 225193, 225190, 225192 — Medicaid Integrity Specialist 1/Trainee 1/Trainee 2",
+    "Possible duplicate/repost IDs held: 225205, 225224, 225228 — Highway Maintenance Worker 1/Trainee 1/Trainee 2 - (Regional Crews) - Region 8",
+    "Possible duplicate/repost IDs held: 225244, 225246 — Office Assistant 1 - (NY HELPS) - Region 8",
+    "Possible duplicate/repost IDs held: 225279, 225280 — Plant Utilities Engineer 1",
+    "Possible duplicate/repost IDs held: 225093, 225090, 225092, 225089 — Senior Engineering Technician",
+    "Possible duplicate/repost IDs held: 225108, 225102 — Maintenance Assistant",
+    "Possible duplicate/repost IDs held: 224739, 224741 — Facilities Operations Assistant 1",
+    "Possible duplicate/repost IDs held: 224780, 224801, 225027, 224800, 224792, 224789, 224784 — General Mechanic",
+    "Possible duplicate/repost IDs held: 224865, 224935 — Environmental Specialist 1/Trainee 1/Trainee 2 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 224765, 224778 — Claims Services Representative 1 / Trainee 1/2 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 224660, 224658 — Assistant Director Investment Accounting",
+    "Possible duplicate/repost IDs held: 224683, 224697, 224681, 224685, 224686, 224688, 224680, 224684 — Hearing Officer 1 (Incarcerated Discipline)",
+    "Possible duplicate/repost IDs held: 224400, 224431 — Bridge Repair Assistant 1 Trainee 2/ Trainee 1 (Region 9)",
+    "Possible duplicate/repost IDs held: 224720, 224721, 224718 — Registered Nurse 1",
+    "Possible duplicate/repost IDs held: 224014, 224004, 224018, 223995, 223997, 224010, 224000 — Health Systems Specialist 2 (Social Work) (NY HELPS) - 51187",
+    "Possible duplicate/repost IDs held: 224139, 224160 — Information Technology Specialist Programming 2 - Hourly",
+    "Possible duplicate/repost IDs held: 223860, 223880 — Senior Administrative Analyst",
+    "Possible duplicate/repost IDs held: 223959, 223930, 223919, 223933, 223962, 223924, 223909 — Clinical Physician 2",
+    "Possible duplicate/repost IDs held: 223971, 223974 — Administrative Assistant 1 / Trainee* (NY HELPS)",
+    "Possible duplicate/repost IDs held: 223915, 223886 — Program Operations Specialist 1 - SPS",
+    "Possible duplicate/repost IDs held: 223825, 223827 — Dental Hygienist",
+    "Possible duplicate/repost IDs held: 223578, 223638, 223595, 223618, 223584, 223656, 223609 — Program Operations Specialist 1/Trainee",
+    "Possible duplicate/repost IDs held: 223576, 223580 — Maintenance Assistant",
+    "Possible duplicate/repost IDs held: 223702, 223705 — Office Assistant 2",
+    "Possible duplicate/repost IDs held: 223435, 223436 — Investigative Officer 1 (SIF)",
+    "Possible duplicate/repost IDs held: 223531, 223532 — Senior Health Care Fiscal Analyst/ Health Care Fiscal Analyst Trainee – two positions, Central Office;",
+    "Possible duplicate/repost IDs held: 223411, 223416 — Addictions Counselor 1 (Charles K. Post ATC)",
+    "Possible duplicate/repost IDs held: 223315, 223318 — Registered Nurse 2 (Community)",
+    "Possible duplicate/repost IDs held: 223124, 223127 — Dentist 1 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 223138, 223139 — Registered Nurse 1 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 222956, 222958, 222957, 222959 — Hearing Officer or Assistant Attorney 1 or 2 or Assistant Hearing Officer (NY HELPS)",
+    "Possible duplicate/repost IDs held: 222953, 222952 — Fair Hearings Specialist 1 Spanish Language (NY HELPS)",
+    "Possible duplicate/repost IDs held: 222955, 222954 — Fair Hearings Specialist 1 (NY HELPS)",
+    "Possible duplicate/repost IDs held: 222846, 222837 — Maintenance Assistant – Central Office; Three Positions",
+    "Possible duplicate/repost IDs held: 222569, 222570 — Registered Nurse 1 (Hourly) (NY HELPS)",
+    "Possible duplicate/repost IDs held: 222380, 222377 — Principal Drafting Technician (Structural) NY HELPS",
+    "Possible duplicate/repost IDs held: 222382, 222379 — Senior Drafting Technician (Structures) NY HELPS",
+    "Possible duplicate/repost IDs held: 221574, 221575, 221576, 221577 — Professional Engineer 1 (Civil/Transportation) NY Helps",
+    "Possible duplicate/repost IDs held: 221625, 221609, 221626 — AG Fellowship Program: Post-Grad Opportunity 3L Law Students",
+    "Possible duplicate/repost IDs held: 220616, 220617 — Vice President of Business Development & Agency Services",
+    "Possible duplicate/repost IDs held: 219911, 219910, 219909, 219925, 219912, 219901, 219902, 219913, 219926, 219895, 219914, 219915, 219904, 219899 — Direct Support Assistant",
+    "Possible duplicate/repost IDs held: 219928, 219916, 219905, 219906, 219929, 219903, 219907, 219918 — Licensed Practical Nurse",
+    "Possible duplicate/repost IDs held: 219930, 219919 — Psychologist 1/2",
+    "Possible duplicate/repost IDs held: 219931, 219932, 219920, 219921 — Registered Nurse 1",
+    "Possible duplicate/repost IDs held: 219785, 219797 — Psychologist 1/2",
+    "Possible duplicate/repost IDs held: 219795, 219765, 219766, 219764, 219762, 219767, 219768, 219769, 219761, 219760, 219793, 219792, 219794, 219790, 219758 — Direct Support Assistant",
+    "Possible duplicate/repost IDs held: 219796, 219774, 219773, 219775, 219771, 219770 — Licensed Practical Nurse",
+    "Possible duplicate/repost IDs held: 219780, 219779, 219781, 219778, 219776, 219798 — Registered Nurse 1",
+    "Possible duplicate/repost IDs held: 219732, 219735, 219729, 219733, 219730, 219734 — Direct Support Assistant",
+    "Possible duplicate/repost IDs held: 219740, 219726, 219737, 219738 — Licensed Practical Nurse",
+    "Possible duplicate/repost IDs held: 219728, 219741 — Psychologist 1/2",
+    "Possible duplicate/repost IDs held: 219615, 219658, 219641, 219546 — Licensed Psychologist",
+    "Possible duplicate/repost IDs held: 219611, 219570, 219567, 219566, 219642, 219638, 219635, 219612, 219614, 219561, 219624, 219560, 219626, 219564, 219545, 219629, 219633, 219631 — Direct Support Assistant",
+    "Possible duplicate/repost IDs held: 219620, 219644, 219643, 219616, 219578, 219571, 219547 — Licensed Practical Nurse",
+    "Possible duplicate/repost IDs held: 219657, 219656, 219654, 219655, 219596, 219597, 219598, 219648, 219579, 219589, 219593, 219649, 219605, 219606, 219608, 219551, 219650, 219653, 219651 — Registered Nurse 1",
+    "Possible duplicate/repost IDs held: 219647, 219549 — Psychologist 1/2",
+    "Possible duplicate/repost IDs held: 219623, 219535 — Associate Psychologist",
+    "Possible duplicate/repost IDs held: 219558, 219557 — Technical Program Manager, Broadband Deployment, ConnectALL",
+    "Possible duplicate/repost IDs held: 217770, 217768, 217765 — Auditor 1 (Tax)/Auditor Trainee 1 (Tax)/Auditor Trainee 2 (Tax) (Audit Division) (NY HELPS)",
+    "Possible duplicate/repost IDs held: 217554, 217551 — Medical Director (Psychiatrist 2) (NY HELPS), Central Office;",
+    "Possible duplicate/repost IDs held: 216529, 216531, 216524, 216528, 216591, 216599, 216590, 216598, 216550, 216554, 216589, 216597, 216586, 216594, 216588, 216595 — Medical Specialist 2",
+    "Possible duplicate/repost IDs held: 216530, 216532, 216627, 216643, 216629, 216647, 216628, 216645, 216549, 216553, 216585, 216593 — Psychiatrist 2",
+    "Possible duplicate/repost IDs held: 216622, 216639, 216625, 216642, 216623, 216641, 216584, 216592 — Psychiatrist 1",
+    "Possible duplicate/repost IDs held: 216523, 216525, 216546, 216551 — Nurse Practitioner (Adult Health or Family Health)",
+    "Possible duplicate/repost IDs held: 216548, 216552 — Nurse Practitioner (Psychiatry)",
+    "Possible duplicate/repost IDs held: 216555, 216556 — Dentist 1",
+    "Possible duplicate/repost IDs held: 216437, 216455, 216440, 216458, 216438, 216456, 216447, 216466, 216449, 216468, 216448, 216467, 216446, 216465, 216445, 216464, 216441, 216463, 216443, 216461 — Medical Specialist 2",
+    "Possible duplicate/repost IDs held: 216429, 216452 — Psychiatrist 2",
+    "Possible duplicate/repost IDs held: 216431, 216453 — Medical Specialist 1",
+    "Possible duplicate/repost IDs held: 216436, 216454 — Psychiatrist 1",
+    "Possible duplicate/repost IDs held: 216395, 216398 — Psychiatrist 1",
+    "Possible duplicate/repost IDs held: 216396, 216401, 216385, 216388, 216369, 216371, 216378, 216383 — Psychiatrist 2",
+    "Possible duplicate/repost IDs held: 216361, 216364, 216384, 216387, 216368, 216370 — Medical Specialist 2",
+    "Possible duplicate/repost IDs held: 216362, 216365, 216377, 216381 — Medical Specialist 1",
+    "Possible duplicate/repost IDs held: 216386, 216389, 216375, 216379 — Dentist 2",
+    "Possible duplicate/repost IDs held: 216376, 216380 — Dentist 1",
+    "Possible duplicate/repost IDs held: 215510, 215512 — Addictions Counselor Assistant (Hourly) - M.A. Stutzman ATC",
+    "Possible duplicate/repost IDs held: 206555, 206557 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Clinton County)",
+    "Possible duplicate/repost IDs held: 206607, 206605 — Service and Repair Mechanic (Motor Equipment) - Region 10",
+    "Possible duplicate/repost IDs held: 206564, 206567 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Lewis County)",
+    "Possible duplicate/repost IDs held: 206561, 206562 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Jefferson County)",
+    "Possible duplicate/repost IDs held: 206558, 206560 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Franklin County)",
+    "Possible duplicate/repost IDs held: 206568, 206569 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-St. Lawrence County)",
+    "Possible duplicate/repost IDs held: 191329, 191331 — Revenue Crimes Specialist Trainee 1/Revenue Crimes Specialist Trainee 2/Revenue Crimes Specialist 1"
+  ],
+  "totalAvailable": 1830
+}

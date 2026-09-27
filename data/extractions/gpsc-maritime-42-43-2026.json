@@ -1,0 +1,42 @@
+{
+  "reviewStatus": "pending",
+  "dashboardUrl": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+  "applicationUrl": "https://gpsc-ojas.gujarat.gov.in/AdvtList.aspx?type=lCxUjNjnTp8=",
+  "opensOn": "2026-09-24",
+  "opensAt": "14:00",
+  "closesOn": "2026-10-08",
+  "closesAt": "23:59",
+  "advertisements": [
+    {
+      "number": "42/2026-27",
+      "title": "Marine Engineer, Class I",
+      "detailUrl": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2370&tab=Advertisement",
+      "experienceYears": 5,
+      "ageLimit": 42,
+      "disability": "Specific Learning Disability (SLD), 40–100%, one reserved post",
+      "documents": [
+        { "key": "detailed", "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-42-2026.pdf", "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4" },
+        { "key": "recruitment-rules", "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-42-2026.pdf", "sha256": "7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce" }
+      ]
+    },
+    {
+      "number": "43/2026-27",
+      "title": "Engineer Surveyor, Class I",
+      "detailUrl": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2371&tab=Advertisement",
+      "experienceYears": 8,
+      "ageLimit": 45,
+      "disability": "Low Vision (LV), 40–70%, one reserved post",
+      "documents": [
+        { "key": "detailed", "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-43-2026.pdf", "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4" },
+        { "key": "recruitment-rules", "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-43-2026.pdf", "sha256": "9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e" }
+      ]
+    }
+  ],
+  "notes": [
+    "Two separate GPSC advertisement/application numbers share identical bilingual 28-page detailed-PDF bytes; each gets one application cycle. Do not count four document URLs or two vacancies as four cycles.",
+    "English PDF pages 8–12 support opening/closing times, post-specific disability ranges, marine credentials, experience, Gujarati-or-Hindi requirement and exam-medium caveat. Recruitment-rules scans are retained but require founder reading.",
+    "No national citizenship rule found in the detailed advertisement; international-applicant ability to apply, enter selection and take the board post remains needs verification. Foreign degree equivalency is separately mentioned and does not establish nationality permission.",
+    "These are Gujarat Maritime Board posts; the advertisement explicitly says selected persons are board employees, not Gujarat Government employees.",
+    "Other Gujarat advertisements, amendments and departments remain coverage gaps."
+  ]
+}

@@ -1,0 +1,2005 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Common Recruitment - A&amp;N Administration</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* ============================================================
+           GIGW 3.0 — GOVERNMENT OF INDIA DESIGN SYSTEM
+        ============================================================ */
+        :root {
+            --saffron:       #FF6600;
+            --saffron-light: #FFF3EB;
+            --saffron-dark:  #CC5200;
+            --navy:          #003580;
+            --navy-dark:     #002060;
+            --navy-light:    #EAF0FB;
+            --india-green:   #138808;
+            --green-light:   #E8F5E8;
+            --white:         #FFFFFF;
+            --off-white:     #F4F6FA;
+            --gray-50:       #F8F9FC;
+            --gray-100:      #F0F2F6;
+            --gray-200:      #E2E6EE;
+            --gray-400:      #9BAABB;
+            --gray-600:      #57697E;
+            --text-primary:  #1A2438;
+            --text-secondary:#4A5770;
+            --border:        #D4DCE9;
+
+            --a11y-h:    38px;
+            --header-h:  70px;
+
+            --shadow-sm: 0 1px 4px rgba(0,0,0,.07);
+            --shadow-md: 0 4px 18px rgba(0,53,128,.12);
+            --radius:    5px;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html { font-size: 17px; scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            color: var(--text-primary);
+            background: var(--white);
+            padding-top: calc(var(--a11y-h) + 4px + var(--header-h));
+            line-height: 1.7;
+        }
+
+        /* ============================================================
+           ACCESSIBILITY TOOLBAR
+        ============================================================ */
+        #a11y-bar {
+            position: fixed;
+            top: 0; left: 0; right: 0;
+            height: var(--a11y-h);
+            background: var(--navy-dark);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            font-size: 12px;
+            color: rgba(255,255,255,.55);
+            z-index: 1300;
+            border-bottom: 2px solid var(--saffron);
+        }
+        .a11y-left  { display: flex; align-items: center; gap: 12px; }
+        .a11y-right { display: flex; align-items: center; gap: 6px; }
+        .skip-link {
+            color: var(--saffron);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 12px;
+        }
+        .skip-link:focus { outline: 2px solid var(--saffron); outline-offset: 2px; }
+        .a11y-lang a {
+            color: rgba(255,255,255,.5);
+            text-decoration: none;
+            padding: 1px 5px;
+            font-size: 12px;
+        }
+        .a11y-lang a.active, .a11y-lang a:hover { color: var(--saffron); }
+        .a11y-lang .pipe { opacity: .25; }
+        .a11y-btn {
+            background: rgba(255,255,255,.07);
+            border: 1px solid rgba(255,255,255,.12);
+            color: rgba(255,255,255,.6);
+            cursor: pointer;
+            padding: 2px 9px;
+            border-radius: 3px;
+            font-size: 12px;
+            font-family: inherit;
+            line-height: 1.6;
+            transition: all .18s;
+        }
+        .a11y-btn:hover, .a11y-btn.active { background: var(--saffron); color: #fff; border-color: var(--saffron); }
+        .a11y-links { display: flex; gap: 12px; }
+        .a11y-links a { color: rgba(255,255,255,.35); font-size: 12px; text-decoration: none; }
+        .a11y-links a:hover { color: var(--saffron); }
+
+        .topbar-email {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            color: rgba(255,255,255,.65);
+            font-size: 12px;
+        }
+        .topbar-email i { color: rgba(255,255,255,.5); font-size: 13px; }
+        .topbar-email a {
+            color: rgba(255,255,255,.75);
+            text-decoration: none;
+            transition: color .18s;
+        }
+        .topbar-email a:hover { color: var(--saffron); }
+
+        /* ============================================================
+           TRICOLOR STRIPE
+        ============================================================ */
+        #tricolor {
+            position: fixed;
+            top: var(--a11y-h);
+            left: 0; right: 0;
+            height: 4px;
+            display: flex;
+            z-index: 1250;
+        }
+        #tricolor .t { flex: 1; }
+        #tricolor .t1 { background: #FF9933; }
+        #tricolor .t2 { background: #FFFFFF; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+        #tricolor .t3 { background: #138808; }
+
+        /* ============================================================
+           HEADER
+        ============================================================ */
+        #header {
+            position: fixed;
+            top: calc(var(--a11y-h) + 4px);
+            left: 0; right: 0;
+            height: var(--header-h);
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+            box-shadow: var(--shadow-sm);
+            z-index: 1100;
+        }
+        #header .container {
+            display: flex;
+            align-items: center;
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 20px;
+            height: 100%;
+            gap: 16px;
+        }
+
+        #header h4 { margin: 0; line-height: 1; flex-shrink: 0; }
+        #header h4 a { text-decoration: none; display: flex; align-items: center; gap: 12px; }
+        #header h4 a img { height: 50px; width: auto; object-fit: contain; }
+        .header-brand-text { line-height: 1.25; }
+        .header-brand-text .gov-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: .7px;
+            color: var(--gray-600);
+        }
+        .header-brand-text .site-name {
+            font-family: 'Noto Serif', serif;
+            font-size: 17px;
+            font-weight: 700;
+            color: var(--navy);
+        }
+        .header-brand-text .dept-name {
+            font-size: 12px;
+            color: var(--saffron);
+            font-weight: 600;
+        }
+
+        /* ============================================================
+           NAVBAR
+        ============================================================ */
+        #navbar {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+        }
+        #navbar ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 2px;
+            margin: 0; padding: 0;
+        }
+        #navbar ul li a.nav-link {
+            font-size: 14.5px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 7px 13px;
+            border-radius: var(--radius);
+            letter-spacing: .15px;
+            transition: all .18s;
+            position: relative;
+            white-space: nowrap;
+            display: block;
+        }
+        #navbar ul li a.nav-link:hover,
+        #navbar ul li a.nav-link.active {
+            color: var(--navy);
+            background: var(--navy-light);
+        }
+        #navbar ul li a.nav-link.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1px; left: 20%; right: 20%;
+            height: 2px;
+            background: var(--saffron);
+            border-radius: 2px;
+        }
+
+        /* ── Mobile Candidate Corner li — hidden on desktop ── */
+        .mobile-candidate-corner { display: none; }
+
+        /* ── HAMBURGER BUTTON ── */
+        .mobile-nav-toggle {
+            display: none;
+            background: none;
+            border: 2px solid var(--navy);
+            color: var(--navy);
+            font-size: 22px;
+            cursor: pointer;
+            border-radius: var(--radius);
+            width: 40px;
+            height: 40px;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            transition: all .18s;
+            margin-left: 8px;
+        }
+        .mobile-nav-toggle:hover {
+            background: var(--navy);
+            color: #fff;
+        }
+
+        /* Candidate Corner CTA — desktop */
+        .appointment-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            background: var(--saffron);
+            color: #fff !important;
+            font-size: 13.5px;
+            font-weight: 700;
+            padding: 8px 16px;
+            border-radius: var(--radius);
+            text-decoration: none;
+            white-space: nowrap;
+            transition: all .2s;
+            letter-spacing: .2px;
+            flex-shrink: 0;
+            border: 2px solid var(--saffron);
+        }
+        .appointment-btn:hover {
+            background: var(--saffron-dark);
+            border-color: var(--saffron-dark);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 14px rgba(255,102,0,.3);
+        }
+        .appointment-btn::before {
+            content: '\F4B1';
+            font-family: 'bootstrap-icons';
+            font-size: 15px;
+        }
+
+        /* ============================================================
+           MAIN
+        ============================================================ */
+        #main {
+            min-height: calc(100vh - var(--a11y-h) - 4px - var(--header-h) - 110px);
+            background: var(--off-white);
+        }
+        #services { padding: 28px 28px 60px; }
+        #services .container,
+        #services .container[style],
+        #services form#form1 > .container {
+            max-width: 100% !important;
+            width: 100% !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        #services form#form1 > .container {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            box-shadow: var(--shadow-sm);
+            padding: 28px 30px !important;
+        }
+
+        /* ============================================================
+           FOOTER
+        ============================================================ */
+        #footer {
+            background: var(--navy-dark);
+            color: rgba(255,255,255,.55);
+            border-top: 3px solid var(--saffron);
+            padding: 0;
+        }
+        #footer .container { max-width: 1280px; margin: 0 auto; padding: 0 20px; }
+        #footer .container.d-md-flex { padding: 24px 20px; }
+        #footer .credits {
+            font-size: 13.5px;
+            color: rgba(255,255,255,.5);
+            line-height: 2;
+        }
+        #footer .credits a { color: var(--saffron); text-decoration: none; font-weight: 600; }
+        #footer .credits a:hover { text-decoration: underline; }
+        #footer .credits span[class^="bi-browser"] {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-right: 10px;
+            font-size: 12.5px;
+            color: rgba(255,255,255,.4);
+        }
+        .footer-links { display: flex; gap: 14px; flex-wrap: wrap; }
+        .footer-links a { color: rgba(255,255,255,.3); text-decoration: none; font-size: 12px; }
+        .footer-links a:hover { color: var(--saffron); }
+        #footer .credits .asp-label { color: rgba(255,255,255,.65); }
+
+        /* ============================================================
+           BACK TO TOP
+        ============================================================ */
+        .back-to-top {
+            position: fixed;
+            bottom: 24px; right: 22px;
+            width: 40px; height: 40px;
+            background: var(--navy);
+            color: #fff;
+            border-radius: 50%;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0,53,128,.35);
+            z-index: 999;
+            transition: background .2s, transform .2s;
+            border: 2px solid rgba(255,255,255,.15);
+        }
+        .back-to-top:hover { background: var(--saffron); transform: translateY(-2px); }
+        .back-to-top i { font-size: 22px; }
+
+        /* ============================================================
+           HIGH CONTRAST
+        ============================================================ */
+        body.hc-mode {
+            --white:          #000000;
+            --off-white:      #0d0d0d;
+            --navy-light:     #001430;
+            --gray-100:       #141414;
+            --border:         #444;
+            --text-primary:   #ffffff;
+            --text-secondary: #dddddd;
+        }
+
+        /* ============================================================
+           MOBILE NAV
+        ============================================================ */
+        @media (max-width: 992px) {
+
+            #header .container {
+                flex-wrap: nowrap;
+                gap: 8px;
+                justify-content: space-between;
+            }
+
+            #header h4 {
+                flex: 1 1 auto;
+                min-width: 0;
+                margin-right: 0 !important;
+            }
+
+            /* Hide desktop Candidate Corner button on mobile */
+            .appointment-btn {
+                display: none !important;
+            }
+
+            .mobile-nav-toggle {
+                display: inline-flex !important;
+                flex-shrink: 0;
+                margin-left: auto;
+            }
+
+            #navbar {
+                position: static;
+                margin-left: 0;
+                order: 3;
+            }
+
+            #navbar ul {
+                display: none;
+                flex-direction: column;
+                align-items: stretch;
+                position: fixed;
+                top: calc(var(--a11y-h) + 4px + var(--header-h));
+                left: 0;
+                right: 0;
+                width: 100vw;
+                background: var(--white);
+                border-bottom: 3px solid var(--saffron);
+                padding: 8px 0 14px;
+                box-shadow: var(--shadow-md);
+                z-index: 1050;
+                overflow-y: auto;
+                max-height: calc(100vh - var(--a11y-h) - 4px - var(--header-h));
+            }
+
+            #navbar ul.open { display: flex; }
+
+            #navbar ul li { width: 100%; }
+
+            #navbar ul li a.nav-link {
+                display: block;
+                width: 100%;
+                padding: 15px 24px;
+                font-size: 16px;
+                font-weight: 600;
+                border-bottom: 1px solid var(--gray-100);
+                border-radius: 0;
+                white-space: normal;
+                color: var(--text-primary);
+            }
+
+            #navbar ul li:last-child a.nav-link { border-bottom: none; }
+
+            #navbar ul li a.nav-link.active::after { display: none; }
+            #navbar ul li a.nav-link.active {
+                color: var(--navy);
+                background: var(--navy-light);
+                border-left: 4px solid var(--saffron);
+                padding-left: 20px;
+            }
+
+            /* ── REAL Candidate Corner item — visible only on mobile ── */
+            .mobile-candidate-corner {
+                display: block !important;
+                padding: 10px 16px 4px;
+            }
+
+            .mobile-candidate-corner a {
+                display: flex !important;
+                align-items: center;
+                justify-content: center;
+                gap: 8px;
+                background: var(--saffron) !important;
+                color: #fff !important;
+                font-size: 15px !important;
+                font-weight: 700 !important;
+                padding: 13px 20px !important;
+                border-radius: var(--radius) !important;
+                text-decoration: none !important;
+                border-bottom: none !important;
+                border-left: none !important;
+                transition: background .2s;
+                width: 100%;
+            }
+
+            .mobile-candidate-corner a:hover {
+                background: var(--saffron-dark) !important;
+            }
+
+            /* Override last-child border since candidate corner is last */
+            .mobile-candidate-corner a.nav-link { border-bottom: none !important; }
+        }
+
+        @media (max-width: 576px) {
+            #header h4 .header-brand-text .gov-label,
+            #header h4 .header-brand-text .dept-name { display: none; }
+
+            #header h4 .header-brand-text .site-name {
+                font-size: 15px;
+            }
+
+            #services { padding: 16px 12px 40px; }
+        }
+
+        @media print {
+            #a11y-bar, #tricolor, #header, #footer { display: none !important; }
+            body { padding-top: 0 !important; }
+        }
+
+    </style>
+
+    
+    <style>
+        /* ============================================================
+           INDEX PAGE — GIGW 3.0
+        ============================================================ */
+
+        .info-banner {
+            background: linear-gradient(90deg, #EAF0FB, #fff);
+            border: 1px solid #D4DCE9;
+            border-left: 4px solid #138808;
+            border-radius: 6px;
+            padding: 12px 18px;
+            font-size: 13.5px;
+            color: #1A4731;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .info-banner i { color: #138808; font-size: 16px; flex-shrink: 0; }
+
+        .cbt-banner {
+            background: #FEF2F2;
+            border: 1px solid #FECACA;
+            border-left: 4px solid #C0392B;
+            border-radius: 6px;
+            padding: 10px 16px;
+            font-size: 13px;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .cbt-banner i { color: #C0392B; font-size: 15px; }
+        .cbt-banner a { color: #C0392B; font-weight: 700; text-decoration: none; }
+
+        /* ── Advertisement Cards ── */
+        .adv-card {
+            background: #fff;
+            border: 1px solid #D4DCE9;
+            border-radius: 7px;
+            overflow: hidden;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 4px rgba(0,0,0,.06);
+        }
+        .adv-card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            padding: 12px 18px;
+            border-bottom: 1px solid #D4DCE9;
+        }
+        .adv-card-header-left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .adv-card-header.ongoing { background: #EAF0FB; border-left: 4px solid #003580; }
+        .adv-card-header.archive { background: #FFF8EE; border-left: 4px solid #FF6600; }
+
+        .adv-card-header .card-icon {
+            width: 32px; height: 32px;
+            border-radius: 6px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 15px; flex-shrink: 0;
+        }
+        .adv-card-header.ongoing .card-icon { background: #003580; color: #fff; }
+        .adv-card-header.archive .card-icon { background: #FF6600; color: #fff; }
+
+        .adv-card-header h5 {
+            margin: 0;
+            font-family: 'Noto Serif', serif;
+            font-size: 15px;
+            font-weight: 700;
+            color: #1A2438;
+        }
+
+        /* Badge on header */
+        .adv-badge {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: .5px;
+            text-transform: uppercase;
+            padding: 3px 10px;
+            border-radius: 20px;
+            white-space: nowrap;
+        }
+        .adv-badge.ongoing-badge {
+            background: #003580;
+            color: #fff;
+        }
+        .adv-badge.archive-badge {
+            background: #FF6600;
+            color: #fff;
+        }
+
+        .adv-card-body {
+            padding: 16px 18px;
+            max-height: 360px;
+            overflow-y: auto;
+            font-size: 13.5px;
+            line-height: 1.75;
+        }
+        .adv-card-body::-webkit-scrollbar { width: 5px; }
+        .adv-card-body::-webkit-scrollbar-thumb { background: #D4DCE9; border-radius: 4px; }
+
+        /* Empty state */
+        .adv-empty {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 32px 20px;
+            color: #9BAABB;
+            text-align: center;
+            gap: 10px;
+        }
+        .adv-empty i { font-size: 32px; opacity: .5; }
+        .adv-empty p { margin: 0; font-size: 13px; }
+
+        /* ── Notice Board ── */
+        .notice-panel {
+            background: #fff;
+            border: 1px solid #D4DCE9;
+            border-radius: 7px;
+            overflow: hidden;
+            box-shadow: 0 1px 4px rgba(0,0,0,.06);
+            margin-bottom: 0;
+        }
+        .notice-panel-header {
+            background: #003580;
+            color: #fff;
+            padding: 11px 16px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+        }
+        .notice-panel-header .ntitle {
+            font-family: 'Noto Serif', serif;
+            font-size: 14px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .notice-panel-header a.view-all {
+            font-size: 11px;
+            color: rgba(255,255,255,.85);
+            text-decoration: none;
+            border: 1px solid rgba(255,255,255,.3);
+            padding: 4px 12px;
+            border-radius: 20px;
+            transition: all .18s;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            white-space: nowrap;
+        }
+        .notice-panel-header a.view-all:hover { background: #FF6600; border-color: #FF6600; color: #fff; }
+
+        .notice-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 320px;   /* height of notice board */
+    overflow-y: auto;    /* enable vertical scroll */
+}
+        .notice-list::-webkit-scrollbar {
+    width: 5px;
+}
+        .notice-list::-webkit-scrollbar-thumb {
+    background: #D4DCE9;
+    border-radius: 4px;
+}
+        .notice-item {
+            padding: 10px 16px;
+            border-bottom: 1px solid #F0F2F6;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            transition: background .15s;
+        }
+        .notice-item:last-child { border-bottom: none; }
+        .notice-item:hover { background: #F4F6FA; }
+
+        .notice-dot {
+            width: 7px; height: 7px;
+            border-radius: 50%;
+            background: #003580;
+            flex-shrink: 0;
+            margin-top: 5px;
+        }
+        .notice-dot.new { background: #FF6600; }
+
+        .notice-item .notice-text {
+            font-size: 13px;
+            color: #1A2438;
+            line-height: 1.5;
+            flex: 1;
+            min-width: 0;
+        }
+        .notice-item .notice-text a { color: #003580; text-decoration: none; font-weight: 500; }
+        .notice-item .notice-text a:hover { text-decoration: underline; color: #FF6600; }
+        .notice-item .notice-date {
+            font-size: 10.5px;
+            color: #9BAABB;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: .4px;
+            display: block;
+            margin-top: 3px;
+        }
+        .notice-ext-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px; height: 28px;
+            border: 1px solid #E2E6EE;
+            border-radius: 4px;
+            color: #9BAABB;
+            font-size: 12px;
+            text-decoration: none;
+            flex-shrink: 0;
+            align-self: center;
+            transition: all .18s;
+        }
+        .notice-ext-btn:hover { background: #EAF0FB; border-color: #003580; color: #003580; }
+
+        .new-tag {
+            display: inline-block;
+            background: #C0392B;
+            color: #fff;
+            font-size: 9px;
+            padding: 1px 5px;
+            border-radius: 3px;
+            font-weight: 700;
+            letter-spacing: .4px;
+            vertical-align: middle;
+            margin-left: 4px;
+            animation: nblink 1.5s step-end infinite;
+        }
+        @keyframes nblink { 50% { opacity: 0; } }
+
+        /* ── Stats Panel ── */
+        .stats-panel {
+            background: #fff;
+            border: 1px solid #D4DCE9;
+            border-radius: 7px;
+            padding: 18px;
+            box-shadow: 0 1px 4px rgba(0,0,0,.06);
+            margin-bottom: 20px;
+        }
+        .stats-panel .stats-note {
+            background: #FFF3EB;
+            border: 1px solid #FFD0B0;
+            border-radius: 5px;
+            padding: 10px 14px;
+            font-size: 12.5px;
+            color: #7A3000;
+            font-weight: 500;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+        }
+        .stats-panel .stats-note i { color: #FF6600; font-size: 15px; flex-shrink: 0; margin-top: 1px; }
+
+        .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+        .stat-tile {
+            background: #F4F6FA;
+            border: 1px solid #E2E6EE;
+            border-radius: 7px;
+            padding: 16px 12px;
+            text-align: center;
+            transition: all .2s;
+            position: relative;
+            overflow: hidden;
+        }
+        .stat-tile::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+        }
+        .stat-tile.t-blue::after   { background: #003580; }
+        .stat-tile.t-orange::after { background: #FF6600; }
+        .stat-tile.t-green::after  { background: #138808; }
+        .stat-tile.t-purple::after { background: #6D28D9; }
+        .stat-tile:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,53,128,.12); }
+
+        .stat-tile .stat-icon {
+            width: 40px; height: 40px;
+            border-radius: 8px;
+            margin: 0 auto 10px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 18px;
+        }
+        .stat-tile.t-blue   .stat-icon { background: #EAF0FB; color: #003580; }
+        .stat-tile.t-orange .stat-icon { background: #FFF3EB; color: #FF6600; }
+        .stat-tile.t-green  .stat-icon { background: #E8F5E8; color: #138808; }
+        .stat-tile.t-purple .stat-icon { background: #EDE9FE; color: #6D28D9; }
+
+        .stat-tile .stat-num {
+            font-size: 26px;
+            font-weight: 700;
+            color: #1A2438;
+            line-height: 1.1;
+            display: block;
+        }
+        .stat-tile .stat-label {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: .6px;
+            color: #57697E;
+            margin-top: 4px;
+        }
+        .stat-tile a { text-decoration: none; color: inherit; }
+
+        /* ── DataGrid ── */
+        .data-table-wrap {
+            margin-top: 16px;
+            border-radius: 7px;
+            overflow: hidden;
+            border: 1px solid #D4DCE9;
+        }
+        .data-table-wrap table { margin: 0 !important; font-size: 13px; width: 100% !important; }
+        .data-table-wrap table th {
+            background: #003580 !important;
+            color: #fff !important;
+            font-weight: 600;
+            padding: 10px 12px;
+            text-align: center;
+        }
+        .data-table-wrap table td {
+            padding: 9px 12px;
+            text-align: center;
+            border-bottom: 1px solid #F0F2F6;
+        }
+        .data-table-wrap table tr:hover td { background: #EAF0FB; }
+
+        /* ── Page wrap ── */
+        .idx-wrap { padding: 20px 24px 60px; }
+
+        @media (max-width: 768px) {
+            .idx-wrap { padding: 14px 14px 50px; }
+            .stat-grid { grid-template-columns: 1fr 1fr; }
+            .adv-card-body { max-height: 260px; }
+        }
+
+.danger-banner {
+    background: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
+    border-left: 5px solid #dc3545;
+    padding: 12px 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+}
+
+.danger-banner i {
+    color: #dc3545;
+    font-size: 1.2rem;
+}
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- ACCESSIBILITY TOOLBAR -->
+    <div id="a11y-bar" role="navigation" aria-label="Accessibility Options">
+        <div class="a11y-left">
+            <a class="skip-link" href="#main">Skip to Main Content</a>
+        </div>
+        <div class="a11y-right">
+            <div class="topbar-email d-flex align-items-center">
+                <i class="bi bi-envelope"></i>
+                <a href="mailto:sovtech.and@nic.in">sovtech[dot]and[at]nic[dot]in</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- TRICOLOR STRIPE -->
+    <div id="tricolor" aria-hidden="true">
+        <div class="t t1"></div>
+        <div class="t t2"></div>
+        <div class="t t3"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+            <h4 class="me-auto">
+                <a href="Index.aspx">
+                    <img src="assets/img/llogo.png" style="height:50px" alt="A&N Administration Logo" />
+                    <div class="header-brand-text">
+                        <div class="site-name">eRecruitment Portal</div>
+                        <div class="dept-name">Andaman &amp; Nicobar Administration</div>
+                    </div>
+                </a>
+            </h4>
+
+            <nav id="navbar" class="navbar order-last order-lg-0" role="navigation" aria-label="Main Navigation">
+                <ul id="navbar-ul">
+                    <li><a class="nav-link scrollto active" href="Index.aspx">Home</a></li>
+                    <li><a class="nav-link scrollto" href="Notice.aspx">Notice</a></li>
+                    <li><a class="nav-link scrollto" href="CSignin.aspx">Apply</a></li>
+                    <li><a class="nav-link scrollto" href="CSignin.aspx">Admit Card</a></li>
+                    <li><a class="nav-link scrollto" href="AnswerKey.aspx">Answer Key</a></li>
+                    <li><a class="nav-link scrollto" href="Result.aspx">Result</a></li>
+                    <li><a class="nav-link scrollto" href="ASignin.aspx">Admin Corner</a></li>
+
+                    <!-- ✅ REAL clickable Candidate Corner — only shown on mobile via CSS -->
+                    <li class="mobile-candidate-corner">
+                        <a href="CSignin.aspx" class="nav-link">
+                            <i class="bi bi-person-circle"></i> Candidate Corner
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Desktop Candidate Corner button -->
+            <a href="CSignin.aspx" class="appointment-btn scrollto">Candidate Corner</a>
+
+            <!-- Hamburger — rightmost -->
+            <button class="mobile-nav-toggle" id="mobileNavToggle"
+                    aria-label="Toggle navigation menu"
+                    aria-expanded="false"
+                    aria-controls="navbar-ul">
+                <i class="bi bi-list"></i>
+            </button>
+
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <main id="main">
+        <section id="services" class="services">
+            <form method="post" action="./" id="form1" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="BVqvIwsnh9qoDtsxCVGy7CFtZ/RRG05WSImf7L+9tNiNRAWI8Semw+hJ0lxj7JOBGFFtBglxjxNU0LppOqhydFoPjV2V8Vn0FAHJg5trQtKvkcq1YFsaFQvtr74LH9Vs3hCfAYU7HzemjW4yLAj9/Q==" />
+                <div class="container" style="max-width: max-content">
+                    
+    <div class="idx-wrap">
+<div class="container-fluid px-0">
+
+    <!-- Info Banner -->
+    <div class="info-banner">
+        <i class="bi bi-info-circle-fill"></i>
+        Note — Candidate should click on <strong>&nbsp;Candidate Corner&nbsp;</strong> to register yourself and then apply for various posts.
+    </div>
+
+<div class="danger-banner">
+    <i class="bi bi-exclamation-octagon-fill"></i>
+    <strong>Important:</strong> Do not wait until the last date to submit your application. Apply well in advance to avoid last-minute technical issues or heavy website traffic.
+</div>
+    <!-- CBT Mock Test (server-side toggle) -->
+    
+
+    <div class="row g-4">
+
+        <!-- ══════════════════════════════════════
+             LEFT COL — Ongoing · Archive · Notice
+        ══════════════════════════════════════ -->
+        <div class="col-lg-8">
+
+            <!-- Ongoing Advertisement -->
+            <div class="adv-card">
+                <div class="adv-card-header ongoing">
+                    <div class="adv-card-header-left">
+                        <div class="card-icon"><i class="bi bi-megaphone-fill"></i></div>
+                        <h5>Ongoing Advertisement</h5>
+                    </div>
+                    <span class="adv-badge ongoing-badge">Live</span>
+                </div>
+                <div class="adv-card-body">
+                    <div id="ContentPlaceHolder2_pnl" class="h-100">
+	
+                        <span id="ContentPlaceHolder2_lbladv"><p class='mb-0'><a style='color:black;text-align:justify;' href='Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf'>Advertisement for recruitment to Group ‘B’ non-gazetted (non-ministerial) and Group ‘C’ (non-ministerial) posts to be filled in various zones under the Department of Agriculture, Andaman and Nicobar Administration.<br/> <b style='color:red'>( Start Date: 24-09-2026 and Last Date: 23-10-2026)</b></a></p>
+<hr/>
+</span>
+                    
+</div>
+                </div>
+            </div>
+
+          
+
+            <!-- ══ NOTICE BOARD — directly below Archive ══ -->
+            <div class="notice-panel">
+                <div class="notice-panel-header">
+                    <span class="ntitle">
+                        <i class="bi bi-pin-angle-fill"></i> Notice Board
+                    </span>
+                    <a href="Notice.aspx" target="_blank" rel="noopener" class="view-all">
+                        <i class="bi bi-box-arrow-up-right"></i> View All Notices
+                    </a>
+                </div>
+                <ul class="notice-list">
+    <li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/118_fe13cffe-6aec-4875-8742-9089cc9397fe.pdf' target='_blank'>Revised Common Syllabus for Combined Graduate Level Examination for the posts of Junior Engineer in the Electricity Department and Junior Engineer (E&M) in APWD</a>
+    <span class='notice-date'>24 Sep 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/117_77a15eb8-13ba-4012-bf20-d5d3be420868.pdf' target='_blank'>Press Note-Correction window for CHSL and matric level Examination </a>
+    <span class='notice-date'>31 Aug 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/116_0cf8caa5-c6c1-44ad-a29f-c74fe89b792e.pdf' target='_blank'>Press Note – Corrigendum and Issue of Admit Card for PM&ET (ANI Police Recruitment 2024–2026)</a>
+    <span class='notice-date'>29 Jul 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/115_636492d8-a7bd-4696-beb4-3843b721151c.pdf' target='_blank'>Download Admit Card for the Post of Stenographer/PA (Reserved for Scheduled Caste Category)</a>
+    <span class='notice-date'>28 Jul 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/114_4be28db3-a235-45d0-83ae-1618688696b4.pdf' target='_blank'>Extension of Last Date for Submission of Online Applications for Matric and Higher Secondary Level Posts</a>
+    <span class='notice-date'>20 Jul 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/113_bd96f5aa-ee2e-4f37-968f-02d6e363b5c3.pdf' target='_blank'>Due to scheduled maintenance activity, the e-recruitment Application will be temporarily unavailable on 27 June 2026 from 3:30 PM to 5:00 PM.</a>
+    <span class='notice-date'>27 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/112_a31f1520-cfef-4890-9704-185c0ad78195.pdf' target='_blank'>Merit List of Candidates who appeared for Skill Test conducted by Department of Information Technology Andaman Nicobar Administration on 14-03-2026</a>
+    <span class='notice-date'>25 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/111_875d5de8-1f35-44bf-b52a-851014ec79fe.pdf' target='_blank'>Press Release-Revision of Vacancies  & Extension of Online Application Submission Date – A&N Police Recruitment 2026</a>
+    <span class='notice-date'>19 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/110_b2f74ce7-b6b7-42d3-8283-f544c348582d.pdf' target='_blank'>Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</a>
+    <span class='notice-date'>09 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/108_5f61dec1-c025-40f9-8cfa-3099684618cd.pdf' target='_blank'>Press Note-Combined Higher Secondary Level Recruitment Examination (CHSLRE) 2026,Andaman & Nicobar Administration</a>
+    <span class='notice-date'>05 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/109_cec1d971-54bc-470a-befa-43187519a9b4.pdf' target='_blank'>Annexure – Combined Higher Secondary Level Recruitment Examination 2026, Andaman & Nicobar Administration</a>
+    <span class='notice-date'>05 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/106_4369a554-77d8-4062-8b65-87114f3c4127.pdf' target='_blank'>Press Note – Common Matriculation Level Recruitment Examination 2026, Andaman & Nicobar Administration</a>
+    <span class='notice-date'>04 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/107_f6275225-0bdc-46c0-ac4a-9938745e0a59.pdf' target='_blank'>Press Note – Annexure- Common Matriculation Level Recruitment Examination 2026, Andaman & Nicobar Administration</a>
+    <span class='notice-date'>04 Jun 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/105_36255c39-9bd3-49ab-b8cc-670d20d363dd.pdf' target='_blank'>Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</a>
+    <span class='notice-date'>26 May 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/104_de45fb41-b311-40a8-a9f1-7bf6eda3f55e.pdf' target='_blank'>Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</a>
+    <span class='notice-date'>14 May 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/103_01284841-0531-4981-8c23-a5499bd596a9.pdf' target='_blank'>Press release for various category of Group B(NG) and Group C posts in Andaman and Nicobar Police Department.</a>
+    <span class='notice-date'>12 May 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/102_a02bfeec-825a-41cb-b657-876a7422c42b.pdf' target='_blank'>Recruitment for various Group-(NG) and Group - C post in Andaman and Nicobar Police -2026</a>
+    <span class='notice-date'>25 Apr 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/82_d5b791e0-faf2-4f25-a47a-855c71079392.pdf' target='_blank'>Press release for recruitment of various Group C industrial post under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/83_e56cd595-0f18-4b34-b50c-f2e525f85197.pdf' target='_blank'>Provisionally Eligible candidates for the post of  Assistant carpenter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/84_db660773-3d90-498e-9645-d678d26da421.pdf' target='_blank'>Provisionally In-eligible candidates for the post of  Assistant carpenter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/85_c861a3b9-f4bc-44fa-b898-d99ae535ce2e.pdf' target='_blank'>Provisionally eligible candidates for the post of  Assistant fitter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/86_70b8267a-67b2-40aa-ba36-079cceb469a1.pdf' target='_blank'>Provisionally In-eligible candidates for the post of  Assistant fitter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/87_95800367-2d97-4be9-b432-650b127cee77.pdf' target='_blank'>Provisionally eligible candidates for the post of  Engine driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/88_368a2a1f-8df9-4b34-bec3-005e25a8a733.pdf' target='_blank'>Provisionally In-eligible candidates for the post of Crane driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/89_88b85877-cd39-4760-b577-760f3f8dcc02.pdf' target='_blank'>Provisionally Eligible candidates for the post of Welder under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/90_df6dc785-d703-4298-9c81-b2a239e70320.pdf' target='_blank'>Provisionally In-ligible candidates for the post of Welder under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/91_f011027f-97f0-485f-a651-ec19b933bbf3.pdf' target='_blank'>Provisionally In-ligible candidates for the post of Engine driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/92_d3ec7b39-3f78-4bc1-8f1e-64a063ba8496.pdf' target='_blank'>Provisionally eligible candidates for the post of fitter  under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/93_820764c2-3e34-4611-be3d-cc9a609f14c1.pdf' target='_blank'>Provisionally In-eligible candidates for the post of fitter  under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/94_90f9ee95-3296-43e8-ab70-ea25c73d1b28.pdf' target='_blank'>Provisionally In-eligible candidates for the post of Mason under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/95_853aade7-dbf7-41bf-a1bd-d23160966451.pdf' target='_blank'>Provisionally eligible candidates for the post of Mason under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/96_846132f5-d636-4924-b071-c0bdc89e17d7.pdf' target='_blank'>Provisionally eligible candidates for the post of Oilman under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/97_8fb31d33-251e-4c4a-b174-53f72795fc82.pdf' target='_blank'>Provisionally In-eligible candidates for the post of Oilman under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/98_63b1a0a5-4e37-4fb1-8259-942c2799973f.pdf' target='_blank'>Provisionally In-eligible candidates for the post of Turner under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/99_e765e4e0-1d8e-4547-8b35-18f74c18a3d1.pdf' target='_blank'>Provisionally eligible candidates for the post of Turner under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/100_7cabeb7a-4b4e-4366-8646-8bf8d2e4806d.pdf' target='_blank'>Provisionally eligible candidates for the post of Winch driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/101_52957f66-bdb6-423b-a51f-201399af2457.pdf' target='_blank'>Provisionally In-eligible candidates for the post of Winch driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</a>
+    <span class='notice-date'>17 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/81_a4a9f192-a736-4760-a0ad-14f7a90395cd.pdf' target='_blank'>Syllabus for the the post of food safety officer, A & N Adminstration</a>
+    <span class='notice-date'>13 Mar 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/76_97ef495c-4ba2-4232-9e54-8e6e832d1134.pdf' target='_blank'>Press Note lists of  Provisionally Eligible and Ineligible candidates for the post of Junior  Investigator (DES & AH) </a>
+    <span class='notice-date'>26 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/77_befb3a96-7e2a-41de-ab1e-f8df8c6030fd.pdf' target='_blank'>Provisionally Ineligible candidates for the post of Junior Investigator ( AH)</a>
+    <span class='notice-date'>26 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/78_c462b357-4eee-4588-8177-6e4c3c550863.pdf' target='_blank'>Provisionally Ineligible candidates for the post of Junior Investigator ( DES)</a>
+    <span class='notice-date'>26 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/75_b45247db-1b85-4b97-880e-68f81d2d12e6.pdf' target='_blank'>Eligible list for the post of Secretarial Assistant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</a>
+    <span class='notice-date'>19 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/71_e5cb2b01-029d-4ed1-b20e-dc4989980bb6.pdf' target='_blank'> Schedule for conduct of Trade Test for various post under  PM  Rashtriya Krishi Vikas Yojana (PM-RKVY)</a>
+    <span class='notice-date'>17 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/72_9b4112d2-3e92-4db2-bc7c-46bab2868286.pdf' target='_blank'>Eligible list for the post of Accountant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</a>
+    <span class='notice-date'>17 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/73_146c3c13-91b3-4b79-beaa-fcac889a88fd.pdf' target='_blank'>In-Eligible list for the post of Accountant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</a>
+    <span class='notice-date'>17 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/74_8b23d6d4-a14e-4d07-9499-4638f8fb04ec.pdf' target='_blank'>In-Eligible list for the post of Secretarial Assistant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</a>
+    <span class='notice-date'>17 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/68_f44ac8fa-3412-4838-b7b7-399b823446bf.pdf' target='_blank'>Press Note - list of Provisionally Eligible & Ineligible candidates for inviting claims/objections from the candidates who have applied for the post of Senior Investigator/ Assistant Statistical Officer</a>
+    <span class='notice-date'>14 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/69_1562b45e-d174-4005-a80c-df969ec14448.pdf' target='_blank'>List of Provisionally Eligible & Ineligible candidates  for the post of Senior Investigator/ Assistant Statistical Officer</a>
+    <span class='notice-date'>14 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/70_2996eb51-2b7a-44b5-a6bc-3da69cf76775.pdf' target='_blank'>List of Ineligible candidates for the post of Senior Investigator/ Assistant Statistical Officer</a>
+    <span class='notice-date'>14 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/eligible candidates for the post of Junior Investigator ( DES).pdf' target='_blank'>Provisionally Eligible candidates for the post of Junior Investigator (AH)</a>
+    <span class='notice-date'>26 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/eligible candidates for the post of Junior Investigator ( AH).pdf' target='_blank'>Provisionally Eligible candidates for the post of Junior Investigator ( DES)</a>
+    <span class='notice-date'>26 Feb 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/67_f0581b64-b355-4fa9-8b20-3d4776112e35.pdf' target='_blank'>Syllabus for recruitment to various Group ‘B’ (Non-Gazetted) and Group ‘C’ posts under the Common Graduate Level (CGL) Examination</a>
+    <span class='notice-date'>02 Jan 2026</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/66_d6dc4cad-3b82-4cf1-9d78-ac8b099f7a4d.docx' target='_blank'>Notice regarding the written test/CBT for the post of Lab Technician (Civil/Mechanical/ECE/HM) and Instructor (Civil/Mech) of DBRAIT on 15.05.2025</a>
+    <span class='notice-date'>20 May 2025</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/65_14bc77c5-6b81-4133-bf75-18fb8fbb34b6.pdf' target='_blank'>Cancellation of Examination for the Post of Instructor (Electrical) under ST Category Scheduled on 15th May 2025</a>
+    <span class='notice-date'>09 May 2025</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/64_fbe80dee-4dc3-4385-9622-d2f8e1ad2f29.pdf' target='_blank'>Press note regarding the personal interview for the Post of Assistant Engineer MGNREGA, C.D Block Little Andaman under South Andaman District </a>
+    <span class='notice-date'>06 May 2025</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/63_69c622a8-5823-4f77-9786-d6fa9eb5b8f3.pdf' target='_blank'>List of eligible candidates for trade test for the post of Physical Training Instructor scheduled on 30/01/2025</a>
+    <span class='notice-date'>24 Jan 2025</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/62_5ca2db01-5be3-4ffd-8b4b-d2a65313033c.pdf' target='_blank'>List of eligible candidates for the post of Heavy Vehicle Driver for the skill test scheduled on 22/01/2025</a>
+    <span class='notice-date'>22 Jan 2025</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/54_4dd100dc-b526-4fbc-b393-8a98e06d1089.pdf' target='_blank'>List of Selected/Provisionally Selected candidates and Waitlisted candidates for the post of Pharmacist Grade III under A&N Health Department</a>
+    <span class='notice-date'>26 Oct 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/53_52983b06-8730-4d5a-955b-772105b8de01.pdf' target='_blank'>List of Shortlisted candidates for Document Verification and related notice to the post of Pharmacist Grade III under AN Health Department</a>
+    <span class='notice-date'>21 Oct 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/52_ffa74b93-8c5c-4d6b-996d-baf96ff60a25.pdf' target='_blank'> Eligible and ineligible candidates for vacancies in various posts in SOVTECH </a>
+    <span class='notice-date'>04 Jul 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/51_48f04d83-433c-41cb-b3b3-cc116182e3ce.pdf' target='_blank'>Press Note of Answer keys for the post of Pharmacist Grade III</a>
+    <span class='notice-date'>15 May 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/49_c4f339fb-87a0-46e0-ab97-263e589709eb.pdf' target='_blank'>Notice regarding uploading the provisional list of candidates for document verification for the post of Senior Investigator / Assistant Statistical Officer </a>
+    <span class='notice-date'>13 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/47_6e8ee1a3-dd35-4159-9e51-43818fe56b67.pdf' target='_blank'>List of candidates for document verification for the post of Senior Investigator / Assistant Statistical Officer </a>
+    <span class='notice-date'>13 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/50_9ddbcc7a-9b49-4cd2-a48b-30d290e9a5dc.pdf' target='_blank'>Notice regarding uploading the provisional list of candidates for document verification for the post of Junior Investigator of Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</a>
+    <span class='notice-date'>13 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/48_cc543478-f9ba-40ab-864f-2353484ce37a.pdf' target='_blank'>List of candidates for document verification for the post of Junior Investigator of Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</a>
+    <span class='notice-date'>13 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/45_00ad774c-5c90-4ee2-8a3e-730205b0c659.pdf' target='_blank'>Notice regarding uploading of subject wise marks of candidate for the post of Senior Investigator/Assistant Statistical Officer</a>
+    <span class='notice-date'>11 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/46_b5824c18-3292-4d0e-a2d0-95bd934f4172.pdf' target='_blank'>Notice regarding uploading of subject wise marks of candidate for the post of Junior Investigator in Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</a>
+    <span class='notice-date'>11 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/44_e740054a-9bbe-4986-8ffc-f8657c65d4d8.pdf' target='_blank'>Memorandum disposal of grievance for the post of Industries Promotion Officer</a>
+    <span class='notice-date'>08 Mar 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/43_43ed84d7-6b7f-4d4d-8c01-7bba36acaedc.pdf' target='_blank'>List of candidates who applied in the year 2018,2019 and 2024 for the post of Pharmacist Grade III under the Health Department</a>
+    <span class='notice-date'>22 Feb 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/42_92eb7b13-5f7e-4b5d-a497-22b61e2e06a7.pdf' target='_blank'>The Merit List, Selection List and Wait List for the post of Health Educator under Health Department</a>
+    <span class='notice-date'>07 Feb 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/41_c6002ce7-f89f-43b4-bce1-189916e43c73.pdf' target='_blank'>Merit Result/Selection List for the Group C Post of (Industrial) Mazdoor in Middle Andaman Forest Division</a>
+    <span class='notice-date'>05 Feb 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/40_4c3c8155-09d9-4644-a3e5-29189f1c20ab.pdf' target='_blank'>The Merit List, Selection List and Wait List for the post of Nursing Officer under Health Department</a>
+    <span class='notice-date'>31 Jan 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/39_b0b0fa37-f704-497c-8c2e-7dd4ef549527.pdf' target='_blank'>Merit list and Select list for recruitment to the post of Librarian (Group C) of Directorate of Industries, Port Blair</a>
+    <span class='notice-date'>19 Jan 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/38_31afc24b-30eb-4a74-bccc-ea52a237ed6b.pdf' target='_blank'>Press release regarding recruitment of Group-C post of Pharmacist in the  establishment Dr B.R. Ambedkar Institute of Technology</a>
+    <span class='notice-date'>18 Jan 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/36_db3c2fc5-b755-4cce-b669-3b003c0b3c3c.pdf' target='_blank'>Merit List, Selection List and Wait List for the post of ANM, Health Worker(Male) and Junior Radiographer cum-Receptionist under Health Department </a>
+    <span class='notice-date'>11 Jan 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/37_a3f1ba04-0442-453a-bd32-6a3be12dc491.pdf' target='_blank'>Corrigendum related to the vacancy notice dated 10.01.2024 for the post of Pharmacist Grade III under A&N Health Department</a>
+    <span class='notice-date'>11 Jan 2024</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/35_e98201af-5fad-498a-82b8-d841db2534e7.pdf' target='_blank'>Merit Wise List of Candidates for Documents Verification for the post of Fisheries Inspector and Assistant Fisheries Development Officer</a>
+    <span class='notice-date'>26 Dec 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/34_9bb8bd38-fc33-4e09-9abb-eb4c577aefaf.pdf' target='_blank'>Rescheduling of CBT for the group-C post 'Pharmacist' in DBRAIT</a>
+    <span class='notice-date'>08 Dec 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/32_980a37cf-275d-4ee2-a0e4-76f0dde48e68.pdf' target='_blank'>Final shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT</a>
+    <span class='notice-date'>30 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/30_b866271c-9609-4cf1-8d20-6ec15f39ee52.pdf' target='_blank'>Press note regarding statement of marks secured by candidates in Computer Based Test conducted for the post of Junior Investigator in Directorate of Economics & Statistics </a>
+    <span class='notice-date'>29 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/31_3f15b91f-ea2e-43d9-b225-0dbc4bc94e87.pdf' target='_blank'>Press note regarding statement of marks secured by candidates in Computer Based Test conducted for the post of Senior Investigator in Directorate of Economics & Statistics </a>
+    <span class='notice-date'>29 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/29_d0239e68-b3e9-42ca-836c-34b9e28e0966.pdf' target='_blank'>Clarification to claims & objections of the candidates against the examination held on 04.09.2023 for the posts of Junior Engineer (Civil)</a>
+    <span class='notice-date'>17 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/28_ced8ba7b-fe77-4a2b-adc6-465cea60eec6.pdf' target='_blank'>Revised answer key for the post of Food Safety Officer. </a>
+    <span class='notice-date'>16 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/27_951b10ef-fab9-49d6-9f27-539d37dcabb5.pdf' target='_blank'>Clarifications with respect to the answer key for the Computer Based Test held from 11.07.2023 to 15.07.2023 for the post of Nursing Officer under DHS</a>
+    <span class='notice-date'>13 Nov 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/26_369f0f4c-4e3d-41fa-b276-75d64896d5f8.pdf' target='_blank'>List of provisionally shortlisted candidates for document verification for the posts of ANM (DHS/AAJVS), Health Educator, Jr. Radiographer-cum-Receptionist and Health Worker Male</a>
+    <span class='notice-date'>30 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/24_eb002730-a8f3-4408-8fbb-9fd67b1496d6.pdf' target='_blank'>Schedule of skilltest - Lab Technician (Science) and Instructor (Mechanical Workshop)</a>
+    <span class='notice-date'>26 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/25_e4577c0d-5027-447a-a1aa-1fce7f735131.pdf' target='_blank'>Clarification to claims and objections received against the Answer keys for the CBT held from 11.07.2023 to 15.07.2023</a>
+    <span class='notice-date'>26 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/23_22e703da-555e-401e-b635-cbb006edcf08.pdf' target='_blank'>The Answer Keys for the Computer Based Test (CBT) re-conducted on  22.9.2023 for recruitment to the post of Senior Investigator /Assistant  Statistical Officer (Group-B, Non-Gazetted) of Directorate of Economics &  Statistics </a>
+    <span class='notice-date'>20 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/22_fc4a4aa0-d95c-4855-87bc-7e6b14cd6295.pdf' target='_blank'>Marks obtained by the candidates in the selection test held on 03.10.2023 for the post of Stenographer/P.A in the establishment of the Circuit Bench of Calcutta High Court at Port Blair</a>
+    <span class='notice-date'>19 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/21_20fbac92-3326-4fd6-8253-6095ccb08760.pdf' target='_blank'>Eligible candidate for skill test scheduled on 01/11/2023  for the post of Lab Technician (Hotel Management) and Lab Technician (Computer)  on contract basis</a>
+    <span class='notice-date'>17 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/21_5ec75981-5b58-4266-b354-42444ba70a19.pdf' target='_blank'>List of candidates eligible for the skill test of the post Lab Technician(Science) and Instructor(Mechanical Workshop) in DBRAIT</a>
+    <span class='notice-date'>07 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/19_b623b21c-3a7a-4587-9b1a-d1522bac84fb.pdf' target='_blank'>Notice for Claims and objections of the Written Examination for the Post of ANM and  Jr. Radiographer-cum- Receptionist</a>
+    <span class='notice-date'>04 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/17_a80612f5-8fed-4123-bba1-e450a6a0ebd7.pdf' target='_blank'>Shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT </a>
+    <span class='notice-date'>03 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/18_4b536b6b-4695-41a3-a028-e81ebb4f5dda.pdf' target='_blank'>Non-shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT</a>
+    <span class='notice-date'>03 Oct 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice13.pdf' target='_blank'>List of eligible, provisionally eligible, and ineligible candidates for the post of Stenographer/P.A. in Circuit Bench of Calcutta High Court at Port Blair</a>
+    <span class='notice-date'>31 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice14.pdf' target='_blank'>List of eligible candidates for the post of Programmer (min 2 years experience) and Programmer (Fresher) in SOVTECH</a>
+    <span class='notice-date'>01 Sep 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice15.pdf' target='_blank'>Select list and panel/wait list for recruitment to the posts of Extension 
+Officer and Panchayat Secretary in the Department of Rural Development and PRIs</a>
+    <span class='notice-date'>01 Sep 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice16.pdf' target='_blank'>Revised list of shortlisted candidates for verification of documents / testimonial for the post of JE (Electricity Department), JE(E&M) (PBMC), Foreman (PMB) & Inspector of Factories (Labour Department)</a>
+    <span class='notice-date'>04 Sep 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice5.pdf' target='_blank'>Response for Claims & Objections of the candidates against the examination held for the recruitment of Junior Engineers (E & M) in June 2023</a>
+    <span class='notice-date'>14 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice7.pdf' target='_blank'>Shortlisted and Non-Shortlisted list for the post of Mukhya Sevika (Three
+days, i.e. 15.08.2023 & 17.08.2023 for inviting claims and objection)</a>
+    <span class='notice-date'>14 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice8.pdf' target='_blank'>Shortlisted and Non-Shortlisted list for the post of Lab Technician (Hotel Management) and Lab Technician (Computer)</a>
+    <span class='notice-date'>24 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice9.pdf' target='_blank'>Notice regarding document verification for the post of Labour Inspector</a>
+    <span class='notice-date'>24 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice10.pdf' target='_blank'>Revised Shortlisted and Non-Shortlisted list for the post of Mukhya Sevika in Directorate of Social Welfare</a>
+    <span class='notice-date'>24 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice11.pdf' target='_blank'>List of shortlisted candidates for verification of documents / testimonial for the post of JE (Electricity Department), JE(E&M) (PBMC), Foreman (PMB) & Inspector of Factories  (Labour Department)</a>
+    <span class='notice-date'>30 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice12.pdf' target='_blank'>Notice for Claims and objection along with Question Paper & Answer Key of the Written Examination for the Post of Labour Inspector, Department of Labour, A&N Administration held on 19-08-2023 at Andaman Law College, Port Blair</a>
+    <span class='notice-date'>31 Aug 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/AS' target='_blank'>Candidate should click on Candidate Corner to register yourself and then apply for various post</a>
+    <span class='notice-date'>30 Apr 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice4.pdf' target='_blank'>List of candidates who have applied during 2020 for the post of Senior Investigator/ Assistant Statistical officer vide vacancy notice dated 30/09/2020 (uploaded in website on 01/10/2020) and provisionally shortlisted have been allotted new Registration number</a>
+    <span class='notice-date'>07 Jul 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice2.pdf' target='_blank'>List of not shortlisted candidates for the post of Lab Technician (Science) in Dr. B. R. Ambedkar Institute of Technology</a>
+    <span class='notice-date'>06 Jul 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice3.pdf' target='_blank'>List of not shortlisted candidates for the post of Instructor(Mechanical Workshop) in Dr. B. R. Ambedkar Institute of Technology</a>
+    <span class='notice-date'>06 Jul 2023</span>
+  </div>
+</li>
+<li class='notice-item'>
+  <span class='notice-dot'></span>
+  <div class='notice-text'>
+    <a href='Notice/Notice1.pdf' target='_blank'>List of eligible candidates for the various posts in the Directorate of Health Services and AAJVS</a>
+    <span class='notice-date'>04 Jul 2023</span>
+  </div>
+</li>
+
+</ul>
+            </div>
+
+        </div>
+        <!-- ══ END LEFT COL ══ -->
+
+        <!-- ══════════════════════════
+             RIGHT COL — Stats only
+        ══════════════════════════ -->
+        <div class="col-lg-4">
+            <div class="stats-panel">
+                  <!-- Archive Advertisement -->
+  <div class="adv-card">
+      <a href="Archiveadv.aspx" style="text-decoration:none; color:inherit;">
+    <div class="adv-card-header archive">
+        <div class="adv-card-header-left">
+            <div class="card-icon"><i class="bi bi-archive-fill"></i></div>
+            <h5>Archive Advertisement</h5>
+        </div>
+        <span class="adv-badge archive-badge">Closed</span>
+    </div>
+</a>
+      <div class="adv-card-body">
+          <div id="ContentPlaceHolder2_Panel1" class="h-100">
+	
+              <span id="ContentPlaceHolder2_Label1"></span>
+          
+</div>
+      </div>
+  </div>
+                <div class="stats-note">
+                    <i class="bi bi-info-circle-fill"></i>
+                    Click on Complete Application count to view Department-wise candidates applied.
+                </div>
+
+                <div class="stat-grid">
+                    <div class="stat-tile t-blue">
+                        <div class="stat-icon"><i class="bi bi-megaphone-fill"></i></div>
+                        <span class="stat-num">
+                            <span id="ContentPlaceHolder2_lbladvertisement">58</span>
+                        </span>
+                        <div class="stat-label">Advertisement</div>
+                    </div>
+
+                    <div class="stat-tile t-orange">
+                        <div class="stat-icon"><i class="bi bi-people-fill"></i></div>
+                        <span class="stat-num">
+                            <a id="ContentPlaceHolder2_lblcandidate" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder2$lblcandidate&#39;,&#39;&#39;)">156261</a>
+                        </span>
+                        <div class="stat-label">Complete Application</div>
+                    </div>
+
+                    <div class="stat-tile t-green">
+                        <div class="stat-icon"><i class="bi bi-briefcase-fill"></i></div>
+                        <span class="stat-num">
+                            <span id="ContentPlaceHolder2_lblpost">427</span>
+                        </span>
+                        <div class="stat-label">Post</div>
+                    </div>
+
+                    <div class="stat-tile t-purple">
+                        <div class="stat-icon"><i class="bi bi-building-fill"></i></div>
+                        <span class="stat-num">
+                            <span id="ContentPlaceHolder2_lbldept">48</span>
+                        </span>
+                        <div class="stat-label">Department</div>
+                    </div>
+                </div>
+
+                <!-- DataGrid — revealed server-side when lblcandidate clicked -->
+                <div class="data-table-wrap" id="deptTableWrap">
+                    
+                </div>
+            </div>
+        </div>
+        <!-- ══ END RIGHT COL ══ -->
+
+    </div>
+    <!-- End row -->
+
+    <!-- Hidden ASP controls (original preserved) -->
+    <div class="row">
+        <div class="col-lg-12">
+            <input name="ctl00$ContentPlaceHolder2$TextBox1" type="text" id="ContentPlaceHolder2_TextBox1" />
+            
+        </div>
+    </div>
+
+</div>
+</div>
+
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+<footer id="footer" role="contentinfo">
+        <div class="container d-md-flex py-4">
+            <div class="me-md-auto text-center text-md-start">
+                <div class="credits">
+                    Designed by <a href="https://sovtech.andaman.gov.in/">SOVTECH</a>
+                    &nbsp;|&nbsp; Andaman &amp; Nicobar Administration
+                    <br />
+                    Site Counter:&nbsp;<span id="lblcounter" class="asp-label">05191434</span>
+                    &nbsp;|&nbsp; Last Modified:&nbsp;<span id="lbllast" class="asp-label">21 Jul, 2026</span>
+                    <br />
+                    Supports:&nbsp;
+                    <span class="bi-browser-firefox">Firefox 121.0+</span>
+                    <span class="bi-browser-chrome">Google Chrome 120.0+</span>
+                    <span class="bi-browser-safari">Safari 17.0+</span>
+                    <span class="bi-browser-edge">Edge 120.0+</span>
+                </div>
+            </div>
+            <div class="ms-md-auto text-center text-md-end mt-3 mt-md-0 d-flex align-items-center justify-content-center justify-content-md-end">
+                <a href="https://guidelines.india.gov.in/" target="_blank" rel="noopener noreferrer" title="Guidelines for Indian Government Websites - External website that opens in a new window">
+                    <img src="Assests/gigw.jpg" alt="Guidelines for Indian Government Websites Logo" style="height: 45px; width: auto; border: 1px solid rgba(255,255,255,0.15); border-radius: 4px;" />
+                </a>
+                
+                    <img src="Assests/w3c.jpg" alt="W3C" style="height: 45px; width: auto; border: 1px solid rgba(255,255,255,0.15); border-radius: 4px;" />
+                
+            </div>
+        </div>
+    </footer>
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"
+       title="Back to Top" aria-label="Back to top">
+        <i class="bi bi-arrow-up-short"></i>
+    </a>
+
+    <!-- VENDOR JS -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <script>
+        /* ── Mobile nav toggle ── */
+        var mobileToggle = document.getElementById('mobileNavToggle');
+        var navbarUl = document.getElementById('navbar-ul');
+        var toggleIcon = mobileToggle ? mobileToggle.querySelector('i') : null;
+
+        if (mobileToggle && navbarUl) {
+            mobileToggle.addEventListener('click', function () {
+                var isOpen = navbarUl.classList.toggle('open');
+                mobileToggle.setAttribute('aria-expanded', isOpen);
+                if (toggleIcon) {
+                    toggleIcon.className = isOpen ? 'bi bi-x-lg' : 'bi bi-list';
+                }
+            });
+        }
+
+        /* ── Close mobile nav when any link is clicked (including Candidate Corner) ── */
+        document.querySelectorAll('#navbar-ul a').forEach(function (a) {
+            a.addEventListener('click', function () {
+                navbarUl.classList.remove('open');
+                mobileToggle.setAttribute('aria-expanded', 'false');
+                if (toggleIcon) toggleIcon.className = 'bi bi-list';
+            });
+        });
+
+        /* ── Close mobile nav when clicking outside ── */
+        document.addEventListener('click', function (e) {
+            if (navbarUl && navbarUl.classList.contains('open')) {
+                if (!navbarUl.contains(e.target) && !mobileToggle.contains(e.target)) {
+                    navbarUl.classList.remove('open');
+                    mobileToggle.setAttribute('aria-expanded', 'false');
+                    if (toggleIcon) toggleIcon.className = 'bi bi-list';
+                }
+            }
+        });
+
+        /* ── Active nav link based on current page ── */
+        var currentPage = window.location.pathname.split('/').pop() || 'Index.aspx';
+        document.querySelectorAll('#navbar-ul a.nav-link').forEach(function (a) {
+            if (a.getAttribute('href') === currentPage) {
+                document.querySelectorAll('#navbar-ul a.nav-link').forEach(function (x) {
+                    x.classList.remove('active');
+                });
+                a.classList.add('active');
+            }
+        });
+
+        /* ── Accessibility: Font size ── */
+        var btnFontSm = document.getElementById('btnFontSm');
+        var btnFontDef = document.getElementById('btnFontDef');
+        var btnFontLg = document.getElementById('btnFontLg');
+        if (btnFontSm) btnFontSm.addEventListener('click', function () { document.documentElement.style.fontSize = '15px'; });
+        if (btnFontDef) btnFontDef.addEventListener('click', function () { document.documentElement.style.fontSize = '17px'; });
+        if (btnFontLg) btnFontLg.addEventListener('click', function () { document.documentElement.style.fontSize = '20px'; });
+
+        /* ── Accessibility: High Contrast ── */
+        var hcBtn = document.getElementById('btnHC');
+        if (hcBtn) {
+            hcBtn.addEventListener('click', function () {
+                document.body.classList.toggle('hc-mode');
+                hcBtn.classList.toggle('active');
+            });
+        }
+
+        /* ── Back to top ── */
+        var btt = document.querySelector('.back-to-top');
+        window.addEventListener('scroll', function () {
+            if (btt) btt.style.display = window.scrollY > 300 ? 'flex' : 'none';
+        });
+        if (btt) btt.style.display = 'none';
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "checkedOn": "2026-09-25",
+  "sourceId": "in-dgt-exam-corner",
+  "authority": "Directorate General of Training, Ministry of Skill Development and Entrepreneurship, Government of India",
+  "indexUrl": "https://www.dgt.gov.in/en/exam-corner",
+  "indexSha256": "f5d76767ff154ec632f6bf4780e983c6c9115368c555dff9936dbcf7e05a40d8",
+  "noticeUrl": "https://www.dgt.gov.in/sites/default/files/2026-08/CITS-RPL-Supplementary-Exam-September-2026.pdf",
+  "noticeSha256": "1a297cde7c028c5ac58418212fad7139be63715032ae60e79dc0c5c430d5d6a5",
+  "ocrText": "dgt-cits-rpl-supplementary-sept-2026.ocr.txt",
+  "ocrTextSha256": "59f2905b1d3da614673767aaf95ac7a3d398be5654994ab30d81eb1174ae6cf1",
+  "pathway": "vocational",
+  "programme": "Craft Instructor Training Scheme Recognition of Prior Learning, All India Trade Test supplementary examination",
+  "sourcePrecision": "The PDF marks activity dates tentative and prints no fee cutoff time.",
+  "feeWindow": { "opensOn": "2026-08-17", "closesOn": "2026-08-21", "cutoffLocalTime": null },
+  "examDates": { "cbt": "2026-09-12", "methodologyPractical": "2026-09-15", "tradePracticalFrom": "2026-09-16", "tradePracticalTo": "2026-09-17" },
+  "plannedResultOn": "2026-09-25",
+  "candidatePool": "Notice page 3 refers to 325 existing 2024-25 supplementary candidates. This is not vacancy count or an open first-time admission pool.",
+  "fee": "Rs 400 per paper per examination, notice page 3.",
+  "outcome": "Notice page 4 describes official result and e-marksheet/e-certificate issue through Skill India Digital Hub; planned result date is not proof of publication.",
+  "internationalEligibility": "Nationality and foreign-citizen eligibility are not stated in this six-page schedule. Prior CITS/RPL admission and recognition rules need review before assessing application, examination or certificate outcome.",
+  "languageRequirement": "No applicant language proficiency level or certificate is stated in this schedule. The notice being in English does not establish an English requirement.",
+  "noticeConflict": "Page 2 contains a sentence calling this the 'March 2026 supplementary exam', while page 1 title and date table and page 2 heading identify September 2026. Hold the edition identity for founder review.",
+  "additionalLead": "The same index links a separate CTS Mains 2026 revised schedule; retained as dgt-cts-revised-schedule-2026.pdf but not converted into this CITS cycle.",
+  "accessGap": "GET https://www.dgt.gov.in/robots.txt and https://dgt.gov.in/robots.txt returned HTTP 403 HTML on 25 September 2026. The collector stops before index or PDF requests. No automated connector or review packet was staged; a permitted official feed or clarified access policy is required.",
+  "remainingQuestions": [
+    "Obtain permitted automated access or founder-approved manual review route for original DGT notices and later revisions.",
+    "Resolve page-two March/September contradiction and check whether fee schedule or result date changed.",
+    "Review initial CITS (RPL) eligibility, foreign-citizen treatment, examination language, certificate recognition and exact candidate admission identity.",
+    "Assess other CITS/CTS/Apprenticeship exam and admission routes separately."
+  ]
+}

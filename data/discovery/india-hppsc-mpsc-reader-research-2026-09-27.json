@@ -1,0 +1,153 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 73,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "registrySourceCountUnchanged": 202,
+  "indiaSourceCountUnchanged": 99,
+  "sourcePresenceJurisdictionsUnchanged": 89,
+  "storagePolicy": "No writes to data/evidence; cap and collection pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-hp-recruitment",
+      "country": "IN",
+      "subdivisionCodes": [
+        "IN-HP"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "documents": [
+        {
+          "url": "https://hppsc.hp.gov.in/Home/",
+          "label": "Current official CMS home and notice navigation",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://hppsc.hp.gov.in/CommonControls/CMSContinuousLinkPagePV?qs=mhlKjiXMMItGo46f60VBXX8%2B1SQ83OzVLj9MfDScpvboDSdMygkK4iLV47Bu%2FJzMpJLanI%2BihrK9p8W6JsSQUgHTy39NyiuO%2BFtbEmiPQyc%3D",
+          "label": "Current advertisements index",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "notCompleteInventory": true
+        },
+        {
+          "url": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUbyy0Z1o%2FJ5mdBZRhOdQiJ2dT4h8rHe34qs%2FBwPNGPmM%3D",
+          "label": "Agriculture Development Officer 63/9-2026",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible-pdf",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "publishedDate": "2026-09-25",
+          "applicationOpening": null,
+          "observedApplicationClose": "2026-10-22",
+          "observedCutoffClock": "23:59",
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "rawAppointmentLabel": "Group-A (Job Trainee)",
+          "permanentTenureEstablished": false,
+          "qualificationSummary": "Four-year BSc Agriculture AND second-class MSc Agriculture; first-class MSc is desirable.",
+          "categorySummary": "All 23 vacancies are wards-of-ex-servicemen backlog posts: 19 UR wards, 3 SC wards, 1 OBC wards. UR is not an unrestricted vacancy.",
+          "nationalityPermission": null,
+          "languageSummary": "Hindi and English knowledge: 20 marks each in selection; HP customs/dialects desirable. No formal level established."
+        },
+        {
+          "url": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDU8OVHeK1TpVx4SlpZJoOUOt5MFxW3W1BbDCF2vzmM4nE%3D",
+          "label": "Medical Officer 62/9-2026",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible-pdf",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "publishedDate": "2026-09-19",
+          "applicationOpening": null,
+          "observedApplicationClose": "2026-10-16",
+          "observedCutoffClock": "23:59",
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "rawAppointmentLabel": "Group-A (Job Trainee)",
+          "permanentTenureEstablished": false,
+          "qualificationSummary": "Medical qualification within notice-referenced statutory schedules AND compulsory rotating internship; foreign qualification recognition needs review.",
+          "nationalityPermission": null,
+          "languageSummary": "Hindi and English knowledge: 20 marks each in selection; HP customs/dialects desirable. No formal level established.",
+          "readerPageCount": 13,
+          "printedBodyPageCount": 12,
+          "paginationReconciliationPending": true
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      },
+      "knownGaps": [
+        "Raw originals and current amendments unretained.",
+        "No affirmative nationality permission established.",
+        "General out-of-state reservation wording cannot override horizontal reservation in the vacancy table.",
+        "Job-trainee scheme does not establish a permanent appointment.",
+        "Notice publication dates are not application openings; printed clock has no established timezone.",
+        "The corrigendum navigation reader exposed no rows; this does not prove no amendments."
+      ]
+    },
+    {
+      "sourceId": "in-mh-recruitment",
+      "country": "IN",
+      "subdivisionCodes": [
+        "IN-MH"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "documents": [
+        {
+          "url": "https://www.mpsc.gov.in/home",
+          "label": "Official home navigation attempt",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-error; browser-navigation-initial-error-followed-by-visible-home",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "redirectedUrl": "https://mpsc.gov.in/home",
+          "observedFooterDate": "2026-09-24"
+        },
+        {
+          "url": "https://mpsc.gov.in/home",
+          "label": "Official home and revised-instructions link",
+          "sourceLanguage": "English interface with Marathi branding",
+          "readerStatus": "browser-accessible; revised-instructions-click-did-not-expose-document",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "noIndividualNoticeRead": true
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      },
+      "knownGaps": [
+        "No current individual notice or revised general-instructions document read.",
+        "Current browser rendering is not scheduled collector health or permission.",
+        "Interface language and recruitment-stage announcements do not establish applicant eligibility."
+      ]
+    }
+  ]
+}

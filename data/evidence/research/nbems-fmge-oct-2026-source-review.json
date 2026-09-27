@@ -1,0 +1,63 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "researchedOn": "2026-09-25",
+  "authority": "National Board of Examinations in Medical Sciences",
+  "pathway": "licensing",
+  "programme": "Foreign Medical Graduate Examination",
+  "cycle": "October 2026",
+  "officialIndex": {
+    "url": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+    "retainedPath": "data/evidence/research/nbems-fmge-index-sept-2026.html",
+    "researchSnapshotSha256": "baf6eb7be6bedfbd6dfb11ffd62e0168fa13f35a96192eed740dbd2b065031c3"
+  },
+  "officialBulletin": {
+    "url": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+    "retainedPath": "data/evidence/research/nbems-fmge-oct-2026-v22.pdf",
+    "sha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+    "pages": 129,
+    "language": "Hindi and English"
+  },
+  "officialApplicationUrl": "https://cdn3.digialm.com//EForms/configuredHtml/1815/100817//Index.html",
+  "access": {
+    "natboardRobots": "HTTP 200; no Disallow lines",
+    "nbeRobots": "HTTP 200; no Disallow lines",
+    "retainedRobotsPaths": [
+      "data/evidence/research/nbems-natboard-robots.txt",
+      "data/evidence/research/nbems-nbe-robots.txt"
+    ]
+  },
+  "findings": [
+    {
+      "field": "applicationWindow",
+      "value": "11 September 2026 at 17:00 to 25 September 2026 at 23:55 IST",
+      "evidence": "Bulletin page 2, Important Dates; official index links this edition and application portal"
+    },
+    {
+      "field": "qualificationCutoff",
+      "value": "Primary medical qualification final result by 31 August 2026",
+      "evidence": "Bulletin section 4.3, page 24"
+    },
+    {
+      "field": "nationality",
+      "value": "Indian citizen or OCI in section 4.1; section 8.7 separately excludes non-OCI foreign nationals other than Nepalese",
+      "evidence": "Bulletin sections 4.1 and 8.7, pages 24 and 63",
+      "conflict": "Do not infer Nepalese non-OCI permission or a positive match. Also do not reject a foreign citizen without checking OCI status. Request NBEMS clarification."
+    },
+    {
+      "field": "language",
+      "value": "MCQ answer options in English only; no general CEFR level",
+      "evidence": "Bulletin section 5.1, page 33; prior admission English marks are separate in section 4"
+    },
+    {
+      "field": "outcome",
+      "value": "Pass certificate after in-person checks, followed by separate medical council registration decision",
+      "evidence": "Bulletin sections 2.17 and 10.11, pages 17 and 92"
+    },
+    {
+      "field": "venues",
+      "value": "Tentative test-city choices; candidate-specific centre not yet known",
+      "evidence": "Bulletin section 7, pages 53 onward; city information and admit cards scheduled later"
+    }
+  ],
+  "coverageLimit": "Only October 2026 FMGE edition extracted. Other FMGE editions, later amendments, Foreign Dental Screening Test and NBEMS examinations remain gaps."
+}

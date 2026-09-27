@@ -1,0 +1,31 @@
+{
+  "notice": "NAV Brasil edital 01/2026, retificado em 08/05/2026",
+  "indexUrl": "https://www.navbrasil.gov.br/acesso-a-informacao/agentes-publicos/concursos/concurso-publico/concurso-nav-brasil-2026/",
+  "organizerUrl": "https://conhecimento.fgv.br/concursos/navbrasil26",
+  "documents": [
+    {
+      "label": "Edital (retificado em 08/05/2026)",
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/edital-01-2026-nav-brasil_retificado_08_05.pdf",
+      "sha256": "c0c17b650c918950bbd724fba0133a0fa3b53362de4ef4abcbcb86871a353dc9"
+    },
+    {
+      "label": "1ª Retificação",
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/1-edital-de-retificacao-nav-brasil-29_04.pdf",
+      "sha256": "de3f2f695cd6a138d594d0e7979241edaec59e78e71ecd6b999c9aeab45112c2"
+    },
+    {
+      "label": "2ª Retificação",
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/2-edital-de-retificacao-nav-brasil-08_05.pdf",
+      "sha256": "05f40d4a465eb856f6ce2e48d9599546c7ebfc14ff128312428f70c5fc5cf53f"
+    }
+  ],
+  "role": "Profissional Técnico de Navegação Aérea — Operador de Torre de Controle",
+  "vacancies": 51,
+  "opensOn": "2026-04-27",
+  "opensAt": "16:00",
+  "closesOn": "2026-05-28",
+  "closesAt": "18:00",
+  "feePaymentClosesOn": "2026-05-29",
+  "feePaymentClosesAt": "23:59",
+  "timeZone": "America/Sao_Paulo"
+}

@@ -1,0 +1,904 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Andhra Pradesh Public Service Commission
+</title>
+    <!-- BEGIN META -->
+    <meta name="keywords" content="APPSC,Andhra Pradesh Public Service Commission,Andhra Pradesh Government Jobs,Government Jobs AP,AP Jobs" /><meta name="description" content="Andhra Pradesh Public Service Commission" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" /><meta http-equiv="X-UA-Compatible" content="chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--<meta name="robots" content="noindex" /><meta name="googlebot" content="noindex" />-->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="0" />
+    <!-- END META -->
+    <!-- BEGIN STYLESHEETS -->
+    <link rel="icon" href="../images/logonew.png" type="image/gif" sizes="16x16" /><link href="../css/bootstrap.min.css" rel="stylesheet" /><link href="../css/styles.css" rel="stylesheet" type="text/css" /><link href="../css/font-awesome.css" rel="stylesheet" type="text/css" />
+
+    
+
+    <style type="text/css">
+        body {
+            font-family: "Helvetica Neue", Arial, Helvetica, sans-serif,Arial,sans-serif !important;
+        }
+
+        .text_a ul li a {
+            font-size: 12px;
+            font-weight: bold;
+            color: #000 !important;
+        }
+        #liSignOUt:hover .popupMenu{
+            display:block !important;
+        }
+        .dropdown-menu .dropdown-item {
+            color: #fff !important;
+             font-size:14px;
+        }
+        .dropdown-menu .dropdown-item:hover {
+            font-size:14px;
+            color: #fff !important;
+        }
+        .navbar-nav .nav-link {
+            color: #fff !important;
+        }
+
+        .nav-link {
+            font-size: 14px !important;
+        }
+
+        a {
+            text-decoration: none !important;
+        }
+
+        .head_text span {
+            font-weight: bold;
+            color: #0574A8;
+        }
+
+        }
+    </style>
+
+
+
+    
+    
+    <script type="text/javascript">
+        $(function () {
+            $("#li1").mouseenter(function () {
+                $(".popupMenu").fadeIn();
+            });
+            $(".container-fluid").mouseleave(function () {
+                $(".popupMenu").fadeOut();
+            });
+
+            $(".treeview").hummingbird();
+
+
+            // collapse all nodes
+            $(".treeview").hummingbird("collapseAll");
+
+            $.fn.hummingbird.defaults.checkboxesGroups = "disabled";
+            $.fn.hummingbird.defaults.checkboxes = "disabled";
+
+            // End Treeview
+        });
+    </script>
+    <style type="text/css">
+        .popupMenu {
+            position: absolute;
+            z-index: 9999;
+            min-width: 330px;
+            padding: 10px 10px;
+            margin: 2px 0 0;
+            font-size: 14px;
+            list-style: none;
+            background-color: #0574A8;
+            border: 1px solid #ccc;
+            border: 1px solid rgba(0,0,0,0.15);
+            border-radius: 4px;
+            -webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+            background-clip: padding-box;
+            font-size: 11px;
+            font-weight: bold;
+            margin-left: -150px;
+            color: #fff;
+        }
+
+        .popup_text {
+            color: #fff;
+        }
+
+        ul li {
+            position: relative;
+        }
+
+        .popupMenu {
+            display: none;
+        }
+
+        .header_top {
+            background: #EE8A25;
+            padding-top: 2px;
+            position: relative;
+            height: 30px;
+            border-bottom: 1px solid #E97107;
+        }
+
+        .toplinks {
+            margin-top: 5px;
+            margin-right: 8px;
+        }
+
+            .toplinks a {
+                padding: 0px 10px;
+                margin-left: 4px;
+                margin-top: 0px;
+                float: left;
+                color: #003658;
+                border-radius: 3px;
+                font-size: 13px;
+            }
+
+        .footerlinks {
+            text-align: center;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 7px;
+        }
+
+            .footerlinks a {
+                color: #fff;
+                margin-left: 26px;
+                margin-top: 8px;
+                font-size: 12px;
+            }
+
+        #imgRefresh {
+          /*  position: relative;
+            left: 80px;*/
+            width: 30px;
+          /*  top: 2px;*/
+        }
+
+        #captchaContainer img {
+            border: 1px solid #2872ab;
+            padding: 0px 5px;
+           /* margin-left: 75%;*/
+            border-radius: 3px;
+            height: 34px;
+            width:100%;
+            float:left;
+        }
+    </style>
+    <noscript>
+        <style type="text/css">
+            * {
+                display: none;
+                visibility: hidden;
+            }
+        </style>
+        <meta http-equiv="refresh" content="0;url=../ErrorPage.aspx?ErrorCode=js" />
+    </noscript>
+</head>
+<body>
+
+    
+    <form method="post" action="./RecruitmentNotifications" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="21FWn6B91cKTGVXl2d3v6HJIU+fhjPJLqlq2mOnFgHzmQr/O32RgVzv8UhoWRUD4D1ulkud4WMXbz3n6OKoX4qZWZ0lZD5oW/QODklUcN0IKlKk/ZfRiswqkGriRKwpjoBMfvzze+A7CuspQ83SevlUzCSo=" />
+
+
+<script src="../Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5249E941" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+        
+
+        <div class="contextmenu">
+            <div class="header_top">
+                <div class="container-fluid">
+                    <div class="toplinks">
+                        <a href="#" id="btn-decrease">A-</a> <a href="#" id="btn-orig">A</a> <a href="#"
+                            id="btn-increase">A+</a> <a href="#" class="color" style="background: #000; color: #fff;">A</a> <a href="#" class="nocolor" style="color: #0b64ab; background: #fff">A</a>
+                        <a href="#menuskiper">Skip Header</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row topheader" style="margin: 0px; background: linear-gradient(46deg, #00436f 64%, #0873b9 24%);">
+                <div class="containe">
+                    <div class="row" style="margin: 0px">
+                        <div class="col-xs-12 col-sm-12" style="margin-top: 6px;">
+                            <img src="../images/logonew.png" class="img-responsive imglogo" style="width: auto; float: left;"
+                                alt="APPSC LOGO" />
+                            <h1 class="logotext" style="color: white; font-weight: bold; font-size: 28px; margin-top: 27px;">ANDHRA PRADESH PUBLIC SERVICE COMMISSION</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                <div class="container-fluid">
+
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="../Default.aspx">Home</a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Organisation
+                                </a>
+                                <ul class="dropdown-menu">
+
+                                    <li><a class="dropdown-item" href="../HomePages/Aboutus.aspx">About Us</a></li>
+                                    <li><a class="dropdown-item" href="../HomePages/ContactUs.aspx">Contact Us</a></li>
+                                    <li><a class="dropdown-item" href="../HomePages/History.aspx">History</a></li>
+                                    <li><a class="dropdown-item" href="../HomePages/Positionunderconstitution.aspx">Position Under Constitution</a></li>
+                                    <li><a class="dropdown-item" href="../HomePages/Regulations.aspx">Regulations</a></li>
+                                    <li><a class="dropdown-item" href="https://psc.ap.gov.in/Documents/MISCELLANEOUS/645.pdf" target="_blank">Commission Meetings</a></li>
+                                    <li><a class="dropdown-item" href="../HomePages/PresentCommission.aspx">Present Commission</a></li>
+                                    <li><a class="dropdown-item" href="https://psc.ap.gov.in/Documents/PresentCommission/Secretaryandotherhigherofficials_16102025.pdf" target="_blank">Secretary and Other Higher Officials</a></li>
+
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="https://psc.ap.gov.in/Documents/General faq.pdf" target="_blank">FAQ's</a>
+                            </li>
+
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Reprints
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                    <li>
+                                        
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li id="li1" class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="https://portal-psc.ap.gov.in/LoginApplication/UserRegistration/RecoverOTPR">Recover OTPR</a>
+                                
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">User Manuals
+                                </a>
+                                <ul class="dropdown-menu">
+
+                                    <li>
+                                        <a class="dropdown-item" href="https://psc.ap.gov.in/UserManuals/DirectRecruitmentOTPRUserManual.pdf" target="_blank">Direct Recruitment OTPR User Manual</a>
+                                        <a class="dropdown-item" href="https://psc.ap.gov.in/UserManuals/DeptOTPRUserManual.pdf" target="_blank">Departmental OTPR User Manual</a>
+                                        <a class="dropdown-item" href="https://psc.ap.gov.in/UserManuals/OthersOTPRUserManual.pdf" target="_blank">Others OTPR User Manual</a>
+                                        <a class="dropdown-item" href="https://psc.ap.gov.in/UserManuals/UserManualforApplicationSubmissionandFeePaymentProcess.pdf" target="_blank">Fee Payment  User Manual</a>
+                                    </li>
+
+                                </ul>
+                            </li>
+
+                            <li id="liLogin" class="nav-item">
+                              
+                                  <a class="nav-link active" aria-current="page" href="https://portal-psc.ap.gov.in/LoginApplication">Login</a>
+                            </li>
+
+                            
+
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+
+            <div class="inner_page_content" style="margin: 0px;">
+                <div class="container-fluid" style="padding: 0;">
+                    <div class="row" style="margin: 0;">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="mainbody" style="min-height: 400px; background: #fbf9d0; padding-bottom: 10px; margin-bottom: 30px; overflow: hidden;">
+                                <div class="col-xs-12 col-md-12 col-sm-12" style="padding: 0;">
+                                    <div class="row finalborder" style="margin: 0px; padding: 10px 0px; margin-bottom: 5px; border: 1px solid #686d71;">
+                                        
+    <div class="row inner_page_content" style="margin: 0px;">
+        <div class="container  ">
+            <div class="row" style="margin: 0px;">
+                <div class="col-xs-12">
+                    <b><a class="back-link" href="javascript:history.go(-1)"><font size="2" color="blue">( Back )</font> </a></b>
+                    <h2 class="main_heading" style="margin-top: 20px;">Recruitment Notifications
+                    </h2>
+                </div>
+                <div class="col-xs-12 col-sm-8 text_a" style="width: 100%;">
+                    <ul type="square">
+
+
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf" target="_blank">
+                                <span>Notification No.16/2026 , Dated:15/09/2026 - Notification to the Post of Forest Range Officers in A.P. Forest Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Beat_Officer_182026.pdf" target="_blank">
+                                <span>Notification No.18/2026 , Dated:15/09/2026 - Notification to the Post of Forest Beat Officer in A.P. Forest Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Draughtsman_Grade_II_152026.pdf" target="_blank">
+                                <span>Notification No.15/2026 , Dated:15/09/2026 - Notification to the Post of Draughtsman Grade-II (Technical Assistant) In A.P. Forest Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Section_Officer_172026.pdf" target="_blank">
+                                <span>Notification No.17/2026 , Dated:15/09/2026 - Notification to the Post of Forest Section Officer in A.P. Forest Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supervisor_Grade_I_132026.pdf" target="_blank">
+                                <span>Notification No.13/2026 , Dated:15/09/2026 - Notification to the Post of Supervisor Grade - I in A.P. Women Development And Child Welfare Sub – Ordinate Service (Only For Women) (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Industrial_Promotion_Officer_242026.pdf" target="_blank">
+                                <span>Notification No.24/2026 , Dated:15/09/2026 - Notification to the Post of Industrial Promotion Officers in A.P. Industries Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/DPO_IPO_122026.pdf" target="_blank">
+                                <span>Notification No.12/2026 , Dated:15/09/2026 - Notification to the Post of District Probation Officer, Grade-II/Intake Probation Officer In A.P. Juvenile Welfare Correctional Sub Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Executive_Officer_Grade_III_232026.pdf" target="_blank">
+                                <span>Notification No.23/2026 , Dated:15/09/2026 - Notification to the Post of Executive Officer Grade- III in A.P. Endowments Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/English_Telugu_Reporters_222026.pdf" target="_blank">
+                                <span>Notification No.22/2026 , Dated:15/09/2026 - Notification to the Post of English Reporters and Telugu Reporters in A.P. Legislature Services (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Analyst_Grade_II_212026.pdf" target="_blank">
+                                <span>Notification No.21/2026 , Dated:15/09/2026 - Notification to the Post of Analyst Grade-II in A.P. Pollution Control Board (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Inspector_of_Factories_142026.pdf" target="_blank">
+                                <span>Notification No.14/2026 , Dated:15/09/2026 - Notification to the Post of Inspector Of Factories in A.P. Factories Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AD_Tribal_Welfare_102026.pdf" target="_blank">
+                                <span>Notification No.10/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Director in A.P. Tribal Welfare State Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AD_Economics_Statistical_092026.pdf" target="_blank">
+                                <span>Notification No.09/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Director in A.P. Economics And Statistical Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Statistical_Officer_202026.pdf" target="_blank">
+                                <span>Notification No.20/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Statistical Officer in A.P. Economics & Statistical Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Social_Welfare_262026.pdf" target="_blank">
+                                <span>Notification No.26/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Social Welfare Officer in A.P. Social Welfare Service and Assistant Tribal Welfare Officer In A.P. Tribal Welfare Services (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/HostelWelfare_Grade_II_252026.pdf" target="_blank">
+                                <span>Notification No.25/2026 , Dated:15/09/2026 - Notification to the Post of Hostel Welfare Officer Grade –II in A.P. Social Welfare, Tribal Welfare and Backward Classes Welfare Subordinate Services (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AD_FSL_112026.pdf" target="_blank">
+                                <span>Notification No.11/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Director In (Forensic Engineering / Physics / Chemistry / Biology) In A.P. State Forensic Science Laboratory Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Horticulture_192026.pdf" target="_blank">
+                                <span>Notification No.19/2026 , Dated:15/09/2026 - Notification to the Post of Horticulture Officer In A.P. Horticulture Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_072026.pdf" target="_blank">
+                                <span>Notification No.07/2026 , Dated:15/09/2026 - Notification to the Post of Group-I Services For Various Categories Of Posts (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AEE_082026.pdf" target="_blank">
+                                <span>Notification No.08/2026 , Dated:15/09/2026 - Notification to the Post of Assistant Environmental Engineer In A.P. Pollution Control Board (General Recruitment)</span></a>
+                        </li>
+
+                        
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/WelfareOrganiser_Notification_292025_24092025.pdf" target="_blank">
+                                <span>Notification No.29/2025 , Dated:24/09/2025 - Notification to the Post of Welfare Organiser in A.P Sainik Welfare Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/ZSWO_Notification_282025_2409205.pdf" target="_blank">
+                                <span>Notification No.28/2025 , Dated:24/09/2025 - Notification to the Post of Zilla Sainik Welfare Officer in Sainik Welfare Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/JAO_SA_JA_Notification_272025_24092025.pdf" target="_blank">
+                                <span>Notification No.27/2025 , Dated:24/09/2025 - Notification to the Various Posts Under A.P. Municipal Accounts Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/IF_Notification_262025_24092025.pdf" target="_blank">
+                                <span>Notification No.26/2025 , Dated:24/09/2025 - Notification to the Post of Inspector of Factories in A.P Factories Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/RI_Notification_252025_24092025.pdf" target="_blank">
+                                <span>Notification No.25/2025 , Dated:24/09/2025 - Notification to the Post of Royalty Inspector in A.P Mines & Geology Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Warden_Notification_242025_24092025.pdf" target="_blank">
+                                <span>Notification No.24/2025 , Dated:24/09/2025 - Notification to the Post of Warden, Grade-I in Welfare of Differently Abled, Transgender and Senior Citizens Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AIF_Notification_232025_24092025.pdf" target="_blank">
+                                <span>Notification No.23/2025 , Dated:24/09/2025 - Notification to the Post of Assistant Inspector of Fisheries in A.P Fisheries SubordinateService (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/JrOfficeAsst_Notification_222025_24092025.pdf" target="_blank">
+                                <span>Notification No.22/2025 , Dated:24/09/2025 - Notification to the Post of Junior Office Assistant in A.P Director General of Prisons and Correctional Service Under Group-IV Services (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AMVI_Notification_212025_24092025.pdf" target="_blank">
+                                <span>Notification No.21/2025 , Dated:24/09/2025 - Notification to the Post of Assistant Motor Vehicle Inspector in A.P Transport Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AE_Notification_202025_24092025.pdf" target="_blank">
+                                <span>Notification No.20/2025 , Dated:24/09/2025 - Notification to the Post of Assistant Engineer in Various Engineering Subordinate Services (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/HorticultureOffier_182025_16092025.pdf" target="_blank">
+                                <span>Notification No.18/2025 , Dated:16/09/2025 - Notification to the Post of Horticulture Officer in A.P Horticulture Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AEE_172025_16092025.pdf" target="_blank">
+                                <span>Notification No.17/2025 , Dated:16/09/2025 - Notification to the Post of Assistant Executive Engineer (Civil) In Rural Water Supply and Sanitation Engineering Services (General / Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Draughtsman_162025_16092025.pdf" target="_blank">
+                                <span>Notification No.16/2025 , Dated:16/09/2025 - Notification to the Post of Draughtsman Grade-II (Technical Assistant) In A.P Forest Subordinate Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/HWO_Notification_152025_16092025.pdf" target="_blank">
+                                <span>Notification No.15/2025 , Dated:16/09/2025 - Notification to the Post of Hostel Welfare Officer, Grade–II (Women) In A.P.B.C Welfare Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/JL_LibraryScience_142025_16092025.pdf" target="_blank">
+                                <span>Notification No.14/2025 , Dated:16/09/2025 - Notification to the Post of Junior Lecturer in Library Science in A.P Intermediate Education Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/ThanedarNotification_132025_09092025.pdf" target="_blank">
+                                <span>Notification No.13/2025, Dated:09/09/2025 - Notification to the Post of Thanedar in A.P Forest Subordinate Service (General Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/GeophysicsNotification_112025_12082025.pdf" target="_blank">
+                                <span>Notification No.11/2025, Dated:12/08/2025 - Notification to the Post of Technical Assistant (Geophysics) In A.P. Ground Water Subordinate Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/EndowmentNotification_102025_12082025.pdf" target="_blank">
+                                <span>Notification No.10/2025, Dated:12/08/2025 - Notification to the Post of Executive Officer Grade-III In A.P.Endowments Subordinate Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AGRICULTUREOFFICER_092025_12082025.pdf" target="_blank">
+                                <span>Notification No.09/2025, Dated:12/08/2025 - Notification to the Post of Agriculture Officer In A.P. Agriculture Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/FSONotification_072025_22072025.pdf" target="_blank">
+                                <span>Notification No.07/2025, Dated: 22/07/2025 - Notification to the Post of Forest Section Officer In A.P. Forest Subordinate Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/FBO_ABO_Notification_14072025.pdf" target="_blank">
+                                <span>Notification No.06/2025, Dated:14/07/2025 - Notification to the Post of Forest Beat Officer and Assistant Beat Officer In A.P. Forest Subordinate Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/FDONotification_06032024.pdf" target="_blank">
+                                <span>Notification No.13/2024, Dated:06.03.2024 - Fisheries Development Officer in A.P. Fisheries Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/FRONotification_06032024.pdf" target="_blank">
+                                <span>Notification No.11/2024, Dated:06.03.2024 - Forest Range Officers in A.P. Forest Service (General Recruitment) </span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/ASONotification_06032024.pdf" target="_blank">
+                                <span>Notification No .12/2024, Dated:06.03.2024 - Assistant Statistical Officer in A.P. Economics & Statistical Subordinate Service (Limited Recruitment)</span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AEINotification_06032024.pdf" target="_blank">
+                                <span>NotificationNo.10/2024, Dated:06.03.2024 - Assistant Electrical Inspector in A.P. Electrical Inspectorate Service (General/Limited Recruitment)</span></a>
+                        </li>
+
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Analyst_Grade_II_Notification_No_02_2024_dt09022024.pdf" target="_blank">
+                                <span>Notification No.02/2024, Dated:09.02.2024 - Notification to the post of Analyst Grade-II in A.P. Pollution Control Board (General Recruitment) </span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/ADTP_Notification_No_03_2024_dt09022024.pdf" target="_blank">
+                                <span>Notification No.03/2024, Dated:09.02.2024 - Notification to the post of Assistant Director in A.P. Town and Country Planning Service (General/Limited Recruitment)</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Librarians_in_MHNotification_No_04_2024dt09022024.pdf" target="_blank">
+                                <span>Notification No.04/2024, Dated:09.02.2024 - Notification to the post of Librarian in Medical and Health Subordinate Service(General Recruitment)</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/ATWO_Notification_No_05_2024_dt09022024.pdf" target="_blank">
+                                <span>Notification No.05/2024, Dated:09.02.2024 - Notification to the post of Assistant Tribal Welfare Officer in A.P. Tribal Welfare Service (General Recruitment)</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AD_in_Welfare_Notification_No_06_2024_dt09022024.pdf" target="_blank">
+                                <span>Notification No.06/2024, Dated:09.02.2024 - Notification to the post of Assistant Director in Welfare of Differently Abled,Transgender and Senior Citizens Service (General/Limited Recruitment) </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Asst_ChemistNotification_No_07_2024_dt09022024.pdf" target="_blank">
+                                <span>Notification No.07/2024, Dated:09.02.2024 - Notification to the post of Assistant Chemist in A.P. Ground Water Services (Limited Recruitment)</span>
+                            </a>
+                        </li>
+
+
+                        <li>
+                            <a href="RecruitmentNotifications_Detailed_Breakup_Documents.aspx">
+                                <span>Notification No.17/2023, Dated: 30/12/2023 - Notification for the post of Lecturers in Government Degree Colleges in A.P. Collegiate Education Service (General Recruitment)  </span></a>
+                        </li>
+
+                        <li>
+                            <a href="RecruitmentNotifications_Detailed_Breakup_Documents.aspx">
+                                <span>Notification  No.16/2023, Dated: 28/12/2023 - Notification for the post of Junior Lecturers in Government Junior Colleges in A.P. Intermediate Education Service (Limited Recruitment) </span></a>
+                        </li>
+
+                        <li>
+                            <a href="RecruitmentNotifications_Detailed_Breakup_Documents.aspx">
+                                <span>Notification No.15/2023, Dated: 26/12/2023 - Notification for the post of Assistant Environmental Engineer in A.P Pollution Control Board (General Recruitment) </span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Notification_142023_22122023.pdf" target="_blank">
+                                <span>Notification No.14/2023, Dated: 22/12/2023 - Deputy Educational Officer in A.P Education Service (General Recruitment) </span></a>
+                        </li>
+
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Polytechnic Lecturers- Notifn. No.13_2023_21122023.pdf" target="_blank">
+                                <span>Notification No.13/2023, Dated: 21/12/2023 - Lecturers in Government Polytechnic Colleges (Engineering and Non-Engineering) in A.P Technical Education Service</span></a>
+                        </li>
+                        <li>
+                            <a href="RecruitmentNotifications_Detailed_Breakup_Documents.aspx"><span>Notification No.12/2023, Dated.08/12/2023 -  Group-I Services</span></a>
+
+                        </li>
+
+                        <li>
+                            <a href="RecruitmentNotifications_Detailed_Breakup_Documents.aspx"><span>Notification No.11/2023, Dated.07/12/2023 -  Group-II Services</span></a>
+
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AMVI Suppl_Notification 2023_082023_16082023.pdf" target="_blank"><span>Notification No.08/2023,Dt.16.08.2023 - Supplemental Notification for Assistant Motor Vehicle Inspector in A.P. Transport Subordinate Service</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/12_2022.pdf" target="_blank"><span>Notification No.12/2022, Date.30/09/2022 -  Assistant Motor Vehicle Inspector in A.P. Transport Subordinate Service</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/PL approved Notification with Annexture-V_042023_210423.pdf" target="_blank"><span>Notification No.04/2023, Date.20/04/2023 -  Supplemental  Notification for Lecturers in Government Polytechnic Colleges (Engineering & Non-Engineering) in A.P.Technical Education Service</span></a>
+                        </li>
+
+                        <li>
+                            <a href="GroupI_28_2022.aspx"><span>Notification No.28/2022, Date.30/09/2022 -  Group-I Services</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/25_2022.pdf" target="_blank"><span>Notification No.25/2022, Date.17/10/2022 -  Computer Draughtsman Grade-II in A.P. Survey and Land Records Subordinate Service</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/21_2022.pdf" target="_blank"><span>Notification No.21/2022, Date.17/10/2022 -  Forest Range Officers in A.P. Forest Service</span></a>
+                        </li>
+
+                        
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Group 4 limited 2022.pdf" target="_blank"><span>Notification No.06/2022, Date.26/09/2022 -  Various posts under Group - IV services</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Non Gazzett (09 post codes) 2022 (1).pdf" target="_blank"><span>Notification No.11/2022, Date.26/09/2022 -  various Non-Gazetted</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supplemental Notification 142022 to Notification 142021 (1).pdf" target="_blank"><span>Notification No.14/2022, Date.28/09/2022 -  Supplemental Notification for Lecturers /Assistant Professors (Ayurveda)in Dr.NRSGAC in Ayush Department</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supplemental Notification 152022 to Notification 152021.pdf" target="_blank"><span>Notification No.15/2022, Date.28/09/2022 -  Supplemental Notification for Lecturers /Assistant Professors (Homoeo) in Ayush Department</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supplemental Notification 162022 to Notification No082021.pdf" target="_blank"><span>Notification No.16/2022, Date.24/09/2022 -  Supplemental Notification for Medical Officers ( Ayurveda) in Ayush Department</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supplemental Notification 172022 to Notification No092021.pdf" target="_blank"><span>Notification No.17/2022, Date.24/09/2022 -  Supplemental Notification for Medical Officers ( Homoeo) in Ayush Department</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Supplemental Notification 182022 to Notification No102021.pdf" target="_blank"><span>Notification No.18/2022, Date.24/09/2022 -  Supplemental Notification for Medical Officers ( Unani) in Ayush Department</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AEE approved Notifn. 2022.pdf" target="_blank"><span>Notification No.19/2022, Date.28/09/2022 -  Notification for Assistant Executive Engineers in various Engineering Services</span></a>
+                        </li>
+                        <li>
+                            <a href="https://psc.ap.gov.in/Documents/NotificationDocuments/CAS approved  in Insurance medi ser 2022 (1).pdf" target="_blank"><span>Notification No.20/2022, Date.28/09/2022 -  Notification for Civil Assistant Surgeon in A.P. Insurance Medical Services</span></a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="CareerAdvancementScheme.aspx"><span
+                                class="blink_me_MockTest1">Notification No.07/2022, Date.19/05/2022 - Career Advancement Scheme</span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/04_2022.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.04/2022, Date.18/04/2022 - Assistant Conservator of Forests in A.P. Forest Service </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/23_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.23/2021, Date.28/12/2021 - Junior Assistant Cum Computer Assistant In A.P. Revenue Department (Group IV) </span></a>
+                        </li>
+
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/24_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.24/2021, Date.28/12/2021 -   Executive Officer Grade-III in A.P.Endowments Sub-Service </span></a>
+                        </li>
+
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Gazetted_Notification_17112021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.19/2021, Date.16/11/2021 - Various Gazetted Posts   </span></a>
+                        </li>
+
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/21_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.21/2021, Date.08/11/2021 - Extension Officer Grade-I (Supervisor) in A.P. Women Development and Child Welfare Sub – Ordinate Service </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/20_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.20/2021, Date.12/10/2021 - Various Non-Gazetted Posts  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/11_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.11/2021, Dt.07/10/2021 - Assistant Engineers in various Engineering Sub Services  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/AD IN SURVEY and LAND RECORDS_16_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.16/2021, Dt.30/09/2021 - Assistant Director  in A.P. Survey & Land Records Service  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/DPRO_17_2021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.17/2021,  Dt.30/09/2021 -  District Public Relation Officers in A.P. Information Service  </span></a>
+                        </li>
+
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Horticulture Offier-28092021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 12 /2021, Dt.28/09/2021 Direct Recruitment To The Post Of Horticulture Officer In A.P. Horticulture Service  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Telugu Reporters-Revised _30092021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 13/2021, Dt.28/09/2021 Direct Recruitment To The Post Of Telugu Reporters In A.P.Legislature Service </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Lecturers(Ayurveda) in DR.NRSGAC-converted (1).pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 14/2021, Dt.28/09/2021 Direct Recruitment To The Post Of Lecturers/ Assistant Professors (Ayurveda) In Dr.Nrs Gac In Ayush Department  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Lecturers in Homoeo-28092021.pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 15 /2021, Dt.28/09/2021 Direct Recruitment To The Post Of Lecturers/ Assistant Professors In Homoeo In Ayush Department </span></a>
+                        </li>
+
+
+
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Medical officer( Ayurveda ).pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 08/2021, Dt.24/09/2021 Direct Recruitment To The Post Of Medical Officer (Ayurveda) In Ayush Department </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Medicalofficer(Homoeopthy).pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No.09/2021, Dt,24/09/2021 Direct Recruitment To The Post Of Medical Officer (Homoeopathy) In Ayush Department  </span></a>
+                        </li>
+                        <li><a href="https://psc.ap.gov.in/Documents/NotificationDocuments/Medicalofficer(Unani).pdf" target="_blank"><span
+                            class="blink_me_MockTest1">Notification No. 10/2021, Dt. 24/09/2021 Direct Recruitment To The Post Of Medical Officer (Unani) In Ayush Department  </span></a>
+                        </li>
+
+                        <li><a href="Old Information.aspx"><span
+                            class="blink_me_MockTest1">2018-2019 Notifications </span></a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="clearfix">
+            </div>
+            <div class="clearfix">
+            </div>
+            <div class="footer">
+                <div class="container-fluid">
+                    <div class="col-md-12 footerlinks">
+                        <a href="javascript:void(0)" class="footer_newlinks">Site Map</a> <a href="javascript:void(0)" class="footer_newlinks">Privacy
+                    Policy</a> <a href="javascript:void(0)" class="footer_newlinks">Terms &amp; Conditions</a> <a href="../HomePages/Disclaimer.aspx"
+                        class="footer_newlinks">Disclaimer</a> <a href="javascript:void(0)" class="footer_newlinks">Accessibility</a>
+                        <a href="javascript:void(0)" class="footer_newlinks">Faq's</a> <a href="javascript:void(0)" class="footer_newlinks">Help</a>
+                        <a href="javascript:void(0)" target="_blank" class="footer_newlinks">Feedback</a>
+                    </div>
+                    <div class="col-xs-12 col-sm-12" style="padding-top: 0px;">
+                        <p style="font-size: 14px; margin-top: 10px; margin-bottom: 5px;">
+                            Designed &amp; Developed by
+                        <img src="/images/aponline-logo.png" alt="No image found" />
+                            <span style="float: right;">Site Maintained By Information Systems Wing APPSC</span>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+            <script src="../js/jquery-3.7.1.min.js"></script>
+            <script src="../js/bootstrap.bundle.min.js"></script>
+            
+            <script src="../js/SessionTimeout.js" type="text/javascript"></script>
+            <script src="../js/commonscripts.js" type="text/javascript"></script>
+            <link href="../css/hummingbird-treeview.css" rel="stylesheet" type="text/css" />
+            <script src="../js/hummingbird-treeview.js" type="text/javascript"></script>
+            
+        </div>
+    </form>
+    <script type="text/javascript">
+        // Disable right-click
+        document.addEventListener('contextmenu', (e) => e.preventDefault());
+
+        function ctrlShiftKey(e, keyCode) {
+            return e.ctrlKey && e.shiftKey && e.keyCode === keyCode.charCodeAt(0);
+        }
+
+        document.onkeydown = (e) => {
+            // Disable F12, Ctrl + Shift + I, Ctrl + Shift + J, Ctrl + U
+            if (
+                event.keyCode === 123 ||
+                ctrlShiftKey(e, 'I') ||
+                ctrlShiftKey(e, 'J') ||
+                ctrlShiftKey(e, 'C') ||
+                (e.ctrlKey && e.keyCode === 'U'.charCodeAt(0))
+            )
+                return false;
+        };
+
+        //        function DisableBackButton() {
+        //            window.history.forward();
+        //        }
+
+        //        DisableBackButton();
+        //        window.onload = DisableBackButton;
+        //        window.onpageshow = function (evt) { if (evt.persisted) DisableBackButton() }
+        //        window.onunload = function () { void (0) }
+
+        //document.addEventListener('contextmenu', event => event.preventDefault());
+
+        //$(document).keydown(function (e) { return 123 !== e.which && ((!e.ctrlKey || !e.shiftKey || 73 !== e.which && 67 !== e.which && 74 !== e.which) && void 0) });
+    </script>
+    <script type="text/javascript">
+
+        $(function () {
+            $('.carousel').carousel({
+                interval: 4000
+            });
+        });
+        $('.navbar .dropdown').hover(function () {
+            $(this).find('.dropdown-menu').first().stop(true, true).slideDown(150);
+        }, function () {
+            $(this).find('.dropdown-menu').first().stop(true, true).slideUp(105)
+        });
+
+        //        $(document).ready(function () {
+        //            $("button.collapsed").click(function () {
+        //                $(".collapse").slideToggle();
+        //            });
+        //        });
+
+    </script>
+    <script type="text/javascript">
+
+        var $affectedElements = $("*");
+        $affectedElements.each(function () {
+            var $this = $(this);
+            $this.data("orig-size", $this.css("font-size"));
+        });
+
+        $("#btn-increase").click(function () {
+
+            $("p, a, li, td, th, span, label").css("font-size", "15px");
+
+            $("h1, h2, h3, h4, h5, h6").css("font-size", "17px");
+
+        })
+
+        $("#btn-decrease").click(function () {
+            $("p, a, li, td, th, span, label").css("font-size", "12px");
+
+            $("h1, h2, h3, h4, h5, h6").css("font-size", "15px");
+        })
+
+        $("#btn-orig").click(function () {
+            $affectedElements.each(function () {
+                var $this = $(this);
+                $this.css("font-size", $this.data("orig-size"));
+            });
+        })
+
+        function changeFontSize(direction) {
+            $affectedElements.each(function () {
+                var $this = $(this);
+                $this.css("font-size", parseInt($this.css("font-size")) + direction);
+            });
+        }
+
+
+
+        $(".color").click(function () {
+            $("body").css({ "-moz-filter": "grayscale(100%)", "-webkit-filter": "grayscale(100%)", "filter": "gray", "filter": "grayscale(100%)" });
+
+            $("body").css("background", "#000");
+
+        });
+
+
+        $(".nocolor").click(function () {
+            $("body").css({ "-moz-filter": "grayscale(0%)", "-webkit-filter": "grayscale(0%)", "filter": "white", "filter": "grayscale(0%)" });
+
+            $("body").css("background", "url(../images/bg-ts.jpg)");
+
+        });
+
+    </script>
+</body>
+</html>

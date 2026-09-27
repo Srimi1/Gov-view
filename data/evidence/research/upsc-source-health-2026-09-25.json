@@ -1,0 +1,28 @@
+{
+  "checkedOn": "2026-09-25",
+  "authority": "Union Public Service Commission",
+  "robotsChecks": [
+    {
+      "requestedUrl": "https://www.upsc.gov.in/robots.txt",
+      "finalUrl": "https://www.upsc.gov.in/",
+      "finalStatus": 200,
+      "finalContentType": "text/html; charset=utf-8",
+      "result": "Collector rejects non-text robots response and stops UPSC fetches."
+    },
+    {
+      "requestedUrl": "https://upsc.gov.in/robots.txt",
+      "finalUrl": "https://www.upsc.gov.in/",
+      "finalStatus": 200,
+      "finalContentType": "text/html; charset=utf-8",
+      "result": "Changing to the bare host does not restore a usable robots policy."
+    }
+  ],
+  "applicationPortal": {
+    "legacyUrl": "https://upsconline.gov.in/upsc/OTRP/",
+    "retainedHtml": "upsc-legacy-otr-2026.html",
+    "retainedHtmlSha256": "4a0110107b38c1030ce4aeda1922976def22b264bca01b10f745935c0b3eb351",
+    "finding": "Official legacy page says it is only for previewing applications submitted on or before 25 March 2025 and directs registration for future UPSC examinations to https://upsconline.nic.in/.",
+    "currentUrl": "https://upsconline.nic.in/"
+  },
+  "publicationImpact": "Previously collected UPSC cycles are draft-only. The linked notification PDFs were never fetched and must not inherit their HTML page hashes. No current UPSC coverage or reviewed listing can be claimed from this failed check."
+}

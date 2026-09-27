@@ -1,0 +1,288 @@
+{
+  "sourceId": "in-pb-sssb",
+  "collectedAt": "2026-09-25T02:43:52.582Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "PSSSB advertisement 04/2026",
+      "programme": "Punjab Subordinate Services Selection Board Group D common recruitment",
+      "status": "closed",
+      "statusNote": "Signed 17 September corrigendum extends new applications and fee payment to 21 September. Correction portal 2026-09-24–2026-09-27 at 17:00 IST is for existing applicants only; it does not reopen recruitment. Older HTML date row is superseded. Founder review pending.",
+      "scopeLabel": "Punjab government departments; department and post rows are positions within one application cycle, not separate cycles or examination venues",
+      "outcome": "2,098 Group D positions across Punjab government departments, including Sewadar, Chowkidar and Safai Sewak roles, subject to category and department allocation",
+      "qualifications": "Original notice generally requires Matriculation with Punjabi as a subject. It names education exceptions for blind and riot/terror affected persons and sweeper appointments. Role-specific qualification and exception evidence need founder review.",
+      "citizenshipRule": "Notice does not state whether foreign citizens may apply, enter the test, or receive a Punjab government appointment. International applicants must confirm each stage directly with PSSSB.",
+      "residenceRule": "Original notice's reservation section says every category must present a Punjab domicile/residence certificate issued within five years at counselling. Scope for unreserved and international applicants needs authority confirmation; do not infer that foreign residence alone determines eligibility.",
+      "selectionStages": [
+        "Online application and category-based fee",
+        "Part A Matric-equivalent Punjabi qualifying test, minimum 50%",
+        "Part B scored objective examination with negative marking",
+        "Common merit list, document verification and counselling",
+        "Recommendation to hiring department and appointment checks"
+      ],
+      "fee": "Original notice: ₹1,000 general/freedom-fighter/sports; ₹250 SC/BC/EWS; ₹200 ex-servicemen/dependents; ₹500 persons with disabilities. Fee paid once is non-refundable. Correction may require category fee difference.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Original advertisement page 4: minimum 18 on 1 January 2026. General maximum 37 and several category/employee/disability/widow/ex-service exceptions require individual verification."
+        },
+        "languages": [
+          {
+            "language": "pa",
+            "stage": "selection",
+            "requirement": "Mandatory Punjabi qualifying test equivalent to Matriculation standard; at least 50% required for final merit. Matric Punjabi subject is general educational requirement with stated role/person exceptions. No CEFR level.",
+            "evidence": "Original advertisement pages 3–5, quoted service rule and examination scheme.",
+            "sourceUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm whether PSSSB accepts foreign citizens and whether this post's education, Punjabi-subject and age exception rules apply to you; notice gives no international route."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Punjabi Part A score of at least 50%, role-specific qualification and current Punjab domicile/residence certificate required at counselling according to original notice. Authority must clarify how this applies to unreserved and international applicants."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm foreign-citizen Punjab government appointment permission and all department/category document checks with PSSSB."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination venue not published in the reviewed notices"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+      "changes": [
+        {
+          "at": "2026-08-24T00:00:00+05:30",
+          "kind": "updated",
+          "summary": "Board reopened application and revised vacancy count; original advertisement remains same cycle."
+        },
+        {
+          "at": "2026-09-17T00:00:00+05:30",
+          "kind": "extended",
+          "summary": "Signed corrigendum raised total to 2,098 and extended application/fee deadline to 21 September."
+        },
+        {
+          "at": "2026-09-23T00:00:00+05:30",
+          "kind": "updated",
+          "summary": "Existing applicants may correct specified form fields through 27 September at 17:00 IST; new applications remain closed."
+        }
+      ],
+      "id": "punjab-sssb-group-d-04-2026",
+      "sourceId": "in-pb-sssb",
+      "title": "Punjab Group D government recruitment 2026",
+      "authority": "Punjab Subordinate Services Selection Board",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-PB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-25",
+        "closesOn": "2026-09-21",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Original window was 27 February–20 March 2026; reopened 25 August. Signed 17 September corrigendum gives final 21 September application and fee deadline without a cutoff time. Correction window through 27 September at 17:00 is only for previously submitted forms."
+      },
+      "salary": "Original notice lists Group D Level 1 pay scale ₹18,000–₹56,900 under 7th CPC; actual appointment terms vary by role and department.",
+      "sources": [
+        {
+          "id": "in-pb-sssb:db0d20b09524",
+          "title": "PSSSB Group D advertisement index",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://sssb.punjab.gov.in/vacancy-group-d/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/vacancy-group-d/",
+          "sha256": "b39b1b72990df377c700b93b231951232330307ed589a3f9f58ce61d81c03833",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:02.522Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:2448ff64f684",
+          "title": "PSSSB advertisement 04/2026 application timeline",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+          "sha256": "3645c0b271691e41812dca63e47a525e84beb9710d2a004efce1a22f9ca847cf",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:03.539Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:ef58afd0df93",
+          "title": "PSSSB amendment register",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://sssb.punjab.gov.in/amendments/?key=group-d&value=1789&parid=1787",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/amendments/?key=group-d&value=1789&parid=1787",
+          "sha256": "1fd226533da38186023588beb8dcd5a6ac6daa0a8720f9efd5e99e0d3b09ef6b",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:04.422Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:656eeba12268",
+          "title": "Original Group D advertisement 04/2026",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "Punjabi and English",
+          "format": "PDF",
+          "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
+          "sha256": "21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:12.363Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:1b18ea4d0acc",
+          "title": "24 August reopening and vacancy corrigendum",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "Punjabi",
+          "format": "PDF",
+          "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/08/42026New_merged.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/08/42026New_merged.pdf",
+          "sha256": "32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:12.456Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:83235cf57c4d",
+          "title": "4 September vacancy and deadline corrigendum",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "Punjabi",
+          "format": "PDF",
+          "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/ਸ਼ੁੱਧੀ-ਪੱਤਰ-ਗਰੁੱਪ-ਡੀ.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/ਸ਼ੁੱਧੀ-ਪੱਤਰ-ਗਰੁੱਪ-ਡੀ.pdf",
+          "sha256": "9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:16.659Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:60d2ad98b7a0",
+          "title": "17 September final vacancy and deadline corrigendum",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "Punjabi and English tables",
+          "format": "PDF",
+          "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf",
+          "sha256": "44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:14.418Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-pb-sssb:3eeaf6062d0b",
+          "title": "23 September existing-application correction notice",
+          "authority": "Punjab Subordinate Services Selection Board",
+          "language": "Punjabi",
+          "format": "PDF",
+          "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf",
+          "sha256": "c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7",
+          "lastSuccessfulFetchAt": "2026-09-25T02:44:14.899Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://sssb.punjab.gov.in/vacancy-group-d/",
+      "fetchedAt": "2026-09-25T02:44:02.522Z",
+      "sha256": "b39b1b72990df377c700b93b231951232330307ed589a3f9f58ce61d81c03833",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 53808
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+      "fetchedAt": "2026-09-25T02:44:03.539Z",
+      "sha256": "3645c0b271691e41812dca63e47a525e84beb9710d2a004efce1a22f9ca847cf",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 58127
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/amendments/?key=group-d&value=1789&parid=1787",
+      "fetchedAt": "2026-09-25T02:44:04.422Z",
+      "sha256": "1fd226533da38186023588beb8dcd5a6ac6daa0a8720f9efd5e99e0d3b09ef6b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 57222
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
+      "fetchedAt": "2026-09-25T02:44:12.363Z",
+      "sha256": "21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e",
+      "contentType": "application/pdf",
+      "bytes": 1330428
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/08/42026New_merged.pdf",
+      "fetchedAt": "2026-09-25T02:44:12.456Z",
+      "sha256": "32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f",
+      "contentType": "application/pdf",
+      "bytes": 682559
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/ਸ਼ੁੱਧੀ-ਪੱਤਰ-ਗਰੁੱਪ-ਡੀ.pdf",
+      "fetchedAt": "2026-09-25T02:44:16.659Z",
+      "sha256": "9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531",
+      "contentType": "application/pdf",
+      "bytes": 517260
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf",
+      "fetchedAt": "2026-09-25T02:44:14.418Z",
+      "sha256": "44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da",
+      "contentType": "application/pdf",
+      "bytes": 611640
+    },
+    {
+      "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf",
+      "fetchedAt": "2026-09-25T02:44:14.899Z",
+      "sha256": "c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7",
+      "contentType": "application/pdf",
+      "bytes": 205413
+    }
+  ],
+  "warnings": [
+    "Only Group D advertisement 04/2026 extracted; PSSSB other groups, departments and future notices remain gaps.",
+    "Original Punjabi notice and later signed amendments override older vacancy-detail HTML date. Latest signed notice closes new applications on 21 September, despite correction portal through 27 September.",
+    "International applicant/appointment permission is unstated. Punjab domicile certificate wording is in reservation section but refers to every category; founder must confirm implications before publication.",
+    "No official cutoff hour is printed for new applications on 21 September. The 17:00 time applies only to the correction portal.",
+    "Critical deadline and vacancy fields depend on pinned signed PDF https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf; correction status depends on https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf. Any byte change withholds extraction."
+  ],
+  "approvalRevisions": {
+    "punjab-sssb-group-d-04-2026": {
+      "evidenceRevision": "b1859b41e4b5b2af5ee067c9f319f9bde61b43e220fe4e6f1fcbfc71bf6696f9",
+      "recordRevision": "6ff189224ec2a90da0f55401fba9b7964be9f500132d3f40f24efd4a91ed4de0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "reviewStatus": "superseded-by-pending-founder-draft",
+  "authority": "Public Service Commission, West Bengal",
+  "access": "Node HTTPS fetch fails ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED. Narrowly scoped system curl fallback now verifies the WBPSC certificate, obeys robots.txt and fetches public notice links. Account login CAPTCHA is not used for read-only notice pages. Draft connector remains disabled for publication pending founder review.",
+  "indexUrl": "https://psc.wb.gov.in/",
+  "announcementIndexUrl": "https://psc.wb.gov.in/notification_announcement.jsp",
+  "advertisement": {
+    "number": "05/2026",
+    "url": "https://psc.wb.gov.in/Download?param1=Ad_20260513181624_05_2026_ADVT.pdf&param2=advertisement",
+    "sha256": "5cd1afa0a2c09a5432729a94ec7fd08a99dd81f9838075709daee8a47367caf7"
+  },
+  "extension": {
+    "url": "https://psc.wb.gov.in/Download?param1=An_20260515195434_Notice_for_extension_of_Online_Application_date.pdf&param2=advertisement",
+    "sha256": "ee29f64b6c4b81a6fd11d76fab08596af2057b5a57177966c6ac82e7d3c64a3b"
+  },
+  "indicative": {
+    "url": "https://psc.wb.gov.in/Download?param1=An_20260413115222_Indicative_Advt_05-2026.pdf&param2=advertisement",
+    "sha256": "48fe88dffd0fabbd268b4412f7263eb378d7e2128abfa7662ba959830f003710"
+  },
+  "observations": [
+    "Principal in District Institute of Education and Training, 12 posts; one advertised application cycle.",
+    "Original advertisement said 30 April opening and 21 May 15:00 closing, but extension says applications did not start on 30 April and extends closing/payment to 3 June 2026 at 15:00. Actual opening remains unverified.",
+    "Notice accepts Indian citizens and others declared eligible by Government of India. It requires Bengali spoken and written for this post and contains a general Nepali mother-tongue exception unless specifically mentioned; the post-specific clause needs review before an eligibility result is given.",
+    "Superseded by exact-document connector extraction in data/extractions/wbpsc-principal-05-2026.json and pending packet data/review/in-wb-recruitment.json. No public listing has been approved."
+  ]
+}

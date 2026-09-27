@@ -1,0 +1,76 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-hr-recruitment",
+  "archiveUrl": "https://hpsc.gov.in/en-us/Instructions",
+  "documentUrl": "https://hpsc.gov.in/Portals/0/Advt_25_2026_FSO_18_09_2026.pdf",
+  "records": [
+    {
+      "file": "data/evidence/research/hpsc-advertisements.html",
+      "sha256": "9113327f24fd6cc6ebb58c49dc7fc49d3ee9da6f25d7c623d5656ae62dba2fcf",
+      "bytes": 127910
+    },
+    {
+      "file": "data/evidence/research/hpsc-25-2026.pdf",
+      "sha256": "eccecfcc1ca94c18a67c032517aea972c0be0d635099d14d51f0f40d00fcf361",
+      "bytes": 12924192
+    },
+    {
+      "file": "data/evidence/research/hpsc-robots.txt",
+      "sha256": "04e455a12f68959070c0b907907b349e71d6f8e5b6d7a754001b75097db195cf"
+    }
+  ],
+  "visuallyRead": {
+    "advertisement": "25/2026",
+    "post": "Food Safety Officer (Group B), Food and Drugs Administration Department, Haryana",
+    "vacancies": 45,
+    "opensOn": "2026-09-28",
+    "closesOn": "2026-10-19",
+    "cutoffLocalTime": "17:00",
+    "officialTimeZone": "Asia/Kolkata",
+    "evidencePages": {
+      "vacanciesAndDates": [
+        2,
+        3
+      ],
+      "qualificationAndLanguageSubject": [
+        4
+      ],
+      "deadlineAndEligibilityCutoff": [
+        5
+      ],
+      "fees": [
+        6
+      ],
+      "age": [
+        7,
+        8
+      ],
+      "nationalityAndReservation": [
+        16
+      ]
+    },
+    "languageSubject": "Hindi or Sanskrit as a subject in Matric, or Hindi as a subject in higher education; no CEFR proficiency level stated on page 4",
+    "citizenship": "Page 16 permits Indian citizens, Nepal/Bhutan subjects, specified pre-1962 Tibetan refugees and listed Indian-origin migrants; non-Indian routes require a Government of India eligibility certificate. Page 5 requires relevant certificates/documents by closing; category and certificate evidence need founder/authority review.",
+    "publicationDateConflict": "Archive row is dated 18.09.2026; PDF heading says Date of Publication: 19.09.2026, while signature line says Dated: 18.09.2026. Do not choose one date without review."
+  },
+  "collectionRestriction": "HPSC robots.txt ends with User-agent: * / Disallow: /, blocking automated collection of the archive and PDFs. Original scanned PDF and archive HTML were retained during one-time manual research before the full robots policy was established. No live connector or public listing was created.",
+  "notes": [
+    "PDF contains scanned page images, with no usable embedded text. Visual reading of selected pages is provisional.",
+    "An archive row saying the online link will be available from 28 September does not prove that the application form is currently open.",
+    "Haryana reservation and fee categories do not establish a general residence or citizenship rule."
+  ],
+  "phase61Followup": {
+    "date": "2026-09-27",
+    "previousCitizenshipFinding": "Not established by inspected pages; international-applicant assessment needs full notice and service-rule review",
+    "ocrIsProvisional": true,
+    "visuallyCheckedPages": [
+      4,
+      5,
+      16
+    ],
+    "trainingStage": "Page 4 expressly says required food-authority training is given after appointment.",
+    "certificateTiming": "Page 5 bars relevant certificates issued after closing date; do not assume appointment-stage grace for foreign eligibility certificate.",
+    "appointmentTenure": "Unestablished; Annexure experience template lists many possible prior employment types, not tenure of this advertised job.",
+    "humanApprovalRecorded": false
+  }
+}

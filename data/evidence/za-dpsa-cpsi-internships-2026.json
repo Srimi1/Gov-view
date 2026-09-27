@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+  "fetchedAt": "2026-09-25T14:54:22.579Z",
+  "sha256": "f6cbab0ad0667103cfe47393deb36be9e39bc15ea7ca68bf0118d5a69fc9f03d",
+  "bytes": 24317,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+  "fetchedAt": "2026-09-25T14:54:23.259Z",
+  "sha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+  "bytes": 25778,
+  "contentType": "application/pdf"
+ }
+]

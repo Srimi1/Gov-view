@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+  "fetchedAt": "2026-09-25T05:48:04.443Z",
+  "sha256": "88543f6937bbb8cdc39c6b8902d61b88fe581e29dfe7aacafd5416b3e6495d62",
+  "bytes": 119006,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+  "fetchedAt": "2026-09-25T05:48:07.617Z",
+  "sha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+  "bytes": 2500141,
+  "contentType": "application/pdf"
+ }
+]

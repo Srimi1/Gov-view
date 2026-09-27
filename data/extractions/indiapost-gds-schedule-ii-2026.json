@@ -1,0 +1,23 @@
+{
+  "indexUrl": "https://www.indiapost.gov.in/gdsonlineengagement",
+  "siteChunkUrl": "https://www.indiapost.gov.in/gdsonlineengagement/_next/static/chunks/dce9ad18a44c759f.js",
+  "englishNoticeUrl": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf",
+  "englishNoticeSha256": "fbd5721ce789ff0b307a973eac5d0e6ee776a9619fe9abd4903a3f8c1e6e3ebb",
+  "hindiNoticeUrl": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification-hindi.pdf",
+  "hindiNoticeSha256": "534975a5ed69e980e45d2eb45c6d42eb2cee633ed9c1f1f6356d344a4bf71fb0",
+  "vacancyAnnexUrl": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/Annexure-Ia.pdf",
+  "vacancyAnnexSha256": "b72ef8e4290027eb04feee551eed8f67a7262cbc6be32cffd63d07972e52d5f1",
+  "noticeNumber": "17-12/2026-GDS",
+  "noticeDate": "2026-08-20",
+  "schedule": "Schedule-II, July-2026",
+  "registrationOpensOn": "2026-08-31",
+  "registrationClosesOn": "2026-09-19",
+  "applicationOpensOn": "2026-09-02",
+  "applicationClosesOn": "2026-09-21",
+  "cutoffLocalTime": "17:00",
+  "correctionOpensOn": "2026-09-23",
+  "correctionClosesOn": "2026-09-24",
+  "officialTimeZone": "Asia/Kolkata",
+  "tentativePostCount": 23757,
+  "reviewNote": "One national schedule with one registration and application per candidate. Annexure-Ia's 23,757 posts are not 23,757 application cycles. The notice does not state a nationality rule; foreign-citizen application and engagement remain unresolved. Language differs by post and includes special state provisions. Founder must review amendments, current portal state, and general GDS rules before publication."
+}

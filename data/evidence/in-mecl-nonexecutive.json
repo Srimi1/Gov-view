@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://mecl.co.in/Careers.aspx",
+  "fetchedAt": "2026-09-25T04:48:25.033Z",
+  "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+  "bytes": 285260,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+  "fetchedAt": "2026-09-25T04:48:34.985Z",
+  "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+  "bytes": 773796,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+  "fetchedAt": "2026-09-25T04:48:44.920Z",
+  "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+  "bytes": 281376,
+  "contentType": "application/pdf"
+ }
+]

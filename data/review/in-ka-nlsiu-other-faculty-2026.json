@@ -1,0 +1,692 @@
+{
+  "sourceId": "in-ka-nlsiu-other-faculty-2026",
+  "collectedAt": "2026-09-25T17:28:48.674Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "totalAvailable": 5,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 19/2026",
+      "programme": "NLSIU permanent faculty recruitment",
+      "status": "open",
+      "statusNote": "Official September faculty call, role page and exact Notification 19/2026 retained. First output awaits founder review.",
+      "scopeLabel": "Statutory public university in Bengaluru, Karnataka. Foreign nationals may apply; campus location is not an applicant domicile or interview venue.",
+      "outcome": "1 permanent Associate Professor (Public Policy) vacancy (1 unreserved), subject to two-year probation and superannuation at 65. Selected foreign applicants need Indian visa approval before appointment confirmation.",
+      "qualifications": "Appendix A requires a recognized Master's degree with at least 55% marks or equivalent grade, subject to stated 5% relaxations; relevant Ph.D.; eight years of qualifying teaching/research experience; at least seven peer-reviewed publications; and UGC research score 75. Degree equivalence, discipline relevance and research evidence need founder assessment. Indicative subject areas: Policy Design and Evaluation, Policy Analysis, Policy Communication, Public Finance.",
+      "citizenshipRule": "Notification 19/2026 expressly permits foreign nationals, OCI, NRI and PIO to apply. Selection and appointment are separate; selected foreign applicants need visa approval.",
+      "residenceRule": "No Indian or Karnataka applicant domicile condition is printed. Work authorization and relocation remain appointment checks.",
+      "selectionStages": [
+        "Online application with certificates",
+        "Qualification and experience screening; NLSIU may limit interview invitations",
+        "Interview if shortlisted",
+        "Original-document check at joining",
+        "Visa approval for selected foreign applicants before appointment confirmation"
+      ],
+      "fee": "No application fee stated in checked notification; confirm on official form before submission.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-26",
+        "nationality": {
+          "allowed": [
+            "*"
+          ],
+          "evidence": "NLSIU Notification 19/2026 permits foreign nationals, OCI, NRI and PIO to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check Master's marks/equivalence, Ph.D. relevance, eight years' experience, seven publications and UGC score 75, plus required certificates and any category relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not ensure interview. Confirm shortlist, interview arrangements and any language expectation; no published level is available."
+          },
+          {
+            "stage": "outcome",
+            "text": "For a selected foreign applicant, confirm necessary Indian visa approval before appointment confirmation; probation and original-document checks remain."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; Bengaluru is campus location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://forms.gle/Z2GvnGouiJ8iMK64A",
+      "changes": [],
+      "id": "nlsiu-associate-professor-public-policy-19-2026",
+      "sourceId": "in-ka-nlsiu-other-faculty-2026",
+      "title": "Associate Professor (Public Policy) — National Law School of India University",
+      "authority": "National Law School of India University, Karnataka statutory public university",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-26",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Apply online by 26 October 2026 at 17:00 IST. Publication on 18 September is not proof of application opening; inclusive final second is unstated."
+      },
+      "languageNote": "Checked role page, notification and any linked corrigendum state no mandatory language or standardized proficiency level. English publication does not itself establish a language rule.",
+      "salary": "Pay Level 13A under VII Central Pay Commission; notice gives no exact payable amount.",
+      "workLocations": [
+        "NLSIU campus, Nagarbhavi, Bengaluru, Karnataka"
+      ],
+      "sources": [
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:c7ab04f3329a",
+          "title": "NLSIU Work With Us open positions index",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:50.143Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:0b66e9b2bc07",
+          "title": "NLSIU September 2026 faculty call summary",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:51.044Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:a35b51b377a3",
+          "title": "NLSIU Associate Professor (Public Policy) role page",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-public-policy-permanent-1-vacancy/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-public-policy-permanent-1-vacancy/",
+          "sha256": "be81e9a9ad89ff71bbd2c806eb1eeb82c6c0decc678981befd933ce894ec31c7",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:52.163Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:d3ebc6cc6018",
+          "title": "NLSIU Notification 19/2026 and Appendix A",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.19-Associate-Professor-Public-Policy.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.19-Associate-Professor-Public-Policy.pdf",
+          "sha256": "4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:53.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 18/2026 · 22 September corrigendum",
+      "programme": "NLSIU permanent faculty recruitment",
+      "status": "open",
+      "statusNote": "Official September faculty call, role page and exact Notification 18/2026 retained with signed 22 September corrigendum. First output awaits founder review.",
+      "scopeLabel": "Statutory public university in Bengaluru, Karnataka. Foreign nationals may apply; campus location is not an applicant domicile or interview venue.",
+      "outcome": "4 permanent Associate Professor (Humanities & Social Sciences) vacancies (3 unreserved, 1 Scheduled Caste), subject to two-year probation and superannuation at 65. Selected foreign applicants need Indian visa approval before appointment confirmation.",
+      "qualifications": "Appendix A requires a recognized Master's degree with at least 55% marks or equivalent grade, subject to stated 5% relaxations; relevant Ph.D.; eight years of qualifying teaching/research experience; at least seven peer-reviewed publications; and UGC research score 75. Degree equivalence, discipline relevance and research evidence need founder assessment. Indicative subject areas: Economics, Sociology and Anthropology, Political Science, History. Signed corrigendum adds Anthropology to Sociology in indicative areas; other entries remain unchanged.",
+      "citizenshipRule": "Notification 18/2026 expressly permits foreign nationals, OCI, NRI and PIO to apply. Selection and appointment are separate; selected foreign applicants need visa approval.",
+      "residenceRule": "No Indian or Karnataka applicant domicile condition is printed. Work authorization and relocation remain appointment checks.",
+      "selectionStages": [
+        "Online application with certificates",
+        "Qualification and experience screening; NLSIU may limit interview invitations",
+        "Interview if shortlisted",
+        "Original-document check at joining",
+        "Visa approval for selected foreign applicants before appointment confirmation"
+      ],
+      "fee": "No application fee stated in checked notification; confirm on official form before submission.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-26",
+        "nationality": {
+          "allowed": [
+            "*"
+          ],
+          "evidence": "NLSIU Notification 18/2026 permits foreign nationals, OCI, NRI and PIO to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check Master's marks/equivalence, Ph.D. relevance, eight years' experience, seven publications and UGC score 75, plus required certificates and any category relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not ensure interview. Confirm shortlist, interview arrangements and any language expectation; no published level is available."
+          },
+          {
+            "stage": "outcome",
+            "text": "For a selected foreign applicant, confirm necessary Indian visa approval before appointment confirmation; probation and original-document checks remain."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; Bengaluru is campus location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://forms.gle/MszKjcf6QCugBQTZ9",
+      "changes": [],
+      "id": "nlsiu-associate-professor-hss-18-2026",
+      "sourceId": "in-ka-nlsiu-other-faculty-2026",
+      "title": "Associate Professor (Humanities & Social Sciences) — National Law School of India University",
+      "authority": "National Law School of India University, Karnataka statutory public university",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-26",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Apply online by 26 October 2026 at 17:00 IST. Publication on 18 September is not proof of application opening; inclusive final second is unstated."
+      },
+      "languageNote": "Checked role page, notification and any linked corrigendum state no mandatory language or standardized proficiency level. English publication does not itself establish a language rule.",
+      "salary": "Pay Level 13A under VII Central Pay Commission; notice gives no exact payable amount.",
+      "workLocations": [
+        "NLSIU campus, Nagarbhavi, Bengaluru, Karnataka"
+      ],
+      "sources": [
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:c7ab04f3329a",
+          "title": "NLSIU Work With Us open positions index",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:50.143Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:0b66e9b2bc07",
+          "title": "NLSIU September 2026 faculty call summary",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:51.044Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:7e34127e16e7",
+          "title": "NLSIU Associate Professor (Humanities & Social Sciences) role page",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-humanities-social-science-permanent-4-vacancies/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-humanities-social-science-permanent-4-vacancies/",
+          "sha256": "76fc14e88839fbd0ba492cddf2261c785670d0810fd76d6045220d4693b2ed9a",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:54.110Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:935876dc7a17",
+          "title": "NLSIU Notification 18/2026 and Appendix A",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.18-Associate-Professor-Humanities-Social-Science.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.18-Associate-Professor-Humanities-Social-Science.pdf",
+          "sha256": "f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:55.021Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:5ebe8e9f23e0",
+          "title": "NLSIU 18/2026 signed corrigendum",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Associate-Professor-Humanities-Social-Sciences.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Associate-Professor-Humanities-Social-Sciences.pdf",
+          "sha256": "bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:55.933Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 16/2026",
+      "programme": "NLSIU permanent faculty recruitment",
+      "status": "open",
+      "statusNote": "Official September faculty call, role page and exact Notification 16/2026 retained. First output awaits founder review.",
+      "scopeLabel": "Statutory public university in Bengaluru, Karnataka. Foreign nationals may apply; campus location is not an applicant domicile or interview venue.",
+      "outcome": "4 permanent Associate Professor (Law) vacancies (3 unreserved, 1 Scheduled Caste), subject to two-year probation and superannuation at 65. Selected foreign applicants need Indian visa approval before appointment confirmation.",
+      "qualifications": "Appendix A requires a recognized Master's degree with at least 55% marks or equivalent grade, subject to stated 5% relaxations; relevant Ph.D.; eight years of qualifying teaching/research experience; at least seven peer-reviewed publications; and UGC research score 75. Degree equivalence, discipline relevance and research evidence need founder assessment. Indicative subject areas: Major law subjects; official notice gives an indicative list.",
+      "citizenshipRule": "Notification 16/2026 expressly permits foreign nationals, OCI, NRI and PIO to apply. Selection and appointment are separate; selected foreign applicants need visa approval.",
+      "residenceRule": "No Indian or Karnataka applicant domicile condition is printed. Work authorization and relocation remain appointment checks.",
+      "selectionStages": [
+        "Online application with certificates",
+        "Qualification and experience screening; NLSIU may limit interview invitations",
+        "Interview if shortlisted",
+        "Original-document check at joining",
+        "Visa approval for selected foreign applicants before appointment confirmation"
+      ],
+      "fee": "No application fee stated in checked notification; confirm on official form before submission.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-26",
+        "nationality": {
+          "allowed": [
+            "*"
+          ],
+          "evidence": "NLSIU Notification 16/2026 permits foreign nationals, OCI, NRI and PIO to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check Master's marks/equivalence, Ph.D. relevance, eight years' experience, seven publications and UGC score 75, plus required certificates and any category relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not ensure interview. Confirm shortlist, interview arrangements and any language expectation; no published level is available."
+          },
+          {
+            "stage": "outcome",
+            "text": "For a selected foreign applicant, confirm necessary Indian visa approval before appointment confirmation; probation and original-document checks remain."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; Bengaluru is campus location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://forms.gle/HCqy2q3VWEGAgtwq9",
+      "changes": [],
+      "id": "nlsiu-associate-professor-law-16-2026",
+      "sourceId": "in-ka-nlsiu-other-faculty-2026",
+      "title": "Associate Professor (Law) — National Law School of India University",
+      "authority": "National Law School of India University, Karnataka statutory public university",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-26",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Apply online by 26 October 2026 at 17:00 IST. Publication on 18 September is not proof of application opening; inclusive final second is unstated."
+      },
+      "languageNote": "Checked role page, notification and any linked corrigendum state no mandatory language or standardized proficiency level. English publication does not itself establish a language rule.",
+      "salary": "Pay Level 13A under VII Central Pay Commission; notice gives no exact payable amount.",
+      "workLocations": [
+        "NLSIU campus, Nagarbhavi, Bengaluru, Karnataka"
+      ],
+      "sources": [
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:c7ab04f3329a",
+          "title": "NLSIU Work With Us open positions index",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:50.143Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:0b66e9b2bc07",
+          "title": "NLSIU September 2026 faculty call summary",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:51.044Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:10f81cb422ac",
+          "title": "NLSIU Associate Professor (Law) role page",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-law-permanent-4-vacancies/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-law-permanent-4-vacancies/",
+          "sha256": "e7c5843ea187708ec4ce6ec5362c9806101933920f413feccadc1df664a07951",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:57.102Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:c045ab9b1a73",
+          "title": "NLSIU Notification 16/2026 and Appendix A",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.-16-Associate_Professor_Law.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.-16-Associate_Professor_Law.pdf",
+          "sha256": "70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:58.022Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 17/2026 · 22 September corrigendum",
+      "programme": "NLSIU permanent faculty recruitment",
+      "status": "open",
+      "statusNote": "Official September faculty call, role page and exact Notification 17/2026 retained with signed 22 September corrigendum. First output awaits founder review.",
+      "scopeLabel": "Statutory public university in Bengaluru, Karnataka. Foreign nationals may apply; campus location is not an applicant domicile or interview venue.",
+      "outcome": "2 permanent Professor (Humanities & Social Sciences) vacancies (2 unreserved), subject to two-year probation and superannuation at 65. Selected foreign applicants need Indian visa approval before appointment confirmation.",
+      "qualifications": "Appendix A requires a recognized Master's degree with at least 55% marks or equivalent grade, subject to stated 5% relaxations. Professor route A requires relevant Ph.D., at least ten peer-reviewed publications, UGC research score 120 and ten years' qualifying teaching/research experience including doctoral guidance. Route B permits an outstanding professional with relevant Ph.D., documented significant contribution and ten years' experience. Founder must assess both routes separately. Indicative subject areas: Economics, Sociology and Anthropology, Political Science, History. Signed corrigendum adds Anthropology to Sociology in indicative areas; other entries remain unchanged.",
+      "citizenshipRule": "Notification 17/2026 expressly permits foreign nationals, OCI, NRI and PIO to apply. Selection and appointment are separate; selected foreign applicants need visa approval.",
+      "residenceRule": "No Indian or Karnataka applicant domicile condition is printed. Work authorization and relocation remain appointment checks.",
+      "selectionStages": [
+        "Online application with certificates",
+        "Qualification and experience screening; NLSIU may limit interview invitations",
+        "Interview if shortlisted",
+        "Original-document check at joining",
+        "Visa approval for selected foreign applicants before appointment confirmation"
+      ],
+      "fee": "No application fee stated in checked notification; confirm on official form before submission.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-26",
+        "nationality": {
+          "allowed": [
+            "*"
+          ],
+          "evidence": "NLSIU Notification 17/2026 permits foreign nationals, OCI, NRI and PIO to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check Master's marks/equivalence, Ph.D. relevance, Professor route A or B, ten years' experience and research evidence, plus required certificates and any category relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not ensure interview. Confirm shortlist, interview arrangements and any language expectation; no published level is available."
+          },
+          {
+            "stage": "outcome",
+            "text": "For a selected foreign applicant, confirm necessary Indian visa approval before appointment confirmation; probation and original-document checks remain."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; Bengaluru is campus location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://forms.gle/EvQDj6qfsABKhZvg6",
+      "changes": [],
+      "id": "nlsiu-professor-hss-17-2026",
+      "sourceId": "in-ka-nlsiu-other-faculty-2026",
+      "title": "Professor (Humanities & Social Sciences) — National Law School of India University",
+      "authority": "National Law School of India University, Karnataka statutory public university",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-26",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Apply online by 26 October 2026 at 17:00 IST. Publication on 18 September is not proof of application opening; inclusive final second is unstated."
+      },
+      "languageNote": "Checked role page, notification and any linked corrigendum state no mandatory language or standardized proficiency level. English publication does not itself establish a language rule.",
+      "salary": "Pay Level 14 under VII Central Pay Commission; notice gives no exact payable amount.",
+      "workLocations": [
+        "NLSIU campus, Nagarbhavi, Bengaluru, Karnataka"
+      ],
+      "sources": [
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:c7ab04f3329a",
+          "title": "NLSIU Work With Us open positions index",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:50.143Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:0b66e9b2bc07",
+          "title": "NLSIU September 2026 faculty call summary",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:51.044Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:2bbff3e82682",
+          "title": "NLSIU Professor (Humanities & Social Sciences) role page",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.nls.ac.in/news-events/call-for-applications-professor-humanities-social-science-permanent-2-vacancies/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/news-events/call-for-applications-professor-humanities-social-science-permanent-2-vacancies/",
+          "sha256": "997b5740e23a53a935337ecd67d5155425a1be989f990a6ce7ee7cf043b19b83",
+          "lastSuccessfulFetchAt": "2026-09-25T17:28:59.091Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:ce095bd9b684",
+          "title": "NLSIU Notification 17/2026 and Appendix A",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.17-Professor_-Humanities-Social-Science.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.17-Professor_-Humanities-Social-Science.pdf",
+          "sha256": "cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129",
+          "lastSuccessfulFetchAt": "2026-09-25T17:29:00.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026:1df6d41ce4a8",
+          "title": "NLSIU 17/2026 signed corrigendum",
+          "authority": "National Law School of India University, Karnataka statutory public university",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Professor-Humanities-Social-Sciences.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Professor-Humanities-Social-Sciences.pdf",
+          "sha256": "a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad",
+          "lastSuccessfulFetchAt": "2026-09-25T17:29:00.916Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+      "fetchedAt": "2026-09-25T17:28:50.143Z",
+      "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 150466
+    },
+    {
+      "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+      "fetchedAt": "2026-09-25T17:28:51.044Z",
+      "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 49284
+    },
+    {
+      "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-public-policy-permanent-1-vacancy/",
+      "fetchedAt": "2026-09-25T17:28:52.163Z",
+      "sha256": "be81e9a9ad89ff71bbd2c806eb1eeb82c6c0decc678981befd933ce894ec31c7",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 52553
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.19-Associate-Professor-Public-Policy.pdf",
+      "fetchedAt": "2026-09-25T17:28:53.014Z",
+      "sha256": "4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023",
+      "contentType": "application/pdf",
+      "bytes": 185173
+    },
+    {
+      "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-humanities-social-science-permanent-4-vacancies/",
+      "fetchedAt": "2026-09-25T17:28:54.110Z",
+      "sha256": "76fc14e88839fbd0ba492cddf2261c785670d0810fd76d6045220d4693b2ed9a",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 52707
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.18-Associate-Professor-Humanities-Social-Science.pdf",
+      "fetchedAt": "2026-09-25T17:28:55.021Z",
+      "sha256": "f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a",
+      "contentType": "application/pdf",
+      "bytes": 195815
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Associate-Professor-Humanities-Social-Sciences.pdf",
+      "fetchedAt": "2026-09-25T17:28:55.933Z",
+      "sha256": "bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3",
+      "contentType": "application/pdf",
+      "bytes": 151808
+    },
+    {
+      "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-law-permanent-4-vacancies/",
+      "fetchedAt": "2026-09-25T17:28:57.102Z",
+      "sha256": "e7c5843ea187708ec4ce6ec5362c9806101933920f413feccadc1df664a07951",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 52664
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.-16-Associate_Professor_Law.pdf",
+      "fetchedAt": "2026-09-25T17:28:58.022Z",
+      "sha256": "70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3",
+      "contentType": "application/pdf",
+      "bytes": 193628
+    },
+    {
+      "url": "https://www.nls.ac.in/news-events/call-for-applications-professor-humanities-social-science-permanent-2-vacancies/",
+      "fetchedAt": "2026-09-25T17:28:59.091Z",
+      "sha256": "997b5740e23a53a935337ecd67d5155425a1be989f990a6ce7ee7cf043b19b83",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 52697
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.17-Professor_-Humanities-Social-Science.pdf",
+      "fetchedAt": "2026-09-25T17:29:00.032Z",
+      "sha256": "cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129",
+      "contentType": "application/pdf",
+      "bytes": 258543
+    },
+    {
+      "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Professor-Humanities-Social-Sciences.pdf",
+      "fetchedAt": "2026-09-25T17:29:00.916Z",
+      "sha256": "a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad",
+      "contentType": "application/pdf",
+      "bytes": 143845
+    }
+  ],
+  "warnings": [
+    "Four distinct notices and online application forms produce four cycles; the fifth September faculty role, Professor (Law), is collected by its separate connector. Vacancies never multiply cycle count.",
+    "Notifications 17 and 18 have signed corrigenda: title wording and Sociology and Anthropology indicative subject area. Exact PDF bytes gate all extracted claims.",
+    "Foreign nationals may apply, but qualifications, interview selection and visa-dependent appointment are separate assessments.",
+    "No mandatory language level, applicant domicile, interview venue or application fee is stated in checked documents.",
+    "Later amendments and wider NLSIU recruitment remain coverage gaps; all drafts need founder review."
+  ],
+  "approvalRevisions": {
+    "nlsiu-associate-professor-public-policy-19-2026": {
+      "evidenceRevision": "46063276ff2363fa56a50769bc5bf96673367ab2e1ee874c67db2de4da9bbcf4",
+      "recordRevision": "bd98f07ef6292ad470867917e921fe493f33e33fd58a9831d23613cf9c9fa344"
+    },
+    "nlsiu-associate-professor-hss-18-2026": {
+      "evidenceRevision": "c234c5fe18f3c02732e16f56df885217102c3d7ee5dbb050b0cb7b5b53cce55c",
+      "recordRevision": "14fd3402ee109da80b1174edb7dcc50ec23cf765bb7a805d9f1f5b29c7feaa70"
+    },
+    "nlsiu-associate-professor-law-16-2026": {
+      "evidenceRevision": "c748c259d059f654cc8d5d8c7eb121c86c4b6502e68a2607d12c5038cbc23103",
+      "recordRevision": "a740460845467bf5d1c331a14c9f3b9dee8621b38d3ceb2e4e37c2236b54103c"
+    },
+    "nlsiu-professor-hss-17-2026": {
+      "evidenceRevision": "ddd8fba0fc4eb59947f72a8d459e94eb514106c473890b6ce4adace03c85a1b3",
+      "recordRevision": "b089b0969c0ff6b60113a7c75407df876390e0618d48a578553c4ea492858f3c"
+    }
+  }
+}

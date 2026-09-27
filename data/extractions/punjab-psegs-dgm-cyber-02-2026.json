@@ -1,0 +1,33 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-pb-psegs",
+  "cycleId": "punjab-psegs-dgm-cyber-02-2026",
+  "stateIndexUrl": "https://punjab.gov.in/recruitments/",
+  "departmentIndexUrl": "https://dit.punjab.gov.in/",
+  "stateDetailedUrl": "https://punjab.gov.in/wp-content/uploads/2026/09/Detailed-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "departmentDetailedUrl": "https://dit.punjab.gov.in/wp-content/uploads/2026/09/Detailed-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "detailedSha256": "e05e8f4387785b62aca11b1c4d42e409f905593a9b5f01cc060160fba870ffaa",
+  "detailedPages": 3,
+  "stateNewspaperUrl": "https://punjab.gov.in/wp-content/uploads/2026/09/Newspaper-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "departmentNewspaperUrl": "https://dit.punjab.gov.in/wp-content/uploads/2026/09/Newspaper-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "newspaperSha256": "e2a248d0db4aecbaecdfeb004ed2e5a5f869baabccd900605680ac1fe995ef6e",
+  "newspaperPages": 1,
+  "opensOn": null,
+  "closesOn": "2026-10-08",
+  "cutoffLocalTime": "23:59",
+  "ageAsOn": "2026-08-01",
+  "vacancies": 1,
+  "monthlyGrossInr": 125000,
+  "initialContractYears": 2,
+  "feeInr": 2000,
+  "minimumRelevantExperienceYears": 13,
+  "officialApplicationInfoUrl": "https://dit.punjab.gov.in/wp-content/uploads/2026/09/Detailed-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "evidenceNotes": [
+    "Punjab state recruitment register displays one DGM (Technical) Cyber Security row under Department of Good Governance and Information Technology with closing date 8 October 2026 and detailed/newspaper PDFs. DGG&IT homepage lists the same two PDFs. Both hosts' corresponding PDF bytes are identical and pinned by SHA-256.",
+    "Detailed advertisement 02/2026 page 1 says one Deputy General Manager (Technical) Cyber Security two-year initial contract under Punjab State e-Governance Society, renewable annually subject to performance and need, gross remuneration ₹1,25,000 monthly.",
+    "Page 1 requires B.E./B.Tech/B.Sc (IT, Computer Science or Electronics) or BCA with at least 50% from recognized institution and 13 years relevant cyber security experience. MBA/PGDM/PGDBM/PGP in management is preferred, not mandatory. Maximum age 42 on 1 August 2026.",
+    "Working knowledge of Punjabi is essential. Candidates without Punjabi at Matric must pass a Punjabi test equivalent to Matric standard within six months from appointment, or at the next available exam if none is held then. No CEFR level or pre-appointment test deadline is stated.",
+    "Page 2 requires non-refundable ₹2,000 RTGS fee and online application by 8 October 2026 at 11:59 PM IST. Original notice directs applicants to a Google Form and payment account; pending draft links to the official PDF instead of publishing off-domain payment/form instructions before founder review. No application opening date is printed.",
+    "Nationality and foreign-citizen appointment permission are not stated. Mohali office address is an authority address, not a published examination or interview venue. Notice warns of possible deferment/cancellation but does not itself announce either."
+  ]
+}

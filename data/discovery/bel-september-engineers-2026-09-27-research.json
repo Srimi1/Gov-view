@@ -1,0 +1,131 @@
+{
+  "sourceId": "in-bel-september-engineers-2026",
+  "observedDate": "2026-09-27",
+  "primarySource": "https://bel-india.in/job-notifications/",
+  "evidence": [
+    {
+      "file": "data/evidence/research/bel-job-notifications-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/",
+      "fetchedAt": "2026-09-26T20:10:05.324Z",
+      "sha256": "02698cab10626020a555613e34ca9d1eb54ac01497151323f2a6015f1ef97607",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 466566
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-2-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=2",
+      "fetchedAt": "2026-09-26T20:15:35.205Z",
+      "sha256": "eac03d98fdd33caeb90c17962913e85ea89c9db3917c82abf67cf558b61a2bb6",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 470398
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-3-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=3",
+      "fetchedAt": "2026-09-26T20:15:37.720Z",
+      "sha256": "22f4426d02ac80ef480cf90466968bab817a298ee4ff8462abe42fd8644ddd7f",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 480582
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-4-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=4",
+      "fetchedAt": "2026-09-26T20:15:39.989Z",
+      "sha256": "fc6749eac0f3fdbf3e3757ff1353cad73519baed1f3797678a4646cfa8b3fa51",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 468032
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-5-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=5",
+      "fetchedAt": "2026-09-26T20:15:42.357Z",
+      "sha256": "e6897c89f6e156f28f6ab35f9d575557e58b6752c6b285dfb2ebba92fca7af15",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 469787
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-6-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=6",
+      "fetchedAt": "2026-09-26T20:15:44.620Z",
+      "sha256": "5ecd362bb3a7fda13dd9a0621b9336d1710d5194bd518ad5aecbffb21edc26ff",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 463483
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-7-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=7",
+      "fetchedAt": "2026-09-26T20:15:47.095Z",
+      "sha256": "4c6f454ce91aa2d0a68aaf2db6c9c8467fbf10f2c1ae221164777cd5c92a60aa",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 467150
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-8-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=8",
+      "fetchedAt": "2026-09-26T20:15:49.535Z",
+      "sha256": "b284609ff104814aa88ef69eed62750cee9909e25894d215e987fd25430df459",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 466052
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-9-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=9",
+      "fetchedAt": "2026-09-26T20:15:51.988Z",
+      "sha256": "100ccb93fe5a245b412ff8186fd57c984d95052de418b728e005fa924dca79c8",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 461828
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-10-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=10",
+      "fetchedAt": "2026-09-26T20:15:54.434Z",
+      "sha256": "dfd5b47c65e717368c27c2333aca2a23808162f22043c7301db61738160eb13b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 477729
+    },
+    {
+      "file": "data/evidence/research/bel-job-notifications-page-11-2026-09-27.html",
+      "url": "https://bel-india.in/job-notifications/?page_num=11",
+      "fetchedAt": "2026-09-26T20:15:56.746Z",
+      "sha256": "76eb74c961c692e14a6e9d667246e5ca51d3fb77af8dc619868ff4af0458cb79",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 456765
+    },
+    {
+      "file": "data/evidence/research/bel-sr-assistant-engineer-2026-09-27.pdf",
+      "url": "https://bel-india.in/wp-content/uploads/2026/09/Detailed-Advertisement-1.pdf",
+      "fetchedAt": "2026-09-26T20:11:46.333Z",
+      "sha256": "5ad3430569649927c7d75028c78d9d1ef7baa84c5abe598957d6c56ba1deed56",
+      "contentType": "application/pdf",
+      "bytes": 1270241
+    },
+    {
+      "file": "data/evidence/research/bel-senior-fixed-term-engineer-2026-09-27.pdf",
+      "url": "https://bel-india.in/wp-content/uploads/2026/09/Senior-Engineer-Fixed-Term-Engineer-Detailed-Job-Description-Export-Manufacturing-SBU.pdf",
+      "fetchedAt": "2026-09-26T20:11:48.352Z",
+      "sha256": "e90b94e7ac50bafc069618c808e2ed7762fd71c47f006b6f1ba67c5ba32887c2",
+      "contentType": "application/pdf",
+      "bytes": 383902
+    }
+  ],
+  "indexPages": 11,
+  "indexCards": 84,
+  "extractedCycles": 2,
+  "posts": 48,
+  "publicationStatus": "pending-review",
+  "discoveryNote": "NCS July/May/April leads point to BEL employer; none establishes identity or terms of these September calls. In particular April Sr Assistant Engineer lead lists 41 Regular posts, different from September fixed-tenure 36-post notice. NCS lead record is preserved as discovery only.",
+  "criticalConflicts": [
+    "Ghaziabad table: retirement on/before 1 August 2026; Hindi section 5: 31 July; English section 5: 1 July. Later probable-discharge clause allows within three months of advertisement.",
+    "Ghaziabad body: 15-year tenure renewable every five years or superannuation at 60; Annexure 1: fixed tenure five years.",
+    "Bengaluru condition 27 claims bilingual availability; retained notice body English, Hindi counterpart unavailable."
+  ],
+  "unknowns": [
+    "Ghaziabad explicit citizenship rule",
+    "Both official deadline timezones and cutoff times",
+    "Both standardized human-language levels",
+    "Ghaziabad fee amount and written/interview venues",
+    "Bengaluru exact written-test centre and interview venue",
+    "All other cards, notices, DOCX/cancellation documents, archive changes and ancillary category/payment attachments"
+  ],
+  "automaticRules": "Bengaluru nationality IN only and minimum completed degree; Ghaziabad minimum completed diploma. All specialized branch/equivalence, military rank/service, industrial experience, age exceptions and other conditions require review. No venue pin or citizenship inference from IAF service."
+}

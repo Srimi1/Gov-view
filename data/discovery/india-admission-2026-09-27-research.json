@@ -1,0 +1,115 @@
+{
+  "phase": 65,
+  "researchDate": "2026-09-27",
+  "addedSourceIds": [
+    "in-iitm-gate",
+    "in-iitkgp-jam",
+    "in-nta-jee-main",
+    "in-nta-cuet-ug",
+    "in-nta-neet-ug"
+  ],
+  "sources": [
+    {
+      "country": "IN",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official admission-source discovery for internal research. Original documents, reuse terms, translations and extracted summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "in-iitm-gate",
+      "name": "India — GATE postgraduate entrance and accepted recruitment scores",
+      "authority": "Indian Institute of Technology Madras — GATE 2027, Ministry of Education",
+      "homepage": "https://gate2027.iitm.ac.in/",
+      "discoveredFrom": "https://gate2027.iitm.ac.in/faqs",
+      "notes": "GATE 2027: foreign nationals may apply and sit the examination subject to academic criteria. Centres are within India only; travel is the applicant’s responsibility. Foreign-registration instructions require the foreign passport at examination entry. Question-paper language is English; no formal proficiency level was verified. Scores support postgraduate admission and some PSU recruitment, but neither admission nor a government job is guaranteed. Each institution/employer sets resulting eligibility. Current date table shows 2 September 2026 opening, 27 September regular closing and 5 October late-fee closing; these are date-only observations, not verified cutoff times.",
+      "accessGap": "No adapter or reviewed application cycle. Foreign-passport registration instructions are stricter than the FAQ’s broader photo-ID examples and need reconciliation. Original brochure, live deadline notices, fees, institution-specific admission/PSU nationality rules and published venues need review; no cutoff time or timezone inferred."
+    },
+    {
+      "country": "IN",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official admission-source discovery for internal research. Original documents, reuse terms, translations and extracted summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "in-iitkgp-jam",
+      "name": "India — Joint Admission Test for Masters (JAM)",
+      "authority": "Indian Institute of Technology Kharagpur — JAM 2027, Ministry of Education",
+      "homepage": "https://jam.iitkgp.ac.in/",
+      "discoveredFrom": "https://jam.iitkgp.ac.in/download.html",
+      "notes": "JAM 2027 examination is open to Indian and foreign nationals with completed undergraduate study or final-year qualifying study. Examination centres are in India. Brochure v2 distinguishes exam eligibility from admission: its admission application clause expressly includes foreign nationals with Indian degrees, subject to admitting-institute policy; foreign-degree admission needs verification. Official overview describes English as programme instruction medium; exam language and a formal proficiency level were not verified. Home and brochure v2 show 11 September–19 October 2026 registration, without a verified cutoff time. This is postgraduate admission, not a government appointment.",
+      "accessGap": "No adapter or reviewed cycle. General nationality wording cannot override the Indian-degree admission clause. Institute-specific foreign-degree routes, English requirements, exact cutoff/timezone, fees, degree-subject requirements, result-sharing admission applications and later corrections need review. Brochure v2 retained; FAQ contains application-correction statements needing reconciliation."
+    },
+    {
+      "country": "IN",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official admission-source discovery for internal research. Original documents, reuse terms, translations and extracted summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "in-nta-jee-main",
+      "name": "India — JEE (Main) undergraduate entrance",
+      "authority": "National Testing Agency — Joint Entrance Examination (Main), Ministry of Education",
+      "homepage": "https://jeemain.nta.nic.in/",
+      "discoveredFrom": "https://jeemain.nta.nic.in/information-bulletin/",
+      "notes": "Retained JEE (Main) 2026 bulletin covers engineering, architecture and planning entrance, not a government job. It recognizes specified foreign school qualifications and references foreign applicants, but this alone does not establish every foreign citizen’s admission route. OCI candidates have separately stated quota provisions; nationality, OCI and overseas education must not be merged. Examination has 13 language options with centre restrictions; English is available in India and abroad. No formal proficiency level verified. 2026 qualifying-school years and institution-specific admission conditions must not be rolled into a 2027 application cycle.",
+      "accessGap": "No adapter or reviewed cycle. General foreign-national application permission needs further official clarification; JEE Advanced, JoSAA, DASA and each institution have distinct eligibility and counselling rules. Current registration notices, fees, full language/centre table, exact deadlines and 2027 edition remain unresolved."
+    },
+    {
+      "country": "IN",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official admission-source discovery for internal research. Original documents, reuse terms, translations and extracted summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "in-nta-cuet-ug",
+      "name": "India — CUET (UG) university entrance",
+      "authority": "National Testing Agency — Common University Entrance Test (Undergraduate), Ministry of Education",
+      "homepage": "https://cuet.nta.nic.in/",
+      "discoveredFrom": "https://cuet.nta.nic.in/information-bulletin/",
+      "notes": "Retained CUET (UG) 2026 bulletin covers undergraduate admissions. It recognizes specified equivalent foreign qualifications and mentions foreign candidates when selecting cities; this is not verified universal foreign-national admission permission. Each university sets programme qualifications, subject combinations and applicable age/other rules. Question papers offer 13 language mediums; selected medium and tested language subjects are separate choices. No formal proficiency level verified. Appearance or score alone does not entitle admission. This is an education pathway, not government recruitment; the 2026 bulletin does not establish a 2027 window.",
+      "accessGap": "No adapter or reviewed cycle. CUET index exact-byte access failed while fetching robots.txt; linked 2026 PDF retained separately. University-specific foreign-admission/exemption routes, current public notices, subject-language requirements, fees, deadlines and later editions remain gaps. Successful PDF research is not a connected or validated collector."
+    },
+    {
+      "country": "IN",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official admission-source discovery for internal research. Original documents, reuse terms, translations and extracted summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "in-nta-neet-ug",
+      "name": "India — NEET (UG) medical entrance",
+      "authority": "National Testing Agency — National Eligibility cum Entrance Test (Undergraduate), Ministry of Education",
+      "homepage": "https://neet.nta.nic.in/",
+      "discoveredFrom": "https://neet.nta.nic.in/",
+      "notes": "Retained NEET (UG) 2026 bulletin explicitly permits Indian nationals, NRIs, OCI and foreign nationals to appear, subject to qualifying conditions. Admission for foreign candidates remains subject to government, state, institution and counselling rules; nationality documentation is required. Thirteen question-paper mediums have centre restrictions. Qualifying education includes English alongside required science subjects; no CEFR or other formal proficiency level verified. This is medical admission, not permission to practise medicine or a government appointment. Later signed notice sets 21 June 2026 re-examination; original 3 May bulletin date must not stand alone. No fresh 2027 window verified.",
+      "accessGap": "No adapter or reviewed cycle. Later re-examination, refunds, results and venue changes require revision linking within the same annual cycle, not duplicate opportunity counts. State/institution foreign quotas, qualifying education equivalence, admission dates, fees, original-language requirements and subsequent licensing remain unresolved. Scanned re-examination notice retained and visually read; extraction/translation acceptance pending."
+    }
+  ],
+  "requestsFile": "data/discovery/india-admission-2026-09-27-requests.json",
+  "outcomesFile": "data/discovery/india-admission-2026-09-27-fetch-outcomes.json",
+  "responses": {
+    "retained": 19,
+    "failed": 1
+  },
+  "collectionJobsRun": 0,
+  "newDrafts": 0,
+  "newReviewDecisions": 0,
+  "protectedBaseline": "phases/phase-65-2026-09-27-baseline.json",
+  "visualChecks": [
+    {
+      "path": "data/evidence/research/india65-in-nta-neet-ug-re-examination-notice-page1-2026-09-27.png",
+      "pdfPage": 1,
+      "findings": "Signed 15 May 2026 notice: re-examination 21 June 2026, 14:00–17:15 IST including formalities; 13 mediums; address/city-change window is not a new admission application."
+    },
+    {
+      "path": "data/evidence/research/india65-in-iitkgp-jam-admission-page36-2026-09-27.png",
+      "pdfPage": 36,
+      "findings": "Admission clause expressly includes foreign nationals with Indian degree, subject to institute policy; not identical to permission to sit examination."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-home",
+    "url": "https://gate2027.iitm.ac.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-eligibility",
+    "url": "https://gate2027.iitm.ac.in/eligibility_criteria",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-faq",
+    "url": "https://gate2027.iitm.ac.in/faqs",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-pattern",
+    "url": "https://gate2027.iitm.ac.in/question_paper_pattern",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-dates",
+    "url": "https://gate2027.iitm.ac.in/important_dates",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-foreign-registration",
+    "url": "https://gate2027.iitm.ac.in/guideline/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-home",
+    "url": "https://jam.iitkgp.ac.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-eligibility",
+    "url": "https://jam.iitkgp.ac.in/exam-eligibilityreq.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-faq",
+    "url": "https://jam.iitkgp.ac.in/faq.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-nta-jee-main",
+    "label": "bulletin-index",
+    "url": "https://jeemain.nta.nic.in/information-bulletin/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-nta-jee-main",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/11/202511021649722475.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-nta-cuet-ug",
+    "label": "bulletin-index",
+    "url": "https://cuet.nta.nic.in/information-bulletin/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-nta-cuet-ug",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "home",
+    "url": "https://neet.nta.nic.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-download",
+    "url": "https://jam.iitkgp.ac.in/download.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-about",
+    "url": "https://jam.iitkgp.ac.in/about.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-schedule",
+    "url": "https://jam.iitkgp.ac.in/test-schedule.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "re-examination-notice-2026-05",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-brochure-v2",
+    "url": "https://jam.iitkgp.ac.in/docs/Info_Brochure_v2.pdf",
+    "format": "PDF"
+  }
+]

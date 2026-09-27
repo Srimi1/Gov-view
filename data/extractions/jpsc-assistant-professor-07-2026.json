@@ -1,0 +1,38 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-jh-recruitment",
+  "cycleId": "jharkhand-medical-assistant-professor-07-2026",
+  "indexUrl": "https://www.jpsc.gov.in/",
+  "detailUrl": "https://www.jpsc.gov.in/exam_files.php?id=13045",
+  "applicationUrl": "https://jpscotr.com/",
+  "advertisement": "07/2026",
+  "opensOn": "2026-04-28",
+  "closesOn": "2026-05-12",
+  "cutoffLocalTime": "17:00",
+  "ageAsOn": "2025-08-01",
+  "vacancies": 90,
+  "specialties": 10,
+  "documents": [
+    {
+      "key": "advertisement",
+      "url": "https://www.jpsc.gov.in/data/Advertisement_07_26_dated_15_04_2026.pdf",
+      "sha256": "d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9",
+      "pages": 9,
+      "localFile": "data/evidence/research/jpsc-assistant-professor-07-2026-advertisement.pdf"
+    },
+    {
+      "key": "press-note",
+      "url": "https://www.jpsc.gov.in/data/Press_Release_07_26_dated_15_04_2026.pdf",
+      "sha256": "063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11",
+      "pages": 1,
+      "localFile": "data/evidence/research/jpsc-assistant-professor-07-2026-press.pdf"
+    }
+  ],
+  "evidenceNotes": [
+    "JPSC homepage lists recruitment of Assistant Professor in medical colleges (Super Specialist), advertisement 07/2026, linking exam_files.php?id=13045. Detail page links one press note and one original advertisement, both dated 15 April 2026.",
+    "Original Hindi advertisement page 1 and page 9 plus Hindi press note state 90 regular Assistant Professor vacancies, online applications 28 April to 12 May 2026 by 17:00. Later fee payment (14 May) and hard-copy receipt (25 May) are separate steps, not an application extension.",
+    "Pages 1-2 list ten super-specialty departments and DM/DNB/DrNB or MCh/DNB/DrNB specialty degrees; a basic biomedical research course is also named. Page 2 states minimum age 30 at 1 August 2025; category/sex/service upper limits on page 3 need founder verification.",
+    "Page 4 says Jharkhand permanent residence is needed for reservation benefits, not a blanket application condition. No explicit nationality or language proficiency rule was established in the checked notice; international applicant and interview language status need official confirmation.",
+    "Hindi PDF text uses legacy font encoding, so extracted text has mojibake. Original PDF pages were rendered and visually inspected; do not infer additional rules from the broken extraction."
+  ]
+}

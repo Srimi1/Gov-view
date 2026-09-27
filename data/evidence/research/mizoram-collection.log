@@ -1,0 +1,12 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-mz-recruitment --stage
+
+
+▸ in-mz-recruitment (Mizoram Public Service Commission)
+  ⚠ Only two current MPSC post advertisements are document-bound in this pilot; other Mizoram notices and authorities remain gaps.
+  ⚠ Neither advertisement states nationality, domicile, application opening date or a numerical Mizo test pass mark. International eligibility and live form status require founder review.
+  ⚠ The general fee amount, detailed exam stages and venues are not established by these PDFs.
+  ✓ 2 collected, 0 approved, 2 pending, 0 kept (5s)
+
+Stage only: review packets and evidence written; published data unchanged.

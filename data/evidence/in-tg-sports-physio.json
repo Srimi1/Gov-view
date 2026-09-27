@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://satgrecruitment.telangana.gov.in/",
+  "fetchedAt": "2026-09-25T05:03:12.701Z",
+  "sha256": "a0fc477517b2b9cbf375158f891e284d009d01731f038ad95a372068da380215",
+  "bytes": 55186,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://satgrecruitment.telangana.gov.in/public/frontend/Images/Notification.pdf",
+  "fetchedAt": "2026-09-25T05:03:14.613Z",
+  "sha256": "52cfae6f1b29a72822b75e5b77e73cb108f616b46f2197f616b46a335534f821",
+  "bytes": 229358,
+  "contentType": "application/pdf"
+ }
+]

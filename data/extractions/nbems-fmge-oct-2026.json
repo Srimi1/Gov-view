@@ -1,0 +1,26 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-nbems-fmge",
+  "indexUrl": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+  "bulletinUrl": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+  "bulletinSha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+  "applicationUrl": "https://cdn3.digialm.com//EForms/configuredHtml/1815/100817//Index.html",
+  "edition": "October 2026",
+  "applicationOpensOn": "2026-09-11",
+  "applicationOpensLocalTime": "17:00",
+  "applicationClosesOn": "2026-09-25",
+  "applicationClosesLocalTime": "23:55",
+  "officialTimeZone": "Asia/Kolkata",
+  "medicalDegreeResultBy": "2026-08-31",
+  "examOn": "2026-10-31",
+  "plannedResultBy": "2026-11-30",
+  "totalFeeInr": 4650,
+  "evidenceNotes": [
+    "Official NBEMS FMGE index links October 2026 v2.2 bulletin and the application portal. Exact PDF bytes are retained and hash-bound; replacement requires fresh review.",
+    "Bulletin page 2 gives 11 September 2026 17:00 to 25 September 2026 23:55 online application window, in Indian local time. Later edit/document windows do not reopen new applications.",
+    "Bulletin page 24 section 4.1 lists Indian citizens and OCI. Page 63 section 8.7 says non-OCI foreign nationals other than Nepalese are ineligible, implying a Nepalese exception. This conflict needs NBEMS or founder clarification; do not mark Nepalese as automatically eligible.",
+    "Bulletin page 33 section 5.1 says MCQ response options are in English only. It does not set a CEFR or other general language proficiency level. Prior MBBS admission criteria include English marks, a different requirement.",
+    "Bulletin page 17 section 2.17 and pages 91-92 section 10.11 say appearing in FMGE or obtaining a pass certificate does not automatically grant NMC/State Medical Council registration. Council verification is separate.",
+    "Bulletin pages 53 onward list tentative test cities; individual centre allotment is later. No city-centre pin is used as an actual exam venue."
+  ]
+}

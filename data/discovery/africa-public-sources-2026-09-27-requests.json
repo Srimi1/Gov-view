@@ -1,0 +1,128 @@
+[
+  {
+    "sourceId": "gh-psc-public-jobs",
+    "label": "vacancies",
+    "url": "https://psc.gov.gh/job-vacancies/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "gh-psc-public-jobs",
+    "label": "recruitment-faq",
+    "url": "https://psc.gov.gh/faqs/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "authority-advertisements",
+    "url": "https://ajira.go.tz/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "authority-mandate",
+    "url": "https://www.ajira.go.tz/whoarewe",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "ug-psc-vacancies",
+    "label": "recruitment-home",
+    "url": "https://vacancies.psc.go.ug/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "ug-psc-vacancies",
+    "label": "government-referral",
+    "url": "https://www.publicservice.go.ug/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "rw-mifotra-recruitment",
+    "label": "recruitment-home",
+    "url": "https://www.recruitment.mifotra.gov.rw/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "rw-mifotra-recruitment",
+    "label": "ministry-referral",
+    "url": "https://www.mifotra.gov.rw/news-detail/recruitment-of-public-servants-digitized-in-rwanda",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "zm-csc-public-service",
+    "label": "authority-home",
+    "url": "https://www.csc.gov.zm/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "recruitment-home",
+    "url": "https://erecruitment.psc.gov.zw/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "authority-home",
+    "url": "https://psc.gov.zw/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "bw-government-careers",
+    "label": "careers",
+    "url": "https://gov.bw/careers",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "na-opm-public-vacancies",
+    "label": "authority-home",
+    "url": "https://opm.gov.na/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "mu-psc-dfsc-vacancies",
+    "label": "authority-vacancies",
+    "url": "https://psc.govmu.org/psc/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "sc-psb-vacancies",
+    "label": "vacancies",
+    "url": "https://www.psb.gov.sc/vacancies",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "sc-psb-vacancies",
+    "label": "government-directory",
+    "url": "https://www.gov.sc/departments",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "canonical-advertisements",
+    "format": "HTML",
+    "url": "https://www.ajira.go.tz/"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "neec-chief-executive-notice",
+    "format": "PDF",
+    "url": "https://www.ajira.go.tz/baseattachments/advertisementattachments/260922174716TANGAZO LA KAZI -MTENDAJI MKUU NEEC.pdf"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "must-september-notice",
+    "format": "PDF",
+    "url": "https://www.ajira.go.tz/baseattachments/advertisementattachments/20262609370647TANGAZO LA AJIRA MPYA SEP  2026 - MUST...pdf"
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "ict-deputy-director-detail",
+    "format": "HTML",
+    "url": "https://erecruitment.psc.gov.zw/jobs/216"
+  },
+  {
+    "sourceId": "na-opm-public-vacancies",
+    "label": "regional-mirror-circular",
+    "format": "PDF",
+    "url": "https://www.karasrc.gov.na/documents/178653/5905947/PSM%2BCircular%2BNo%2BF%2Bof%2B2025.pdf/47129916-50d6-db1b-b27a-cf4abfff2a11?t=1754558828316"
+  }
+]

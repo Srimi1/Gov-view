@@ -1,0 +1,1419 @@
+{
+  "sourceId": "in-isro-iprc-rmt-2026-01",
+  "collectedAt": "2026-09-25T11:43:05.962Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 60",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "1 vacancy for post code 60; Pay-matrix Level 7, ₹44,900–₹1,42,400. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "First-class diploma in Automobile Engineering. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹750 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹500 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-60",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technical Assistant (Automobile Engineering) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in English and Hindi (bilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 7, ₹44,900–₹1,42,400",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 61",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "3 vacancies for post code 61; Pay-matrix Level 7, ₹44,900–₹1,42,400. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "First-class diploma in Mechanical Engineering or Production Engineering. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹750 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹500 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-61",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technical Assistant (Mechanical) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in English and Hindi (bilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 7, ₹44,900–₹1,42,400",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 62",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "1 vacancy for post code 62; Pay-matrix Level 7, ₹44,900–₹1,42,400. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "First-class diploma in Electronics Engineering, Electronics & Communication Engineering, Electronics & Telecommunication Engineering, or Electronics & Instrumentation Engineering. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹750 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹500 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-62",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technical Assistant (Electronics & Communication) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in English and Hindi (bilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 7, ₹44,900–₹1,42,400",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 63",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "2 vacancies for post code 63; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Turner trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-63",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Turner) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 64",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "4 vacancies for post code 64; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Fitter trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-64",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Fitter) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 65",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "2 vacancies for post code 65; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Welder trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-65",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Welder) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 66",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "3 vacancies for post code 66; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Machinist trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-66",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Machinist) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 67",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "1 vacancy for post code 67; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Refrigeration & Air Conditioning trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-67",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Refrigeration & Air Conditioning) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 68",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "1 vacancy for post code 68; Pay-matrix Level 3, ₹21,700–₹69,100. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and ITI in Electrician trade with NTC from NCVT, or NAC from NCVT. Exact trade and certificate must match the notice. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-68",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Technician 'B' (Electrician) — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 3, ₹21,700–₹69,100",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 70",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "1 vacancy for post code 70; Pay-matrix Level 2, ₹19,900–₹63,200. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10 and five years' experience as a cook in an established hotel or canteen. Employer experience certificate is required at skill test; an individual's certificate is not accepted. Required qualifications and experience must be held by 2026-10-05. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Curriculum-based qualifying skill test",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–35 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, skill test, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-70",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Cook 'A' — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). Cook written syllabus includes General English at Class 10 level. No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 2, ₹19,900–₹63,200",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IPRC/RMT/2026/01 · post code 71",
+      "programme": "IPRC direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Original 10-page advertisement and current careers block retained. First connector output awaits founder review; later amendments and reservation/medical conditions must be checked.",
+      "scopeLabel": "Central-government ISRO recruitment; initial duty station Mahendragiri, Tamil Nadu, with possible later posting at other ISRO/Department of Space units in India. Duty station is not an applicant domicile or test centre.",
+      "outcome": "3 vacancies for post code 71; Pay-matrix Level 2, ₹19,900–₹63,200. Notice calls posts temporary but likely to continue indefinitely; permanent tenure is not guaranteed.",
+      "qualifications": "Pass in SSLC/SSC/Matric/Class 10, meet published physical fitness standards, and upload preliminary medical examination certificate (Annexure A) with the online application. Required qualifications and experience must be held by 2026-10-05. Fireman applicants must also meet detailed medical and physical tests. Exact credentials, category reservation and age relaxation need founder review.",
+      "citizenshipRule": "Advertisement section 13(1): only Indian nationals are eligible to apply. Foreign citizens do not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Tamil Nadu domicile or residence requirement is printed. Mahendragiri is initial duty station; Tirunelveli and Chennai are written-test city choices.",
+      "selectionStages": [
+        "Separate online application and fee for this post code",
+        "Document screening",
+        "Offline written test in chosen Tirunelveli or Chennai city",
+        "Physical efficiency skill test and detailed medical examination",
+        "Original-document verification and final appointment checks"
+      ],
+      "fee": "₹500 initially per separate online application. Refund only if applicant appears in written test: female/SC/ST/ex-serviceman/PwBD applicants receive full fee back; other applicants receive ₹400 back, subject to bank charges.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "IPRC/RMT/2026/01 detailed advertisement section 13(1): Only Indian Nationals are eligible to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, exact post-code qualification, age 18–25 on 5 October 2026 or documented relaxation, category evidence, separate form and successful fee payment. Upload Annexure A preliminary medical certificate with application."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written test, physical efficiency and medical, original documents and offered paper language. Published paper languages do not establish a formal proficiency level."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, fit medical status, service conditions and posting. Test admission or success alone does not grant appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Tirunelveli written-test city option; exact centre pending",
+          "city": "Tirunelveli",
+          "latitude": 8.7274,
+          "longitude": 77.6838,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "published",
+          "name": "Chennai written-test city option; exact centre pending",
+          "city": "Chennai",
+          "latitude": 13.0878,
+          "longitude": 80.2785,
+          "precision": "city",
+          "subdivision": "IN-TN"
+        },
+        {
+          "kind": "unknown",
+          "name": "Skill-test location not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://career.iprc.gov.in",
+      "changes": [],
+      "id": "iprc-rmt-2026-01-71",
+      "sourceId": "in-isro-iprc-rmt-2026-01",
+      "title": "Fireman 'A' — ISRO Propulsion Complex",
+      "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-15",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "IPRC careers index and advertisement section 14: online registration starts 2026-09-15 at 10:00 and closes 2026-10-05 at 16:00. No governing timezone is printed. Each post code needs a separate application and fee."
+      },
+      "languageNote": "Written and skill-test papers offered in Tamil, Hindi and English (trilingual). Fireman written syllabus includes Basic English. No formal proficiency level or language certificate is printed.",
+      "salary": "Pay-matrix Level 2, ₹19,900–₹63,200",
+      "sources": [
+        {
+          "id": "in-isro-iprc-rmt-2026-01:296ca00a63b7",
+          "title": "IPRC careers: advertisement IPRC/RMT/2026/01",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.iprc.gov.in/careers.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/careers.html",
+          "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:07.090Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:0cf737c07709",
+          "title": "IPRC/RMT/2026/01 detailed advertisement",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+          "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.743Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-iprc-rmt-2026-01:5f40a62db0bf",
+          "title": "IPRC Fireman preliminary medical certificate, Annexure A",
+          "authority": "ISRO Propulsion Complex, Department of Space, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.iprc.gov.in/files/careers/AnnexureA_12092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.iprc.gov.in/files/careers/AnnexureA_12092026.pdf",
+          "sha256": "415e13db25828ff4791551dba72ab2ff518588f42432edea4020c6595d377fb1",
+          "lastSuccessfulFetchAt": "2026-09-25T11:43:09.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.iprc.gov.in/careers.html",
+      "fetchedAt": "2026-09-25T11:43:07.090Z",
+      "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 114440
+    },
+    {
+      "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+      "fetchedAt": "2026-09-25T11:43:09.743Z",
+      "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+      "contentType": "application/pdf",
+      "bytes": 4891970
+    },
+    {
+      "url": "https://www.iprc.gov.in/files/careers/AnnexureA_12092026.pdf",
+      "fetchedAt": "2026-09-25T11:43:09.928Z",
+      "sha256": "415e13db25828ff4791551dba72ab2ff518588f42432edea4020c6595d377fb1",
+      "contentType": "application/pdf",
+      "bytes": 561962
+    }
+  ],
+  "warnings": [
+    "Eleven distinct post-code applications cover 22 vacancies; multiple vacancies and two optional written-test cities do not multiply opportunity counts.",
+    "Only Indian nationals may apply. Exam paper languages are published, but no formal proficiency level or certificate is printed.",
+    "Posts are temporary but likely to continue indefinitely; initial duty station and possible later transfers are separate from written-test city choices.",
+    "Opening and cutoff clock times are printed without a governing timezone. Deadline-day status is uncertain after local 16:00 until source confirmation.",
+    "Refund depends on written-test attendance; full initial fee must be paid per post application.",
+    "Other IPRC and ISRO notices, later addenda and founder validation remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "iprc-rmt-2026-01-60": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "819702b1a865ca0b0bfe088ccd836d7646e25608dfb39e4af853bfe11e6ad7b5"
+    },
+    "iprc-rmt-2026-01-61": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "7c0d5e86eceee146093ec1633577c5c719c692f83a30310233132d2444950f06"
+    },
+    "iprc-rmt-2026-01-62": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "ff42a4eb247c29d48b7fb4efca86fe932df301a9476230a877dba46d0d95e613"
+    },
+    "iprc-rmt-2026-01-63": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "ab912c672478fbfe579898534ce4f41e695ff3ef167d6def84e7c5717b8b5308"
+    },
+    "iprc-rmt-2026-01-64": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "548276701409c3ac81fa4f9c7ea58bf59e6155494f4c7407fcae88948334f7df"
+    },
+    "iprc-rmt-2026-01-65": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "556322ff18114c2e741bbe3addb4cf82a31881a395e76eb34086e9ac438f9fe0"
+    },
+    "iprc-rmt-2026-01-66": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "b708d61b0d48d4e3e4b7bcca159bb12e7592a761a2b3dbaf67461fbb45d60af9"
+    },
+    "iprc-rmt-2026-01-67": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "d019c6fb4627d4aed5177d55935e9efa65998a72de06e39589f7d92f65ee0ae2"
+    },
+    "iprc-rmt-2026-01-68": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "0e7ef740751b1e168c47e98444663982a567891174907c9ed5f7873eb37c88a8"
+    },
+    "iprc-rmt-2026-01-70": {
+      "evidenceRevision": "8e79f22355de29ddfb6dc14cd6110e9d41f9778dd3786e4bb440a01217c62c9f",
+      "recordRevision": "d6d72b14e95a1e8067d06d0b7a352a6709ec0e6c48c3cb077e8da3a0e93833a9"
+    },
+    "iprc-rmt-2026-01-71": {
+      "evidenceRevision": "e918120d3b0d509f0114acfc08745155aff2c64854e94dc299711c9f5341b059",
+      "recordRevision": "0162ae196221478309be50c079189beca3183a44f290a91815255d5023e68d24"
+    }
+  }
+}

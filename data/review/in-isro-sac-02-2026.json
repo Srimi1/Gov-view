@@ -1,0 +1,2010 @@
+{
+  "sourceId": "in-isro-sac-02-2026",
+  "collectedAt": "2026-09-25T14:16:26.635Z",
+  "reviewStatus": "pending",
+  "complete": true,
+  "totalAvailable": 16,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 01",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "3 provisional positions for post code 01. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech. in Semiconductor Technology, Quantum, Micro or Nano Electronic Devices, RF & Microwave, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 01 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-01",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 01",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 02",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "7 provisional positions for post code 02. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech. in Electronics & Communication, Micro-Electronics, Nano-Electronics, Digital Electronics, VLSI, Digital System Engineering, Embedded System, Signal Processing, Semiconductor, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 02 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-02",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 02",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 03",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "5 provisional positions for post code 03. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "B.E./B.Tech. in Engineering Physics or related disciplines; OR M.E./M.Tech./M.Sc. in Physics, Applied Physics, Photonics, Optoelectronics, Optics, Material Science, Nanotechnology, Solid State Physics, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 03 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-03",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 03",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 04",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "10 provisional positions for post code 04. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech./M.Sc. in Atmospheric Sciences, Meteorology, Physical Oceanography, Oceanography, Physical Sciences, Physics, Applied Physics, Mathematics, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 04 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-04",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 04",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 05",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "2 provisional positions for post code 05. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech./M.Sc. in Geophysics, Geosciences, Earth Sciences, Geotechnical Engineering, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 05 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-05",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 05",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 06",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "4 provisional positions for post code 06. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech./M.Sc. in Computer Science, Computer Engineering, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 06 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-06",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 06",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 07",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "2 provisional positions for post code 07. Initially one year, extendable subject to review, up to five years. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech./M.Sc. in Geoinformatics, Remote Sensing and GIS, or related disciplines. A valid CSIR-UGC NET, GATE, or named national-level examination result/score card is also required on 30 September 2026. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 28 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 07 degree and marks, age no more than 28 on 30 September 2026 or documented relaxation. Confirm valid qualifying NET/GATE/national-test score on closing date. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-07",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Junior Research Fellow — SAC post code 07",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹37,000 per month plus HRA for first two years; ₹42,000 plus HRA in subsequent years",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 08",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "6 provisional positions for post code 08. Initially one year, extendable subject to review, up to three years. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Oceanic Sciences, Marine Sciences, Environment Modeling, Atmospheric Sciences, Meteorology, Earth System Sciences, Physics, or related disciplines; OR three years' research, teaching, design and development experience after M.E./M.Tech. in Oceanography, Physical Oceanography, Atmospheric Sciences, Meteorology, Marine Sciences, Environment Modeling, or related disciplines, plus at least one research paper in a Science Citation Indexed (SCI) journal. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 08 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-08",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Research Associate — SAC post code 08",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "Research Associate I/II/III: ₹58,000/₹61,000/₹67,000 per month plus HRA, according to qualification and experience",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 09",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 09. Initially one year, extendable subject to review, up to three years. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Mathematics, Physics, or related disciplines. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 09 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-09",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Research Associate — SAC post code 09",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "Research Associate I/II/III: ₹58,000/₹61,000/₹67,000 per month plus HRA, according to qualification and experience",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 10",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 10. Initially one year, extendable subject to review, up to three years. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Earth Sciences, Environmental Sciences, or related disciplines with specialization in remote-sensing applications in forestry, ecology, or wetlands. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 10 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-10",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Research Associate — SAC post code 10",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "Research Associate I/II/III: ₹58,000/₹61,000/₹67,000 per month plus HRA, according to qualification and experience",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 11",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 11. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Geophysics, Applied Geophysics, or related disciplines with specialization in cryosphere studies. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 11 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-11",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 11",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 12",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 12. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Ecology, Environmental Sciences, Forestry, or related disciplines; OR M.E./M.Tech. in Geoinformatics or related disciplines. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 12 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-12",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 12",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 13",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 13. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Remote Sensing & GIS or related disciplines with specialization in microwave remote sensing; OR M.E./M.Tech. in Remote Sensing & GIS, Geoinformatics, Geomatics, Civil Engineering, or related disciplines. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 13 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-13",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 13",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 14",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 14. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "Ph.D. in Geophysics, Earth Sciences, or related disciplines with specialization in crustal deformation studies. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 14 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-14",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 14",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 15",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "2 provisional positions for post code 15. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech. in Water Resources Engineering, Hydrology, Soil and Water Engineering, or related disciplines. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 15 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-15",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 15",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "SAC:02:2026 · post code 16",
+      "programme": "SAC temporary research positions 2026",
+      "status": "open",
+      "statusNote": "Original 18-page bilingual advertisement and current ISRO index/detail retained. First connector output awaits founder review; later corrections and category-specific conditions need checking.",
+      "scopeLabel": "ISRO central-government research recruitment. Initial posting: SAC, Ahmedabad; project work may require stay elsewhere in India. Ahmedabad is a work location, not a published interview venue or residence rule.",
+      "outcome": "1 provisional position for post code 16. Initially one year or project duration, extendable subject to project needs; ends with project. No right to regular ISRO appointment.",
+      "qualifications": "M.E./M.Tech. in RF & Microwave, Applied Physics, or related disciplines. Where prescribed, M.E./M.Tech. needs at least 60% aggregate or 6.5/10 CGPA/CPI; M.Sc./B.E./B.Tech. needs at least 65% or 6.84/10. Maximum age 35 on 30 September 2026, subject to published category/service relaxations. Exact degree equivalence, marks and relaxation need review.",
+      "citizenshipRule": "Original advertisement Important Information 1: only Indian nationals need apply. A foreign citizen does not meet the published application rule; no foreign/OCI exception is printed.",
+      "residenceRule": "No Ahmedabad, Gujarat, or other domicile/residence requirement is printed. Work posting does not establish applicant residence eligibility.",
+      "selectionStages": [
+        "Online application for the selected post code",
+        "Academic-record and subject-specialization shortlisting if needed",
+        "Interview; date and venue to be published later",
+        "Original-document and eligibility verification",
+        "Temporary engagement subject to final selection"
+      ],
+      "fee": "No application fee for any post (Important Information 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "SAC:02:2026 original advertisement, page 11, Important Information 1: Only Indian Nationals need to apply."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian nationality, post-code 16 degree and marks, age no more than 35 on 30 September 2026 or documented relaxation. Related-discipline equivalence requires SAC assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm shortlisting and interview invitation. Interview date and place have not been published in this notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final selection, document checks and temporary project engagement; selection gives no right to regular ISRO appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue to be announced by SAC"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://careers.sac.gov.in",
+      "changes": [],
+      "id": "isro-sac-02-2026-post-16",
+      "sourceId": "in-isro-sac-02-2026",
+      "title": "Project Scientist-I — SAC post code 16",
+      "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "workLocations": [
+        "Space Applications Centre, Ahmedabad, Gujarat, India"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-09-30",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Original notice and ISRO detail: online portal 2026-09-10 10:00 to 2026-09-30 17:00. No governing timezone is printed."
+      },
+      "languageNote": "Bilingual Hindi/English notice. No mandatory language, level or language certificate is printed for applicants.",
+      "salary": "₹56,000 per month plus HRA",
+      "sources": [
+        {
+          "id": "in-isro-sac-02-2026:bee7ec79f5c7",
+          "title": "ISRO current opportunities: SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+          "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:28.784Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:ed07f8d3693a",
+          "title": "SAC recruitment detail SAC:02:2026",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.isro.gov.in/SACRecruitment21.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+          "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:29.769Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-isro-sac-02-2026:808d3997b375",
+          "title": "SAC:02:2026 original bilingual advertisement",
+          "authority": "Space Applications Centre, Indian Space Research Organisation, Department of Space",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+          "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+          "lastSuccessfulFetchAt": "2026-09-25T14:16:31.240Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+      "fetchedAt": "2026-09-25T14:16:28.784Z",
+      "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 167688
+    },
+    {
+      "url": "https://www.isro.gov.in/SACRecruitment21.html",
+      "fetchedAt": "2026-09-25T14:16:29.769Z",
+      "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 6147
+    },
+    {
+      "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+      "fetchedAt": "2026-09-25T14:16:31.240Z",
+      "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+      "contentType": "application/pdf",
+      "bytes": 1280652
+    }
+  ],
+  "warnings": [
+    "Sixteen distinct post-code choices cover 48 provisional positions; position counts do not multiply opportunities.",
+    "Only Indian nationals may apply. No foreign/OCI exception or formal applicant language level is printed.",
+    "SAC Ahmedabad is initial posting, not a published interview venue. Interview details remain unknown.",
+    "The 17:00 cutoff has no printed governing timezone. Deadline-day status becomes uncertain after India local 17:00.",
+    "Degree equivalence, marks, age relaxations, JRF qualifying tests and later corrections require founder review.",
+    "Only advertisement SAC:02:2026 is bound; other ISRO and SAC calls remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "isro-sac-02-2026-post-01": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "56c0d28e2d8e5b802c9e2d9712d50b6f7bb63ba0d71b61c5e81f1ac44ea5bdcb"
+    },
+    "isro-sac-02-2026-post-02": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "1b6cacc52092635eee6dd6e3bfe1e8ae46b6390c3d7e8c72da92841815dcaf9c"
+    },
+    "isro-sac-02-2026-post-03": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "4c083da9f043955da1f621db51c19515273f7e80279f7ef7d7a9069a9ff5e6c8"
+    },
+    "isro-sac-02-2026-post-04": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "15ad3606bc772d9bf350174725cbcb18ab713405577c379c4b065cf85d2101f2"
+    },
+    "isro-sac-02-2026-post-05": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "27b9eadd9768229d6b9e754a205e904c6ed557cab349e5593543fc2358f9ace7"
+    },
+    "isro-sac-02-2026-post-06": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "0ed3682ca2f098cc385602b57177633553c3bd5c55ca69d446285717a662de38"
+    },
+    "isro-sac-02-2026-post-07": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "7b278b0aa0ff8f3554a1eaab910d310253aebd713996339f6c427f2a5826cb2f"
+    },
+    "isro-sac-02-2026-post-08": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "cc3661f39b57e44cb072462d98165a28f220dfe9ef14ac72c9fe3987395bf8e2"
+    },
+    "isro-sac-02-2026-post-09": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "3211b015a4bfd3f4ffe466bdc1815d5e74c181a87c0110ada3d2d17b36da490a"
+    },
+    "isro-sac-02-2026-post-10": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "549c683df185f16dade5cd666b910ecf7e561b8cd44615e00e5a1faf16772bf0"
+    },
+    "isro-sac-02-2026-post-11": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "e0911d7f1f47a7b6761034978aa3eae5fc4733049f9cac09aaf43d86d55de4bc"
+    },
+    "isro-sac-02-2026-post-12": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "aa496fd235072c164ab07d859e35779e4fadcb5660c816d0314eea8d5b9ef7c7"
+    },
+    "isro-sac-02-2026-post-13": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "5fb77814c541f1cb25194e8d42f4a4f051e3cd5bf152ca9caddfa8864d473be8"
+    },
+    "isro-sac-02-2026-post-14": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "e7ae2548cbda3569f27bd77d763ced459637ac63a8b3edccbdb79c62a6b2aeef"
+    },
+    "isro-sac-02-2026-post-15": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "1f446abdbe0316dd29a41199b9667295ab610a378ceaa98c8a411e066c17ffa3"
+    },
+    "isro-sac-02-2026-post-16": {
+      "evidenceRevision": "80a5f447c5c0ac024182c69154a1733bc8f5d54457f20b9efec31b79256d66bb",
+      "recordRevision": "c26ce7119c0c292ba35317c42e4821d58d29c6a4e107a69d3458b77c7ebb0d47"
+    }
+  }
+}

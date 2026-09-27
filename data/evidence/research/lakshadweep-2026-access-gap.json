@@ -1,0 +1,24 @@
+{
+  "sourceId": "in-ld-recruitment",
+  "capturedOn": "2026-09-25",
+  "collectionStatus": "manual-research-only",
+  "access": {
+    "recruitmentIndex": "https://lakshadweep.gov.in/notice_category/recruitment/",
+    "circularsIndex": "https://lakshadweep.gov.in/notice_category/circulars/?sortby=end_date",
+    "noticeDocumentHost": "cdn.s3waas.gov.in",
+    "documentHostRobots": "User-agent: *; Disallow: /",
+    "action": "Do not automate notice PDF requests; obtain an allowed official feed or manual review path. No connector or publication."
+  },
+  "evidence": [
+    { "file": "lakshadweep-recruitments-2026.html", "sha256": "21fae393269aa379bb9321c73f0e431a419047ff746330b20eda93530bf96967" },
+    { "file": "lakshadweep-circulars-2026.html", "sha256": "214f618e6818d80e31aa49cdd3816fcbc864e317f9bea8896a7c3f2a8f687c67" },
+    { "file": "lakshadweep-vas-2026.pdf", "sha256": "b0373ab6706633556392b1f3d62d09948a137c3b72a681a64a78f6138df15ccc", "url": "https://cdn.s3waas.gov.in/s358238e9ae2dd305d79c2ebc8c1883422/uploads/2026/09/17897325453391.pdf" },
+    { "file": "lakshadweep-cardiologist-2026.pdf", "sha256": "fc7117ee4928a21064874ef56bac10025c39f39321210378171348a06d7011fb", "url": "https://cdn.s3waas.gov.in/s358238e9ae2dd305d79c2ebc8c1883422/uploads/2026/09/17892046573218.pdf" },
+    { "file": "s3waas-robots.txt", "sha256": "efdb5938a9736727f5cce2b60355588e4fa541d19d022d222d8a09b8efd5dcce" }
+  ],
+  "manualFindings": [
+    { "title": "Veterinary Assistant Surgeon", "count": 1, "jobType": "11-month contract", "qualification": "B.V.Sc. & A.H. and veterinary council registration", "applicationClosesOn": "2026-09-28", "cutoffLocalTime": null, "nationality": "not stated in retained notice", "languageLevel": "not stated", "review": "Official application method and all eligibility require founder review." },
+    { "title": "Cardiologist", "count": 1, "jobType": "11-month contract", "qualification": "MD Medicine plus DM Cardiology or DNB Cardiology", "applicationClosesOn": "2026-10-01", "cutoffLocalTime": "18:00", "nationality": "not stated in retained notice", "languageLevel": "not stated", "review": "Scanned notice and application link require founder review." }
+  ],
+  "exclusions": ["Selection lists are outcomes, not application cycles", "Draft recruitment rules are not open applications"]
+}

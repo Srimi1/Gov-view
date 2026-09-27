@@ -1,0 +1,10 @@
+{
+  "sourceId": "gt-onsec-guatempleo",
+  "label": "historical-authority-referral-2019",
+  "url": "https://www.onsec.gob.gt/w1/wp-content/uploads/2019/10/Revista-ONSEC-Aniversario-2019-FINAL.pdf",
+  "format": "PDF",
+  "status": "failed",
+  "path": "data/evidence/research/latam67-gt-onsec-guatempleo-historical-authority-referral-2019-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:19:35.837Z",
+  "error": "robots.txt unavailable (HTTP 403) at https://www.onsec.gob.gt"
+}

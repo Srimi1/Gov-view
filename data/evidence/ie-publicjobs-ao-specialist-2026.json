@@ -1,0 +1,79 @@
+[
+ {
+  "url": "https://www.publicjobs.ie/en/",
+  "fetchedAt": "2026-09-26T19:56:18.909Z",
+  "sha256": "79aa738bc8e1c897b27d2bebdf6901b7bc4f6383a799e0eb3d84680a09528696",
+  "bytes": 76872,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-423dd989250d/candidate/jobboard/vacancy/3/adv/",
+  "fetchedAt": "2026-09-26T19:56:20.787Z",
+  "sha256": "113911991d8e08212bb897cf50bb2697cf1cfc45809295af0a5121626053c82e",
+  "bytes": 281940,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://publicjobs.tal.net/candidate/so/pm/1/pl/3/opp/9005-Graduate-Opportunities-2026-Administrative-Officer-Specialist/en-GB",
+  "fetchedAt": "2026-09-26T19:56:22.118Z",
+  "sha256": "3edec43917ea96f0dcef22af9e3c0aa0986896325b47759352fc7766dcf5b46b",
+  "bytes": 61353,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-aa0ac4d56852/candidate/download_file_opp/9005/105858/1/0/30a45384f252003f28ea5f016ebce93f47eadbcb",
+  "fetchedAt": "2026-09-26T19:56:24.440Z",
+  "sha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247",
+  "bytes": 997463,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-aa0ac4d56852/candidate/download_file_opp/9005/406178/1/0/30a45384f252003f28ea5f016ebce93f47eadbcb",
+  "fetchedAt": "2026-09-26T19:56:26.538Z",
+  "sha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247",
+  "bytes": 997463,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/32/077bfe81961c9b397da42dcc2d4d1887d3f0e0b8",
+  "fetchedAt": "2026-09-26T19:56:27.066Z",
+  "sha256": "2267670b39688054108188323039f0c68f5ee2086ae8d546dcf4d266ae24f81f",
+  "bytes": 184394,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/50/793641601c7545d5e83ff3e6470334b2d7c3a718",
+  "fetchedAt": "2026-09-26T19:56:28.111Z",
+  "sha256": "7b98c8efdb9d01e9f6b64f05c10903b2d57bea82d616df544859ba59684375f3",
+  "bytes": 259461,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/47/92afbc69f53b9615f4eefb61d302ef4663078f44",
+  "fetchedAt": "2026-09-26T19:56:29.036Z",
+  "sha256": "04045866ee0a51000c9e1a4f8b50a54742dc689202e9d2575e9a558f7f03e2fc",
+  "bytes": 178448,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/48/7bb68669a93df1e9c35c51fc3925178f9f7d72f5",
+  "fetchedAt": "2026-09-26T19:56:30.000Z",
+  "sha256": "9b057388ef33b4fbbf02224aa07758e8b16acee3658e7124510c9ad8dbe4ea03",
+  "bytes": 161776,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/49/9a23f976142c02cf61e4848eaca86b38c5594b71",
+  "fetchedAt": "2026-09-26T19:56:30.990Z",
+  "sha256": "cdb3044987595b874c7c60d8ed9baaa9a196fc314ac5f1db7c028d6057210739",
+  "bytes": 230048,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://publicjobs.tal.net/cached/spa-1/share/d/33/557efe9fd970288dd2779120e856083a7431aa25",
+  "fetchedAt": "2026-09-26T19:56:31.999Z",
+  "sha256": "799829f4f8a9557fc0e90a1b486367302eb57410cf4bf9267a8d6bbb02d87031",
+  "bytes": 152308,
+  "contentType": "application/pdf"
+ }
+]

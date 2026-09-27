@@ -1,0 +1,772 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<NOSCRIPT>
+		<meta http-equiv="Refresh" content="1; URL=note1.php">
+	</NOSCRIPT>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/hub/application_new/css/favicon.ico">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/hub/application_new/css/bootstrap_rwd.min.css">
+    <link rel="stylesheet" href="/hub/application_new/css/style.css"> 
+	<link rel="stylesheet" href="/hub/application_new/css/bootstrap-icons.css"> 
+
+
+    <title>Common Recruitment Process for RRBs (CRP RRBs XV) for Recruitment of Group “B” - Office Assistants (Multipurpose)</title> 
+
+	<script>
+		function mypopup(url,width,height)
+		{
+		width=window.screen.width;
+		height=window.screen.height;
+		mywindow = window.open (url,"mywindow","location=0,status=1,scrollbars=1,resizable=1,menubar=0,toolbar=yes,width="+width+",height="+height);
+		mywindow.focus();
+		} 
+		function trim(value) {
+		var temp = value;
+		var obj = /^(\s*)([\W\w]*)(\b\s*$)/;
+		if (obj.test(temp)) { temp = temp.replace(obj, '$2'); }
+		var obj = / +/g;
+		temp = temp.replace(obj, " ");
+		if (temp == " ") { temp = ""; }
+		return temp;
+		}
+		function isNumeric(obj_nam){
+		var x=0;
+			x = trim(document.getElementById(obj_nam).value);
+			// alert(x);
+		//  var anum=/(^\d+$)|(^\d+\.\d+$)/;
+		var anum=/(^\d+$)/;
+		if (anum.test(x)){    
+			return true;
+		}else{
+			return false;             
+		}
+		}
+		function isInteger(s){
+			var i;
+			for (i = 0; i < s.length; i++){   
+				// Check that current character is number.
+				var c = s.charAt(i);
+				if (((c < "0") || (c > "9"))) return false;
+			}
+			// All characters are numbers.
+			return true;
+		}
+
+		function stripCharsInBag(s, bag){
+			var i;
+			var returnString = "";
+			// Search through string's characters one by one.
+			// If character is not in bag, append to returnString.
+			for (i = 0; i < s.length; i++){   
+				var c = s.charAt(i);
+				if (bag.indexOf(c) == -1) returnString += c;
+			}
+			return returnString;
+		}
+
+		function daysInFebruary (year){
+			// February has 29 days in any year evenly divisible by four,
+			// EXCEPT for centurial years which are not also divisible by 400.
+			return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+		}
+		function DaysArray(n) {
+			for (var i = 1; i <= n; i++) {
+				this[i] = 31
+				if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+				if (i==2) {this[i] = 29}
+		} 
+		return this
+		}
+
+		function isDate(dtStr){
+			var daysInMonth = DaysArray(12)
+			var pos1=dtStr.indexOf(dtCh)
+			var pos2=dtStr.indexOf(dtCh,pos1+1)
+			var strDay=dtStr.substring(0,pos1)
+			var strMonth=dtStr.substring(pos1+1,pos2)
+			var strYear=dtStr.substring(pos2+1)
+			strYr=strYear
+			if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+			if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+			for (var i = 1; i <= 3; i++) {
+				if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+			}
+			month=parseInt(strMonth)
+			day=parseInt(strDay)
+			year=parseInt(strYr)
+			if (pos1==-1 || pos2==-1){
+				alert("The date format should be : dd-mm-yyyy")
+				return false
+			}
+			if (strMonth.length<1 || month<1 || month>12){
+				alert("Please enter a valid month")
+				return false
+			}
+			if (strDay.length<1 || day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
+				alert("Please enter a valid day")
+				return false
+			}
+			//if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+			if (strYear.length != 4 || year==0){
+				alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
+				return false
+			}
+			if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+				alert("Please enter a valid date")
+				return false
+			}
+			return true
+		}
+		
+		function validateLogin(){ 	
+			if(trim(document.getElementById('txtregno').value) == '')
+			{
+				alert("Please enter  registration no");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}else if(!isNumeric('txtregno')){
+				alert("Registration no is invalid..");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}
+			/*else if(trim(document.getElementById('txtregno').value).length > 8)
+			{
+				alert("Registration no is invalid");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}*/
+			/*if(trim(document.getElementById('txtdob').value) == '')
+			{
+				alert("Please enter date of birth");
+				document.getElementById('txtdob').focus();
+				return false; 
+			}else if (isDate(document.getElementById('txtdob').value)==false){		
+				document.getElementById('txtdob').focus();
+				return false
+			}*/	
+				
+			if(trim(document.getElementById('txtpass').value) == '')
+			{
+				alert("Please enter a password");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}else if(trim(document.getElementById('txtpass').value).length!= 8)
+			{
+				alert("password is invalid");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}
+			//document.getElementById('sub').value=1;
+			//document.login_frm.action="userlogin.php";
+			//document.login_frm.submit();
+			checkvalue();		 
+		}
+		function validateLoginImpCheck(){ 	
+		
+		//////after capcha implemented code start//////////////
+			if(typeof LOGINCAPCHA != 'undefined' && LOGINCAPCHA != null)
+			{
+				if(trim(document.getElementById('txtregno').value) == '')
+				{
+					$("#loginError").html("Please enter registration no");
+					document.getElementById('txtregno').focus();
+					return false; 
+				}else if(trim(document.getElementById('txtpass').value) == '')
+				{
+					$("#loginError").html("Please enter a password");
+					document.getElementById('txtpass').focus();
+					return false; 
+				}else if(trim(document.getElementById('txtpass').value).length!= 8)
+				{
+					$("#loginError").html("password is invalid");
+					document.getElementById('txtpass').focus();
+					return false; 
+				}else 
+				{
+					var pass=document.getElementById('txtpass').value;
+					if(EnableCaptcha=='Y')
+						var hash = MD5(pass+trim(document.getElementById("security_check").value));
+					else
+						var hash = MD5(pass);
+					document.getElementById('txtpass').value=hash;
+					//return true;
+				}
+				if(!loginvalidationcheck(pass))
+					return false;
+			}
+			//////after capcha implemented code END//////////////
+			
+			//////before capcha implemented code//////////////
+			if(trim(document.getElementById('txtregno').value) == '')
+			{
+				alert("Please enter registration no");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}else if(!isNumeric('txtregno')){
+				alert("Registration no is invalid..");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}
+			
+			/*else if(trim(document.getElementById('txtregno').value).length > 8)
+			{
+				alert("Registration no is invalid");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}*/
+			/*if(trim(document.getElementById('txtdob').value) == '')
+			{
+				alert("Please enter date of birth");
+				document.getElementById('txtdob').focus();
+				return false; 
+			}else if (isDate(document.getElementById('txtdob').value)==false){		
+				document.getElementById('txtdob').focus();
+				return false
+			}*/	
+				
+			if(trim(document.getElementById('txtpass').value) == '')
+			{
+				alert("Please enter a password");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}else if(trim(document.getElementById('txtpass').value).length!= 8)
+			{
+				alert("password is invalid");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}else 
+			{
+				var pass=document.getElementById('txtpass').value;
+			//document.getElementById("txtpass").value = document.getElementById("txtpass").value;
+			var hash = MD5(pass);
+			document.getElementById('txtpass').value=hash;
+			//return true;
+			}
+			
+			//document.getElementById('sub').value=1;
+			//document.login_frm.action="userlogin.php";
+			//document.login_frm.submit();
+			checkvalue();		 
+		}
+
+		function validateLogin1(){ 	
+			if(trim(document.getElementById('txtregno').value) == '')
+			{
+				alert("Please enter XAT ID");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}else if(!isNumeric('txtregno')){
+				alert("XAT ID is invalid..");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}
+			/*else if(trim(document.getElementById('txtregno').value).length > 8)
+			{
+				alert("Registration no is invalid");
+				document.getElementById('txtregno').focus();
+				return false; 
+			}*/
+			/*if(trim(document.getElementById('txtdob').value) == '')
+			{
+				alert("Please enter date of birth");
+				document.getElementById('txtdob').focus();
+				return false; 
+			}else if (isDate(document.getElementById('txtdob').value)==false){		
+				document.getElementById('txtdob').focus();
+				return false
+			}*/	
+				
+			if(trim(document.getElementById('txtpass').value) == '')
+			{
+				alert("Please enter a password");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}else if(trim(document.getElementById('txtpass').value).length!= 8)
+			{
+				alert("password is invalid");
+				document.getElementById('txtpass').focus();
+				return false; 
+			}
+			//document.getElementById('sub').value=1;
+			//document.login_frm.action="userlogin.php";
+			//document.login_frm.submit();
+			checkvalue();		 
+		}
+
+		function checkvalue()
+		{
+			document.getElementById('Submit').disabled=true;
+			
+			document.hform.hdnuser.value =trim(document.getElementById("txtregno").value);  
+			document.hform.hdnpass.value = trim(document.getElementById("txtpass").value);
+			if(typeof LOGINCAPCHA != 'undefined' && LOGINCAPCHA != null && EnableCaptcha=='Y')
+			{
+				if(EnableCaptcha=='Y')
+				{
+					document.hform.txtCode.value = trim(document.getElementById("txtCode").value);
+					document.hform.security_check.value = trim(document.getElementById("security_check").value);
+				}
+				
+			}
+			
+			
+			// document.hform.hdnpass.value = MD5(document.getElementById("txtpass").value + document.getElementById("rand_number").value);
+
+			//document.hform.hdndob.value = document.getElementById("txtdob").value;
+			document.hform.hdnop.value = document.login_frm.op.value;
+
+			document.hform.hdrand_number.value = document.getElementById("rand_number").value;
+			
+
+			document.hform.hdnsub.value=1;
+			document.getElementById("txtregno").value = "";  
+			document.getElementById("txtpass").value = "";  
+			//document.getElementById("txtdob").value = "";
+			document.login_frm.op.value="";
+			document.getElementById("rand_number").value="";
+			
+			if(typeof LOGINCAPCHA != 'undefined' && LOGINCAPCHA != null && EnableCaptcha=='Y')
+			{
+				document.getElementById("txtCode").value="";
+				document.getElementById("security_check").value="";
+			}
+			
+
+			//alert(document.hform.hdnop.value);
+			document.hform.submit();  
+		}
+		function loginvalidationcheck(pass)
+		{
+			$.ajax({
+				type:"POST",
+				data:$("#login_frm").serialize(),
+				url: "loginvalidationcheck.php",
+				success: function(response){
+					if($.trim(response)!="success")
+					{
+						$("#loginError").html(response);
+						$(".loginError").html("");
+						document.getElementById('txtpass').value=pass;
+					}
+					else
+					{	
+						$("#loginError, .loginError").html("");
+						checkvalue();
+					}
+				}
+			});
+		} 
+		function alphadigits(e){	
+			var key;
+			var keychar;
+			if (window.event){
+				key = window.event.keyCode;		
+			}else if (e){
+				key = e.which;		
+			}
+			else
+				return true;
+
+			if((key == 8) || (key == 0) || (key == 48))
+				return true;
+				
+			keychar = String.fromCharCode(key);
+			keychar = keychar.toLowerCase();
+			if(key!=32)
+			{ 		
+				invalids = "`~@#$%^*()-&+=\|{}[]:;'\"<>?/!,\\._";
+				//invalids = "`~@#$%^*()_+=\|{}[]:;'\"<>&?/!,\\";
+				for(i=0; i<invalids.length; i++) {
+					if(keychar.indexOf(invalids.charAt(i)) >= 0 || keychar==false) {				           			  
+						return false;               
+					}
+				}
+			}
+			return true;		
+		}
+	</script>
+</head> <script>
+	var TAB_DEVICE = '1';
+	var EnableCaptcha = 'Y';
+	var LOGINCAPCHA = '1';
+</script>
+<script>
+	// function loginForm() {
+	// 	var loginData = document.getElementById("login_frm");
+	// 	if (loginData.style.display === "none") 
+	// 	{
+	// 		loginData.style.display = "block";
+	// 	} else {
+	// 		loginData.style.display = "none";
+	// 	}
+	// }
+</script>
+<style>
+	.blink {
+  /*animation: blinker 1s step-start infinite; */
+  color: #4c56c0;
+}
+
+/* @keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+} */
+
+.ml-custom
+{
+	margin-left: 5.2rem;  
+}
+
+.loginheader .navbar-brand:after
+{
+    width: 200px;
+}
+
+</style>	
+
+
+<body topmargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0" oncontextmenu="return false;" onpageshow="if (event.persisted) noBack();">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-VFEG5KZ6VC"></script> 
+<script>   
+window.dataLayer = window.dataLayer || [];   
+function gtag(){dataLayer.push(arguments);}   
+gtag('js', new Date());   
+gtag('config', 'G-VFEG5KZ6VC'); 
+</script>
+<script>
+//if(TAB_DEVICE == 0){
+	window.history.forward(1);
+//}else if(TAB_DEVICE > 0){
+//	 if (event.persisted) {
+ //       window.history.forward();
+//    }
+//}
+
+</script>
+
+	
+	<!-- Header Section Start -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="format-detection" content="telephone=no">
+	<link href="/hub/application_new/images/inb.css" rel="stylesheet" type="text/css" />
+	<header class="loginheader">
+		<nav class="navbar fixed-top ml-custom">
+			<a class="navbar-brand"><img src="https://ibpsreg.ibps.in/rrboaxvaug26/logo.jpg" width="500px" height="90px"  ></a>
+		</nav>
+	</header>
+
+	<!-- Header Section End -->
+
+
+	
+
+	<div class="row">
+		<div class="col-lg-8 logincontent order-2 order-md-1">
+			<div class="d-flex justify-content-center align-items-center h100">
+				<div class="col-md-10 pt-5 pb-5">
+
+					<div class="login-content">
+						<div class="login-title mb-2 mt-3">
+							Common Recruitment Process for RRBs (CRP RRBs XV) for Recruitment of Group “B” - Office Assistants (Multipurpose)							
+							<span>
+								<!--img src="images/new.jpg" width="42" height="18" /-->
+							</span>
+						</div>
+						<div class="table-responsive">
+							<table class="table" id="appltblIndx">
+								<thead>
+									<tr>
+										<th>Important Events</th>
+										<th>
+											Dates <!-- Start Date -->
+										</th>
+																				<!-- <th>End Date </th> -->
+									</tr>
+								</thead>
+								<tbody>
+
+
+									<tr>
+										<td>Commencement of online registration of application </td>
+																				<td>01/09/2026</td>
+										<!-- <td></td> -->
+									</tr>
+									<tr>
+										<td>Closure of registration of application </td>
+																				<td>27/09/2026</td>
+										<!-- <td></td> -->
+									</tr>
+																											<tr>
+										<td>Closure for editing application details </td>
+																				<td>27/09/2026</td>
+										<!-- <td></td> -->
+									</tr>
+																		<tr>
+										<td>Last date for printing your application</td>
+																				<td>12/10/2026</td>
+										<!-- <td class="tb-r4"></td> -->
+									</tr>
+																			<tr>
+											<td>Online Fee Payment</td>
+																						<td>01/09/2026 to 27/09/2026</td>
+											<!-- <td class="tb-r5"></td> -->
+										</tr>
+																											
+								</tbody>
+							</table>
+						</div>
+																								<div class="disclaimer">
+
+                          
+							<h4><i class="error"></i></h4>
+							<p>Online Application validation rules and design are based on the Notification requirement. Candidates are advised to read the notification carefully and refer "How to Apply" &amp; "FAQ" pages on the main page. Application submitted through Online form does not imply that candidate has fulfilled all the criteria given in the notification. Application is subject to subsequent scrutiny and can be rejected if found to be ineligible at any point of time.</p>
+								
+							
+							<p class="blink"><b>Note : "Those candidates who have been debarred from appearing in CRP examinations for specified periods in terms of the communication made to that effect by IBPS, may act accordingly."</b></p>
+							<p class="blink"><b>Note : "All PwD candidates opting for Scribe and/ or Compensatory time must read and follow the guidelines for Scribe and Compensatory time provided in the notification and in the application link at relevant places."</b></p>
+														<small class="error">Support and Best Viewed on Internet Explorer 9+; Google Chrome 30+ ; Firefox 20+</small>
+							
+							
+						    
+
+														<!--footer start here-->
+							<div style="display:none">
+	<footer class="footer">
+		<div class="container-fluid text-right">
+			<span class="text-muted"></span>
+			<span class="text-muted">Support and Best Viewed on Internet Explorer 9+; Google Chrome 30+ ; Firefox 20+</span>
+		</div>
+	</footer>
+<!-- <div id="footer_links">
+<div id="footer_copyright_txt"></div>
+<div id="footer_copyright_txt" class="footer_info" >Support and Best Viewed on Internet Explorer 9+; Google Chrome 30+ ; Firefox 20+</div>
+</div> -->
+<!--<script type="text/javascript" src="js/jquery_1.10.0.min.js"></script>-->
+<script type="text/javascript" src="/hub/application_new/js/jquery-3.7.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="/hub/application_new/js/overlay.js"></script>
+	<script type="text/javascript">
+	function settingTableRowColor(tableName){
+		$('#'+tableName+' tr:visible:odd').attr('class','tb-r2');
+		$('#'+tableName+' tr:visible:even').attr('class','tb-r1');
+	}
+	settingTableRowColor("appltblIndx");
+	</script>
+	<script type="text/javascript" src="/hub/application_new/js/ddsmoothmenu.js"></script>
+	<script language="javascript" type="text/javascript" src="/hub/application_new/js/md5.js"></script>
+<script type="text/javascript">
+//$("input,select,textarea").attr("autocomplete","");
+$(document).ready(function(){  
+    // $("input").attr("autocomplete", 0);
+	//$("form").attr("autocomplete", "");
+	$("input").attr("autocomplete", "off");
+	$("input").focus(function(){
+	  if($(this).prop( "readonly" )){
+		$(this).blur();
+	  }
+	});
+
+	$(".zoompageinout").change(function(){   
+		$("body").attr("style","zoom:"+$(this).val()+"%;"+"-moz-transform: scale(1.2,1.2);");
+	});
+	
+});
+
+
+
+</script></div>
+							<!--footer end here-->
+						</div>
+					</div>
+
+					<div class="watermark" style="background-image: url('');"></div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 loginform order-1 order-md-2 bg ">
+			<div class="justify-content-center ">
+				<div class="py-4 login_signup_main">
+				    						
+					<a class="newreg mb-3" href="javascript:void(0)" onclick="document.fsd.submit();" id="reg_click_here">Click here for New Registration</a>
+										
+
+					<form id="fsd" action="basic_details.php" name="fsd" method="post"><input type="hidden" name="rf" id="rf" value="AA==" /></form>
+					
+					
+
+
+					<!-- Button trigger modal -->
+					<a type="button" class="login_btn mt-2" data-toggle="modal" data-target="#login_frm1">
+						Login for already Registered Candidates					</a>
+
+					<!-- Modal -->
+					<div class="modal fade" id="login_frm1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" method="post" autocomplete="off">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<form id="login_frm" class="login_form" name="login_frm" method="post" autocomplete="off">
+								<div class="modal-header">
+									<div class="d-block text-center">
+										<div class="text-center">
+											<h5 class="mb-1">Login for already Registered Candidates</h5>
+										</div>
+                                        										<div class="text-center">
+											<small>(for editing application/online payment/e-receipt print/application print)</small>
+										</div>
+																			</div>
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">&times;</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									<div class="form-group">
+										<input name="txtregno" id="txtregno" maxlength="10" type="text" value="" onkeypress="return alphadigits(event)" class="form-control" required>
+										<label class="form-control-placeholder" for="txtregno">Registration Number</label>
+									</div>
+									<div class="form-group">
+										<input name="txtpass" id="txtpass" type="password" maxlength="8" value="" class="form-control" required>
+										<label class="form-control-placeholder" for="txtpass">Password</label>
+																				<a href="forgotpwd.php" class="forgot">Forgot Password? </a>
+																			</div>
+																			<div class="form-group login-security-code">
+											<input name="txtCode" type="text" id="txtCode" size="20" class="form-control security no-uppercase" required>
+											<label class="form-control-placeholder" for="txtCode">Security Code</label>
+											<img id="image">
+											<a href="" onclick="reset1(); show_captcha_new(); return false" class="refresh-btn">
+												<svg class="icon" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 322.447 322.447" style="enable-background:new 0 0 322.447 322.447;" xml:space="preserve">
+													<g>
+														<path d="M321.832,230.327c-2.133-6.565-9.184-10.154-15.75-8.025l-16.254,5.281C299.785,206.991,305,184.347,305,161.224
+													c0-84.089-68.41-152.5-152.5-152.5C68.411,8.724,0,77.135,0,161.224s68.411,152.5,152.5,152.5c6.903,0,12.5-5.597,12.5-12.5
+													c0-6.902-5.597-12.5-12.5-12.5c-70.304,0-127.5-57.195-127.5-127.5c0-70.304,57.196-127.5,127.5-127.5
+													c70.305,0,127.5,57.196,127.5,127.5c0,19.372-4.371,38.337-12.723,55.568l-5.553-17.096c-2.133-6.564-9.186-10.156-15.75-8.025
+													c-6.566,2.134-10.16,9.186-8.027,15.751l14.74,45.368c1.715,5.283,6.615,8.642,11.885,8.642c1.279,0,2.582-0.198,3.865-0.614
+													l45.369-14.738C320.371,243.946,323.965,236.895,321.832,230.327z" />
+													</g>
+												</svg>
+											</a>
+											
+										</div>
+										<input type="hidden" name="security_check" id="security_check">
+										<span id="err_txtCode" style="display:none" class="er_alert2 "></span>
+									
+									<div class="error text-center" id="loginError"></div>
+									
+								</div>
+								<div class="modal-footer">
+									<button type="button" class="btn btn-secondary !p-0" data-dismiss="modal">Close</button>
+									<input class="btn btn-primary" style="height: 40px;"  onclick="return validateLoginImpCheck();" type="button" name="Submit" id="Submit" value="Submit">
+									<!-- <input class="btn1" type="button" value="Reset"> -->
+									<input type="hidden" name="rand_number" id="rand_number" value="954047349" />
+									<input type="hidden" name="op" value="1" />
+								</div>
+								</form>
+							</div>
+						</div>
+					</div>
+
+					<!-- <a class="newreg " data-toggle="modal" data-target="#exampleModal">Login for already Registered Candidates</a> -->
+
+					<!-- Login Form Old design -->
+					
+					<!-- Login Form Old design -->
+					
+									</div>
+								<div class="reference_doc_main">
+					<div class="events mb-3">
+						<div class="login-title mb-2"> <i class="bi bi-file-earmark-text-fill pr-2"></i>Reference Documents </div>
+						<ul>
+															<li>
+																		<a class="rd_link" href="https://ibpsreg.ibps.in/rrboaxvaug26/uploads/loadpdf.php?file=k7m5p+fQ15e6zM3iwuHby97NnJt9sc/KYaao1bWrpok=&t=zLjIrOLC1Ni005njxc8=#toolbar=0&navpanes=0" target="_blank"> <i class="bi bi-chevron-double-right"></i> <span>How to Apply</span></a>
+								</li>
+																														<li>
+									<a class="rd_link" target="_blank" href="https://ibpsreg.ibps.in/rrboaxvaug26/uploads/loadpdf.php?file=k7m5p+fQ15e6zM3iwuHby97NnJt9sc/KYaao1bWrpok=&t=yqrCZuPFyg==#toolbar=0&navpanes=0"><i class="bi bi-chevron-double-right"></i> <span>Frequently Asked Questions<span></a>
+								</li>
+																														<li>
+									<a class="rd_link" target="_blank" href="https://ibpsreg.ibps.in/rrboaxvaug26/uploads/loadpdf.php?file=k7m5p+fQ15e6zM3iwuHby97NnJt9sc/KYaao1bWrpok=&t=zbfErOXWx9yxydnmj9nJ0A==#toolbar=0&navpanes=0"><i class="bi bi-chevron-double-right"></i><span>Important Points</span></a>
+								</li>
+																														<li>
+									<a class="rd_link" target="_blank" href="https://ibpsreg.ibps.in/rrboaxvaug26/uploads/loadpdf.php?file=k7m5p+fQ15e6zM3iwuHby97NnJt9sc/KYaao1bWrpok=&t=1LHArOLA2di0yczXwNDa083LmNWypw==#toolbar=0&navpanes=0"><i class="bi bi-chevron-double-right"></i> <span>Guidelines for scanning the Photograph & Signature</span></a>
+								</li>
+																														<li>
+									<a class="rd_link" target="_blank" href="https://ibpsreg.ibps.in/rrboaxvaug26/uploads/loadpdf.php?file=k7m5p+fQ15e6zM3iwuHby97NnJt9sc/KYaao1bWrpok=&t=16zDodXGktiswA==#toolbar=0&navpanes=0"><i class="bi bi-chevron-double-right"></i> <span>Guidelines for scribe</span></a>
+								</li>
+													</ul>
+						
+						
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+
+
+
+
+
+	<!-- //dbsec applied -->
+	<form action="logincheck.php" method="post" name="hform">
+		<input type="hidden" name="hdnuser">
+		<input type="hidden" name="hdnpass">
+		<!-- <input type="hidden" name="hdndob"> -->
+		<input type="hidden" name="hdnsub">
+		<input type="hidden" name="hdnop" id="hdnop">
+		<input type="hidden" name="hdrand_number">
+		<input type="hidden" name="txtCode" />
+		<input type="hidden" name="security_check">
+		<input type="hidden" name="rf" id="rf" value="AA==" />
+	</form>
+	<!-- //dbsec applied -->
+
+
+	<div class="orientationMsg" style="display:none; position:absolute;">
+		<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td class="tdbg">
+			<table width="780" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td height="300" valign="top">
+						<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td width="750" height="15"></td>
+							</tr>
+						</table>
+						<table width="758" border="0" align="center" cellpadding="2" cellspacing="2">
+							<tr>
+								<td align="center" valign="middle" class="tablecontent1">
+									<div>
+									<p align="center" class="style4" style="text-align: center; color:red; font-size:25px; margin-top:120px;">This Website is viewable only in Landscape Mode.</p>
+									</div>
+									<p></a></p>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>	</div>
+	
+<!-- Bootstrap -->
+	<script src="/hub/application_new/js/jquery-3.7.1.slim.min.js" ></script>
+	<script src="/hub/application_new/js/bootstrap.bundle.min.js" ></script>
+	
+	<script>
+		$('#myModal').on('shown.bs.modal', function() {
+			$('#myInput').trigger('focus')
+		})
+	</script>
+	<script type="text/javascript" src="/hub/application_new/js/jquery_1.10.0.min.js"></script>
+</body>
+
+
+</html>
+	<script language="javascript" type="text/javascript" src="/hub/application_new/js/reg_valid.js?t=" +Math.random()></script>
+	<script type="text/javascript">
+		show_captcha_new();
+	</script>

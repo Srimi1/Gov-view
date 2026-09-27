@@ -1,0 +1,22 @@
+{
+  "reviewStatus": "pending",
+  "indexUrl": "https://tpsc.tripura.gov.in/advertisement",
+  "documents": [
+    { "key": "03/2026", "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_03_2026_070526.pdf", "sha256": "086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476" },
+    { "key": "02/2026", "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf", "sha256": "cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72" },
+    { "key": "01/2026-addendum", "url": "https://tpsc.tripura.gov.in/sites/default/files/Addendum_01_2026_300326.pdf", "sha256": "6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9" },
+    { "key": "01/2026", "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_01_2026_170326.pdf", "sha256": "140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291" }
+  ],
+  "cycles": [
+    { "number": "01/2026", "post": "Assistant Tourist Officer", "vacancies": 2, "opensOn": "2026-03-24", "originalClosesOn": "2026-04-18", "closesOn": "2026-04-27", "cutoffLocalTime": "17:30", "ageAsOn": "2026-04-18" },
+    { "number": "02/2026", "post": "Assistant Technical Officer", "vacancies": 220, "opensOn": "2026-05-12", "closesOn": "2026-06-05", "cutoffLocalTime": "17:30", "ageAsOn": "2026-06-05" },
+    { "number": "03/2026", "post": "Junior Engineer, Electrical (Grade I degree / Grade II diploma)", "vacancies": 8, "opensOn": "2026-05-19", "closesOn": "2026-06-12", "cutoffLocalTime": "17:30", "ageAsOn": "2026-06-12" }
+  ],
+  "notes": [
+    "All four official PDFs are image scans; OCR is only a reading aid. Visual inspection of critical pages remains subject to founder acceptance.",
+    "Advertisement 01/2026 addendum adds one UR post to original one ST post and moves deadline from 18 to 27 April 2026; age reference remains 18 April.",
+    "Advertisement 03/2026 announces one combined competitive examination with two grades; whether applicants can file distinct grade choices needs portal review before publication.",
+    "Permanent Resident Certificate of Tripura is an applicant-document condition, not inferred from current residence address.",
+    "Bengali or Kokborok is desirable in all three notices; no mandatory language level or CEFR equivalent is stated."
+  ]
+}

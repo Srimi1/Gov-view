@@ -1,0 +1,1386 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Responsive team section</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico"> 
+
+    
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> 
+     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/> -->
+    
+   
+
+</head>
+<body id="top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+            <ul class="nav">
+            <!-- <li class="nav-item"><a class="nav-link" aria-current="page" href="../pages/psmap.html">Maps | </a></li> -->
+            <li class="nav-item"><a class="nav-link" aria-current="page" href="../pages/contact.html">Contact Us | </a></li>
+            <!-- <li class="nav-item"><a class="nav-link" aria-current="page" href="../pages/faq.html">FAQ | </a></li> -->
+            <li class="nav-item"><a class="nav-link" aria-current="page" href="../pages/emergency.html">Emergency Contacts | </a></li>
+            <!-- <li class="nav-item"> <a class="nav-link" aria-current="page" href="../pages/orgstr.html">Organisation Structure </a></li> -->
+            </ul> 
+            </div>
+            </div>   
+        </nav> 
+        
+   <div class="top-navbar">
+  <!-- Left Logo -->
+  <a class="logo-left">
+    <img src="../images/demo/police_logo1.jpg" alt="Left Logo"/>
+  </a>
+
+  <!-- Center Content -->
+  <div class="navbar-center">
+    <div class="navbar-left-text">
+      <span class="title1">Ladakh Police</span>
+      <span class="title2">Service And Courage</span>
+    </div>
+
+    <div class="navbar-right-content">
+      <div class="email-container">
+        <span class="email-icon">📧</span>
+        <span class="email-text">igp@ladakhpolice.gov.in</span>
+      </div>
+      <button class="know-police-btn" onclick="window.location.href='../pages/policestations.html'">
+        Find Your Police Station
+      </button>
+    </div>
+  </div>
+
+  <!-- Right Logo -->
+  <a class="logo-right">
+    <img src="../images/demo/Ladakh_Police_logo.png" alt="Right Logo"/>
+  </a>
+</div>
+
+    <script> 
+        function toggleDropdown(button) {
+          // Get the dropdown-content associated with this button
+          var dropdownContent = button.nextElementSibling;
+          var isVisible = dropdownContent.style.display === 'block';
+
+          // Hide all dropdowns
+          var allDropdowns = document.querySelectorAll('.dropdown-content');
+          allDropdowns.forEach(function(content) {
+              content.style.display = 'none';
+          });
+
+          // Toggle visibility of the clicked dropdown
+          dropdownContent.style.display = isVisible ? 'none' : 'block';
+      }
+  </script>
+
+  <div class="wrapper row2">
+    <div class="rounded">
+      <nav id="mainav" class="clear"> 
+        <div class="menu-button" onclick="toggleMenu()">☰</div>
+        
+        <script>
+          // Toggle the mobile menu visibility
+                function toggleMenu() {
+                  const menu = document.querySelector('.menu');
+                  menu.classList.toggle('open'); // Toggle the 'open' class to show/hide the menu
+                }
+
+                // Toggle the dropdown visibility
+                function toggleDropdown() {
+                  const dropdownContent = event.target.nextElementSibling;
+                  dropdownContent.classList.toggle('show'); // Toggle dropdown visibility
+                }
+                // Close all other dropdowns when one is clicked
+                const dropdowns = document.querySelectorAll('.dropdown');
+                dropdowns.forEach(function(dropdown) {
+                  if (dropdown !== dropdownContent) {
+                    dropdown.classList.remove('show');
+                  }
+                });
+
+
+                // Close dropdown when clicking outside
+                window.addEventListener('click', function(event) {
+                  if (!event.target.closest('.dropdown')) {
+                    const dropdowns = document.querySelectorAll('.dropdown-content');
+                    dropdowns.forEach(function(dropdown) {
+                      dropdown.classList.remove('show');
+                    });
+                  }
+                });
+
+        </script>
+        <!-- ################################################################################################ -->
+       <ul class="menu">
+          <li class="active"  ><a href="../index.html">Home</a></li>
+        <li class="dropdown" href="#">
+          <a href="javascript:void(0)" onclick="toggleDropdown()">About Us</a>
+          <ul class="dropdown-content">
+            <li><a href="../pages/dgp.html">DGP Message</a></li>
+              <li><a href="../pages/maingallery.html">Gallery</a></li>
+              <li><a href="../pages/orgstr.html">Organisational Structure</a></li>
+              <li><a href="../pages/formation.html">Police Formations</a></li>
+              <li><a href="../pages/crime.html">Crime Statistics</a></li>
+            
+              <li><a href="../pages/mission.html">Our Mission &amp; Vision</a></li>
+              <li><a href="../pages/psmap.html">Police Station Jurisdiction Map</a></li>
+             <!-- <li><a href="#">Traffic Zones Jurisdiction Map</a></li>-->
+              <li><a href="../pages/goodwork.html">Good Work Done</a></li>
+              <li><a href="../pages/Martyr.html">Martyrs E-Book</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown" href="#">
+            <a href="../pages/ipsgradation.html">Gradation List</a>
+        </li>
+
+        <li class="dropdown" href="#">
+          <a href="javascript:void(0)" onclick="toggleDropdown()">Govt. Portal</a>
+          <ul class="dropdown-content">
+             <li><a href="https://pgportal.gov.in/">CPGRAMS</a></li>
+             <li><a href="https://icjs.gov.in/ITSSO/">ITSSO</a></li>
+            <li><a href="../pages/crimeprevention.html">Crime Prevention and Investigation</a></li>
+             
+            <!--  <li><a href="#">Information of Accident Cases</a></li>
+            <li><a href="http://164.100.44.112/vahansamanvay/Internetquery.aspx">Stolen &amp; Recovered vehicles Status</a></li> -->
+            <li><a href="https://www.passportindia.gov.in/psp">Passport Seva</a></li>
+            <li><a href="../pages/portals.html">Important LEAs Portals</a></li>
+            <li><a href="https://digitalpolice.gov.in/">Digital Police Portal</a></li>
+          </ul>
+        </li>
+          
+        <li class="dropdown" href="#">
+          <a href="javascript:void(0)" onclick="toggleDropdown()">Public Advisory</a>
+            <ul class="dropdown-content">
+               <li><a href="../pages/nationalhighway.html">National Highway Travel</a></li>
+               <li><a href="../pages/crimehighway.html">E-Crime Awareness</a></li>
+               <li><a href="../pages/touristsafety.html">FAQ For Tourist</a></li>
+               <li><a href="../pages/generalsafety.html">General Safety Tips</a></li>
+               <li><a href="../pages/ForeignerRegistration.html">Foreigners Registration</a></li>
+                  
+              
+            
+            </ul>
+        </li>
+
+        <li class="dropdown" href="#">
+          <a href="javascript:void(0)" onclick="toggleDropdown()">Notification</a>
+           <ul class="dropdown-content">
+            <li><a href="../pages/order.html">Order/Circulars</a></li>
+            <li><a href="../pages/recruitment.html">Recruitment</a></li>
+            <li><a href="../pages/press.html">Press Releases</a></li>
+            <li><a href="../pages/tender.html" target="_blank">E-Tenders</a></li>
+          </li>
+        </ul>
+
+       <li class="dropdown" href="#">
+          <a href="javascript:void(0)" onclick="toggleDropdown()">Citizen Portal</a>
+           <ul class="dropdown-content">
+            <li><a href="https://citizenportalpolice.ladakh.gov.in/citizen/">Complaint</a></li>
+            <li><a href=" https://citizenportalpolice.ladakh.gov.in/citizen/">FIR Copy</a></li>
+            <li><a href=" https://citizenportalpolice.ladakh.gov.in/citizen/">Character Certificate</a></li>
+            <li><a href=" https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Employee Verification</a></li>
+             <li><a href=" https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Tenant Verification</a></li>
+              <li><a href=" https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Event Performance</a></li>
+               <li><a href="https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Vehicle Enquiry</a></li>
+                <li><a href="https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Missing Person Search</a></li>
+                 <li><a href="https://citizenportalpolice.ladakh.gov.in/citizen/" target="_blank">Missing Child</a></li>
+          </li>
+        </ul>
+       
+      </div>
+      </div>
+<style>
+  .flash {
+    width: 100%;
+    background: #f8f3f3;
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
+    overflow: hidden;
+    padding: 10px 0;
+  }
+
+  .marquee-container {
+    display: flex;
+    width: max-content;
+    animation: scrollText 18s linear infinite;
+  }
+
+  .marquee-container:hover {
+    animation-play-state: paused;
+  }
+
+  .marquee-text {
+    white-space: nowrap;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    color: #8b0000;
+    text-decoration: none;
+    padding-right: 0px;
+  }
+
+  .marquee-text a {
+    color: #8b0000;
+    text-decoration: none;
+  }
+
+  .marquee-text a:hover {
+    text-decoration: underline;
+  }
+
+  @keyframes scrollText {
+    0% {
+      transform: translateX(0%);
+    }
+
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  /* Recruitment Line */
+  .recruitment-line {
+    width: 100%;
+    background: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .blink-new {
+    display: inline-block;
+    background: red;
+    color: white;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    margin-right: 8px;
+    animation: blink 1s infinite;
+  }
+
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .recruitment-link {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .recruitment-link:hover {
+    color: #0d47a1;
+  }
+</style>
+
+<!-- Continuous Smooth Marquee -->
+<div class="flash">
+
+  <div class="marquee-container">
+
+   
+
+  
+    <div class="marquee-text">
+      <a href="https://constable.lpssrb2026.apply-gov.in/" target="_blank">
+       Click Here to download Admit Card for the post of  
+       Constable (Level 2) General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police. |
+      </a>
+    </div>
+
+  
+    <div class="marquee-text">
+      <a href="https://constable.lpssrb2026.apply-gov.in/" target="_blank">
+       Click Here to download Admit Card for the post of  
+       Constable (Level 2) General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police |
+      </a>
+    </div>
+
+    
+    <div class="marquee-text">
+      <a href="https://constable.lpssrb2026.apply-gov.in/" target="_blank">
+       Click Here to Download Admit Card for the post of  
+       Constable (Level 2) General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police |
+      </a>
+    </div>
+
+    
+    <div class="marquee-text">
+      <a href="https://constable.lpssrb2026.apply-gov.in/" target="_blank">
+        Click Here to Download Admit Card for the post of  
+       Constable (Level 2) General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police. |
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<!-- Blinking Recruitment Notice -->
+
+<!-- div class="recruitment-line">
+
+  <a href="pdf/ACE Scanner_20260716.pdf" target="_blank" class="recruitment-link">
+
+    <span class="blink-new">NEW</span>
+
+    Notification for the Commencement of Physical Standard Test (PST) and Physical Endurance Test (PET) for the post of Sub-Inspector.
+
+  </a>
+
+</div-->
+
+
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+ <style>
+  /* Styling for the Recruitment Section */
+.wrapperr.row3 {
+  background-color: #f8f9fa; /* Light gray background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wrapperr.row3 .header-line {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+/* Scrollable Table Styling */
+.scrollable {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #fff;
+  padding: 10px;
+}
+
+/* Table Styling */
+.scrollable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.scrollable th,
+.scrollable td {
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.scrollable th {
+  background-color: #343a40;
+  color: #fff;
+  font-weight: bold;
+}
+
+.scrollable tr:nth-child(even) {
+  background-color: #f2f2f2; /* Alternating row colors */
+}
+
+.scrollable tr:hover {
+  background-color: #e9ecef; /* Highlight row on hover */
+}
+
+.scrollable td {
+  color: #555;
+  font-size: 14px;
+}
+
+.scrollable td a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+}
+
+.scrollable td a:hover {
+  color: #d9534f; /* Red color on hover */
+  text-decoration: underline;
+}
+
+/* PDF Icon Styling */
+.scrollable i.fa-file-pdf-o {
+  margin-left: 8px;
+  font-size: 18px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .wrapperr.row3 {
+    padding: 15px;
+  }
+
+  .wrapperr.row3 .header-line {
+    font-size: 20px;
+  }
+
+  .scrollable th,
+  .scrollable td {
+    font-size: 12px;
+    padding: 10px;
+  }
+}
+
+ </style>
+<!-- ################################################################################################ -->
+<div class="wrapperr row3">
+  <div class="rounded">
+    
+      <!-- main body --> 
+      <!-- ################################################################################################ -->
+        <div id="course-sec" >
+             <div class="row text-center">
+       <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
+       <h1 class="header-line" style="text-align: center; color: black;"><strong>RECRUITMENT ORDER/NOTICE</strong></h1>
+  
+      </div>
+     
+        <div class="scrollable">
+          <table>
+            <thead>
+              <tr>
+                <th style="text-align: center;">Order No.</th>
+                <th style="text-align: center;">Order/Notice</th>
+                <th style="text-align: center;">Dated</th>
+                
+            </tr>
+            </thead>
+  
+            <tbody>
+         <tr>
+                <td style="text-align: center;">Advertisement No.LPSSRB/Ct/2026/609-616</td>
+                <td style="text-align: left;">Postponement of PST/PET for the post of Constables, General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/postponement.pdf" target="_blank">22-09-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+        </tr>
+        <tr>
+                <td style="text-align: center;">Advertisement No.LPSSRB/Ct/2026/568-74</td>
+                <td style="text-align: left;">Download of Admit Cards for the post of Constables, General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/admitcard.pdf" target="_blank">17-09-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+       </tr>
+
+       <tr>
+                <td style="text-align: center;">Notice No.LPSSRB/Ct/2026/557-551</td>
+                <td style="text-align: left;">Notice regarding no further Extension of Last Date for Submission of Online Applications for the post of Constable (Level 2), General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/No-extension.pdf" target="_blank">11-09-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+       </tr>
+   
+       <tr>
+                <td style="text-align: center;">Notice No.LPSSRB/2026/495-498</td>
+                <td style="text-align: left;">Notice regarding eligibility for the post of Sub-Inspector General Cadre(Executive/Armed/IRP/Women and Border Battalion) in Ladakh Police in respect of candidated whose qualifying graduation result was declared after the prescribed cut-off date.</td>
+                <td style="text-align: center;"><a href="pdf/Not2.pdf" target="_blank">03-09-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+     </tr>
+    <tr>
+                <td style="text-align: center;">Notice No.LPSSRB/2026/499-502</td>
+                <td style="text-align: left;">Notice regarding eligibility for the post of Sub-Inspector General Cadre(Executive/Armed/IRP/Women and Border Battalion) in Ladakh Police in respect of candidated who have not submitted graduation result, who have remained absent and who have provided Diploma Certificate instead of Graduation degree.</td>
+                <td style="text-align: center;"><a href="pdf/Notice1.pdf" target="_blank">03-09-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+     </tr>
+    <tr>
+                <td style="text-align: center;">Advertisement No.2</td>
+                <td style="text-align: left;">Advertisement Notice for the Direct Recruitment to the post of Constables (level 2), General Cadre (Executive,Armed/IRP,SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/contables_recruitment.pdf" target="_blank">24-08-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+     </tr>
+     <tr>
+                <td style="text-align: center;">Notification No.LPSSRB/2026/432-448</td>
+                <td style="text-align: left;">Subject Wise Weightage of Marks for the post of Sub-Inspectors, General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/Weightage.pdf" target="_blank">20-08-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+     </tr>
+    <tr>
+                <td style="text-align: center;">Notification No.LPSSRB/2026/449-465</td>
+                <td style="text-align: left;">Result of Physical Standard Test(PST) and Physical Endurance Test(PET) of the candidate who have appeared for the post of Sub-Inspectors.</td>
+                <td style="text-align: center;"><a href="pdf/result1.pdf" target="_blank">20-08-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+    </tr>
+
+    <tr>
+                <td style="text-align: center;">Standing Order No.422 of 2026</td>
+                <td style="text-align: left;">Standing Order for the post of Constable General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/14082026085649.pdf" target="_blank">14-08-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+    </tr>
+    <tr>
+                <td style="text-align: center;">Notification No.01 of 2026  </td>
+                <td style="text-align: left;">Advertisement for the post of Sub-Inspector General Cadre (Executive, Armed/IRP, SDRF, Women and Border Bn.) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="si_recruitment_2026.pdf" target="_blank">04-06-2026<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">Notification No.LPSSRB/2024/17787-91 </td>
+                <td style="text-align: left;">Outstanding Sports Person (OSP) notification.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/17787-91.pdf" target="_blank">24-10-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification No. PHQ/PRB/2024-16111-20 </td>
+                <td style="text-align: left;">Revised Provisional Selection List and Waiting List for the Post of Constable (Executive,Armed/IRP,HG/CD/SDRF) in Ladakh Police under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/16111-20.pdf" target="_blank">01-10-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Order No. 506/2024</td>
+                <td style="text-align: left;">Provisional-appointment of Constables of Telecom Cadre in Ladakh Police (Waiting List).</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/13863-67.pdf" target="_blank">24-8-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/Per/Const/Tele/EX./Armed/SDRF/2024/12934-39</td>
+                <td style="text-align: left;">Cancellation of Offer of Appointment Issued to Provisionally Selected Candidates for the post of constable in Executive/Armed/IRP/HG/CD/SDRFin Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/12934-39.pdf" target="_blank">09-8-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/Per/Const/Tele/2024/12940-44</td>
+                <td style="text-align: left;">Cancellation of Offer of Appointment Issued to Provisionally Selected Candidates for the post of constable in Telecom Cadre Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/12940-44.pdf" target="_blank">09-8-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/Per/Rct/2024/10127-29</td>
+                <td style="text-align: left;">Memorandum regarding Offer of Appointment to the post of Constable in Women Battalion, (Group 'C', Non-Gazetted), in Ladakh Police Department, in Level 2 of pay matrix (Rs.19900-63200).</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/10127-29.pdf" target="_blank">26-6-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/Per/Rct/2024/10124-26</td>
+                <td style="text-align: left;">Memorandum regarding Offer of Appointment to the post of Constable in Border Battalion, (Group 'C', Non-Gazetted), in Ladakh Police Department, in Level 2 of pay matrix (Rs.19900-63200).</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/10124-26.pdf" target="_blank">26-6-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/Per/Rct/2024/9660-64</td>
+                <td style="text-align: left;">Notice regarding document verfification for provisionally selected Constable in Border and Women Battalion, Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/9660-64.pdf" target="_blank">19-6-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/PRB/2024/8845-58</td>
+                <td style="text-align: left;">Provisional Selection List and Waiting List for the post of constable in Border Battalion of District Leh & Kargil under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/8845-58.pdf" target="_blank">05-6-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">Notification no. PHQ/PRB/2024/8829-44</td>
+                <td style="text-align: left;">Provisional Selection List and Waiting List for the post of constable in Women Battalion of District Leh & Kargil under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/8829-44.pdf" target="_blank">05-6-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+<tr>
+                <td style="text-align: center;">Order no. 184/2024</td>
+                <td style="text-align: left;">Distribution/ Provisional appointment of Constables in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/184-2024.pdf" target="_blank">11-3-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Order no. 185/2024</td>
+                <td style="text-align: left;">Provisional appointment of Constables (Telecom Cadre) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/185-2024.pdf" target="_blank">11-3-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Order no. 186/2024</td>
+                <td style="text-align: left;">Approval for engagement as SPO's in General/ Border Catagory.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/186-2024.pdf" target="_blank">11-3-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">LPSSRB/2024/1957-69</td>
+                <td style="text-align: left;">Tentative answer key for the OMR based objective type written examination for the post of constable(Women/Border)Battalion.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/Notice - answer key.pdf" target="_blank">6-3-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2024/1896-1907</td>
+                <td style="text-align: left;">Notice regarding the conduct of written test examination for the post of constable (Women & Border Bn) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/Notice - Sitting Plan.pdf" target="_blank">26-2-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2024/1851-65</td>
+                <td style="text-align: left;">Notice regarding the conduct of written test examination for various post in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/recruitment/Recruitment Notice 2024.pdf" target="_blank">29-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">PHQL/SP/HG/2024/180-85</td>
+                <td style="text-align: left;">Notice regarding Temporary Engagement of Voluntary Home Guards for period of 06 years to fillup vacancy in Home Guards unit Leh and Kargil.</td>
+                <td style="text-align: center;"><a href="pdf/rn25.pdf">29-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2024/1637-40</td>
+                <td style="text-align: left;">Notice regarding result of written test for the post of Constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn24.pdf">27-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/R-Cts./2024/1769-72</td>
+                <td style="text-align: left;">Memorandum regarding Notification issued by PHQ UT Ladakh vide No. PHQ/PRB/2024-678-88 dated 11-01-2024.</td>
+                <td style="text-align: center;"><a href="pdf/rn23.pdf">16-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Posts-WB-Ct/2024/974-75</td>
+                <td style="text-align: left;">Memorandum regarding Offer of Appointment to the post of Constable Telecommunication Cadre (Group 'C', Non-Gazetted), in Ladakh Police Department, in Level 2 of pay matrix (Rs. 19900-63200).</td>
+                <td style="text-align: center;"><a href="pdf/rn22.pdf">16-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Posts-WB-Ct/2024/976-79</td>
+                <td style="text-align: left;">Memorandum regarding offer of Appointment to the post Constable (Executive/Armed/IRB/HG/CD/UTDRF), (Group 'C', Non-Gazetted), in  Ladakh Police Department, in Level 2 of pay matrix (Rs. 19900-63200).</td>
+                <td style="text-align: center;"><a href="pdf/rn21.pdf">16-1-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Cts/2023/879-86</td>
+                <td style="text-align: left;">Order regarding Essential Medical Standards examination for provisionally selected Constable in Ladakh Police(Subordinate) Service recruitment.</td>
+                <td style="text-align: center;"><a href="pdf/rn20.pdf">15-01-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2024-689-700</td>
+                <td style="text-align: left;">Provisional Selection List and Waiting List for the post of constable Telecom Cadre in Ladakh Police under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/rn19.pdf">11-01-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2024-678-88</td>
+                <td style="text-align: left;">Provisional Selection List and Waiting List for the post of constable (Executive, Armed/IRP, HG/CD/SDRF) in Ladakh Police under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/rn18.pdf">11-01-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">PHQ/Pers/R-Cts/2024/464-71</td>
+                <td style="text-align: left;">Addendum regarding Advertisement No. 1 of 2023 dated 07/09/202-(Recritment in EWS Quota)</td>
+                <td style="text-align: center;"><a href="pdf/rn17.pdf">10-01-24<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">Estt/SPO/2023-22133-50</td>
+                <td style="text-align: left;">Order regarding waiting list of candidates for both Border Quota and General Quota against the unfulfilled vacancies.</td>
+                <td style="text-align: center;"><a href="pdf/rn16.pdf">27-12-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1615-1624</td>
+                <td style="text-align: left;">Tentative answer key for the OMR based Objective Type Written Examination for the post of Constable Telecom (UT Cadre), under Advertisement No. 02 of 2023 Dated 07-09-2023, held on 10-12-2023.</td>
+                <td style="text-align: center;"><a href="pdf/rn15.pdf">19-12-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1605-1614</td>
+                <td style="text-align: left;">Tentative answer key for the OMR based Objective Type Written Examination for the post of Constable Executive, Armed/IRP, HG/CD/SDRF (UT Cadre), under Advertisement No. 01 of 2023 Dated 07-09-2023, held on 10-12-2023.</td>
+                <td style="text-align: center;"><a href="pdf/rn14.pdf">19-12-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1549-1558</td>
+                <td style="text-align: left;">Conduct of computer test of the candidates who have qualified
+PST/PET tests in the ongoing recruitment process and have applied for desired qualification (Computer) while filling the application forms. (District Leh/Kargil)</td>
+                <td style="text-align: center;"><a href="pdf/rn13.pdf">12-12-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1377-1387</td>
+                <td style="text-align: left;">Notice regarding conduct of computer test of the candidates who have qualified PST/PET tests in the ongoing recruitment process and have applied for desired qualification (Computer) while filling the application forms.(District Leh/Kargil) for post of Constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn12.pdf">02-12-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1340-49</td>
+                <td style="text-align: left;">Notice regarding Provisional result of PST/PET of the candidates who have applied and qualified for the written test for post of Constable in Executive, Armed /IRP, HG/CD/SDRF and Telecommunication cadre of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn11.pdf">29-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1309-1320</td>
+                <td style="text-align: left;">Conduct of driving test of the candidates who have qualified PST/PET tests in the ongoing recruitment process and have applied for desired qulification(Driving) while filling the application forms.(District Leh/Kargil)</td>
+                <td style="text-align: center;"><a href="pdf/rn10.pdf">27-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">HG/08/Engagement/2023-935-42</td>
+                <td style="text-align: left;">Notice regarding reschedule to conduct of Physical Measurement Test for the Post of Temporary Voluntary Home Guards in UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/rn9.pdf">18-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/1077-88</td>
+                <td style="text-align: left;">Notice regarding conduct of Physical Measurement Test(PMT) and Physical Endurance Test(PET) for various post of Constable  Executive, Armed /IRP, HG/CD/SDRF and Constable Telecommunication cadre in Ladakh Police(Kargil Centre).</td>
+                <td style="text-align: center;"><a href="pdf/rn8.pdf">10-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">Estt/SPO/2023-19108-20</td>
+                <td style="text-align: left;">Order regarding selection list, verification of character antecedents/ documents of selected SPOs in General Category/ Border Category.</td>
+                <td style="text-align: center;"><a href="pdf/rn7.pdf">07-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/SPOs-Enq/2023-18020-22</td>
+                <td style="text-align: left;">Order regarding approval of engagement as SPOs in General Category/ Border Category.</td>
+                <td style="text-align: center;"><a href="pdf/rn6.pdf">07-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">HG/08/Engagement/2023-1805-1812</td>
+                <td style="text-align: left;">Notice regarding reschedule to conduct of Physical Measurement Test(PMT) for the post of temporary voluntary home guards in UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/rn5.pdf">02-11-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/996-1012</td>
+                <td style="text-align: left;">Notice regarding admit card and examination centre for the post of Constable in Telecom Cadre of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn4.pdf">30-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/951-966</td>
+                <td style="text-align: left;">Revised Notice regarding conduct of Physical Measurement Test(PMT) and Physical Endurance Test(PET) for various post of Constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn3.pdf">27-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/967-983</td>
+                <td style="text-align: left;">Notice regarding conduct of Physical Measurement Test(PMT) and Physical Endurance Test(PET) for various post of Constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn2.pdf">26-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/934-950</td>
+                <td style="text-align: left;">Notice regarding essential qualification criteria for the post of Constable in Telecom Cadre of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/rn1.pdf">23-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">HG/08/Engagement/2023-1722-33/2023</td>
+                <td style="text-align: left;">Notiice regarding conduct of Physical Measurement Test for the post of temporary voluntary home guards in UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/notice67.pdf">14-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">SP/F&ES/Apptt/Foll/2023/2830-32</td>
+                <td style="text-align: left;">Order regarding appointment as Follower(Sweeper) in Ladakh Fire & Rescue Services.</td>
+                <td style="text-align: center;"><a href="pdf/notice66.pdf">13-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/918-30</td>
+                <td style="text-align: left;">Notice regarding correction in application details and required documents for the post of constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice65.pdf">13-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+            		<tr>
+                <td style="text-align: center;">Est/SPO-Gen/Border/2023-16713-25 </td>
+                <td style="text-align: left;">Public notice regarding the physical standard test (PST) and physical endurance test (PET) for the Post of SPO under General / Border quota, in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice62.pdf">04-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr> 
+
+            	<tr>
+                <td style="text-align: center;">LPSSRB/2023/896-901</td>
+                <td style="text-align: left;"> Annoucement regarding physical standard test and physical endurance test for the Post of Constable Executive, Armed /IRP, HG/CD/SDRF and Constable Telecommunication cadre in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/anmt2.pdf">03-10-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr> 
+
+    <tr>
+                <td style="text-align: center;">LPSSRB/2023/880-94</td>
+                <td style="text-align: left;">Advertisement notice for the Post of Constable Executive, Armed /IRP, HG/CD/SDRF and Constable Telecommunication cadre in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice61.pdf">22-9-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>    
+
+
+           	
+    <tr>
+                <td style="text-align: center;">Pers/PHQ/UTL/R-Cts/2023/15086</td>
+                <td style="text-align: left;"> Order regarding Direct recruitment of constable in Executive, Armed/IRP, HG/CD/SDRF cadre of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice58.pdf">07-9-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>        	
+   <tr>
+                <td style="text-align: center;">Pers/PHQ/UTL/Adv-Ct/Tel/2023-15125-33</td>
+                <td style="text-align: left;"> Advertisement Notice for the Post of Constable Telecommunication Cadre in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice57.pdf">07-9-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>          	
+  <tr>
+                <td style="text-align: center;">Pers/PHQ/UTL/R-Cts/2023/15116-24</td>
+                <td style="text-align: left;"> Advertisement Notice for the Post of Constable Executive, Armed/IRP, HG/CD/SDRF in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice56.pdf">07-09-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>           	
+ <tr>
+                <td style="text-align: center;">Estt/HG-08/Engagement/1413-20/2023</td>
+                <td style="text-align: left;"> Notice regarding postponment of physical measurement test for the post of temporary engagement of voluntary Home Guards in UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/notice55.pdf">30-8-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr> 
+
+     
+      <tr>
+                <td style="text-align: center;">HG/08/Engagement/2023-1370-78</td>
+                <td style="text-align: left;"> Notice regarding conduct of Physical Measurement Test for the Post of temporary engagement of Voluntary Home Guards in UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/notice54.pdf">23-8-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>       	
+     <tr>
+                <td style="text-align: center;">Estt/Adv-SPOs/2023-12795-809</td>
+                <td style="text-align: left;"> Advertisement notice for engagement of Special Police Officer (SPO) in District Police, Leh against (53) vacancies in General Quota and (59) vacancies in the Border Quota.</td>
+                <td style="text-align: center;"><a href="pdf/notice53.pdf">17-8-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>                	
+           	
+   
+    
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Rectt-fw/2023/12571-74</td>
+                <td style="text-align: left;"> Notice regarding issuance of appointment orders of (08) selected Technical Staff under OM & ST category in Ladakh Prison Department.</td>
+                <td style="text-align: center;"><a href="pdf/notice49.pdf">01-8-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>   
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Rectt-fw/2023-12575-77</td>
+                <td style="text-align: left;"> Notice regarding issuance of appointment orders of (02) selected sweepers (safaiwala) under OM & ST category in Ladakh, Fire and Rescue Service Department.</td>
+                <td style="text-align: center;"><a href="pdf/notice47.pdf">28-7-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>    
+
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Rectt-fw/2023-12563-70</td>
+                <td style="text-align: left;"> Notice regarding issuance of appointment orders of (66) selected Followers in different trades under OM & ST category in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice48.pdf">28-7-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>    
+
+
+         <tr>
+                <td style="text-align: center;">PHQ/Pers/2023/9768</td>
+                <td style="text-align: left;"> Notice regarding document verification for newly selected followers/technical staff/safaiwala in prison department/safaiwala in fire and rescue services in Ladakh Police. </td>
+                <td style="text-align: center;"><a href="pdf/notice44.pdf">21-6-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>  
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022/9738-47</td>
+                <td style="text-align: left;"> Provisional selection, waiting and general merit list for the post of sweeper (safaiwala) in Ladakh Fire and Rescue sercive. </td>
+                <td style="text-align: center;"><a href="pdf/notice43.pdf">09-1-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>  
+  <tr>
+                <td style="text-align: center;">PHQ/PRB/2023/9718-27</td>
+                <td style="text-align: left;"> Provisional selection, waiting and general merit list for the post of follower executive, armed/ IRP, HG/CD/SDRF (UT Cadre) in Ladakh Police. </td>
+                <td style="text-align: center;"><a href="pdf/notice42.pdf">09-6-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>          	
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022/9728-37</td>
+                <td style="text-align: left;"> Provisional selection, waiting and general merit list for the post of technical staff (carpenter grade II, electrician grade II, Plumber grade II, barber grade III, dhobi/washerman grade II and cook) and safaiwala in Ladakh Prison Department. </td>
+                <td style="text-align: center;"><a href="pdf/notice41.pdf">09-6-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+            
+
+
+
+
+
+	
+            	<tr>
+                <td style="text-align: center;">LPSSRB/2023/788-97</td>
+                <td style="text-align: left;"> Notice regarding result of document verification and rejection list for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice38.pdf">10-5-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/676</td>
+                <td style="text-align: left;">Notice regarding Helpline No for issues/queries related to examination for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice37.pdf">15-3-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/664-73</td>
+                <td style="text-align: left;">Notice regarding admit card and examination centre for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice36.pdf">14-3-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/645-654</td>
+                <td style="text-align: left;">Notice regarding admit card and Trade tests for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/lptradetest.pdf">10-3-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/622-631</td>
+                <td style="text-align: left;">Corrigendum for notification regarding Trade/Technical tests for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/corrigendum.pdf">24-2-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/612-621</td>
+                <td style="text-align: left;">Notification regarding Trade/Technical tests for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/noticett.pdf">23-2-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2023/602-610</td>
+                <td style="text-align: left;">Notification regarding rejected list of candidates under Outstanding Sports Person category.</td>
+                <td style="text-align: center;"><a href="pdf/noticerej.pdf">17-2-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">PHQL/SP/UTDRF/2023-254-63</td>
+                <td style="text-align: left;">Advertisement Notice for the post of Voluntary Home Guards on Temporary basis for Six Years in Home Guards UT Ladakh.</td>
+                <td style="text-align: center;"><a href="pdf/advhg.pdf">2-2-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022/1085-93</td>
+                <td style="text-align: left;">Final Result of various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/resultFP.pdf">20-1-23<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2022/552-58</td>
+                <td style="text-align: left;">Notice regarding direct recruitment of Constable Executive, Armed/IRP, HG/CD/SDRF in Ladakh Police, Under the  quota for Outstanding Sports Person.</td>
+                <td style="text-align: center;"><a href="pdf/notice35.pdf">21-12-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2022-369-77</td>
+                <td style="text-align: left;">Notice regarding written examination and venue for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice34.pdf">18-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2022-303-310</td>
+                <td style="text-align: left;">Notice regarding written test for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice32.pdf">7-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/2022-295-302</td>
+                <td style="text-align: left;">Notice regarding desired qualification test(Computer typing test and Driving test) for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice31.pdf">7-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+               <tr>
+                <td style="text-align: center;">LPSSRB/2022/279-85</td>
+                <td style="text-align: left;">Notice regarding cancellation of candidature on the basis of Document Verification for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice30.pdf">4-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+               <tr>
+                <td style="text-align: center;">LPSSRB/2022-271-78</td>
+                <td style="text-align: left;">Notice for Clarification regarding notice under endorsement No, LPSSRB/2022-260-270 dated 04-11-2022.</td>
+                <td style="text-align: center;"><a href="pdf/notice29.pdf">4-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+ <tr>
+                <td style="text-align: center;">LPSSRB/2022-260-270</td>
+                <td style="text-align: left;">Notice regarding the list of Candidates who have qualified the PMT/PET Events for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice27.pdf">4-11-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+ <tr>
+                <td style="text-align: center;">LPSSRB/2022-235-42</td>
+                <td style="text-align: left;">Notice regarding submission of required documents to the office of Chairman LPSSRB at PHQ Complex Agling Leh, for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice26.pdf">26-10-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+              <tr>
+                <td style="text-align: center;">LPSSRB/2022-83-92</td>
+                <td style="text-align: left;">Notice regarding availability of admit card for downloading, details about venue & date for conducting PMT & PTE tests for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice25.pdf">30-9-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+<tr>
+                <td style="text-align: center;">LPSSRB/62-68</td>
+                <td style="text-align: left;">Notice regarding postponement of physical test for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice24.pdf">20-9-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">LPSSRB/50-58</td>
+                <td style="text-align: left;">Notice regarding correction and list of candidates for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/noticelpr2.pdf">6-9-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+
+<tr>
+                <td style="text-align: center;">PHQ/Pers/Rect/2022-566-75</td>
+                <td style="text-align: left;">Notice for tentative date of PST/PET for various posts in Ladakh Fire & Rescue Service & Ladakh Prison Department of Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice23.jpg">29-8-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">PHQ/UTL/Pers/2022/5447-53</td>
+                <td style="text-align: left;">Notice issued by AIG of Police (Personnel) regarding the ongoing recruitment in Ladakh Police for selected candidates directing them to report at PHQ, Agling for medical examination.</td>
+                <td style="text-align: center;"><a href="pdf/noticelpr.jpg">23-7-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022/15455-65</td>
+                <td style="text-align: left;">Provisional Selection List and Waiting List for the Post of Constable (Executive, Armed/IRP, HG/CD/SDRF) in Ladakh Police under TRP.</td>
+                <td style="text-align: center;"><a href="pdf/result.pdf">22-7-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+   
+
+         
+
+<tr>
+                <td style="text-align: center;">PHQ/Rectt/2022/522-32</td>
+                <td style="text-align: left;">Notice regarding extension of last date for online submission of form for the Post of Fireman, Fireman Driver, Fireman Ministerial and Sweeper in Ladakh Fire and Rescue service.</td>
+                <td style="text-align: center;"><a href="pdf/notice12.pdf">18-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022-470-78</td>
+                <td style="text-align: left;">Notice regarding written test to the post of Constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice11.jpg">07-5-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022-338-47</td>
+                <td style="text-align: left;">Advertisement Notice issued by Chairman, Ladakh Police, Subordinate Service Recruitment Board, UT Ladakh regarding downloading of admit card from Ladakh Police recruitment.</td>
+                <td style="text-align: center;"><a href="pdf/ad3.jpg">27-4-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+<tr>
+                <td style="text-align: center;">PHQ/PERS/Rec/F&Rs-2022-10026-42</td>
+                <td style="text-align: left;">Advertisement Notice for the post of Fireman, Fireman Driver, Fireman Ministerial, and Sweeper(Safaiwala) in Ladakh Fire and Rescue Service.</td>
+                <td style="text-align: center;"><a href="pdf/ad2.pdf">22-04-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+              <tr>
+                <td style="text-align: center;">PHQ/PERS/Rec/Prison-2022-10043-52</td>
+                <td style="text-align: left;">Advertisement Notice for the post of Warder/Warder Driver,Tehnical Staff(Carpenter Grade-II, Electrician Grade-II,Plumber Grade-II,Barber Grade-III Dhobi/Washerman Grade-II and Cook) and Safaiwala in Ladakh Prison Department.</td>
+                <td style="text-align: center;"><a href="pdf/ad1.pdf">22-04-22<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+ <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-294-302</td>
+                <td style="text-align: left;">Notice regarding reschedule of written exam date for the post of Constable(Executive, Armed/IRP, HG/CD/SDRF) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice10.pdf">21-4-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+ <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-248-257</td>
+                <td style="text-align: left;">Notice issued by Chairman, Ladakh Police, Subordinate Service Recruitment Board, UT Ladakh regarding date of test for candidates who have opted for DL TRANS and/or 1 year computer diploma.</td>
+                <td style="text-align: center;"><a href="pdf/notice9.jpg">8-4-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+         <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-182-91</td>
+                <td style="text-align: left;">Notice regarding written test for candidates who have qualified the PMT/PET of the ongoing recruitment for the post of Constable Executive, Armed/IRP, HG/CD/SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/notice8.pdf">5-4-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+                          <tr>
+                <td style="text-align: center;">PHQ/LP/SSRB/2022/192-94</td>
+                <td style="text-align: left;">Detailed Syllabus/Test Module for desired qualification (Computer test/Driving test) for direct recruitment to the post of Constable Executive, Armed/IRP, HG/CD/SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/syllabus.pdf">5-4-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+              <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-145-153</td>
+                <td style="text-align: left;">Notice regarding extension of ongoing recruitment process (PMT/PET) for the post of Constable Executive, Armed/IRP, HG/CD/SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/notice7.pdf">31-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+                  <tr>
+                <td style="text-align: center;">PHQ/Rectt/2022/131-143</td>
+                <td style="text-align: left;">Notice regarding extension of last date for online submission of form for the posts of Follower in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice6.pdf">31-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+               <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-150-61</td>
+                <td style="text-align: left;">Notice for candidates who have not yet appeared for the PMT/PET of the ongoing recruitment to the post of Constable Executive, Armed/IRP, HG/CD/SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/notice5.pdf">23-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+          <tr>
+                <td style="text-align: center;">PHQ/PRB/2022-103-114</td>
+                <td style="text-align: left;">Notice regarding reschedule of the ongoing recruitment to the post of Constable Executive, Armed/IRP, HG/CD/SDRF after rectification of Technical Fault.</td>
+                <td style="text-align: center;"><a href="pdf/notice4.pdf">18-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+<tr>
+                <td style="text-align: center;">PHQ/PRB/2022-70-79</td>
+                <td style="text-align: left;">Notice regarding postponement of ongoing recruitment process to the post of constable in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/notice2.pdf">15-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+         <tr>
+                <td style="text-align: center;">PHQ/Pers/SO-3493</td>
+                <td style="text-align: left;">Corrigendum to Standing Order No:366 of 2021 Dated: 29-09-2021 for Direct recruitment to the post of Constable Executive, Armed/IRP, HG/CD/SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/order14.pdf">14-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+
+
+
+      <tr>
+                <td style="text-align: center;">PHQ/Recruitment/2022-3786-96</td>
+                <td style="text-align: left;">Advertisement Notice for the posts of Follower Executive, Armed/IRP, HG/CD/SDRF(UT Cadre) in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/advertisement.pdf">09-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+    <tr>
+                <td style="text-align: center;">PHQ/UTL/Pers/RR/2022-3420-30</td>
+                <td style="text-align: left;">PMT/PST Test for the posts of Constable Executive, Armed/IRP, HG/CD/SDRF in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/Notice.pdf">02-3-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+               <tr>
+                <td style="text-align: center;">PHQ/UTL/Pers/RR/2022-2270-77</td>
+                <td style="text-align: left;">Notice for tentative date of commencement of PST/PET for posts of Constable in Executive, Armed/IRP, SDRF.</td>
+                <td style="text-align: center;"><a href="pdf/order13.pdf">14-2-2022<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+
+             
+   
+
+            	    <tr>
+                <td style="text-align: center;">Pers/PHQ/UTL/R-Cts/2021/14813-14822</td>
+                <td style="text-align: left;">Advertisement Notice for the post of Constable Executive, Armed/IRP, HG/CD/SDRF in Ladakh Police.</td>
+                <td style="text-align: center;"><a href="pdf/order10.pdf">16-10-2021<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+
+                 <tr>
+                <td style="text-align: center;">PHQ/Pers/Apptt-F&ES/21-10690-702</td>
+                <td style="text-align: left;">Temporary Appointment Order of Firemen/Firemen Driver</td>
+                <td style="text-align: center;"><a href="pdf/order9.pdf">12-07-2021<i class="fa fa-file-pdf-o" style="color: red; font-size: 20px;"></i></a></td>
+                
+              </tr>
+                       
+                
+          
+            </tbody>
+          </table>
+        </div>
+  </div>
+          </div>
+      <!-- ################################################################################################ --> 
+      <!-- / main body -->
+      
+    
+  </div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+<footer class="footer">
+  <div class="footer-container">
+
+    <!-- Address + Map -->
+    <div class="footer-section footer-address">
+      <h3 class="footer-title"><u>Address</u></h3>
+      <p>Ladakh Police Headquarters, Agling<br> Leh-Ladakh - 194101</p>
+
+      <div class="map-container">
+        <h4 class="map-title">Find Us on Google Map</h4>
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=..."
+          width="100%" 
+          height="120" 
+          style="border:0;" 
+          allowfullscreen="" 
+          loading="lazy">
+        </iframe>
+      </div>
+    </div>
+  <!-- Social Links -->
+    <div class="footer-section footer-social">
+      <h3 class="footer-title"><u>Follow Us</u></h3>
+      <div class="social-icons">
+        <a href="https://www.facebook.com/profile.php?id=100051055316745" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://x.com/DGP_Ladakh" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="http://instagram.com/dgpladakh/?igsh=Y3NxaHc5b2t0MHN3#" target="_blank"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+
+    <!-- Contact -->
+    <div class="footer-section footer-info">
+      <h3 class="footer-title"><u>Contact</u></h3>
+      <p><strong>Phone:</strong> 01982-260887</p>
+      <p><strong>Email:</strong> <a href="mailto:igp@police.ladakh.gov.in">igp@police.ladakh.gov.in</a></p>
+      <p><strong>Website:</strong> <a href="https://police.ladakh.gov.in/" target="_blank">police.ladakh.gov.in</a></p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2025 Ladakh Police. All Rights Reserved.</p>
+  </div>
+</footer>
+</div>
+</div>
+</body>
+</html>

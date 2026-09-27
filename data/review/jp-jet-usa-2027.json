@@ -1,0 +1,200 @@
+{
+  "sourceId": "jp-jet-usa-2027",
+  "collectedAt": "2026-09-25T06:10:36.429Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "2027 JET Programme — United States application route",
+      "programme": "Japan Exchange and Teaching Programme, US application route",
+      "status": "open",
+      "statusNote": "JET Program USA official 2027 timeline and eligibility pages checked. First connector output awaits founder review; the linked 2027 guidelines PDF is not fetched because its path is disallowed by robots.txt.",
+      "scopeLabel": "Japanese government-managed exchange employment. US citizens apply through JET Program USA; selected ALTs work in public or private schools and CIRs mainly in local government offices. Exact placement is assigned later.",
+      "outcome": "One application route where candidates choose Assistant Language Teacher (ALT) or Coordinator for International Relations (CIR). Selection can lead to a one-year paid appointment by a Japanese contracting organisation; placement and appointment are not guaranteed.",
+      "qualifications": "JET Program USA 2027 eligibility page says US citizenship by application deadline and a bachelor's degree by 25 June 2027. General 2027 guidelines link may allow a three-year teaching credential alternative for ALT; reconcile that with US-specific page before any exclusion based on education. Other health, history and Japan-residence conditions need review.",
+      "citizenshipRule": "Only US citizens may use this US application route; US permanent residence alone is insufficient. Citizens of India or other countries must use their own Japanese embassy or consulate route. This does not say they are barred from the JET Programme globally.",
+      "residenceRule": "US eligibility page excludes people who have lived in Japan for six or more years total since 2017. US residence itself is not stated as a requirement for US citizens; verify current interview and entry conditions.",
+      "selectionStages": [
+        "Online application through official JET portal, choosing ALT or CIR",
+        "Application screening",
+        "Interview scheduled by US JET offices in late January 2027",
+        "Results in April 2027 and placement notification from May",
+        "Contracting organisation appointment and work-visa arrangements"
+      ],
+      "fee": "Application fee not stated in the checked official US programme pages; verify on portal and linked guidelines.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "US"
+          ],
+          "evidence": "JET Program USA, Eligibility Criteria, 2027: US citizenship required by application deadline; permanent residents who are not US citizens cannot apply through the US route."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "requirement": "Excellent standard pronunciation, rhythm and intonation and strong speaking and writing ability; no CEFR score published.",
+            "stage": "apply",
+            "evidence": "JET Program USA 2027 Eligibility Criteria, common language condition 6.",
+            "sourceUrl": "https://jetprogramusa.org/eligibility-criteria/"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm bachelor's-degree date or any ALT teaching-credential alternative against the linked 2027 guidelines; choose one role, check Japan residence and prior JET history. US citizenship route cannot be transferred to other embassies."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm English ability; CIR additionally needs functional Japanese. N1/N2 equivalent is desirable, not a required JLPT certificate. Interview and documents require authority review."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm Japanese contracting organisation placement, appointment, entry permission and any dual-nationality renunciation requirements."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Japan workplace assigned after selection; no location pin can be inferred"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://jetapplication.com/",
+      "changes": [],
+      "id": "jet-usa-2027-alt-cir",
+      "sourceId": "jp-jet-usa-2027",
+      "title": "JET Programme USA 2027 — ALT or CIR",
+      "authority": "JET Program USA, Embassy of Japan in the United States",
+      "pathway": "recruitment",
+      "jurisdictionCode": "JP",
+      "jurisdictionName": "Japan",
+      "applicationWindow": {
+        "opensOn": "2026-09-21",
+        "closesOn": "2026-11-13",
+        "cutoffLocalTime": "23:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": "Pacific/Honolulu",
+        "precision": "minute",
+        "note": "US route: application available 21 September 2026; deadline Friday 13 November 2026 at 11:59 pm Hawaii Standard Time. Other citizenship routes use their own embassy deadlines."
+      },
+      "languageNote": "All US applicants need excellent spoken and written English; no CEFR score is stated. ALT applicants do not have a mandatory Japanese level. CIR applicants need strong functional Japanese; ability around JLPT N1/N2 is desirable, but a JLPT certificate is not required. Role-specific language must be reviewed separately.",
+      "sources": [
+        {
+          "id": "jp-jet-usa-2027:2aa29f76abcb",
+          "title": "JET Program USA 2027 application and departure timeline",
+          "authority": "JET Program USA, Embassy of Japan in the United States",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jetprogramusa.org/application-departure/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jetprogramusa.org/application-departure/",
+          "sha256": "9b3dd583c1823d7cb44001894f55a34b2e7ee4172a89b9048e9f285ad5eb7387",
+          "lastSuccessfulFetchAt": "2026-09-25T06:10:38.276Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "jp-jet-usa-2027:593b1cf88d4d",
+          "title": "JET Program USA 2027 eligibility criteria",
+          "authority": "JET Program USA, Embassy of Japan in the United States",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jetprogramusa.org/eligibility-criteria/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jetprogramusa.org/eligibility-criteria/",
+          "sha256": "153d9bd9fe5955fd40c158d498e91ff5f112fa82e844c4080f62db1a1f3f9394",
+          "lastSuccessfulFetchAt": "2026-09-25T06:10:38.994Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "jp-jet-usa-2027:7df6d3694dae",
+          "title": "JET Program USA ALT and CIR position descriptions",
+          "authority": "JET Program USA, Embassy of Japan in the United States",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jetprogramusa.org/jet-program/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jetprogramusa.org/jet-program/",
+          "sha256": "569ee608e2ed14b093b1deb1a02f9ea08fa5161e765e187ddea74c8f7b56a35d",
+          "lastSuccessfulFetchAt": "2026-09-25T06:10:40.000Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "jp-jet-usa-2027:d0cc68a1fbec",
+          "title": "JET Program USA online application instructions",
+          "authority": "JET Program USA, Embassy of Japan in the United States",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jetprogramusa.org/how-to-apply/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jetprogramusa.org/how-to-apply/",
+          "sha256": "088bc013a6542e495274ef8e70fbb982c48dd40bf805abe4e544029d7fa135e7",
+          "lastSuccessfulFetchAt": "2026-09-25T06:10:40.995Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "jp-jet-usa-2027:3f184581f0f9",
+          "title": "2027 JET USA application guidelines; linked for manual review",
+          "authority": "JET Program USA, Embassy of Japan in the United States",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://jetprogramusa.org/wp-content/uploads/2027-Application-Guidelines-JET-USA.pdf",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://jetprogramusa.org/application-departure/",
+      "fetchedAt": "2026-09-25T06:10:38.276Z",
+      "sha256": "9b3dd583c1823d7cb44001894f55a34b2e7ee4172a89b9048e9f285ad5eb7387",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 54448
+    },
+    {
+      "url": "https://jetprogramusa.org/eligibility-criteria/",
+      "fetchedAt": "2026-09-25T06:10:38.994Z",
+      "sha256": "153d9bd9fe5955fd40c158d498e91ff5f112fa82e844c4080f62db1a1f3f9394",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 50978
+    },
+    {
+      "url": "https://jetprogramusa.org/jet-program/",
+      "fetchedAt": "2026-09-25T06:10:40.000Z",
+      "sha256": "569ee608e2ed14b093b1deb1a02f9ea08fa5161e765e187ddea74c8f7b56a35d",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 47413
+    },
+    {
+      "url": "https://jetprogramusa.org/how-to-apply/",
+      "fetchedAt": "2026-09-25T06:10:40.995Z",
+      "sha256": "088bc013a6542e495274ef8e70fbb982c48dd40bf805abe4e544029d7fa135e7",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 48589
+    }
+  ],
+  "warnings": [
+    "US route is for US citizens only. India and other citizenship routes have separate embassy requirements and deadlines.",
+    "One US application cycle offers ALT or CIR role choice; programme placements may be public or private, and no vacancy total is inferred.",
+    "2027 guidelines PDF is linked but robots.txt disallows /wp-content/uploads/; founder must review it manually before approval, especially the ALT teaching-credential alternative.",
+    "The how-to page still calls the portal form a 2026 application in one sentence despite its 2027 heading; current timeline and eligibility pages control the extracted 2027 facts pending review."
+  ],
+  "approvalRevisions": {
+    "jet-usa-2027-alt-cir": {
+      "evidenceRevision": "6f75cc294d87a6362448ddb0b5614194a986b5508f8ae6050ea9be9e3c803e7d",
+      "recordRevision": "4bfb3ead912e7f582b23d0254988d738904e65d411866fd30477f54d6dfbfb03"
+    }
+  }
+}

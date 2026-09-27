@@ -1,0 +1,27 @@
+{
+  "reviewStatus": "pending",
+  "advertisement": "09/2026-27",
+  "homepage": "https://opsc.gov.in/Public/OPSC/Default.aspx",
+  "pdfSha256": "6fd057e3f361be611558e575c3e6ba391fce274a2986062d691b64f41fb046e8",
+  "post": "Assistant Public Prosecutor, Group B",
+  "vacancies": 172,
+  "opensOn": "2026-08-28",
+  "closesOn": "2026-09-28",
+  "cutoffLocalTime": "17:00",
+  "preliminaryExamDate": "2026-11-22",
+  "evidencePages": {
+    "secondCorrigendumExamDate": [1],
+    "firstCorrigendumBarCouncil": [2],
+    "shortAdvertisementWindowPostsAge": [3],
+    "longAdvertisementQualificationsOdiaFee": [8],
+    "examCityCitizenship": [11],
+    "englishAndOdiaMainPaper": [18, 19]
+  },
+  "notes": [
+    "Official PDF is a scanned bundle returned by the View Pdf form action on the OPSC homepage; the public site does not expose a stable direct PDF URL.",
+    "Pages 21–38 repeat the short and long advertisement included at pages 3–20; this is one application cycle, not multiple opportunities.",
+    "First corrigendum permits Bar Council registrations outside Odisha to be reflected in Annexure B.",
+    "Time zone is interpreted as Asia/Kolkata from Odisha local time; the advertisement prints 5:00 PM but no zone.",
+    "OCR aids review only. Founder must compare retained original scans before publication."
+  ]
+}

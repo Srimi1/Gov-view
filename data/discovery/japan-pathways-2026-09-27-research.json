@@ -1,0 +1,235 @@
+{
+  "phase": 62,
+  "researchDate": "2026-09-27",
+  "addedSourceIds": [
+    "jp-mhlw-foreign-medical-licensing",
+    "jp-mext-undergraduate-embassy",
+    "jp-mhlw-skills-certification"
+  ],
+  "sources": [
+    {
+      "country": "JP",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official public-source discovery for internal research. Original-language interpretation, collection terms, reuse and extracted public summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "jp-mhlw-foreign-medical-licensing",
+      "name": "Japan — MHLW foreign medical graduate examination recognition",
+      "authority": "Ministry of Health, Labour and Welfare (MHLW), Medical Affairs Division, Japan",
+      "homepage": "https://www.mhlw.go.jp/stf/newpage_56664.html",
+      "discoveredFrom": "https://www.mhlw.go.jp/stf/newpage_50884.html",
+      "notes": "Professional licensing route, separate from civil-service recruitment. Foreign medical graduates/licence holders require individual ministerial recognition before Japan medical examination entry; foreign degrees are not blanket-approved. Current criteria image conditionally requires JLPT N1 or expressly recognized old Level 1 category used through December 2009 for applicants without the specified Japanese junior/senior-high schooling. Clinical Japanese assessment is separate; N1 alone cannot establish eligibility. Current page gives 27 February 2026 recognition-sheet deadline, not a new open 2027 window.",
+      "accessGap": "No adapter or reviewed cycle. Original Japanese education, hours, graduation recency, foreign licence, school recognition, precise schooling exception, preliminary versus direct recognition, clinical assessment, application documents, current edition and fee/window rules require review. Traditional-medicine-only education/licence is excluded by the retained 2024 clarification. Recognition, sitting national examination, obtaining licence, immigration/work permission and public employment are separate outcomes; no job tenure or nationality whitelist inferred."
+    },
+    {
+      "country": "JP",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official public-source discovery for internal research. Original-language interpretation, collection terms, reuse and extracted public summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "jp-mext-undergraduate-embassy",
+      "name": "Japan — MEXT undergraduate embassy-recommendation admission pathway",
+      "authority": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan; JASSO Study in Japan official portal",
+      "homepage": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html",
+      "discoveredFrom": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "notes": "Public education admission/scholarship pathway; not a government job or universal university application. Retained 2027 Japanese/English guidelines permit eligible international students from diplomatic-partner countries, with special Japanese dual-national residence/status conditions. General route requires willingness to learn/study in Japanese; it does not specify universal N1/N2 or CEFR threshold. University direct placement may require language tests, scores or interviews. Existing language-certificate submission is conditional, distinct from screening and later admission.",
+      "accessGap": "No adapter or reviewed cycle. Embassy country-specific schedule, original/current amendments, actual opening/closing, birth-date and education exceptions, direct-placement university language thresholds, dual-national conditions, Student residence status, health and exclusion criteria require review. April/May recruitment guidance is not an exact global application window. Preparatory completion does not guarantee university admission; application, screening, placement and entry outcomes differ. Embassy India notice access remains independently unresolved; old 2025/2026 PDFs must not establish 2027 criteria."
+    },
+    {
+      "country": "JP",
+      "connector": "none",
+      "cadenceHours": 24,
+      "licence": "Official public-source discovery for internal research. Original-language interpretation, collection terms, reuse and extracted public summaries require review before connector acceptance or publication.",
+      "discoveredAt": "2026-09-27",
+      "reviewRequired": true,
+      "enabled": false,
+      "id": "jp-mhlw-skills-certification",
+      "name": "Japan — MHLW national skills certification and foreign-trainee routes",
+      "authority": "Ministry of Health, Labour and Welfare (MHLW), Human Resources Development, Japan",
+      "homepage": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/ability_skill/ginoukentei/index.html",
+      "discoveredFrom": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/shokugyounouryoku/ability_skill/ginoukentei/kisokyu.html",
+      "notes": "National vocational qualification pathway administered by prefectures or designated examination bodies. Official page separately describes foreign technical-intern basic, ad-hoc grade 3 and ad-hoc grade 2 routes. Vocational grades are not language levels. Retained overview describes Japanese exam medium and route-specific furigana/accommodations, without a universal JLPT or CEFR threshold. Subject inventory is not application-cycle or vacancy count; qualification is not a promised job or visa.",
+      "accessGap": "No adapter or reviewed cycle. Trade, grade, experience, approved trainee-plan status, prefecture/designated-body intake, dates, actual venue, fees, original notice language and current eligibility require review. Retained overview is explicitly 2021 guidance; linked leaflet is updated March 2025, not a 2026 intake notice. General applicants and foreign-intern special routes cannot be conflated. Changes to training/immigration systems require current official notices; no permission to work, public appointment type or proficiency score inferred."
+    }
+  ],
+  "outcomesFile": "data/discovery/japan-pathways-2026-09-27-fetch-outcomes.json",
+  "requestsFile": "data/discovery/japan-pathways-2026-09-27-requests.json",
+  "responses": {
+    "retained": 11,
+    "failed": 0,
+    "not-attempted": 0
+  },
+  "unchangedStateSha256": {
+    "data/published/sources-status.json": "61d8439253bc6b5e14d1fba88b9c096910fb5a9dd1218341999ee0bbee72340a",
+    "data/review/br-navbrasil-2026.json": "62ca97ac867f55ae1bd1aa5f878de4a682fc183b0cbc95c1b4a7223708501b50",
+    "data/review/bt-rcsc-bcse-2026.json": "429b7a0461a4efbaf1fa0f95e9cb8c72fba37439f683764824e7fc35c1cf9bed",
+    "data/review/ca-fswep-great-lakes.json": "889813f894076bd73423c30b8c4c4576d9bbf93825b1d33ccb9be2ea02f78b32",
+    "data/review/ie-publicjobs-ao-specialist-2026.json": "679a47e4db8c1d7091ca6ef4d8b5aab168bddf7c46ce587a937dd1aacaf1a71c",
+    "data/review/in-an-recruitment.json": "edf40ff0c0c8a48c8dd02bc063e667b53d199541fced3bd8b557c4486fb188ab",
+    "data/review/in-ap-recruitment.json": "ec4d2b70a3a746d1776d1fec8ad7838d9300d3516e1dbf2354f8ea79d598499f",
+    "data/review/in-apeda-associates-2026.json": "bcdb54ce709a1bc3292d1fcbcc8225016114398d7d498ea9f713672ef8869758",
+    "data/review/in-ar-recruitment.json": "fe56e1adb0bcc98cf7aea095c9582f95c326543843d5e1be32efa8da8d6e0230",
+    "data/review/in-as-goalpara-ft8.json": "330aaa4bde561c78882c3e74d588387a427ad29ebe9efd333056f7e3cf712f08",
+    "data/review/in-as-recruitment.json": "500e497d62ae3893183e6703bb96bf3a169d2f7ebce5622247e4aa31646897df",
+    "data/review/in-as-sribhumi-ft2.json": "7b01dba31ca6ab18d2116d6ada8199f4962a8d17fb68bbe0d9975b78f1385041",
+    "data/review/in-bel-september-engineers-2026.json": "130001e575173612df790f667de179fbbd6653dd24d54224e2ed519810ac5ad5",
+    "data/review/in-br-btsc.json": "a5e9a8ba8b6dd75a636a7ae3d51c2f10ebba561de17aba22e64abcff613a3be6",
+    "data/review/in-br-dnsricm-lecturer-2026.json": "3f4af39f658323f9e89d04e8e7285443e5f4c56cb07637f12089753449c7b65e",
+    "data/review/in-br-recruitment.json": "1d0f8b61c87a17e8ccc5c8d14f14b50b57746549c5dc329c361dbf17daa0ffca",
+    "data/review/in-ch-recruitment.json": "22d7a63eb843231c67eeee5afa13ae3a2464b4712558198773e8c61977d754f0",
+    "data/review/in-ct-recruitment.json": "54626f6053901dacdbfe07fc0983ba69ca80300171b82fd38f2871add47ebdd1",
+    "data/review/in-dh-recruitment.json": "5b64d4973d75a93051b831f6e0af51506e9762683437331bcbb0c735bad582cc",
+    "data/review/in-dl-ignou-nonteaching-2026.json": "971b0dd599e1db341a884c0d742bb9e8e4b0c4b436949234af2e66d07865e802",
+    "data/review/in-dl-recruitment.json": "668265590d24c3392e57a7d67770c80227266e75b7079aba9214907a528c4c43",
+    "data/review/in-drdo-jrf-september-2026.json": "4c233f7a6af046cde30ad62c0ac30b91d5726417bb3527903aea66f9c44de2c6",
+    "data/review/in-ga-gssc.json": "c6e6d07913a4b5a4f0a12821ccc6680f895a3c7cc8dc6bdb8f07a37933e928bf",
+    "data/review/in-ga-recruitment.json": "9d5f9ea04e92a2349dd6f5a81c2ca96d0956ed52036df870ed2bc0e5fec7db8a",
+    "data/review/in-gj-recruitment.json": "856acc1a3ddd8b84c19fc7e724c9023d220931b9c3667e307f1eebc1f0667653",
+    "data/review/in-hp-forest-joa-it-pwd-2026.json": "2307de05ac6402f29e99d6ef32cc343de02428c0a2400698d3781c46b097ab3e",
+    "data/review/in-hr-hssc.json": "c5083659dc0cbb809cca9a29380ef4908242131c726c940412cdbba17f86914d",
+    "data/review/in-ibps-crp.json": "4aaaf94620cbf1ce0904ddf9b345ffef7beade8fb009aa14ff53e728d154a29c",
+    "data/review/in-icmr-nihr-bhubaneswar-junior-consultant-2026.json": "775c1b72a4b34ae3a73e7214a8174309dbc4255cfcaf96a37fe0eb299d3cd042",
+    "data/review/in-icmr-nithr-yp1-admin-2026.json": "1de45d19800d166c16f8356dd1752bc02e60304df1e37007f4227d72d5bfd5aa",
+    "data/review/in-iitb-faculty-l10-2026.json": "a58ec1f841ecdc8afbfb53b758f939fda728ad4694799ebad3185f6980eab4f0",
+    "data/review/in-indiapost-gds.json": "37133c699b45f497e958c39ff5df2a6ccbe166fcf10e427209ad4032ae006e09",
+    "data/review/in-isro-iprc-rmt-2026-01.json": "0f6fe726a4dadb0b7efca4178ad6ad464dc706e724a67778141c7543394120c2",
+    "data/review/in-isro-sac-02-2026.json": "dd713e4733f36ef4b080c68d570ec11c2a2604c6c53d35ed8c4f7b1bc01a9a5e",
+    "data/review/in-jh-jjb-cwc-2026.json": "2adb73f796314eb47ea994803dd9cb219ad282568d239339aa3a8157eb1a6c0d",
+    "data/review/in-jh-recruitment.json": "56381604fa56e95bb262ab331a403e2cc78bd29d08874da69b75008ca032680b",
+    "data/review/in-jk-jkssb.json": "06d108cc6d6e6b59c9ac2bbafd74a4c4138f7060b9935f727c9a63221f4e3fac",
+    "data/review/in-jk-recruitment.json": "a62a5a5ca5259b4eb67af7e9201e7df6291be6fa4f73947c9285277da7370a1e",
+    "data/review/in-ka-nlsiu-other-faculty-2026.json": "c7e8ad271c843575b90ccb06790cd69d13792102b0a9e60f6c915cb8824aca76",
+    "data/review/in-ka-nlsiu-professor-law-2026.json": "3272945231cd9e44acebc408ccb0869866192a4c62b5021ecc33de6ef8c7162c",
+    "data/review/in-ka-recruitment.json": "f64916e60169aac42a7486f6da2501f1a194042f2c2aa49382e2cb6d8dff4219",
+    "data/review/in-kl-recruitment.json": "5cc540cc9ca529e714cb715d5456ec3c4c6c476e2a5fe99021c49aad3daeb8f1",
+    "data/review/in-kvs-deputation.json": "6733c024ba058776e441535cbf8b6b9c0d839e8dd470b7f33e8ff179edc25da4",
+    "data/review/in-la-hme-admission.json": "80212c8dc8d74736357dc0992e6b87f4fb5026a993364630fdb83ce80b53f308",
+    "data/review/in-la-police.json": "3359fc6632185dff477e40924fa1291587d4213bd7a6243f9e728da0fb0240fc",
+    "data/review/in-mecl-nonexecutive.json": "e65b39462ea9b2d7cc896d9e8841a7d86b6b77c4cc9de22303a592b6e09e6b0a",
+    "data/review/in-mh-actrec.json": "a4e454f719f9c13f1a4478d567bada8c45c929d5ce1efb8aa7d0f9be2ef3a6ef",
+    "data/review/in-mh-dmer-nashik-faculty-2026.json": "6c7a4d80fc1937f0ad7957d720292c006c399ef610368454d87d393b94e99f1d",
+    "data/review/in-mh-pune-divcomm-legal.json": "ae258eddf06c3c8975919243696c0939599c22a555ef50a72964433ba49afbc6",
+    "data/review/in-ml-recruitment.json": "2f80c4049e97625fd83def3ebdacd47e142a5bbedb6369f9cf4706b0e96353a8",
+    "data/review/in-mn-recruitment.json": "fc4a3feec7ba7654806dd89972c7589e2533c4b579fd1642a5e9f0576dc5009b",
+    "data/review/in-mp-esb-police-gd.json": "6cc0555fc798f0f910bc6e5879538bd5252732621ce7af424d7251da6aa52644",
+    "data/review/in-mz-mirsac-group-d-2026.json": "4332934fecf99e186d60642157bddd065554b15deac6919ab440e6a3a6ba2f55",
+    "data/review/in-mz-recruitment.json": "7cd6fa1c6234b8b1a334b85791051842b05bf65d2df31a5e19ce1196e6582788",
+    "data/review/in-nbems-executive-director.json": "60d1ab82caf35d57ebb82cef2a32556c157256a59f1415251d1109eca13796bf",
+    "data/review/in-nbems-fmge.json": "e54d500d1229f0cfd670a589a2ebdf7dc8373412fe3f09c4e6357228970ba61b",
+    "data/review/in-nl-recruitment.json": "54274b8b2b1df8cc2d4f8ba58c3dfd8d76016798ee32281ba2cafb5b839cd662",
+    "data/review/in-or-drdo-pxe-apprentices.json": "21d116ef8b975ce0b91ce4ddad87ea6d6dda0e153006aa9148f8de259f9ea25d",
+    "data/review/in-or-recruitment.json": "c72b99dd11cc57dcf72009a056447109f545cfab681641a9a6146a6364cb43e5",
+    "data/review/in-pb-psegs.json": "33b5e6b6c888e4247c9d046339b067710444fe510f03cd61f3e93ee5d7c9486f",
+    "data/review/in-pb-sssb.json": "152357ab87b586c0ba29a7291478e2d77be557f3e8295b725c92612090973a99",
+    "data/review/in-py-pihmct-lecturer-2026.json": "bcddde1bd6f0cb7a397f33cdcfca833d51f9cd57e007a4083bff277772899291",
+    "data/review/in-rj-recruitment.json": "d67727f1a70a3fffeb08b40f501e67ce912d9c69b6f6765667574ee92eba5b49",
+    "data/review/in-rrb-railways.json": "efedd9009f70f44b01c1febfee40ecd0ecd83294a3164c49058b4f4cb2efa297",
+    "data/review/in-sk-recruitment.json": "c105a8f6bee6adb2f3546e8e78d70037aef0bfc055815b52f86abe7991cfbd2e",
+    "data/review/in-ssc.json": "591c6350ebb711d57a24ea794fc13f4cf66c4e03c464ba5cb5c51046065b58b2",
+    "data/review/in-tg-nfc-iti-apprenticeship.json": "eb9977e65c72417de287a48c7ad4742f7c56297612735f26506d8bdbda25d195",
+    "data/review/in-tg-sports-physio.json": "88168694f11d8074af08e8c40379c52d09d4e6538fca9bbef7c8f5d69ea0aab8",
+    "data/review/in-tn-recruitment.json": "6ce5f61f08ab52a0b3721602092807597f115d419a7cc6009b046a5a7fb22e5c",
+    "data/review/in-tr-recruitment.json": "647c01d937b5a17d2ea9d38a89f82fc83b3d37cca913904e3a380d27250cd829",
+    "data/review/in-uk-icfre-fri-walkin-2026.json": "531c523573235ffec719d8d722047fbbbef3c151b059285040236b450b50b8bc",
+    "data/review/in-up-recruitment.json": "3c623ac7b31724053cfce98d904722487ccad3568b888949f4289543721d9205",
+    "data/review/in-ut-nituk-nt08-2026.json": "a577ae8273f71e0aa43688289b462f47473534bde727d2da6ae2f91f55f283d0",
+    "data/review/in-ut-recruitment.json": "5a2025333e6db88badf0d4301294d2e9f93f7e787a6e2ca60539faa555c65b2d",
+    "data/review/in-wb-iiserkol-nt04-2026.json": "ca693ca8ac2a1ed1975403a32a3652f7aca23404d35f1ce81a445696fea078a0",
+    "data/review/in-wb-recruitment.json": "b7c071b9b39502a4729869ab05ba1de09dae86190154488999219f76c349db0b",
+    "data/review/jp-jet-usa-2027.json": "f49287a0e973e0a562d30e1406692e544d103924d5afe8a2169fe5fccac866a7",
+    "data/review/jp-jinji.json": "29f198f624d06fed0fb8a28f80213269cc99766b5c93a378a7f3ea41d702a4ef",
+    "data/review/ke-pscims.json": "f9278b305e953c4bcd5171783466abf09d8cbabe64bd322814737d884b2ea34f",
+    "data/review/nz-gov-jobs.json": "45208707cd6829e7ab4170562230d37785ff4544c13f4dd932073e2668ae0dde",
+    "data/review/us-ca-calcareers-jc-532295.json": "6bb7667a7538e0a2b7a42f58cf6abb71011f6f3729c6aac9837b60bd23b50dce",
+    "data/review/us-ny-statejobs.json": "e99bd4431a19967a3c654d809d379858b232985e26cfd660fe9e8fc3375a2b07",
+    "data/review/za-dpsa-cpsi-internships-2026.json": "304701454aec667448d74b664de78b7c086d6925fbe263e892d95a2e0db65759"
+  },
+  "priorJapanCoverage": {
+    "jurisdictionCode": "JP",
+    "fixture": false,
+    "status": "partial",
+    "researchedAuthorities": [
+      "Embassy of Japan in India / Ministry of Foreign Affairs of Japan, with JET contracting organisations",
+      "人事院 (National Personnel Authority)",
+      "JET Program USA, Embassy of Japan in the United States",
+      "Embassy of Japan in India, Japan Exchange and Teaching Programme"
+    ],
+    "connectedSourceCount": 1,
+    "unresolvedGaps": [
+      "Embassy of Japan in India — 2026 JET CIR recruitment: Closed 2026 Indian-national recruitment for one-year CIR appointments in Japan. Four named local-government placements have Japanese N1/N2 and English, Hindi or Telugu criteria; Indian-state origins are preferences. Different edition from existing ALT 2027 source. No NAT-to-JLPT conversion or universal certificate obligation inferred.",
+      "JET Programme USA — 2027 ALT or CIR application: Draft-only 2027 US-citizenship application route for paid work in Japan as ALT or CIR; some ALT placements are private schools, so not every outcome is a government job. One shared application window opens 21 September and closes 13 November at 23:59 HST. English ability is required; CIR functional Japanese is needed with N1/N2 equivalent desirable, not a required certificate. India and other embassy routes use different rules and deadlines.",
+      "Embassy of Japan in India — 2027 JET Assistant Language Teacher: India-to-Japan 2027 ALT recruitment route is open for Indian-passport applicants with a bachelor's degree by July 2027 and strong English ability; no mandatory JLPT certificate stated. Embassy application page says email submission by 30 October, while its linked generic guidelines say 31 October, so the date conflict needs embassy clarification. No draft or public record is created from inaccessible source bytes. Rechecked 27 September: incorporated PDF also allows a three-year school-teaching credential alternative not stated in the webpage bachelor requirement; reconcile before any education exclusion.",
+      "人事院 — 受験案内一覧: 0 records retained; source reports 21 items",
+      "人事院 — 受験案内一覧: 1 candidate revisions await review",
+      "人事院 — 受験案内一覧: latest source check incomplete; some notices may be missing",
+      "Embassy of Japan in India — 2026 JET CIR recruitment: Same embassy host robots fetch returned HTTP 403 during ALT access check; CIR original bytes not attempted after origin-policy failure. No adapter activated. CIR page excludes JET participation since 2022 while linked 2026 PDF says 2023. NAT alternative, position-specific language requirements, preferred origins, passport proof, deadline timezone and later notices require review. Web-reader research is not collector freshness or applicant publication.",
+      "JET Programme USA — 2027 ALT or CIR application: 2027 application-guidelines PDF is under /wp-content/uploads/, disallowed by jetprogramusa.org robots.txt. Four current official HTML pages are collected; the PDF remains linked for founder review. The Embassy of Japan in India 2027 route is separately researched but its host denies automated access.",
+      "Embassy of Japan in India — 2027 JET Assistant Language Teacher: Embassy host returns Access Denied for robots.txt, application page and PDF to the local collector. The source can be read through the web research tool, but automated collection permission and exact-byte retention are unresolved. No connector is activated."
+    ],
+    "lastSuccessfulFetchAt": "2026-09-25T13:08:19.606Z",
+    "lastValidatedAt": null
+  },
+  "medicalCriteriaVisuallyChecked": {
+    "url": "https://www.mhlw.go.jp/content/10800000/001448827.png",
+    "sha256": "af55639efa91830ea21b398de193a02349dcd7920533ba2235d5a00c5a662d2f",
+    "applicantLanguageRequirement": "JLPT N1, including expressly accepted old JLPT Level 1 category used through December 2009, when specified Japanese junior/senior-high education is not completed. Exact education exception and certificate proof need original-language review.",
+    "clinicalLanguageAssessment": "Separate clinical communication assessment; native proficiency result does not satisfy this assessment.",
+    "automaticEligibilityRuleCreated": false
+  },
+  "mextOriginals": {
+    "edition": "2027 undergraduate embassy recommendation",
+    "retainedLanguages": [
+      "ja",
+      "en"
+    ],
+    "qualificationsPages": [
+      3,
+      4
+    ],
+    "directPlacementPages": [
+      2,
+      3
+    ],
+    "certificateNote": "Document note 11 is conditional certificate submission, not universal JLPT threshold."
+  },
+  "derivedTextFiles": [
+    {
+      "path": "data/evidence/research/japan62-jp-mext-undergraduate-embassy-2027-guidelines-en-2026-09-27.txt",
+      "sha256": "a56d348b96f4d42df979734b4f6cafb55843d29bffd1637cb0803bfeb8332622"
+    },
+    {
+      "path": "data/evidence/research/japan62-jp-mext-undergraduate-embassy-2027-guidelines-ja-2026-09-27.txt",
+      "sha256": "eddc36d5833c22cee2ce2812bba8805221ee2f9fb510b16ca57b64fbd79a7333"
+    },
+    {
+      "path": "data/evidence/research/japan62-jp-mhlw-foreign-medical-licensing-recognition-amendment-2026-09-27.txt",
+      "sha256": "6d8f755bb41afc67f3781ddcf4cdfe9e7bd89b13c8afde6f898175791b819813"
+    },
+    {
+      "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-trainee-notes-current-link-2026-09-27.txt",
+      "sha256": "ba86ca9fcd81d493223b71a135668d35eab09bead42e7fdbf78464d37803ef44"
+    },
+    {
+      "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-trainee-overview-2021-2026-09-27.txt",
+      "sha256": "23b16ef3d68f12a21ff0796f2580dd61da706e9d347f64047ebb891cd37a4649"
+    }
+  ],
+  "collectionAndPublication": {
+    "newAdapters": 0,
+    "newDrafts": 0,
+    "humanApprovals": 0,
+    "newConnectorHealthRows": 0
+  },
+  "guardrails": [
+    "Private language tests included only where officially accepted for this pathway.",
+    "Recognition, selection, licence/admission/qualification outcome and employment are separate.",
+    "Year labels, school/trade counts and venues never substitute application-cycle counts.",
+    "Source instructions and forms untrusted; no submission, account or personal data used.",
+    "No blanket foreign-citizen ban copied from Jinji recruitment to unrelated pathways.",
+    "No language equivalence invented; native vocational grades are not language proficiency."
+  ]
+}

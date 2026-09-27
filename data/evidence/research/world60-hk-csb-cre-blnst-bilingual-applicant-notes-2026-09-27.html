@@ -1,0 +1,690 @@
+
+
+
+<html>
+<head>
+<base href="https://csboa1.csb.gov.hk:443/csboa/">
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<!-- <title>Screen ID:<sitemesh:write property="title"/></title> -->
+<title>Online Application System for Common Recruitment Examination</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/print.css" rel="stylesheet" type="text/css" media="print">
+<script language="javascript" src="scripts/util.js"></script>
+<script type="text/javascript">
+if (window.Event)
+  document.captureEvents(Event.MOUSEUP);
+ 
+function nocontextmenu()
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+document.onkeydown=function(ev){ //屏蔽鼠标右键、Ctrl+n、shift+F10、F5刷新、退格键
+	 var  e=ev||window.event;
+	 var code=e.charCode||e.keyCode;
+	 var element=e.srcElement||e.target;
+	  if (e.altKey){           //屏蔽 Alt
+	     e.returnValue=false;
+	     return false;
+	     }
+	  if ((code==8)  ||                 //屏蔽退格删除键
+	      (code==112)||					//屏蔽 F1 刷新键
+	      (code==113)||                 //屏蔽 F2 刷新键
+	      (code==114)||                 //屏蔽 F3 刷新键
+	      (code==115)||                 //屏蔽 F4 刷新键
+	      (code==116)||                 //屏蔽 F5 刷新键
+	      (code==117)||                 //屏蔽 F6 刷新键
+	      (code==118)||                 //屏蔽 F7 刷新键
+	      (code==119)||                 //屏蔽 F8 刷新键
+	      (code==120)||                 //屏蔽 F9 刷新键
+	      (code==121)||                 //屏蔽 F10 刷新键
+	      (code==122)||                 //屏蔽 F11 刷新键
+	      (code==123)||                 //屏蔽 F12 刷新键
+	      (e.ctrlKey && code==82)){
+	      if(code==8&&(element.nodeName=="INPUT"||element.nodeName=="TEXTAREA")){
+	      	return true;
+		}
+	       e.returnValue=false;
+	      if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion)>= 4))
+	       	e.keyCode=0;
+	     return false;
+	     }
+	  if ((e.ctrlKey)&&(code==78)){   //屏蔽 Ctrl+n
+	     e.returnValue=false;
+	     return false;
+	     }
+	  if ((e.shiftKey)&&(code==121)){ //屏蔽 shift+F10
+	     e.returnValue=false;
+	     return false;
+	     }
+	  if ((e.altKey)&&(code==115)){ //屏蔽Alt+F4
+	      return false;
+	      }
+	}
+if(Util.Browser.IE)
+document.oncontextmenu = nocontextmenu;  // for IE5+
+</script>
+  
+<!-- <title>SC-CRE-S-001</title> -->
+<script type="text/javascript">
+window.addEventListener('DOMContentLoaded', () => {
+	if (document.querySelector('html')) {
+		document.querySelector('html').setAttribute('lang', 'en')
+	}
+})
+
+load=function(){
+
+	
+	if(document.URL.match(/notes/)){
+		var eles=getElementsByClassName("noPrint");
+		for(var i=0;eles[i];i++)
+			eles[i].style.display="none";
+		document.getElementById("noteButton").style.display="";
+		
+	}else{
+		LeavePublic.leave("CRE","Are you sure to abort your application form?");
+		ByeBye.init('CRE');
+		AlertTips.setAlert('The system timeout for idle session is expired.  Please re-try.系統的閒置時限已過，請重試。' , '55');
+	}//	AlertTips.setAlert("Are you sure to abort your application form?" , '55');
+}
+
+
+var WLock = {
+
+	//改變鎖狀態并提交
+	submit : function(actionName){
+		this.needUnlock=false
+		if(actionName=="CRE_1"){
+			
+			
+			
+			
+
+				var f=document.getElementById("idForm");
+				f.action="cre/CRE_1.action";
+				//提交方式，以及组装参数
+				var input=document.createElement("input")
+				input.id="recheck";
+				input.type="hidden";
+				input.name="re";
+				input.value="true";
+				f.appendChild(input) ;
+				f.submit();
+			// }
+		}
+		else if (actionName=="CRE_1_change"){
+
+			var f=document.getElementById("idForm");
+			f.action="cre/CRE_1_change.action";
+			f.method="post";
+			var input=document.createElement("input")
+			input.id="recheck";
+			input.type="hidden";
+			input.name="re";
+			input.value="false";
+			f.appendChild(input) ;
+
+
+			f.submit();
+		}
+
+		else{
+
+			var f=document.getElementById("idForm");
+			f.action="joa/"+actionName+".action";
+			f.submit();
+		}
+
+	}
+}
+
+
+
+</script>
+
+	<style>
+		/*mobile*/
+		@media (max-width: 768px) {
+			#note {
+	            height: auto;
+	            overflow: visable;
+	        }
+	        
+			.justify-exception{
+				text-align:left !important;
+			}
+			
+			.table-col-1{
+				width:3% !important;
+			}
+			.table-col-2{
+				width:16% !important;
+				min-width:130px;
+			}
+			.table-col-3{
+				width:78% !important;
+			}
+			.table-col-4{
+				width:3% !important;
+			}
+		}
+
+		/*desktop*/
+		@media (min-width: 769px) {
+			#note {
+	            height: 500px;
+	            overflow: auto;
+	        }
+			.justify-exception{
+				text-align:left !important;
+			}
+		}
+	</style>
+<link href="javascript/print-cre.css" rel="stylesheet" type="text/css" media="print">
+<link	href="/csboa/stylesheets/responsive-cre.css"	media="screen" rel="stylesheet" type="text/css" />
+<!-- sitemesh3.2 <decorator:head /> -->
+<link	href="/csboa/stylesheets/responsive-2022.css"	media="screen" rel="stylesheet" type="text/css" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<style>
+/*mobile*/
+@media (max-width: 768px) {
+	.content-row { display: block; float: left; }
+	/*.content-row>td { display: block;  }*/
+	.content-row>td { display: contents;  }
+	.single-line-height{
+		line-height: normal !important;
+	}
+}
+
+/*desktop*/
+@media (min-width: 769px) {
+	.single-line-height{
+		line-height: 30px;
+	}
+}
+</style>
+</head>
+<body oncontextmenu="return   false">
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
+	<tr class="noPrint">
+		<td colspan="2" style="overflow: hidden;">
+<div id="topPanel">
+<div id="header">
+<div id="headerLeftPanel" style="overflow: hidden;">
+<style>
+/*mobile*/
+@media (max-width: 768px) and (min-width: 633px) {
+	.logo{
+		/* width: 100%; */
+        height: 100%;
+        max-width: 100%;
+        transform-origin: top left;
+        transform: scale(1);
+        object-fit: contain;
+        object-position: top left;
+	}
+}
+@media (max-width: 633px) {
+	.logo{
+		/* width: 100%; */
+        height: 100%;
+        max-width: 100%;
+        transform-origin: top left;
+        transform: scale(1.25);
+        object-fit: contain;
+        object-position: top left;
+	}
+}
+
+/*desktop*/
+@media (max-width: 769px) {
+}
+</style>
+<img src="images/logo.gif" alt="中華人民共和國香港特別行政區政府
+公務員事務局"
+	height="65" lang="zh" class="logo">
+</div>
+<div id="headerRightPanel">
+
+</div>
+</div>
+<div id="bannerPanel"> 
+<!--<a href="javascript:window.close();">Exit</a>  -->
+</div>
+</div></td>
+	</tr>
+	<tr id="content" class="content-row" style="height:auto !important;">
+		<td height="" valign="top" class="noPrint single-line-height" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="leftMenuPanel" class="noPrint">
+	<div id="stepMenu" class="leftMenuSubPanel mobile-flex">
+		<div id="CRE_3" class="surveyStepBoxWhiteBackground">
+			<strong>Step 1</strong>
+			<br>
+
+			申請人須知<br>Notes for Applicants</div>
+		<div id="CRE_1" class="surveyStepBoxWhiteBackground">
+			<strong>Step 2</strong>
+			<br>
+
+			主頁<br>Main Page</div>
+		<div id="CRE_2" class="surveyStepBoxWhiteBackground">
+			<strong>Step 3</strong>
+			<br>
+
+			申請人基本資料<br>Basic Application Information</div>
+		<div id="CRE_4" class="surveyStepBoxWhiteBackground">
+			<strong>Step 4</strong>
+			<br>
+			   
+			申請書<br>Application Form
+		</div>
+		<div id="CRE_5" class="surveyStepBoxWhiteBackground">
+			<strong>Step 5</strong>
+			<br>
+			確認收到申請書<br>Acknowledgement of receipt of application</div>
+	</div>
+</div>
+
+<style>
+/*mobile*/
+@media (max-width: 768px) {
+	.surveyStepBoxSelected, .surveyStepBoxWhiteBackground{
+		width:20%;
+  		word-break: break-word;
+	}
+	
+	#leftMenuPanel{
+		width:100%;
+		margin-bottom:10px;
+	}
+}
+
+/*desktop*/
+@media (min-width: 769px) {
+	.surveyStepBoxSelected, .surveyStepBoxWhiteBackground{
+		width:auto;
+		word-break: break-word;
+	}
+}
+</style>
+
+<script type="text/javascript">
+	let  url=document.URL;
+
+
+	menuLoad=function(){
+
+		if (url.match("CRE_1_change.action") || url.match("CRE_1_submit.action")){
+			var eles=document.getElementById("stepMenu").getElementsByTagName("div");
+			eles[1].className="surveyStepBoxSelected";
+		}else if (url.match("CRE_1.action") || url.match("CRE_4_notes.action")){
+			var eles=document.getElementById("stepMenu").getElementsByTagName("div");
+			eles[0].className="surveyStepBoxSelected";
+		}
+		else {
+			MenuStyle.init(url, false);
+		}
+		// MenuStyle.init(document.URL, false);
+
+	}
+	// menuLoad=function(){
+	// 	MenuStyle.init(document.URL,false);
+	// }
+</script>
+</td>
+		<td width="100%" valign="top" align="center">  
+	<h1 class="sr-only">申請人須知<br>Notes for Applicants</h1>
+<dl>
+	<dt class="title">申請人須知<br>Notes for Applicants</dt>
+	<dd></dd>
+	<dt style="border: 1px solid #000000; padding: 10px; text-align:justify;">在填寫綜合招聘考試及紙本形式的「基本法及香港國安法測試」（學位／專業程度職系）（以下簡稱「基本法及香港國安法測試」）網上申請書前，請細心閱讀此「申請人須知」，並保存此「申請人須知」作參考，直至收到考試成績為止。<br>Please read these notes carefully before completing the on-line application form for the Common Recruitment Examination and the paper-based Basic Law and National Security Law Test (Degree / Professional Grades) (CRE and BLNST).  Please keep these notes for reference until the examination results are available.</dt>
+	<dd>
+	<div id="note" class="form">
+	<table style="table-layout: auto; text-align:justify;">
+		<tr>
+			<td width="1%" class="table-col-1"></td>
+			<td width="18%" class="table-col-2"></td>
+			<td width="80%" class="table-col-3"></td>
+			<td width="1%" class="table-col-4"></td>
+		</tr>
+		<tr valign="top">
+			<td></td>
+			<td class="blod justify-exception"><b>考試日期：</b></td>
+			<td><b>2026年12月5日</b>  </td>
+			<td></td>
+		</tr>
+		<tr valign="top">
+			<td></td>
+			<td class="blod justify-exception"><b>Date of Examination:</b></td>
+			<td><b>5 December 2026</b></td>
+			<td></td>
+		</tr>
+		<tr valign="top">
+			<td></td>
+			<td class="blod justify-exception"><b>截止申請日期：</b></td>
+			<td><b>2026年10月2日晚上11時59分(香港時間)</b>  </td>
+			<td></td>
+		</tr>
+		<tr valign="top">
+			<td></td>
+			<td class="blod justify-exception"><b>Application Deadline:</b></td>
+			<td><b>2 October 2026 11:59 p.m. (Hong Kong time)</b></td>
+			<td></td>
+		</tr>
+		<!-- For 1st round -->
+		
+		<!-- For 2nd and 3 round -->
+		<tr valign="top">
+			<!-- <td></td>
+			<td class="blod">重要事項：<br>Important Notes:</td> -->
+			<td colspan="3">
+			<ol>
+				<ol type="a" start="1" style="padding-left:13px;">
+					<li><p>是次申請期只適用於選擇在以下其中一個城市應考綜合招聘考試及「基本法及香港國安法測試」的人士：北京、上海、倫敦、紐約、多倫多、溫哥華及悉尼。<br />[<b>註</b>：申請人如已報考於2026年10月在香港舉行的考試，及隨後取得綜合招聘考試試卷的最高等級成績，他們將<b>不會</b>被安排於2026年12月在香港以外地區應考同一張試卷。]  <br>The current call for applications is only for persons who choose to take the CRE and BLNST in one of the following cities: Beijing, Shanghai, London, New York, Toronto, Vancouver and Sydney. <br />[<b>Note:</b> For persons who have applied for sitting the examination in Hong Kong in October 2026 and subsequently obtain the highest results of the CRE paper(s), they will <b>not</b> be arranged to take the same paper(s) again in the examination outside Hong Kong in December 2026.]</p></li>
+				</ol>
+			</ol>
+			</td>
+			<td></td>
+		</tr> 
+		<tr valign="top">
+			<td colspan="3">
+			<ol>
+				<ol type="a" start="2" style="padding-left:13px;">
+					<li><p align="justify">申請人必須填妥申請書各項（但註明是「可選擇是否填寫」的資料則屬例外），並提供正確資料。申請人如未能提供所需的所有資料，<b>申請書將不獲處理</b>。  <br>Please ensure that all parts in the application form are completed (except those items marked as “Optional”) and the information is accurate.  <b>Your application will not be considered</b> if you fail to provide all information as requested.</p></li>
+				</ol>
+			</ol>
+			</td>
+			<td></td>
+		</tr>
+		<!-- lianjuncheng 2015-03-17 -->
+		
+		<tr valign="top">
+			<!-- For 1st round -->
+			
+			<!-- For 2nd and 3 round -->
+			<td colspan="3">
+			<!-- For 1st round -->
+			<ol>
+				<!-- For 2nd and 3rd round --> 
+				<ol type="a" start="3" style="padding-left:13px;"> 
+					<li><p align="justify">考試詳情會在2026年11月23日前以<b>電郵方式</b>發出。任何更改考試日期／時間／試場的要求將<b>不獲</b>處理。有意參加是次綜合招聘考試及「基本法及香港國安法測試」的人士，應不時瀏覽公務員事務局網頁(<b><a href="https://www.csb.gov.hk/chi/cre.html" target="_blank">www.csb.gov.hk/chi/cre.html</a></b>)有關考試的更新，並細閱有關詳情。    <br>Applicants will be notified of the examination details <b>by e-mail</b> before 23 November 2026. Any requests for change of examination date / time / venue will <b>not</b> be considered. Persons who wish to take the coming CRE and BLNST should visit the Civil Service Bureau (CSB) webpage at <b>
+<a href="https://www.csb.gov.hk/eng/cre.html" target="_blank">www.csb.gov.hk/eng/cre.html</a></b> regularly to check for updates on the examination and refer to the relevant details.</p></li>
+				</ol>
+			</ol>
+			</td>
+			<td></td>
+		</tr>
+		
+
+		 
+			<tr valign="top">
+				<td colspan="3">
+				<ol>
+					<ol type="a" start="4" style="padding-left:13px;">
+						<li><p align="justify">考試成績會於考試後的一個月內<b>透過電郵以電子成績證書形式</b>發放。 <br>Candidates will be notified of their examination results <b>by email in the form of electronic result certificates</b> within one month after the examination.</p></li>
+					</ol>
+				</ol>
+				</td>
+				<td></td>
+			</tr>
+		
+
+		<tr valign="top">
+			<td colspan="3">
+			<ol>
+				<!-- For 1st round -->
+				<!-- <ol type="a" start="4"> -->
+				<!-- For 2nd and 3rd round -->
+				<ol type="a" start="5" style="padding-left:13px;">
+					<li><p align="justify">申請人如有任何查詢，可致電 (852) 2537 6429、電郵至<a href="mailto:csbcseu@csb.gov.hk">csbcseu@csb.gov.hk</a>或致函香港灣仔告士打道7號入境事務大樓25樓2511室與公務員考試組聯絡。<br>For enquiries, please contact the Civil Service Examinations Unit (CSEU) by phone at (852) 2537 6429, or by e-mail to <a href="mailto:csbcseu@csb.gov.hk">csbcseu@csb.gov.hk</a>, or by post to Room 2511, 25th Floor, Immigration Tower, 7 Gloucester Road, Wan Chai, Hong Kong.</p></li>
+				</ol>
+			</ol>
+			</td>
+			<td></td>
+		</tr>
+
+								
+			
+		<tr valign="top" class="blod" >
+			<td></td>
+			<td colspan="2"><u>申請資格</u><br><u>Eligibility</u></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<ol type="1">
+					<li>是次綜合招聘考試及「基本法及香港國安法測試」的申請人必須：  <br>Applicants for the coming CRE and BLNST should be –
+						<ol type="a" style="padding-left:13px;">
+							<li>持有大學學位（不包括副學士學位）；或   <br>holders of Degree (not including Associate Degree); or</li>
+							<li>將於2026-27 或 2027-28 學年獲取大學學位（不包括副學士學位）的資格；或<br>individuals who will have attained a degree (not including Associate Degree) in the academic year of 2026-27 or 2027-28; or</li>
+							<li>持有符合申請學位或專業程度公務員職位所需的專業資格。（只適用於非以上兩類的人士。）<br />[<b>註：</b>此類申請人在遞交考試申請書前，請先閱覽<a href="https://www.csb.gov.hk/chi/cre.html" target="_blank">www.csb.gov.hk/chi/cre.html</a>網頁內的「常見問題」，以了解申請報考綜合招聘考試及「基本法及香港國安法測試」的資格。此外，申請人應向有關部門／職系查證以確認你所持有的專業資格可申請相關的職位。] <br>holders of a qualification meeting the entry requirement on professional qualifications for civil service degree or professional posts. (Only applicable to those who are not in the above two categories.) <br /> [<b>Note:</b> For this category of applicants, before submitting an application for the CRE and BLNST, please refer to the "Frequently Asked Questions" available at <a href="https://www.csb.gov.hk/eng/cre.html" target="_blank">www.csb.gov.hk/eng/cre.html</a> for information about the eligibility of applicants. You should also check with the departments / grades concerned to confirm whether the qualification that you are holding is accepted for appointment to the relevant post(s).]</li>
+						</ol>
+					</li>
+				</ol>
+			</td>
+		</tr>
+		<tr valign="top" class="blod">
+			<td></td>
+			<td colspan="2"> <u>申請方法</u><br><u>Application Procedure</u></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<ol type="1" start="2">
+				<li>申請人必須在截止申請日期或之前透過公務員事務局網頁內的<b>網上申請系統</b>(<a href="https://www.csb.gov.hk/chi/cre.html" target="_blank" >www.csb.gov.hk/chi/cre.html</a>)遞交綜合招聘考試及「基本法及香港國安法測試」的申請。  <br>Applicants should submit an application for the CRE and BLNST on or before the application deadline through the <b>on-line application system</b> on the CSB webpage at <a href="https://www.csb.gov.hk/eng/cre.html" target="_blank">www.csb.gov.hk/eng/cre.html</a>.
+				
+				</li>
+				<li><p align="justify">申請人只可以遞交<strong>一份</strong>申請書。重複遞交的申請書將<strong>不獲</strong>處理。公務員考試組亦<strong>不接受</strong>以郵寄、傳真或電郵方式提交的申請。資料不齊全或不清楚的申請將<strong>不獲</strong>處理。 <br>Each applicant should submit only <strong>one</strong> application. Duplicate applications will <strong>not</strong> be processed. Submissions by post, fax or e-mail will <strong>not</strong> be accepted. Applications with incomplete or unclear information will <strong>not</strong> be processed. </p></li>
+				
+				<li><p align="justify">逾期遞交或未完成的申請書將<b>不獲</b>處理。<u>請注意，在臨近截止申請日期，網上申請系統可能需要處理大量申請而非常繁忙，以致申請人有機會未能於截止申請時間前成功完成網上申請程序。故此，申請人應盡早遞交申請。</u><br>Late or incomplete applications will <b>not</b> be accepted. <u>Towards the deadline for application, the on-line system would likely be heavily loaded with large volume of applications, and it may render applicants unable to complete their on-line applications in time.  Applicants are therefore strongly advised to submit their application as early as possible.</u></p></li>
+				<li><p align="justify">申請人透過<b>網上申請系統</b>遞交申請書後，公務員考試組會即時發出一份附有申請編號的確認通知到申請人的電郵地址。申請人如在遞交申請書後而未能收到確認通知，須立即於辦公時間內致電(852) 2537 6429或電郵至<a href="mailto:csbcseu@csb.gov.hk">csbcseu@csb.gov.hk</a>與公務員考試組聯絡。申請人須保存申請編號至考試完結為止。<br>On receipt of an<b> on-line application</b>, a confirmation e-mail with a serial number will be sent to the applicant’s e-mail address immediately. Applicants should immediately contact the CSEU by phone at (852) 2537 6429 during office hours or by e-mail to <a href="mailto:csbcseu@csb.gov.hk">csbcseu@csb.gov.hk</a> if they do not receive the confirmation e-mail after submitting the application. Applicants are required to keep the serial number until the examination is over.</p></li>
+				<li><p align="justify">由於公務員考試組會以申請人於申請書所提供的電郵地址作聯絡之用及向該電郵地址發出通知，申請人請務必於申請書上提供正確的電郵地址。為免錯失任何通知，申請人須確保其電郵帳戶能正常接收公務員考試組的電郵，以及定時檢查各收件郵箱（包括垃圾郵件箱、群發郵件箱及雜件郵箱）。  <br>As the CSEU will communicate and send notifications to applicants via the e-mail address provided in the application form, applicants should provide an accurate e-mail address in their application.  To avoid missing any notification, applicants should ensure that their e-mail accounts can receive e-mails from CSEU, and check each incoming mailbox (including the folders for spam, bulk and junk mails) regularly.</p></li>
+				<li>公務員考試組會以<b>電郵</b>通知申請人有關考試詳情。申請人如在<b>2026年11月23日</b>仍未收到上述電郵，須立即致電或以電郵方式與公務員考試組聯絡。<br>An <b>e-mail</b> will be sent to applicants notifying them of the relevant examination details.  Applicants who do not receive the e-mail by <b>23 November 2026</b> should immediately contact the CSEU by phone or by e-mail.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr valign="top" class="blod" >
+			<td></td>
+			<td colspan="2"><u>綜合招聘考試與公務員招聘</u><br><u>CRE and Civil Service Recruitment</u></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<ol type="1" start="8">
+				<li><p align="justify">綜合招聘考試包括三張各為45分鐘的選擇題形式試卷，分別是英文運用、中文運用和能力傾向測試，目的是評核考生的英、中語文能力及推理能力。英文運用及中文運用試卷的成績分為二級、一級或不及格，並以二級為最高等級；而能力傾向測試的成績則分為及格或不及格。英文運用及中文運用試卷的二級及一級成績和能力傾向測試的及格成績永久有效。<br>The CRE consists of three 45-minute papers, namely Use of English (UE), Use of Chinese (UC) and Aptitude Test (AT), in multiple-choice format. The UE and UC papers assess proficiency in English and Chinese languages respectively whereas the AT paper assesses reasoning abilities. Candidates’ results in the UE and UC papers are classified as Level 2, Level 1 or Fail, with Level 2 being the highest. Results in the AT paper are classified as Pass or Fail. Level 2 and Level 1 results of the two language papers and Pass result of the AT paper are of permanent validity. </p></li>
+				<li><p align="justify">一般來說，應徵學位或專業程度公務員職位的人士，需在綜合招聘考試的英文運用及中文運用兩張試卷取得二級或一級成績，以符合有關職位的語文能力要求。個別招聘部門／職系會於招聘廣告中列明有關職位在英文運用及中文運用試卷所需的成績。在英文運用及中文運用試卷中取得二級成績的應徵者，會被視為已符合所有學位或專業程度職系的一般語文能力要求。要求在兩張語文試卷中取得二級或一級成績的公務員職系名單，已載列於公務員事務局網頁。<br>In general, applicants for civil service posts at degree or professional level are required to obtain either Level 2 or Level 1 in the UE and UC papers of the CRE for meeting the language proficiency requirements as stipulated by individual recruiting departments / grades in the relevant recruitment advertisements. Applicants with Level 2 in the UE and UC papers are considered as meeting the general language proficiency requirements of all degree or professional grades. The list of civil service grades which require Level 2 or Level 1 in the two language papers can be found on the CSB webpage.</p></li>
+				<li><p align="justify">部分學位或專業程度公務員職位要求應徵者除具備英文運用及中文運用試卷的所需成績外，亦須在能力傾向測試中取得及格成績。要求在能力傾向測試中取得及格成績的公務員職系名單，已載列於公務員事務局網頁。<br>Applicants for some of the civil service posts at degree or professional level are also required to obtain a Pass in the AT paper in addition to the requisite results in the UE and UC papers. The list of civil service grades which require a Pass in the AT paper for appointment can be found on the CSB webpage. </p></li>
+				<li><p align="justify">部分公務員職系（如紀律部隊職系）會按受聘者的學歷給予不同的入職起薪點。未具備所需的綜合招聘考試成績的學位持有人仍可申請這些職位，但不能獲得學位持有人的起薪點。根據學歷而提供不同入職起薪點的職系名單，已載列於公務員事務局網頁。<br>Some civil service grades (e.g. disciplined services grades) offer different entry pay points to recruits according to their academic qualifications. Degree holders without the requisite CRE results may still apply for these posts but will not be eligible for the degree pay point. The list of grades offering different entry pay points according to academic qualifications can be found on the CSB webpage. </p></li>
+				<li><p align="justify">除非有關招聘廣告另有訂明，有意投考學位或專業程度公務員職位的人士，應先取得所需的綜合招聘考試成績。申請人可報考全部、任何一張或任何組合的試卷。申請人應先確定擬投考職位的要求及被接納為等同綜合招聘考試成績的其他考試成績，以決定所需報考的試卷（請參閱下列第（17）至（22）項）。申請人<b>不可</b>在截止申請日期後更改已選擇應考的試卷。   <br>Persons who wish to apply for civil service posts at degree or professional level should first obtain the requisite CRE results unless otherwise specified in the relevant recruitment advertisements. Applicants may choose to attempt all, any one, or any combination of the CRE papers. Applicants are advised to ascertain the requirements of the civil service post(s) in which they are interested and other examination results accepted as equivalent to CRE results before deciding on which paper(s) they should attempt in the coming examination (see notes (17) to (22) below). Any change to the choice of papers is <b>not</b> allowed after the application deadline. </p></li>
+				<li><p align="justify">綜合招聘考試與公務員職位的招聘程序是分開進行的。有意投考公務員職位的人士，應直接向招聘部門／職系提交職位申請。取得所需的綜合招聘考試成績並不代表申請人已完全符合任何學位或專業程度公務員職位的入職要求。招聘部門／職系會核實職位申請人的學歷及／或專業資格，並可能在綜合招聘考試外，另設其他考試／面試。<br>The CRE is held independently of the recruitment process for any civil service post. Persons who wish to apply for civil service posts should apply to the recruiting departments / grades direct. The acquisition of the requisite CRE results does not imply that a candidate has fully met the entry requirements of any civil service post at degree or professional level. Vetting of academic and / or professional qualifications will be carried out by the recruiting departments / grades which may also conduct separate examinations / interviews in addition to the CRE. </p></li>
+			</ol>
+			</td>
+		</tr>
+		<!-- 3rd -->
+		
+		<tr valign="top" class="blod">
+			<td></td>
+			<td colspan="2"><u>「基本法及香港國安法測試」與公務員招聘</u> <br><u>BLNST and Civil Service Recruitment</u></td>
+			<td></td>
+		</tr>
+		 <tr>
+			<td colspan="3">
+			<ol type="1" start="14">
+				<li><p align="justify">「基本法及香港國安法測試」會考核公務員職位申請人的《基本法》及《香港國安法》知識。<b>在「基本法及香港國安法測試」取得及格成績是所有公務員職位的入職條件</b>。無論公務員職位申請人過往曾否參加《基本法》測試及取得何等成績，都必須在「基本法及香港國安法測試」中取得及格成績，方會獲考慮聘用。<br>All applicants for civil service jobs will be assessed on their knowledge on the Basic Law and the National Security Law. <b>Attaining a pass result in the BLNST is an entry requirement for all civil service jobs</b>.  All candidates for civil service jobs must pass the BLNST in order to be considered for appointment, regardless of whether the candidates have previously taken the Basic Law Test (BLT) and the result.</p></li>
+				<li><p align="justify">「基本法及香港國安法測試」（學位╱專業程度職系）設有20題中、英文版本的選擇題，考生須於30分鐘內完成。考生在測試中答對10題或以上為及格，及格成績可用於申請所有公務員職位，考生日後將<b>不會被安排</b>再次應考任何「基本法及香港國安法測試」。「基本法及香港國安法測試」的及格成績永久有效。  <br>The BLNST (Degree/Professional Grades) is a 30-minute bilingual test (in both English and Chinese) comprising 20 multiple-choice questions.  Candidates answering at least 10 out of 20 questions correct will be deemed to have a pass result in BLNST acceptable for the purpose of applying for all civil service jobs and they will <b>not</b> be arranged to take any BLNST again. A pass result in BLNST is of permanent validity.</p></li>
+				<!-- <li>網上申請系統暫不支援透過流動裝置（包括手提電話及平板電腦）內的瀏覽器進行申請。請使用<b>電腦</b>進行網上申請。<br>The on-line application system does not support on-line application via browsers of mobile devices (including mobile phones and tablets) at the moment. Please use <b>desktop computer</b> to submit an on-line application.</li> -->
+				<li>有關「基本法及香港國安法測試」測試的詳情載列於公務員事務局網頁。<br>More details about the BLNST can be found on the CSB webpage.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr valign="top" class="blod">
+			<td></td>
+			<td colspan="2"><u>選擇應考的試卷</u><br><u>Choice of Examination Papers</u></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<ol type="1" start="17">
+				<li><p align="justify"><b>香港中學文憑考試英國語文科</b>第5級或以上成績會獲接納為等同綜合招聘考試英文運用試卷的二級成績。<b>香港中學文憑考試中國語文科</b>第5級或以上成績會獲接納為等同綜合招聘考試中文運用試卷的二級成績。持有上述成績的申請人，將<b>不會</b>被安排應考英文運用及／或中文運用試卷。<br>Level 5 or above in <b>English Language</b> of the <b>Hong Kong Diploma of Secondary Education Examination (HKDSEE)</b> is accepted as equivalent to Level 2 in the UE paper of the CRE.  Level 5 or above in <b>Chinese Language</b> of the <b>HKDSEE</b> is accepted as equivalent to Level 2 in the UC paper of the CRE.  Applicants with the above result(s) will <b>not</b> be arranged to take the UE and / or UC paper(s).</p></li>
+				<li><p align="justify"><b>香港中學文憑考試英國語文科</b>第4級成績會獲接納為等同綜合招聘考試英文運用試卷的一級成績。<b>香港中學文憑考試中國語文科</b>第4級成績會獲接納為等同綜合招聘考試中文運用試卷的一級成績。持有上述成績的申請人，可因應有意投考的公務員職位的要求，決定是否需要報考英文運用及／或中文運用試卷。<br>Level 4 in <b>English Language</b> of the <b>HKDSEE</b> is accepted as equivalent to Level 1 in the UE paper of the CRE.  Level 4 in <b>Chinese Language</b> of the <b>HKDSEE</b> is accepted as equivalent to Level 1 in the UC paper of the CRE.  Applicants with the above result(s) may wish to take this into account in deciding whether they need to take the UE and / or UC paper(s) having regard to the requirements of the civil service post(s) in which they are interested.</p></li>
+				<li><p align="justify"><b>香港高級程度會考英語運用科</b>或<b>General Certificate of Education (Advanced Level) (GCE A Level) English Language科</b>C級或以上成績會獲接納為等同綜合招聘考試英文運用試卷的二級成績。<b>香港高級程度會考中國語文及文化、中國語言文學</b>或<b>中國語文科</b>C級或以上成績會獲接納為等同綜合招聘考試中文運用試卷的二級成績。持有上述成績的申請人，將<b>不會</b>被安排應考英文運用及／或中文運用試卷。<br>Grade C or above in <b>Use of English</b> of the <b>Hong Kong Advanced Level Examination (HKALE)</b> or in <b>English Language</b> of the <b>General Certificate of Education (Advanced Level) (GCE A Level)</b> is accepted as equivalent to Level 2 in the UE paper of the CRE. Grade C or above in <b>Chinese Language and Culture</b> or <b>Chinese Language and Literature</b> of the <b>HKALE</b> is accepted as equivalent to Level 2 in the UC paper of the CRE. Applicants with the above result(s) will <b>not</b> be arranged to take the UE and / or UC paper(s). </p></li>
+				<li><p align="justify"><b>香港高級程度會考英語運用科</b>或<b>GCE A Level English Language科</b>D級成績會獲接納為等同綜合招聘考試英文運用試卷的一級成績。<b>香港高級程度會考中國語文及文化、中國語言文學</b>或<b>中國語文科</b>D級成績會獲接納為等同綜合招聘考試中文運用試卷的一級成績。持有上述成績的申請人，可因應有意投考的公務員職位的要求，決定是否需要報考英文運用及／或中文運用試卷。<br>Grade D in <b>Use of English</b> of the <b>HKALE</b> or in <b>English Language</b> of the <b>GCE A Level</b> is accepted as equivalent to Level 1 in the UE paper of the CRE. Grade D in <b>Chinese Language and Culture</b> or <b>Chinese Language and Literature</b> of the <b>HKALE</b> is accepted as equivalent to Level 1 in the UC paper of the CRE. Applicants with the above result(s) may wish to take this into account in deciding whether they need to take the UE and / or UC paper(s) having regard to the requirements of the civil service post(s) in which they are interested. </p></li>
+				<li><p align="justify">在 <b>International English Language Testing System (IELTS)</b> 學術模式整體分級取得6.5或以上，並在同一次考試中各項個別分級取得不低於6的人士，在考試成績的兩年有效期內，其IELTS成績可獲接納為等同綜合招聘考試英文運用試卷的二級成績。持有上述成績的申請人，可據此決定是否需要報考英文運用試卷。<br>An overall band of 6.5 or above with no subtest score below band 6 obtained in the same sitting in the <b>Academic Module of the International English Language Testing System (IELTS)</b> within the 2-year validity period of the test is accepted as equivalent to Level 2 in the UE paper of the CRE. Applicants with the above results may wish to take this into account in deciding whether they need to take the UE paper. </p></li>
+				<li><p align="justify">申請人可選擇在是次考試應考任何一張或多張綜合招聘考試試卷及／或「基本法及香港國安法測試」試卷。 <br>Applicants may choose to take any of the CRE papers and / or the BLNST paper in the coming examination.</p></li>
+			</ol>
+			</td>
+		</tr>
+		<tr valign="top" class="blod">
+			<td></td>
+			<td colspan="2"><u>個人資料保密</u><br><u>Data Privacy</u></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<ol type="1" start="23">
+				<li><p align="justify">申請人提供的資料及其考試成績可能會被送交獲授權處理這些資料的政府部門及其他組織或機構，用以進行與政府招聘及僱用有關的事宜。在遞交申請書後，如要更改或索閱申請書的個人資料，須以書面向公務員考試組高級行政主任（考試）2提出申請，地址：香港灣仔告士打道7號入境事務大樓25樓2511室。申請人在申請書所提供的個人資料一般會在考試成績發出後一個月銷毀。在此以後，申請人考試成績相關的個人資料，包括姓名、電郵地址、身份證明文件號碼及應考試卷的考試成績（二級、一級、及格或不及格）一般會永久保留。 <br>The information provided by applicants and their examination results may be provided to government departments and other organisations or agencies authorised to process such data for purposes relating to recruitment by and employment with the Government. Requests for correction of or access to personal data after the submission of an application form should be addressed in writing to Senior Executive Officer (Examinations)2 of the CSEU at Room 2511, 25th Floor, Immigration Tower, 7 Gloucester Road, Wan Chai, Hong Kong. Personal data provided in the application form will normally be destroyed one month after the issue of examination results.  After this date, personal data related to examination results of candidates including name, e-mail address, identity document number and examination result(s) of paper(s) taken (Level 2, Level 1, Pass or Fail) will normally be retained permanently.</p></li>
+			</ol>
+			</td>
+		</tr>
+	</table>
+	</div>
+	</dd>
+	<dt style="border: 1px solid #000000; padding: 10px;">
+	<ul>
+		<li><p align="justify">資料不齊全或不清楚、逾期、重複、以郵寄、傳真或電郵方式遞交的申請書，將不獲處理。  <br>Applications with incomplete or unclear information, late applications, duplicate applications, or applications submitted by post, fax or e-mail will not be processed.</p></li>
+		<li><p align="justify">綜合招聘考試及「基本法及香港國安法測試」申請書並非政府職位的申請書。擬申請任何公務員職位的人士，應參考相關招聘廣告內的申請程序。 <br>The Application Form for the CRE and BLNST is NOT a job application form for employment with the Government. Persons who wish to apply for civil service posts should follow the procedures stipulated in the relevant recruitment advertisements. </p></li>
+	</ul>
+	</dt>
+	<dd><form id="idForm" name="idForm" action="/csboa/cre/CRE_4_notes.action" method="post" class="form">
+	<input type="hidden" name="struts.token.name" value="token" />
+<input type="hidden" name="token" value="E7U8SN7QQY5KLC3BOYCTY2A7YWFIZMW4" />
+		<ul class="noPrint">
+			
+			<li>
+				
+
+
+
+
+				<button id="idButtonProceed" class="redButton"  onclick="return WLock.submit('CRE_1_change');">本人明白及繼續<br>I understand and proceed</button>
+				
+				
+
+
+
+			</li>
+				<li>
+                        <button onClick="window.print();return false;">列印<br>Print</button>
+				</li>
+
+                        
+			<li>
+
+
+
+
+
+				 <button type="button" id="abortButton" onclick="return WLock.submit('CRE_1');">返回<br>Back</button>
+
+			</li>
+		</ul>
+		<ul class="noPrint" style="display: none" id="noteButton">
+			<li>
+			<button onClick="window.print();return false;">列印<br>Print</button>
+			</li>
+			<li>
+			<button class="redButton" onClick="window.close();return false;">關閉<br>Close</button>
+			</li>
+		</ul>
+		<div class="noPrint"><strong>step 1</strong> of 5</div>
+	</form>
+
+
+</dd>
+</dl>
+
+		</td>
+	</tr>
+	<tr class="noPrint">
+		<td colspan="2">
+
+<div id="footerPanel">
+<div id="footerRow">
+<div id="footerPanelLeft">
+<ul>
+	 <li class="navItem">
+        <a href="#"
+           onclick="if(LeavePublic)LeavePublic.normalLeave(); openNewWindow('general/copyright.jsp'); return false;">
+            Copyright Notice
+        </a>
+    </li>
+    <li class="navItem">
+        <a href="#"
+           onclick="if(LeavePublic)LeavePublic.normalLeave(); openNewWindow('general/privacy.jsp'); return false;">
+            Privacy Policy
+        </a>
+    </li>
+    <li class="navItem">
+        <a href="#"
+           onclick="if(LeavePublic)LeavePublic.normalLeave(); openNewWindow('general/disclaimer.jsp'); return false;">
+            Disclaimer
+        </a>
+    </li>
+</ul>
+<div class="textHolder"><img src="images/footer_corner.gif" alt=""
+	height="26" width="36"></div>
+</div>
+<!--
+<div id="footerPanelRight"><a
+	href="javascript:openwindow('http://www.brandhk.gov.hk/')"><img
+	src="images/hk_flyingDragon_en.gif" alt="Asia's World City"></a></div>
+</div>
+--></div>
+ 
+<div class="footerImage">
+	<a style="cursor: pointer;" href="https://www.w3.org/WAI/WCAG2AA-Conformance" target=“_blank”>
+		<img src="images/icon.png" height="34" alt="w3c">
+	</a>
+</div>
+</td>
+	</tr>
+</table>
+</body>
+</html>

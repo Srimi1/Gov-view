@@ -1,0 +1,62 @@
+{
+  "indexPages": [
+    {
+      "url": "https://drdo.gov.in/drdo/offerings/vacancies",
+      "rowsSha256": "86e4ee8be5fee5ac83fe9a0db2abe84115b3ded30907c520d13399761168ea26",
+      "rowCount": 12
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+      "rowsSha256": "6d2bf3053b47d70dbee882581fc9ac77afd554d5bc4cac8d645e32ce9b213b92",
+      "rowCount": 2
+    }
+  ],
+  "pagerUrls": [
+    "https://drdo.gov.in/drdo/offerings/vacancies?page=0",
+    "https://drdo.gov.in/drdo/offerings/vacancies?page=1"
+  ],
+  "roles": [
+    {
+      "id": "drdo-dysl-sm-jrf-2026-1",
+      "laboratory": "DYSL-SM Hyderabad",
+      "advertisement": "DYSL-SM/HRD/JRF/REC/2026/1",
+      "listedOn": "2026-09-08",
+      "detailUrl": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-sm-hyderabad-invites-eligible-candidates-walk-interview-award-junior",
+      "pdfUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "pdfSha256": "28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f",
+      "walkInOn": "2026-10-06",
+      "willingnessOn": null,
+      "reporting": "6 October at 09:30; latecomers excluded",
+      "subdivision": "IN-TG",
+      "address": "DRDO Young Scientists Laboratory for Smart Materials (DYSL-SM), AMTL Campus (near DMRL), Kanchanbagh, Hyderabad 500058",
+      "city": "Hyderabad",
+      "positions": 1,
+      "qualifications": "B.E./B.Tech. in Mechanical or Mechatronics Engineering, first class, with valid GATE score; alternatively first-class M.E./M.Tech. in published list (literally \"MechanicalMechatronics\", Robotics & Automation, Machine Design, Solid Mechanics), together with first-class B.E./B.Tech. in Mechanical/Mechatronics. Joined \"MechanicalMechatronics\" wording requires authority clarification; no separator is silently added. Degree or provisional certificate must already be awarded. GATE where required must be valid on interview date. Desirable: finite-element packages, CAD, 3D printing, composite materials, basic electronics and instrumentation.",
+      "languageNote": "No named mandatory language, standardized proficiency level or certificate is stated. English notice/form language does not establish English eligibility.",
+      "ageNote": "Maximum age 28 on actual date of application, with 5-year SC/ST and 3-year OBC relaxation or applicable government guidelines. No fixed calendar age date is published.",
+      "asOn": null,
+      "tenure": "Temporary fellowship initially two years, with subsequent SRF upgradation subject to DRDO guidelines."
+    },
+    {
+      "id": "drdo-lrde-jrf-03-2026",
+      "laboratory": "LRDE Bengaluru",
+      "advertisement": "03/2026/JRF",
+      "listedOn": "2026-09-07",
+      "detailUrl": "https://drdo.gov.in/drdo/en/offerings/vacancies/lrde-bengaluru-invites-eligible-candidates-walk-interview-post-junior-research",
+      "pdfUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "pdfSha256": "030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5",
+      "walkInOn": "2026-10-08",
+      "willingnessOn": "2026-09-25",
+      "reporting": "8 October 08:30–09:30 at LRDE Main Gate Reception; late arrivals excluded",
+      "subdivision": "IN-KA",
+      "address": "Electronics & Radar Development Establishment (LRDE), DRDO Township, CV Raman Nagar, Bengaluru 560093",
+      "city": "Bengaluru",
+      "positions": 2,
+      "qualifications": "First-division recognized B.E./B.Tech. in Electronics/Communication or one of listed equivalent electronics disciplines with qualifying valid GATE score (2024, 2025 or 2026); alternatively relevant M.E./M.Tech. with first division at both graduate and postgraduate levels. Discipline equivalence and score qualification need verification.",
+      "languageNote": "Non-English documents/certificates require duly self-attested English transcripts. This is a document translation rule. No named mandatory speaking/writing language, CEFR/JLPT level or proficiency certificate is stated.",
+      "ageNote": "Maximum age 28 as on 1 September 2026; SC/ST/OBC relaxation follows Government of India rules but notice gives no numeric increments.",
+      "asOn": "2026-09-01",
+      "tenure": "Initial fellowship two years, extendable to maximum four years under DRDO research-fellow scheme."
+    }
+  ]
+}

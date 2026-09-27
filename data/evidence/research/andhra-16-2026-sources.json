@@ -1,0 +1,30 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-ap-recruitment",
+  "records": [
+    {
+      "file": "data/evidence/research/andhra-recruitment.html",
+      "url": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+      "sha256": "06d7f30588083c206ffe16ed56252a1606465659e86e5b17e795aadddf55582c",
+      "bytes": 56554
+    },
+    {
+      "file": "data/evidence/research/andhra-16-2026.pdf",
+      "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+      "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+      "bytes": 391434
+    },
+    {
+      "file": "data/evidence/research/andhra-16-2026.txt",
+      "url": null,
+      "sha256": "973da4c0cf098304f3370c68262c0b129a9483123383d646f253d088221bd7d4",
+      "bytes": 34811
+    }
+  ],
+  "notes": [
+    "Official recruitment index has 20 numbered 2026 brief-notification links at capture. Only 16/2026 has a document-bound draft extraction.",
+    "The PDF announces applications 16 October to 5 November 2026 at 11:59 PM local time, four provisional vacancies, and separate English/Telugu qualifying tests at SSC Standard. It promises a detailed notice on or before 16 October.",
+    "International eligibility, domicile, age and physical requirements are not established by the brief notice. No CEFR level is inferred from SSC Standard.",
+    "Node TLS could not verify the portal certificate chain; system curl verified it through the OS trust store. No insecure TLS flag or bot-check bypass was used."
+  ]
+}

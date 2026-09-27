@@ -1,0 +1,32 @@
+{
+  "authority": "Assam Public Service Commission",
+  "checkedAt": "2026-09-25",
+  "officialHome": "https://apsc.nic.in/",
+  "advertisementRegister": "https://apsc.nic.in/advt_2026.php",
+  "corrigendaRegister": "https://apsc.nic.in/corig_2026.php",
+  "robots": {
+    "url": "https://apsc.nic.in/robots.txt",
+    "status": 404,
+    "finding": "No robots.txt policy returned at this exact official host; collector followed its ordinary 404 rule. No bypass or certificate disabling used."
+  },
+  "retainedPages": [
+    {
+      "file": "apsc-home-2026-09-25.html",
+      "sha256": "96ad5560c0557cdb1074a86973cb8d6a917cd9fb41edfcb6baf7c537ed8672cd"
+    },
+    {
+      "file": "apsc-advertisements-2026-09-25.html",
+      "sha256": "3baea740649665d5c9e69be62966ba10b431d1e7b83c518cb82ea61d7c66ce82"
+    },
+    {
+      "file": "apsc-corrigenda-2026-09-25.html",
+      "sha256": "0f354cd6085eb790533c261c3027c7f53de4e2d67fe03d0ce19b68b4e45c97af"
+    }
+  ],
+  "findings": [
+    "Collector fetched the official advertisement register with normal OS certificate validation after Node certificate-chain validation failed. Response was HTML and had 12 advertisement rows.",
+    "Latest register row was advertisement 12/2026. Its register closing date was 10 September 2026; this does not prove the absence of later, separate or amended applications.",
+    "Checked the separate 2026 corrigenda register; its visible rows did not name advertisement 12/2026. Full amendment and official portal reconciliation remains outstanding.",
+    "No application cycle was staged or published from this access check. Original PDFs, qualifications, nationality and language requirements require exact-document review before any applicant claim."
+  ]
+}

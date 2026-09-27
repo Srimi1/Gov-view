@@ -1,0 +1,31 @@
+{
+  "indexUrl": "https://www.isro.gov.in/ViewAllOpportunities.html",
+  "detailUrl": "https://www.isro.gov.in/SACRecruitment21.html",
+  "documentUrl": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+  "documentSha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+  "applicationUrl": "https://careers.sac.gov.in",
+  "advertisement": "SAC:02:2026",
+  "noticeDate": "2026-09-10",
+  "opensOn": "2026-09-10",
+  "openingLocalTime": "10:00",
+  "closesOn": "2026-09-30",
+  "cutoffLocalTime": "17:00",
+  "posts": [
+    { "code": "01", "role": "Junior Research Fellow", "positions": 3, "qualification": "M.E./M.Tech. in Semiconductor Technology, Quantum, Micro or Nano Electronic Devices, RF & Microwave, or related disciplines." },
+    { "code": "02", "role": "Junior Research Fellow", "positions": 7, "qualification": "M.E./M.Tech. in Electronics & Communication, Micro-Electronics, Nano-Electronics, Digital Electronics, VLSI, Digital System Engineering, Embedded System, Signal Processing, Semiconductor, or related disciplines." },
+    { "code": "03", "role": "Junior Research Fellow", "positions": 5, "qualification": "B.E./B.Tech. in Engineering Physics or related disciplines; OR M.E./M.Tech./M.Sc. in Physics, Applied Physics, Photonics, Optoelectronics, Optics, Material Science, Nanotechnology, Solid State Physics, or related disciplines." },
+    { "code": "04", "role": "Junior Research Fellow", "positions": 10, "qualification": "M.E./M.Tech./M.Sc. in Atmospheric Sciences, Meteorology, Physical Oceanography, Oceanography, Physical Sciences, Physics, Applied Physics, Mathematics, or related disciplines." },
+    { "code": "05", "role": "Junior Research Fellow", "positions": 2, "qualification": "M.E./M.Tech./M.Sc. in Geophysics, Geosciences, Earth Sciences, Geotechnical Engineering, or related disciplines." },
+    { "code": "06", "role": "Junior Research Fellow", "positions": 4, "qualification": "M.E./M.Tech./M.Sc. in Computer Science, Computer Engineering, or related disciplines." },
+    { "code": "07", "role": "Junior Research Fellow", "positions": 2, "qualification": "M.E./M.Tech./M.Sc. in Geoinformatics, Remote Sensing and GIS, or related disciplines." },
+    { "code": "08", "role": "Research Associate", "positions": 6, "qualification": "Ph.D. in Oceanic Sciences, Marine Sciences, Environment Modeling, Atmospheric Sciences, Meteorology, Earth System Sciences, Physics, or related disciplines; OR three years' research, teaching, design and development experience after M.E./M.Tech. in Oceanography, Physical Oceanography, Atmospheric Sciences, Meteorology, Marine Sciences, Environment Modeling, or related disciplines, plus at least one research paper in a Science Citation Indexed (SCI) journal." },
+    { "code": "09", "role": "Research Associate", "positions": 1, "qualification": "Ph.D. in Mathematics, Physics, or related disciplines." },
+    { "code": "10", "role": "Research Associate", "positions": 1, "qualification": "Ph.D. in Earth Sciences, Environmental Sciences, or related disciplines with specialization in remote-sensing applications in forestry, ecology, or wetlands." },
+    { "code": "11", "role": "Project Scientist-I", "positions": 1, "qualification": "Ph.D. in Geophysics, Applied Geophysics, or related disciplines with specialization in cryosphere studies." },
+    { "code": "12", "role": "Project Scientist-I", "positions": 1, "qualification": "Ph.D. in Ecology, Environmental Sciences, Forestry, or related disciplines; OR M.E./M.Tech. in Geoinformatics or related disciplines." },
+    { "code": "13", "role": "Project Scientist-I", "positions": 1, "qualification": "Ph.D. in Remote Sensing & GIS or related disciplines with specialization in microwave remote sensing; OR M.E./M.Tech. in Remote Sensing & GIS, Geoinformatics, Geomatics, Civil Engineering, or related disciplines." },
+    { "code": "14", "role": "Project Scientist-I", "positions": 1, "qualification": "Ph.D. in Geophysics, Earth Sciences, or related disciplines with specialization in crustal deformation studies." },
+    { "code": "15", "role": "Project Scientist-I", "positions": 2, "qualification": "M.E./M.Tech. in Water Resources Engineering, Hydrology, Soil and Water Engineering, or related disciplines." },
+    { "code": "16", "role": "Project Scientist-I", "positions": 1, "qualification": "M.E./M.Tech. in RF & Microwave, Applied Physics, or related disciplines." }
+  ]
+}

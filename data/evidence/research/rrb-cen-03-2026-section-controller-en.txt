@@ -1,0 +1,3003 @@
+                           TABLE OF CONTENTS
+   Sr.     Para No.     Contents                                     Page No.
+   No.
+   1      IMPORTANT     IMPORTANT DATES                                 03
+            DATES
+           IMPORTANT    IMPORTANT INSTRUCTIONS
+    2                                                                   04
+         INSTRUCTIONS
+              3         IMPORTANT INSTRUCTIONS-EXAMINATION PROCESS
+                                                                        06
+    3         4         DETAILEDCEN-GENERAL INSTRUCTIONS                07
+    4         5         VACANCIES                                       10
+    5         6         MEDICAL STANDARD FOR THE POST                   10
+    6         7         NATIONALITY/ CITIZENSHIP                        11
+    7         8         AGE LIMIT                                       11
+   8         8.3        AGE RELAXATION                                  12
+    9         9         EDUCATIONAL QUALIFICATIONS                      13
+   10         10        EXAMINATION FEE                                 13
+   11       10.2        MINORITIES & EBC                                14
+   12       10.3        REFUND OF EXAMINATION FEE                       14
+   13         11        VERTICAL RESERVATION                            15
+   14        11.3       OBC RESERVATION                                 15
+   15       11.13       ECONOMICALLY WEAKER SECTIONS (EWS)              16
+   16         12        HORIZONTAL RESERVATION                          17
+   17         13        EX-SERVICEMAN                                   18
+   18         14        PERSONS WITH BENCH MARK DISABILITIES            20
+                        (PWBD)
+   19        14.7       GUIDELINES-ASSISTANCE FOR SCRIBE AND
+                                                                        22
+                        COMPENSATORY TIME
+            14.15       REGISTRATION OF SCRIBE
+   20                                                                   23
+
+             15         NOC FROM PRESENT EMPLOYER                       25
+   21
+   22         16        RECRUITMENT PROCESS                             25
+   23        16.1       COMPUTER BASED TEST (CBT)                       25
+   24        16.2       CBAT                                            27
+   25        16.3       DOCUMENT VERIFICATION (DV)                      27
+   26         17        HOW TO APPLY                                    27
+   27        17.2       CREATE AN ACCOUNT                               28
+   28        17.4       GENERAL GUIDELINES FOR SUBMISSION OF            28
+                        APPLICATION
+   29        17.5       CANDIDATE LIVE PHOTO FOR APPLICATION
+                                                                        29
+
+             17.6       MANDATORY SCANNED DOCUMENTS                     29
+   30
+   31        17.9       ASSISTANCE OF SCRIBE                            31
+   32         18        COMMON SERVICE CENTER SERVICES                  31
+   33         19        DETAILS OF VARIOUS RRBS AND THEIR               31
+                        WEBSITES
+   34        20         MODIFICATION OF APPLICATION
+                                                                        32
+
+   35        21         INVALID APPLICATIONS /REJECTIONS                32
+             22         INSTRUCTIONS ON E-CALL LETTER                   33
+   36
+   37        23         VERIFICATION OF ORIGINAL DOCUMENTS AND          33
+                        FORMAT OF CERTIFICATES
+   38        24         USE OF UNFAIR PRACTICES
+                                                                        34
+
+   39        25         MISCELLANEOUS                                   34
+             26         ABBREVIATIONS USED IN THIS CEN                  35
+   40
+
+
+
+CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                   P a g e 1 | 57
+                            LIST OF ANNEXURES
+   Sr.                                                                            PAGE
+   No.    ANNEXURENO.                              CONTENT                         NO.
+
+    1      ANNEXURE-A        POST PARAMETERS                                       37
+
+    2      ANNEXURE-B        RRB AND ZONEWISE VACANCY TABLE                        38
+
+    3                         FORMAT OF CASTE CERTIFICATE FOR SC/ST                39
+           ANNEXURE-I         CANDIDATES
+
+    4      ANNEXURE-II       FORMAT FOR OBC-NCL CERTIFICATE                        41
+
+    5     ANNEXURE-IIA       SELF DECLARATION BY OBC(NCL) CANDIDATES               42
+
+                              INCOME & ASSET CERTIFICATE TO BE PRRODUCED           43
+    6      ANNEXURE-III        BY ECONOMICALLY WEAKER SECTIONS (EWS)
+
+                              INCOME CERTIFICATE FOR ECONOMICALLY                  44
+    7     ANNEXURE-IV          BACKWARD CLASS CANDIDATES (EBC)
+
+                              PROFORMA FOR WAIVER OF EXAMINATION FEES TO
+                              BE SUBMITTED BY MINORITY CANDIDATES AT THE           45
+    8      ANNEXURE-V
+                              TIME OF DOCUMENT VERIFICATION
+
+                              PROFORMA FOR MEDICAL CERTIFICATE FROM EYE            46
+    9     ANNEXURE-VI         SPECIALIST
+
+                              PROFORMA FOR MEDICALCERTIFICATE FROM EYE             47
+   10     ANNEXURE-VI A       SPECIALIST FOR EX-SERVICEMEN
+
+   11    ANNEXURE-VI B       PROFORMA REGARDING LASIK SURGERY                      48
+
+                              DECLARATION TO BE SUBMITTED BY EX-SERVICEMEN         49
+   12     ANNEXURE-VII        CANDIDATES
+
+                              DECLARATION BY EX-SERVICEMEN REGARDING CIVIL         50
+   13    ANNEXURE-VII(A)      EMPLOYEMNT
+
+                             FORM – V - DISABILITY CERTIFICATE
+                                                                                   51
+   14    ANNEXURE-VIII(A)    (IN CASES OF SINGLE DISABILITY)
+
+
+                              FORM-VI CERTIFICATE OF DISABILITY (IN CASE OF        52
+   15    ANNEXURE-VIII(B)     MULTIPLE DISABILITIES)
+
+
+                              LETTER OF UNDERTAKING FOR USING SCRIBE               53
+   16    ANNEXURE-VIII(C)
+
+                              CERTIFICATE FOR PERSON WITH SPECIFIED DISABILITY
+   17    ANNEXURE-VIII(D)     COVERED UNDER THE DEFINITION OF SECTION 2(S) OF      54
+                              THE RPWD ACT, 2016.
+
+                              LETTER OF UNDERTAKING BY THE PERSON HAVING
+                              LESS THAN 40% DISABILITIES AND HAVING                55
+   18    ANNEXURE-VIII(E)
+                              DIFFICULTY IN WRITING.
+
+
+                              CERTIFICATE REGARDING PHYSICAL LIMITATION IN         56
+   19    ANNEXURE-VIII(F)     AN EXAMINEE TO WRITE EXAM
+
+
+   20                         SAMPLE OF ONLINE GENERATED FORM IN CASE OF           57
+          ANNEXURE IX         PHOTO MISMATCH
+
+
+
+
+CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                    P a g e 2 | 57
+                                GOVERNMENT OF INDIA
+
+                                MINISTRY OF RAILWAYS
+
+                         RAILWAY RECRUITMENT BOARDS
+
+
+
+         CENTRALISED EMPLOYMENT NOTICE NO. CEN 03/2026 FOR SECTION CONTROLLER
+                                       IMPORTANT DATES
+
+  Date of Indicative notice                                       27.06.2026
+  Opening date & time of online Applications Submission           15.07.2026 (00:00 Hrs)
+  Closing date & time of online Applications Submission           14.08.2026 (23:59Hrs)
+  Last date for application fee payment for the submitted         16.08.2026 (Sunday)
+  applications
+  Date for Modification window for corrections in                 17.08.2026 to 26.08.2026
+  application form with payment of modification fee
+  (Please Note: Details filled in ‘Create an Account’ form
+  and Chosen RRB cannot be modified)
+  Dates during which eligible candidates must provided            27.08.2026 to 31.08.2026
+  their scribe details in the application portal
+
+Note:-
+Dates for CBT and other stages of recruitment process will be intimated from time to time through
+the websites of the Railway Recruitment Boards (RRB) as listed at Para19 of this Notice.
+ 1. ONLINE applications are invited by RRBs from eligible Indian Nationals and other nationals as
+    brought out at Para 7 of this CEN for the posts of Section Controller in various Zonal Railways of
+    Indian Railways. Applications complete in all respect should be submitted ONLINE to the chosen
+    Railway Recruitment Board till 23:59 hrs of 14.08.2026
+ 2. The results of the CBT and Empanelment will be uploaded on the official websites of the concerned
+    RRBs.
+
+
+
+
+     CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                        P a g e 3 | 57
+1. DETAILS OF VACANCIES AT A GLANCE
+
+        Graduate Post with Minimum Educational Qualification of a University Degree or its
+        equivalent and Age between 20 to 33Years as on 01.07.2026.
+
+                                                                         Prescribed          Total
+                                     Level       Initial
+       Sl.                                                  Medical     Age in Normal       Vacancie
+                                    in7thCP        pay
+       No.    Name of the post                             Standard     Course (as on        s (All
+                                       C          (Rs.)
+                                                                         01.07.2026)         RRBs)
+                                                                          20-33
+       1      Section Controller       6        35400         A-2                             119
+                                                                          Years
+      (RRB-wise & Railway Zone –wise detailed distribution of
+                vacancies is given in Annexure-B)
+
+        i) Note: Reservations for SC, ST, OBC (Non-Creamy Layer), EWS & ExSM and Relaxations
+        in age will be applicable as per details contained in this CEN. PwBD-LD [OA, OL, SD (without
+        N/L Df) & SI (without N/L Df)] are eligible but there is no vacancy present in CEN. If PwBD-
+        LD [OA, OL, SD (without N/L Df) & SI (without N/L Df)] wish to apply please note that they
+        will be considered against their respective communities only. PwBD candidates applying
+        against UR vacancies will be allowed age relaxation applicable for PwBD (UR) only – subject to
+        conditions of suitability.
+
+      Age relaxation to PwBD & ExSM candidates will be as given in para 8.3.
+2. IMPORTANT INSTRUCTIONS- ONLINE REGISTRATION & SUBMISSION OF APPLICATION
+
+2.1     Candidates should ensure that they possess/fulfill all eligibility conditions prescribed for the post
+        as on the closing date of online Submission of Applications i.e. as on 14.08.2026
+        CANDIDATES WAITING FOR FINAL RESULTS OF PRESCRIBED EDUCATIONAL
+        QUALIFICATION ARE NOT ELIGIBLE TO APPLY.
+
+2.2     Before filling up the online application, candidates are advised to thoroughly read all the
+        instructions and information in the CEN available on the websites of RRBs.
+
+2.3     Candidates are advised to visit only official websites of the RRBs as indicated at Para 19 of this
+        CEN and be very careful about fake websites and job racketeers.
+
+2.4     Candidates should have their own mobile number, valid & active personal email id and keep the
+        same (i.e mobile & e-mail) active for the entire duration of recruitment as RRBs shall send
+        recruitment related communications through SMS and/or email till the recruitment is completely
+        over. RRBs will not entertain any request for change of mobile number and email address at any
+        stage.
+
+2.5     Applications must be submitted online only through the RRB websites ONLY as listed at Para19.
+        One application ONLY is required to be submitted to the selected RRB for all its notified posts in
+        this CEN for that selected RRB. Candidates can apply to only one RRB. Application to more than
+        one RRB, will lead to rejection of all the applications. Any attempt to submit more than one
+        application by a candidate against this CEN shall result in disqualification and debarred from the
+        recruitment process and future examinations of RRB and RRC
+
+2.6     Candidates are required to go through the Post Parameter Table (ANNEXURE-A) and Vacancy
+        Table (ANNEXURE-B) and ascertain their eligibility. Only thereafter, the candidates should
+        exercise options for the RRBs and zone within the chosen RRB asper their eligibility. The
+        selection of RRB once exercised shall be final.
+
+
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 4 | 57
+2.7      Eligibility of the candidates will be considered provisional, based on details furnished by the
+         candidates in the ONLINE application. The RRB will not undertake detailed scrutiny of applications
+         for the eligibility, therefore, candidature will be accepted only provisionally subject to fulfilling basic
+         eligibility criteria as required. Candidates must go through the requirements of educational
+         qualification, age, medical standards etc. and satisfy themselves that they are eligible for the post.
+         The certificates/documents in support of their Educational Qualifications and Age/Caste/Category,
+         etc. shall be sought at the time of Document Verification by RRBs. After scrutiny of the certificates/
+         documents of EQs/ age/caste/ category, etc., if any claim made in the application is not
+         substantiated by certificates/ documents, the candidature of the candidate will be cancelled.
+         Further, during any stage of the recruitment or even thereafter, if it is found that any information
+         about the candidate is false/incorrect or if the candidate has suppressed any relevant information
+         or the candidate does not satisfy the eligibility criteria for the post, his/her candidature will be
+         rejected forthwith.
+
+2.8      Crucial date for claim of SC/ ST/ OBC/ EWS/EBC/PwBD status or any other benefit viz. fee
+         concession, reservation, age-relaxation, etc., where not specified otherwise, will be the closing
+         date for submission of ONLINE applications against this CEN.
+
+2.9      All the candidates seeking reservation/relaxation benefits applicable to SC/ST/OBC-
+         NCL/EWS/ExSM/PwBD must ensure that they are entitled to such reservation/relaxation as per
+         eligibility prescribed in the Rules/CEN. They should be in possession of all the requisite certificates
+         in the prescribed format in support of their claim as stipulated in the Rules and CEN.
+
+2.10     For filling ONLINE APPLICATION, Candidates must go through the link given for this CEN, in the
+         Official RRB Website. Candidates are allowed to choose only one RRB and submit only one
+         ONLINE APPLICATION for the notified post. During the ONLINE APPLICATION, candidates will
+         be asked to Create an Account. If a candidate has already Created an Account for CEN notified in
+         2024/2025/2026, they should use same account credentials to log in and apply for this CEN (i.e.,
+         CEN No. 03/2026) as well. If the candidates have not Created an Account earlier, they must first
+         ‘Create an Account’ before proceeding to fill up the application for this CEN. Candidates are
+         advised to fill in the details required for account creation with utmost care, as corrections of any
+         kind will NOT be permitted once the account is created.
+
+2.11     Candidates are advised, in their own interest, to authenticate their identity using Digi locker or
+         Aadhaar during the "Create an Account " stage. If they missed this stage, they can still authenticate
+         during the online application details filling process by using the “Verify Aadhaar" facility and
+         providing their Aadhaar details. This must be completed before final submission of application for
+         a particular CEN. This will facilitate a smoother process at different stages of recruitment for the
+         candidates themselves. If applicants verify their identity & other primary details with alternate Photo
+         IDs, they will be subjected to significantly stricter & more detailed scrutiny at every stage of
+         recruitment process.
+
+2.12     Candidates must ensure that they fulfill the prescribed Medical Standard for the post. It is to be
+         noted by the candidates that in case the candidate is found to be medically unsuitable for the opted
+         post at the time of medical before appointment, alternate appointment shall not be given.
+
+2.13     Center/City allocation for CBT/CBAT and date will depend upon technical and logistical feasiblity.
+         Candidates may have to travel to other Cities/States for attending CBT/CBAT. Request for Change
+         of Exam Centre shall NOT be allowed under any circumstances.
+
+2.14     To avoid last minute rush, candidates are advised in their own interest to register and submit
+         ONLINE application much before the closing date since there may be a possibility of inability/failure
+         to log on to the website of RRB concerned on account of heavy load on the internet or website
+         during last days of online registration.
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                 P a g e 5 | 57
+        RRBs do not accept any responsibility for the candidates not being able to register and/or submit
+        their application within the last day on account of aforesaid reasons or any other reason.
+
+2.15        After the submission of the ONLINE application and payment of applicable fee, if a candidate
+            wishes to further modify any details (except for those filled in ‘Create an Account’ form and Chosen
+            RRB), he/she may do so by paying a modification fee of Rs. 250/- (non-refundable) for each
+            occasion from 17.08.2026 to 26.08.2026. Details filled in ‘Create an Account’ form (including Email
+            ID and mobile number) and Chosen RRB cannot be changed.
+
+2.16        After 26.08.2026, RRBs shall not entertain any representation for modification of the information
+            furnished in the application.
+
+2.17        Malpractices: Any candidate found using unfair means of any kind in the examination/CBT, sending
+            someone else in his/her place to appear in the examination, attempt to impersonate will be
+            debarred from appearing in all the examinations of all the RRBs/RRCs for lifetime. He/she will be
+            debarred from getting any appointment in the Railways, and if already appointed, will be dismissed
+            from service. Such candidates are liable for legal prosecution also. (Attention is drawn to Act “THE
+            PUBLIC EXAMINATIONS” (PREVENTION OF UNFAIR MEANS) Act and Rules, 2024).
+            IMPORTANT INSTRUCTIONS-EXAMINATION PROCESSES.
+
+3. IMPORTANT INSTRUCTIONS- EXAMINATION PROCESSES
+
+3.1         a) Banned items: Electronic gadgets such as Mobile Phones, pager, watches, earphone,
+            Bluetooth Enabled Devices, microphone, health bands, calculators, book, pen, paper, pencil,
+            eraser, pouch, scale, writing-pad, belts, handbag, cap, purse, camera, water bottle,
+            packaged/open food items, etc. are not allowed inside the test centre. Only e-call letter will be
+            allowed inside the test centre. Candidate should not carry any Pen/Pencil inside the Test Centre.
+            Pen will be provided to the candidates during the exam. Candidates are advised not to apply Henna
+            on their hands/feet as this obstructs the capture of Biometrics. Any violation shall lead to
+            disqualification besides legal action and debarment from future exams
+
+            b) Cloak room arrangement for safe-keeping of belonging may not be available at the exam
+            venues. Therefore, candidates are advised not to bring any valuable/banned items including
+            mobile phones etc. to the examination venue
+
+3.2         Stages of Exam: There shall be Single Stage Computer Based Test (CBT) followed by Computer
+            Based Aptitude Test (CBAT) and document verification (DV) and medical examination.
+
+3.3         Call Letters: Candidates will have to download the City and Date Intimations, e-Call Letters and
+            Travel Authority (wherever applicable) from the links provided on the official websites of RRBs.
+
+3.4         Short Listing for Various Stages:
+
+       a.    The short listing for CBAT shall be to the extent of 8 times the vacancies (RRB-wise) (may
+             increase or decrease as per the requirement of Railway Administration) from amongst the eligible
+             candidates based on the merit of the candidates in Single Stage CBT.
+       b.    Shortlisting of candidates for DV and Medical Examination shall be done RRB-wise at the rate of
+             1:1 of the vacancies for that RRB. It will be based on the combined merit in CBT and CBAT
+             70%weightage to CBT and 30% weightage to CBAT will be given for combined merit. Only
+             candidates who have passed the CBAT exam will be taken into consideration.
+       c.    Negative Marking: There shall be negative marking for incorrect answer in CBT. Deduction of
+             1/3rd of the marks allotted for each question shall be made for each wrong answer
+       d.    Normalization of marks will be done for CBTs held in multiple shifts.
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 6 | 57
+      e.    The shortlisted candidates for DV shall be informed through official RRB websites as well as via
+            SMS and/or email (to their registered mobile number and email ID) to download their E-call letters
+            for appearing in DV. Therefore, candidates are advised to regularly check for updates and notices
+            on the official RRB websites.
+
+      DETAILED CENTRALIZED EMPLOYMENT NOTICE
+
+4. GENERAL INSTRUCTIONS
+
+4.1        Admission to all stages of recruitment process shall be purely provisional, subject to the candidate
+           satisfying the prescribed eligibility conditions.
+
+4.2        The Mere issuance of e-Call letter to the candidates will NOT imply that their candidature has been
+           finally accepted by the RRB. At the time of examination, the appropriateness, authenticity &
+           genuineness of their Photograph & Signature will be verified along with the other required
+           credentials of the candidate before allowing them to take the exam. Credentials of the candidates
+           will be verified along with authenticity of their submitted information at subsequent recruitment
+           stages
+
+4.3        RRBs conduct verification of eligibility conditions (with reference to the original documents) only
+           after the candidates have qualified in all the stages of examination and are provisionally shortlisted
+           for Document Verification. At the time of Document Verification, the RRB will verify the details
+           provided in the online application against the original supporting documents submitted by the
+           candidates. Any discrepancy between the information declared in the application and the
+           supporting documents OR failure to meet the eligibility criteria (such as educational/technical
+           qualification, age, caste/category, medical standards etc), will result in the rejection of the
+           candidature. Furthermore, if at any stage of recruitment or afterward, it is discovered that the
+           candidate has provided false information or suppressed material facts, their candidature or
+           appointment will be cancelled immediately, and if appointed, such candidates will be removed from
+           service summarily and further, such candidates will also be debarred from all future examinations
+           of RRB and RRC for life time
+
+4.4        Before applying for the post against this notification, candidates should satisfy themselves that
+           they fulfill all the eligibility norms including age, educational qualification and medical standard.
+           Candidates should ensure that they have requisite educational qualifications from recognized
+           Board / University / Institute as on the closing date for online submissioni.e.14.08.2026. Those
+           awaiting results of the final examination for the prescribed qualification are not eligible and
+           hence should not apply.
+
+4.5        Applications of candidates who are attempting to apply with minor changes of information and /or
+           facts to more than one RRB and/or multiple applications to the same RRB will be summarily
+           rejected and such candidates will be debarred from all future examinations of RRB and RRC.
+
+4.6        Candidates who have been debarred by any RRB/RRC either for life or for a specified period which
+           is not yet completed, should NOT apply for this notification. Their candidature will be rejected
+           during any stage of recruitment as and when detected.
+
+4.7        Candidates who have been dismissed from service by the Government of India / State Government
+           / PSU / any other government organization are not eligible and should not apply.
+
+4.8        Candidate should enter their name, father name, mother name and Date of birth as recorded in
+           SSC/SSLC/Matriculation/10th class exam certificate or an equivalent certificate only, in on-line
+           application during creation of an account.
+
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                P a g e 7 | 57
+4.9      In case of any change in name with respect to the name mentioned in
+         SSC/SSLC/Matriculation/10th class certificate, candidate should indicate their changed name as
+         well as his/her SSC/SSLC/Matriculation/10th class name separately at appropriate places in online
+         application. However, all other details should match with SSC/SSLC/Matriculation/10th class or
+         equivalent certificate and date of such change should be prior to the date of submission of online
+         application.
+
+4.10     Gazette Notification or any other legal document as applicable along with any one valid photo ID
+         with the changed name, for such cases, should be submitted at the time of CBT/ Document
+         Verification (DV).
+
+4.11     Candidates must ensure that they upload a live image of themselves, as per the instructions given
+         in Para17.5, and their own signature, in accordance with the standard specifications mentioned in
+         Para 17.7. Applications with blurred, illegible, or non-standard photographs and/or signatures are
+         liable to be rejected at any stage of the recruitment process.
+
+4.12     Signatures of the candidates on all documents should be uniform and identical in all stages of
+         recruitmentprocessandmustbeinrunninghandandnotinblock/capitalordisjointed letters. Signatures
+         in different style at the time of CBT, Computer based CBAT, Document Verification, Medical
+         examination etc. may result in cancellation of candidature.
+
+4.13     Dates of examinations will be published on the websites of participating RRBs. The e-call letters
+         for CBT, CBAT and document verification (as applicable) should be downloaded ONLY from
+         websites of the Railway Recruitment Boards concerned. No call letter will be sent by post. The
+         CBT Centre, date and shift indicated in the e-call letter shall be final. No representations for change
+         will be entertained. RRBs reserve the right to introduce additional CBTs / CBAT and/or additional
+         document verification etc., without assigning any reason and also to reschedule any
+         CBT/CBAT/DV due to technical constraints/unavoidable circumstances.
+
+4.14     Vacancies indicated in this CEN are provisional and may undergo any change (increase/decrease)
+         or even become NIL in total or in specific Railways / Units / Communities at a later stage depending
+         upon the actual needs of the Railway Administration. Also, additional posts if required by the
+         Railway(s) may also be included at a later stage.
+
+         The Railway Administration also reserves the right to cancel the notified vacancies at any stage at
+         its discretion and such decision will be final and binding on all. In the event of cancellation of
+         notified vacancies, the examination fee paid by the candidates will not be refunded except for
+         candidates who have attended the 1st Stage CBT. (Please refer to the Para 10.4for the amount of
+         refund)
+
+4.15     Preference for Railway Zone(s):
+
+         On completion of all stages of recruitment process, RRBs will allot Railway Zone as per the option
+         of the eligible candidates ONLY subject to merit, medical standard and vacancy position. However,
+         RRBs also reserve the right to allot Railway Zone not opted by the candidates, if considered
+         necessary in administrative interest, subject to the candidate (s) meeting the requirements of the
+         post allotted.
+
+         In case of shortfall in empanelment of candidates or other exigencies, RRB reserves the right to
+         utilize the candidates down the merit list if required, as per the merit and railway option of the
+         candidates.
+
+4.16     Right to Appointment: Selection by RRB does not confer upon candidates any right of
+         appointment in the Railways. The function of the RRB is to recommend names of suitable
+         candidates to the concerned authorities of the Zonal Railway who in turn will issue the offer of
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                       P a g e 8 | 57
+         appointment letter subject to availability of vacancies and candidates satisfying all eligibility criteria
+         including antecedents and character.
+
+4.17     Selected candidates will have to undergo training, as prescribed, and during training period, only
+         stipend will be paid as applicable.
+
+4.18     Selected candidates will have to execute Surety and/or Indemnity Bond wherever necessary at
+         the time of joining in Railways.
+
+4.19     Posting: Ordinarily, a Railway servant shall be employed throughout his/her service on the Railway
+         or Railway establishment to which he/she is posted on first appointment and shall have no claim
+         as a right for transfer to another railway or another establishment.
+
+4.20     In the exigencies of service, however, it shall be open to the Competent Authority to transfer the
+         Railway servant to any other department or Railway or Railway establishment including a project
+         in or out of India. No request for transfer to other Railway would be registered till the newly
+         appointed candidate completes at least 5 to 10 years of service. Candidates are thus advised to
+         choose their RRB with due care and consideration.
+
+4.21     Selected candidates who are finally appointed are liable for active service in Railway Engineers'
+         Unit of Territorial Army.
+
+4.22     Free Train Travel Facility: Free Sleeper Class Railway Pass is admissible to SC/ST candidates
+         only, on request. SC/ST candidates who wish to avail free travel authority will have to indicate
+         Yes in the relevant column in the ONLINE application and upload valid caste certificate. For
+         such candidates, free Sleeper Class Railway Pass will be a part of e-call letter when they are called
+         for various stages of recruitment viz. CBT, Computer based CBAT, document verification etc. as
+         per the details furnished and uploaded in ONLINE application. It is the responsibility of the
+         candidates availing free travel authority to give the correct name of the Railway Station in online
+         application, failing which their travel authority may not be valid for travel and obtaining reservation.
+
+         At the time of obtaining reservation and traveling, the Reservation Clerk and/or Ticket Checking
+         Staff will ask for the original SC/ST community certificate for verification of genuineness of the
+         candidate. Any attempt to misuse this travelling authority shall lead to rejection of
+         candidature at any stage of the recruitment process and debarment from future
+         examinations conducted by RRBs/RRCs.
+
+4.23     RRBs reserve the right to incorporate any subsequent changes/modifications/additions/deletions
+         in the terms & conditions of recruitment under this CEN as necessitated and applicable at any
+         stage.
+
+4.24     RRB reserves the right to cancel / modify the results in case of any inadvertent error / typographical
+         mistake found in the selection process of RRBs, at any stage of recruitment process including post
+         empanelment /also after appointment of candidate to Railways. Further, RRBs reserves the right
+         to delist such candidates from selection panel & cancel their appointment from Railways and if
+         already appointed, he/she will be liable to be removed from Railway service
+
+4.25     RRBs may share, with the consent of the candidates, the scores obtained by them in RRB exams
+         with other Ministries/Departments/PSUs and Private Organizations, for recruitment in their
+         organizations. Candidates may give their consent for the same or otherwise while filling the
+         ONLINE application.
+
+4.26     Candidates are advised, in their own interest, to submit their ONLINE application well before the
+         closing date for submission of application and to avoid any last-minute rush. This precaution is
+         recommended due to the possibility of heavy internet or website traffic during the final days.
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                P a g e 9 | 57
+         Helpline for candidates: For queries related to submission of Application of CEN 03/2026
+
+         (10:00AM to 5:00 PM on all working days):
+         Email: rrb.help@csc.gov.in
+         Phone:9592001188 / 01725653333
+
+4.27     RRBs shall not be responsible if candidates are not able to submit their ONLINE application
+         within the last date for any reason whatsoever.
+
+5. VACANCIES
+
+5.1      The Post Parameters (Qualification, Medical Standard and Suitability of the post etc.) for the
+         notified posts are included in this CEN at Annexure A.
+
+5.2      The RRB, Railway and post wise vacancies for the notified post including reservation of vacancies
+         for SC, ST, OBC (Non creamy layer), EWS, ExSM, PwBD are at Annexure B.
+
+        Candidates may please note that these vacancies may increase or decrease as per the requirement
+        of Railway Administration.
+
+6. MEDICAL STANDARDS FOR THE POSTS
+
+6.1      Candidates called for document verification will have to pass requisite medical fitness test(s)
+         conducted by the Railway Administration to ensure that the candidates are medically fit to carry
+         out the duties connected with the post opted by them. Visual Acuity Standard is one of the
+         important criteria of medical fitness of railway staff. The medical standards are outlined below:
+
+          Sl.        Medical       General
+          No.       standard        fitness                           Visual Acuity
+                                                  Distant Vision:6/9,6/9without glasses (No fogging test).
+                                                  Near Vision: Sn 0.6, 0.6 without glasses
+                                 Physically fit
+                                                  And must pass test for Colour Vision, Binocular Vision,
+                                    in all
+           1          A-2                                     Night Vision and Myopic vision.
+                                  respects
+
+
+           a) Note: The above medical standard is indicative and not exhaustive and apply to candidates
+                in general. The candidates are advised to read Chapter 5 of Indian Railway Medical Manual
+                (IRMM) Volume I which can also be accessed at www.indianrailways.gov.in. → Ministry of
+                Railway → Railway Board → Health Directorate.
+
+           b) Candidates, who have undergone Lasik Surgery or any other surgical procedure to
+              correct refractive error, are not eligible for the post of Section Controller. Candidates
+              should produce self-declaration as per proforma in Annexure VI-B during document
+              verification.
+
+         Different Medical standards shall apply to Ex-Servicemen as detailed in Para 534 of Indian
+         Railway Medical Manual (IRMM) Volume I, which may be accessed at
+         www.indianrailways.gov.in. The parameters for vision certificate applicable to Ex-Serviceman
+         given in vision certificate proforma as Annexure VI A)
+
+         Important Note: All candidate to submit medical certificate as per Annexure VI or Annexure VI(A)
+         (whichever applicable) at the time of CBAT exam. Without this certificate, candidates are not
+         allowed to appear in CBAT examination.
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 10 | 57
+6.2        Candidates are advised to ensure that they are eligible as per the medical standards for the
+           post opted by them. In case of failure of the candidate to pass the prescribed medical fitness for
+           the opted posts, he will not be considered suitable for empanelment for that post and no alternate
+           appointment will be provided.
+
+6.3        Candidates who avail themselves of the medical appeal within the permitted timeframe on payment
+           of prescribed charges, and whose appeal is accepted by the competent authority, must accept the
+           outcome of the appeal medical examination as final and binding. No further appeals shall be
+           permitted. For the candidates who did not avail medical appeal option, initial medical examination
+           result shall be considered.
+
+7. NATIONALITY/ CITIZENSHIP
+7.1        A candidate must be either:
+
+      (a)      A citizen of India, or
+      (b)      A subject of Nepal, or
+      (c)      A subject of Bhutan, or
+      (d)      a person of Indian origin who has migrated from Pakistan, Burma, Sri Lanka, East African
+               Countries of Kenya, Uganda, the United Republic of Tanzania, Zambia, Malawi, Zaire, Ethiopia
+               and Vietnam with the intention of permanently settling in India.
+      (e)      Provided that a candidate belonging to categories (b), (c), and (d) above, shall be a person, in
+               whose favor a certificate of eligibility has been issued by the Government of India.
+
+7.2        A candidate in whose case a certificate of eligibility is necessary may be admitted to the
+           examination provisionally. However, the Certificate of Eligibility issued by the Government of India
+           has to be submitted during Document Verification, failing which his/her candidature shall be
+           rejected.
+
+8. AGE LIMIT
+
+8.1        The lower and upper age limit indicated for the post in the Vacancy Table will be reckoned as on
+           01.07.2026.
+
+8.2        For 7th CPC Level 6 (Graduate level Post), the Date of Birth of candidates should be between the
+           dates given below (both dates inclusive):
+
+                                                                                Lower Limit of Date of
+                            Upper Limit of Date of Birth as on
+                                                                                Birth as on 01.07.2026
+                              01.07.2026 (Not earlier than)
+               Age                                                                  (Not later than)
+              Group                         OBC-Non                                For all community/
+                           UR& EWS        Creamy Layer             SC/ST                  categories
+              20 to 33    02.07.1993         02.07.1990          02.07.1988              01.07.2006
+       Notes:
+      i.          The date of birth limits for SC, ST and OBC-NCL given in this table includes community age
+                  relaxation.
+      ii.         Candidates belonging to community/ categories in the table at Para 8.3 shall be eligible for
+                  age relaxation as applicable.
+
+
+
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 11 | 57
+8.3     However, the relaxation in upper age limit for the following categories/communities is given as
+        indicated in the table below subject to submission of requisite certificates.
+
+
+
+         Sl.                                                           Relaxation in Upper Age
+         No.                        Community/categories              Limit/Maximum Upper Age
+          1                 OBC-Non-Creamy Layer (NCL)                            3 Years
+          2                          SC/ST                                        5 Years
+                 Ex-Servicemen candidates who                           3 Years (After deduction of
+                 have put in more than 6 months        UR & EWS         length of service from age)
+                     service after attestation
+
+          3                                                             6 Years (After deduction of
+                                                       OBC- NCL
+                                                                        length of service from age)
+
+                                                                      8 Years (After deduction of length
+                                                         SC/ST
+                                                                            of service from age)
+                                                       UR& EWS                40 Years of age
+               Candidates who are serving Group
+               'C' and erstwhile Group 'D' Railway     OBC- NCL
+               Staff, with minimum 3years’ service                            43 Years of age
+          4
+               as well as Substitutes with minimum
+                3 years’ service in continuous or in     SC/ST
+                     broken spells in Railway.                                45 Years of age
+                                                       UR& EWS                    10 Years
+
+                                                       OBC- NCL                   13 Years
+               Persons with Benchmark Disabilities
+          5
+                             (PwBD)
+                                                         SC/ST                   15 Years
+
+
+
+                 Candidates who are working in
+                Quasi-Administrative offices of the                     Up to the length of service
+          6       Railway organization such as            All              rendered or 5years,
+                Railway Canteens, Co- operative                             Whichever is less.
+                    Societies and Institutes.
+                  Women candidates, who are            UR& EWS                35 Years of age
+                  widowed, divorced or judicially
+          7        separated from husband but          OBC- NCL               38 Years of age
+                          Not remarried.                 SC/ST                40 Years of age
+
+
+8.4     No age relaxation is allowed to SC/ST/OBC-NCL (Non- Creamy Layer) candidates applying
+        against unreserved vacancies.
+
+8.5     PwBD candidates applying against UR vacancies will be allowed age relaxation applicable for
+        PwBD (UR) only – subject to conditions of suitability.
+
+8.6     If a candidate is eligible for relaxation of age on more than one ground, he/she would be accorded
+        the highest of the age relaxations for which he/she is eligible.
+
+8.7     Candidates should note that the date of birth filled in this application should be same as
+        recorded in the Matriculation/SSLC/Xth Class or an equivalent certificate. No subsequent
+        request for its change will be considered. Any difference in DOB will lead to disqualification
+        of the candidate.
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 12 | 57
+9. EDUCATIONAL QUALIFICATIONS
+     Candidates must already have the minimum educational Qualifications prescribed in the CEN from
+     recognized Board/University/Institute for Submission Online application. Those awaiting results
+     of the final examination of the prescribed minimum educational qualification SHOULD NOT
+     apply.
+
+         NOTE: The Educational/Technical Qualification certificates viz. Provisional or Regular Certificates
+         should contain the date of issue. In case, date of issue of these certificates is after the closing date
+         of the notification, then the consolidated marks sheet with date of declaration of the final qualifying
+         exam or individual mark sheets of all the semesters/years with date of declaration of each semester
+         /year result should be submitted. In case of non-availability of date in any of these certificates, then
+         a certificate indicating date of declaration of result from the Board/University to this effect should
+         be produced at the time of DV.
+
+10. EXAMINATION FEE
+        Candidates applying for the posts in this CEN have to pay the prescribed fee as per their category
+        detailed below:
+
+          Sl.                                                                                      Fee
+          No.                              Candidate Categories                                   (Rs.)
+                 For all candidates (except        the fee concession          categories
+                 mentioned below at Sl. No. 2.)
+          1                                                                                       500
+                 Out of this fee of Rs 500 an amount of Rs. 400 shall be refunded
+                 Duly deducting bank charges, on appearing in CBT.
+                 For Female/Transgender/Ex-Servicemen candidates and candidates
+                 belonging to SC/ST/Minority Communities/ Economically Backward
+          2      Class (EBC)*/PwBD.
+                 This fee of Rs250 shall be refunded in due course duly deducting bank            250
+                 charges as applicable on appearing in CBT.
+
+        (Caution to candidates: EBC should not be confused with OBC or EWS. EBC certificates should
+        not be confused with extremely backward class certificate issued by some state governments)
+
+   *IMPORTANT NOTE FOR CANDIDATES CLAIMING CONCESSION UNDER EBC CATEGORY:
+   Please read paragraph 10.2 of this CEN carefully before claiming concession under the Economically
+   Backward Class (EBC) category. Candidate seeking a concessional fee must possess a valid document
+   - i.e. EBC certificate (Annexure IV) or BPL card or Izzat MST or any certificate issued by Central
+   Government under a recognized poverty alleviation programme - at the time of application filling.
+   They must enter the relevant details in the online application and shall submit same in original at the
+   time of Document Verification (DV).
+
+        EBC certificate (Annexure IV), BPL card, or Izzat MST or certificate issued by Central
+        Government under a recognized poverty alleviation program issued after the closing date of
+        application, i.e.,14.08.2026, will not be accepted. The candidature of candidates who fail to produce
+        a valid document- i.e. EBC certificate (Annexure IV), BPL card, or Izzat MST issued on or before the
+        closing date of application against this CEN is liable to be rejected.
+
+10.1     Mode of Fee Payment
+
+        a. ONLINE fee payment through internet banking or debit/credit cards or UPI will be accepted. All
+              applicable service charges shall be borne by the candidate.
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                               P a g e 13 | 57
+        b. Fee can be paid by the candidates through ONLINE mode only. There will be no option to pay
+              fee through any other mode.
+        c.    Applications received without the prescribed fee shall not be considered and
+              Summarily rejected. No representation against such rejection will be entertained.
+
+10.2     Minorities shall include Muslims, Christians, Sikhs, Buddhists, Jains and Zoroastrians (Parsis)
+         subject to revision / deletion / inclusion, if any, received till the closing date for ONLINE Submission
+         of application for this CEN (14.08.2026)
+
+         Affidavit for 'Minority Community Declaration': Minority candidates claiming waiver of examination
+         fee will be required to furnish an affidavit (as per Annexure V) on non-judicial stamp paper
+         mentioning their minority community at the time of DV, failing which their candidature is liable to
+         be rejected.
+
+         Economically Backward Class (EBC) candidates are those whose annual family income is less
+         than Rs. 50,000 and are eligible for concessional fee (as per para 10 above). For this, they should
+         have
+
+         a) Valid Income Certificate on the date of application in the prescribed format (as per Annexure III
+             A) on the letterhead of the Issuing Authority. The following authorities are authorized to issue
+             income certificate for the purpose of identifying economically backward classes:
+
+              (i)     District magistrate or any other Revenue Officer not below the rank of Tehsildar
+
+             (ii)    Sitting Member of Parliament of Lok Sabha for persons of their own Constituency
+
+             (iii)   Sitting Member of Parliament of Rajya Sabha for persons of the district in which these
+                     MPs normally reside.
+
+             (iv)    Union Minister for any persons from anywhere in the country.
+
+         b) BPL Card or any other certificate issued by Central Government under a recognized poverty
+             alleviation programme
+
+             OR,
+
+         c) Izzat MST issued by Railways.
+
+          All EBC candidates who seek concessional fee, should fill in the relevant details of valid EBC
+          certificate/BPL card/Izzat MST in the ONLINE application and the same must also be submitted in
+          original, at the time of DV, failing which their candidature will be rejected
+
+         NOTE: Economically Backward Class (EBC), Economically Weaker Section (EWS) and Other
+         Backward Class (OBC) are not same but three distinct categories. An Economically Backward
+         Class (EBC) candidate, as defined under this para, is entitled only to fee concession and not to job
+         reservation.
+
+10.3     Refund of Examination FEE (for those attending CBT)
+
+         a) Refund (duly deducting bank charges as applicable) of examination fees, wherever applicable,
+           shall be credited only to the bank account seeded with the candidate’s Aadhaar number. During
+           the application process, candidates will be required to validate their Aadhaar number. Upon
+           successful validation, the bank account already linked with Aadhaar will be automatically shown
+           for confirmation, which will be used for refund purposes. If no bank account is found to be
+           seeded with Aadhaar, the candidate will be redirected to the NPCI portal for real-time Aadhaar–
+           bank account linking and, thereafter, returned to the application page to complete the process.
+           Candidates not holding a bank account may provide a family member’s Aadhaar-seeded bank
+           account, as per the above prescribed procedure.
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                           P a g e 14 | 57
+         b) The examination fee paid by the candidates whose application is incomplete or those who have
+            not submitted their application or whose application is rejected, will not be refunded.
+
+         c) The responsibility for ensuring linkage of a valid and operational Aadhaar-seeded bank
+            account rests solely with the candidate. RRB shall not entertain any correspondence or
+            claims arising out of incorrect, invalid, or non-operational bank account linkage
+
+         d) No refund of examination fee shall be admissible in cases of rejected applications or where the
+            Aadhaar-seeded bank account linked by the candidate is found to be non-operational.
+
+11. VERTICAL RESERVATION
+
+11.1     This CEN provides for Vertical Reservation for Scheduled Caste (SC), Scheduled Tribe (ST), Other
+         Backward Classes (OBC)- Non-Creamy Layer (NCL) and Economically Weaker Sections (EWS),
+         wherever applicable and admissible, and as communicated by the Indenting Railways/Production
+         Units under extant rules, as mentioned in the Vacancy Table.
+
+  NOTE:
+
+           Economically Backward Class (EBC), Economically Weaker Section (EWS) and Other
+            Backward Class (OBC) are not same but three distinct categories.
+
+           EWS and OBC- NCL candidates are eligible for job reservation wherever applicable and
+            admissible.
+
+           An Economically Backward Class (EBC) candidate (defined under Note at Para 10.3 above)
+            is not entitled to job reservation.
+
+11.2     All candidates, irrespective of community may be considered against UR vacancies, subject to
+         fulfillment of parameters for UR candidates. However, against the vacancies earmarked for specific
+         communities (SC/ST/OBC-NCL/EWS), only candidates belonging to that community will be
+         considered. Only those Communities which are recognized by the Government of India as SC, ST,
+         EWS & OBC(NCL) are eligible for reservation.
+
+11.3     OBC candidates coming in creamy layer are not entitled to OBC reservation.
+
+11.4     For availing reservation, EWS, SC, ST & OBC-NCL candidates should furnish the necessary
+         certificates (in original) during DV. The certificates should be issued by competent authorities as
+         per the formats given at Annexure I (for SC & ST candidates), Annexure II (for OBC-NCL
+         candidates) and Annexure III (for EWS candidates).
+
+11.5     The caste certificate for OBC (Non- Creamy Layer) candidates should specifically mention that
+         “This is also to certify that he/she does NOT belong to the persons/sections (Creamy Layer)
+         mentioned in Column 3 of the Schedule to the Government of India, Department of Personnel &
+         Training OM No. 36012/22/93‐Estt.(SCT) dated 08/09/93 and modified vide GOI DOPT OM No.
+         36033/1/2013-Estt.(Res.) dated 13/09/2017*’’ (*further revision if any, received till the closing date
+         of submission of applications against this CEN).
+
+11.6     The OBC candidate claiming reservation under the “OBC category” must produce an OBC (Non-
+         Creamy Layer) certificate, in the prescribed format (Annexure II), issued on or after April 01, 2026
+         but not later than the closing date of the Online Application for this CEN. The certificate number,
+         date of issue, and caste as mentioned in the certificate must be provided in the online application.
+         The OBC candidate’s caste should be listed in the current updated central list of OBCs
+         (http://www.ncbc.nic.in).
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                             P a g e 15 | 57
+         During Document Verification (DV), the OBC candidate claiming reservation must submit the OBC
+         (Non-Creamy Layer) certificate as detailed above and also provide a self-declaration in the format
+         given at Annexure IIA, stating that they “do not belong to the creamy layer on the closing date of
+         application.” Failure to do so will result in their claim for reservation (as OBC-NCL) will not be
+         accepted, and they may be considered as Unreserved (UR) candidates, subject to fulfillment of
+         the required eligibility conditions applicable to UR candidates.
+
+11.7     Please Note: OBCs present in the State list but not covered in the central list of OBCs (as per the
+         latest list in http://www.ncbc.nic.in) are NOT eligible to claim the reservation.
+
+11.8     In the light of Hon’ble Supreme Court judgement in WP (C) No.1052/2021 between Sunil Kumar
+         Rai &others versus State of Bihar & others, Judgement dated 21.02.2022, the candidates from
+         who (A) originally belong to LOHAR/LOHARA/LOHRA caste, and (b) Belong to Bihar state or
+         migrated temporarily/permanently from Bihar state only to other states, should submit their latest
+         caste (which is (a) as per Annexure I of CEN with back reference to Form -II of Bihar Government,
+         for claiming ST or (b)as per Annexure II of CEN with back reference to Form - VIIA of Bihar
+         Government for claiming OBC-NCL) which has been issued after 01.04.2023 only and also it must
+         valid on the closing date for submission of online application, during Document Verification, to
+         substantiate their claim as ST/OBC-NCL as mentioned in the application form.
+
+11.9     In the light of Hon’ble Supreme Court judgement in : Supreme court Civil Appeal No.18802 of
+         2017 between Dr Bhimrao Ambedkar Vichar Manch, Bihar, Patna and State of Bihar & others,
+         Judgement dated 15.07.2024, the candidates who have communities certificate of ST/SC issued
+         prior to the Hon’ble Supreme court judgement and also (A) originally belong to PAN/ PANR/
+         SAWASI/ TANTI-TATWA (तांती-तंतवा) Caste originally, and (B) Belong to Bihar state or migrated
+         temporarily/permanently from Bihar state only to other states, should upload details of latest caste
+         certificate which has been issued on or after 01.09.2024 duly modifying/ adding their community
+         & caste. Their community & caste/tribes will be considered for recruitment as per their revised
+         caste/community, these candidates must mandatorily bring the new caste certificate which is taken
+         on or after 01.09.2024 at the time of Document Verification, otherwise, his/her candidature will be
+         treated against Unreserved category.
+
+11.10 IMPORTANT: The community or category status of a candidate, as declared in their online
+      application, will determine their eligibility for reservation benefits. Any subsequent change in
+      community status, for any reason, will not be recognized for the purpose of this recruitment
+      process.
+
+11.11 It is the responsibility of candidates to ensure that they are eligible for the reservation they claim.
+      Their candidature will remain provisional until the authenticity of the relevant documents is verified
+      by the Appointing Authority.
+
+11.12 Candidates are cautioned that their candidature or appointment will be cancelled forthwith if any
+      fraudulent claim of SC/ST/OBC/EWS status or misuse of any other benefit comes to light at any
+      stage. Such actions will lead to permanent debarment from all RRB and RRC exams and may also
+      invite legal proceedings.
+
+11.13 EWS (Economically Weaker Section) Reservation: Candidates who are not covered under the
+      scheme of reservation for SC/ST/Other Backward Classes (Central List) and whose family gross
+      annual income is below Rs. 8 Lakh (Rupees eight lakh) are to be identified as EWS for benefit of
+      reservation for EWS. OBC-CL also cannot claim benefit of EWS. The income shall also include
+      income from all sources i.e. salary, agriculture, business, profession etc. for the financial year prior
+      to the year of application submission closing date. For this CEN No.03/2026 the financial year will
+      be 2025-26 as the closing date of application is 14.08.2026. Also, candidates whose family owns
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 16 | 57
+         or possesses any of the following assets shall be excluded from being identified as EWS,
+         irrespective of family income:
+
+       (i) 5 acres of agricultural land and above;
+
+       (ii) Residential flat of 1000 sq. ft. and above;
+
+       (iii) Residential plot of 100 sq. yards and above in notified municipalities;
+
+       (iv) Residential plot of 200 sq. yards and above in areas other than the notified municipalities.
+
+              The property held by a Family in different locations or different places/cities would be clubbed
+              while applying the land or property holding test to determine EWS status. The term Family for
+              this purpose will include the person who seeks benefit of reservation, his/her parents and
+              siblings below the age of 18 years as also his/her spouse and children below the age of 18
+              years. The benefit of reservation under EWS can be availed upon production of an Income
+              and Asset Certificate issued by a Competent Authority. The Income and Asset Certificate
+              issued by any one of the following authorities in the prescribed format as given in Annexure III
+              shall only be accepted as candidate ‘s claim as belonging to EWS:
+
+       11.13.1 District Magistrate/Additional District Magistrate / Collector / Deputy Commissioner /
+       Additional Deputy Commissioner / 1st Class Stipendiary Magistrate / Sub-Divisional Magistrate /
+       Taluka Magistrate / Executive Magistrate / Extra Assistant Commissioner
+
+       11.13.2 Chief Presidency Magistrate / Additional Chief Presidency Magistrate / Presidency Magistrate
+
+       11.13.3 Revenue Officer not below the rank of Tehsildar
+
+       11.13.4 Sub-Divisional Officer of the area where the candidate and/or his family normally resides.
+
+         The candidates applying against the vacancies reserved for EWS must possess Income and Asset
+         Certificate as on closing date of submission of applications against this CEN. Accordingly, they
+         have to fill up the certificate number, date of issue of the certificate, issuing authority, district and
+         state of issue in the ONLINE application. Further, these candidates are also required to produce
+         valid Income and Asset Certificate (based on their income and assets for the financial year 2025-
+         26) during document verification. In case of non-compliance to these stipulations, their claim for
+         reserved status under EWS will not be entertained and the candidature / application of such
+         candidates, if fulfilling all the eligibility conditions for General (UR) category, will be considered
+         under General (UR) vacancies only.
+
+11.14 Candidates belonging to SC/ST/OBC-NCL/EWS who fulfill required minimum educational
+      qualification can also apply against UR vacancies. They will however, have to compete with the
+      UR candidates. No age relaxation will be allowed to such SC/ST/OBC-NCL candidates applying
+      against UR vacancies. However, candidates have to indicate their actual community in the
+      application.
+
+11.15 Community status as on the closing date for ONLINE Submission of application for this CEN shall
+      only be considered for availing reservation benefits if eligible and any change in the community
+      status of the candidate thereafter shall not be entertained.
+
+12. HORIZONTAL RESERVATION:
+12.1     This CEN also provides for horizontal reservation for Ex-Servicemen (ExSM) and PwBD
+         irrespective of their social community.
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                               P a g e 17 | 57
+12.2     The total vacancies shown in the Vacancy Table also include the vacancies reserved for ExSM
+         and PwBD. However, where vacancies for PwBD are shown separately as backlog vacancies
+         (without any indication of community), these are backlog vacancies from the past and not included
+         in the regular community vacancies shown in this CEN.
+
+12.3     Ex-Servicemen are eligible for vacancies specifically reserved for them. If no such vacancies are
+         reserved against a post, they may still apply for regular vacancies. In such cases, they will continue
+         to be eligible for age relaxation and fee exemption.
+
+12.4     Similarly, PwBD candidates may apply against regular vacancies of a post even if no vacancies
+         are exclusively reserved for them against that post, provided that the post is suitable for their
+         disability. In such cases, they will continue to be eligible for age relaxation and fee exemption.
+
+12.5     In case vacancies reserved for PwBD cannot be filled due to non-availability of suitable candidates
+         under that category of disability or for any other reason, such vacancies shall not be filled and shall
+         be treated as Shortfall for this notification.
+
+12.6     NOTE: However, for backlog vacancies indicated in this CEN, if PwBD candidates of a specific
+         disability (for whom the backlog vacancies are earmarked), are not available, then these can be
+         filled by PwBD candidates of other disabilities for which the post is suitable. Thereafter, in case of
+         non-availability of any PwBD candidate of any disability (for which the post is identified as suitable),
+         the unfilled backlog vacancies will then be filled by regular (non-PwBD) candidates to that extent
+         in order of merit.
+
+ 13. EX-SERVICEMEN (ExSM):
+13.1 The term Ex-Servicemen means a person who has served in any rank (whether as a Combatant
+       or non-Combatant) in the regular Army, Navy or Air Force of the Indian Union but does not include
+       a person who has served in the Defence Security Corps, the General Reserve Engineering Force,
+       the Lok Sahayak Senaand the Para Military Forces
+
+                And
+
+        a) Who either has been retired or relieved or discharged from such service whether at his/her own
+           request or being relieved by the employer after earning his or her pension; (or)
+
+        b) Who has been relieved from such service on medical grounds attributable to military service or
+           circumstances beyond his control and awarded medical or other disability pension; (or)
+
+        c) Who has been released from such service as a result of reduction in establishment;(or)
+
+        d) Who has been released from such service after completing the specific period of engagement,
+           otherwise than on his own request, or by way of dismissal, or discharge on account of misconduct
+           or inefficiency and has been given a gratuity; and includes personnel of the Territorial Army,
+           namely, pension holders for continuous embodied service or broken spells of qualifying service;
+           (or)
+
+        e) Personnel of Army Postal Service who are part of Regular Army and retired from the Army Postal
+           Service without reversion to their parent service with pension, or are released from the Army
+           Postal Service on medical grounds attributable to or aggravated by military service or
+           circumstances beyond their control and awarded medical or other disability pension; (or)
+
+        f) Personnel who were on deputation in Army Postal Service for more than six months prior to 14th
+           April 1987; (or)
+
+        g) Gallantry award winners of the Armed forces including personnel of Territorial Army;(or)
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 18 | 57
+       h) Ex-recruits boarded out or relieved on medical ground and granted medical disability pension
+          w.e.f. 01.02.2006.
+
+13.2     Persons serving in the Armed Forces of the Union, who on retirement from service would come
+         under the category of Ex-Servicemen are eligible to apply for re- employment one year before the
+         completion of the specific terms of engagement and avail themselves of all concessions available
+         to Ex-Servicemen but such persons shall not be permitted to leave the uniform until they complete
+         the specific terms of engagement in the Armed Forces of the Union. Accordingly, such serving
+         Defense personnel expected to be released within one year (from the Armed Forces) of the closing
+         date of submission of applications against the CEN can also apply, both for vacancies earmarked
+         for Ex-Servicemen and for posts not reserved for them. However, they should possess the
+         prescribed educational qualifications as on the closing date of Submission of online applications
+         for this CEN
+
+       a) When selection process takes more than one year, from the last date of receiving of applications,
+          the candidate will not be declared ineligible under Ex SM category only on the ground that he/she
+          has got himself/herself released from Armed Forces after one year from the last date of receiving
+          of application. He/she may be considered till the date of Document Verification for which he/she
+          is shortlisted.
+
+       b) Since the appointment of such a candidate is subject to the submission of documentary evidence
+          that he/she has been duly released/discharged from the Armed Forces and qualified as an Ex.SM
+          in terms of the rules/notifications ibid, such a candidate shall be required to submit along with
+          his/her application an undertaking duly signed by him/her format enclosed, as Annexure VII(A)
+
+13.3     For the armed services personnel who have been serving in armed forces on the closing date of
+         application submission, shall submit “Employment certificate with probable date of discharge from
+         service” as per Annexure VII which is VALID as on closing date of submission of Online application
+         for this CEN. Further, a self-declaration of Undertaking as per Annexure VII (A) is to be submitted
+         to claim Ex-servicemen reservation benefits, by all at the time of Document Verification.
+
+13.4     Ex-Servicemen candidates who have already secured civil employment under Central
+         Government in Group C & D (including PSUs, autonomous bodies/statutory bodies, nationalized
+         banks etc.) after availing of the benefits given to Ex-Servicemen will be permitted only the benefit
+         of age relaxation as prescribed for Ex-Servicemen for securing another employment in a higher
+         grade or cadre in Group C/D under Central Government. Such candidates will not be considered
+         against the vacancies reserved for Ex-Servicemen in the Central Government jobs.
+
+13.5     If an Ex-Serviceman applies for various vacancies before joining any Civil employment, he/she
+         can avail the benefit of reservation as Ex - Serviceman for any subsequent employment, subject
+         to the condition that an Ex - Serviceman as soon as he joins any Civil employment, should give
+         self-declaration/undertaking to the concerned employer about the details of application against this
+         CEN for which he/she has applied before joining the initial civil employment. The acknowledged
+         copy of this declaration along with NOC from the civil employer should be produced during DV
+         failing which their candidature shall stand cancelled. Further, this benefit would be available only
+         in respect of vacancies which are filled on direct recruitment and wherever reservation is applicable
+         to the Ex - Servicemen.
+
+13.6     The Medical standard of Ex-Serviceman will be according to Para 534 of Indian Railway Medical
+         Manual (IRMM) Volume I, which may be accessed at www.indianrailways.gov.in
+
+         Special Note for all Candidates seeking reservation/relaxation benefits
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 19 | 57
+         All the candidates seeking reservation/relaxation benefits available for SC/ST/OBC-
+         NCL/EWS/ExSM must ensure that they are entitled to such reservation/relaxation as per
+         eligibility prescribed in the Rules/CEN. They should be in possession of all the requisite
+         certificates in the prescribed format in support of their claim as stipulated in the Rules/CEN.
+
+
+ 14. PERSONS WITH BENCHMARK DISABILITIES (PwBD)
+14.1 The suitability or otherwise of a post for PwBD has been indicated against each post, under the
+       column “Suitability for Persons with Benchmark Disability” with details of sub disability in Post
+       Parameters Table (Annexure A).
+
+         Benchmark Disabilities: As per The Rights of Persons with Disabilities (RPwD) Act, 2016 (effective
+         from 19th April, 2017), the Benchmark Disabilities are as under: -
+
+           a) Blindness and Low Vision (VI);
+
+           b) Deaf and hard of hearing (HI);
+
+           c) Locomotor Disability (LD) including Cerebral Palsy, Leprosy Cured, Dwarfism, Acid Attack
+               Victims and Muscular Dystrophy;
+
+           d) Autism, intellectual disability, specific learning disability and mental illness;
+
+           e) Multiple Disabilities from amongst persons under clauses (a) to (d) including deaf-blindness
+               in the posts identified for each disability (MD).
+
+
+14.2     Definition of Specified Disabilities: Definition of Specified Disabilities as provided in the
+         Schedule of PwBD Act, 2016 is as mentioned below:
+
+    1. Physical disability: -
+
+   A). Locomotor Disability (a person’s inability to execute distinctive activities associated with movement
+   of self and objects resulting from affliction of musculoskeletal or nervous system or both), including—
+   (a) “Leprosy Cured person” means a person who has been cured of leprosy but is suffering from—
+   (i) Loss of sensation in hands or feet as well as loss of sensation and paresis in the eye and eye-lid but
+   with no manifest deformity;
+   (ii) Manifest deformity and paresis but having sufficient mobility in their hands and feet to enable them to
+   engage in normal economic activity;
+   (iii) Extreme physical deformity as well as advanced age which prevents him/her from undertaking any
+   gainful occupation, and the expression “leprosy cured” shall construed accordingly;
+   (b) “Cerebral Palsy” means a Group of non-progressive neurological conditions affecting body
+   movements and muscle coordination, caused by damage to one or more specific areas of the brain,
+   usually occurring before, during or shortly after birth;
+   (c) “Dwarfism” means a medical or genetic condition resulting in an adult height of 4 feet 10 inches (147
+   centimetres) or less;
+   (d) “Muscular Dystrophy” means a group of hereditary genetic muscle disease that weakens the
+   muscles that move the human body and persons with multiple dystrophy have incorrect and missing
+   information in their genes, which prevents them from making the proteins they need for healthy muscles.
+   It is characterized by progressive skeletal muscle weakness, defects in muscle proteins, and the death
+   of muscle cells and tissue;
+   (e) “Acid Attack Victims” means a person disfigured due to violent assaults by throwing of acid or
+   similar corrosive substance.
+   (f) Spinal Deformity (SD) and Spinal Injury (SI) without any associated neurological/limb dysfunction.
+   Persons with SD/SI without neurological/limb dysfunction are suitable for all the sub category of disability
+   under Locomotor Disability. Persons with SD/SI with associated limb dysfunction shall be covered under
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 20 | 57
+the respective sub category of Locomotor Disability i.e. OA. OL, BA, BL, OAL, BLOA, BLA, as the case
+may be.
+
+B) Visual impairment—
+(a) “Blindness” means a condition where a person has any of the following conditions, after best
+correction—
+(i) Total absence of sight; or
+(ii) Visual acuity less than 3/60 or less than 10/200 (Snellen) in the better eye with best possible
+correction; or
+(iii) Limitation of the field of vision subtending an angle of less than 10 degree.
+(b) “Low-Vision” means a condition where a person has any of the following conditions, namely: —
+(i) Visual acuity not exceeding 6/18 or less than 20/60 up to 3/60 or up to 10/200 (Snellen) in the better
+eye with best possible corrections; or
+(ii) Limitation of the field of vision subtending an angle of less than 40 degree up to 10 degrees.
+C) Hearing impairment—
+(a) “Deaf’ means persons having 70 DB hearing loss in speech frequencies in both ears;
+(b) “Hard of Hearing” means person having 60 DB to 70 DB hearing loss in speech frequencies in both
+ears
+
+D) “Speech and Language Disability” means a permanent disability arising out of conditions such as
+laryngectomy or aphasia affecting one or more components of speech and language due to organic or
+neurological causes.
+
+ 2. Intellectual Disability, a condition characterized by significant limitation both in intellectual
+    functioning (reasoning, learning, problem solving) and in adaptive behaviour which covers a range
+    of every day, social and practical skills, including—
+
+(a) “Specific Learning Disabilities” means a heterogeneous group of conditions wherein there is a
+deficit in processing language, spoken or written, that may manifest itself as a difficulty to comprehend,
+speak, read, write, spell, or to do mathematical calculations and includes such conditions as perceptual
+disabilities, dyslexia, dysgraphia, dyscalculia, dyspraxia and developmental aphasia;
+
+(b) “Autism Spectrum Disorder” means a neuro-developmental condition typically appearing in the first
+three years of life that significantly affects a person‘s ability to communicate, understand relationships
+and relate to others, and is frequently associated with unusual or stereotypical rituals or behaviours.
+
+ 3. Mental behaviour— “Mental Illness” means a substantial disorder of thinking, mood,
+    perception, orientation or memory that grossly impairs judgment, behaviour, capacity to recognize
+    reality or ability to meet the ordinary demands of life, but does not include retardation which is a
+    condition of arrested or incomplete development of mind of a person, specially characterized by
+    sub normality of intelligence.
+ 4. Disability caused due to—
+(a) chronic neurological conditions, such as—
+(i) “Multiple Sclerosis” means an inflammatory, nervous system disease in which the myelin sheaths
+around the axons of nerve cells of the brain and spinal cord are damaged, leading to demyelination and
+affecting the ability of nerve cells in the brain and spinal cord to communicate with each other;
+(ii) “Parkinson‘s disease” means a progressive disease of the nervous system marked by tremor,
+muscular rigidity, and slow, imprecise movement, chiefly affecting middle-aged and elderly people
+associated with degeneration of the basal ganglia of the brain and a deficiency of the neurotransmitter
+dopamine.
+
+(b) Blood disorder—
+
+(i) “Haemophilia” means an inheritable disease, usually affecting only male but transmitted by women
+to their male children, characterized by loss or impairment of the normal clotting ability of blood so that a
+minor wound may result in fatal bleeding;
+
+
+ CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 21 | 57
+  (ii) “Thalassemia” means a group of inherited disorders characterized by reduced or absent amounts
+  of haemoglobin.
+  (iii) “Sickle Cell Disease” means a hemolytic disorder characterized by chronic anaemia, painful events,
+  and various complications due to associated tissue and organ damage; “hemolytic” refers to the
+  destruction of the cell membrane of red blood cells resulting in the release of haemoglobin.
+   5. Multiple Disabilities (more than one of the above specified disabilities) including deaf, blindness
+      which means a condition in which a person may have combination of hearing and visual
+      impairments causing severe communication, developmental, and educational problems. Under
+      the Multiple Disability (MD) category, only candidates with a combination of individual disabilities
+      that are independently eligible for the post are eligible.
+   6. Any other category as may be notified by the Central Government.
+
+14.3     Degree of Benchmark Disability for Reservation and Competent Authority for Issue of
+         Disability Certificate: Only such persons would be eligible for relaxation in conditions/reservation
+         in posts who suffer from not less than 40 percent of relevant benchmark disability. Those Persons
+         with Benchmark Disabilities (PwBD) who have availed the relaxation and/or reservation and
+         shortlisted for Document Verification have to submit Certificate of Disability issued by the
+         Competent Authority as per the form V and VI of rule 18(1) of the Gazette Notification
+         (Extraordinary) dated 16th October, 2024 of the Right of Persons with Disabilities
+         (Amendment) Rules, 2024. Refer Annexure VIII(A) and Annexure VIII(B) for the revised
+         formats. The existing certificates of disability issued under the Persons with Disabilities Act 1995
+         (since repealed) shall continue to be valid for the period specified therein.
+
+14.4     The candidates with benchmark disabilities (PwBD) may note that they must select the appropriate
+         PwBD sub-category i.e. LD/ HI/ VI/MD, while filling the application form as per their certificate of
+         disability issued by the competent authority. No subsequent change of PwBD sub-category will be
+         allowed under any circumstances. Such candidates shall have to furnish the requisite certificate
+         from the competent authority as declared in the application form at the time of document
+         verification, along with their Unique Disability Identity (UDID), failing which their candidature will
+         be cancelled. It may be noted that type of disability/disabilities (such as OA, OL, BL, OAL, DW,
+         AAV, SD, SI etc.), as indicated in the Notification No. 38-16/2020-DDIII dated 04.01.2021 issued
+         by Department of Empowerment of Persons with Disabilities, should be clearly mentioned by the
+         competent authority issuing the certificate.
+
+         Further in terms of PwBD’s OM dated 17.12.2025, candidates with disability conditions falling
+         under the category “likely to improve” under temporary disability category, are not eligible for
+         reservation. Candidates with condition falling under the category i.e. “progressive, non-progressive
+         or not likely to improve” are to be treated eligible for reservation.
+
+14.5     Selected PwBD candidates will be subjected to medical examination by Railway Medical
+         Authorities at the time of DV and only those conforming to the medical standards as laid down in
+         the Indian Railway Medical Manual and other extant provisions, as the case may be, will be eligible
+         for appointment.
+
+14.6     When vacancies are reserved for PwBDs and full panel for PwBDs cannot be made with the
+         minimum qualifying percentage marks of each category, viz., UR, EWS, SC, ST, OBC-NCL, a
+         relaxation of up to 2 marks in the minimum qualifying marks prescribed for the community will be
+         allowed.
+
+14.7     Guidelines for Assistance of Scribe and Compensatory Time:
+
+14.8     In case of persons with benchmark disabilities in the category of Blindness, Locomotor Disability
+         (Both Arm affected – BA) and Cerebral Palsy, the facility of scribe shall be given, if so desired by
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                             P a g e 22 | 57
+         the person, only if the post is suitable for the specific category. Please Refer to Annexure A for
+         suitability of PwBD categories.
+
+14.9     In case of other category of persons with benchmark disabilities, the provision of scribe can be
+         allowed on production of a certificate to the effect that the person concerned has physical limitation
+         to write and scribe is essential to write examination on his behalf, from the Chief Medical
+         Officer/Civil Surgeon/Medical Superintendent of a Government Health Care institution. The
+         candidate can avail the assistance of scribe after producing the certificate as per Annexure VIII(F)
+         and submission of letter of undertaking as per Annexure VIII(C) at the examination centre.
+
+14.10 The Person with disability having less than 40% disability (covered under the definition of Section
+      2(s) of the Person with disability Act, 2016 but not covered under the definition of Section 2(r) of
+      the said Act) and having difficulty in writing can also avail the assistance of scribe for writing
+      answers on their behalf after producing the certificate as per Annexure VIII(D) and submission of
+      letter of undertaking as per Annexure VIII(E) at the examination centre.
+
+14.11 All one-eyed candidates and candidates whose visual degree of disability is less than 40% shall
+      not be considered as Visually Impaired persons.
+
+14.12 Candidates eligible for scribe under para 14.8,14.9, and14.10 above and wish to avail the scribe
+      facility must opt for scribe in their online application.
+
+14.13 Candidates eligible for scribe will have to arrange for the scribe on their own at their own cost.
+
+14.14 Candidates who have opted for a scribe in their online application:
+
+
+       a) Must ensure that their scribe is registered with RRBs at rrbapply.gov.in(please refer para 14.16
+         regarding Registration of scribe)
+
+       b) Should Log on to application portal during a 5-day window provided immediately after the
+         Modification Window closes, to furnish scribe details.
+
+       c) Enter your scribe’s One-Time Registration (OTR) Number. An OTP will send to your scribe’s
+         registered mobile number
+
+       d) Must enter the OTP sent to the scribe's registered mobile number to confirm the scribe.
+
+14.15 Registration for Scribes:
+
+       a) Any person who wishes to offer their services as a scribe must create an account with the
+          RRBs at rrbapply.gov.in and register there themselves as a scribe using their account
+          credentials. Upon successful registration, a registration number (OTR number) will be generated
+          and sent to the scribe’s registered mobile number.
+
+       b) Candidates who are eligible for scribe as described at para 14.8, 14.9 and14.10 above and wish
+          to avail the scribe facility must opt for scribe in their online application. Candidates who have
+          opted for a scribe in their online application must furnish their scribe details during a five-day
+          window that will be provided immediately after the closure of the Modification window. Such
+          candidates must log in to the application portal and enter the scribe’s OTR number. An OTP will
+          be sent to the scribe’s registered mobile number. The candidate must obtain this OTP from the
+          scribe and enter it on the portal to confirm the scribe.
+
+       c) A Separate e-Call Letter will be issued to scribe accompanying a candidate. The scribe must
+          carry the original and valid identity proof used during registration on the day of the examination.
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                             P a g e 23 | 57
+14.16 The following points must be noted by the candidates eligible for a scribe before engaging any
+      person as a scribe:
+
+     a) Any candidate who is using scribe should ensure that he/ she is eligible to use scribe in the
+           examination as per the guidelines. Any candidate who is not eligible to use scribe as per
+           guidelines, as referred above, uses scribe and/ or compensatory time in the online examination
+           shall be disqualified to participate further in the process of recruitment. Any candidate using
+           scribe in violation of the above guidelines can be removed from the service without notice, if
+           already joined the Railway Service.
+
+     b) A person shall function as a scribe only after completing One Time Registration (OTR) as scribe
+           with RRBs at rrbapply.gov.in
+
+     c) A scribe shall not give assistance to more than one candidate in the same examination.
+
+     d) A candidate applying for the examination cannot act as a scribe for another candidate in the
+           same CEN. Both the scribe and the candidate must submit a declaration to this effect. If, at any
+           stage, it is found that a candidate has assisted another candidate as Scribe for the same
+           examination, the candidature of both the candidates will be cancelled.
+
+     e) The educational qualification of the candidate’s own scribe should be one step below the
+           qualification of the candidate taking the examination.
+
+     f) Candidates must ensure that the information furnished in respect of the scribe is accurate. If at
+           any stage during or after the examination, it is found that a candidate has availed the facility of
+           scribe and the scribe is found to be an impersonator and / or any information furnished by the
+           scribe or the candidate is found to be false or incorrect, the candidate shall be held fully
+           responsible, and his/her candidature shall be cancelled immediately.
+
+     g) The candidate shall be responsible for any misconduct on the part of the scribe brought by
+           him/her during the examination.
+
+     h) During the examination, at any stage, if it is found that scribe is independently answering / solving
+           the questions himself, the examination session for such candidate will be terminated, and
+           candidate’s candidature will be cancelled. The candidature of such candidates using the services
+           of a scribe will also be cancelled if it is reported after the examination by the test administrator
+           personnel that the scribe independently answered the questions.
+
+     i) Change of Scribe at the Examination Centre:
+
+            Change of Scribe at the exam venue is generally not permitted. However, under exceptional
+             circumstances the change may be allowed duly recording reasons. The new scribe should have
+             registered with the RRBs as a scribe, and a copy of the One-Time Registration (OTR) printout
+             must be submitted at the examination centre. Additionally, new scribe should meet all other
+             criteria applicable to scribe as brought out under para 14.17. The candidates shall fill up details
+             in “change of Scribe" form and ‘letter of undertaking for using scribe’ form.
+            If these requirements are not met, the RRB may assign a scribe at its discretion, provided the
+             candidate still wishes to avail the scribe facility. The qualification of the scribe provided by RRB
+             will not be more than the minimum qualification of the CEN. However, the qualification of the
+             scribe would always be matriculate or above.
+
+14.17 Candidates eligible to use the services of a scribe, as outlined in Paras 14.8, 14.9 and 14.10 may
+      avail the facility of a scribe and/or compensatory time, if they so desire.
+
+
+    CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                P a g e 24 | 57
+       a) A compensatory time of 20 minutes per hour of examination will be provided to candidates
+          permitted to use a scribe, as specified in the above-mentioned paragraphs.
+
+       b) Candidates referred to in Paras 14.8, 14.9 and 14.10, who are eligible for the use of a scribe but
+          choose not to avail the facility, may also be granted compensatory time of 20 minutes per hour
+          of examination, if they so desire.
+
+14.18 Conditions regarding engagement of scribe shall be subject to various provisions/orders of the
+      competent authority, as amended from time to time.
+
+ 15. NO OBJECTION CERTIFICATE (NOC) FOR SERVING EMPLOYEES:
+15.1 Candidates serving (including those undergoing induction training/probation) in any Central/State
+       Government Department including Railways or Public Sector Undertakings may apply directly to
+       the RRBs duly informing their Employer. It is the sole responsibility of shortlisted candidates to
+       produce NOC from the employer within the prescribed time limit/ during document verification,
+       failing which their candidature will be cancelled.
+
+15.2     Candidates should note that incase a communication is received from their employer by the RRB
+         concerned withholding permission to the candidates applying for/appearing at the examination,
+         their application/candidature will liable to be rejected/cancelled.
+
+
+16. RECRUITMENT PROCESS:
+        Only single ONLINE application has to be submitted by the candidate through the link provided on
+        the official websites of RRBs. Candidate can apply to only one RRB. Selection of RRB once
+        exercised shall be final. Application to more than one RRB will lead to rejection of all applications.
+        The recruitment process shall involve
+             a. Single Stage Computer Based Test (CBT),
+             b. CBAT and
+             c. Document Verification
+             d. Medical Examination.
+         Selection is made strictly as per merit, on the basis of above-mentioned recruitment stages. The
+         date, time and venue for all the activities viz. CBT, CBAT, Document Verification, Medical
+         Examination or any other additional activity as applicable shall be fixed by the RRBs and shall be
+         intimated to the eligible candidates in due course. Request for postponement of any of the above
+         activity or for change of venue, date and shift will not be entertained under any circumstances.
+
+         During the ONLINE APPLICATION, candidates will be asked to ‘Create Account’. If a candidate
+         has already created an Account for CENs notified in 2024, 2025 & 2026, they should use same
+         account credentials to log in and apply for this CEN as well. If the candidates have not created an
+         Account earlier, they must first ‘Create an Account’ before proceeding to fill up the application for
+         this CEN. Candidates are advised to fill in the details required for account creation with utmost
+         care, as corrections of any kind will not be permitted once the account is created. Details filled
+         in the ‘Create an Account’ form (including mobile number and Email ID) cannot be modified
+         at any stage once the account is created.
+
+16.1     Computer Based Test (CBT)
+
+             a.   Total Duration: 120 minutes
+             b.   Total Questions: 100
+             c.   There will be negative marking and 1/3 mark shall be deducted for each wrong answer.
+             d.   Normalization will be done for CBT held in multiple shifts.
+        The CBT is of screening nature and the standard of questions for the CBT will be generally in
+        conformity with the educational standards prescribed for the posts.
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 25 | 57
+ The normalized score of CBT shall be used for short listing of candidates for CBAT as per their
+ merit.
+ Candidates who are shortlisted for CBAT availing the reservation benefits of
+ OBC(NCL)/SC/ST/EWS and ExSM shall continue to be considered only against
+ OBC(NCL)/SC/ST/EWS and ExSM for all subsequent stages of recruitment process.
+
+Syllabus For CBT: The Questions will be of objective type with multiple choices and are likely to
+include questions pertaining to:
+  1) Analytical and Mathematical Capability
+   a. Mathematics:
+     Number System, Ratio & Proportions, Averages, Percentages, Profit, Loss & Discounts,
+     Time, Speed, Distance, Power & Work, Algebra, Linear Equations. Arithmetic Progression,
+     LCM, HCF, Geometry, Area & Volumes, Probability and Statistics (Both only Basic Level).
+   b. Data Analysis & Interpretation
+     Multi-source Data Analysis - Examination, analysis and Inference drawing from text, tabular
+     data and data represented graphically (charts, graphs, scatter plot, pie chart, statistical curve
+     distribution, Venn Diagrams.
+     Data Sufficiency, Data Arrangement.
+  2) Logical Capability
+   a. Logical Reasoning
+     Binary Logic, Syllogism, Clocks & Calendars, Assumptions, Blood Relations, Family Tree,
+     Solving logic-based puzzles.
+   b. Reading Comprehension
+       Reading Comprehension Passages and Questions would be given in English language
+       from any subjects on History, Society, Literature, Science. Environment, Abstract, Mythology,
+       Technology and Culture and the candidate would be required to understand and answer
+       questions on the –
+      Main idea,
+     Supporting idea,
+     Application,
+     Logical Structure &
+     Style of the given Paragraph.
+  3) Mental Reasoning
+
+     Analogy - Identifying relationship between two items and applying it to another pair,
+     Series Completion - Identifying the pattern in a sequence of numbers and predicting the next
+     term,
+     Solving Coding-Decoding type questions,
+     Solving Ranking and Arrangements based problems.
+
+It may be noted that the topics listed above are illustrative and not necessarily exhaustive.
+
+Section Wise Distribution.
+
+     Exam                      No. of Questions (each of 1mark)
+                                                                                   Total No. of
+   Duration in    Analytical and                       Mental Reasoning             Questions
+                                 Logical Capability
+    Minutes       Mathematical
+                    Capability
+       120             60                20                    20                     100
+
+  The section wise distribution given in the above table is only indicative and there may be some
+  variations in the actual question papers.
+
+
+
+CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 26 | 57
+         Minimum percentage of qualifying marks for eligibility in various categories: UR-40%, EWS-
+         40%, OBC (Non creamy layer) -30%, SC-30%, ST-25%. This is also applicable to Ex-
+         servicemen candidates, as per their community. These percentages of qualifying marks for
+         eligibility may be relaxed by 2 marks for PwBD candidates in case of shortage of PwBD
+         candidates against vacancies reserved for them.
+
+16.2     Computer Based Aptitude Test (CBAT)
+
+         Candidates equal to 8 times the number of vacancies will be selected from each of the communities
+         i.e. UR, OBC-NCL, SC, ST and EWS (including ExSM) for the CBAT. They shall be short listed
+         based on their performance in CBT. Such shortlisted candidates should produce the Vision
+         Certificate in the prescribed format as per Annexure VI/ Annexure VIA in Original during
+         CBAT, failing which they will not be permitted to appear in the CBAT.
+
+         The CBAT shall have questions and answer options only in English and Hindi.
+
+         Qualifying marks: The candidates need to secure a minimum T-Score of 42marks in each of the
+         test batteries to qualify. This is applicable to all candidates irrespective of community or category
+         i.e. irrespective of SC/ST/OBC-NCL/EWS/ExSM/PwBD and no relaxation in the minimum T- Score
+         is permissible.
+
+         Candidates will have to qualify in each of the test batteries of CBAT for considering them for the
+         post of Section Controller.
+
+         There shall be no negative marking in CBAT.
+
+         The merit list will be drawn only from amongst the candidates qualifying in the CBAT, with 70%
+         weightage for the marks obtained in the CBT and 30% weightage for the marks obtained in CBAT.
+
+        For information on CBAT, candidates are advised to check the following website links of RDSO –
+        (i) rdso.indianrailways.gov.in -> Verticals -> Traffic and Psychology -> Psychology-Candidate’s
+        Corner,
+        and
+        (ii) https://rdso.indianrailways.gov.in/view_section.jsp?lang=0Gid=0,2,456,5821,611G.
+
+         The merit will be drawn only for the candidates qualified in the CBAT.
+
+16.3     Document Verification (DV):
+
+         Based on the performance of candidates in CBAT, a merit list will be drawn with 70% weightage
+         for the marks obtained in CBT and 30%weightage for marks obtained in CBAT. Candidates equal
+         to the number of vacancies will be called for Document Verification as per their merit and railway
+         options.
+
+         In case of two or more candidates securing same marks, their merit position shall be determined
+         by age criteria i.e., older person shall be placed at higher merit and in case age being same, then
+         alphabetical order (A to Z) of the given name (not surname) shall be taken into account to break
+         the tie. Appointment of selected candidates is subject to their passing requisite Medical
+         Examination to be conducted by the Railway Administration, final verification of educational and
+         community certificates and verification of antecedents/character of the candidates. Candidates
+         may please note that RRBs only recommend names of the empaneled candidates and
+         appointment is offered ONLY by the respective Railway Administrations.
+
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                            P a g e 27 | 57
+         During Document Verification, candidates will have to produce their original certificates. No
+         additional time will be given and the candidature of the candidate not producing their original
+         certificates on the date of verification is liable to be forfeited.
+
+16.4     NORMALISATION OF MARKS:
+
+        Short listing of Candidates for various stages shall be based on the normalized marks obtained by
+        them whenever CBT is conducted in multiple sessions for the same syllabus.
+
+
+17. HOW TO APPLY
+
+17.1     Candidates must read all the information and instructions given in the detailed CEN carefully
+         before filling the ONLINE application to prevent mistakes.
+
+17.2     Create an Account
+
+        Create an Account with RRBs:
+
+      Candidate must first create an account for this CEN by using the link provided on the official RRB
+       websites listed at Para 19 below. Candidates who have already created an account for previous RRB
+       CENs should use the same login credentials to apply for this CEN as well using the link provided on the
+       official websites of RRBs.
+      A valid personal mobile number and active email ID are mandatory for receiving OTPs required during
+       account creation.
+      No changes will be allowed to the details entered in the “Create an Account” form later, including
+       the mobile number and email ID.
+      Therefore, candidates are strongly advised to enter all information carefully and accurately, as no
+       corrections or modifications will be permitted after account creation.
+
+17.3     Identity Authentication Advisory
+
+•         Candidates are strongly advised, in their own interest, to authenticate their identity using Digi
+          Locker or Aadhaar during the “Create an Account” process.
+•         Doing so will facilitate a smoother and faster verification at various stages of the recruitment process.
+•         Please note that applicants who choose to verify their identity through alternate Photo IDs will be
+          subject to significantly stricter and more detailed scrutiny at every stage of recruitment.
+17.4     General Guidelines for submission of Online applications
+
+a) Candidates must use only the link provided on the official RRB websites for applying against this CEN.
+   Please read all the information and instructions given in the detailed CEN carefully before filling up the
+   ONLINE application.
+b) Candidates must fill the ONLINE application form with correct information and re-check before
+   submission.
+c) Applicant will not be able to make any correction in the ONLINE application after submission of the
+   application. (except during application modification window on payment of extra fee)
+d) Medium of Examination: Questions for CBT will be available in English, Hindi and 13 regional Indian
+   languages (viz., Assamese, Bengali, Gujarati, Kannada, Konkani, Malayalam, Manipuri, Marathi, Odia,
+   Punjabi, Tamil, Telugu and Urdu). Accordingly, candidates must choose their medium of examination
+   from any one amongst those listed in the ONLINE application form. No Change shall be allowed in the
+   language option once selected at the application stage. CBT questions will be displayed in the language
+   opted and in English.
+e) Order of Zone Preferences under chosen RRB: The candidate must provide order of Zone preference
+   for the notified post.
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 28 | 57
+f)  After submission of application, candidate will be directed to opt for the mode of payment of examination
+    fee as explained in para 10.1 and complete the payment process.
+ g) IMPORTANT: Please be cautious about the genuineness of the mode of payment as well as Last Date
+    for payment of Application fee payment for the submitted applications against this CEN. While making
+    payment avoid unauthorized websites.
+ h) Finally, acceptance of ONLINE application will happen only after receiving confirmation of fee payment.
+    The applicant will receive a confirmation on successful payment ONLINE through email & SMS.
+ i) Multiple applications to different RRBs or same will lead to rejection of all applications, disqualification
+    and debarment from the recruitment process. RRB
+17.5 Live Photo Capturing of the Candidate during ApplicationInstructions for Capturing Live
+       Photograph of the candidate During Application:
+
+a) Candidates are not required to upload a pre-existing photograph while applying.
+b) The application module is designed to capture a live photograph of the candidate at the time of filling up
+   the application form.
+c) Live photo may be captured by web cam or by front camera (screen side camera) of the mobile phone.
+d) Ensure to dress yourself in non-white clothing, preferably in dark colours, to maintain contrast with the
+   background
+e) For this purpose, the candidate must stand or sit in front of the camera when prompted by the application
+   module and carefully follow the instructions below:
+
+•        Ensure that the camera is positioned at eye level before capturing the photograph.
+•        Position yourself directly in front of the camera and look straight ahead with a neutral expression.
+•        Make sure your entire face is clearly visible and centered within the frame shown by the application
+         module.
+•        Ensure that your face is neither too close nor too far from the camera, and no part of the head or
+         face is outside the delineated frame.
+•        Do not wear a cap, mask, or glasses/spectacles while capturing the photograph.
+•        Candidates may preview their captured photo and retake it if they are not satisfied with the image,
+         until their application is submitted
+•        Applications with photographs that do not comply with these guidelines are liable to be rejected.
+•        The candidate’s appearance during the entire process of recruitment must match the photograph
+         submitted with the application.
+•        “The Live photograph captured is subjected to some validations and matching. If not
+         matched, the candidate has to download the Annexure-IX (after confirming suitable
+         declarations) from online application, and the same needs to be uploaded, duly signed by a
+         Gazetted Officer as a valid proof of identity”
+
+         Important Note: (i) Candidates must not attempt to take a picture of a printed or digital pre-existing
+         photograph. Any application where such an image is submitted will be summarily rejected.
+
+         (ii) Suitable relaxation are provided in the portal to the Persons with Benchmark Disabilities who
+         may choose relevant options, as the case may be.
+
+17.6     Mandatory scanned documents to be kept ready for uploading during the on-line
+         application.
+
+          The following need to be uploaded
+
+1) Candidate Signature in JPG/JPEG format as per specifications given in the CEN
+
+2) SC/ST Certificate (For Candidates Requesting Free Train Travel Pass) in PDF format as per
+   specification given in the CEN
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                             P a g e 29 | 57
+   17.7     Candidate Signature: Candidates are required upload scanned copy of their signature, as
+            per the specifications given below:
+
+   •         The signature must be signed by the candidate only.
+   •         Use a black ink pen on white paper.
+   •         The signature must be, in running handwriting (i.e., cursive/joined letters), NOT in BLOCK,
+             CAPITAL, or DISJOINED letters. The signature should be clear, legible, and entirely visible within
+             the scanned area
+
+Specifications for signature:
+
+   •         Scan the signed paper using a minimum resolution of 100 DPI.
+   •         Image file format: JPG/JPEG only
+   •         File size: Between 30 KB and 49 KB
+   •         Image dimensions: Minimum 140 pixels (width) × 60 pixels (height)
+   •         The scanned signature must be positioned within the designated scan box on the application
+   •          form: Box size: 50 mm (width) × 20 mm (height). The signature image should be centered within
+             this box
+
+
+Grounds for Rejection of Online Applications Related to Signature:
+
+           Online applications and the candidature of the candidate for the CEN will be liable for rejection at
+           any stage of recruitment process on the following signature-related grounds:
+
+   •         Use of a non-white background
+   •         Use of non-black ink for the signature
+   •         Signature written in BLOCK or CAPITAL letters instead of running handwriting
+   •         Poor resolution or unclear signature image
+   •         Incomplete or partially visible signature
+   •         Uploading an image other than the signature
+   •         No signature (blank)
+   •         Thumb impression in place of signature
+   •         Signature of the person other than the applicant.
+
+           Candidates must ensure that their signature image fully complies with the prescribed requirements
+           to avoid rejection at any stage of the recruitment.
+
+Important: The signature on the application must match with the signatures captured during:
+
+         Examinations
+         Document Verification (DV)
+         Medical Examination (ME)
+         Appointment
+           Note: Some categories of Person with Benchmark Disabilities whose disability prevents from signing
+           are allowed to upload the scanned of any of the one fingerprint as may be feasible in the following
+           order- Left hand thumb, Right hand thumb, any finger of the hands, any toes of the feet.
+
+
+   17.8     SC/ST Certificate (For Candidates Requesting Free Train Travel Pass)
+
+           Candidates belonging to SC/ST categories who wish to avail free railway travel pass must upload a
+           scanned copy of their SC/ST certificate with the following specifications:
+
+         The document must be in PDF format only.
+
+          CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                           P a g e 30 | 57
+      File size should be less than 400 KB.
+      The certificate must be legible, clear, and easily readable.
+      It must be the latest and valid certificate as on the closing date of online application submission.
+
+17.9     Assistance of Scribe: Instructions given in Para 14.7 to 14.18 to be followed.
+
+17.10 Modification of Submitted Application Details
+
+         After the final submission of the online application with requisite fee, if a candidate wishes to further
+         modify, change or correct any details (except the details filled in the ‘Create an Account’ form
+         and the chosen RRB), he/she may do so by paying a non-refundable modification fee of ₹ 250
+         per modification.
+
+•         Details entered in the ‘Create an Account’ form and the ‘Chosen RRB’ cannot be changed
+          under any circumstances.
+•         The modification window will open from 17.08.2026 to 26.08.2026
+•         Requests for modification will not be accepted after 26.08.2026
+•         Candidates are advised to verify all information carefully before the deadline.
+
+18. Candidates can use the services of the Common Service Centre (CSC) Ministry of Electronics
+   and Information Technology, Government of India under the Digital India initiatives for
+   submitting ONLINE applications. The Common Services Centre (CSC) scheme is a part of the
+   National eGovernance Plan (NeGP) of the Government of India and is managed at each village
+   panchayat level by a Village Level Entrepreneur (VLE). There are more than 1.5 lakhs Common
+   Services Centres (CSC) across the country which will provide the desired support to
+   candidates from urban as well as rural areas in the ONLINE submission of the Application
+   Form and payment of fee through e-wallet. The list of the Common Services Centre is available
+   on the website: www.csc.gov.in. To know the nearest Common Services Centre, please open
+   the link - Find My CSC (https://findmycsc.nic.in/csc/)
+
+19. Candidates are advised to visit official RRB websites frequently for authentic information
+   and regular updates on various stages of the recruitment process or any changes in this
+   notification.
+
+     List of RRB Websites
+     Ahmedabad                      Chandigarh                     Mumbai
+     www.rrbahmedabad.gov.in        www.rrbcdg.gov.in              www.rrbmumbai.gov.in
+     Ajmer                          Chennai                        Muzaffarpur
+     www.rrbajmer.gov.in            www.rrbchennai.gov.in          www.rrbmuzaffarpur.gov.in
+     Prayagraj                      Gorakhpur                      Patna
+     www.rrbald.gov.in              www.rrbgkp.gov.in              www.rrbpatna.gov.in
+     Bengaluru                      Guwahati                       Ranchi
+     www.rrbbnc.gov.in              www.rrbguwahati.gov.in         www.rrbranchi.gov.in
+     Bhopal                         Jammu-Srinagar                 Secunderabad
+     www.rrbbhopal.gov.in           www.rrbjammu.nic.in            www.rrbsecunderabad.gov.in
+     Bhubaneswar                    Kolkata                        Siliguri
+     www.rrbbbs.gov.in              www.rrbkolkata.gov.in          www.rrbsiliguri.gov.in
+     Bilaspur                       Malda                          Thiruvananthapuram
+     www.rrbbilaspur.gov.in         www.rrbmalda.gov.in            www.rrbthiruvananthapuram.gov.in
+                                          rrb.indianrilways.gov.in
+
+        Note: in addition to the existing websites of individual RRBs, a new unified common RRB
+        website is now available at rrb.indianrilways.gov.in for the candidates to access
+        information, updates, notifications and other relevant details related to RRB recruitments .
+
+    (a) The onus of proving the validity of the information submitted in the online application with original
+        documents, will lie on the candidates.
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                          P a g e 31 | 57
+      (b) IMPORTANT:
+
+         (i) All the communication regarding important selection process shall be advised through the
+               concerned RRB official websites.
+         (ii) However, in addition to the above, Candidates must keep their personal mobile number and
+               personal e-mail ID active throughout the recruitment process, so that communication can be sent
+               through SMS and/or email.
+         (iii) RRBs will not entertain any request for change of mobile number and e-mail address at any stage.
+         (iv) Candidates are advised to carefully note and remember their Registration Number for further
+               stages of recruitment process and correspondence with RRBs.
+
+     20. MODIFICATION OF APPLICATION:
+
+
+a)       After the final submission of the ONLINE application, if a candidate wishes to further modify any details,
+         except details filled in ‘Create an Account’ form (including mobile number and Email ID) and Chosen
+         RRB, he/she may do so by paying a modification fee of Rs. 250/-(non-refundable) for each occasion.
+         Details filled in ‘Create an Account’ form (including mobile number and Email ID) and Chosen RRB
+         cannot be changed.
+b)       The modification fee is to be paid by all candidates irrespective of community and category.
+c)       In the case of a candidate modifying his community from SC/ST to UR or OBC or EWS, he will have
+         to pay the difference in examination fee i.e. Rs.250 in addition to the modification fee. In case of failure
+         to do so, his modified application will not be accepted.
+d)       Similarly, if a candidate is switching from Ex.SM/Female/Transgender/PwBD to
+         UR/OBC(NCL)/EWS/Non Ex.SM/Non PwBD, Male etc., he will have to pay the difference in
+         examination fee i.e., Rs. 250 in addition to the modification fee. In case of failure to do so, his modified
+         application will not be accepted.
+e)       Modifications of ONLINE application will be allowed any number of times on payment of the
+         modification fee for each occasion.
+f)       ONLINE Modifications to the ONLINE application, along with the payment of the modification fee, will
+         be permitted up to 10 (ten) days after the Last Date for Application fee payment for the submitted
+         applications, i.e., 16.08.2026 (23:59 hrs) for this CEN. The modification window will remain open
+         from17.08.2026 to 26.08.2026. After this period, RRBs shall not entertain any representation for
+         modification of the information furnished in the application.
+     21. INVALID APPLICATIONS / REJECTIONS:
+
+      (a) Online applications will be liable for rejection on the following grounds amongst others:
+
+          i) Multiple applications to different RRBs or same RRB for the same Pay Level post. In such case,
+               all the applications will be rejected summarily and such candidates will be debarred from all future
+               RRB and RRC exams.
+          ii) Noncompliance to instructions given at para 17.5 for capturing live photo image of the candidate
+               will lead to rejection of the candidature at any stage of the recruitment process.
+          iii) Noncompliance to instructions given for uploading signature under 17.7 will result in rejection of
+               the candidature at any stage of the examination.
+          iv) Candidate's name figuring in the debarred list of any RRB/RRC.
+          v) Any other irregularity including the deviations listed in above paras under 21(a) which is/are found
+               during application scrutiny stage, before/after issue of e-call letters for CBT or during Document
+               verification
+
+      (b) Rejected Applications: Details of rejected applications can be viewed on the website of the RRB
+          concerned by logging in, along with the reason(s)for rejection which will be final and binding and no
+          further correspondence shall be entertained on the subject. No refund of examination fee will be made
+          on account of rejection of applications. SMS and e-mail alerts shall also be sent to the candidates on
+          their registered mobile numbers and e-mail IDs. Candidates will not be intimated by post.
+
+
+
+
+        CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                               P a g e 32 | 57
+22. Instructions Related to E-Call letter:
+
+   (a) Information and details regarding the CBT and CBAT schedules and “link for downloading the E-call
+       letters” will be given on the websites of the RRBs. Eligible candidates will also be informed via SMS
+       and registered email. However, candidates should regularly visit the official websites of RRBs as
+       there can be failure in delivery of SMS/E-mail to the candidates due to reasons beyond control of
+       RRBs.
+   (b) Eligible candidates can download their e-call letter (and for scribe, where applicable) for the CBT &
+       CBAT from the RRB websites as given at Para 19.0 about 4 (four) days before the date of CBT&
+       CBAT. However, intimation about the city of examination shall be given about 10 (ten) days in
+       advance.
+   (c) No call letter will be sent to candidates by post.
+   (d) Detailed information and instructions regarding the CBT and CBAT will be given along with
+       the e-call letter. Candidates should read and follow them scrupulously. Failure to comply with
+       the instructions may lead to their disqualification.
+   (e) Free Travel Facility: In case of SC & ST candidates who are eligible and opt for free train
+       travel, their e-call letter itself will contain the free travel authority (sleeper class railway pass).
+       Such SC & ST candidates will be allowed to book train reservation by submitting a self-
+       attested photocopy of their e-call letter and SC/ST certificate at the ticket booking counter.
+       During the journey, SC & ST candidates should carry their original community certificate and
+       an original prescribed proof of identity for undertaking journey failing which they will be
+       treated as travelling without ticket and charged accordingly.
+   (f) During the examination, candidates must bring their e-call letters along with a valid ORIGINAL
+       Photo ID (viz., Voter ID-Card, Aadhaar card, printout of e- Aadhaar, driving license, PAN card,
+       passport, valid identity card issued by the employer in case the candidate is a govt. employee,
+       School / College / University photo ID card (if still studying), etc.) to the examination hall, failing
+       which the candidates shall NOT be allowed to appear in the examination.
+   (g)     During the CBT/CBAT/DV/ME, candidates must bring a colour passport photograph that is not
+         older than two months from the date of the CBT/CBAT/DV/ME, as applicable. Candidates should
+         leave blank spaces provided in the downloaded e-Call letter for writing self-declaration paragraph
+         (as the paragraph will be displayed on the screen during CBT), signature and Left Thumb
+         Impression (LTI) unfilled while coming for the exam.
+     Warning: Candidates will have to write the paragraph of Self-Declaration, sign and affix LTI
+     at the venue of the CBT, CBAT in the presence of the invigilator at the Examination Hall
+     ONLY and hand over the same to the invigilator before the conclusion of the examination.
+     Candidates writing the self-declaration paragraph in advance and/or Signing in CAPITAL
+     letters will be rejected.
+   (h) RRB(s) will not entertain any request for any change in examination center, date and session
+       allotted to candidate(s).
+23. VERIFICATION OF ORIGINAL DOCUMENTS AND FORMAT OF CERTIFICATES:
+
+  (a) Candidates shortlisted for DV will have to submit all their original documents along with two sets of
+       self-attested photocopies at the time of DV.
+  (b) Further, these candidates should upload the scanned copies (in true colour) of Photo & Signature
+       before their DV date through the portal - https://oirms-ir.gov.in/rrbdv.
+  (c) All certificates should be either in English or Hindi only. Where certificates are not in English / Hindi,
+       self-attested translated version (in Hindi / English) should be produced wherever / whenever required.
+       Certificates produced during the DV should be strictly in the prescribed formats.
+  (d) No additional time will be given to the candidates not producing their original certificates on their date
+       of DV and the candidature of such candidates is liable to be cancelled.
+   (e) Candidates who were absent during the document verification will forfeit their candidature.
+
+     NOTES
+    i. Candidates who wish to be considered against vacancies reserved/or seek age- relaxation must
+         submit the requisite/relevant certificate in original from the competent authority, in the prescribed
+         format at the time of Document verification. Otherwise, their claim for SC/ST/OBC-
+
+   CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                P a g e 33 | 57
+      NCL/EWS/ExSM/PwBD status will not be entertained and their candidature/applications will be
+      considered under General (UR) category, if eligible. The certificates should be as per the formats
+      annexed.
+      Certificates obtained in any other format will not be accepted.
+   ii. The Educational Qualification Certificates viz, Provisional or Regular should contain the date of
+       issue. In case date of issue of these certificates is after the closing date for Submission of online
+       application, then the consolidated mark sheet with date of declaration of the result of final
+       qualifying exam or individual mark sheets of all the semesters/years with date of declaration of
+       result on each should be submitted. In case of non-availability of date in any of these mark
+       sheets/certificates, a certificate from the Institution/ University/Board to this effect (indicating date
+       of declaration of result) should be produced at the time of document verification.
+
+
+24. USE OF UNFAIR PRACTICES:
+ (a) Any candidate found resorting to unfair means for any kind during any stage of recruitment process
+     such as forgery, impersonation, cheating, misconduct, use of attempt to use of banned items, mis-
+     representation or suppression of facts, providing a wrong information or submitting a false document
+     etc., will be debarred from appearing in all the examinations of all the RRBs and RRCs for lifetime.
+     He/she will also be debarred from appointment in the Railways and if already appointed, he/she shall
+     be dismissed from service. Such candidate is also liable to face appropriate legal action as deemed
+     fit [Attention to be drawn to Act “The Public Examinations (Prevention of Unfair Means) Act and Rules
+     2024]
+ (b) Any use of unwarranted and unfair influence to further undue interests in respect of the recruitment
+     process, shall lead to disqualification and debarment of the candidate concerned.
+ (c) WARNING: Beware of unscrupulous elements and job racketeers offering appointment in the
+     Railways - either through influence or by use of unfair and unethical means. RRBs do not
+     appoint any agent or coaching centres for recruitment. Candidates are warned against any
+     such claims being made by any person or agency. Candidates are selected purely on merit.
+ (d) The RRBs undertake comprehensive post-examination analysis to ensure the integrity and fairness
+     of the examination process. This includes detailed scrutiny through log analysis, photograph and
+     biometric verification, and CCTV footage review. Candidates found to be involved in any form of
+     malpractice or unfair means during any stage of the examination are liable to strict action, including
+     cancellation of the candidature and debarment from future examinations of all the RRBs and RRCs
+
+25. MISCELLANEOUS:
+ (a) Biometric details of candidates will be recorded at every stage of the recruitment process. In case of
+     any mismatch, RRBs concerned shall reserve the right to disqualify a candidate and take appropriate
+     legal action on that basis.
+ (b) RRBs also reserve the right to conduct additional authentication procedures to cross-verify the
+     identity and carry out background checks of any candidate.
+ (c) RRBs reserve the right to conduct additional CBT/ DV (as required) at any stage. RRBs also reserve
+     the right to cancel part or whole of any recruitment process at any stage for any of the categories
+     notified in this CEN without assigning any reason thereof. Further, RRBs reserves the right to
+     reschedule any CBT/DV due to technical constraints /unavoidable circumstances
+ (d) The decision of RRBs in all matters relating to eligibility, acceptance or rejection of ONLINE
+     applications, issue of free rail passes, penal action for false information, modification of vacancies,
+     mode of selection, conduct of CBT, allotment of examination centres, selection, allotment of posts to
+     selected candidates, etc., will be final and binding on the candidates and no enquiry or
+     correspondence will be entertained by the RRBs in this regard.
+ (e) RRBs will not be responsible for any inadvertent/typographical errors and reserves the right to correct
+     such errors. Due to inadvertent /typographical error(s), if any candidate is either shortlisted for
+     CBTs/DV or result declared or empanelled or appointed, RRB reserves the right to cancel / modify
+     the results and also cancel / modify empanelment of such candidates and if already appointed,
+     he/she shall be liable to be removed from service, duly ensuring principle of merit and equality of
+     opportunity, as a fundamental basis.
+ (f) Any legal issues arising out of this CEN after his/her Application provisionally accepted and received
+     e-call letter to CBT, shall fall within the legal jurisdiction of respective Central Administrative Tribunals
+     /High Court under which the candidate chosen RRB concerned is located. However, in case of
+     rejection of his/her candidature due to rejection of application on account of any reason whatsoever,
+  CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                  P a g e 34 | 57
+         then, any legal issues arising out of this CEN, shall fall within the legal jurisdiction of Central
+         Administrative Tribunal, Mumbai /High Court for the State of Maharashtra.
+     (g) Candidates are advised to check the official RRB websites for any Amendment/Corrigendum/
+         Important Notice issued against the specified notification for taking necessary action from time to
+         time.
+     (h) In the event of any dispute about the interpretation, the English version of notification and subsequent
+         Amendment/Corrigendum /Important Notice as published in official RRB websites will be treated as
+         final.
+
+  26. Abbreviations used in this CEN:
+
+Stages of RecruitmentCBT = Computer Based Test, CBAT= Computer Based Aptitude Test, DV = Document Verification,
+Process              ME = Medical Examination
+Reservation / AgeEBC = Economically Backward Class, ExSM = Ex-Serviceman, EWS- Economically Weaker
+relaxation Category Section, OBC-NCL = Other Backward Classes-Non-Creamy Layer, OBC-CL = Other Backward
+                     Classes-Creamy Layer, EWS = Economically Weaker Section, SC = Scheduled Caste, ST =
+                     Scheduled Tribe, UR = Unreserved (General) PwBD = Person with Benchmark Disability
+ Disabilities         VI = Visually Impaired (B=Blind & LV=Low Vision), HI = Hearing Impaired (D=Deaf,
+                     HH=Hard of Hearing), LD =Locomotor Disability (OA=One Arm, OL=One Leg,
+                     OAL=One Arm-Leg, BL=Both Legs, DW=Dwarfism, CP=Cerebral Palsy, AAV=Acid
+                     Attack Victim, LC=Leprosy Cured, MDy=Muscular Dystrophy, SD (Without
+                     N/LDf)=Spinal Deformity(without Neurological/Limb dysfunction), SI (Without N/L
+                     Df)=Spinal Injury (without Neurological/Limb dysfunction), OD = Other Disability, MD =
+                     Multiple Disabilities
+Railway Zones        CR = Central Railway, ECR = East Central Railway, ECoR = East Coast Railway, ER =
+                     Eastern Railway, NR = Northern Railway, NCR = North Central Railway, NER = North
+                     Eastern Railway, NFR = Northeast Frontier Railway, NWR = North Western Railway, SR =
+                     Southern Railway, SCR = South Central Railway, SER = South Eastern Railway, SECR =
+                     South East Central Railway, SWR = South Western Railway, WR = Western Railway, WCR
+                     = West Central Railway, RRB = Railway Recruitment Board, RRC = Railway Recruitment
+                     Cell.
+Railway Recruitment ADI = Ahmedabad, AII = Ajmer, PRYJ = Prayagraj, BCT = Mumbai, BBS = Bhubaneswar,
+Boards (RRBs)       BPL = Bhopal, BLSP = Bilaspur, BNC = Bengaluru, CDG = Chandigarh, GKP = Gorakhpur,
+                     GHY = Guwahati, JAT = Jammu Srinagar, KOL = Kolkata, MAS = Chennai, MLDT = Malda,
+                     MFP = Muzaffarpur, PNBE = Patna, RNC = Ranchi, SC = Secunderabad, SGUJ = Siliguri,
+                     TVC = Thiruvananthapuram
+General              CEN = Centralized Employment Notification, RTI= Right Thumb Impression, LTI= Left
+                     Thumb Impression, PSU= Public Sector Undertaking, PU= Production Unit, NOC = No
+                     Objection Certificate, IFSC = Indian Financial System Code, UPI = Unified Payment
+                     Interface. EQ= Educational Qualification, OTP= One Time Password, KB = Kilobyte, JPEG
+                     = Joint Photographic Experts Group.
+
+
+
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 35 | 57
+WARNING:
+   Beware of Touts and job racketeers trying to deceive by false promises of securing job in Railways
+    either through influence or by use of unfair and unethical means. RRB has not appointed any agent(s)
+    or coaching center(s) for action on its behalf. Candidates are warned against any such claims being
+    made by persons/agencies. Candidates are selected purely as per merit. Beware of unscrupulous
+    elements and do not fall in their trap. Candidates attempting to influence RRB directly or indirectly shall
+    be disqualified and legal action can be initiated against them.
+   Candidates are advised to visit only the official website of RRBs and beware of FAKE websites
+    and social media content put up by unscrupulous elements/touts.
+
+
+
+
+     CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                               P a g e 36 | 57
+Annexure-A
+                               CEN-03/2026: POSTPARAMETERS
+
+
+                                                                                     Minimum
+                              Level
+                Name of                       Med.        PwBD Suitability          Educational
+ S.N   Cat.No                   in    PAY
+                the post                      Std                                   Qualification
+                             7thCPC
+                                                     VI   HI      LD      OD   MD
+                                                               OA, OL,
+                                                                                     Graduate
+                                                                  SD
+                                                                                    Degree from
+                                                               (Without
+                 Section                             No                             recognized
+  1      1                     6      35400   A2          No   N/L Df),   No   No
+                Controller                                                          University or
+                                                                  SI
+                                                                                         its
+                                                               (Without
+                                                                                     equivalent.
+                                                                N/L Df)
+
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                    P a g e 37 | 57
+Annexure-B
+
+                                 CEN 03/2026 SECTION CONTROLLER
+                                RRB & ZONE-WISE VACANCY DETAILS
+  Cat.                                                                                 PWBD
+                  RRB            ZONE   UR    SC    ST    OBC     EWS   TOTAL   EXSM
+  No.                                                                                   (LD)
+               AHMEDABAD          WR     5     2     1     2       1     11      1         0
+                 AJMER            WCR    0     1     0     0       0     1       0         0
+                                  NCR    1     0     1     0       0     2       0         0
+               PRAYAGRAJ
+                                  NR     1     0     1     0       0     2       0         0
+               BENGALURU          SWR    4     2     0     2       0     8       1         0
+                                  WCR    2     1     0     1       0     4       0         0
+                 BHOPAL
+                                  WR     1     0     0     1       0     2       0         0
+              BHUBANESWAR         ECR    1     1     0     2       2     6       0         0
+                                  CR     1     0     0     1       0     2       0         0
+                BILASPUR
+                                 SECR    1     0     0     1       0     2       0         0
+               CHANDIGARH         NR     3     0     1     2       0     6       0         0
+                CHENNAI           SR     2     3     2     2       0     9       1         0
+               GORAKHPUR          NER    4     0     0     1       0     5       0         0
+                GUWAHATI          NFR    1     0     0     0       0     1       0         0
+   1         JAMMU-SRINAGAR       NR     0     0     0     0       0     0       0         0
+                                  ER     3     0     1     0       0     4       0         0
+                KOLKATA
+                                  SER    1     1     0     1       1     4       0         0
+                                  ER     1     0     0     2       0     3       0         0
+                 MALDA
+                                  SER    2     1     0     1       0     4       0         0
+                                  CR     5     0     0     1       0     6       0         0
+                 MUMBAI
+                                  SCR    0     0     0     0       0     0       0         0
+              MUZAFFARPUR         ECR    0     1     1     1       0     3       0         0
+                 PATNA            ECR    1     2     1     1       1     6       0         0
+                                  ECR    3     1     1     2       1     8       1         0
+                 RANCHI
+                                  SER    2     2     1     1       0     6       0         0
+              SECUNDERABAD        SCR    1     0     1     2       1     5       0         0
+                SILIGURI          NFR    2     1     0     1       1     5       1         0
+           THIRUVANANTHAPURAM     SR     2     0     0     1       1     4       0         0
+                                        50    19    12    29       9    119      5         0
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026           P a g e 38 | 57
+                                                                                                                             Annexure I
+
+
+                                         FORM OF CASTE CERTIFICATE FOR SC/ST
+  This is to certify that Shri*/Srimati/Kumari*.................................................................................................
+  son/daughter*                of ...................................................................................................... Village/Town
+  ……………...................................District/Division*. ................................................................... of
+  The....... ...............................................            State/Union                Territory*             belongs             to    the
+  … .................................................... Caste*/Tribe which is recognized as a Scheduled Caste/
+  Scheduled Tribe under: -
+@ The Constitution Scheduled Castes Order, 1950.
+@ The Constitution Scheduled Tribes Order, 1950.
+@ The Constitution (Scheduled Castes) (Union Territories) (Part C States) Order, 1951.
+@ The Constitution (Scheduled Tribes) (Union Territories) (Part C States) Order, 1951. [As amended by
+the Scheduled Castes and Scheduled Tribes Lists (Modification) Order, 1956; the Bombay Reorganisation
+Act, 1960; the Punjab Reorganisation Act, 1966; the State of Himachal Pradesh Act, 1970; the North-
+Eastern Areas (Reorganisation) Act, 1971; and the Scheduled Castes and Scheduled Tribes Orders
+(Amendment) Act, 1976.]
+@ The Constitution (Jammu and Kashmir) Scheduled Castes Order, 1956.
+@ The Constitution (Andaman and Nicobar Islands) Scheduled Tribes Order, 1959, as amended by the
+Scheduled Castes and Scheduled Tribes Orders (Amendment) Act, 1976.
+@ The Constitution (Dadra and Nagar Haveli) Scheduled Castes Order, 1962.
+@ The Constitution (Dadra and Nagar Haveli) Scheduled Tribes Order, 1962.
+@ The Constitution (Pondicherry) Scheduled Castes Order, 1964.
+@ The Constitution (Uttar Pradesh) Scheduled Tribes Order, 1967.
+@ The Constitution (Goa, Daman and Diu) Scheduled Castes Order, 1968.
+@ The Constitution (Goa, Daman and Diu) Scheduled Tribes Order, 1968.
+@ The Constitution (Nagaland) Scheduled Tribes Order, 1970.
+@ The Constitution (Sikkim) Scheduled Castes Order, 1978.
+@ The Constitution (Sikkim) Scheduled Tribes Order, 1978.
+@ The Constitution (Jammu & Kashmir) Scheduled Tribes Order, 1989.
+@ The Constitution (Scheduled Castes) Orders (Amendment) Act, 1990.
+@ The Constitution (Scheduled Tribes) Orders (Amendment) Ordinance Act, 1991.
+@ The Constitution (Scheduled Tribes) Orders (Amendment) Ordinance Act, 1996.
+@ The Constitution (Scheduled Castes) Orders (Amendment) Act, 2002.
+@ The Constitution (Scheduled Castes) Orders (Second Amendment) Act, 2002.
+@ The Scheduled Castes and Scheduled Tribes Orders (Amendment) Act, 2002.
+As amended from time to time.
+  2. Applicable in the case of Scheduled Castes/Scheduled Tribes persons who have migrated
+         from one State/Union Territory Administration.
+
+   This certificate is issued on the basis of the Scheduled Castes/ Scheduled Tribes Certificate issued to
+   Shri / Srimati *....................................................................father / mother* of Shri /
+   Srimati/Kumari…….……………………………………ofVillage/Town*……............
+   .........       in    District/ Division       *............................................of the State /Union
+   Territory*…………..…. who belongs to the…………….......................Caste*/Tribe which is
+   recognised as a Scheduled Caste / Scheduled Tribe in the Station/ Union Territory* issued by the
+   ................. dated…………………
+
+
+
+           CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                            P a g e 39 | 57
+3. Shri/Srimati / Kumari* ............................................................................ and/or*his/her*family
+Ordinarily resides in Village/Town* ........................................................... District/Division*
+………………………………….of the State/ Union Territory of ................................
+
+
+Place..................................                         Signature.......................................................
+Date...................................                         Designation..................................................
+
+
+                                                               (with seal of Office)
+                                                               State/ Union Territory................................................
+
+
+
+*Please delete the words which are not applicable. @
+Please quote the specific Presidential order.
+%Delete the Paragraph, which is not applicable
+Note: (a)The term ordinarily resides (s) ‘used here will have the same meaning as in Section 20 of the
+Representation of the People Act, 1950.
+Officers competent to issue Caste/Tribe certificates.
+1. District Magistrate / Additional District Magistrate / Collector / Deputy Commissioner / Additional
+Deputy Commissioner / Deputy Collector / 1st Class Stipendiary Magistrate /City Magistrate / Sub-
+Divisional Magistrate / Taluka Magistrate / Executive Magistrate / Extra Assistant Commissioner. (not
+below the rank of First-class Stipendiary Magistrate)2. Chief Presidency Magistrate / Additional Chief
+Presidency Magistrate / Presidency Magistrate. 3. Revenue Officers not below the rank of Tehsildar.
+4. Sub- Divisional Officer of the area where the candidate and / or his / her family normally reside(s).5.
+Certificates issued by Gazetted Officers of the Central or of a State Government Countersigned by
+the District Magistrate concerned. 6. Administrator/ Secretary to Administrator (Lakshadweep,
+Andaman and Nicobar Islands.
+
+
+
+
+        CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                   P a g e 40 | 57
+                                                                                                       Annexure II
+
+                                     OBC- NCL CERTIFICATE FORMAT
+
+FORMAT OF CERTIFICATE TO BE PRODUCED BY OTHER BACKWARD CLASSES (NCL) APPLYING FOR
+               APPOINTMENT TO POSTS UNDER THE GOVERNMENT OF INDIA
+
+   This is to certify that Shri/Smt./Kumari*........................................................................
+   son/daughter*of…………………………….of Village/Town* ........................ in
+   District/Division*........................in the State/Union Territory ............................... belongs to the
+   . .................................................... community which is recognized as a Backward Class
+   Under the Government of India, Ministry of Social Justice and Empowerment
+   Resolution No. ………………………. Dated ..................... **.
+
+
+  Shri/Smt./Kum..............................................................and/orhis/herfamilyordinarily
+  reside(s)inthe…....................................................District/Divisionofthe
+  ……...................................... State / Union Territory.
+
+  This is also to certify that he/she does NOT belong to the persons / sections (Creamy
+  layer) mentioned in column3 (of the Schedule to the Government of India, Department of
+  Personnel & Training OM No. 36012/22/93-Estt (SCT), dated 8.9.1993 and modified vide
+  Government of India, Department of Personnel and Training O.M.No.36033/1/2013-Estt. (Res)
+  dated 13.09.2017***.
+
+  Date:
+                                                   DISTRICTMAGISTRATE/DY.COMMISSIONER/
+                                                      ANY OTHER COMPETENT AUTHORITY
+
+      Office Seal
+   *Please delete the word(s)which are not applicable.
+   ** The authority issuing the certificate need to mention the details of Resolution of
+   Government of India, in which the caste of the candidate is mentioned as OBC.
+   ***As amended from time to time.
+  Note:
+  a) The term ‘Ordinarily resides’ used here will have the same meaning as in Section 20 of the
+     Representation of the People Act, 1950.
+  b) The authority competent to issue cast certificates are indicated below:
+          (i)     District Magistrate/Additional Magistrate/Collector/Deputy Commissioner/Additional
+                  Deputy Commissioner/Deputy Collector/1st Class Stipendiary magistrate/Sub-
+                  Divisional Magistrate/Taluka Magistrate/Executive Magistrate/Extra Assistant
+                  Commissioner (not below the rank of 1st Class Stipendiary magistrate).
+          (ii)    Chief Presidency Magistrate/Additional Chief Presidency Magistrate/ Presidency
+                  Magistrate.
+          (iii)   Revenue Officer not below the rank of Tahsildar and Sub-Divisional Officer of
+                  the area where the candidate and / or his family resides
+
+
+     CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                   P a g e 41 | 57
+                                                                                                                                Annexure II A
+
+
+                                       SELF DECLARATION BY OBC (NCL) CANDIDATES
+
+Proforma for declaration to be submitted by Other Backward Class Candidates during
+document verification, who had applied for the post against Centralized Employment
+Notification No.03/2026
+
+
+I,………….........................................................................................son/daughterof
+Shri...................................................................................residentofVillage/Town/City
+.................................................................., district .............................................................. State
+..........................................hereby declare that I belong to the..............................
+(indicate your sub caste) community which is recognized as a backward class by the Government
+of India for the purpose of reservation in services as per orders contained in Department of
+Personnel and Training Office Memorandum No. 36012/22/93- Estt.(SCT) dated 08.09.1993. It
+is also declared that I do not belong to persons/sections (Creamy Layer) mentioned in column 3
+of the Schedule to the above referred Office Memorandum dated 08.03.1993 and its subsequent
+revision through O.M.No.36033/1/2013-Estt. (Res) dated 27 05.2013 and 13.09.2017.
+
+
+
+
+  Place:                                                         Signature of the Candidate:
+
+  Date:                                                             Name of the candidate:
+
+                                                                   RRB Reg. No/Roll No.
+
+
+
+
+    CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                                    P a g e 42 | 57
+                                                                                    Annexure III
+                                   Government of India
+
+                  (Name& Address of the authority issuing the certificate)
+
+INCOME & ASSET CERTIFICATE TO BE PRODUCED BY ECONOMICALLY WEAKER SECTIONS (EWS)
+
+Certificate No.                                                                    Date:
+
+VALID FOR THE YEAR
+
+This is to certify that Shri/Smt./Kumari
+son/daughter/wife of                                  permanent resident of                           ,
+Village/Street                                Post Office                                   District
+in the State/Union Territory       Pin Code                                       whose photograph is
+attested below belongs to Economically Weaker Sections, since the gross annual income* of his/her
+―family‖** is below Rs. 8 lakh (Rupees Eight Lakh only) for the financial year
+                             . His/her family does not own or possess any of the following assets***:
+
+         I. 5 acres of agricultural land and above;
+         II. Residential flat of 1000sq.ft.and above;
+         Ill. Residentialplotof100sq.yards and above in notified municipalities;
+         IV. Residential plot of 200 sq. yards and above in. areas other than the notified
+               municipalities.
+1. Shri/Smt./Kumari                                                              belongs to the
+caste which is not recognized as a Scheduled Caste, Scheduled Tribe and Other Backward Classes
+(Central List).
+
+                                             Signature with seal of
+   Recent Passport size
+   Attested Photograph of
+                                             Office
+   the Applicant                             Name:
+                                             Designation:
+
+
+
+
+*Note1: Income covered all sources i.e. salary, agriculture, business, profession, etc.
+**Note 2: The term 'Family" for this purpose includes the person, who seeks benefit of reservation,
+his/her parents and siblings below the age of 18 years as also his/her spouse and children below the
+age of 18 years.
+***Note 3: The property held by a "Family' in different locations or different places/cities have been
+clubbed while applying the land or property holding test to determine EWS status.
+       The authority competent to issue Income and Assets Certificates are indicated below:
+       (i)     District     Magistrate/Additional       District     Magistrate/Collector/Deputy
+               Commissioner/Additional    Deputy Commissioner/        /1st  Class    Stipendiary
+               magistrate/Sub-Divisional Magistrate/Taluka Magistrate/Executive Magistrate/Extra
+               Assistant Commissioner.
+       (ii)    Chief Presidency Magistrate/Additional Chief Presidency Magistrate/ Presidency
+               Magistrate.
+       (iii)   Revenue Officer not below the rank of Tahsildar and
+       (iv)    Sub-Divisional Officer of the area where the candidate and / or his family resides.
+     CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                P a g e 43 | 57
+                                                                                                                  Annexure IV
+
+                       Income Certificate for ECONOMICALLY BACKWARD CLASSS
+
+
+
+ Proforma for Waiver of Examination Fees to be submitted by Economically Backward Class
+      (EBC) candidates at the time of document verification against CEN No 03/2026
+1. Name of Candidate: .......................................................................................
+
+2. Father‘s Name: .......................................................................................
+
+3. Age: .......................................................................................
+
+4. Residential Address: .......................................................................................
+
+5. Annual Family Income (In words & Figures): ...............................................................
+
+Date: .............................                                                     Signature:
+
+                                                                                         Name:
+
+Stamp of Issuing Authority:
+
+   Note: Economically Backward Classes will mean the candidates whose family income is less
+   than Rs 50,000/- per annum. The following authorities are authorized to issue income
+   certificates for the purpose of identifying economically backward classes:
+
+   (1) District magistrate or any other Revenue Officer up in the level of Tahsildar.
+   (2) Sitting Member of Parliament of Lok Sabha for persons of their own Constituency.
+   (3) Sitting Member of Parliament of Rajya Sabha for persons of the district in which these
+         MPs normally reside.
+   (4) Union Minister for any persons from anywhere in the country.
+
+
+
+
+    CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                            P a g e 44 | 57
+                                                                                                                   Annexure V
+                                                              DECLARATION
+
+         Proforma for Waiver of Examination Fees to be submitted by Minority
+        candidates at the time of document verification against CEN No 03/2026
+
+        I. .............................................................................................................. son /daughter
+Of Shri....................................................................................................residentof
+village/town/city.................................................................district................................
+state...........................................................herebydeclarethatIbelongtothe
+.......................................................... (Indicate minority community notified by Central Government
+i.e. Muslim /Sikh / Christian / Buddhist / Jain / Zoroastrians (Parsis).
+
+
+
+
+Date:                                                                                       Signature of the Candidate
+
+
+Place:                                                                                      Name of the Candidate
+
+
+Note: At the time of document verification such candidates claiming waiver of examination fee
+will be required to furnish ‘Minority Community Declaration ‘affidavit on Non-Judicial
+Stamp paper that he / she belongs to any of the minority community notified by Central
+Government (i.e. Muslim / Sikh / Christian / Buddhist / Jain / Zoroastrians (Parsis).
+
+
+
+
+ CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                                  P a g e 45 | 57
+                                                                                                                   Annexure VI
+         Proforma for Medical Certificate to be obtained from an Eye Specialist by candidates
+                            applying for the posts of Section Controller.
+                                                 (TO BE SUBMITTED ON CBAT EXAM DAY)
+
+
+    I have checked up Smt./Shri/Kumari……..………………………                                                         Paste self-attested recent
+    … .............................................................. who has applied for the                passport size photograph
+    post of Section Controller in Railways. The acuity of vision/colour vision                              of the candidate not more
+    of his/her has been tested in view of the following standards required                                      than one month old
+    for appointment on the Railways.
+
+                                                                                                           Signature of candidate in the
+                                                                                                               above box below the
+                                                                                                                   photograph
+
+
+                                                                                                                   Colour vision
+               Post              Class                     Distant vision                    Near vision
+                                                                                                                      Ishihara
+
+            Section                             6/9, 6/9 without glasses
+                                                                                          Sn0.6/0.6
+           Controller             A-2               (No fogging test)                                                     Normal
+                                                                                       Without glasses
+
+
+
+
+    Smt./Shri/Kumari ................................................................................................. fully conforms to
+    The above vision standards as applicable for the post of Section Controller.
+
+     Note: Candidates who have undergone Lasik surgery or any other surgery procedure
+           to correct refractory error are not eligible for the post having Medical Standard
+           A-2
+
+    Place:
+
+    Date:
+
+ SignatureoftheEyeSpecialist………………………..................................
+
+Name of the Eye Specialist…………………………...............................
+
+Registration No. of the Eye Specialist.…………….........................................................
+
+
+
+
+                                                                                          Seal of the Eye Specialist
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                           P a g e 46 | 57
+                                                                                                               Annexure VI A
+     Proforma for Medical Certificate to be obtained from an Eye Specialist by candidates
+                        applying for the posts of Section Controller.
+                           (For Ex-Servicemen Candidates Only)
+                                             (TO BE SUBMITTED ON CBAT EXAM DAY)
+
+
+
+
+I have checked up Smt./Shri/Kumari……..…………………………………………………………..                           Paste self-attested recent
+… .............................................................. who has applied for the passport size photograph
+post of Section Controller in Railways. The acuity of vision/colour vision               of the candidate not more
+of his/her has been tested in view of the following standards required                       than one month old
+for appointment on the Railways.
+
+                                                                                                       Signature of candidate in the
+                                                                                                           above box below the
+                                                                                                               photograph
+
+
+                                                                                                               Colour vision
+  Post             Class              Distant vision                        Near vision
+                                                                                                                 Ishihara
+   Section                     6/12, 6/18 or 6/9, 6/18                The combined near vision
+   Controller         A-2      with or without glasses.               with or without glasses                      Normal
+                               Naked eye vision not less              should be the ability to
+                               than 6/60. Power of lens               read ordinary print. Where
+                               not to exceed 6D                       reading or close work is
+                                                                      required, combined near
+                                                                      vision with or without
+                                                                      glasses should be Sn. 0.6.
+
+
+Smt./Shri/Kumari ................................................................................................. fully conforms to
+The above vision standards as applicable for the post of Section Controller.
+
+ Note: Candidates who have undergone Lasik surgery or any other surgery procedure
+       to correct refractory error are not eligible for the post having Medical Standard
+       A-2
+
+Place
+Date:
+
+Signature of the Eye Specialist………………………………………………
+Name of the Eye Specialist…………………………………………………………..
+Registration No. of the Eye Specialist…………………………………………………………..
+
+
+
+
+                                                                                    Seal of the the Eye Specialist
+
+
+                                                     t
+
+
+
+
+     CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                           P a g e 47 | 57
+                                                                                    Annexure VI-B
+
+
+  PROFORMA OF SELF DECLARATION TO BE SUBMITTED BY CANDIDATES APPLIYING
+  FOR THE POST OF SECTION CONTROLLER REGARDING LASIK OR OTHER CORRECTIVE
+  EYE SURGERY AGAINST CEN NO. 03/2026
+
+   I,                                                                                Shri/Smt./Kum
+   …………………………………………………………………………………………………                                                    Son     /
+   Daughter of …………………………………………………………………………………………….
+   Resident                                                                                        of
+   ………………………………………………………………………………………………………..
+   hereby declare that I have not undergone LASIK or any other corrective eye surgery.
+
+
+   I also agree that in case my declaration is found to be false, I shall be immediately disqualified
+   and debarred from all recruitment in the Railways.
+
+        Place: …………………………………………..
+
+        Date: ……………………………………………
+
+
+
+
+Signature: ……………………………………...........
+
+Name: …………………………………………………
+
+
+
+
+        CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                           P a g e 48 | 57
+                                                                              Annexure VII
+
+
+            PROFORMA OF CERTIFICATE FOR EMPLOYED OFFICIALS (EX-SERVICEMAN)
+
+
+   1. It is informed that Shri/Kum. /Smt.______________________ working as _____________
+       (Rank) in ___________ (Unit/office) has applied for the post of _____________ as advertised
+       by __________ (name of recruiting agency) vide Advt. No. ___________ dated
+       _______________.
+   2. I hereby, with the information available, certify in respect of Shri/Kum. /Smt. ______________
+       (Name) No. ______________ (Rank), as follow: -
+
+
+       i.      He/She will be completing the prescribed period of engagement of ___________ years
+               (in words) for acquiring Ex-serviceman status, subject to fulfillment of other condition,
+               on   __________       (date).   Shri/Kum/Smt.       _____________      shall   complete
+               ______________ years of service (in words) on the date of No Objection Certificate
+               and __________ years of service (in words) at the time of leaving of military service.
+       ii.     He/She will be released on selection to the post.
+
+
+
+
+   Place:                                                   Commanding Officer Signature
+   Date:
+
+
+Office Seal
+
+
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                              P a g e 49 | 57
+                                                                                   Annexure VII (A)
+
+                DoPT letter No. 36012/3/2021-Estt. (Res-II) dated 27.02.2023
+    DECLARATION TO BE SUBMITTED BY EX-SERVICEMEN CANDIDATES REGARDING CIVIL
+                 EMPLOYMENT BY AVAILING EX-SERVICEMEN QUOTA
+
+   I understand that I shall not be eligible to be appointed to a vacancy reserved for Ex- Servicemen
+   in regard to the recruitment covered by this Centralized Employment Notice (CEN), if I have at
+   any time prior to such appointment, secured any employment on the civil side (including Public
+   Sector Undertaking, Autonomous Bodies/ Statutory Bodies, Nationalized Banks, etc.), by availing
+   of the concession of reservation of vacancies admissible to Ex-servicemen.
+   I also hereby declare the following facts:
+    a) I have not secured any civil employment by availing Ex- Servicemen quota, before attending
+           for document verification for the posts of CEN ___________.
+    b) I have availed Ex-Servicemen quota for securing civil employment and I have given self-
+           declaration/undertaking to my employer about the details of application(s) for various
+           vacancies notified in CEN _________ for which I have applied for, before joining the civil
+           employment. Certificate for submission of self-declaration / undertaking from the present
+           Employer is enclosed.
+         (Strike out whichever is not applicable).
+
+
+Place:                                                       Signature:
+Date:                                                       Name:
+Roll No:
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                          P a g e 50 | 57
+                                                                                                                Annexure VIII (A)
+                                                            FORM – V                                     EXURE VIII (A) (
+                                                         Disability Certificate
+                                                    (In cases of Single Disability)
+                                                          [See Rule 18(1)]
+                                  (Name and Address of the Medical Authority Issuing the Certificate)
+                                                                                                                   Recent Passport Size
+                                                                                                                         Photograph
+                                                                                                                    (Showing face only)
+                                                                                                                     of the person with
+                                                                   Date of Issue:                                         disability)
+
+   Certificate/UDID No.
+
+   This is to certify that I /we have carefully examined Shri/Smt./Kumari……………………………………....Son/Daughter/Care of
+   Shri…………………………………,Date of Birth………………………………………………..                                (DD/MM/YYYY), Gender
+   Male/Female/Transgender,                  Registration           No………………………………………………………….Resident
+   of………………….………………………………………………………...whose photograph is affixed above, and I am/we are
+   satisfied that:
+(A) He/She is a case of (Anyone of the following disabilities):
+
+        (1)Locomotor Disability           (2)Muscular Dystrophy               (3)Leprosy Cured                     (4)Dwarfism
+           (5)Cerebral Palsy               (6)Acid Attack Victim                 (7)Low Vision                     (8)Blindness
+        (9)Hearing Impairment           (10)Speech and Language            (11)Intellectual Disability        (12) Specific Learning
+                                                 Disability                                                         Disabilities
+         (13)Autism Spectrum                 (14)MentalIllness            (15) Chronic Neurological            (16)Multiple Sclerosis
+               Disorder                                                           Conditions
+       (17)Parkinson's Diseases               (18)Hemophilia                   (19)Thalassemia                (20)Sickle Cell Disease
+(B) Name of affected body part/s:
+(C) The diagnosis in his/her case is
+(D) He/ She has %(in figure) percent (in words) disability and the nature of assessing certificate the is {Permanent/ temporary
+    and valid till Date                     (DD/MM/YYYY)}as per the guidelines for the purpose of assessing the extent of
+    specified disability in a person included under the Rights of Persons with Disabilities Act, 2016 by Government of India vide
+    Notification No dated                   (DD/MM/YYYY).
+
+
+
+   Signature/Thumb impression of the Person with Disability:
+
+
+   Signature of notified Medical Authority Member(s)
+
+
+                                                                    Signature:
+              Name and Address of the Medical Authority Issuing the Certificate:
+
+
+
+                Logo of Government of India                Logo of Department of                Logo of Respective State or Union
+                                                          Empowerment of Persons                            Territory
+                                                              Disabilities, Gol
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                  P a g e 51 | 57
+                                                                                                                   Annexure VIII (B)
+
+                                                                 FORM-VI
+                                                     Disability Certificate
+                                               (In case of multiple disabilities)
+                                                        [See Rule 18(1)]
+                                (Name And Address of The Medical Authority Issuing the Certificate)
+                                                                                                                           Recent Passport Size
+   Certificate/ UDID No.:…………………………………………………                                Date of Issue: …………………………….                   Photograph (Showing
+                                                                                                                         face only) of the person
+This is to certify that we have carefully examined Shri/Smt./Kum …………………………                                                   with disability)
+Son/wife/daughter/care of Shri…………………………… ……………………. Date of Birth
+…………(DD/MM/YYYY) Gender< Male/Female
+/Transgender>…………………………….…………… Registration No.
+………………………………<UDID Enrolment No>…………………………Resident of
+………………………………………………. Whose photograph is affixed above and are
+satisfied that:
+
+(A) He/She is a case of Multiple Disabilities. His/her extent of physical impairments/ disabilities have been evaluated as
+per the guidelines for the purpose of assessing the extent of specified disability in a person included under the Rights of
+Persons with DisabilitiesAct,2016notifiedbyGovernmentofIndiavideNotificationNo………….dated
+        (DD/MM/YYYY).for the
+   Disabilities below:
+
+     Sl.                                             Name of Affected                                            Disability Percentage
+    No.                     Disability                  Body Part                        Diagnosis
+    1             Locomotor Disability
+     2            Muscular Dystrophy
+     3               Leprosy cured
+     4                   Dwarfism
+     5               Cerebral Palsy
+     6             Acid attack Victim
+     7                  Low Vision
+     8                   Blindness
+     9             Hearing impairment
+    10       Speech and Language disability
+    11            Intellectual Disability
+    12         Specific Learning Disability
+    13         Autism Spectrum Disorder
+    14                Mental illness
+    15       Chronic Neurological Conditions
+    16              Multiple Sclerosis
+    17            Parkinson's Disease
+    18                 Hemophilia
+    19                Thalassemia
+    20             Sickle Cell Disease
+
+   (Note: Only the disabilities diagnosed will be listed)
+
+   (A) He/She has…………………%(in figure) ............................................... percent (in words) overall disability and the nature of
+   Certificate is {permanent/temporary and valid till..................................... (DD/MM/YYYY) }
+
+
+   Signature/Thumb impression of the Person with Disability:
+
+
+   Signature of notified Medical Authority Members:
+
+
+
+     Signature:
+
+    Name and Address of the Medical Authority Issuing the Certificate
+
+
+
+
+    CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                          P a g e 52 | 57
+                                                                                                                                    ANNEXURE VIII (C)
+
+
+                           LETTER OF UNDERTAKING FOR USING SCRIBE ANNEXURE
+                                                                                                                                      ANNEXURE VIII (C)
+                          LETTER OF UNDERTAKING FOR USING SCRIBE
+NOTE:
+   1.         In case of persons with benchmark disabilities in the category of Blindness, Locomotor Disability (Both
+             Arm affected – BA) and Cerebral Palsy, the facility of scribe shall be given, if so desired by the person.
+             The candidate can avail the assistance of scribe after submission of letter of undertaking as per Annexure
+             VIII(D) at the examination centre.
+   2.        In case of other category of persons with benchmark disabilities, the provision of scribe can be allowed
+             on production of a certificate to the effect that the person concerned has physical limitation to write and
+             scribe is essential to write examination on his behalf, from the Chief Medical Officer/Civil Surgeon/Medical
+             Superintendent of a Government Health Care institution. The candidate can avail the assistance of scribe
+             after producing the certificate as per Annexure VIII(G) and submission of letter of undertaking as per
+             Annexure VIII(D) at the examination centre.
+   3.        The PwBD persons having less than 40% disability (covered under the definition of Section 2(s) of the
+             PWBD Act, 2016 but not covered under the definition of Section 2(r) of the said Act) and having difficulty
+             in writing can also avail the assistance of scribe for writing answers on their behalf after producing the
+             certificate as per Annexure VIII(D) and submission of letter of undertaking as per Annexure VIII(E) at the
+             examination centre.
+PARTICULARS OF SCRIBE PROPOSED TO BE ENGAGED BY THE CANDIDATE
+   1.        Name of the Candidate.............................................................
+   2.        Roll No........................................................................................                        Paste here
+                                                                                                                                   recent colour
+   3.        Name of CBT Center.................................................................                                   Passport Size
+   4.        Qualification of Candidate........................................................                                    Photograph of
+                                                                                                                                  the SCRIBE of
+   5.        Disability Type...........................................................................                          size 3.5 cm x 4.5
+                                                                                                                                  cm (The colour
+   6.        Name ofScribe.......................................................................
+                                                                                                                                 photograph should
+   6a) My scribe Onetime Registration Number (OTR) with RRBs is:                                                                 not be more than
+                                                                                                                                 TWO months old)
+   7.        Date of Birth of the Scribe.........................................................
+   8.        Father's Name of the Scribe.....................................................
+   9.        Address of the Scribe:
+             (a) Permanent Address.........................................................
+             (b) Present Address..............................................................
+   10. Educational Qualification of the Scribe.........................................
+   11. Relationship if any, of the Scribe to the Candidate.....................
+   12. DECLARATION:
+        i)     We hereby declare that the particulars furnished above are true and correct to the best of our knowledge and belief.
+               We have read/been read out the instructions of the Railway Recruitment Board regarding conduct of the candidates
+               assisted by Scribe/Scribes at this examination and here by undertake to abide by them.
+        ii) We declare that the Scribe himself/herself is not a candidate in this examination. We understand that in case it is
+            found otherwise the candidature of both of us will be rejected.
+        iii) We declare that the scribe has not acted /will not act as Scribe to any other candidate of this examination.
+        iv) We declare that educational qualification of scribe is one step below the educational qualification of the Candidate
+            taking examination. In case subsequently it is found that the qualification of the scribe is not as declared by the
+            scribe, and it is beyond the qualification of the candidate taking examination, the candidate shall forfeit to the post
+            and claims relating thereto.
+
+
+                          (Signature of the Candidate)                                                            (Signature of the Scribe)
+
+
+
+
+             Left thumb impression of the                                                                      Left thumb impression of the
+             candidate in the box given above                                                                  Scribe in the box given above
+                                      Invigilator
+             CENTRALISED EMPLOYMENT NOTIFICATION  (CEN) NO. 03/2026                                                                       P a g e 53 | 57
+                                     Signature of
+                                                                                                       ANNEXURE VIII (D)
+                                                                                                       ANNEXURE VIII (D)
+
+Certificate for person with specified disability covered under the definition of section 2(s) of the
+RPwDAct, 2016 but not covered under the definition of section 2( r) of the said Act, i.e. persons having
+less than 40% disability and having difficulty in writingte for person with specified disability covered
+under the definition of section 2(s) of tPwDAct, 2016 but not covered under the definition of section
+2( r) of the said Act, i.e. persons having less than 40% disability and having difficulty in
+        1. This is to certify that, we have examined Mr./Ms/Mrs………………...........………………… (name of
+          the Candidate), S/o/D/o
+ ……………………………...……………………, a resident of………………………………… …….. (Village/
+ P.O./ P.S./ District/ State), aged
+ ................years,      a                 Person
+  with…………………………………………………………………………………………………………………..
+  (nature of
+ disability/condition), and to state that he/she has limitation which hampers his/her writing capability owing to
+ his/her above condition. He/she requires support of scribe for writing the examination.
+        2. The above candidates use said and assistive device such as prosthetics &orthotics, hearing aid (name
+         to be specified) which is/are essential for the candidate to appear at the examination with the assistance
+         of scribe.
+        3. This certificate is issued only for the purpose of appearing in written examinations conducted by
+        recruitment    agencies     as     well     as     academic      institutions   and     is     valid    up
+        to……………………………………………………………………………………………………………(it is
+        valid for maximum period of six months or less as may be certified by the medical authority).
+Signature of Medical authority
+
+
+  (Signature &                                       (Signature &
+                        (Signature & Name)                              (Signature & Name)           (Signature & Name)
+     Name)                                              Name)
+
+   Orthopedic/                                       Neurologist (if       Occupational
+                       Clinical Psychologist/                                                           Other Expert, as
+      PMR                                              available)           therapist (if
+    specialist             Rehabilitation                                    available)               nominated by the
+                      Psychologist/Psychiatrist                                                      Chairperson (if any)
+                      / Special Educator
+
+
+                                                  (Signature & Name)
+
+
+                      Chief Medical Officer/Civil Surgeon/Chief District Medical Officer………….. Chairperson
+
+
+
+Name of Government Hospital/ Health Care Centre with seal
+
+
+Place:
+
+
+Date:
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                           P a g e 54 | 57
+                                                                                                                        NEXURE VIII (E)
+                                                                                                                      ANNEXURE VIII (E)
+
+  LETTER OF UNDERTAKING BY THE PERSON HAVING LESS THAN 40% DISABILITIES
+                    AND HAVINGDIFFICULTY IN WRITING
+                                                                                                                         Passport Size
+  LETTER OF UNDERTAKING BY THE PERSON HAVING LESS THAN 40%photograph
+                                                            DISABILITIESof the
+                    AND HAVINGDIFFICULTY IN WRITING      scribe of size 3.5 cm
+                                                                                                                        x 4.5 cm (The
+                                                                                                                       colourphotograph
+                                                                                                                      should not be more
+                                                                                                                      than TWO months
+                                                                                                                              old.
+
+
+
+
+                                                                                                              Signature of scribe in the above box
+                                                                                                             (i.e in the box below the photograph)
+
+
+      Letter of Undertaking by the person with specified disability covered under the definition of
+       Section 2(s) of the PWBD Act, 2016 but not covered under the definition of Section 2(r) of the
+       said Act, i.e. persons having less than 40% disability and having difficulty in writing.
+
+
+        1. I ----------------------------------- a candidate with --------------------- (nature of disability / condition) appearing
+        for the -------------
+          (name of the examination) bearing Roll No. ----------------- at ------------------(name of the centre) in the District
+           --------------------------------------------------------------------------------------------------------------------------------------- ,
+           (name of the state). My educational qualification is                                                                                   .
+
+        2. I do here by state that ------------------ (name of the scribe) will provide the service of scribe for the
+          undersigned for taking
+          the aforementioned examination.
+
+
+
+        3. I do hereby undertake that his qualification is--------------------------------------- --. In case,
+          subsequently it is found that his qualification is not as declared by the undersigned and is
+          beyond my qualification, I shall forfeit my right to the post or certificate/diploma/degree and
+          claims relating thereto.
+        4. My scribe Onetime Registration Number (OTR) with RRBs is …………
+
+
+
+
+   (Signature of the candidate)
+
+(Counter signature by the parent/guardian, if the candidate is minor)
+
+     Place:
+
+     Date:
+
+
+       CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                                             P a g e 55 | 57
+                                                                                                    ANNEXURE VIII (F)
+                                                                                                    ANNEXURE VIII (F)
+ANNEXURE VIII (F)
+
+    CERTIFICATE REGARDING PHYSICAL LIMITATION IN AN EXAMINEE TO WRITE
+
+    CERTIFICATE REGARDING PHYSICAL LIMITATION IN AN EXAMINEE TO WRITE
+
+    This          is        to    certify        that,       I         have      examined           Mr/Ms/Mrs
+
+                                                                               ______________________
+
+     (name of the candidate with disability),a person with                     (nature and percentage of
+
+     disability        as   mentioned       in   the     certificate     of    disability),   S/O     /   D/O
+
+                                                                               ______________________
+
+     ____, a resident of                                                       (Village / District/ State) and
+
+     to state that he/she has physical limitation which hampers his/her writing capabilities owing
+
+     to his/her disability.
+
+
+
+                                                                     Signature
+                                                              Chief Medical Officer/Civil Surgeon/Medical
+                                                            Superintendent of a Government health care
+                                                            institution
+
+
+
+
+                                                                              Name & Designation
+
+
+                                                         Name of Government Hospital/Health Care Centre with Seal
+
+
+    Place: _________________________
+
+    Date: _________________________
+
+
+     Note: Certificate should be given by a specialist of the relevant stream/disability (e.g. Visual impairment –
+         Ophthalmologist, Locomotor Disability-Orthopedic specialist/PMR).
+
+
+
+
+      CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                                          P a g e 56 | 57
+                                                                               Annexure-IX
+
+OnlineRef.No.         <Date&Timeof submission>
+
+
+[THIS FORM IS GENERATED ONLINE AND THE SAME SHOULD NOT BE FILLED
+MANUALLY]
+
+Certificate to be signed by the Gazetted Officer
+
+
+                                                                    PHOTOGRAPH
+Name of the Candidate:
+                                                                       TO BE
+Application No.:                                                    ATTESTED BY
+                                                                     GAZETTED
+                                                                      OFFICER
+
+
+
+It is certified that Mr./Ms.                                                S/o / D/o Shri
+                                                         residing           at
+is applying for CEN 03/2026 of RRB with Application No.               and    his/her latest
+photograph matches with the photo that in the application form.
+
+
+
+Name of Attesting Authority:
+
+Designation:
+
+Signature:
+
+Stamp / Seal of Gazetted Officer:
+
+Date:
+
+Place:
+
+
+
+ Note: The signature of the attesting authority should be affixed in such a manner that it
+appears partly on the certificate and partly on the latest photograph (not covering the face).
+
+
+
+
+         CENTRALISED EMPLOYMENT NOTIFICATION (CEN) NO. 03/2026                P a g e 57 | 57
+

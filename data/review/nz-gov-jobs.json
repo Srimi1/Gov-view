@@ -1,0 +1,201 @@
+{
+  "sourceId": "nz-gov-jobs",
+  "collectedAt": "2026-09-25T11:45:31.721Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "2026 · NZ/1946342",
+      "programme": "Ara Poutama Aotearoa probation officer recruitment",
+      "status": "open",
+      "statusNote": "Official NZ/1946342 job page lists 04-Oct-2026. Governing cutoff timezone is not printed; further postings, changes and agency application page need review.",
+      "scopeLabel": "Permanent government job based in Rotorua. This work location is not a published examination venue.",
+      "outcome": "Permanent, full-time Probation Officer role, 40 hours per week; advertised starting salary NZD 70,596.",
+      "qualifications": "Excellent spoken and written communication, full New Zealand driver's licence, and legal right to work in New Zealand. Criminal-history check applies. Large-caseload experience is an advantage, not stated as mandatory.",
+      "citizenshipRule": "Applicants must already have legal right to work in New Zealand. The notice does not impose NZ citizenship and says visa support may be unavailable; a foreign citizen with appropriate existing work rights may be considered, subject to full checks.",
+      "residenceRule": "No separate domicile rule printed. Existing legal NZ work rights are required; verify visa conditions for this role.",
+      "selectionStages": [
+        "Online application with CV and cover letter",
+        "Employer screening and interview",
+        "Criminal-history and work-right checks"
+      ],
+      "fee": "No application fee stated on checked job page.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm existing legal right to work in New Zealand and full NZ driver's licence. Visa sponsorship is not guaranteed."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm spoken/written communication, interview requirements and criminal-history declaration with employer."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm visa permits this permanent role and employer's final integrity checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue not specified; Rotorua is job location only"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://mahi.corrections.govt.nz/jobtools/apCustomAppMgr.WelcomeScreen?in_jnCounter=226686557&in_organid=19420&in_site=jobs.govt.nz&in_template_orgid=19420",
+      "changes": [],
+      "id": "nz-corrections-rotorua-probation-1946342",
+      "sourceId": "nz-gov-jobs",
+      "title": "Rotorua - Probation Officer",
+      "authority": "Ara Poutama Aotearoa (Department of Corrections)",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "NZ",
+      "jurisdictionName": "New Zealand",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-04",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Job page lists date first published 16-Sep-2026, which is not proof of application opening. Official cutoff timezone is not printed."
+      },
+      "languageNote": "Excellent spoken and written communication is required. Relevant Māori/Pasifika experience or willingness to learn is prioritised, and language skills may be highlighted. The page gives no mandatory named-language level or certificate.",
+      "salary": "From NZD 70,596 per year",
+      "sources": [
+        {
+          "id": "nz-gov-jobs:4dd3c977e439",
+          "title": "New Zealand Government Jobs — Rotorua - Probation Officer (NZ/1946342)",
+          "authority": "New Zealand Government Jobs",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jobs.govt.nz/jobs/APA-1946342",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jobs.govt.nz/jobs/APA-1946342",
+          "sha256": "7d947beb1a0ef804b1ce7e43b2e3dbda6d454b700f8d53434a818c6f3ad5f3d9",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:34.592Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "2026 · NZ/1948355",
+      "programme": "Ministry of Social Development customer service recruitment",
+      "status": "open",
+      "statusNote": "Official NZ/1948355 job page lists 04-Oct-2026 at 11:59pm. Governing cutoff timezone is not printed; further postings, changes and agency application page need review.",
+      "scopeLabel": "Permanent government job based in Waitakere Contact Centre, Auckland. This work location is not a published examination venue.",
+      "outcome": "Multiple permanent, full-time customer service roles at Waitakere Contact Centre; advertised salary NZD 63,004–73,903.",
+      "qualifications": "Ability to handle inbound calls, give clear information, work rostered shifts and use support systems. Citizenship or Permanent Resident visa is mandatory at application. The page does not specify a degree, age limit or formal language certificate.",
+      "citizenshipRule": "NZ citizenship OR a Permanent Resident visa is required at application. Foreign citizens who hold the stated permanent-resident visa are not excluded by citizenship alone; other foreign applicants do not meet this published condition.",
+      "residenceRule": "Permanent Resident visa is an alternative to NZ citizenship. No separate applicant domicile rule is printed; verify right to work and agency process.",
+      "selectionStages": [
+        "Online application and screening question",
+        "Video assessment if shortlisted",
+        "Face-to-face information session and interview; possible skills test",
+        "Two work references",
+        "Internal integrity and Ministry of Justice checks"
+      ],
+      "fee": "No application fee stated on checked job page.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm NZ citizenship OR Permanent Resident visa at application; nationality alone cannot decide this alternative."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm online/video assessment, interview, possible skills testing and any language expectation."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm right to work, references and Ministry of Justice/integrity checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue not specified; Waitakere Contact Centre, Auckland is job location only"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://jobs.msd.govt.nz/job-invite/48173/",
+      "changes": [],
+      "id": "nz-msd-waitakere-customer-service-1948355",
+      "sourceId": "nz-gov-jobs",
+      "title": "Customer Service Representative | Kaihāpai Moni Oranga | Waitakere Contact Centre",
+      "authority": "Ministry of Social Development",
+      "pathway": "recruitment",
+      "appointmentType": "permanent",
+      "jurisdictionCode": "NZ",
+      "jurisdictionName": "New Zealand",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-04",
+        "officialTimeZone": null,
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Job page lists date first published 21-Sep-2026, which is not proof of application opening. Official cutoff timezone is not printed."
+      },
+      "languageNote": "The checked job page gives no formal English, te reo Māori or other language proficiency level or certificate. Telephone communication and online assessment are described; verify role-specific language expectations with employer.",
+      "salary": "NZD 63,004–73,903 per year",
+      "sources": [
+        {
+          "id": "nz-gov-jobs:a8a237b690fa",
+          "title": "New Zealand Government Jobs — Customer Service Representative | Kaihāpai Moni Oranga | Waitakere Contact Centre (NZ/1948355)",
+          "authority": "New Zealand Government Jobs",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jobs.govt.nz/jobs/NZ-1948355",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jobs.govt.nz/jobs/NZ-1948355",
+          "sha256": "64e79954a47cfc90ebde6b681cfb20c97c172da2936ae84d37c12570da410888",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:35.666Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://jobs.govt.nz/jobs/APA-1946342",
+      "fetchedAt": "2026-09-25T11:45:34.592Z",
+      "sha256": "7d947beb1a0ef804b1ce7e43b2e3dbda6d454b700f8d53434a818c6f3ad5f3d9",
+      "contentType": "text/html;charset=ISO-8859-15",
+      "bytes": 55895
+    },
+    {
+      "url": "https://jobs.govt.nz/jobs/NZ-1948355",
+      "fetchedAt": "2026-09-25T11:45:35.666Z",
+      "sha256": "64e79954a47cfc90ebde6b681cfb20c97c172da2936ae84d37c12570da410888",
+      "contentType": "text/html;charset=ISO-8859-15",
+      "bytes": 59438
+    }
+  ],
+  "warnings": [
+    "This pilot checks two exact public job pages only; other jobs.govt.nz vacancies, agencies, amendments and closures remain coverage gaps.",
+    "Linked position descriptions and agency application pages were not fetched; founder must confirm conditions before publication.",
+    "Neither notice prints an official cutoff timezone or formal language proficiency level. Distinct NZ citizenship, permanent-resident and work-right routes must not be collapsed."
+  ],
+  "approvalRevisions": {
+    "nz-corrections-rotorua-probation-1946342": {
+      "evidenceRevision": "6b816138b195c24f76240f7e14f0cfed97cd486065014aefa3f96c3cfc35f80b",
+      "recordRevision": "cba03d7b7ad9e26295ce74f196e3f99bf53582651229a4a4a4ae0f41dd573536"
+    },
+    "nz-msd-waitakere-customer-service-1948355": {
+      "evidenceRevision": "a52bd5297e77e9ccdb0686dd3b512a4aae4c8e5ce3224eadba5477f961927075",
+      "recordRevision": "0d7e110a107e7c12ef91af1c792cfc3aa0c37533a9b31414462813b06039b136"
+    }
+  }
+}

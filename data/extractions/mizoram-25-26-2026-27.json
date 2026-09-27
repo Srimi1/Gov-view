@@ -1,0 +1,41 @@
+{
+  "reviewStatus": "pending",
+  "indexUrl": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+  "amendmentsUrl": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+  "languageNotice": {
+    "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+    "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c"
+  },
+  "posts": [
+    {
+      "advertisement": "25/2026-27",
+      "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf",
+      "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769",
+      "title": "Lower Division Clerk (LDC)",
+      "vacancies": 4,
+      "notificationDate": "2026-09-15",
+      "closesOn": "2026-10-12",
+      "cutoffLocalTime": "16:00",
+      "payLevel": 4
+    },
+    {
+      "advertisement": "26/2026-27",
+      "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf",
+      "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b",
+      "title": "Peon (PE)",
+      "vacancies": 3,
+      "notificationDate": "2026-09-15",
+      "closesOn": "2026-10-13",
+      "cutoffLocalTime": "16:00",
+      "payLevel": 1
+    }
+  ],
+  "ageAsOn": "2026-08-01",
+  "notes": [
+    "Official 2026-27 advertisement archive lists two current application cycles, each bound to exact original PDF bytes. The archive notification/upload date is 15 September; both PDFs are dated 11 September. Neither date is treated as a proven application opening date.",
+    "Both notices require the government-prescribed pass mark in the Mizo Language Proficiency qualifying test, with stated Class-X/MIL exemptions. The 2024 commission notification confirms the policy and disqualification consequence but supplies no numerical score or CEFR equivalence.",
+    "Neither notice states an Indian-citizen or general Mizoram-residence rule. International eligibility stays unverified pending the cited recruitment rules and founder review.",
+    "Aizawl is the commission office, not a published examination centre for these two cycles; venue stays unknown.",
+    "Current online portal and archive list future deadlines. A logged-in application form and opening timestamp are not available to this review, so founder must confirm live form status."
+  ]
+}

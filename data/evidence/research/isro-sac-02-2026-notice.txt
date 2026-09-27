@@ -1,0 +1,987 @@
+        विज्ञापन सं./ADVERTISEMENT NO.: सैकSAC:02:2026, विनांक Dated 10.09.2026
+
+ (ऑनलाइन पंजीयन तथा आििे न प्रस्तुत करने के वलए ऑनलाइन भती पोर्ट ल 10.09.2026 के 1000 बजे से
+                           30.09.2026 के 1700 बजे तक खुला रहे गा)
+  (Online recruitment portal will be open from 1000 hours of 10.09.2026 to 1700 hours of
+              30.09.2026 for online registration and submission of application)
+
+अंतरिक्ष उपयोग केंद्र (सैक), अहमदाबाद भाितीय अंतरिक्ष अनु संधान संगठन (इसिो), अंतरिक्ष विभाग (अं.वि.) के अग्रणी
+केंद्रों में से एक है । सैक, इसिो के स्थलीय एिं ग्रहीय वमशनों के वलए अंतरिक्षीय यंत्ों को विजाइन किता है औि
+सामावजक वहत के वलए अंतरिक्ष प्रौद्योवगकी का प्रचालन किता है । इन अनु प्रयोगों में संचाि, प्रसािण, नौिहन, आपदा
+वनगिानी, मौसमविज्ञान, समु द्रविज्ञान, पयाा ििण वनगिानी तथा प्राकृवतक संसाधन प्रबंधन शावमल हैं। सैक, संचाि उपग्रहों
+के वलए प्रेषानु कि तथा भू-प्रेक्षण उपग्रहों हे तु प्रकावशकी एिं सूक्ष्मतिं ग संिेदकों को विजाइन तथा विकवसत किता है ।
+साथ ही सैक भू -ट् ां सवमट ि अवभग्रहण प्रणावलयों तथा िे टा/ प्रवतवबंब प्रसंस्किण प्रणावलयों का विकास भी किता है । सैक
+में िैद्युवतकीय एिं यां वत्कीय संवििचन, पयाा ििणीय पिीक्षणों तथा प्रवतवबंब प्रसंस्किण ि विश्लेषण हे तु उच्च आधुवनक
+नीतभाि विजाइन एिं समाकलन प्रयोगशालाएं स्स्थत हैं ।
+Space Applications Centre (SAC), Ahmedabad is one of the lead Centres of Indian Space Research
+Organisation (ISRO), Department of Space (DOS). SAC focuses on design of space borne instruments
+for terrestrial and planetary missions of ISRO and development and operationalisation of space
+technology for societal benefits. The applications cover communication, broadcasting, navigation,
+disaster monitoring, meteorology, oceanography, environment monitoring and management of
+natural resources. All the transponders of communication satellites and the optical and microwave
+sensors for earth observation satellites are designed and developed at SAC. Further, SAC develops
+ground transmit and receive systems and data / image processing systems. SAC has highly
+sophisticated payload design & integration laboratories, facilities for electronic & mechanical
+fabrication, environmental tests and image processing & analysis.
+
+सैक, कवनष्ठ अनु संधान अध्येता (जेआरएफ), अनु संधान सहयोगी (आरए) तथा पररयोजना िै ज्ञावनक-I (पीएस-I)
+के अस्थायी पिों के वलए वनम्नानु सार ऑनलाइन आिे िन आमंवित करता है :
+SAC invites on-line applications for the temporary positions of Junior Research Fellows
+(JRFs), Research Associates (RAs) and Project Scientist-I (PS-I) as per following details:
+
+
+                                          पि कोड POST CODE - 01
+
+पद का नाम
+                     कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                     03 (Three)
+No. of Position(s)
+अवनिाया अहा ताएं     अधाचालक प्रौद्योवगकी/क्ां टम/सूक्ष्म या नै नो इले क्ट््ॉवनक उपकिण/आिएफ औि माइक्रोिेि या
+Essential            संबंवधत विषयों में एम.ई./एम.टे क.
+Qualifications       M. E. / M. Tech. in Semiconductor Technology/ Quantum/ Micro or Nano
+                     Electronic devices/ RF & Microwave or related disciplines
+                      कवनष्ठ अनु संधान अध्येता को वमलीमीटि तिं ग पि सुपिकंिस्क्ट्ं ग रिसीिि फ्रंट-एं ि पि काम
+                          किना होगा औि इसके आगे गवणतीय उपकिण मॉिवलं ग, गैि-िै स्िक सवकाट अनु रूपण,
+काया का दायिा
+                          3िी विद् युतचुम्बकीय अनु रूपण औि वमलीमीटि तिं ग औि उप-एमएम तिं ग सवकाट का
+Scope of Work
+                          क्रायोजे वनक पिीक्षण शावमल है । अभ्यथी को उच्च आिृवि आिएफ सवकाट विजाइन,
+                          अनु रूपण औि माप पि काम किने में सहज होना चावहए।
+                                                   Page 1 of 18
+                         JRF will have to work on superconducting receiver front-ends at millimeter
+                         wave and beyond which involves mathematical device modeling, non-linear
+                         circuit simulations, 3D electromagnetic simulations and cryogenic testing of
+                         millimeter wave and sub-mm wave circuits. The candidate should be
+                         comfortable with working on high frequency RF circuit design, simulations
+                         and measurements.
+                        कवनष्ठ अनु संधान अध्येताओं को सवकाट विजाइन औि वचप (एसओसी) विजाइन, आिएफ
+                         सवकाट विजाइन औि पिीक्षण पि आिएफ वमवित संकेत प्रणाली के सत्यापन पि काम किना
+                         होगा। उन्हें जीिीएसआईआई, ईएम अनु रूपण, उच्च आिृवि (एस-बैंि, केए बैंि) पि
+                         अधाचालक उपकिणों के मॉिवलं ग के वलए फ्रंट-एं ि विजाइन को संभालने में सहज होना
+                         चावहए।
+                         JRFs will have to work on circuit design and verification of RF-Mixed signal
+                         System on Chip (SoC) design, RF Circuit design and testing. They should be
+                         comfortable with handling Front-End design to GDSII, EM simulation,
+                         modelling of semiconductor devices at high frequency (S-Band, Ka Band).
+
+
+                                         पि कोड POST CODE - 02
+पद का नाम
+                     कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                     07 (Seven)
+No. of Position(s)
+अवनिाया अहा ताएं     इले क्ट््ॉवनकी औि संचाि/माइक्रो-इले क्ट््ॉवनकी/नै नो-इले क्ट््ॉवनकी/विवजटल इलेक्ट््ॉवनकी/
+Essential            िीएलएसआई/विवजटल वसस्टम अवभयां वत्की/एम्बे िेि वसस्टम/वसग्नल प्रोसेवसंग/अधाचालक या
+Qualifications       संबंवधत विषयों में एम.ई./एम.टे क.
+                     M. E. / M. Tech. in Electronics & Communication/ Micro-Electronics/ Nano-
+                     Electronics/ Digital Electronics/ VLSI/ Digital System Engineering/ Embedded
+                     System/ Signal Processing/ Semiconductor or related disciplines
+                      कवनष्ठ अनु संधान अध्येताओं को वमवित-संकेत/विवजटल एवसक विजाइन औि अनु प्रयोगों के
+                          वलए फ्रंट-एं ि सवकाट विजाइन से जीिीएसआईआई पि काम किना होगा। वमवित संकेत
+                          विजाइनि के वलए उन्हें एनालॉग औि वमवित संकेत विजाइन जै से हाई-स्पीि
+                          ओपीएम्प/ओटीए, एिीसी, िीएसी, पीएलएल, वफल्टि, मे मोिी, हाई िोल्टे ज ि्ाइिि आवद को
+                          संभालने में सहज होना चावहए। विवजटल विजाइनि के वलए उन्हें िीएचिीएल/िेरिलॉग
+                          आिटीएल विजाइन, िीएफटी कायाा न्वयन, सत्यापन, बैकएं ि विजाइन औि आिटीएल से
+                          जीिीएसआईआई फ्लो का गहन ज्ञान होना चावहए।
+                          JRFs will have to work on front-end circuit design to GDSII for Mixed-Signal /
+                          Digital ASIC Designs and applications. For Mixed Signal Designer they
+                          should be comfortable with handling Analog and Mixed signal design like
+                          high-speed OpAmp/OTA, ADC, DAC, PLL, Filters, Memory, High Voltage
+                          Drivers etc. For Digital designer they must have deep knowledge of
+                          VHDL/Verilog RTL design, DFT implementation, verification, Backend design
+काया का दायिा             and RTL to GDSII flow.
+Scope of Work
+                      उपकिणों औि प्रवक्रया अनु किण के वलए टीसीएिी सॉफ्टिेयि। उन्नत माइक्रोइलेक्ट््ॉवनक्स
+                          पैकेवजं ग प्रौद्योवगवकयां , योजनाबद्ध के वलए ईसीएिी सॉफ्टिेयि, माइक्रोइलेक्ट््ॉवनक्स का
+                          ले आउट औि अनु किण। एनालॉग, विवजटल औि वमवित वसग्नल सवकाट का विजाइन,
+                          विकास औि पिीक्षण। एफपीजीए/िीएचिीएल फमा िेयि विकास, सॉफ्टिेयि विकास औि
+                          पिीक्षण।
+                          TCAD software for devices and process simulation. Advanced
+                          microelectronics packaging technologies, ECAD software for schematic,
+                          layout and simulation of Microelectronics. Design, development and testing of
+                          analog, digital and mixed signal circuits. FPGA / VHDL firmware
+                          development, software development and testing.
+                      समय-िृं िला पोलसाि एिं इनसाि वनसाि िे टा के वलए एल्गोरिथ्म विकास औि कोविं ग।
+                          अध्ययन क्षे त् में ग्राउं ि ट्रूथ अवभयानों में भागीदािी औि एल्गोरिथ्म को िैध किने के वलए
+                          व्यापक क्षे त् िे टा एकत् किना।
+                                                  Page 2 of 18
+                         Algorithm development and coding for time-series PolSAR & InSAR NISAR
+                         data. Participation in ground truth campaigns over the study area and collect
+                         extensive field data to validate the algorithm.
+
+
+
+                                         पि कोड POST CODE - 03
+पद का नाम
+                   कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                   05 (Five)
+No. of Position(s)
+                   अवभयां वत्की भौवतकी या संबंवधत विषयों में बी.ई./बी. टे क.
+                                                                      या
+                   भौवतकी/अनु प्रयुक्त भौवतकी/फोटोवनक्स/ऑप्टोइलेक्ट््ॉवनकी/प्रकावशकी/सामग्री विज्ञान/
+अवनिाया अहा ताएं   नै नोटे क्नोलॉजी/ ठोस अिस्था भौवतकी या संबंवधत विषयों में एम.ई./एम. टे क./एम.एससी.
+Essential          B. E. / B. Tech. in Engineering Physics or related disciplines
+Qualifications                                                       OR
+                   M. E. / M. Tech. / M. Sc. in Physics / Applied Physics/ Photonics/ Optoelectronics
+                   / Optics/ Material Science/ Nanotechnology/ Solid State Physics or related
+                   disciplines
+                    अभ्यथी को प्रयोगात्मक सेटअप स्थावपत किने , एकीकृत फोटोवनक्स/अधाचालक क्ां टम
+                        उपकिणों के अवभलक्षण, िे टा विश्लेषण औि उपकिणों के प्रदशा न के अनु कूलन के वलए
+                        वनमाा ण प्रवक्रयाओं पि काम किने में सहायता किनी चावहए।
+                        Candidate shall be assisting in establishing experimental setups, performing
+                        characterisation of integrated photonics /semiconductor quantum devices,
+                        data analysis and working on fabrication processes for optimisation of
+                        devices’ performance.
+                    कवनष्ठ अनु संधान अध्येताओं को प्रायोवगक सेटअप स्थावपत किने , इन्फ्फ्रािे ि विटे क्ट्िों,
+काया का दायिा           फोटोवनक्स/अधाचालक क्ां टम उपकिणों, िे टा विश्लेषण, उपकिणों के वलए टीसीएिी
+Scope of Work           सॉफ्टिेयि अनु रूपण औि प्रवक्रया अनु रूपण, उच्च गवत वििाइस प्रदशा न के वलए उन्नत
+                        माइक्रोइलेक्ट््ॉवनक्स पैकेवजं ग प्रौद्योवगवकयों के अवभलक्षण में सहायता किनी होगी। अभ्यथी
+                        को फोटोवनक्स अधाचालक के विजाइन औि मॉिवलं ग को संभालने में सहज होना चावहए।
+                        JRFs will be assisting in establishing experimental setups, performing
+                        characterisation of Infrared detectors, photonics /semiconductor quantum
+                        devices, data analysis, TCAD software simulation for devices and process
+                        simulation, Advanced microelectronics packaging technologies for high-
+                        speed device performance. Candidate should be comfortable with handling
+                        design and modelling of Photonics semiconductor.
+
+
+
+                                         पि कोड POST CODE - 04
+पद का नाम
+                   कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                   10 (Ten)
+No. of Position(s)
+                   िायुमंिलीय       विज्ञान/मौसम      विज्ञान/भौवतक    समुद्र      विज्ञान/समु द्र विज्ञान/भौवतक
+अवनिाया अहा ताएं   विज्ञान/भै वतकी/अनु प्रयुक्त भौवतकी /गवणत या संबंवधत विषयों में एम.ई./एम.टे क./एम.एससी.
+Essential          M. E. / M. Tech. / M. Sc. in Atmospheric Sciences / Meteorology / Physical
+Qualifications     Oceanography / Oceanography / Physical Sciences / Physics / Applied Physics/
+                   Mathematics or related disciplines
+                    मौसम संबंधी उपग्रह प्रेक्षणों से भू भौवतकीय पैिामीटि पुनप्राा स्ि; अंशां कन औि सत्यापन;
+                         संख्यात्मक मौसम भविष्यिाणी औि उपग्रह िे टा आत्मसात; गंभीि मौसम िताा नुमान औि
+काया का दायिा
+                         भविष्यिाणी के वलए उपग्रह आधारित तकनीक; भाितीय ग्रीष्मकालीन मानसून प्रवक्रयाओं पि
+Scope of Work
+                         अध्ययन; औि एिोसोल-बादल-िषाा की पिस्पि वक्रया। इसिो औि अंतिाा ष्ट्ीय उपग्रह वमशनों
+                         से िे टा का उपयोग किके पुनप्राा स्ि, अंशां कन/सत्यापन औि उपग्रह िे टा आत्मसात
+                                                   Page 3 of 18
+                         एल्गोरिदम का विजाइन, विकास, पिीक्षण औि कायाा न्वयन।
+                         Geophysical parameter retrieval from meteorological satellite observations;
+                         calibration and validation; numerical weather prediction and satellite data
+                         assimilation; satellite-based techniques for severe weather nowcasting and
+                         prediction; studies on Indian summer monsoon processes; and aerosol–
+                         cloud–precipitation interactions. Design, development, testing and
+                         implementation of retrieval, calibration/validation and satellite data
+                         assimilation algorithms utilizing data from ISRO and international satellite
+                         missions.
+                        दू िस्थ संिेदन िे टा विश्लेषण, आद्रा भूवम स्वास्थ्य अध्ययन के वलए प्रकाशीय एिं तापीय क्षेत् में
+                         आिटी अनु रूपण, जल आइसोटोप नमू ना संग्रह औि प्रयोगशाला विश्लेषण, जल विज्ञान
+                         पैिामीटि पुनप्राा स्ि के वलए हाइि्ोआिएस परियोजना को तकनीकी सहायता।
+                         Technical support to HydroRS project for remote sensing data analysis, RT
+                         simulations in optical and thermal region for wetland health studies, water
+                         isotope sample collection and laboratory analysis, hydrological parameter
+                         retrievals.
+
+
+                                          पि कोड POST CODE - 05
+पद का नाम
+                   कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                   02 (Two)
+No. of Position(s)
+                   भू -भौवतकी/ भू -विज्ञान/पृथ्वी विज्ञान/भू-तकनीकी अवभयां वत्की या संबंवधत विषयों में एम.ई./एम.
+अवनिाया अहा ताएं
+                   टे क./ एम.एससी.
+Essential
+Qualifications     M. E. / M. Tech. / M. Sc. in Geo-physics/ Geo-Sciences/ Earth Sciences/
+                   Geotechnical Engineering or related disciplines
+                    महासागिीय भू -भौवतक/जैि-भौवतक/जै ि-भू िासायवनक मापदं िों को पुनः प्राि किने के वलए
+                        कायाप्रणाली का विकास औि सुदूि संिेदन एिं यथा-स्स्थत िे टा का उपयोग किके
+                        अंशां कन/सत्यापन, तकनीकों का विकास औि समु द्री औि प्रकाशीय रूप से जवटल जल के
+                        भौवतक-िासायवनक गुणों का विश्लेषण औि तटीय पारिस्स्थवतकी तंत् औि इसके परिितान
+काया का दायिा           अध्ययन पि विश्लेषण।
+Scope of Work           Development of methodology for retrieving ocean geo-physical/ biophysical/
+                        biogeochemical parameters and Calibration/Validation using remote sensing
+                        and in-situ data, development of techniques and analysis of physio-chemical
+                        properties of marine and optically complex waters and analysis on coastal
+                        eco-system and its change studies.
+
+                                         पि कोड POST CODE – 06
+पद का नाम
+                     कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                     04 (Four)
+No. of Position(s)
+अवनिाया अहा ताएं     कंप्यूटि विज्ञान/कंप्यूटि अवभयां वत्की या संबंवधत विषयों में एम.ई./एम. टे क./एम.एससी.
+Essential            M. E. / M. Tech. / M. Sc. in Computer Science/ Computer Engineering or related
+Qualifications       disciplines
+                      एजें वटक एआई एिं एलएलएम एकीकिण, त्वरित अवभयां वत्की, एआई विबवगंग, मौसम
+                          विज्ञान औि समु द्र विज्ञान के वलए एआई आधारित समाधानों का विकास। जलिायु गुणििा
+                          िे टा प्रसंस्किण।
+                          Agentic AI & LLM Integration, Prompt Engineering, AI Debugging,
+काया का दायिा
+                          Development of AI based solutions for Meteorology and Oceanography.
+Scope of Work
+                          Climate Quality Data Processing.
+                      मौसम विज्ञान औि समु द्र विज्ञान से संबंवधत अध्ययनों के वलए ऑन-बोिा वनसाि एल-औि
+                          एस-बैंि साि िे टा का प्रसंस्किण औि विश्लेषण।
+                          Processing and analysis of L- and S-band SAR data on-board NISAR for
+                                                   Page 4 of 18
+                          studies related to meteorology and oceanography.
+                         जल विज्ञान, सुदूि संिेदन समय िे णी िे टा विश्लेषण में एआई/एमएल आधारित उन्नत
+                          तिीकों/उपकिणों/तकनीकों का विकास, हाइि्ोलॉवजकल मॉिवलं ग औि िे टा आत्मसात के
+                          वलए सॉफ्टिेयि/इं टिफेस का विकास।
+                          Development of AI/ML based advanced methods/tools/techniques in
+                          hydrology, remote sensing time series data analysis, development of
+                          software/interfaces for hydrological modelling and data assimilation.
+
+
+
+                                         पि कोड POST CODE - 07
+पद का नाम
+                   कवनष्ठ अनु संधान अध्येता Junior Research Fellow
+Name of the Post
+पद की संख्या
+                   02 (Two)
+No. of Position(s)
+                   वजयो-इनफॉमे वटक्स/सुदूि संिेदन औि जीआईएस या संबंवधत विषयों में एम.ई./एम.
+अवनिाया अहा ताएं
+                   टे क./एम.एससी.
+Essential
+Qualifications     M. E. / M. Tech. / M. Sc. in Geo-informatics/ Remote Sensing and GIS or related
+                   disciplines
+                   हाइि्ोलॉजी औि जल संसाधनों के क्षे त्ों में जल परियोजना, दीर्ाकावलक भू -स्थावनक िे टाबेस
+                   तैयािी, विश्लेषण औि उपयोगकताा अनु प्रयोगों के वलए जीआईएस औि छवि प्रसंस्किण समथा न।
+                   GIS and image processing support to HydroRS project, long-term geospatial
+                   database preparation, analysis and user applications in areas of hydrology and
+                   water resources.
+काया का दायिा
+                   संिेदकों द्वािा अवधग्रवहत सतह के भौवतक गुणों के प्रवत वनसाि एल एं ि एस-बैंि िे टा का उपयोग
+Scope of Work
+                   किके हाइविि औि पूणा-ध्रुिीयता व्युत्पन्न मापदं िों का संिेदनशीलता अध्ययन, जैसे, उच्च
+                   विभे दन यूएिी आधारित वलिाि औि भू प्रेक्षण।
+                   Sensitivity studies of hybrid & full-polarimetry derived parameters using NISAR
+                   L&S-band data towards physical properties of surface acquired by sensors, like,
+                   high resolution UAV based LiDAR and ground observations.
+
+
+                                         पि कोड POST CODE - 08
+पद का नाम
+                   अनु संधान सहयोगी Research Associate
+Name of the Post
+पद की संख्या
+                   06 (Six)
+No. of Position(s)
+                   महासागिीय विज्ञान/समु द्री विज्ञान/पयाा ििण मॉिवलं ग/िायुमंिलीय विज्ञान/मौसम विज्ञान/पृथ्वी
+                   प्रणाली विज्ञान/भौवतकी या संबंवधत विषयों में पीएच.िी.।
+                   या
+                   समु द्र विज्ञान/भौवतक समु द्र विज्ञान/िायुमंिलीय विज्ञान/मौसम विज्ञान/समु द्री विज्ञान/पयाा ििण
+                   मॉिवलं ग या संबंवधत विषयों में एम.ई./एम.टे क. के बाद 3 साल का अनु संधान, वशक्षण, विजाइन
+                   औि विकास का अनु भि औि विज्ञान उद्धिण सूचीबद्ध (एससीआई) जना ल में न्यू नतम एक शोध
+अवनिाया अहा ताएं   पत् प्रकावशत।
+Essential          Ph. D in Oceanic Sciences/ Marine Sciences/ Environment Modeling/
+Qualifications     Atmospheric Sciences / Meteorology/ Earth System Sciences/ Physics or related
+                   disciplines
+                   OR
+                   3 years’ research, teaching, design and development experience after M. E. / M.
+                   Tech. in Oceanography / Physical Oceanography / Atmospheric Sciences /
+                   Meteorology/ Marine Sciences/ Environment Modeling or related disciplines and
+                   at least one research paper in Science Citation Indexed (SCI) journal.
+
+
+
+
+                                                  Page 5 of 18
+                        मौसम विज्ञान उपग्रह प्रेक्षणों से भू भौवतकीय पैिामीटि पुनप्राा स्ि (बादल सूक्ष्मभौवतकीय गुण,
+                         िषाा , हिा, तापमान, नमी, आवद); अंशां कन औि सत्यापन; संख्यात्मक मौसम भविष्यिाणी
+                         औि उपग्रह िे टा आत्मसात; गंभीि मौसम के वलए उपग्रह आधारित तकनीकों का विकास;
+                         भाितीय ग्रीष्मकालीन मानसून प्रवक्रयाओं पि अध्ययन; औि एयिोसोल-बादल-िषाा परिचचाा ।
+                         Geophysical parameter retrieval (cloud microphysical properties, rainfall,
+                         winds, temperature, moisture, etc.) from meteorological satellite
+                         observations; calibration and validation; numerical weather prediction and
+                         satellite data assimilation; developing satellite based techniques for severe
+                         weather nowcasting and prediction; studies on Indian summer monsoon
+                         processes; and aerosol–cloud–precipitation interactions
+                        संख्यात्मक महासागि प्रवतरूपण, उपग्रह आधारित महासागि औि तटीय प्रवक्रया अध्ययनों
+काया का दायिा            का संचालन किना. महासागि प्रेक्षणों के वलए उपग्रह संिेदक के विजाइन औि अनु कूलन का
+Scope of Work            समथा न किने के वलए प्रेक्षण प्रणाली अनु किण प्रयोगों (ओएसएस) का प्रदशा न किना।
+                         Numerical ocean modeling, conducting satellite based ocean and coastal
+                         process studies. Performing Observing System Simulation Experiments
+                         (OSSEs) to support the design and optimization of satellite sensors for ocean
+                         observations.
+                        भू वमका में पारिस्स्थवतकी तंत् या जै ि-भू िासायवनक प्रवतरूपण औि काबान चक्रों में िे टा
+                         आत्मसात किना शावमल है । परियोजना प्रेक्षण िे टा, उपग्रह सुदूि संिेदन औि उन्नत
+                         कम्प्प्यूटेशनल प्रवतरूपण को एकीकृत किती है ।
+                         The role involves developing data assimilation in ecosystem or
+                         biogeochemical modeling and carbon cycles. The project integrates
+                         observational data, satellite remote sensing and advanced computational
+                         modeling.
+
+
+                                         पि कोड POST CODE - 09
+पद का नाम
+                     अनु संधान सहयोगी Research Associate
+Name of the Post
+पद की संख्या
+                     01 (One)
+No. of Position(s)
+अवनिाया अहा ताएं     गवणत/भौवतकी या संबंवधत विषयों में पीएच.िी.
+Essential            Ph. D in Mathematics / Physics or related disciplines
+Qualifications
+काया का दायिा        िे विएवटि ट् ां सफि मॉिवलं ग, एल्गोरिदवमक विकास औि ट् े स गैस/हरित ग्रह गैस वनगिानी औि
+Scope of Work        अनु प्रयोगों के वलए उपग्रह िे टा का उपयोग किके विश्लेषण किना।
+                     Radiative transfer modelling, algorithmic development and analysis using
+                     satellite data for trace gas / Green House Gas monitoring and applications.
+
+                                         पि कोड POST CODE - 10
+पद का नाम
+                   अनु संधान सहयोगी Research Associate
+Name of the Post
+पद की संख्या
+                   01 (One)
+No. of Position(s)
+                   पृथ्वी विज्ञान/पयाा ििण विज्ञान या संबंवधत विषयों में पीएच.िी. तथा
+अवनिाया अहा ताएं   िावनकी/पारिस्स्थवतकी/आद्रा भूवम में सुदूि संिेदन आधारित अनु प्रयोगों में विशे षज्ञता ।
+Essential          Ph. D in Earth Sciences / Environmental Sciences or related disciplines with
+Qualifications     specialization in Remote Sensing based applications in
+                   forestry/ecology/wetlands
+                   िनस्पवत मे वट् क्स के उत्पादन के वलए सुदूि संिेदन िे टा का उपयोग किके कायाप्रणाली का
+                   विकास, िनों/आद्रा भूवम से काबान के स्रोतों औि वसंक का मॉिवलं ग, िन विक्षोभ औि पुनः विकास
+काया का दायिा      की वनगिानी औि जीआईएस िे टाबेस का विकास। वनसाि-अप में सुदूि संिेदन से प्राि आउटपुट
+Scope of Work      के सत्यापन के वलए फील्ड िे टा संग्रह।
+                   Development of methodology using Remote Sensing data for generation of
+                   vegetation metrics, modelling of sources and sinks of carbon from forests /
+                                                   Page 6 of 18
+                     wetlands, forest disturbance and regrowth monitoring and development of GIS
+                     database. Field data collection for validation of remote sensing derived outputs in
+                     NISAR-UP
+
+
+
+                                         पि कोड POST CODE - 11
+पद का नाम
+                   पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                   01 (One)
+No. of Position(s)
+                   भू भौवतकी/अनु प्रयुक्त भू भौवतकी या संबंवधत विषयों में पीएच.िी. तथा में क्रायोस्फेयि अध्ययन में
+अवनिाया अहा ताएं
+                   विशे षज्ञता।
+Essential
+Qualifications     Ph. D in Geophysics / Applied Geophysics or related disciplines with
+                   specialisation in Cryosphere Studies
+                   वहम िेग उत्पाद की पुनप्राा स्ि औि उत्पादन के वलए वनसाि िे टा का उपयोग औि वहमालय औि
+                   अंटाकावटक क्षे त् पि समय िृं िला साि िे टा औि इनसाि विवध का उपयोग किके ग्राउं विं ग
+                   लाइन/जोन विश्लेषण। काम के वलए समय-िृंिला साि िे टा के प्रसंस्किण औि इसके सत्यापन
+काया का दायिा      औि विश्लेषण की आिश्यकता होती है ।
+Scope of Work      NISAR data utilization for retrieval and generation of ice velocity product and
+                   grounding line/zone analysis using time series SAR data and InSAR method
+                   over Himalayan and Antarctic region. The work requires the processing of the
+                   time-series SAR data, and its validation & analysis.
+
+
+                                         पि कोड POST CODE - 12
+पद का नाम
+                   पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                   01 (One)
+No. of Position(s)
+                   पारिस्स्थवतकी/पयाा ििण विज्ञान/िावनकी या संबंवधत विषयों में पीएच.िी.
+अवनिाया अहा ताएं   Ph. D in Ecology / Environmental Sciences / Forestry or related disciplines.
+Essential                                                        या OR
+Qualifications     भू -सूचना विज्ञान या संबंवधत विषयों में एम.ई./एम.टे क.।
+                   M. E. / M. Tech. in Geo-informatics or related disciplines.
+                   िनस्पवत मे वट् क्स के उत्पादन के वलए सुदूि संिेदन िे टा का उपयोग किके कायाप्रणाली का
+                   विकास, अंतदे शीय औि तटीय आद्रा भूवम से टील/ब्लू काबान का मानवचत्ण, औि जीआईएस
+                   िे टाबेस का विकास। वनसाि-अप में सुदूि संिेदन से प्राि आउटपुट के सत्यापन के वलए फील्ड
+काया का दायिा      िे टा संग्रह
+Scope of Work      Development of methodology using Remote Sensing data for generation of
+                   vegetation metrics, mapping of teal/blue carbon from inland and coastal
+                   wetlands, and development of GIS database. Field data collection for validation
+                   of remote sensing derived outputs in NISAR-UP
+
+                                         पि कोड POST CODE - 13
+पद का नाम
+                   पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                   01 (One)
+No. of Position(s)
+                   सूक्ष्मतिं ग सुदि संिेदन में विशे षज्ञता के साथ सुदूि संिेदन औि जीआईएस या संबंवधत विषयों में
+अवनिाया अहा ताएं   पीएच.िी.
+Essential          Ph. D. in Remote Sensing & GIS or related discipline with specialization in
+Qualifications     microwave remote sensing
+                                                                  या OR
+
+                                                  Page 7 of 18
+                     सुदूि संिेदन एिं जीआईएस/ वजयो-इनफॉमे वटक्स/ वजयोमै वटक्स/वसविल अवभयां वत्की या
+                     संबंवधत विषयों में एम.ई./एम.टे क.
+                     M. E. /M. Tech. in Remote Sensing & GIS/ Geo-informatics/ Geomatics/ Civil
+                     Engineering or related discipline.
+                     उच्च विभे दन मृ दा की नमी के अनु मान के वलए वनसाि िे टासेट का उपयोग किके कायाप्रणाली का
+                     विकास; वनसाि िे टा प्रसंस्किण के वलए उपकिण विकास, विश्लेषण औि अंशां कन औि वनसाि-
+काया का दायिा        अप के अंतगात क्षे त् प्रयोग िे टा के आधाि पि वनसाि मृ दा नमी का सत्यापन।
+Scope of Work        Development of methodologies using NISAR datasets for high resolution soil
+                     moisture estimation; Tool development for NISAR data processing, analysis and
+                     calibration and validation of NISAR soil moisture based on field experiment data
+                     under NISAR-UP
+
+
+                                        पि कोड POST CODE - 14
+पद का नाम
+                   पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                   01 (One)
+No. of Position(s)
+                   भू भौवतकी/पृथ्वी विज्ञान या क्रस्टल विरूपण अध्ययन में विशे षज्ञता के साथ संबंवधत विषयों में
+अवनिाया अहा ताएं
+                   पीएच.िी.
+Essential
+Qualifications     Ph. D in Geophysics / Earth Sciences or related disciplines with specialisation in
+                   Crustal Deformation Studies
+काया का दायिा      वनसाि से एस औि एल बैंि साि िे टा के इं टिफेिोमेवट् क विश्लेषण का उपयोग किके क्रस्टल
+Scope of Work      विरूपण अध्ययन। जीएनएसएस िे टा का उपयोग किके वनसाि से इं टिफेिोमे वट् क उत्पादों का
+                   सत्यापन।
+                   Crustal deformation studies using interferometric analysis of S and L band SAR
+                   data from NISAR. Validation of interferometric products from NISAR using
+                   GNSS data.
+
+
+                                        पि कोड POST CODE - 15
+पद का नाम
+                   पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                   02 (Two)
+No. of Position(s)
+                   जल संसाधन अवभयां वत्की/जल विज्ञान/मृ दा एिं जल अवभयां वत्की या संबंवधत विषयों में
+अवनिाया अहा ताएं
+                   एम.ई./एम.टे क.
+Essential
+Qualifications     M. E. / M. Tech. in Water Resources Engineering/Hydrology / Soil and Water
+                   Engineering or related disciplines
+                   इसिो औि अंतिाा ष्ट्ीय उपग्रह वमशनों से िे टा का उपयोग किते हुए जल विज्ञान में पुनप्राा स्ि,
+                   अंशां कन/सत्यापन औि उपग्रह िे टा एवसवमले शन एल्गोरिदम का विजाइन, विकास, पिीक्षण औि
+                   कायाा न्वयन। सुदूि संिेदन िे टा विश्लेषण, हाइि्ोलॉवजकल औि हाइि्ोिायनावमक मॉिल का
+                   कायाा न्वयन औि मूल्ां कन, फील्ड प्रयोग, हाइि्ोलॉवजकल पैिामीटि पुनप्राा स्ि औि िाउनस्ट् ीम
+                   अनु प्रयोग। जलविज्ञान संबंधी अनु प्रयोगों के वलए भविष्य के संिेदक विकवसत किने के वलए
+काया का दायिा      संिेदक प्रणाली परिभाषा अध्ययन।
+Scope of Work      Design,      development,         testing     and    implementation       of   retrieval,
+                   calibration/validation and satellite data assimilation algorithms in hydrology
+                   utilizing data from ISRO and international satellite missions. Remote sensing
+                   data analysis, implementation and evaluation of hydrological and hydrodynamic
+                   models, field experiments, hydrological parameter retrieval and downstream
+                   applications. Sensor system definition studies to develop future sensors for
+                   hydrological applications.
+
+
+
+
+                                                 Page 8 of 18
+                                           पि कोड POST CODE - 16
+पद का नाम
+                        पररयोजना िै ज्ञावनक-I Project Scientist-I
+Name of the Post
+पद की संख्या
+                        01 (One)
+No. of Position(s)
+अवनिाया अहा ताएं        आिएफ औि सूक्ष्मतिं ग/अनु प्रयुक्त भौवतकी या संबंवधत विषयों में एम.ई./एम.टे क.
+Essential               M. E. / M. Tech. in RF & Microwave/ Applied Physics or related disciplines
+Qualifications
+काया का दायिा           वसंथेवटक एपचाि ििाि (एसएआि) मॉिवलं ग औि व्यु त्क्रमः उच्च-विभे दन वमट्टी की नमी के आकलन
+Scope of Work           के वलए बहु-आिृवि (पी/एल/एस/सी एिं एक्स-बैंि) औि ध्रुिीय साि प्रकीणान मॉिल/व्यु त्क्रम
+                        तकनीक विकवसत किना। एसएआि िे टा प्रसंस्किण औि विश्लेषण;
+                        एम अनु किण औि विश्लेषणः क्षे त्-मापी गई मृ दा औि फसल िे टा के समक्ष एसएआि हस्ताक्षि
+                        संिेदनशीलता का मूल्ां कन किने के वलए विद् युत चुम्बकीय अनु किण औि संख्यात्मक मॉिवलंग
+                        किना। मृ दा की नमी पुनप्राा स्ि औि विश्लेषण के वलए इष्ट्तम साि विन्यास वनधाा रित किने के वलए
+                        मै टलै ब/पायथन का उपयोग किके संिेदक परिभाषा अध्ययन।
+                        Synthetic Aperture Radar (SAR) Modeling & Inversion: Develop multi-frequency
+                        (P/L/S/C & X-band) and polarimetric SAR scattering models/inversion techniques
+                        for high-resolution soil moisture estimation. SAR data processing and analysis;
+                        EM Simulation & Analysis: Perform electromagnetic simulations and numerical
+                        modeling to evaluate SAR signature sensitivity against field-measured soil and
+                        crop data. Sensor definition studies using MATLAB/Python to determine optimal
+                        SAR configurations for soil moisture retrievals and analysis.
+
+नोर्: जहां एम.ई./ एम.र्े क. वडग्री वनधाटररत हो, िहां कुल न्यू नतम 60% अं क (सभी सेमेस्टरों का औसत) या 10
+पाइन्ट स्केल पर 6.5 सीजीपीए /सीपीआई ग्रे वडं ग के साथ उत्तीर्ट होना चावहए तथा एम.एससी. /बी.ई/बी.र्े क.
+वडग्री में कुल न्यूनतम 65% अं क (सभी सेमेस्टरों का औसत) या 10 पाइन्ट स्केल पर 6.84 सीजीपीए/सीपीआई
+ग्रे वडं ग के साथ उत्तीर्ट होना चावहए।
+Note: M. E. / M. Tech. degree, wherever prescribed should have passed with an aggregate
+minimum of 60% marks (average of all semesters) or CGPA/CPI grading of 6.5 on a 10 Point
+scale and M. Sc. /B. E. /B. Tech. degree, wherever prescribed should have passed with an
+aggregate minimum of 65% marks (average of all semesters) or CGPA/CPI grading of 6.84 on a
+10 Point scale.
+कवनष्ठ अनु संधान अध्येता (जेआरएफ) पि (पि कोड- 01 से 07 तक) के आिे िकों के पास वनम्नवलखखत में से कोई
+एक अहट ता भी होनी चावहए:
+Applicants for the position of Junior Research Fellows (Post Code 01 to 07) should also have
+qualified one of the followings:
+
+1. िाष्ट्ीय पात्ता पिीक्षण- सीएसआईआि-यूजीसी ने ट-ले क्चििवशप सवहत (सहायक प्रोफेसिवशप)
+National Eligibility Test- CSIR-UGC NET including Lectureship (Assistant Professorship).
+
+2. अवभयां वत्की में स्नातक योग्यता पिीक्षा (गेट)
+Graduate Aptitude Test in Engineering (GATE).
+
+3. केंद्र सिकाि के विभागों औि उनकी एजें वसयों तथा संस्थानों जै से िीएसटी, िीबीटी, िीएई, िीओएस, िीआििीओ,
+एमओई, आईसीएआि, आईसीएमआि, आईआईटी, आईआईएससी, आईआईएसईआि, एनआईएसईआि, आवद द्वािा
+आयोवजत िाष्ट्ीय स्ति पिीक्षा।
+National level examinations conducted by Central Government Departments and their Agencies and
+institutions such as DST, DBT, DAE, DOS, DRDO, MoE, ICAR, ICMR, IIT, IISc, IISER, NISER etc.
+उपरोक्त अहट ता परीक्षा का पररर्ाम/ अं कपि ऑनलाइन आिे िन की समापन वतवथ अथाटत् 30.09.2026 के
+अनु सार मान्य होना चावहए। Above qualified examination result/ score card should be valid on the
+closing date of online application i.e. 30.09.2026.
+
+                                                    Page 9 of 18
+उपरोक्त पिों के सामने विया गया कायट का िायरा केिल कायट की एक रूपरे खा है , न वक संपूर्ट वििरर्।
+The scope of work provided against the above positions is just an outline of the work and is not
+exhaustive.
+                                             आयु सीमा AGE LIMIT
+पद कोि 01 से 07 (क. अ. अ.)            अवधकतम आयु सीमा 30.09.2026 तक 28 िर्ट/
+For Post Code 01 to 07 (JRFs)         Maximum Age limit is 28 years as on 30.09.2026
+
+पद कोि 08 से 16 के वलए                अवधकतम आयु सीमा 30.09.2026 तक 35 िर्ट/
+For Post Code 08 to 16                Maximum Age limit is 35 years as on 30.09.2026
+
+अ.जा/अ.ज.जा के मामले में अवधकतम आयु सीमा में 5 िषा की छूट तथा अ.वप.ि.-एनसीएल के उम्मीदिािों के वलए 3 िषा
+की छूट प्रदान की जाएगी। से िाित केंद्र सिकाि के कमा चािी, बेंचमाका वदव्यां ग व्यस्क्त, भू तपूिा सैवनक आवद भाित सिकाि
+के वनयमों/ आदे शों के अनु साि ऊपिी आयु सीमा में छूट के पात् हैं । Upper age limit is relaxable by 5 years in case
+of SC/ST and 3 years in case of OBC-NCL candidates. Serving Central Govt. Employees, Persons with
+Benchmark Disabilities, Ex-servicemen etc. are eligible for upper age relaxation as per Govt. of India
+rules/orders.
+                         पररलखियााँ और अन्य लाभ Emoluments & other benefits:
+                                         प्रथम एिं वितीय िर्ट में ₹ 37000/- प्रवत माह+ म.वक.भ.
+                                         For 1st& 2nd year ₹37000/- Per month + HRA
+अध्येतािृ वत्त रावि (जेआरएफ)
+                                         अनुिती िर्ों में ₹42000/- प्रवत माह+ म.वक.भ.
+Fellowship amount (JRF)
+                                         For the subsequent years ₹42000/- Per month + HRA
+पररयोजना िै ज्ञावनक-I                    ₹56000/- प्रवत माह+ म.वक.भ.
+Project Scientist-I                      ₹56000/- Per month + HRA
+                                         अनु संधान सहयोगी-1 ₹58000/- प्रवत माह+ म.वक.भ.
+अनु संधान एसोविएर्िीप रावि               Research Associate - 1 ₹58000/- Per month + HRA
+(आरए) *                                  अनु संधान सहयोगी- 2 ₹61000/- प्रवत माह+ म.वक.भ.
+Research Associateship amount Research Associate – 2 ₹61000/- Per month + HRA
+(RA) *                                   अनु संधान सहयोगी- 3 ₹67000/- प्रवत माह+ म.वक.भ.
+                                         Research Associate – 3 ₹67000/- Per month + HRA
+*अनु संधान सहयोगी के वलए एसोवसएटवशप अभ्यथी की अहा ता एिं प्राि अनु भि के आधाि पि उपिोक्त दशाा ए अनु साि
+तीन िेतन स्तिों में से वकसी एक की समे वकत िेतन िावश वनधाा रित की जाएगी।
+ The Associateship amount for RAs will be fixed as consolidated amount of any pay of three pay levels
+as mentioned above, depending upon the qualification and experience.
+यवद हॉस्टल आिास नहीं वदया जाता है तो तैनाती के स्थान पि वनधाा रित दि से लागू एचआिए का भु गतान वकया जाएगा औि
+विद्यमान वनयमों के अनु साि केिल स्वयं के वलए वचवकत्सीय सुविधा प्रदान की जाएगी। इस सुविधा के वलए फेलोवशप िावश
+को मू ल िेतन माना जाएगा। विद्यमान अं.वि./भाित सिकाि के वनयमानु साि छु ट्टी एिं अन्य सुविधाएँ प्रदान की जाएं गी। इसके
+अलािा, चयवनत अभ्यथी वनयवमत कमा चारियों को प्राि अन्य सुविधाओं या छूट के वलए पात् नहीं होंगे।
+House Rent Allowance (HRA) at the prescribed rates in force at the place of posting will be paid, if not
+provided with hostel accommodation and Medical benefits for self only will be allowed as per extant
+rules. The fellowship amount shall be taken as Basic Pay for this purpose. Leave and other benefits will
+be granted as per extant DOS/GOI rules. Apart from this, the candidates selected will not be entitled to
+any benefits or concessions admissible to regular employees.
+
+                                      चयन प्रविया SELECTION PROCESS:
+वनधाा रित अहा ता न्यू नतम आिश्यकता है औि उक्त का होना अभ्यथी को चयन प्रवक्रया के वलए स्वतः पात् नहीं बना दे ता है ।
+पद(दों) के वलए अवधक संख्या में आिेदन प्राि होने की स्स्थवत में, साक्षात्काि के वलए अभ्यवथा यों का लर्ुसूचीयन
+(आिश्यकता होने पि) शैक्षवणक रिकॉिा तथा विषय विशेषज्ञता के आधाि पि वकया जाएगा। इस संबंध में सैक की सवमवत
+का वनणाय अंवतम होगा l लर्ुसूवचत अभ्यवथा यों को साक्षात्काि के वलए बुलाया जाएगा। लर्ुसूवचत अभ्यवथा यों की सूची सैक
+                                                   Page 10 of 18
+िेबसाइट पि प्रकावशत की जाएगी। साक्षात्काि का विििण सैक िेबसाइट पि प्रकावशत वकए जाएं गे। लघु सूचीकृत
+अभ्यवथटयों को साक्षात्कार के बु लािा-पि केिल ईमेल के माध्यम से भेजे जाएं गे । लर्ुसूचीकृत नहीं वकए गए अभ्यवथा यों
+को कोई सूचना नहीं भेजी जाएगी। अभ्यवथा यों को सलाह दी जाती है वक िे साक्षात्काि में उपस्स्थत होने से पूिा सुवनवित कि
+लें वक िे आिश्यक अहा ता/शतों को पूिा किते हैं । चयन सवमवत द्वािा अहा अभ्यवथा यों का साक्षात्काि वलया जाएगा औि केिल
+साक्षात्काि में प्रदशा न के आधाि पि चयन पैनल तैयाि वकया जाएगा।
+The qualification prescribed is the minimum requirement and possession of the same does not
+automatically make the candidates eligible for selection process. In case large number of applications
+are received for the post(s), shortlisting of candidates (if required) for the interview will be done based
+on academic records and subject specialisation. Decision of SAC committee shall be final in this regard.
+The shortlisted candidates will be called for the interview. List of shortlisted candidate will be published
+on SAC website. Interview schedule will be published on SAC website. The call letters for the
+interview to the short-listed candidates will be sent only by e-mail. No communication shall be
+made to the candidates who are not short-listed. Candidates are advised to carefully satisfy themselves
+regarding their meeting of essential eligibility qualification / conditions before appearing for the
+interview. The interview of eligible candidates will be conducted by the selection committee and
+selection panel will be prepared based on performance in the interview only.
+
+
+
+                               महत्वपू र्ट सूचना IMPORTANT INFORMATION :
+1.   केिल भाितीय नागरिक ही आिेदन किें l
+     Only Indian Nationals need to apply.
+2.   मात् ऑनलाइन वकए गए आिेदनों पि विचाि वकया जाएगा। प्रत्यक्ष रूप से प्रस्तु त आिेदनों पि विचाि नहीं वकया
+     जाएगा।
+     Applications made online only will be entertained. Physical applications will not be entertained.
+3.   वकसी भी पद के वलए कोई आिेदन शु ल्क नहीं है ।
+     There is no application fees for any post.
+4.   पद अस्थायी औि विवशष्ट् अिवध के वलए ही हैं तथा वकसी अं .वि./इसिो केंद्र में वनयवमत वनयुस्क्त के वलए कोई दािा
+     अथिा अवधकाि प्रदान नहीं किते हैं ।
+     The positions are temporary and for specific duration and will not confer any claim or right for
+     regular appointment in any DOS/ISRO Centre.
+5.   ऊपि दशाा यी गई रिस्क्तयां अनं वतम हैं तथा संगठन की िास्तविक आिश्यकताओं के आधाि पि बढाई या र्टाई जा
+     सकती हैं । प्रशासवनक आिश्यकतानु साि, वकसी भी पद को न भिने / वकसी भी स्ति पि भती को िद्द किने का
+     अवधकाि केंद्र के पास सुिवक्षत है ।
+     The number of vacancies indicated above are provisional and may be increased or decreased
+     depending on the actual requirements of the Organisation. The Centre reserves the right to cancel
+     recruitment at any stage / not to fill-up any of the post, as per administrative convenience.
+6.   आिेदन मात् ऑनलाइन प्राि वकए जाएं गे। ऑनलाइन आिेदन भिने हे तु ऑनलाइन भती पोटा ल 10.09.2026 के
+     1000 बजे से 30.09.2026 के 1700 बजे तक खुला रहे गा। इच्छु क अभ्यथी इसके वलए सैक िेबसाइट
+     https://www.sac.gov.in अथिा https://career.sac.gov.in दे ि सकते हैं ।
+     Applications will be received online only. The online recruitment portal will be available from 1000
+     hours on 10.09.2026 to 1700 hours on 30.09.2026 for online registration and filling up of
+     online application. Interested candidates may visit SAC web-site https://www.sac.gov.in OR
+     https://career.sac.gov.in for this purpose.
+7.   अभ्यथी यह सुवनवित करें वक िे पािता मानिं डों को पू र्ट करते हैं और िे विज्ञापन तथा आिे िन फामट में
+     वनवहत अनु िेिों का अनु सरर् करें । अत: अभ्यवथटयों से अनु रोध है वक िे विज्ञापन ध्यानपूिटक पढें एिं आिे िन
+     फामट को पू र्ट रूप से भरें और इस संबंध में विए गए अनु िेिों के अनु सार आिे िन प्रस्तुत करें ।
+     It is for candidates to ensure that he/she fulfils the eligibility criteria and complies with the
+     requirements adhering to the instructions contained in this advertisement as well as in the
+     application form. Candidates are, therefore urged to carefully read the advertisement and
+     complete the application form and submit the same as per instructions given in this regard.
+8.   ऑनलाइन आिेदन की प्रस्तु वत के बाद, अभ्यवथा यों को एक आिेदन नं बि प्रदान वकया जाएगा, वजसे भविष्य में वकसी
+
+                                                   Page 11 of 18
+     भी संप्रेषण के वलए प्रयोग वकया जाना चावहए। ऑनलाइन आिेदन प्रस्तु त किने के बाद, भविष्य के संदभा के वलए
+     आिेदन साि का वप्रंट ले कि िि लें । कृपया नोट किें वक आिेदन/पंजीकिण साि का वप्रंट ले ने के वलए साइट
+     30.09.2026 को 1700 बजे के बाद उपलब्ध नहीं िहे गी।
+     Upon submission of online application, applicants will be provided with an application number,
+     which should be used for all future correspondence. After submission of online application, take
+     print out of the application summary for future reference. Please note that site will not be open
+     for printing the application/registration summary after 1700 hours of 30.09.2026.
+9. यह पूिाा पेवक्षत शता है वक प्रत्ये क पद के समक्ष वनयत अहा ता विश्वविद्यालय/संस्थान द्वािा उक्त पाठ्यक्रम की अनु बंवधत
+     अिवध के भीति पूणा कि ली गई हो।
+     It is a pre-requisite condition that the prescribed qualification against each post should have been
+     completed within the stipulated duration of the course as prescribed by the University/Institution.
+10. जहााँ विश्वविद्यालय अपने उपावध प्रमार्–पि या समेवकत माकट-िीर् में माि सीजीपीए या 10 पाइं र् स्केल पर
+    कोई भी ग्रे वडं ग पाइं र् विवध का उल्ले ख करता है , तो उखल्लखखतानु सार सीजीपीए (कोई भी ग्रे वडं ग पाइं र्)
+    वनवित ही अं .वि./इसरो के पािता मानिं ड के अनु रूप होना चावहए। संबंवधत विश्वविद्यालय/संस्थान िारा
+    रूपांतरर् सूि वनधाटररत होने पर भी पािता वनधाटररत करने के वलए सीजीपीए (कोई भी ग्रे वडं ग पाइं र्) को
+    अं कों के प्रवतित में बिलने की अनु मवत नही ं है । यही मानिं ड यथोवचत पररितटनों सवहत उन मामलों में भी
+    लागू होते हैं , जहााँ उपावध प्रमार्–पि/समेवकत माकट-िीर् पर माि अं कों का प्रवतित उखल्लखखत है ।
+     Where a University mentions only CGPA or any grading point method on a 10 point scale in
+     its Degree certificate or Consolidated Mark-sheet, then the CGPA (Any Grading point) so
+     mentioned should necessarily meet DOS/ISRO’s eligibility criteria. Conversion of CGPA (Any
+     Grading point) into percentage of marks is not permitted to determine eligibility regardless
+     of whether any conversion formula is prescribed by the University/Institution concerned.
+     The same criteria apply mutatis mutandis in cases where only percentage of marks is
+     mentioned in Degree Certificate/Consolidated Mark-sheet.
+11. यवद कोई विश्वविद्यालय अपने उपावध प्रमाण–पत् या समेवकत माका-शीट में सीजीपीए (कोई भी ग्रेविं ग पाइं ट) औि
+    अंकों के प्रवतशत, दोनों का उल्ले ि किता है , तो कम–से-कम एक मानदं ि सीजीपीए (कोई भी ग्रेविं ग पाइं ट) या
+    प्रवतशत अं.वि./इसिो के पात्ता मानदं िो के अनुरूप होना चावहए।
+    Where a university mentions both CGPA (Any Grading point) & Percentage of marks in Degree
+    certificate or Consolidated Mark-sheet, then at least one criteria i.e. either CGPA (Any Grading
+    point) or percentage of marks should meet ISRO/DOS eligibility norms.
+12. अं कों के पू र्ाांकन की अनु मवत नही ं है ।
+    Rounding-off of marks is NOT allowed.
+13. ड्यु अल/एकीकृत स्नातक विग्री के मामले में / For candidates having Dual/Integrated Degree:
+    1. ड्यु अल/ इं टीग्रेटेि विग्री प्रमाणपत् में जहाँ स्नातक औि स्नातकोिि के वलए सीजीपीए / प्रवतशत अलग-अलग
+         दशाा ए गए हैं , िहाँ स्नातक औि स्नातकोिि स्ति के सीजीपीए / प्रवतशत की विद्यमान प्रवक्रया के अनु साि संगणना
+         की जाएगी।
+         Where a CGPA/Percentage for Graduation and Post-Graduation is mentioned separately in
+         Dual/Integrated Degree Certificate, CGPA/Percentage of the graduation and post-graduation
+         level shall be reckoned as per existing procedure.
+    2. जहां ड्यु अल/समे वकत उपावध प्रमाण-पत् में अध्ययन के पूिे पाठ्यक्रम के वलए एक ही सीजीपीए/प्रवतशत
+         उस्ल्लस्ित है , िहां पात्ता तय किने हे तु ड्यु अल/एकीकृत विग्री प्रमाण पत् में अध्ययन के पूिे पाठ्यक्रम के वलए
+         प्रदि अंवतम सीजीपीए/प्रवतशत की गणना की जाएगी ;
+         Where a common CGPA/percentage applicable for the entire course of study only mentioned
+         in Dual/Integrated Degree Certificate, final CGPA/percentage as mentioned in the Dual/
+         Integrated Degree Certificate as applicable for the entire course of study shall be reckoned for
+         deciding the eligibility.
+    3. यवद कोई विश्वविद्यालय अपने ड्यु अल/एकीकृत उपावध प्रमाण–पत् में कोई सीजीपीए/प्रवतशत वनधाा रित नहीं किता
+         है , तो अंवतम/समे वकत माकाशीट के अनु साि संचयी सीजीपीए/ प्रवतशत, जै सा वक अध्ययन के पूिे पाठ्यक्रम के
+         वलए लागू हो, पात्ता तय किने हे तु मान्य होगा;
+         Where a University does not prescribe any CGPA/percentage in Dual/ Integrated Degree
+         Certificate the cumulative CGPA/percentage as per Final/Consolidated Mark Sheet, as
+         applicable for the entire course of study shall be reckoned for deciding the eligibility.
+                                                        Page 12 of 18
+    4. उपिोक्त मानदं ि समान रूप से लागू होंगे चाहे कोई विश्वविद्यालय/संस्थान अपने ड्यु अल/एकीकृत उपावध प्रमाण-
+          पत् में स्नातक/स्नातकोिि के वलए सीजीपीए/प्रवतशत प्राि किने हे तु एक सूत् वनधाा रित किता हो या नहीं;
+          The above criteria will apply uniformly regardless of whether or not a University/Institution
+          prescribes a formula to derive the CGPA/percentage for Graduation/Post Graduation in its
+          Dual/Integrated Degree Certificate.
+14. आगे की भती प्रवक्रया/ िैयस्क्तक साक्षात्काि के संबंध में अभ्यथी से सभी प्रकार का संप्रेर्र् माि ईमेल के माध्यम
+    से / या सैक िे बसाइर् पर प्रकावित वकया जाएगा। इस िजह से, पंजीकिण पूणा किते समय औि ऑनलाइन
+    आिेदन प्रस्तु त किते समय अभ्यथी अपना ईमेल आईिी सही औि अवनिाया रूप से प्रस्तु त किें । इसके अलािा,
+    अभ्यवथा यों को सलाह दी जाती है वक िे अपने ईमेल की वनयवमत रूप से जाँ च किते िहें औि समय-समय पि सैक
+    िेबसाइट दे िते िहें । सैक/इसिो, अभ्यथी को ईमे ल प्राि न होने औि/अथिा तकनीकी या अन्य वकसी भी कािण से
+    संप्रेषण में असफलता/अििोध के वलए उििदायी नहीं होगा।
+    All communication with the candidates regarding further recruitment process/Personal
+    Interview will be sent through E-mail / or published on SAC website only. For this purpose,
+    candidates are required to furnish their E-mail ID correctly and compulsorily while completing the
+    registration and submitting online application. Moreover, the applicants are advised to check their
+    e-mail regularly and visit the SAC website from time to time. SAC/ ISRO will not be responsible for
+    non-receipt of e-mail and/or any failure/interruption in communication due to technical or
+    whatsoever reason/s to the candidates.
+15. ऑनलाइन आिेदन किते समय, जहाँ आिश्यक हो िहां पि अवनिाया शै क्षवणक योग्यता, जावत/जनजावत, मानक
+    वदव्यां गता (पीिब्ल्यू बीिी) से संबंवधत दस्तािेज / प्रमाण-पत् को विवधित प्रारूप में अपलोि वकया जाए। आगे ,
+    दस्तािेज अपलोि किने के संबध में वनदे श ऑनलाइन आिेदन फॉमा भिने के सामान्य वदशा-वनदे श में वदए गए हैं ।
+    While applying online, wherever required documents / certificates related to essential educational
+    qualification, Caste/Tribe, Persons with Benchmark Disabilities (PwBD) should be uploaded in the
+    prescribed format. Further, instructions regarding uploading of documents are available at
+    General Guidelines For Filling The Online Application Form.
+16. अभ्यवथा यों को ऑनलाइन आिेदन में प्रस्तु त वकए गए विििणों के प्रमाण के रूप में साक्षात्काि के समय अपनी अहा ता
+    को प्रमावणत किने के वलए अपनी अंक तावलका/विग्री, जावत/जनजावत प्रमाण-पत्, अनापवि पत्, र्ोषणा आवद की
+    स्व-सत्यावपत प्रवतयों के साथ मू ल दस्तािेज प्रस्तु त किने होंगे। जो उल्ले स्ित दस्तािेज प्रस्तु त किने में असफल होगें
+    उनको साक्षात्काि में भाग लेने की की अनु मवत नहीं दी जायेगी तथा औि यात्ा भिे का भुगतान नहीं वकया जाएगा।
+    Candidates will have to produce original documents alongwith self-attested copies of their Mark
+    sheets /Degrees, Caste/Tribe certificate, NOC, Declaration etc. in proof of the details furnished in
+    their online application to substantiate their eligibility at the time of Interview for verification.
+    Those who fail to produce the said documents shall not be permitted to appear in the Interview
+    and TA will not be paid.
+17. यवद ऑनलाइन आिेदन में दी गई सूचना भती प्रवक्रया के वकसी स्ति पि असत्य पाई जाती है या यवद वकसी भी स्ति
+    पि यह पाया जाता है वक अभ्यथी वनधाा रित/विज्ञावपत मानदं िों को पूिा नहीं किता है तो अभ्यवथा ता िद्द कि दी जाएगी।
+    If any information furnished in the online application is found false at any stage of recruitment
+    process or if at any stage, it is found that the candidate is not fulfilling the prescribed/advertised
+    criteria, the candidature will be cancelled summarily.
+18. एक ही पद के वलए अभ्यथी द्वािा एकावधक बाि आिेदन किने की स्स्थवत में , आिेदन की अंवतम वतवथ से पूिा प्रस्तु त
+    आस्ििी आिेदन पि आगे की प्रवक्रया हे तु विचाि वकया जाएगा।
+    In case of submission of duplicate/multiple applications by candidates for the same post, the last
+    application submitted before the last date of submission of application shall be considered for
+    further processing.
+
+
+
+
+                                                     Page 13 of 18
+19. अनापवत्त प्रमार्-पि: जो अभ्यथी केंद्र/िाज्य सिकाि, सािाजवनक क्षे त् के उपक्रमों, स्वायि वनकायों आवद के तहत
+     कायाित हैं , उन्हें िैयस्क्तक साक्षात्काि के समय संबंवधत वनयोक्ता से प्राि ‘अनापवि प्रमाण-पत्’ जमा किना होगा। जो
+     अभ्यथी आिेदन किने के बाद िोजगाि प्राि किता है /बदलता है , उसे वनयोक्ता को अपने आिेदन का विििण सूवचत
+     किना आिश्यक है औि कौशल पिीक्षा के समय अवनिाया रूप से ‘अनापवि प्रमाण-पत्’ जमा किना होगा। जो
+     अभ्यथी िैयस्क्तक साक्षात्काि के समय मूल अनापवि प्रमाण-पत् जमा किने मे विफल िहता है , उसे िैयस्क्तक
+     साक्षात्काि में उपस्स्थत होने की अनु मवत नहीं दी जाएगी औि यात्ा भिा का भु गतान नहीं वकया जाएगा।
+    No Objection Certificate: Candidates who are employed under Central/State Government, Public
+    Sector Undertakings, Autonomous Bodies etc. have to submit ‘No Objection Certificate’ from the
+    employer concerned, at the time of Personal Interview. A candidate who may gain/change
+    employment after applying for the post, is required to inform the employer the particulars of
+    his/her application and shall mandatorily submit NOC at the time of Personal Interview. Any
+    candidate, who fails to submit NOC in original at the time of Personal Interview, shall not be
+    permitted to appear in the Personal Interview and TA will not be paid.will not be paid.
+20. 30.09.2026 को ही आयु गर्ना, अवनिायट अहट ता प्राखि आवि जैसे सभी उद्दे श्ों के वलए कर्-ऑफ डे र् माना
+    जाएगा।
+    30.09.2026 will be the cut-off date for all purposes like computation of age, acquiring
+    essential qualification etc.
+21. आिे िन की अं वतम वतवथ यानी 30.09.2026 को यवि अं वतम िर्ट या सेमेस्टर का पररर्ाम घोवर्त नही ं हुआ है ,
+    तो ऐसे अभ्यथी आिे िन करने के वलए अहट नही ं हैं ।
+    Candidates waiting for their relevant final year / semester result as on the last date of
+    application i.e. 30.09.2026 are not eligible for apply.
+22. विदे श के विश्वविद्यालयों द्वािा प्रदि विग्री िाले अभ्यवथा यों को साक्षात्काि के समय भाितीय विश्वविद्यालय संर्
+     (एआईयू), नई वदल्ली द्वािा जािी समतुल्ता प्रमाण-पत् प्रस्तुत किना होगा।
+    Candidates possessing Degrees awarded by foreign universities should produce the equivalency
+    certificate issued by Association of Indian Universities (AIU), New Delhi, at the time of Interview.
+23. अ.वप.ि. के अभ्यवथा यों के संबंध में , केिल उन्हीं अभ्यवथा यों को ऊपिी आयु सीमा में छूट प्राि होगी, जो ऑनलाइन
+    आिेदन के वदन क्रीमी ले यि िगा में नहीं आते हैं । अ.वप.ि. प्रमाण पत् में विवशष्ट् रूप से क्रीमी ले यि िगा से अपिजान
+    संबंधी उपिाक्य शावमल होना चावहए तथा िह समय-समय पि अद्यवतत/िैध होना चावहए।
+     In respect of OBC candidates, relaxation in upper age limit will be available only to candidates,
+     who do not fall in creamy layer as on the date of online application. OBC certificates must
+     specifically include the clause regarding exclusion from Creamy Layer and should be
+     updated/valid at the relevant point of time.
+24. साक्षात्काि के समय वदव्यां ग (मानक वदव्यां गता) अभ्यवथायों को वनधाा रित प्रारूप में वदव्यां गता का मूल प्रमाण-पत्
+    प्रस्तु त किना होगा, वजसमें वदव्यां गता का प्रवतशत स्पष्ट् रूप से दशाा या गया हो, जो िाज्य/केन्द्र सिकाि द्वािा विवधित
+    गवठत 3 सदस्ों िाले मेविकल बोिा , वजसमें एक सदस् वदव्यां गता आकलन से संबंवधत क्षे त् का विशे षज्ञ हो, द्वािा जािी
+    वकया गया हो। मानक वदव्यां गों (पीिब्ल्यूिी) के वलए वदव्यां गता की न्यू नतम विग्री 40% है । वदव्यां गता की परिभाषा,
+    वदव्यां गजन अवधवनयम, 2016 के अवधकािों की अनु सूची में उल्ले ि के अनु साि होगी।
+    PwBD (Persons with Benchmark Disabilities) candidates have to submit certificate of disability in
+    the prescribed format clearly indicating the percentage of disability, issued by Medical Board
+    consisting of at least 3 members out of which one shall be a specialist in the particular field for
+    assessing the disability, duly constituted by Central or a State Government at the time of
+    Interview. Degree of disability should be minimum 40% for Persons with Benchmark Disabilities
+    (PwBD). The definition of Disabilities are as specified in the schedule of the Rights of Persons with
+    Disabilities Act, 2016.
+25. कवनष्ठ अनु संधान अध्येता प्रािं भ में एक िषा के वलए वनयुक्त वकया जाएगा औि उनके काम के मू ल्ां कन औि
+    परियोजना की आिश्यकता के आधाि पि इस अिवध को आगे बढाया जा सकता है । कवनष्ठ अनु संधान अध्येता की
+    वनयुस्क्त की अवधकतम अिवध पाँ च िषा से अवधक नहीं हो सकती है ।
+    Junior Research Fellows will be engaged initially for ONE YEAR and is extendable for further
+    periods based on assessment of their work and requirement of project. The maximum period of
+    engagement of Junior Research Fellow shall not exceed FIVE years.
+
+
+
+                                                      Page 14 of 18
+26. अनु संधान सहयोगी को प्रािं भ में एक िषा के वलए कायाित वकया जाएगा औि उनके काम के आकलन औि परियोजना
+    की आिश्यकता के आधाि पि इस अिवध को आगे बढाया जा सकता है । अनु संधान सहयोगी की वनयुस्क्त की
+    अवधकतम अिवध तीन िषा से अवधक नहीं हो सकती है ।
+    Research Associates will be engaged initially for ONE YEAR and is extendable for further period
+    based on assessment of their work and requirement of project. The maximum period of
+    engagement of Research Associate shall not exceed THREE years.
+27. परियोजना िैज्ञावनक-I प्रािं भ में एक िषा या परियोजना की अिवध के वलए वनयुक्त वकया जाएगा औि उनके काया तथा
+    परियोजना की आिश्यकतानुसाि वनयुस्क्त आगे बढाई जा सकती है । सभी पद परियोजना की समास्ि पि स्वतः
+    समाि हो जाएं गे।
+    Project Scientist-I will be engaged initially for ONE YEAR or till the project duration and is
+    extendable for further periods based on assessment of their work and requirement of project. All
+    the positions are co-terminus with the projects.
+28. चयवनत जे आिएफ को मान्यताप्राि विश्वविद्यालयों से पीएच.िी. के वलए पंजीकृत किने औि ऐसे संबंवधत विषय का
+    चयन किने के वलए प्रोत्सावहत वकया जाएगा वजससे उसे तथा सैक को लाभ हो। हालां वक, उन्हें पीएच.िी. अनु संधान
+    पूणा किने के वलए अवतरिक्त समय काया किना होगा वजसके वलए अलग से कोई छु ट्टी नहीं दी जाएगी।
+    The selected JRFs are encouraged to register for Ph.D. from recognized Universities and take up
+    relevant research topic benefitting the individual and SAC. However, they have to work extra time
+    to complete the Ph.D. research for which any leave will not be granted separately.
+29. वकसी प्रकाि की काया रिपोटा प्रकावशत वकए जाने के पूिा उपयु क्त सैक/इसिो प्रावधकािी से स्वीकृवत प्राि की जानी
+    चावहए।
+    Clearance of appropriate SAC/ISRO authority shall have to be taken before publishing any work
+    report.
+30. जे आिएफ /आिए/पीएस-I, सैक/इसिो के अनु शासनात्मक विवनयमों के अधीन होंगे।
+    JRF/ RA/PS-I shall be governed by the disciplinary regulations of SAC/ISRO.
+
+31. जे आिएफ / आिए / पीएस-I से यह अपेवक्षत होगा वक अपने कायाकाल की समास्ि/ त्यागपत् वदए जाने पि
+    अध्येतािृवत की कालािवध में उनके द्वािा वकए गए अनु संधान कायों की विस्तृ त समे वकत रिपोटा प्रस्तु त किे ।
+    JRF/ RA/PS-I shall be required to submit a detailed consolidated report of the research work done
+    during the entire period of Fellowship on completion of the tenure/resignation.
+32. वकसी भी रूप में प्रभाि िालने का प्रयास किने िाले अभ्यवथा यों को अयोग्य र्ोवषत वकया जाएगा।
+    Canvassing in any form will be a disqualification.
+
+33. वकसी भी अंतरिम पत्ाचाि/फोन कॉल पि विचाि नहीं वकया जाएगा।
+    No interim correspondence/phone calls will be entertained.
+
+34. चयवनत अभ्यवथा यों को सैक, अहमदाबाद में तैनात वकया जाएगा। हालां वक, परियोजना काया/अनु संधान की अिवध के
+    दौिान उन्हें भाित में वकसी भी स्थान पि िहने औि काया किने की आिश्यकता पड़ सकती है ।
+    The selected candidates shall be posted at SAC, Ahmedabad. However, they may be required to
+    work and stay at any location in India during their tenure for Project work/ Research.
+35. साक्षात्काि के वलए शहि के बाहि से बुलाए गए अभ्यवथा यों को यात्ा का साक्ष्य प्रस्तु त किने पि आिेदन में वदए गए पते
+    से साक्षात्काि स्थल तक आने -जाने का वद्वतीय/शयनयान िेणी िे लिे का लर्ुतम दू िी का वकिाया या एसी िवहत बस का
+    वकिाया अथिा िास्तविक वकिाया, जो भी कम हो, प्रदान वकया जाएगा चाहे यात्ा िे ल, बस, हिाई, इत्यावद वकसी भी
+    माध्यम से की गई हो। (वजन योग्य अभ्यवथा यों को साक्षात्काि के वलए अनु मवत दी जायेगी, केिल उन्हीं को यात्ा भिा का
+    वनयमों के अनु साि भु गतान वकया जाएगा।)
+    Outstation Candidates called for Interview will be paid to and fro Second /Sleeper Class Railway
+    Fare or non-AC Bus fare or actual fare whichever is less as per shortest distance from the address
+    given in online application to the place of interview on production of proof of journey, irrespective
+    of the mode of journey viz., Rail, Bus, Air, etc. (Eligible candidates who are allowed for Interview
+    will alone be paid Travelling Allowance as per the rules.)
+36. मु क्त एिं दू िस्थ वशक्षा (ओिीएल) के माध्यम से व्यिसावयक कोसा किने िाले अभ्यथी पात् नहीं हैं ।
+    Candidates who have pursued professional course through Open and Distance Learning (ODL) are
+    not eligible for consideration.
+
+                                                    Page 15 of 18
+37. यवद अभ्यथी समकक्ष विशे षज्ञता का दािा किता है तो उसे अपने संस्थान/ विश्वविद्यालय से इस आशय का प्रमाण-पत्
+    प्राि किना होगा वक विज्ञापन में मां गी गई विशे षज्ञता उनके द्वािा आिेवदत पद के समतुल् है । अंवतम वनणाय का
+    अवधकाि सैक के पास सुिवक्षत है ।
+    In case candidate is claiming equivalent specialization, he/she has to obtain certificate from
+    his/her Institute/University stating that the specialization is equivalent to the one asked in the
+    advertisement for the post applied for. SAC reserves the right for the final decision.
+38. सिकाि ऐसा कायाबल तैयाि किने का प्रयास कि िही है वजसमें लैं वगक संतुलन हो, अतः मवहला अभ्यवथा यों को
+    आिेदन किने के वलए प्रोत्सावहत वकया जाता है ।
+    Government strives to have a workforce which reflects gender balance and women candidates are
+    encouraged to apply.
+39. चयवनत अभ्यवथा यों को ई-मेल/सैक िेबसाइट द्वािा सूवचत वकया जाएगा तथा वचवकत्सा प्रावधकािी द्वािा योग्य र्ोवषत
+    वकए जाने पि तुिंत पद पि कायाग्रहण किना होगा।
+    Selected candidates may be intimated through email / SAC website and have to join the post on
+    being found fit by a Medical Authority.
+40. सैक/इसिो के पास वबना कोई कािण बताए साक्षात्काि को िद्द किने /आगे बढाने का अवधकाि सुिवक्षत है । सैक/इसिो
+    परियोजना पूणा होने के पहले अनु बंध को समाि किने का भी अवधकाि सुिवक्षत ििता है वजसके स्िलाफ कोई
+    अपील नहीं की जा सकती।
+    SAC/ISRO reserves the right to cancel/postpone the interview without assigning any reason
+    thereof. SAC/ISRO also reserves the right to terminate the contract, even before completion of the
+    project for which no appeal thereof shall be made.
+41. विज्ञापन के अंग्रेजी/वहं दी के वकसी भी िं ि की व्याख्या में अस्पष्ट्ता/वििाद के मामले में , सैक का वनणाय अंवतम होगा।
+    In case of any ambiguity/dispute arising on account of interpretation of any clause either in
+    Hindi/English version of this advertisement, the decision of SAC will be final.
+42. इस विज्ञापन से उत्पन्न होने िाले वकसी भी दािे या वििाद के संबंध में कोई भी कानू नी कायािाही अहमदाबाद में ही की
+    जा सकती है ; औि केिल अहमदाबाद के न्यायालयों के पास ऐसे वकसी भी मामले /वििादों को वनपटाने का एकमात्
+    औि अनन्य क्षे त्ावधकाि होगा।
+    Any legal proceedings in respect of any matter of claim or dispute arising out of this
+    advertisement can be instituted in Ahmedabad; and the Courts at Ahmedabad only shall have sole
+    and exclusive jurisdiction to try any such cases/disputes.
+43. कोई भी पररविष्ट/ अद्यतन/ िुखिपि केिल सैक िे बसाइर् पर प्रकावित वकया जाएगाI अभ्यथी निीनतम
+    अद्यतन सूचना हे तु सैक िेबसाइट https://www.sac.gov.in या https://careers.sac.gov.in वनयवमत रूप
+    से दे िते िहें ।
+    Any Addendum/Update/Corrigendum will only be published on SAC website. Candidates
+    should regularly visit the SAC website https://www.sac.gov.in or https://careers.sac.gov.in for
+    latest updates.
+
+
+
+
+                                                     Page 16 of 18
+                                 ऑनलाइन आिे िन भरने हेतु सामान्य वििावनिे ि
+              GENERAL GUIDELINES FOR FILLING THE ONLINE APPLICATION FORM
+1.   आिेदन भिते समय अनु देशों का सािधानी से पालन किें ।
+     Follow instructions carefully while filling application form.
+2.   संबंवधत कॉलम में अपेवक्षत सही आं किे भिें ।
+     Enter correct data in the relevant columns as required.
+3.   फोर्ो और हस्ताक्षर अपलोड करने हे तु वििावनिे ि
+     Guidelines for uploading Photo and Signature:
+     आिेदन पत् जमा किने के वलए अभ्यथी को हाल ही के िं गीन पासपोटा आकाि की फोटो औि हस्ताक्षि
+     अपलोि किना अवनिाया है । वनम्नवलस्ित वदशावनदे शों का पालन किते हुए पासपोटा आकाि फोटोग्राफ 1
+     एमबी से कम की जे पीईजी फाइल होनी चावहए।/ It is mandatory for the candidate to upload recent
+     Colored Passport Size Photograph and signature to submit the application form. The
+     Passport Size Photograph should be a JPEG file of less than 1 MB with the following
+     guidelines to be followed:
+           सेल्फी की अनु मवत नहीं है ।/ No selfies allowed.
+           पूिा चेहिा स्पष्ट् वदिाई दे ता हो।/ Frontal view of the full face is visible.
+            बैकग्राउं ि सादा/सफेद होना चावहए।/ Background should be plain/white.
+            हाल के िं गीन पासपोटा साइज फोटोग्राफ के अलािा धुं धली तस्वीि या वकसी अन्य तस्वीि के साथ
+              अपलोि वकया गया आिेदन िारिज कि वदया जाएगा। Application with blurred photograph or
+              any image uploaded other than the recent colored passport size photograph shall be
+              summarily rejected.
+            श्वे त-श्याम तस्वीिों की अनुमवत नहीं है । / Black and white photographs not allowed.
+
+     1 एमबी से कम की जे पीईजी फाइल में अभ्यथी के हस्ताक्षि का अनु पात 7:2 (यवद चौड़ाई 70 वपक्सेल है तो ऊंचाई
+     20 वपक्सेल) होना चावहए।
+     The candidate’s signature should have an aspect ratio of 7:2 (if width is 70 pixels then height
+     should be 20 pixel) in JPEG file of less than 1 MB.
+
+     ऑनलाइन आिे िन पोर्ट ल पर विए गए वनिे िानु सार अवनिायट अहट ता से संबंवधत िस्तािे ज अपलोड करना
+     भी अवनिायट है ।
+     IT IS ALSO MANDATORY TO UPLOAD DOCUMENTS PERTAINING TO ELIGIBILITY OF THE
+     CANDIDATE AS PER GUIDELINES IN ONLINE APPLICATION PORTAL.
+4.   * से वचवित फील्ड अवनिाया हैं औि उन्हें आिश्यक रूप से भिा जाना है ।
+     Field marked with * is a mandatory field and requires to be filled.
+5.   जब भी माँ गा जाये, अवनिाया शै क्षवणक योग्यता / जावत/ जनजावत प्रमाण-पत्, मानक वदव्यां गता प्रमाणपत्
+     (पीिब्ल्यू बीिी) सैक िेबसाइट पि वदए गए वनधाा रित प्रपत् में अपलोि वकए जां ए। (फाइल साइज 1. एम.बी. से
+     कम होनी चावहए।
+     As and when required, documents / certificates related to essential educational qualification /
+     Caste / Tribe Certificate, Persons with Benchmark Disabilities (PwBD) Certificate should be
+     uploaded in the prescribed format (file size should be less than 1 MB) as given on SAC website:
+     मानक वदव्यां गता प्रमाणपत् (पीिब्ल्यू बीिी) ( Persons with Benchmark Disability (PWBD)
+     अनु सूवचत जावत (एससी)/अनु सूवचत जनजावत(एसटी) Scheduled Castes (SC)/Scheduled Tribes (ST)
+     अन्य वपछड़ा िगा (अ. वप. ि.-एनसीएल)/Other Backward Class-Non Creamy Layer (OBC-NCL)
+6.   नोर्ः आिे िन केिल एक बार प्रस्तुत वकया जा सकता है । ‘SUBMIT’ बर्न एक वनर्ाटयक चरर् है ,क्ोंवक
+     इसके बाि कोई भी सुधार नही वकया जा सकेगा। इसवलए प्रस्तुत करने से पू िट एक बार वफर से सुवनवित
+     करें वक जानकारी सही है ।
+     NOTE: Application can be submitted only once. Hence clicking the ‘SUBMIT’ button is a
+     critical step, as no corrections will be possible subsequently. So you should ensure once
+     again that the information is correct before submitting.
+
+
+
+
+                                                 Page 17 of 18
+                                महत्वपू र्ट वतवथयााँ IMPORTANT DATES:
+ऑनलाइन पंजीकिण तथा आिेदन हे तु िेबसाइट वलं क िु लने की वतवथ                      10.09.2026
+Opening date for Online Registration and Applications on website         (1000 बजे से From 1000 hrs.)
+आिेदन सािां श के वप्रंट ि ऑन-लाइन पंजीकिण बंद होने की वतवथ
+                                                                                30.09.2026
+Closing date for online registration, submission of application and
+                                                                         (1700 बजे तक Till 1700 hrs.)
+printing of application summary
+
+
+                                   संपकट नं बर CONTACT NUMBERS:
+ऑनलाइन आिेदन किने के दौिान तकनीकी पूछताछ के वलए                         079 2691 5510 / 13
+For technical queries occurred during applying online
+सामान्य पूछताछ के वलए                                                   079 2691 3025 / 22
+For general queries
+ई-मे ल पता                                                              ao_rr@sac.isro.gov.in
+Email address
+विज्ञापन में पूिा से ही उपलब्ध सूचना के बािे में पूछताछ वकए जाने पि उसका जबाि ई-मे ल/टे लीफोन से नहीं वदया
+जाएगा।
+(Queries for which information is available in the advertisement shall not be replied over phone /
+email.)
+अपने आिे िन की अद्यतन खस्थवत की जानकारी के वलए हमारी िेबसाइर् https://www.sac.gov.in या
+https://careers.sac.gov.in िे खें।
+VISIT OUR WEB-SITE https://www.sac.gov.in or https://careers.sac.gov.in FOR LATEST
+UPDATES ON THE STATUS OF YOUR APPLICATION.
+
+
+
+
+                                                Page 18 of 18
+

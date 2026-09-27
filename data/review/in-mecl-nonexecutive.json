@@ -1,0 +1,2583 @@
+{
+  "sourceId": "in-mecl-nonexecutive",
+  "collectedAt": "2026-09-25T04:48:14.728Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 1",
+      "programme": "MECL non-executive Accountant recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "6 provisional Accountant W-7 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Graduate and CA/ICWA Intermediate pass; three years of relevant accounts experience after that Intermediate qualification. Basic computer and SAP-FICO proficiency are desirable. All six vacancies are backlog/reserved. Original advertisement Table I, printed page 1. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 1, printed page 1; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 1 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-01",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Accountant — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹22,900–₹55,900 IDA basic scale (W-7), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 2",
+      "programme": "MECL non-executive Technician (Survey) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "12 provisional Technician (Survey) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "ITI in Survey or Diploma in Survey. One year of post-qualification survey experience is desirable, not mandatory. Six fresh and six backlog posts. Original advertisement Table I, printed page 1. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 2, printed page 1; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 2 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-02",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Technician (Survey) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 3",
+      "programme": "MECL non-executive Technician (Sampling) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "7 provisional Technician (Sampling) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "B.Sc.; one year of post-qualification Drill Core or Mine Sampling experience is desirable. Six fresh and one backlog post. Original advertisement Table I, printed page 2. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 3, printed page 2; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 3 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-03",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Technician (Sampling) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 4",
+      "programme": "MECL non-executive Technician (Laboratory) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "2 provisional Technician (Laboratory) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "B.Sc. in Chemistry, Physics or Geology. One year of relevant laboratory experience is desirable. Both posts are backlog and marked for ex-servicemen. Original advertisement Table I, printed page 2. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 4, printed page 2; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 4 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-04",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Technician (Laboratory) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 5",
+      "programme": "MECL non-executive Assistant (Materials) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "16 provisional Assistant (Materials) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Graduate with Mathematics or B.Com.; approved/recognized course and degree. No mandatory experience. Basic computer and SAP-MM skills are desirable. Six fresh and ten backlog posts. Original advertisement Table I, printed page 2. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 5, printed page 2; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 5 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-05",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Assistant (Materials) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 6",
+      "programme": "MECL non-executive Assistant (Accounts) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "10 provisional Assistant (Accounts) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "B.Com. from approved/recognized course. No mandatory experience. Basic computer and SAP-FICO skills are desirable. Five fresh and five backlog posts. Original advertisement Table I, printed page 2. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 6, printed page 2; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 6 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-06",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Assistant (Accounts) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 7",
+      "programme": "MECL non-executive Stenographer (English) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "4 provisional Stenographer (English) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Graduate in any stream plus English shorthand certificate at 80 words per minute. Basic computer skill is desirable. All four vacancies are backlog; verify category and ex-serviceman/PwD allocation. Original advertisement Table I, printed page 3. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 7, printed page 3; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "English shorthand certificate at 80 words per minute is essential for Stenographer (English). This is a shorthand speed, not a CEFR level.",
+            "evidence": "MECL advertisement 03/Rectt./2026, Table I, post code 7, page 3.",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 7 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-07",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Stenographer (English) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 8",
+      "programme": "MECL non-executive Assistant (Hindi) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "1 provisional Assistant (Hindi) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Graduate with Hindi and English as subjects, or degree in English plus an equivalent examination in Advanced Hindi. Basic computer proficiency with Hindi is desirable. One SC backlog vacancy. Original advertisement Table I, printed page 3. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 8, printed page 3; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          },
+          {
+            "language": "hi",
+            "stage": "apply",
+            "requirement": "Degree with Hindi and English as subjects, or English degree plus equivalent Advanced Hindi examination, required for Assistant (Hindi). No standardized speaking level is stated.",
+            "evidence": "MECL advertisement 03/Rectt./2026, Table I, post code 8, page 3.",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 8 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-08",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Assistant (Hindi) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 9",
+      "programme": "MECL non-executive Electrician recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "7 provisional Electrician W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "ITI or Diploma in Electrical, valid Wireman certificate, and one year of post-certificate electrical work experience. Six fresh and one backlog post; medical colour/night-vision check applies. Original advertisement Table I, printed page 3. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 9, printed page 3; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 9 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-09",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Electrician — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 10",
+      "programme": "MECL non-executive Machinist recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "2 provisional Machinist W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "ITI in Turner/Machinist/Grinder/Miller trade or specified mechanical/manufacturing/production/tool-and-die Diploma, plus one year of relevant machine-shop experience. Both posts are ST backlog; medical colour/night-vision check applies. Original advertisement Table I, printed page 4. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 10, printed page 4; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 10 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-10",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Machinist — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 11",
+      "programme": "MECL non-executive Technician (Drilling) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "12 provisional Technician (Drilling) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Specified mechanic/fitter ITI or Drilling/Mechanical Engineering Diploma, valid HMV licence, and one year of qualifying drilling or rig-maintenance experience after ITI where applicable. All twelve posts are backlog/reserved for ex-servicemen; medical vision check applies. Original advertisement Table I, printed page 4. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 11, printed page 4; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 11 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-11",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Technician (Drilling) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 12",
+      "programme": "MECL non-executive Mechanic recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "1 provisional Mechanic W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Specified Diesel/Motor Mechanic/Fitter ITI or mechanical/automobile/production/manufacturing Diploma, valid HMV licence, and one year relevant post-qualification mechanic experience. Apprenticeship may count under notice conditions. One OBC-NCL backlog post; medical vision check applies. Original advertisement Table I, printed page 6. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 12, printed page 6; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 12 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-12",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Mechanic — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 13",
+      "programme": "MECL non-executive Mechanic-cum-Operator (Drilling) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "30 provisional Mechanic-cum-Operator (Drilling) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Specified earth-moving/diesel/motor mechanic/fitter ITI or Mechanical/Automobile/Drilling Engineering Diploma, plus one year of relevant post-ITI mechanic, fitter or drilling experience. Apprenticeship may count under notice conditions. Twenty-four fresh and six backlog posts; medical vision check applies. Original advertisement Table I, printed page 7. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "diploma",
+          "evidence": "Advertisement Table I, post code 13, printed page 7; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 13 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-13",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Mechanic-cum-Operator (Drilling) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 14",
+      "programme": "MECL non-executive Junior Driver recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "6 provisional Junior Driver W-3 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "10th pass, valid LMV and HMV licences, and one year combined light/heavy vehicle driving experience. Five fresh and one backlog post; medical vision check applies. Original advertisement Table I, printed page 8. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "secondary",
+          "evidence": "Advertisement Table I, post code 14, printed page 8; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 14 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-14",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Junior Driver — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹19,600–₹47,900 IDA basic scale (W-3), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 15",
+      "programme": "MECL non-executive Assistant (IT) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "3 provisional Assistant (IT) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "Listed computer-related bachelor's degree, or any graduation plus one-year post-graduation or PG Diploma in IT/Computer Science/Computer Applications from recognized institution. No mandatory experience. Three fresh posts. Original advertisement Table I, printed page 8. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 15, printed page 8; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 15 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-15",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Assistant (IT) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "MECL advertisement 03/Rectt./2026, post code 16",
+      "programme": "MECL non-executive Assistant (HR) recruitment",
+      "status": "open",
+      "statusNote": "Official Careers index and two exact PDFs checked. Recruitment and language details remain pending founder review; later 03/2026 amendments require a new extraction.",
+      "scopeLabel": "One post-code application under a 16-code central public-sector recruitment. MECL may assign staff across India; Nagpur is the published test city, not a domicile rule.",
+      "outcome": "3 provisional Assistant (HR) W-4 posts, including any fresh/backlog and category reservations stated in Table I; applicants must verify their post-code category allocation.",
+      "qualifications": "BA, B.Com., B.Sc., BBA, BBM or BSW from approved/recognized institution. No mandatory experience. Basic computer and SAP-HCM proficiency are desirable. Two fresh and one backlog post. Original advertisement Table I, printed page 9. Essential education normally needs Indian recognition; at least 45% marks applies to essential qualifications where stated. Higher education alone does not replace a required trade qualification.",
+      "citizenshipRule": "Detailed MECL advertisement §8(i), page 13: only Indian nationals are eligible to apply. Foreign citizens do not meet this published application criterion; overseas residence alone is not the test.",
+      "residenceRule": "No applicant state domicile is stated. Aadhaar ID proof is listed among required uploads (page 17); identity-document suitability needs individual verification. MECL work assignments may be anywhere in India.",
+      "selectionStages": [
+        "Online post-code registration and applicable fee",
+        "Eligibility screening",
+        "Written competitive examination in Nagpur",
+        "Original document verification",
+        "Qualifying skill/trade test in Nagpur, as applicable",
+        "Medical and appointment checks where specified"
+      ],
+      "fee": "₹500 for General/OBC/EWS. SC, ST, PwD, ex-servicemen and departmental applicants are exempt under §8(xix). Online payment portal only.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "age": {
+          "max": 30,
+          "relaxations": [
+            {
+              "category": "sc",
+              "years": 5
+            },
+            {
+              "category": "st",
+              "years": 5
+            },
+            {
+              "category": "obc",
+              "years": 3
+            },
+            {
+              "disability": true,
+              "years": 10
+            }
+          ],
+          "evidence": "Advertisement §1 and §3, pages 9–10: age max 30 for UR/EWS as on 1 September 2026; SC/ST +5, OBC-NCL +3, PwD +10 or combined +13/+15. Ex-serviceman and other routes require review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement §8(i), page 13: only Indian nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Advertisement Table I, post code 16, printed page 9; exact discipline, certificate, mark and recognition rules require document review."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Exam instructions require the application declaration in the candidate's handwriting and in English only; a typed declaration is allowed for the specified visually impaired candidates. No formal English proficiency level or certificate is stated.",
+            "evidence": "MECL 03/Rectt./2026 online-exam instructions, page 5, before applying, clause (v).",
+            "sourceUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify post code 16 essential credentials, marks, any experience/licence, eligible reservation/backlog category, Aadhaar upload, and specific age-relaxation documents."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam call letter and exact Nagpur centre, written-test cut-off, and post-specific skill/trade test. English declaration and role-specific language credentials are not CEFR equivalents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm original qualifications, category/experience proof, any post-specific medical standards and MECL appointment checks."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "MECL written, skill and trade tests (exact centre on call letter)",
+          "city": "Nagpur",
+          "latitude": 21.1463,
+          "longitude": 79.0849,
+          "precision": "city",
+          "subdivision": "IN-MH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+      "changes": [],
+      "id": "mecl-03-2026-post-16",
+      "sourceId": "in-mecl-nonexecutive",
+      "title": "Assistant (HR) — MECL 2026",
+      "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-12",
+        "closesOn": "2026-10-11",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Detailed advertisement §10.2 and Important Dates page 18: online registration 12 September–11 October 2026. No closing hour is printed. Eligibility age/qualification cut-off is separately 1 September 2026."
+      },
+      "salary": "₹20,200–₹49,300 IDA basic scale (W-4), plus applicable benefits; original Table I.",
+      "sources": [
+        {
+          "id": "in-mecl-nonexecutive:bc9b48e9c101",
+          "title": "MECL official Careers notice and application register",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mecl.co.in/Careers.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/Careers.aspx",
+          "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:25.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:b5583cb7307d",
+          "title": "MECL detailed advertisement 03/Rectt./2026, 18 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+          "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:34.985Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mecl-nonexecutive:49ba27750804",
+          "title": "MECL 03/2026 online-examination and application instructions, 10 pages",
+          "authority": "Mineral Exploration & Consultancy Limited, Ministry of Mines",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+          "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+          "lastSuccessfulFetchAt": "2026-09-25T04:48:44.920Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://mecl.co.in/Careers.aspx",
+      "fetchedAt": "2026-09-25T04:48:25.033Z",
+      "sha256": "1b90957a4783d8caf1aa39d0f028ef8265cc213b0330c1b801fd3fdd2eed8a16",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 285260
+    },
+    {
+      "url": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+      "fetchedAt": "2026-09-25T04:48:34.985Z",
+      "sha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+      "contentType": "application/pdf",
+      "bytes": 773796
+    },
+    {
+      "url": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+      "fetchedAt": "2026-09-25T04:48:44.920Z",
+      "sha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+      "contentType": "application/pdf",
+      "bytes": 281376
+    }
+  ],
+  "warnings": [
+    "Advertisement 03/2026 has 16 post codes and 122 provisional vacancies. Other MECL advertisements, result notices and any later 03/2026 corrections are separate coverage or review items.",
+    "Only Indian nationals are permitted to apply. No general English CEFR level is printed; English declaration, shorthand speed and Hindi education requirements are separate conditions.",
+    "Application deadline has date precision only; do not invent 23:59 or use 1 September eligibility cut-off as application close.",
+    "Some positions are entirely category/backlog/ex-serviceman reserved. Category eligibility and medical/experience alternatives require founder review for each code.",
+    "Advertisement §10.11 uses ambiguous wording about applying for more than one post. Portal form identity and one-post limit need founder confirmation.",
+    "MECL robots.txt states Crawl-delay: 10; collector spaces requests to mecl.co.in by at least ten seconds."
+  ],
+  "approvalRevisions": {
+    "mecl-03-2026-post-01": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "81d7236a263f4233334f42dc1e871db8def9774e9eece61998fdc52a2a834b3d"
+    },
+    "mecl-03-2026-post-02": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "ff1fc0d8f76d950d88cd7b0ac1e5a28c2d0aeb31b78f3824117cb916ce98fff8"
+    },
+    "mecl-03-2026-post-03": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "969fe58221d8e7ae9befb2bcdc192464ddccfec0e5164b398861e765cd19c430"
+    },
+    "mecl-03-2026-post-04": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "fa4bcf50d3ed440ba391396bac8be6e4d3f92d1baec834fbf7a73cf51008e1ed"
+    },
+    "mecl-03-2026-post-05": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "e787b677c9fd1dfe4583dd982b5dfd4e5ee38a01efc2359117b9f5ffa90da88b"
+    },
+    "mecl-03-2026-post-06": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "234766a21c7dd1c84b2bd1a0178320c47f7d3d2ee6610ce779a7320c3395fdcf"
+    },
+    "mecl-03-2026-post-07": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "9b1bc7abaffc0997e44532785cfd29b27a60c7973ca7fba100012b9b4a6b2469"
+    },
+    "mecl-03-2026-post-08": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "3e35ff551ffcb12924438d442dea146c89da4cca3aa8520aab3b43b1826ca249"
+    },
+    "mecl-03-2026-post-09": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "7bc79c1ad5ce56d0b29390fe2936162e0d63d56ba8350a5a48ae9631fa9a8b11"
+    },
+    "mecl-03-2026-post-10": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "e69556ef34e38b298e3f0cccd2f271b2eb91644cd5cee42558fa52722bb7ed41"
+    },
+    "mecl-03-2026-post-11": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "704ec1df2537ccdcbc505b4c4e50d9cf25c452c6853f69d287ed0e08ff1f4519"
+    },
+    "mecl-03-2026-post-12": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "bbd2e59f6d1e31026e729626709e91f37fdf0cc03ec97238698c2090bad82e84"
+    },
+    "mecl-03-2026-post-13": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "00b5f6492aae3c608cc27cac0ce58618bcf2a6a05759a253526e7fdefbf0a043"
+    },
+    "mecl-03-2026-post-14": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "a921a1a2401baecf0e7b376e8083fb4a24b5bc9b5e47ae213950773318505fd4"
+    },
+    "mecl-03-2026-post-15": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "a72e08eb6ecda2e808e7e0d623e13614fa5106282b9bc2029a8c5efbe230dd21"
+    },
+    "mecl-03-2026-post-16": {
+      "evidenceRevision": "73139433d79b7a2a777fc7eab03dceee41025272e866d493742c110c8a19217a",
+      "recordRevision": "9a907b19ba1e6d3f16cbd49ac340a4495fb577bb8135e1337d87bd17d597c380"
+    }
+  }
+}

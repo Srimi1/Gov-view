@@ -1,0 +1,52 @@
+{
+  "phase": 78,
+  "researchDate": "2026-09-27",
+  "notPublishedEligibility": true,
+  "sources": [
+    {
+      "sourceId": "in-ap-recruitment",
+      "summary": "Original-backed draft research, awaiting review. Forest Range Officers brief 16/2026 dated 15 September announces four provisional direct-recruitment vacancies; permanent tenure is not established. Original online dates 16 October–5 November 2026, 23:59 close; governing timezone unknown and corrected in pending draft. Detailed notification is due by 16 October and must replace brief extraction before opening. Degree must exist as at detailed-notification date; physical standards, age, nationality and domicile await that notice. Page 3 requires English AND Telugu separately at SSC Standard, 50 marks each, plus walking/Medical Board and separate qualifying Computer Proficiency Test. SSC Standard is not CEFR. Passing language tests cannot establish application or appointment eligibility. Current browser register matches brief link; reader failed. One existing draft and exact retained originals remain pending; no new collection or health timestamp.",
+      "indexUrl": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+      "originalUrl": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+      "sourceLanguage": "English",
+      "pages": 17,
+      "priorRetainedOriginalSha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+      "priorSuccessfulFetchAt": "2026-09-24T21:28:02.065Z",
+      "readerObservationDate": "2026-09-27",
+      "readerStatus": "reader-failure; ordinary-browser-readable",
+      "newOriginalBytesRetained": false,
+      "newCollectorFetchAt": null,
+      "validatedAt": null,
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      },
+      "officialTimeZone": null,
+      "currentOriginalByteEqualityEstablished": false
+    },
+    {
+      "sourceId": "in-ct-recruitment",
+      "summary": "Original-backed draft research, awaiting review. Advertisement 05/2026 dated 8 September covers separately applied Food Laboratory and Drug Laboratory Microbiologist posts, three plus two vacancies, direct recruitment and gazetted Class II; permanent tenure not established. Original online dates 10 September noon–9 October 2026 at 23:59; governing timezone unknown and corrected in both pending drafts. Correction periods do not reopen initial applications. Page 1 invites Indian citizens and Government of India recognized categories; complete foreign-national routes need verification. State domicile controls benefits, not blanket nationality permission. Page 17 gives Hindi/English paper medium, not a formal proficiency level. Written/interview routes and conditional interview marking need full review. Current browser archive/original readable, reader failed; two existing drafts remain unapproved, with no new source-health timestamp.",
+      "indexUrl": "https://psc.cg.gov.in/Advertisement.php",
+      "originalUrl": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
+      "sourceLanguage": "Hindi",
+      "pages": 24,
+      "priorRetainedOriginalSha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+      "priorSuccessfulFetchAt": "2026-09-24T21:10:37.051Z",
+      "readerObservationDate": "2026-09-27",
+      "readerStatus": "reader-failure; ordinary-browser-readable",
+      "newOriginalBytesRetained": false,
+      "newCollectorFetchAt": null,
+      "validatedAt": null,
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      },
+      "officialTimeZone": null,
+      "currentOriginalByteEqualityEstablished": false
+    }
+  ],
+  "storagePolicy": "Previously retained originals reused; no new data/evidence writes."
+}

@@ -1,0 +1,105 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source us-ny-statejobs
+
+
+▸ us-ny-statejobs (New York StateJobsNY — Public vacancies)
+  30/30 sampled details parsed; 1830 indexed vacancy IDs
+  ⚠ Draft sample only. Public vacancies do not establish foreign-citizen eligibility, visa sponsorship or residence requirements. First connector output requires founder review.
+  ⚠ 1830 vacancy IDs indexed, not a verified count of distinct application cycles. 390 IDs held for possible duplicate/repost identity review; 1410 other IDs not fetched because of the 30-detail cap. Language-labelled titles are sampled first, then recent postings.
+  ⚠ Posted dates are not application opening dates. Deadline times and official timezone are unspecified in these fields; status stays uncertain. Work addresses are not selection venues.
+  ⚠ Possible duplicate/repost IDs held: 225562, 225563 — Senior Attorney/Assistant Attorney 1/2/3 (NY HELPS) WCB Item #8276
+  ⚠ Possible duplicate/repost IDs held: 225549, 225551 — Office Assistant 2 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 225479, 225477, 225476, 225480 — Disability Review Psychologist (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 225473, 225474 — Disability Analyst 2 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 225448, 225496 — Habilitation Specialist 1
+  ⚠ Possible duplicate/repost IDs held: 225432, 225433, 225428, 225429, 225430, 225434, 225435, 225431 — Professional Engineer 1 (Civil/Transportation)
+  ⚠ Possible duplicate/repost IDs held: 225386, 225413 — Licensed Practical Nurse
+  ⚠ Possible duplicate/repost IDs held: 225321, 225320, 225323 — Airport Firefighter 1
+  ⚠ Possible duplicate/repost IDs held: 225328, 225327, 225329 — Airport Firefighter 1 Trainee
+  ⚠ Possible duplicate/repost IDs held: 225325, 225326 — Contract Management Specialist 1 or Trainee 1 or 2 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 225187, 225195, 225189, 225183, 225193, 225190, 225192 — Medicaid Integrity Specialist 1/Trainee 1/Trainee 2
+  ⚠ Possible duplicate/repost IDs held: 225205, 225224, 225228 — Highway Maintenance Worker 1/Trainee 1/Trainee 2 - (Regional Crews) - Region 8
+  ⚠ Possible duplicate/repost IDs held: 225244, 225246 — Office Assistant 1 - (NY HELPS) - Region 8
+  ⚠ Possible duplicate/repost IDs held: 225279, 225280 — Plant Utilities Engineer 1
+  ⚠ Possible duplicate/repost IDs held: 225093, 225090, 225092, 225089 — Senior Engineering Technician
+  ⚠ Possible duplicate/repost IDs held: 225108, 225102 — Maintenance Assistant
+  ⚠ Possible duplicate/repost IDs held: 224739, 224741 — Facilities Operations Assistant 1
+  ⚠ Possible duplicate/repost IDs held: 224780, 224801, 225027, 224800, 224792, 224789, 224784 — General Mechanic
+  ⚠ Possible duplicate/repost IDs held: 224865, 224935 — Environmental Specialist 1/Trainee 1/Trainee 2 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 224765, 224778 — Claims Services Representative 1 / Trainee 1/2 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 224660, 224658 — Assistant Director Investment Accounting
+  ⚠ Possible duplicate/repost IDs held: 224683, 224697, 224681, 224685, 224686, 224688, 224680, 224684 — Hearing Officer 1 (Incarcerated Discipline)
+  ⚠ Possible duplicate/repost IDs held: 224400, 224431 — Bridge Repair Assistant 1 Trainee 2/ Trainee 1 (Region 9)
+  ⚠ Possible duplicate/repost IDs held: 224720, 224721, 224718 — Registered Nurse 1
+  ⚠ Possible duplicate/repost IDs held: 224014, 224004, 224018, 223995, 223997, 224010, 224000 — Health Systems Specialist 2 (Social Work) (NY HELPS) - 51187
+  ⚠ Possible duplicate/repost IDs held: 224139, 224160 — Information Technology Specialist Programming 2 - Hourly
+  ⚠ Possible duplicate/repost IDs held: 223860, 223880 — Senior Administrative Analyst
+  ⚠ Possible duplicate/repost IDs held: 223959, 223930, 223919, 223933, 223962, 223924, 223909 — Clinical Physician 2
+  ⚠ Possible duplicate/repost IDs held: 223971, 223974 — Administrative Assistant 1 / Trainee* (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 223915, 223886 — Program Operations Specialist 1 - SPS
+  ⚠ Possible duplicate/repost IDs held: 223825, 223827 — Dental Hygienist
+  ⚠ Possible duplicate/repost IDs held: 223578, 223638, 223595, 223618, 223584, 223656, 223609 — Program Operations Specialist 1/Trainee
+  ⚠ Possible duplicate/repost IDs held: 223576, 223580 — Maintenance Assistant
+  ⚠ Possible duplicate/repost IDs held: 223702, 223705 — Office Assistant 2
+  ⚠ Possible duplicate/repost IDs held: 223435, 223436 — Investigative Officer 1 (SIF)
+  ⚠ Possible duplicate/repost IDs held: 223531, 223532 — Senior Health Care Fiscal Analyst/ Health Care Fiscal Analyst Trainee – two positions, Central Office;
+  ⚠ Possible duplicate/repost IDs held: 223411, 223416 — Addictions Counselor 1 (Charles K. Post ATC)
+  ⚠ Possible duplicate/repost IDs held: 223315, 223318 — Registered Nurse 2 (Community)
+  ⚠ Possible duplicate/repost IDs held: 223124, 223127 — Dentist 1 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 223138, 223139 — Registered Nurse 1 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 222956, 222958, 222957, 222959 — Hearing Officer or Assistant Attorney 1 or 2 or Assistant Hearing Officer (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 222953, 222952 — Fair Hearings Specialist 1 Spanish Language (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 222955, 222954 — Fair Hearings Specialist 1 (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 222846, 222837 — Maintenance Assistant – Central Office; Three Positions
+  ⚠ Possible duplicate/repost IDs held: 222569, 222570 — Registered Nurse 1 (Hourly) (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 222380, 222377 — Principal Drafting Technician (Structural) NY HELPS
+  ⚠ Possible duplicate/repost IDs held: 222382, 222379 — Senior Drafting Technician (Structures) NY HELPS
+  ⚠ Possible duplicate/repost IDs held: 221574, 221575, 221576, 221577 — Professional Engineer 1 (Civil/Transportation) NY Helps
+  ⚠ Possible duplicate/repost IDs held: 221625, 221609, 221626 — AG Fellowship Program: Post-Grad Opportunity 3L Law Students
+  ⚠ Possible duplicate/repost IDs held: 220616, 220617 — Vice President of Business Development & Agency Services
+  ⚠ Possible duplicate/repost IDs held: 219911, 219910, 219909, 219925, 219912, 219901, 219902, 219913, 219926, 219895, 219914, 219915, 219904, 219899 — Direct Support Assistant
+  ⚠ Possible duplicate/repost IDs held: 219928, 219916, 219905, 219906, 219929, 219903, 219907, 219918 — Licensed Practical Nurse
+  ⚠ Possible duplicate/repost IDs held: 219930, 219919 — Psychologist 1/2
+  ⚠ Possible duplicate/repost IDs held: 219931, 219932, 219920, 219921 — Registered Nurse 1
+  ⚠ Possible duplicate/repost IDs held: 219785, 219797 — Psychologist 1/2
+  ⚠ Possible duplicate/repost IDs held: 219795, 219765, 219766, 219764, 219762, 219767, 219768, 219769, 219761, 219760, 219793, 219792, 219794, 219790, 219758 — Direct Support Assistant
+  ⚠ Possible duplicate/repost IDs held: 219796, 219774, 219773, 219775, 219771, 219770 — Licensed Practical Nurse
+  ⚠ Possible duplicate/repost IDs held: 219780, 219779, 219781, 219778, 219776, 219798 — Registered Nurse 1
+  ⚠ Possible duplicate/repost IDs held: 219732, 219735, 219729, 219733, 219730, 219734 — Direct Support Assistant
+  ⚠ Possible duplicate/repost IDs held: 219740, 219726, 219737, 219738 — Licensed Practical Nurse
+  ⚠ Possible duplicate/repost IDs held: 219728, 219741 — Psychologist 1/2
+  ⚠ Possible duplicate/repost IDs held: 219615, 219658, 219641, 219546 — Licensed Psychologist
+  ⚠ Possible duplicate/repost IDs held: 219611, 219570, 219567, 219566, 219642, 219638, 219635, 219612, 219614, 219561, 219624, 219560, 219626, 219564, 219545, 219629, 219633, 219631 — Direct Support Assistant
+  ⚠ Possible duplicate/repost IDs held: 219620, 219644, 219643, 219616, 219578, 219571, 219547 — Licensed Practical Nurse
+  ⚠ Possible duplicate/repost IDs held: 219657, 219656, 219654, 219655, 219596, 219597, 219598, 219648, 219579, 219589, 219593, 219649, 219605, 219606, 219608, 219551, 219650, 219653, 219651 — Registered Nurse 1
+  ⚠ Possible duplicate/repost IDs held: 219647, 219549 — Psychologist 1/2
+  ⚠ Possible duplicate/repost IDs held: 219623, 219535 — Associate Psychologist
+  ⚠ Possible duplicate/repost IDs held: 219558, 219557 — Technical Program Manager, Broadband Deployment, ConnectALL
+  ⚠ Possible duplicate/repost IDs held: 217770, 217768, 217765 — Auditor 1 (Tax)/Auditor Trainee 1 (Tax)/Auditor Trainee 2 (Tax) (Audit Division) (NY HELPS)
+  ⚠ Possible duplicate/repost IDs held: 217554, 217551 — Medical Director (Psychiatrist 2) (NY HELPS), Central Office;
+  ⚠ Possible duplicate/repost IDs held: 216529, 216531, 216524, 216528, 216591, 216599, 216590, 216598, 216550, 216554, 216589, 216597, 216586, 216594, 216588, 216595 — Medical Specialist 2
+  ⚠ Possible duplicate/repost IDs held: 216530, 216532, 216627, 216643, 216629, 216647, 216628, 216645, 216549, 216553, 216585, 216593 — Psychiatrist 2
+  ⚠ Possible duplicate/repost IDs held: 216622, 216639, 216625, 216642, 216623, 216641, 216584, 216592 — Psychiatrist 1
+  ⚠ Possible duplicate/repost IDs held: 216523, 216525, 216546, 216551 — Nurse Practitioner (Adult Health or Family Health)
+  ⚠ Possible duplicate/repost IDs held: 216548, 216552 — Nurse Practitioner (Psychiatry)
+  ⚠ Possible duplicate/repost IDs held: 216555, 216556 — Dentist 1
+  ⚠ Possible duplicate/repost IDs held: 216437, 216455, 216440, 216458, 216438, 216456, 216447, 216466, 216449, 216468, 216448, 216467, 216446, 216465, 216445, 216464, 216441, 216463, 216443, 216461 — Medical Specialist 2
+  ⚠ Possible duplicate/repost IDs held: 216429, 216452 — Psychiatrist 2
+  ⚠ Possible duplicate/repost IDs held: 216431, 216453 — Medical Specialist 1
+  ⚠ Possible duplicate/repost IDs held: 216436, 216454 — Psychiatrist 1
+  ⚠ Possible duplicate/repost IDs held: 216395, 216398 — Psychiatrist 1
+  ⚠ Possible duplicate/repost IDs held: 216396, 216401, 216385, 216388, 216369, 216371, 216378, 216383 — Psychiatrist 2
+  ⚠ Possible duplicate/repost IDs held: 216361, 216364, 216384, 216387, 216368, 216370 — Medical Specialist 2
+  ⚠ Possible duplicate/repost IDs held: 216362, 216365, 216377, 216381 — Medical Specialist 1
+  ⚠ Possible duplicate/repost IDs held: 216386, 216389, 216375, 216379 — Dentist 2
+  ⚠ Possible duplicate/repost IDs held: 216376, 216380 — Dentist 1
+  ⚠ Possible duplicate/repost IDs held: 215510, 215512 — Addictions Counselor Assistant (Hourly) - M.A. Stutzman ATC
+  ⚠ Possible duplicate/repost IDs held: 206555, 206557 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Clinton County)
+  ⚠ Possible duplicate/repost IDs held: 206607, 206605 — Service and Repair Mechanic (Motor Equipment) - Region 10
+  ⚠ Possible duplicate/repost IDs held: 206564, 206567 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Lewis County)
+  ⚠ Possible duplicate/repost IDs held: 206561, 206562 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Jefferson County)
+  ⚠ Possible duplicate/repost IDs held: 206558, 206560 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-Franklin County)
+  ⚠ Possible duplicate/repost IDs held: 206568, 206569 — Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1(R7-St. Lawrence County)
+  ⚠ Possible duplicate/repost IDs held: 191329, 191331 — Revenue Crimes Specialist Trainee 1/Revenue Crimes Specialist Trainee 2/Revenue Crimes Specialist 1
+  30 draft records saved for review; no publication

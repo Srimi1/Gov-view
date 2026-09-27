@@ -1,0 +1,901 @@
+{
+  "sourceId": "in-wb-iiserkol-nt04-2026",
+  "collectedAt": "2026-09-25T09:02:38.201Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Senior Superintendent",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group B post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "1 regular salaried Senior Superintendent vacancy; 7th CPC Pay Level 7; one-year probation, subject to appointment.",
+      "qualifications": "Master's degree in any discipline with at least 50% marks or equivalent grade; at least five years at Pay Level 6 or above as Junior Superintendent or equivalent in specified administration, finance, academic, legal, audit, stores or establishment work at an eligible public or higher-education institution. Published upper age limit: 38, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 38. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-senior-superintendent",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Senior Superintendent — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 7 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Counsellor",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group B post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "1 regular salaried Counsellor vacancy; 7th CPC Pay Level 7; one-year probation, subject to appointment.",
+      "qualifications": "Master's degree with 50% in Clinical/Counselling Psychology or Medical & Psychiatric Social Work; five years counselling students on academic, psychosocial and emotional issues at a reputed academic institute or organization. Published upper age limit: 40, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 40. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-counsellor",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Counsellor — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 7 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Junior Engineer (Civil)",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group B post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "1 regular salaried Junior Engineer (Civil) vacancy; 7th CPC Pay Level 6; one-year probation, subject to appointment.",
+      "qualifications": "First-class Civil Engineering bachelor's degree plus five years field experience in civil construction or maintenance, or first-class Civil Engineering diploma plus eight years; relevant CPWD/PWD/Government-norm experience preferred. One OBC vacancy. Published upper age limit: 35, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 35. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-junior-engineer-civil",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Junior Engineer (Civil) — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 6 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Nursing Assistant",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group C post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "1 regular salaried Nursing Assistant vacancy; 7th CPC Pay Level 5; one-year probation, subject to appointment.",
+      "qualifications": "Four-year B.Sc. Nursing; Indian or State Nursing Council registration; five years clinical experience in a hospital of at least 50 beds, including eligible public or recognized private facilities. Published upper age limit: 33, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 33. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-nursing-assistant",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Nursing Assistant — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 5 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Jr. Office Assistant (MS)",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group C post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "2 regular salaried Jr. Office Assistant (MS) vacancies; 7th CPC Pay Level 4; one-year probation, subject to appointment.",
+      "qualifications": "Bachelor's degree in any discipline with 50%; excellent Word, Excel and PowerPoint proficiency; four years relevant office experience. Published upper age limit: 33, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 33. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-junior-office-assistant-ms",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Jr. Office Assistant (MS) — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 4 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Jr. Assistant (MS)",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group C post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "10 regular salaried Jr. Assistant (MS) vacancies; 7th CPC Pay Level 3; one-year probation, subject to appointment.",
+      "qualifications": "Bachelor's degree in any discipline with 50%; excellent office-application proficiency; three years relevant office-practice, hospitality or catering experience. Four unreserved, two OBC, three SC and one EWS vacancies; one ex-serviceman and one PwBD reservation are noted in the advertisement. Published upper age limit: 30, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 30. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-junior-assistant-ms",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Jr. Assistant (MS) — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 3 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "IISER-K/Admn/NT-04/2026 · Attendant",
+      "programme": "IISER Kolkata non-teaching direct recruitment 2026",
+      "status": "open",
+      "statusNote": "Official English and Hindi notices and current openings row retained. Founder review pending. Age/qualification reckoning date conflicts within English notice; applicants must seek authority clarification.",
+      "scopeLabel": "One separately applied regular Group C post type at IISER Kolkata, Mohanpur, West Bengal; job location is not an applicant domicile or test venue.",
+      "outcome": "1 regular salaried Attendant vacancy; 7th CPC Pay Level 1; one-year probation, subject to appointment.",
+      "qualifications": "Matriculation or three-year diploma in a relevant field; three years relevant experience handling scientific, laboratory, research, IT, classroom or catering equipment at an establishment of national or international repute. Published upper age limit: 32, with applicable category relaxations. Age and qualification reckoning date conflicts: page 1 says 19 September; instruction 35 says online closing date (19 October). Do not calculate age automatically pending clarification.",
+      "citizenshipRule": "Notice page 1 invites eligible Indian nationals; General Service Condition 3 says candidates must be citizens of India. Foreign citizens do not meet published application criterion. OCI status alone is not stated as an exception.",
+      "residenceRule": "No applicant residence or West Bengal domicile requirement is printed. Mohanpur is job and hard-copy destination, not an eligibility residence rule.",
+      "selectionStages": [
+        "Separate online application and fee for this post",
+        "Send hard copy and self-attested documents to IISER Kolkata by 29 October 2026 at 17:30",
+        "Scrutiny and shortlisting",
+        "Possible qualifying computer skill or trade test",
+        "100-mark written test (50 general, 50 specialization)",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 total (₹450 application + ₹50 registration). SC/ST/PwBD/women/ex-servicemen/transgender categories pay ₹50 registration only, subject to notice conditions; each post needs a separate fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NT-04/2026 English PDF page 1: eligible Indian nationals; page 4 General Service Condition 3: candidates must be citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post-specific qualification/experience, reservation, fee and upper age 32. Notice conflicts on age/qualification reckoning date (19 September vs online close 19 October); obtain authority clarification. Foreign citizens fail explicit Indian-citizen criterion."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm document screening, qualifying skill/trade test if held, written test and any post-specific syllabus. Test venue and language medium are not yet published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm document authenticity, medical fitness, appointment decision, one-year probation and service rules. No appointment is guaranteed by passing selection stages."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/skill test venue not published; Mohanpur is job and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://iiserkolnt.samarth.edu.in/index.php/site/login",
+      "changes": [],
+      "id": "iiserkol-nt04-2026-attendant",
+      "sourceId": "in-wb-iiserkol-nt04-2026",
+      "title": "Attendant — IISER Kolkata",
+      "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-WB"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-19",
+        "closesOn": "2026-10-19",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice page 1 and page 11: online form opens 19 September and closes 19 October 2026 at 17:30. Required printed application and documents must then arrive by 2026-10-29 at 17:30. Governing cutoff timezone is not printed; hard-copy deadline is a second required step, not a new online application window."
+      },
+      "languageNote": "English and Hindi notices are available; English version prevails if translations conflict. Notice states no mandatory language proficiency level, language certificate or test medium. Publication language is not a candidate requirement.",
+      "salary": "7th CPC Pay Level 1 plus admissible allowances; exact rupee salary not stated in notice.",
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026:4a24029b6bee",
+          "title": "IISER Kolkata current openings, NT-04/2026 row",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.iiserkol.ac.in/jobs/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/",
+          "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:39.424Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:c04248da6fb6",
+          "title": "NT-04/2026 original recruitment notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+          "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:41.372Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-wb-iiserkol-nt04-2026:0443d13ebe0d",
+          "title": "NT-04/2026 original translated notice",
+          "authority": "Indian Institute of Science Education and Research Kolkata, Ministry of Education",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+          "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+          "lastSuccessfulFetchAt": "2026-09-25T09:02:44.928Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://apply.iiserkol.ac.in/jobs/",
+      "fetchedAt": "2026-09-25T09:02:39.424Z",
+      "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 41337
+    },
+    {
+      "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+      "fetchedAt": "2026-09-25T09:02:41.372Z",
+      "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+      "contentType": "application/pdf",
+      "bytes": 373499
+    },
+    {
+      "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+      "fetchedAt": "2026-09-25T09:02:44.928Z",
+      "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+      "contentType": "application/pdf",
+      "bytes": 1222215
+    }
+  ],
+  "warnings": [
+    "Seven post types require separate applications; 17 vacancies are not 17 application cycles.",
+    "Page 1 sets age/qualification/experience crucial date at 19 September 2026, but instruction 35 sets it at online closing date 19 October 2026. Founder must resolve before approving critical eligibility fields.",
+    "Online deadline and mandatory hard-copy receipt deadline are distinct; neither prints a governing cutoff timezone.",
+    "Indian citizenship is explicit. No formal language proficiency level or test medium is published.",
+    "Other IISER Kolkata non-teaching advertisements and later corrigenda remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "iiserkol-nt04-2026-senior-superintendent": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "213945ed3d94f8e86ab8662f67be0b8d2b356244f75293ceb81ec5bf19d5e74d"
+    },
+    "iiserkol-nt04-2026-counsellor": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "4f2de40448e3b76bf42bd00dade9fb501c62e10b57674c484602dc1de49457fd"
+    },
+    "iiserkol-nt04-2026-junior-engineer-civil": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "33cc6981f5bcb296707d1ac5f6ad1989d74a922b042fbe08b86d379760073a27"
+    },
+    "iiserkol-nt04-2026-nursing-assistant": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "4fb1db2d3fc7b2a26a568aa358aef5859adf6cb7f3444778576fd9f273626b22"
+    },
+    "iiserkol-nt04-2026-junior-office-assistant-ms": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "8b596a1bcc59955428c26a0206afff3bcc6df5c02ec6ef1b9e7b065efd5f6196"
+    },
+    "iiserkol-nt04-2026-junior-assistant-ms": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "082982f26e481ec267b79b3f05b3e4b75ae40c13a2071b45e934fd679af46cdb"
+    },
+    "iiserkol-nt04-2026-attendant": {
+      "evidenceRevision": "e20facc58e46aac42951f408cec822789c8a7651ea8ad11459a9cd1861ed4927",
+      "recordRevision": "ba01eba4fe30bb7315cf05f8895509bc9c0df3a253f508789ad7f96930e9937b"
+    }
+  }
+}

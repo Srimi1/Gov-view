@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://appsc.gov.in/Index/sub_page/doc2195/Advertisements",
+  "fetchedAt": "2026-09-24T23:36:43.895Z",
+  "sha256": "0b93ace16896541e5305396b461073ee2538ebcbd7a522af593c4fcbf97b6bc9",
+  "bytes": 104703,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://appsc.gov.in/Index/sub_page/doc12233/Notifications",
+  "fetchedAt": "2026-09-24T23:36:49.213Z",
+  "sha256": "b0e4cd27c1ce26ed3ca04636feccf3dc0cdf23a6c8ef14cec2520124b0e81ae5",
+  "bytes": 385306,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf",
+  "fetchedAt": "2026-09-24T23:36:53.345Z",
+  "sha256": "801e254599b1c7127693d35b2e8626a0c1c38c2633eea56db5da08bceb690d31",
+  "bytes": 5053461,
+  "contentType": "application/pdf"
+ }
+]

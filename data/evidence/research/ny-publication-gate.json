@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-09-24T20:22:44.260Z",
+  "sourceId": "us-ny-statejobs",
+  "stageFlagUsed": false,
+  "exitStatus": 0,
+  "publishedDataUnchanged": true,
+  "before": {
+    "data/published/sources-status.json": "733cb01b931ddecd1159a6ecc2cd4d21ea314727885f40cc62a8fe48f3865454",
+    "data/published/coverage.json": "5204c22a91f3dd987d752431c448f13b61602a5afcc5192cd36fa617346a97bd",
+    "data/published/cycles/FR.json": "1ff3cb11b9d136ffce85a651b10fb0c1a4b9ed1ba1231e0330229d328d6d60ce",
+    "data/published/cycles/GB.json": "aa6359db63e674b0a158ea1fe90e55a9917754dbe5bd0ba7837b4a53c3c371a2",
+    "data/published/cycles/IN.json": "c4d215cb28888c6e618dbdb9cd13605500cd21cf41098ed7777c974735e58228",
+    "data/published/cycles/JP.json": "c27318812178cb9cc129d22fcd61c3c317b4c25656dbb2de10e36c6e58a9e689",
+    "data/published/cycles/US.json": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d"
+  },
+  "after": {
+    "data/published/sources-status.json": "733cb01b931ddecd1159a6ecc2cd4d21ea314727885f40cc62a8fe48f3865454",
+    "data/published/coverage.json": "5204c22a91f3dd987d752431c448f13b61602a5afcc5192cd36fa617346a97bd",
+    "data/published/cycles/FR.json": "1ff3cb11b9d136ffce85a651b10fb0c1a4b9ed1ba1231e0330229d328d6d60ce",
+    "data/published/cycles/GB.json": "aa6359db63e674b0a158ea1fe90e55a9917754dbe5bd0ba7837b4a53c3c371a2",
+    "data/published/cycles/IN.json": "c4d215cb28888c6e618dbdb9cd13605500cd21cf41098ed7777c974735e58228",
+    "data/published/cycles/JP.json": "c27318812178cb9cc129d22fcd61c3c317b4c25656dbb2de10e36c6e58a9e689",
+    "data/published/cycles/US.json": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d"
+  },
+  "rerun": {
+    "checkedAt": "2026-09-24T20:24:39.656Z",
+    "publishedDataUnchanged": true,
+    "after": {
+      "data/published/sources-status.json": "733cb01b931ddecd1159a6ecc2cd4d21ea314727885f40cc62a8fe48f3865454",
+      "data/published/coverage.json": "5204c22a91f3dd987d752431c448f13b61602a5afcc5192cd36fa617346a97bd",
+      "data/published/cycles/FR.json": "1ff3cb11b9d136ffce85a651b10fb0c1a4b9ed1ba1231e0330229d328d6d60ce",
+      "data/published/cycles/GB.json": "aa6359db63e674b0a158ea1fe90e55a9917754dbe5bd0ba7837b4a53c3c371a2",
+      "data/published/cycles/IN.json": "c4d215cb28888c6e618dbdb9cd13605500cd21cf41098ed7777c974735e58228",
+      "data/published/cycles/JP.json": "c27318812178cb9cc129d22fcd61c3c317b4c25656dbb2de10e36c6e58a9e689",
+      "data/published/cycles/US.json": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d"
+    }
+  }
+}

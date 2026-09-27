@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://gate2027.iitm.ac.in/ -->
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Google tag (gtag.js) -->
+    <!-- <script async="" src="./GATE 2027_files/js"></script> -->
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    <title>GATE 2027</title>
+    <meta name="keywords"
+        content="GATE 2027, GATE2027, gate2027, gate, gate 2027, gate exam, GATE EXAM, IITM, IIT Madras, iit madras">
+    <meta name="description" content="GATE 2027 | Graduate Aptitude Test in Engineering (GATE)">
+    <meta name="author" content="IIT Madras">
+
+    <!-- Bootstrap CSS -->
+    <link href="./GATE 2027_files/bootstrap.min.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="./GATE 2027_files/style.css">
+    <link rel="stylesheet" href="./GATE 2027_files/header.css">
+    <link rel="stylesheet" href="./GATE 2027_files/footer.css">
+
+    <!-- Page Specific CSS -->
+
+    <!-- <link rel="stylesheet" href="./GATE 2027_files/index.css"> -->
+
+    <style>
+        strong,
+        b {
+            font-weight: 700;
+        }
+
+        a {
+            color: blue;
+        }
+
+        .button-container {
+            text-align: center;
+        }
+
+        a.button-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #046d30;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            margin-bottom: 40px;
+        }
+
+        a.button-link:hover {
+            background-color: #4e020c;
+        }
+
+        /* ---------- Main content ---------- */
+        .content {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+
+        /* ---------- Terms ---------- */
+        .terms-heading {
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-top: 20px;
+            color: #020202
+        }
+
+        .terms-text {
+            font-size: 1.1rem;
+            display: block;
+            margin: 6px 0;
+            color: #36363d
+        }
+
+        .terms-point {
+            font-size: 1rem;
+            color: #36363d;
+            margin: 6px 0;
+        }
+
+        /* ============================== ALERT MODAL ============================== */
+        .alert-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            z-index: 99999;
+            background: rgba(0, 0, 0, 0.65);
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            backdrop-filter: blur(4px);
+        }
+
+        /* Modal Box */
+        .alert-modal-box {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            max-height: 90vh;
+            width: 100%;
+            max-width: 500px;
+            background: #ffffff;
+            border-radius: 16px;
+            padding: 30px;
+            text-align: left;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.30);
+            animation: alertModalShow 0.25s ease;
+        }
+
+        /* Important instruction inside content only scrolling use this */
+        @media (max-width: 768px) {
+            .alert-modal-box {
+                max-height: 85vh;
+                overflow: hidden;
+            }
+        }
+
+        /* Full popup needs to scroll means use this */
+        /* @media (max-width: 768px) {
+            .alert-modal {
+                overflow-y: auto;
+                height: 100vh;
+                align-items: flex-start;
+            }
+
+            .alert-modal-box {
+                max-height: none;
+                overflow: visible;
+                margin: 20px auto;
+                width: 92%;
+            }
+        } */
+
+        /* Animation */
+        @keyframes alertModalShow {
+            from {
+                opacity: 0;
+                transform: scale(0.90);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Icon */
+        .alert-icon {
+            width: 55px;
+            height: 55px;
+            margin: 0 auto 15px;
+            border-radius: 50%;
+            background: #4e020c;
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        /* Heading */
+        .alert-modal-box h2 {
+            margin: 0 0 12px;
+            color: #4e020c;
+            font-size: 23px;
+        }
+
+        /* Message */
+        .alert-modal-box p {
+            margin: 0;
+            color: #555;
+            font-size: 15px;
+            line-height: 1.6;
+            overflow-y: visible;
+        }
+
+        /* 
+        .alert-modal-content {
+            flex: 1 1 auto;
+            min-height: 0;
+            overflow-y: scroll;
+            
+            -webkit-overflow-scrolling: touch;
+            padding: 10px 25px 20px;
+        } */
+        .alert-modal-content {
+            flex: 1 1 auto;
+            min-height: 0;
+            overflow-y: scroll;
+            scrollbar-gutter: stable;
+            -webkit-overflow-scrolling: touch;
+            padding: 10px 25px 20px;
+        }
+
+        /* Chrome / Edge */
+        .alert-modal-content::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        .alert-modal-content::-webkit-scrollbar-track {
+            background: #eeeeee;
+            border-radius: 10px;
+        }
+
+        .alert-modal-content::-webkit-scrollbar-thumb {
+            background: #4e020c;
+            border-radius: 10px;
+        }
+
+        .alert-modal-content::-webkit-scrollbar-thumb:hover {
+            background: #6b0715;
+        }
+
+        /* Firefox */
+        .alert-modal-content {
+            scrollbar-width: auto;
+            scrollbar-color: #4e020c #eeeeee;
+        }
+
+        /* Buttons Container */
+        .alert-buttons {
+            flex-shrink: 0;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+
+            /* margin-top: 25px; */
+            gap: 12px;
+            padding: 15px 20px;
+
+        }
+
+        /* Close Button */
+        .alert-close-btn {
+            padding: 11px 25px;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+            background: #f3f3f3;
+            color: #444;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        /* Go Button */
+        .alert-go-btn {
+            padding: 11px 30px;
+            border: none;
+            border-radius: 7px;
+            background: #4e020c;
+            color: #ffffff;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .alert-go-btn:hover {
+            background: #6b0715;
+        }
+
+        .alert-close-btn:hover {
+            background: #e5e5e5;
+        }
+
+        /* Mobile */
+        @media (max-width: 480px) {
+            .alert-modal-box {
+                padding: 25px 20px;
+            }
+
+            .alert-buttons {
+                flex-direction: column;
+            }
+
+            .alert-close-btn,
+            .alert-go-btn {
+                width: 100%;
+            }
+
+            /* #noti-box {
+                display: block;
+            } */
+        }
+
+
+        .warning-box {
+            display: flex;
+            align-items: flex-start;
+            /* background-color: #fff3e0; */
+            background-color: #f7e5c8;
+            border-radius: 4px;
+            padding: 20px 20px;
+            margin: 10px auto;
+            color: #7a4500;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.45;
+
+            width: 100%;
+            max-width: 800px;
+        }
+
+
+        /* .warning-box {
+    display: flex;
+    align-items: flex-start;
+    background-color: #fff3e0;
+    border-radius: 4px;
+    padding: 12px 16px;
+    margin: 10px 0 35px 0;
+    color: #7a4500;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.45;
+    width: 100%;
+    box-sizing: border-box;
+} */
+
+
+
+        .warning-icon {
+            color: #f57c00;
+            font-size: 21px;
+            margin-right: 14px;
+            line-height: 1;
+            flex-shrink: 0;
+        }
+
+        .warning-text {
+            flex: 1;
+        }
+
+        .warning-text b {
+            color: red;
+        }
+
+        /* popup */
+
+        /* Popup Overlay */
+        .important-popup-overlay {
+            display: none;
+            position: fixed;
+            z-index: 99999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.55);
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* Popup Box */
+        .important-popup {
+            background: #ffffff;
+            width: 100%;
+            max-width: 620px;
+            border-radius: 10px;
+            box-shadow: 0 10px 35px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+            animation: popupAppear 0.3s ease-out;
+        }
+
+        @keyframes popupAppear {
+            from {
+                opacity: 0;
+                transform: translateY(-20px) scale(0.97);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        /* Header */
+        .important-popup-header {
+            background: #7b1113;
+            color: #ffffff;
+            padding: 16px 20px;
+            font-size: 19px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .important-popup-header i {
+            font-size: 22px;
+        }
+
+        /* Content */
+        .important-popup-content {
+            padding: 22px 24px;
+            color: #333333;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .important-popup-content strong {
+            color: #7b1113;
+        }
+
+        .important-popup-content a {
+            color: #7b1113;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .important-popup-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .important-popup-footer {
+            padding: 0 24px 20px;
+            text-align: right;
+        }
+
+        .important-popup-close {
+            background: #7b1113;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            padding: 9px 24px;
+            font-size: 15px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .important-popup-close:hover {
+            background: #560c0e;
+        }
+
+        /* Mobile */
+        @media (max-width: 600px) {
+            .important-popup-header {
+                font-size: 17px;
+            }
+
+            .important-popup-content {
+                font-size: 15px;
+                padding: 20px;
+            }
+
+            .important-popup-footer {
+                padding: 0 20px 18px;
+            }
+
+            /* #noti-box {
+                display: block;
+            } */
+        }
+
+
+        /*Notice board side and mobile*/
+        .notice-board,
+        #noti-box {
+            border-radius: 10px;
+            background: #fffdf5;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+            overflow: hidden;
+            font-family: Arial, Helvetica, sans-serif;
+            border-left: 4px solid #7b1113;
+        }
+
+        /* Desktop floating version */
+        .notice-board {
+            position: fixed;
+            top: 150px;
+            right: 20px;
+            width: 270px;
+            z-index: 500;
+        }
+
+        /* Mobile inline version */
+        #noti-box {
+            align-items: flex-start;
+            padding: 0;
+            margin: 20px auto !important;
+            max-width: 800px;
+            width: 100%;
+            display: none;
+        }
+
+        .notice-board-header {
+            background: linear-gradient(135deg, #f7b733, #f0a500);
+            color: #4e2600;
+            font-weight: 700;
+            padding: 12px 16px;
+            font-size: 14.5px;
+            letter-spacing: 0.3px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .notice-board-body,
+        #noti-box .warning-text {
+            padding: 14px 16px 16px;
+            font-size: 13.5px;
+            line-height: 1.6;
+            color: #5a4a2f;
+        }
+
+        .notice-board-body p,
+        #noti-box .warning-text {
+            margin: 0;
+        }
+
+        .notice-board-body a,
+        #noti-box .warning-text a {
+            color: #b8590a;
+            text-decoration: none;
+            font-weight: 700;
+            border-bottom: 1px dashed #b8590a;
+        }
+
+        .notice-board-body a:hover,
+        #noti-box .warning-text a:hover {
+            color: #7a3c00;
+            border-bottom-style: solid;
+        }
+
+        #noti-box .warning-icon {
+            display: none;
+            /* new design uses header bar instead of the ⚠ icon */
+        }
+
+        /* Mobile: hide floating board, show inline notice */
+        @media (max-width: 991px) {
+            .notice-board {
+                display: none;
+            }
+
+            #noti-box {
+                display: block !important;
+            }
+        }
+    </style>
+
+
+
+    </style>
+</head>
+
+<!-- popup content start -->
+
+<!-- Important Update Popup -->
+<div id="importantUpdatePopup" class="important-popup-overlay">
+    <div class="important-popup" role="dialog" aria-modal="true" aria-labelledby="importantPopupTitle">
+
+        <div class="important-popup-header" id="importantPopupTitle">
+            <i class="bi bi-exclamation-triangle-fill"></i>
+            Important Update
+        </div>       
+
+        <div class="important-popup-content">
+            <strong>Candidates with disabilities</strong> (specifically those
+            with visual impairments) who are experiencing issues with
+            <strong>live facial capture</strong> should contact the helpdesk
+            (<a href="mailto:helpdesk@gate.iitm.ac.in">
+                helpdesk@gate.iitm.ac.in
+            </a>)
+            to complete their application process.
+      
+
+           <p class="mt-2"><b style="color: rgb(38, 0, 255);">GATE 2027 Registration: Solutions to Frequently Faced Issues - </b>
+                <a href="https://gate2027ib.iitm.ac.in/GATE2027_Registration_Issues_and_solutions.pdf" target="_blank">
+                    <br><i class="bi bi-globe" style="color:rgb(136, 4, 11)"></i> <b style="color: red;">Click here<img
+                            src="static/images/new-2.gif" alt="New" style="width: 70px; display: inline;"></b></a>
+            </p>
+
+        </div>
+
+
+
+
+        <div class="important-popup-footer">
+            <button type="button" class="important-popup-close" onclick="closeImportantPopup()">
+                Close
+            </button>
+        </div>
+
+    </div>
+</div>
+
+<!-- popup content end -->
+
+
+
+<body class="index-page" data-aos-easing="ease-in-out" data-aos-duration="600" data-aos-delay="0">
+
+    <!-- Desktop view -->
+    <!-- Notice board -->
+    <div class="notice-board">
+        <div class="notice-board-header">📢 Important Update <img src="static/images/new-2.gif" alt="New"
+                style="width:45px; display: inline;"></div>
+        <div class="notice-board-body">
+
+            <p>
+                <b><span style="color: black;">1. </span></b>GATE aspirants have an option of registering through
+                unverified digilocker account. They can select the default ID proof during application filling process.
+                These
+                candidates' applications will be scrutinized after the registration deadline for necessary documents.
+                Additionally, the original documents will be verified at the examination halls for the candidates
+                registered with unverified digilocker accounts.
+                It is recommended to the aspirants to use verified digilocker account for smoother experience at the
+                examination venue.
+            </p>
+
+            <p style="margin-top: 15px;">
+                <b><span style="color: black;">2. </span></b>Candidates with disabilities (specifically those with
+                visual impairments) who are
+                experiencing
+                issues with live facial capture should contact the helpdesk
+                (<a href="mailto:helpdesk@gate.iitm.ac.in">helpdesk@gate.iitm.ac.in</a>)
+                to complete their application process.
+            </p>
+
+
+
+        </div>
+    </div>
+
+    <!-- Header Block -->
+
+
+
+
+    <!-- Header Block -->
+
+    <!-- IDENTITY BAND -->
+    <div class="identity-band">
+        <div class="identity-inner">
+            <!-- HTML -->
+            <div class="logo-circle">
+                <div class="flipper">
+                    <div class="face">
+                        <img src="./GATE 2027_files/GATE27_logo.svg" alt="GATE Logo"
+                            onerror="this.style.display=&#39;none&#39;; this.nextElementSibling.style.display=&#39;flex&#39;;">
+                        <i class="bi bi-mortarboard-fill d-none"></i>
+                    </div>
+                    <div class="face face-back org-logo">
+                        <img src="./GATE 2027_files/iitm-logo.png" alt="IITM Logo"
+                            onerror="this.style.display=&#39;none&#39;; this.nextElementSibling.style.display=&#39;flex&#39;;">
+                        <i class="bi bi-mortarboard-fill d-none"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="identity-text">
+                <div class="gate-label">
+                    <span></span>
+                    GATE - 2027
+                    <span></span>
+                </div>
+                <div class="gate-title">
+                    <em><big>G</big></em>raduate <em><big>A</big></em>ptitude <em><big>T</big></em>est in
+                    <em><big>E</big></em>ngineering &nbsp;<big>2027</big>
+                </div>
+                <div class="gate-org">
+                    Organizing Institute:&nbsp;
+                    <strong>Indian Institute of Technology Madras</strong>
+                </div>
+            </div>
+            <div class="logo-circle">
+                <div class="flipper" id="logoFlipper2">
+                    <div class="face face-front org-logo">
+                        <img src="./GATE 2027_files/iitm-logo.png" alt="IITM Logo"
+                            onerror="this.style.display=&#39;none&#39;; this.nextElementSibling.style.display=&#39;flex&#39;;">
+                        <i class="bi bi-mortarboard-fill d-none"></i>
+                    </div>
+                    <div class="face face-back">
+                        <img src="./GATE 2027_files/GATE27_logo.svg" alt="GATE Logo"
+                            onerror="this.style.display=&#39;none&#39;; this.nextElementSibling.style.display=&#39;flex&#39;;">
+                        <i class="bi bi-mortarboard-fill d-none"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Carousel block -->
+    <main class="container">
+
+        <div class="content">
+            <div class="warning-box" style="margin-top: 40px;">
+                <div class="warning-icon">⚠</div>
+
+                <div class="warning-text">
+                    <b>The GATE 2027 registration fee is non-refundable.</b>
+                    Refunds will be processed only for the duplicate transactions upon submission of valid proof.
+                    Unpaid accounts / accounts where transactions are not available will be deleted after the GATE
+                    2027 registration portal closes.
+                </div>
+            </div>
+            <div class="warning-box" style="margin-top: 20px;">
+                <div class="warning-icon">⚠</div>
+
+                <div class="warning-text">
+                    <span style="color: #444242;">Candidates are advised <b>NOT</b> to delete their verified or
+                        unverified DigiLocker accounts after</br> GATE 2027 application
+                        submission and the payment of application fee. Future communications from GATE 2027 will <b
+                            style="color: red;">ONLY</b> be made with respect to the DigiLocker account using which
+                        the candidate has submitted the application.</span>
+
+                </div>
+            </div>
+
+
+
+            <!-- <div class="warning-box" style="margin-top: 40px; display:none; " id="noti-box">
+                    <div class="warning-icon">⚠</div>
+
+                    <div class="warning-text">
+                        <b> Important update:</b> Candidates with disabilities (specifically those with visual
+                        impairments) who are experiencing issues with live facial capture should contact the helpdesk
+                        (helpdesk@gate.iitm.ac.in) to complete their application process.
+                    </div>
+                </div> -->
+
+            <!-- Mobile view -->
+            <div id="noti-box">
+                <div class="notice-board-header">📢 Important Update</div>
+                <div class="warning-text">
+
+                    <p style="margin-top: 10px;">
+                        <b> 1.</b> GATE aspirants have an option of registering through
+                        unverified digilocker account. They can select the default ID proof during application filling
+                        process. These
+                        candidates' applications will be scrutinized after the registration deadline for necessary
+                        documents.
+                        Additionally, the original documents will be verified at the examination halls for the
+                        candidates
+                        registered with unverified digilocker accounts.
+                        It is recommended to the aspirants to use verified digilocker account for smoother experience at
+                        the
+                        examination venue.
+                    </p>
+                    <p style="margin-top: 10px;">
+                        <b> 2. </b>Candidates with disabilities (specifically those with visual impairments) who are
+                        experiencing
+                        issues with live facial capture should contact the helpdesk
+                        (<a href="mailto:helpdesk@gate.iitm.ac.in">helpdesk@gate.iitm.ac.in</a>)
+                        to complete their application process.
+                    </p>
+
+
+                </div>
+            </div>
+
+
+
+            <!-- Candidate / fee details -->
+            <h3 style="margin-top: 20px;"><b>Video guidelines before proceeding to the online registration:</b></h3>
+
+            <p class="note-label">
+                Please go through the following videos to have a seamless registration.
+            </p>
+
+            <p class="terms-heading">
+                1. Key points to know before registration: <a href="https://youtu.be/6SKkb_3qEwc" target="_blank"><i
+                        class="bi bi-youtube" style="color:red"></i> Click here</a></span>
+            </p>
+
+            <p class="terms-heading">
+                2. <strong>Registration process for Indian nationality</strong>: <span class="terms-point"><br>For
+                    computer users -
+                    <a href="https://youtu.be/GkdluEDfp48" target="_blank">
+                        <i class="bi bi-youtube" style="color:red"></i> Click here
+                    </a>; For mobile users -
+                    <a href="https://youtu.be/10hXEBREqKk" target="_blank">
+                        <i class="bi bi-youtube" style="color:red"></i> Click here
+                    </a>
+            </p></span>
+
+            <p class="terms-heading">
+                3. Registration process for Foreign nationality:
+                <span class="terms-point">This registration link is EXCLUSIVELY for foreign nationals. Candidates
+                    registering using this link must bring their
+                    foreign national passport for verification on the day of examination,</span> <span
+                    style="color:red;">else will NOT be permitted to take the examination.</span>
+                <a href="https://youtu.be/_yoHW4HN1dA" target="_blank"><i class="bi bi-youtube" style="color:red"></i>
+                    Click here</a>
+            </p>
+
+            <p class="terms-heading">4. Frequent issues such as,</p>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; DigiLocker consent page error: <a
+                    href="https://youtu.be/sDe7eJBmRRM" target="_blank"><i class="bi bi-youtube" style="color:red"></i>
+                    Click here</a></span>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; Already registered email id error: <a
+                    href="https://youtu.be/HdXqnr4hX3E" target="_blank"><i class="bi bi-youtube" style="color:red"></i>
+                    Click here</a></span>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; Error in DigiLocker via GOAPs portal: <a
+                    href="https://youtu.be/AdxDA1m9vpM" target="_blank"><i class="bi bi-youtube" style="color:red"></i>
+                    Click here</a></span>
+
+            <p class="terms-heading">5. Photo and signature format:
+                <a href="https://gate2027.iitm.ac.in/photograph_and_signature" target="_blank"><i class="bi bi-globe"
+                        style="color:rgb(189, 8, 17)"></i> Click here</a>
+            </p>
+            <span style="font-size: 16px; color: #1565c0;">Required image size of photo: maximum upto 530 x 690
+                pixels
+                and 600 KB. <br> Required image size of signature: maximum upto 580 x 180 pixels and 300 KB. </span>
+
+            <p class="terms-heading">6. Creating "GATE2027" folder in DigiLocker (only for SC/ST/PWD candidates): <a
+                    href="https://youtu.be/gYHWLDuBNJI" target="_blank"><i class="bi bi-youtube" style="color:red"></i>
+                    Click here</a></p>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; For SC/ST Candidates: Please upload a valid
+                SC/ST
+                certificate as CATEGORY.pdf in the DigiLocker 'GATE2027' drive folder. </span>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; For PwD Candidates: Please upload a valid PWD
+                certificate as PWD_CERT.pdf in the DigiLocker 'GATE2027' drive folder.
+                If required, compile Appendix B1, Appendix B2 and PWD certificate as a single document and upload in
+                the
+                same drive as PWD_CERT.pdf in the 'GATE2027' DigiLocker drive folder.</span>
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; For PwD Candidates: UDID certificate to be
+                submitted as UDID_CERT.pdf in the 'GATE2027' DigiLocker drive folder.</span>
+
+            <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; Please ensure that each file is uploaded to the
+                DigiLocker Drive under the <b>'GATE2027'</b> folder with the
+                specified file name. <b style="color: red;">The file size should be between 10 KB and 600 KB.</b>
+                <!-- <img src="static/images/new-2.gif" alt="New" style="width:65px; display: inline;"> -->
+            </a></span>
+
+            <!-- <p>or</p>
+                <span class="terms-text">&nbsp;&nbsp;&nbsp;&nbsp;&#9679; For PwD Candidates: Please upload a valid PWD certificate as PWD_CERT.pdf and UDID certificate as UDID_CERT.pdf in the DigiLocker 'GATE2027' drive folder. 
+                If required, compile Appendix B1, Appendix B2 and PWD certificate as a single document and upload in the same drive as PWD_CERT.pdf in the 'GATE2027' DigiLocker drive folder.</span>
+                 -->
+
+            <p class="terms-heading">7. Please check the Application fee details before starting the registration
+                process:
+                <a href="https://gate2027.iitm.ac.in/application_fees" target="_blank"><i class="bi bi-globe"
+                        style="color:rgb(189, 8, 17)"></i> Click here</a>
+            </p>
+
+            <p class="terms-heading">
+                8. Important Instructions on DigiLocker for GATE 2027 Applicants: <a href="https://youtu.be/trLQ7Fl2lME"
+                    target="_blank"><i class="bi bi-youtube" style="color:red"></i> Click here</a></span>
+            </p>
+
+
+
+            <p class="terms-heading">
+                9. For "Verification Failed (or) E-mail already exist" Error, follow these steps:
+                <a href="https://youtu.be/iaFJZ-MXmEQ" target="_blank">
+                    <i class="bi bi-youtube" style="color:red"></i> Click here</a>
+
+                    <!-- <img src="static/images/new-2.gif" alt="New" style="width:65px; display: inline;"></a> -->
+            </p>
+
+
+
+
+            <p class="terms-heading"> 10. GATE 2027 Registration:Solutions to Frequently Faced Issues -
+                <a href="https://gate2027ib.iitm.ac.in/GATE2027_Registration_Issues_and_solutions.pdf" target="_blank">
+                    <i class="bi bi-globe" style="color:rgb(136, 4, 11)"></i> <b style="color: red;">Click here</b><img
+                            src="static/images/new-2.gif" alt="New" style="width: 70px; display: inline;">
+                </a>
+            </p>
+
+
+
+
+            <!-- <p class="terms-heading">
+                9. <b style="color:red;">The GATE 2027 registration fee is non-refundable.</b> Refunds will be processed only for the duplicate transactions upon submission of valid proof. Unpaid accounts / accounts where transaction are not available will be deleted after the GATE 2027 registration portal closes. 
+            </p> -->
+
+
+
+            <!-- <p class="terms-heading">
+                * During registration, it is recommended to use a mobile phone with atleast 5 MP camera to capture your
+                facial image in a <b style="color:red;">well-lit area</b>.
+            </p> -->
+
+            <div class="button-container">
+                <a href="https://gate2027.iitm.ac.in/" class="button-link" style="background-color: #4e020c;">Back</a>
+                <!-- <a href="https://goaps.iitm.ac.in/login" class="button-link" target="_blank">Proceed to GATE 2027 Registration</a>  -->
+                <a href="javascript:void(0);" class="button-link" onclick="openRegistrationAlert();"> Proceed to
+                    GATE
+                    2027 Registration </a>
+
+                <!-- https://goaps.iitm.ac.in/ -->
+            </div>
+
+        </div>
+    </main>
+    <!-- Alert Modal -->
+
+    <div id="registrationAlert" class="alert-modal">
+        <div class="alert-modal-box">
+            <div class="alert-icon"> ! </div>
+            <h2 style="text-align: center;">Important Instructions</h2>
+            <div class="alert-modal-content">
+                <p> <b>1.</b> During GATE 2027 registration, you can select and continue with your
+                    <strong style="font-weight: 1200; color: blue;">verified</strong> DigiLocker account, if you have
+                    one
+                    <b>(NOTE: A <strong style="font-weight: 1200; color: blue;">verified</strong> DigiLocker account
+                        means,
+                        your profile
+                        is verified through<br> <b style="color:red;">e-kyc</b>.
+                        Simply creating a DigiLocker account does not make it a verified</strong> account). </b>
+                </p>
+                <p> <b>2.</b> If you encounter
+                    any data mismatch between DigiLocker and the GATE 2027 portal, please complete your
+                    <b style="color:red;">e-kyc</b> in DigiLocker and try again.
+                </p>
+
+                <p><b>3.</b> Alternatively, GATE aspirants have an option of registering through <b
+                        style="color:red;">unverified</b> digilocker account. They can select the default ID proof
+                    during
+                    application filling process.
+                    These candidates' applications will be scrutinized after the registration deadline for necessary
+                    documents.</p>
+                <p><b>4.</b> It is recommended to use a mobile phone with atleast 5 MP camera to capture your
+                    facial image in a <b style="color:red;">well-lit area</b>.</p>
+
+            </div>
+
+
+            <!-- <h2> Before proceeding with GATE 2027 registration, please ensure that you are using a verified DigiLocker account <span style="color: #1a73e8; font-weight: bold;">✓</span> with a blue tick displayed next to the account. </h2> -->
+            <!-- <div class="alert-buttons"> <button type="button" class="alert-close-btn"
+                    onclick="closeRegistrationAlert();"> Close </button>
+                
+                <button type="button" id="goRegistrationBtn" class="alert-go-btn" onclick="goToRegistration();"
+                    disabled> Wait (5) </button>
+
+
+            </div> -->
+            <div class="alert-buttons">
+                <button class="alert-close-btn" onclick="closeRegistrationAlert()">Close</button>
+
+                <button id="goRegistrationBtn" class="alert-go-btn" disabled onclick="goToRegistration()">
+                    Wait (5)
+                </button>
+            </div>
+        </div>
+    </div>
+    <!-- Footer Block -->
+    <footer id="gate-footer">
+        <div class="footer-topline"></div>
+
+        <div class="footer-body">
+            <div class="footer-grid">
+                <!-- COL 1: BRAND + CONTACT -->
+                <div class="fcol">
+                    <div class="brand-logo-row">
+                        <div class="brand-circle">
+                            <img src="./GATE 2027_files/G27_favicon.png" alt="">
+                        </div>
+                        <div>
+                            <div class="brand-name">GATE 2027</div>
+                            <div class="brand-sub">Indian Institute of Technology Madras</div>
+                        </div>
+                    </div>
+
+                    <p class="brand-tagline">
+                        Graduate Aptitude Test in Engineering the gateway to premier
+                        postgraduate programs and PSU recruitment across India.
+                    </p>
+
+                    <div class="social-row">
+                        <a href="https://www.whatsapp.com/channel/0029VbAY5biBVJkyO3GOT72S" target="_blank"
+                            title="WhatsApp">
+                            <i class="bi bi-whatsapp"></i>
+                        </a>
+                        <a href="https://www.youtube.com/@GATE27iitm" target="_blank" title="Youtube">
+                            <i class="bi bi-youtube"></i>
+                        </a>
+                        <a href="https://x.com/GATE27iitm" target="_blank" title="Twitter/X">
+                            <i class="bi bi-twitter-x"></i>
+                        </a>
+                        <a href="https://www.instagram.com/gate27iitm/" target="_blank" title="Instagram">
+                            <i class="bi bi-instagram"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/company/gate27iitm/" target="_blank" title="LinkedIn">
+                            <i class="bi bi-linkedin"></i>
+                        </a>
+                        <a href="https://www.facebook.com/Gate27iitm/" target="_blank" title="Facebook">
+                            <i class="bi bi-facebook"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- COL 3: QR + VISITOR -->
+                <div class="fcol">
+                    <h4>Contact Us</h4>
+
+                    <div class="contact-row">
+                        <i class="bi bi-geo-alt-fill"></i>
+                        <span>GATE-JAM Office, IIT Madras, Chennai - 600 036</span>
+                    </div>
+                    <div class="contact-row">
+                        <i class="bi bi-telephone-fill"></i>
+                        <span>044 - 2257 8200</span>
+                    </div>
+                    <div class="contact-row">
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>helpdesk@gate.iitm.ac.in</span>
+                    </div>
+                    <div class="contact-row">
+                        <i class="bi bi-clock-fill"></i>
+                        <span>Mon - Fri &nbsp;|&nbsp; 5:00 PM - 7:00 PM (Application related query)</span>
+                    </div>
+
+                </div>
+
+                <!-- COL 2: IMPORTANT LINKS -->
+                <div class="fcol">
+                    <h4>Whatsapp Channel</h4>
+                    <div class="qr-wrap">
+                        <div class="qr-img">
+                            <img src="./GATE 2027_files/waqr.jpeg" alt="GATE 2027 QR Code">
+                        </div>
+                        <div class="qr-label">
+                            Scan for
+                            <br>
+                            Quick Access
+                        </div>
+                    </div>
+                </div>
+
+                <!-- COL 4: DISCLAIMER -->
+                <div class="fcol">
+                    <h4>Disclaimer</h4>
+                    <ul class="disclaimer-list">
+                        <li>
+                            <div class="disc-icon">
+                                <i class="bi bi-exclamation-triangle"></i>
+                            </div>
+                            <span>
+                                In case of any unforeseen circumstances beyond control, the
+                                examination may be postponed or cancelled without prior notice.
+                            </span>
+                        </li>
+                        <li>
+                            <div class="disc-icon"><i class="bi bi-info-circle"></i></div>
+                            <span>
+                                Qualifying in GATE does not guarantee admission, scholarship, or
+                                employment. Admission to any institute is solely subject to that
+                                institute's own eligibility and selection criteria.
+                            </span>
+                        </li>
+                        <li>
+                            <div class="disc-icon"><i class="bi bi-building"></i></div>
+                            <span>
+                                GATE qualification does not assure a PSU job. No responsibility is
+                                assumed by the organizing Institute for admission, scholarship, or
+                                recruitment outcomes.
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- SITE LINKS ROW -->
+        <div class="footer-sitelinks">
+            <div class="copyright-text">
+                © 2027 &nbsp;
+                <strong>Indian Institute of Technology Madras.</strong>
+                &nbsp; All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Main JS File -->
+    <script src="./GATE 2027_files/main.js.download"></script>
+
+    <script> /* Open Modal */ function openRegistrationAlert() {document.getElementById("registrationAlert").style.display = "flex"; document.body.style.overflow = "hidden";} /* Close Modal */ function closeRegistrationAlert() {document.getElementById("registrationAlert").style.display = "none"; document.body.style.overflow = "";} /* Go to GATE Registration */ function goToRegistration() {window.location.href = "https://goaps.iitm.ac.in/login", "_blank";} /* Close when clicking outside */ document.getElementById("registrationAlert").addEventListener("click", function (event) {if (event.target === this) {closeRegistrationAlert();} }); /* Close using ESC */ document.addEventListener("keydown", function (event) {if (event.key === "Escape") {closeRegistrationAlert();} }); </script>
+
+    <script> let goCountdownTimer;
+        function openRegistrationAlert() {
+            const modal = document.getElementById("registrationAlert");
+            const goButton = document.getElementById("goRegistrationBtn");
+
+
+
+            modal.style.display = "flex";
+            document.body.style.overflow = "hidden";
+            // Clear any previous timer
+            clearInterval(goCountdownTimer);
+            // // Start countdown 
+            let seconds = 5;
+            goButton.disabled = true;
+            goButton.textContent = "Wait (" + seconds + ")";
+            goCountdownTimer = setInterval(function () {
+                seconds--;
+                if (seconds > 0) {goButton.textContent = "Wait (" + seconds + ")";}
+                else {
+                    clearInterval(goCountdownTimer);
+                    goButton.disabled = false;
+
+                    goButton.textContent = "GO";
+                }
+            }, 1000);
+        }
+        function closeRegistrationAlert() {
+            clearInterval(goCountdownTimer);
+            document.getElementById("registrationAlert").style.display = "none";
+            document.body.style.overflow = "";
+        }
+        function goToRegistration() {
+            const goButton = document.getElementById("goRegistrationBtn");
+            // Prevent clicking while disabled 
+            if (goButton.disabled) {return;} window.location.href = "https://goaps.iitm.ac.in/login";
+        } /* Close when clicking outside */
+        document.getElementById("registrationAlert").addEventListener("click", function (event) {if (event.target === this) {closeRegistrationAlert();} }); /* Close using ESC */
+        document.addEventListener("keydown", function (event) {if (event.key === "Escape") {closeRegistrationAlert();} });
+
+
+
+        // Show popup when the page loads
+        window.addEventListener("load", function () {
+            document.getElementById("importantUpdatePopup").style.display = "flex";
+        });
+
+        // Close popup
+        function closeImportantPopup() {
+            document.getElementById("importantUpdatePopup").style.display = "none";
+        }
+
+        // Close when clicking outside the popup
+        document.getElementById("importantUpdatePopup").addEventListener("click", function (event) {
+            if (event.target === this) {
+                closeImportantPopup();
+            }
+        });
+
+
+    </script>
+
+</body>
+
+<a hidden href="/SzO7EcSKd-CqQk__hoZhSl7993C0jWmRPR7rI14qk9w=.html">SzO7EcSKd-CqQk__hoZhSl7993C0jWmRPR7rI14qk9w=.html</a><script type="text/javascript">var _0xcaad=["indexOf","; path=/","cookie","=","x-bni-ja","stack","phantomjs","plugins","length","onmousemove"];var err;function indexOfString(_0x1ce0x3,_0x1ce0x4){return _0x1ce0x3[_0xcaad[0]](_0x1ce0x4)}try{null[0]()}catch(e){err=e};function setCookie(_0x1ce0x6){var _0x1ce0x7=-316885537;var _0x1ce0x8=1362652711;var _0x1ce0x9=_0x1ce0x7+_0x1ce0x8+_0xcaad[1];document[_0xcaad[2]]=_0x1ce0x6+_0xcaad[3]+_0x1ce0x9}function set_answer_cookie(){setCookie(_0xcaad[4])}function set_answer_cookie_1(){set_answer_cookie()}if((indexOfString(err[_0xcaad[5]],_0xcaad[6])> -1)||(!(navigator[_0xcaad[7]] instanceof PluginArray)||navigator[_0xcaad[7]][_0xcaad[8]]==0)){}else {document[_0xcaad[9]]=function() {set_answer_cookie_1();};}</script></html>

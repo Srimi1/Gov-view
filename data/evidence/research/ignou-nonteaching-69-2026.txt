@@ -1,0 +1,699 @@
+                                    INDIRA GANDHI NATIONAL OPEN UNIVERSITY
+                                            Maidan Garhi, New Delhi-110068
+
+
+                                    RECRUITMENT FOR NON-TEACHING POSITIONS
+                                             (Advt. No. 69/2026/Admn.)
+
+The Indira Gandhi National Open University (IGNOU) invites online applications for recruitment to the following non-teaching
+posts:
+
+Sr.      Name of Post           Pay Matrix                Age limit                   Vacancy Category wise             Total
+No.                                                       in (years)    UR       SC      ST     OBC-NCL EWS
+ 1       Assistant Director     Rs.15600-Rs.39100           48 years    02       --      --     -           --          02
+                                Level-10 of 7th CPC
+
+ 2       Technical Manager      Rs.15600-Rs.39100          42 years     03       --     --       01           --        04
+                                Level-10 of 7th CPC
+
+ 3       Technical Assistant    Rs.9300-Rs. 34800          37 years     05       01     --       02           ---       08
+                                Level-8 of 7th CPC
+
+
+
+IMPORTANT DATES
+
+  Online Registration /applying:                       From 03.10.2026 to 02.11.2026 23:59:59 HRS.
+
+
+The reservation under various categories will be as per prevailing Government of India’s guidelines at the time of finalization of
+result.
+
+RECRUITMENT RULES FOR THE ADVERTISED POSTS
+
+ S.No.     Name of Post with Pay Scale         Educational Qualification & Experience Required                        No. of
+                                                                                                                      Posts
+                                                                                                                      Posts
+ 1.       Technical Assistant-LMS         100% Direct Recruitment:
+                                          Essential:                                                                  02
+          Pre-revised Pay Scale:          1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+          (Rs.9300/-Rs.34800/-)               recognized University/Institute with 55% of marks or equivalent       (01 OBC-
+          PB-2, GP-Rs.4800/-                  grade.                                                                    NCL,
+          Revised Pay Scale as per 7th    2. Atleast 3 years of working experience in Learning Management             01 UR)
+          CPC: Level 8                        System (LMS) Experience in installation, configuration,
+                                              customization, and administration of Learning Management
+                                              Systems such as Moodle, Canvas, Blackboard, or equivalent
+                                              platforms.
+                                          E-content deployment and course management, User management
+                                          and access control, Online assessment and examination systems in
+                                          PSUs / Universities / Educational Institutions / GoI organisations or
+                                          reputed IT organizations.
+                                          Desirable:
+                                          • Experience in the following:
+                                          • Integration of LMS with Video conferencing platforms
+                                          • ERP/Student Information Systems
+                                          • Digital repositories and e-learning tools
+                                          Preference will be given to candidates possessing one or more of the
+                                          following certifications:
+                                          • Moodle Administrator / Moodle Educator Certification
+                                                                                                             Page 1 of 12
+                                      • Blackboard Learn Administration Certification
+                                      • Canvas LMS Certification
+                                      • Google Certified Educator / Google Workspace for Education
+                                         Certification
+                                      Classification: Technical in nature.
+
+2.   Technical Assistant-             100% Direct Recruitment:
+     Networking                       Essential:                                                                 02
+                                      1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+     Pre-revised Pay Scale:              recognized University with 55% of marks or equivalent grade.         (01 UR,
+     (Rs.9300/-Rs.34800/-)            2. Atleast 3 years of working experience in handling enterprise-         01 SC)
+     PB-2, GP-Rs.4800/-                  level network infrastructure, HCI Infrastructure, Mini Cloud
+     Revised Pay Scale as per 7th        Management, Palo Alto, F5 Technologies in PSUs / Universities /
+     CPC: Level 8                        Educational Institutions / GoI organisations or reputed IT
+                                         organizations.
+                                      Desirable:
+                                      Experience in configuration and maintenance of network equipment:
+                                        • Routers, Switches, VLANs, VPNs, and Wireless Networks
+                                        • Backup and Disaster Recovery Solutions
+
+                                      Preference will be given to candidates possessing one or more of the
+                                      following certifications:
+                                        • CCNA / CCNP
+                                        • Palo Alto Certified Network Security Engineer
+                                        • F5 Certified Administrator
+                                        • RHCE / MCSE / Cloud Certifications
+
+                                      Classification: Technical in nature.
+
+3.   Technical           Assistant-   100% Direct Recruitment:
+     Animator                         Essential:
+                                      1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a                 01- UR
+     Pre-revised    Pay    Scale:         recognized University with 55% of marks or equivalent grade.
+     (Rs.9300/-Rs.34800/-)            2. Minimum of 3 years of working experience in:
+     PB-2, GP-Rs.4800/-               2D & 3D Animation, Multimedia Content Development Motion
+     Revised Pay Scale as per 7th     Graphics and Visual Effects (VFX), Graphic Designing and Video
+     CPC: Level 8                     Editing in PSUs / Universities / Educational Institutions / GoI
+                                      organizations or reputed IT organizations.
+
+                                      Desirable:
+
+                                      Experience in Animation Software such as Autodesk Maya, Blender,
+                                      Adobe After Effects, Adobe Animate, Premiere Pro, or equivalent
+                                      tools.
+                                      Preference will be given to candidates possessing one or more of the
+                                      following certifications:
+                                           • Autodesk Maya Certified Professional Certification in 3D
+                                              animation, modeling, rigging, and rendering using Autodesk
+                                              Maya.
+                                           • Adobe Certified Professional (ACP) in:
+                                             ➢ Adobe After Effects
+                                             ➢ Adobe Premiere Pro
+                                             ➢ Adobe Animate
+                                             ➢ Adobe Photoshop
+                                             ➢ Adobe Illustrator
+                                           • Blender Certification or equivalent certification in Blender
+                                              for 3D animation and visual effects.
+                                           • Certifications in:
+
+                                                                                                         Page 2 of 12
+                                           ➢     2D & 3D Animation
+                                           ➢     Motion Graphics
+                                           ➢     Visual Effects (VFX)
+                                           ➢     Multimedia Design
+                                           ➢     Digital Content Creation
+
+                                    Classification: Technical in nature.
+
+
+4.   Technical Assistant-Game       100% Direct Recruitment:
+     Designer                       Essential:                                                                01-OBC-
+                                    1.    B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a                  NCL
+     Pre-revised Pay Scale:               recognized University with 55% of marks or equivalent grade.
+     (Rs.9300/-Rs.34800/-)          2.    Minimum of 3 years of working experience in:
+     PB-2, GP-Rs.4800/-                 ➢ Game Design and Development
+     Revised Pay Scale as per 7th       ➢ Interactive Multimedia Applications
+     CPC: Level 8                       ➢ 2D/3D Game Asset Creation
+                                        ➢ UI/UX Design for Games
+                                        ➢ Game Testing and Deployment
+                                    in PSUs / Universities / Educational Institutions / GoI organizations
+                                    or reputed IT organizations.
+
+                                    Desirable:
+
+                                    Experience in Game Development tools/software such as Unity,
+                                    Unreal Engine, Blender, Autodesk Maya, Adobe Creative Suite, or
+                                    equivalent tools.
+                                    Preference will be given to candidates possessing one or more of the
+                                    following certifications:
+                                    •      Unity Certified Associate / Unity Certified Professional /
+                                           Unity Certified Expert
+                                    •      Unreal Engine Developer Certification
+                                    •      Autodesk Maya Certified Professional
+                                    •      Blender Certification or equivalent certification in 3D
+                                           Modeling and Animation
+                                    •      Vuforia Certified Developer Certification
+                                    •      ARCore or ARKit Development Certification
+
+                                    Classification: Technical in nature.
+
+5.   Technical Assistant-Virtual    100% Direct Recruitment:
+     Reality/Augmented Reality      Essential:                                                                 01- UR
+     Application Development        1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+                                         recognized University with 55% of marks or equivalent grade.
+     Pre-revised Pay Scale:         2. Minimum of 3 years of working experience in:
+     (Rs.9300/-Rs.34800/-)              • Virtual Reality (VR) / Augmented Reality (AR) Application
+     PB-2, GP-Rs.4800/-                     Development
+     Revised Pay Scale as per 7th       • Interactive 3D Content Development
+     CPC: Level 8                       • Immersive Learning Applications and Simulations
+                                        • UI/UX Design for VR Environments
+                                        • Integration and Deployment of VR Applications
+                                        • Mobile-based AR Application Design and Deployment
+                                        • AR-based Educational/Training Simulations
+
+                                    in PSU / Universities / Educational Institutions / GoI organizations or
+                                    reputed IT organizations.
+                                    Desirable:
+                                    Experience in VR/AR development tools/software such as Unity,
+
+                                                                                                        Page 3 of 12
+                                       Unreal Engine, Blender, Autodesk Maya, Oculus SDK, OpenXR,
+                                       Vuforia, ARCore, ARKit, Blender, Autodesk Maya, Spark AR, or
+                                       equivalent tools.
+                                       Preference will be given to candidates possessing one or more of the
+                                       following certifications:
+                                           •    Unity Certified Associate / Unity Certified Professional
+                                           •    Unreal Engine Developer Certification
+                                           •    Meta (Oculus) VR Developer Certification
+                                           •    Vuforia Certified Developer Certification
+                                           •    ARCore or ARKit Development Certification
+                                           •    Autodesk Maya Certified Professional
+                                           •    Blender Certification or equivalent 3D Modeling
+                                                       Certification
+                                           •    Certification in 3D Animation, Game Design, or Interactive
+                                                Media Development
+                                           •    UI/UX Design Certifications related to immersive
+                                                applications
+                                       Classification: Technical in nature.
+
+6.   Technical            Assistant-   100% Direct Recruitment:
+     Artificial Intelligence           Essential:                                                               01-UR
+                                       1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+     Pre-revised    Pay    Scale:          recognized University with 55% of marks or equivalent grade.
+     (Rs.9300/-Rs.34800/-)             2. Minimum of 3 years of working experience in one or more of the
+     PB-2, GP-Rs.4800/-                    following areas:
+     Revised Pay Scale as per 7th        • Artificial Intelligence (AI) Application Development
+     CPC: Level 8                        • Machine Learning and Deep Learning Model Development
+                                         • Natural Language Processing (NLP) and Generative AI Tools
+                                         • Data Analytics, Predictive Modeling and Intelligent Systems
+                                         • AI-based Automation, Chatbots and Recommendation Systems
+                                         • Development and deployment of AI solutions using Python /
+                                             TensorFlow / PyTorch / Scikit-learn or similar frameworks in
+                                             PSUs / Universities / Educational Institutions / Government of
+                                             India organizations / Autonomous Bodies / reputed IT or AI-
+                                             based organizations.
+                                       Desirable:
+                                       Experience in:
+                                         • Large Language Models (LLMs), Prompt Engineering,
+                                             Retrieval-Augmented Generation (RAG), AI Agents and
+                                             Generative AI applications
+                                         • Data Preprocessing
+                                         • AI-enabled Learning Systems, Adaptive Learning Platforms
+                                             and Educational Chatbots
+                                         • Data Visualization, Business Intelligence and AI-driven
+                                             Analytics
+                                         • AI Model Optimization, MLOps, Model Monitoring and AI
+                                             Lifecycle Management
+                                         • API Integration, AI Microservices and Intelligent Automation
+                                             Tools
+                                         • Working with GPU-based computing environments and AI
+                                             infrastructure
+                                         • Ethical AI, Responsible AI, AI Governance and Data Privacy
+                                             frameworks
+                                       Preference will be given to candidates possessing one or more of the
+                                       following certifications:
+                                         • Microsoft Certified: Azure AI Engineer Associate
+                                         • Google Professional Machine Learning Engineer
+
+                                                                                                         Page 4 of 12
+                                       • Amazon Web Services Certified Machine Learning – Specialty
+                                       • IBM AI Engineering Professional Certificate
+                                       • NVIDIA Deep Learning Institute (DLI) Certifications
+                                       • TensorFlow Developer Certificate
+                                     Classification: Technical in nature.
+
+7.   Technical Manager-LMS           Initial Recruitment will be 100% by direct recruitment:
+     Pre-revised    Pay     Scale:   On completion of first cycle, the following rules will become           01-UR
+     (Rs.15600/-Rs.39100/-)          operational
+     PB-3, GP-Rs.5400/-              66-2/3% by Promotion
+     Revised Pay Scale as per 7th    From amongst the Technical Assistants having rendered five years of
+     CPC: Level 10                   regular service in the grade being considered by DPC
+                                     33-1/3% by Direct Recruitment
+                                     Essential:
+                                     1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+                                         recognized University with 55% of marks or equivalent grade.
+                                     2. Atleast 5 years of working experience in Learning Management
+                                         System (LMS) Experience in installation, configuration,
+                                         customization, and administration of Learning Management
+                                         Systems such as Moodle, Canvas, Blackboard, or equivalent
+                                         platforms.
+
+                                     E-content deployment and course management, User management
+                                     and access control, Online assessment and examination systems in
+                                     PSUs / Universities / Educational Institutions / GoI organisations or
+                                     reputed IT organizations.
+                                     Desirable:
+                                     Experience in the following:
+                                       • Integration of LMS with Video conferencing platforms
+                                       • ERP/Student Information Systems
+                                       • Digital repositories and e-learning tools
+                                     Preference will be given to candidates possessing one or more of the
+                                     following certifications:
+                                       • Moodle Administrator / Moodle Educator Certification
+                                       • Blackboard Learn Administration Certification
+                                       • Canvas LMS Certification
+                                       • Google Certified Educator / Google Workspace for Education
+                                           Certification
+                                       • Instructional Design Certifications (ADDIE, SCORM, xAPI,
+                                           etc.)
+                                       • Certified Learning Management System Professional (CLMSP)
+                                           or equivalent.
+                                     Classification: Technical in nature.
+
+8.   Technical          Manager-     Initial Recruitment will be 100% by direct recruitment:
+     Networking                      On completion of first cycle, the following rules will become           01-UR
+                                     operational
+     Pre-revised    Pay     Scale:   66-2/3% by Promotion
+     (Rs.15600/-Rs.39100/-)          From amongst the Technical Assistants having rendered five years of
+     PB-3, GP-Rs.5400/-              regular service in the grade being considered by DPC
+     Revised Pay Scale as per 7th    33-1/3% by Direct Recruitment
+     CPC: Level 10                   Essential:
+                                     1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+                                         recognized University with 55% of marks or equivalent grade.
+                                     2. Atleast 5 years of working experience in handling enterprise-
+                                         level network infrastructure, HCI Infrastructure, Mini Cloud
+                                         Management, Palo Alto, F5 Technologies in PSUs / Universities /
+                                         Educational Institutions / GoI organisations or reputed IT
+
+                                                                                                       Page 5 of 12
+                                         organizations.
+
+                                      Desirable:
+                                      Experience in configuration and maintenance of network equipment:
+                                        • Routers, Switches, VLANs, VPNs, and Wireless Networks
+                                        • Backup and Disaster Recovery Solutions
+                                      Preference will be given to candidates possessing one or more of the
+                                      following certifications:
+                                      • CCNA / CCNP
+                                      • Palo Alto Certified Network Security Engineer
+                                      • F5 Certified Administrator
+                                      • RHCE / MCSE / Cloud Certifications
+                                      Classification: Technical in nature.
+
+9.    Technical     Manager      –    Initial Recruitment will be 100% by direct recruitment:                01-UR
+      Virtual Reality/ Augmented      On completion of first cycle, the following rules will become
+      Reality          Application    operational
+      Development                     66-2/3% by Promotion
+                                      From amongst the Technical Assistants having rendered five years of
+      Pre-revised    Pay     Scale:   regular service in the grade being considered by DPC
+      (Rs.15600/-Rs.39100/-)          33-1/3% by Direct Recruitment
+      PB-3, GP-Rs.5400/-              Essential:
+      Revised Pay Scale as per 7th    1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+      CPC: Level 10                       recognized University with 55% of marks or equivalent grade.
+                                      2. Minimum of 5 years of working experience in:
+                                        • Virtual Reality (VR) / Augmented Reality (AR) Application
+                                            Development
+                                        • Interactive 3D Content Development
+                                        • Immersive Learning Applications and Simulations
+                                        • UI/UX Design for VR Environments
+                                        • Integration and Deployment of VR Applications in PSUs /
+                                            Universities / Educational Institutions / GoI organizations or
+                                            reputed IT organizations.
+                                      Desirable:
+                                      Experience in VR/AR development tools/software such as Unity,
+                                      Unreal Engine, Blender, Autodesk Maya, Oculus SDK, OpenXR,
+                                      Vuforia, or equivalent tools.
+                                      Preference will be given to candidates possessing one or more of the
+                                      following certifications:
+                                        • Unity Certified Associate / Unity Certified Professional
+                                        • Unreal Engine Developer Certification
+                                        • Meta (Oculus) VR Developer Certification
+                                        • Vuforia Certified Developer Certification
+                                        • ARCore or ARKit Development Certification
+                                        • Autodesk Maya Certified Professional
+
+                                        • Blender Certification or equivalent 3D Modeling Certification
+                                        • Certification in 3D Animation, Game Design, or Interactive
+                                           Media Development
+                                        • UI/UX Design Certifications related to immersive applications
+                                        • Certifications in C#, Python, or Interactive Application
+                                           Development technologies.
+                                      Classification: Technical in nature.
+
+10.   Technical       Manager    –    Initial Recruitment will be 100% by direct recruitment:
+      Artificial Intelligence         On completion of first cycle, the following rules will become          01-OBC-
+                                      operational                                                               NCL)
+      Pre-revised    Pay     Scale:   66-2/3% by Promotion
+                                                                                                        Page 6 of 12
+      (Rs.15600/-Rs.39100/-)          From amongst the Technical Assistants having rendered five years of
+      PB-3, GP-Rs.5400/-              regular service in the grade being considered by DPC
+      Revised Pay Scale as per 7th    33-1/3% by Direct Recruitment
+      CPC: Level 10                   Essential:
+                                      1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+                                          recognized University with 55% of marks or equivalent grade.
+                                      2. Minimum of 5 years of working experience in one or more of the
+                                          following areas:
+                                          • Artificial Intelligence (AI) Application Development
+                                          • Machine Learning and Deep Learning Model Development
+                                          • Natural Language Processing (NLP) and Generative AI Tools
+                                          • Data Analytics, Predictive Modeling and Intelligent Systems
+                                          • AI-based Automation, Chatbots and Recommendation
+                                              Systems
+                                          • Development and deployment of AI solutions using Python
+                                              /TensorFlow / PyTorch / Scikit-learn or similar frameworks in
+                                              PSUs / Universities / Educational Institutions / Government
+                                              of India organizations / Autonomous Bodies / reputed IT or
+                                              AI-based organizations.
+                                      Desirable:
+                                      Experience in:
+                                          • Development and deployment of AI/ML solutions on Cloud
+                                              Platforms such as AWS, Azure, or Google Cloud
+                                          • Large Language Models (LLMs), Prompt Engineering,
+                                              Retrieval-Augmented Generation (RAG), AI Agents and
+                                              Generative AI applications
+                                          • AI-enabled Learning Systems, Adaptive Learning Platforms
+                                              and Educational Chatbots
+                                          • Data Preprocessing
+                                          • Data Visualization, Business Intelligence and AI-driven
+                                              Analytics
+                                          • AI Model Optimization, MLOps, Model Monitoring and AI
+                                              Lifecycle Management
+                                          • API Integration, AI Microservices and Intelligent Automation
+                                              Tools
+                                          • Working with GPU-based computing environments and AI
+                                              infrastructure
+                                          • Ethical AI, Responsible AI, AI Governance and Data Privacy
+                                              frameworks
+                                      Preference will be given to candidates possessing one or more of the
+                                      following certifications:
+                                          • Microsoft Certified: Azure AI Engineer Associate
+                                          • Google Professional Machine Learning Engineer
+                                          • Amazon Web Services Certified Machine Learning –
+                                              Specialty
+                                          • IBM AI Engineering Professional Certificate
+                                          • NVIDIA Deep Learning Institute (DLI) Certifications
+                                          • TensorFlow Developer Certificate
+
+                                      Classification: Technical in nature.
+
+
+11.   Assistant Director – LMS        100% Direct Recruitment:                                                01- UR
+                                      Essential:
+      Pre-revised    Pay     Scale:   1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+      (Rs.15600/-Rs.39100/-)             recognized University with 55% of marks or equivalent grade.
+      PB-3, GP-Rs.5400/-              2. Atleast 10 years of working experience in Learning Management
+      Revised Pay Scale as per 7th       System (LMS) Experience in installation, configuration,
+                                                                                                        Page 7 of 12
+      CPC: Level 10                        customization, and administration of Learning Management
+                                           Systems such as Moodle, Canvas, Blackboard, or equivalent
+                                           platforms. E-content deployment and course management, User
+                                           management and access control, Online assessment and
+                                           examination systems in PSUs / Universities / Educational
+                                           Institutions / GoI organisations or reputed IT organizations.
+                                      3. Working knowledge of:
+                                           • HTML, CSS, JavaScript, JAVA, MySQL / any similar
+                                               RDBMS, MONGODB / any similar NO-SQL DB
+                                           • API integration and Single Sign-On (SSO) mechanisms
+                                           • Digital eContent Repository
+                                           • APP design and development for ANDRIOID / iOS
+                                           • Organising Online Examinations at large scale
+                                           • User Support for faculty/students
+                                           • Technical Training
+                                           • LMS Migration, Upgradation, and Performance Optimization
+                                           • Experience in managing MOOCs, SWAYAM, Online
+                                               Learning Initiatives, Online admission and examination
+                                               activities etc..
+                                      Desirable:
+                                      Experience in management and administration of:
+                                         i. Cloud-based LMS Infrastructure, Server Administration,
+                                               Backup, and Security Management
+                                        ii. Scalable e-Learning Platforms and Digital Learning
+                                               Ecosystems of an University
+                                       iii. Experience in integration of LMS, ERP / Student Information
+                                               Systems like SAMARTH etc.,Video Conferencing Platforms,
+                                               Digital Repositories and Third-Party Learning Tools,
+                                               Learning Analytics and Dashboard Reporting
+
+                                      Classification: Technical in nature.
+
+12.   Assistant     Director      -   100% Direct Recruitment:                                                01- UR
+      Networking                      Essential:
+      Pre-revised    Pay     Scale:   1. B.E(CS/IT) / B.Tech(CS/IT) / M.Sc(CS/IT) / MCA from a
+      (Rs.15600/-Rs.39100/-)               recognized University with 55% of marks or equivalent grade.
+      PB-3, GP-Rs.5400/-              2. Atleast 10 years of working experience in handling enterprise-
+      Revised Pay Scale as per 7th         level network infrastructure, HCI Infrastructure, Mini Cloud
+      CPC: Level 10                        Management, Palo Alto, F5 Technologies in PSUs / Universities /
+                                           Educational Institutions / GoI organisations or reputed IT
+                                           organizations.
+                                      Desirable:
+                                      i. Experience in configuration and maintenance of network
+                                           equipment:
+                                         • Routers, Switches, VLANs, VPNs, and Wireless Networks,
+                                             Telecom Equipment
+                                         • Backup and Disaster Recovery Solutions
+                                         • Involved in GeM procurement activities
+                                         • Network Administration
+                                         • Firewall Management
+                                         • Data Centre Operations
+                                         • Virtualization Platforms (VMware/Hyper-V)
+                                         • Cloud Infrastructure such as AWS, Azure, or Google Cloud
+                                         • Network Monitoring and Performance Optimization
+                                         • High Availability and Load Balancing Solutions
+                                         • Information Security Frameworks
+                                         • Disaster Recovery and Business Continuity Planning
+                                      ii. Experience in configuring and supporting ICT infrastructure for:
+                                                                                                        Page 8 of 12
+                                               •   Educational Media Production Centre activities
+                                               •   SWAYAM and SWAYAM PRABHA operations
+                                               •   Webcasting, Video Conferencing, and Live Streaming Services
+                                               •   Internet Radio broadcasting systems
+                                               •   Digital Learning and Media Delivery Platforms.
+
+                                             Classification: Technical in nature.
+
+
+
+       IMPORTANT INFORMATION & INSTRUCTIONS FOR THE APPLICANTS
+
+1.     Before filling up the Online Recruitment Application Form on www.ignou.ac.in , the applicants must go through the
+       detailed Advertisement and satisfy themselves that they possess the minimum Essential Qualifications, are below the
+       upper age limit prescribed and possess relevant experience required for the post applying for. Application(s) received
+       from ineligible candidates shall be out rightly rejected. Applications received through other modes other than online
+       also stand rejected.
+
+2.     Any type of corrigendum/addendum/amendments/notice/updation etc. related to this advertisement shall be uploaded on
+       University websites www.ignou.ac.in only. The university will not send any further information/call letters by
+       post/newspapers in this regard. IGNOU will not be responsible for invalid/wrong email ID and Mobile No. mentioned
+       by the candidates. Therefore, it is the responsibility of the candidate to mention correct contact details and regularly
+       check their e-mail, SMS and IGNOU websites for updates.
+
+3.     The date for determining the eligibility of all the candidates (i.e. age, qualifications and experience etc.) shall be the
+       prescribed closing date for submission of Online Recruitment Application, unless specified otherwise.
+
+4.     The applicants are advised to fill in all their particulars in the Online Recruitment Application carefully as submission
+       of wrong information may lead to rejection during short-listing apart from debarment by the University.
+
+5.     All the educational qualifications mentioned should be from a University/Institute recognized by Govt. of
+       India/approved by the Government Regulatory bodies and the result should have been declared on or before the last
+       date of submitting the online Application Form.
+
+6.     The prescribed Essential Qualifications are the minimum and mere possession of eligibility conditions shall not entitle a
+       candidate to be called for skill test/written test/ interview (whatever is applicable).
+
+7.     Nationality/Citizenship:
+       i.    A candidate must be either:
+          a. a citizen of India or
+          b. a subject of Nepal or
+          c. a subject of Bhutan or
+          d. a Tibetan refugee who came over to India, before the 1 st January, 1962 with the intention of permanently
+             settling in India or
+          e. a person of Indian origin who has migrated from Pakistan, Burma, Sri Lanka, East African Countries of Kenya,
+             Uganda, the United Republic of Tanzania (Formerly Tanganyika and Zanzibar), Zambia, Malawi, Zaire,
+             Ethiopia and Vietnam with the intention of permanently settling in India.
+
+       ii.     Provided that a candidate belonging to categories (b), (c), (d) and (e) above, shall be a person in whose favour a
+               certificate of eligibility has been issued by the Government of India.
+      iii.     A candidate in whose case a certificate of eligibility is necessary may be admitted to the Examination, but the
+               offer of appointment will be given only after the necessary eligibility certificate has been issued to him by the
+               Government of India.
+ 8.          Age Relaxation:
+             a. Cut-off date to determine eligibility in terms of age of candidates will be the closing date.
+
+
+                                                                                                                  Page 9 of 12
+          b. SC/ST/OBC(NCL)/PWBD candidates who opt to apply for unreserved vacancies will not be eligible for age
+             relaxation or relaxation in cut-off marks which are otherwise allowed to those belonging to these categories.
+             Further, reserved category candidates (SC/ST/OBC(NCL)/PWBD) who become eligible by virtue of age
+             relaxation applicable in their case, will be considered only for reserved seats of the category to which they
+             belong even if they have the merit to be considered otherwise for UR.
+          c. Age relaxation to Govt. employees and Ex-serviceman will be as per Govt. of India rules. However,
+             relaxation will be given in upper age limit to IGNOU employees as per R & P Rules of the University.
+
+
+9.        Caste/Category Certificates
+
+              a.   Candidates who wish to be considered against reserved vacancies or seek age relaxation must submit
+                   requisite SC/ST/OBC/EWS/PwBD category certificate from the Competent Authority in the prescribed
+                   format. The formats of the certificates for SC/ST/OBC/EWS/PwBD categories are annexed with the
+                   notice of this examination. Certificates in any other format are liable to be rejected.
+
+              b.   Crucial date for claim of SC/ST/OBC(NCL)/EWS/PwBD status or any other benefit viz. fee concession,
+                   reservation, age relaxation etc., where not specified otherwise will be the closing date for receipt of online
+                   application.
+
+              c.   Candidates must ensure that they belong to the category as filled in the application form and are able to
+                   prove the same by furnishing the requisite certificate from the Competent Authority when such certificates
+                   are sought at the time of document verification, failing which their candidature will be cancelled.
+
+              d.   A person seeking appointment on the basis of reservation to OBCs must ensure that he/she possesses the
+                   caste/community certificate and does not fall in creamy layer on the crucial date. OBC candidate’s
+                   eligibility will be based on Castes borne in the Central List of Govt. of India and their Sub-caste should
+                   also match with the entries in Central List of OBC, failing which their candidature as OBC candidate will
+                   not be considered.
+              e.   EWS candidate must ensure that they have a valid EWS certificate as prescribed on the crucial date of
+                   submission of application.
+
+              f.   Candidate may also note that in respect of above, their candidature will remain provisional till the
+                   verification of concerned document. Candidates are cautioned that they will be debarred from the
+                   examination in case they fraudulently claim SC/ST/OBC/EWS/PwBD etc. status or avail any other
+                   benefit.
+
+              g.   Those who are in employment with Central/State Govt./PSU must submit a “NO OBJECTION
+                   CERTIFICATE” from the employer at the time of verification of documents or as asked to upload.
+                   Failure to submit/upload NOC by due date will lead to cancellation of candidature.
+
+              h.   Canvassing in any form will be a disqualification.
+
+              i.   After selection on any advertised posts, place of posting will be at IGNOU Headquarters or any of the
+                   Regional Centre/Regional Evaluation Centre spread across the Country.
+
+              j.   Any dispute in regard to any matter referred to herein shall be subject to the jurisdiction of Courts at Delhi
+                   only.
+
+10. Applicants under EWS category will be considered subject to submission of Income & Assets certificate on a
+    prescribed format with crucial date being the closing date for submission of application provided the post is
+    identified under EWS.
+
+11. Candidate will be required to produce all original certificates relating to his/ her age, qualification, experience and caste
+    etc. at the time of document verification and/or interview. In case the candidate fails to submit the original documents
+    for verification of the certified/ Xerox copies of the enclosures to his/ her application, he/she shall not be allowed to
+    appear at the written test/interview and his candidature shall be treated as cancelled without any further notice or
+    communication in this regard.
+
+                                                                                                               Page 10 of 12
+12. Candidate(s) claiming experience has to produce Certificate(s) to this effect in the prescribed proforma from the
+    Head(s)/Authorised person of Organization(s)/Department(s) for the entire experience claimed, clearly mentioning the
+    duration of employment (date, month & year) indicating the basic pay, pay scale, level Matrix as per 7 th CPC and
+    consolidated pay. The certificate(s) should also mention the nature of duties performed/experience obtained on the
+    post(s) with duration(s).
+
+13. The period of experience shall be reckoned as post-qualification basis.
+
+14. The period of experience rendered by a candidate on part time basis, daily wages, visiting/guest faculty will not be
+    counted while calculating the valid experience for short listing the candidates for CBT/Written Test/Skill
+    Test/Interview, as the case may be.
+
+15. Certificate to the effect that no vigilance/criminal case is pending/contemplated against the candidate, who are already
+    working in Central/State Govt./UT Administration or Central/ State Autonomous/ Statutory Organizations/ PSUs/
+    Reputed Private Organization is also to be submitted by the candidates applying through proper channel as and when
+    called for. List of penalties/fine (if any) imposed during preceding 3-5 years has to be provided by the applicants
+    applying through proper channel. Suppression of any information will lead to disqualification /termination at any stage.
+
+16. The Candidates not covered above will have to submit an undertaking/self-declaration to the effect that no criminal case
+    is pending /contemplated against him/her.
+
+17. The candidates may apply for more than one post, subject to fulfilling eligibility for the post(s) and after ascertaining
+    the fact whether timing for conduct of CBT(if required) for different posts is at the same time or at different time.
+
+18. Candidates also note that their candidature will remain provisional till the genuineness of the document related to Age,
+    Education, Experience; Caste etc. are verified from issuing Authority.
+
+19. Candidates in their own interest are advised to register on-line and submit their applications well in time before the last
+    date as mentioned for the posts, to avoid the possibility of disconnection / inability / failure to log on the University’s
+    website on account of heavy load on internet / website jam. The University does not assume any responsibility for the
+    candidates not being able to submit their applications within the last date on account of the aforesaid reasons or for any
+    other reasons beyond the control of the University.
+
+
+20. Candidate(s) will have to make the payment of Application Fees through the On-Line Mode as under :-
+
+                           Unreserved/OBC(NCL)/EWS                    Rs.1000/-
+                           For SC/ST/PH/Ex Servicemen/Women           Rs.500/-
+
+    Note: Applications without the prescribed fee will not be entertained and summarily rejected. No representation against
+    such rejection would be entertained. Fee once paid shall neither be refunded nor the fee be adjusted under any
+    circumstances. Any tax or Bank charges will borne by the candidate(s).
+
+21. The application form is integrated with the payment gateway and the payment process can be completed by using Debit
+    Cards (RuPay/Visa/MasterCard/Maestro), Credit Cards, Internet Banking, IMPS, Cash Cards/ Mobile Wallets.
+
+22. At any given point of time if it is detected that any candidate has furnished any false information/particulars with regard
+    to his/her qualification, category/cast and experience in the Application Form or in any document and/or
+    mispresented/suppressed any material fact in the application form, for securing appointment in the University, his/her
+    service will be terminated forthwith during probation period or even after confirmation of the service in the University.
+
+23. The University reserves the right to short list the candidates on merit, experience, written and/or skill test, as the case
+    may be. The University reserves the right to fix criteria viz screening test/qualification/experience etc to short list the
+    candidates to be called for interview/CBT on receipt of huge number of applications. Decision of the University in all
+    matters regarding Recruitment Process/Eligibility of the candidate/the documents to be produced/conduct of
+    CBT/Written Test/Skill Test/Interview and any other matter relating to recruitment will be final and binding on the
+    candidate.
+
+
+                                                                                                             Page 11 of 12
+24. If the University decides to hold a written recruitment test, the option for choosing the test centers and display of
+    syllabus will get activated, therefore the applicants are advised to keep in touch with the university website on regular
+    basis for any updates.
+
+25. The University reserves the right to set the question paper for Recruitment Test wherever applicable, either in English
+    language only or both in English & Hindi languages. However, in case any dispute arises on account of interpretation of
+    question(s) in English and Hindi, the English version shall be final.
+
+26. The University reserves the right to increase/decrease the short- listing Criteria/Cut off marks for second stage/final
+    stage/skill test/interview, as the case may be.
+
+27. The University reserves the right to amend/change/delete/cancel any of the Terms & Conditions/Guidelines at any stage
+    of the recruitment process. The University reserves the right to cancel the recruitment process as a whole or part at any
+    stage/paper thereof for any or all posts without prior notice due to administrative reasons.
+
+28. At the time of CBT/written examination/interview, if a candidate is found guilty of using unfair means or impersonating
+    or misbehaving in the examination hall/interview hall, wherever applicable, or resorting to any other unfair means in
+    connection with his/her candidature for the selection; or obtaining support of his/her candidature by any means, such
+    candidate will be liable to criminal prosecution, and disqualified from the examination/interview either permanently or
+    for a specified period from any examination or selection of the University.
+
+
+29.
+
+30. Please submit print out of the submitted application duly signed and along with self-attested copies of all relevant
+    documents by 12.11.2026 to the Recruitment Cell, Room No. 13, Block No. 7, Indira Gandhi National Open
+    University, Maidan Garhi, New Delhi – 110068, Ph : 011-29571713
+
+31. Applications received incomplete or without signature, fee and other enclosures, will be rejected.
+
+32. The candidates may raise their legal dispute arising out of this Recruitment notice, if any to the exclusive jurisdiction of
+    the courts of Delhi only.
+
+33. For general queries, please contact:
+    Email: recruitmentcell@ignou.ac.in.
+
+
+
+
+                                                                                      REGISTRAR (ADMINISTRATION)
+
+
+
+
+                                                                                                              Page 12 of 12
+

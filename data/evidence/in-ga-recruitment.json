@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://gpsc.goa.gov.in/advertisements/",
+  "fetchedAt": "2026-09-24T23:13:04.245Z",
+  "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+  "bytes": 172601,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+  "fetchedAt": "2026-09-24T23:13:04.948Z",
+  "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+  "bytes": 66351,
+  "contentType": "application/json; charset=UTF-8"
+ },
+ {
+  "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+  "fetchedAt": "2026-09-24T23:13:05.852Z",
+  "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+  "bytes": 495506,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+  "fetchedAt": "2026-09-24T23:13:07.017Z",
+  "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+  "bytes": 1097699,
+  "contentType": "application/pdf"
+ }
+]

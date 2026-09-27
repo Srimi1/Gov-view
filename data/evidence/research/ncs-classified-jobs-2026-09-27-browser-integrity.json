@@ -1,0 +1,9 @@
+{
+  "artifact": "data/evidence/research/ncs-classified-jobs-2026-09-27-browser.json",
+  "sha256": "436c16cdbdb3aecdf46b7eea16a78d1a5cd769354f25c54c9eadbccc60d5f737",
+  "scope": "Local capture artifact bytes, not HTTP source bytes",
+  "canonicalRowsFNV1a32": "9e111e2a",
+  "browserTranscriptionMatched": true,
+  "rowCount": 145,
+  "uniqueSequences": 145
+}

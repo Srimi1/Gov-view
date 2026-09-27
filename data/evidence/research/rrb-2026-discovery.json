@@ -1,0 +1,18 @@
+{
+  "sourceId": "in-rrb-railways",
+  "checkedAt": "2026-09-25",
+  "canonicalUrl": "https://rrb.indianrailways.gov.in/chandigarh",
+  "redirectFrom": "https://rrbcdg.gov.in/2026-01-alp.php",
+  "bodySha256": "2bfc4113b1018e7bfd73e13579a023f591111b419701e14f71488bd6427d063e",
+  "bodyBytes": 142969,
+  "accessObservations": [
+    "Old www.rrbcdg.gov.in fails TLS hostname validation; no certificate checks were disabled.",
+    "Non-www old host redirects to the new rrb.indianrailways.gov.in/chandigarh public homepage.",
+    "New host robots.txt returned an HTML Request Rejected response; no automated connector was activated.",
+    "Homepage lists CEN 05/2026 and later September notices; notice identity and document links need review.",
+    "The detail route returned Request Rejected for both raw and encoded public query links; no bypass or TLS disablement attempted."
+  ],
+  "attemptedDetailUrl": "https://rrb.indianrailways.gov.in/getdata?loc=chandigarh&cenum=05/2026&category=Notification",
+  "detailResult": "HTTP 200 with HTML title Request Rejected; no notice data or PDF bytes.",
+  "regionalMirrorObservation": "rrbchennai.gov.in redirects to rrb.indianrailways.gov.in/chennai; Chandigarh homepage is accessible, while Bhubaneswar legacy HTTPS host could not connect during this check."
+}

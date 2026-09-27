@@ -1,0 +1,37 @@
+{
+  "researchedAt": "2026-09-25",
+  "status": "manual research only; no cycle staged or published",
+  "authority": "Telangana State Level Police Recruitment Board",
+  "home": "https://tgprb.in/",
+  "homeHtmlSha256": "09a921e6b2da7aa05ceb7cd32bfd40aaaac71dae11e22d8b57312ae5a90740c4",
+  "homeScript": "https://tgprb.in/assets/index-PsMOnF8l.js",
+  "homeScriptSha256": "93b36a46a33dcb556c84e4b14ee3a26d4b2aa2f8f0828d1fb2983f80dd452b40",
+  "robots": {
+    "tgprb.in": "HTTP 404, empty body",
+    "www.tgprb.in": "HTTP 404, empty body",
+    "doc.tgprb.in": "HTTP 403, Amazon S3 AccessDenied XML; automated original-PDF collection disabled"
+  },
+  "documents": [
+    { "file": "tgprb-pc-civil-2026.pdf", "url": "https://doc.tgprb.in/PC+(Civil+et+al)+2026+Notification+dated+29-07-2026.pdf", "sha256": "12287d8a9a96a3583d7fe42f3d79a2fe615c7971917f48d1a0a6a06f078814b7", "role": "PC Civil and equivalent original; 7,112 vacancies" },
+    { "file": "tgprb-si-civil-2026.pdf", "url": "https://doc.tgprb.in/SI+(Civil+et+al)+2026+Notification+dated+29-07-2026.pdf", "sha256": "955d7779b9528d974e6ab25d3e07f15bd7a28f7bb3b63f0063a65931d1305804", "role": "SI Civil and equivalent original; 275 vacancies" },
+    { "file": "tgprb-pc-driver-mechanic-2026.pdf", "url": "https://doc.tgprb.in/PC+Driver+%26+Mechanic+Notification+2026+dated+29-07-2026.pdf", "sha256": "faf602cc4bb43c68f9a7f98bd1dfc7d7809a0a5ca5970ce95ebfe8de68cd16a7", "role": "PC Mechanic and Driver original; 27 vacancies" },
+    { "file": "tgprb-asi-fpb-2026.pdf", "url": "https://doc.tgprb.in/ASI+(FPB)+2026+Notification+dated+29-07-2026.pdf", "sha256": "081ee0fe0f52e602c6c8e971c0d39b58c58270bd870bbaafb36a7e7a4bf95a3c", "role": "ASI Finger Print Bureau original; 23 vacancies" },
+    { "file": "tgprb-supplementary-2026.pdf", "url": "https://doc.tgprb.in/Supplementary+Notification+2026++dated+15-08-2026.pdf", "sha256": "29607ee2ec5af20c6d8a647d51773157e5f9a413e59910cf67551495e3d5e51a", "role": "15 August supplementary notice; affects original terms" },
+    { "file": "tgprb-second-supplementary-2026.pdf", "url": "https://www.tgprb.in/SI_PC_2026/Second%20Supplementary%20Notification%202026%20%20dated10%20Sep%202026.pdf", "sha256": "50e09433045b79d6c9fe697060d5e8e97e8500c9f430d9b3707e11eb3c589167", "role": "10 September age amendment for PC Civil and PC Mechanic, excluding Driver" },
+    { "file": "tgprb-application-dates-2026.pdf", "url": "https://www.tgprb.in/SI_PC_2026/Application%20Dates%202026%20Press%20Note%20dated%2029-07-2026.pdf", "sha256": "fd646f0110b8d9123ce8e330db3534d705a6f3974761042eb518f9faf954939b", "role": "1 August press note: initial 19 August 08:00–9 September 17:00 application window" },
+    { "file": "tgprb-press-note-2026-09-08.pdf", "url": "https://www.tgprb.in/SI_PC_2026/Press%20Note%20dated%2008-09-2026.pdf", "sha256": "fa535941765db526767b5b964f1da87f0c89b55cdf9f0867169ca7609b94b066", "role": "8 September press note: all four notifications extended to 16 September 17:00" },
+    { "file": "tgprb-press-note-2026-09-17.pdf", "url": "https://www.tgprb.in/SI_PC_2026/Press%20Note%20dated%2017-09-2026.pdf", "sha256": "6489fd777530063df3b695a4605765a0380fcfd49810951457cf52be4c474e49", "role": "17 September press note: applications concluded; test dates tentative" }
+  ],
+  "findings": {
+    "applicationWindow": "19 August 2026 08:00 to 16 September 2026 17:00 Asia/Kolkata. Initial 9 September close was extended; 17 September press note confirms applications concluded.",
+    "jobs": "Four notification families total 7,437 posts; each contains multiple post codes. Post codes, vacancies, locations and form grouping need review before defining distinct application cycles.",
+    "internationalApplicants": "Original four notices and reviewed amendments do not state general nationality permission. Do not infer a positive foreign-citizen match from fee rules or non-local reservation wording. Check Telangana service rules and authority before any eligibility claim.",
+    "language": "SI Civil/equivalent final written exam has qualifying English and Telugu-or-Urdu papers at Matriculation standard. PC Civil/equivalent papers are English-Telugu or English-Urdu; English questions in syllabus remain English. These are test-medium/subject conditions, not a universal CEFR level. Other two families need post-specific review.",
+    "venues": "17 September press note gives tentative SI preliminary test 29 November and PC preliminary test 20 December; exact centres are not established by these notices. No map pins assigned."
+  },
+  "gaps": [
+    "doc.tgprb.in robots.txt is inaccessible, so no automated collector or official notice cycle was staged",
+    "Original notifications' post-code form grouping and category/local reservations are unresolved",
+    "Later notice sets, service rules, nationality at appointment, physical standards and language conditions require founder review"
+  ]
+}

@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <meta name="format-detection" content="telephone=no" />
+      <meta name="description" content="">
+      <meta name="author" content=""><title>Advertisements | Meghalaya Public Service Commission</title>
+      <!-- Custom styles for this template -->
+      <link href="assets/css/base.css" rel="stylesheet" media="all">
+      <link href="assets/css/base-responsive.css" rel="stylesheet" media="all">
+      <link href="assets/css/grid.css" rel="stylesheet" media="all">
+      <link href="assets/css/font.css" rel="stylesheet" media="all">
+	  <link href="assets/css/scrolldown.css" rel="stylesheet" media="all">
+	  <link href="assets/css/font-awesome.min.css" rel="stylesheet" media="all">
+      <link href="assets/css/scroll-to-top.css" rel="stylesheet" media="all">
+	  <link href="assets/css/btn-group button.css" rel="stylesheet" media="all">
+      <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
+      <link href="assets/css/print.css" rel="stylesheet" media="print" />
+      <link href="assets/css/modules.css" rel="stylesheet" media="all">
+	  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+	
+      <!-- Theme styles for this template -->
+      <link href="assets/css/megamenu.css" rel="stylesheet" media="all" />
+      <link href="theme/css/site.css" rel="stylesheet" media="all">
+      <link href="theme/css/site-responsive.css" rel="stylesheet" media="all">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+	  <script src="scripts/jquery-latest.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+	<script src="scripts/menu.js"></script>
+	<script type="text/javascript" src="scripts/jquery.creaseFont.min.js"></script>
+	 
+     <script>  
+      $(document).ready(function(){  
+           $('#search').keyup(function(){  
+                search_table($(this).val());  
+           });  
+           function search_table(value){  
+                $('#table tr').each(function(){  
+                     var found = 'false';  
+                     $(this).each(function(){  
+                          if($(this).text().toLowerCase().indexOf(value.toLowerCase()) >= 0)  
+                          {  
+                               found = 'true';  
+                          }  
+                     });  
+                     if(found == 'true')  
+                     {  
+                          $(this).show();  
+                     }  
+                     else  
+                     {  
+                          $(this).hide();  
+                     }  
+                });  
+           }  
+      });  
+ </script>
+      
+      <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+      <![endif]-->
+      <!-- Custom JS for this template -->
+      <noscript>
+         <link href="theme/css/no-js.css" type="text/css" rel="stylesheet">
+      </noscript>
+   </head>
+   <body>
+      <div id="fb-root"></div>
+      <header>
+         <div class="region region-header-top">
+            <div id="block-cmf-content-header-region-block" class="block block-cmf-content first last odd">
+               <noscript class="no_scr">"JavaScript is a standard programming language that is included to provide interactive features, Kindly enable Javascript in your browser. For details visit help page"
+               </noscript>
+               <div class="wrapper common-wrapper">
+                  <div class="container common-container four_content top-header">
+                     <div class="common-left clearfix">
+                        
+                     </div>
+                     <div class="common-right clearfix">
+                        <ul id="header-nav">
+                           <li class="ico-skip cf"><a href="#skipCont" title="">Skip to main content</a>
+                           </li>
+                           <li class="ico-site-search cf">
+                              <a href="javascript:void(0);" id="toggleSearch" title="Site Search">
+                              <img class="top" src="assets/images/ico-site-search.png" alt="Site Search" /></a>
+                              <div class="search-drop both-search">
+										<div class="find">
+											<form method="get" action="https://www.google.com/search" onSubmit="this.target='_blank'" autocomplete="off">
+												<label for="search_key_g" class="notdisplay">Search</label>
+												<input type="text" name="q" value="" id="search_key_g" />
+												<input type="submit" value="Search" class="bttn-search">
+												<div>
+													<input type="hidden" name="sitesearch" value="https://mpsc.meghalaya.gov.in/" /> </label>
+												</div>
+											</form>
+											<div id="auto_suggesion"></div>
+										</div>
+									</div>
+                           </li>
+                           <li class="ico-accessibility cf">
+                              <a href="javascript:void(0);" id="toggleAccessibility" title="Accessibility Dropdown">
+                              <img class="top" src="assets/images/ico-accessibility.png" alt="Accessibility Dropdown" />
+                              </a>
+                              <ul style="visibility: hidden;">
+                                 <li> <a onClick="set_font_size(&#39;increase&#39;)" title="Increase font size" href="javascript:void(0);">A<sup>+</sup>
+                                    </a> 
+                                 </li>
+                                 <li> <a onClick="set_font_size()" title="Reset font size" href="javascript:void(0);">A<sup>&nbsp;</sup></a> </li>
+                                 <li> <a onClick="set_font_size(&#39;decrease&#39;)" title="Decrease font size" href="javascript:void(0);">A<sup>-</sup></a> </li>
+                                 <li> <a href="javascript:void(0);" class="high-contrast dark" title="High Contrast">A</a> </li>
+                                 <li> <a href="javascript:void(0);" class="high-contrast light" title="Normal Contrast" style="display: none;">A</a> </li>
+                              </ul>
+                           </li>
+                           
+                           <li class="ico-sitemap cf"><a href="screen_access.html" title="Screen Access Reader">
+                              <img class="top" src="assets/images/ico-sitemap.png" alt="Screen Access Reader" /></a>
+                           </li>
+                           
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>                     
+            <a href="#" class="scroll-to-top" id="back-to-top">Back to Top</a>
+         </div>
+         <!--Top-Header Section end-->
+         <section class="wrapper header-wrapper">
+         <img src="theme/images/header.jpg" width="1920" height="202" alt=" Meghalaya Public Service Commission "> 
+            <div class="container common-container four_content  header-container">
+
+               
+            </div>
+         </section>
+         <!--/.header-wrapper-->
+         <section class="wrapper megamenu-wraper">
+            <div class="container common-container four_content">
+                <p class="showhide"><em></em><em></em><em></em></p>
+                <nav class="main-menu clearfix" id="main_menu" style="">
+                    <ul class="nav-menu">
+                        <li class="nav-item"> <a href="index.htm" class="home"><span
+						style="display: none;">Home</span><i class="fa fa-home"></i></a> </li>
+						
+                        <li class="nav-item"> <a href="about_us.html">About Us</a>
+                            <div class="sub-nav">
+                                <ul class="sub-nav-group">
+                                    <li><a href="history.html">History</a></li>
+                                    <li><a href="organizational.html">Organizational Chart</a></li>
+                                    <li><a href="who.html">Who's Who</a></li>
+                                    <li><a href="function.html">Functions</a></li>
+                                    <li><a href="stages_of_recruitment.html">Stages of Recruitment</a></li>
+                                    <li><a href="constitutional.html">Constitutional Regulations(1972)</a></li>
+									<li><a href="limitations.html">Limitations of Functions Regulations 1972</a></li>
+                                    <li><a href="sanctioned.html">Sanctioned Strength of Staff</a></li>
+                                    <li><a href="achievements.html">Achievements</a></li>
+                                    <li><a href="annual_reports.html">Annual Reports</a></li>
+                                    <li><a href="photo_gallery.html">Photo Gallery</a></li>
+								</ul>
+							</div>
+						</li>
+						
+                        <li class="nav-item"> <a href="administrative_setup.html">Examinations</a>
+                            <div class="sub-nav">
+                                <ul class="sub-nav-group">
+                                    <li><a href="syllabus.html">Syllabus</a></li>
+                                    <li class="has-submenu">
+                                        <a href="#">Programmes</a>
+                                        <ul class="sub-sub-nav">
+                                            <li><a href="programmes-tentative.html">Tentative Programme Schedule</a>
+                                            </li>
+                                            <li><a href="programmes-actual.html">Programme Schedule</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a target="_blank"
+											href="https://megrecruitment.nic.in/rpa/printadmitcard.htm">Download Admit
+											Card for Post prior to August 2025</a></li>
+									<li><a target="_blank"
+											href="https://rpa.meghalaya.gov.in/rpaonline">Download Admit
+											Card for Post after August 2025.</a></li>
+										<li><a href="pyq.html">Previous Years Questions</a></li>
+										<li><a href="anskey.html">Answer Keys</a></li>
+										<li class="has-submenu">
+                                        <a href="#">Results</a>
+                                        <ul class="sub-sub-nav">
+                                            <li><a href="result_screening.html">Results of Screening Test</a></li>
+                                            <li><a href="result_interview.html">Results of Personal Interview</a></li>
+                                        </ul>
+                                    </li>
+										<li><a href="view_marks.html">View Marks</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a href="advertisements.html">Advertisements</a></li>
+						<li class="nav-item"><a>Notifications</a>
+                            <div class="sub-nav">
+                                <ul class="sub-nav-group">
+										<li><a href="notifications-st.html">Notification for Screening/Written Examination</a></li>
+										<li><a href="notifications-pi.html">Notification for Personal Interview</a></li>
+										<li><a href="notifications-ak.html">Notification for Answer Keys</a></li>
+										<li><a href="notifications-viewmarks.html">Notification for Viewing Marks</a></li>
+										<li><a href="coradd.html">Corrigendum/Addendum</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a href="instructions.html">Instructions to Candidates</a></li>
+                        <li class="nav-item"> <a target="_blank"
+								href="https://rpa.meghalaya.gov.in/">Online Application</a></li>
+									<li><a href="rti.html">RTI</a></li>
+									<li><a href="circulars.html">Circulars/Office Orders</a></li>
+                                    <li><a href="court.html">Court Judgments</a></li>
+                                    <li><a href="grievance.html">Grievance Redressal Cell</a></li>
+                        <li class="nav-item"><a href="faq.html">FAQ</a></li>
+                        <li class="nav-item"><a href="contact_us.html">Contact Us</a></li>
+						<li class="nav-item"><a href="memorandum.html">Government Orders</a></li>
+                        <li class="nav-item"><a href="sitemap.html">Sitemap</a></li>
+					</ul>
+				</nav>
+                <nav class="main-menu clearfix" id="overflow_menu">
+                    <ul class="nav-menu clearfix">
+					</ul>
+				</nav>
+			</div>
+		</section>
+      </header>
+      <!--/.nav-wrapper-->
+      <section class="wrapper banner-wrapper">
+         <!-- <div id="flexSlider" class="flexslider">
+            <div class="inner-banner"><img src="theme/images/banner/inner-banner.jpg" alt="Inner Banner of Consumer Affairs"></div>
+         </div> -->
+      </section>
+      <div class="wrapper" id="skipCont"></div>
+      <!--/#skipCont-->
+      <section id="fontSize" class="wrapper body-wrapper ">
+         <div class="bg-wrapper inner-wrapper">
+            <div class="breadcam-bg breadcam">
+               <div class="container common-container four_content">
+                  <ul>
+                     <li><a href="index.htm">Home </a></li>
+                     <li><a href="advertisements.html">Advertisements</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <section id="page-head" class="wrapper headings-wrapper">
+            <h3 style="display: none;">Heading types</h3>
+            <div class="container common-container four_content">
+                             
+           </div>
+         </section>
+         <!--/#page-head-->
+         <section id="paragraph" class="wrapper paragraph-wrapper">
+            <div class="three_quarter">
+			 <section id="page-head" class="wrapper headings-wrapper">
+            <h3 style="display: none;">Heading types</h3>
+            <div class="container common-container four_content">
+               <h1>Advertisements</h1>  
+				<input type="text" name="search" id="search" class="form-control" placeholder="Search this table"/> 
+           </div>
+         </section>
+<section id="paragraph" class="wrapper paragraph-wrapper">
+            <div class="container common-container four_content">
+        <div class="fixTableHead">
+        <table id="table">
+          <thead>
+            <tr>
+			  <th width = "20%">Advt. No.</th>
+              <th>Advertisement</th>
+              <th>Date of Issue</th> 
+			  <th>Click to apply </th>
+            </tr>
+          </thead>
+          <tbody>
+		  	
+		<tr>
+				<td>
+					<strong>No.MPSC/D-8/1/2023-2024/61</strong>
+				</td>
+              <td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="notify/Notice15Sep2026b.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+PUBLIC NOTICE <br/>
+
+In continuation to this Office Advertisement No. MPSC/ADVT-54/1/2023-2024/138, Dated
+Shillong, the 16th January 2024, for the post of Industrial Promotion Officer/Assistant
+Industries Officer/Assistant Manager, CFSW/Superintendent of Industries in
+Commerce and Industries Department appearing at Post Code 02, Column No.3 and 4, 
+and as per Department's Corrigendum vide L.No IND.50/2001/Pt/55 dated 08th
+September, 2026, total no. of vacancies and Category-wise No. of Posts now stands and may
+be read as:- 
+
+</strong></a></li></td>
+	<td><p><strong>15-09-2026</strong></p></td>
+	<td><li class="nav-item"><strong>-</strong></li></td> 		  
+			</tr>
+		  <tr>
+			<td>
+				<strong>No.MPSC/NAZ-37/2017-2018/47</strong>
+			</td>
+			<td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="advt/Notice15Sep2026b.pdf" target="_blank">
+        <strong> In-Eligibility Notice </strong><br/>
+            This is for general information to all the candidates who have applied for the post of <strong> STENOGRAPHY INSTRUCTOR GRADE-II IN ITI(S) UNDER THE DIRECTORATE OF EMPLOYEMENT & CRAFTSMENT TRAINING, LABOUR DEPARTMENT, MEGHALAYA (APRIL 2018)</strong> that the In-Eligibility List has been published.
+    </a></li></td>
+	<td><p><strong>15-09-2026</strong></p></td>
+		<td><li class="nav-item"><strong>-</strong></li></td> 	  
+			</tr>
+		  <tr>
+			<td>
+				<strong>No.MPSC/ADVT/2025-2026/113</strong>
+			</td>
+			<td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="notify/Notice24June2026a.pdf" target="_blank">
+        <strong> Addendum Cum Public Notice </strong><br/>
+            In continuation to this <strong> Office Advertisement No. 03/2026, Dated 25th May, 2026 </strong> and consequent upon receipt of <strong>Letter No. SYA.40/2026/15, Dated 19.06.2026 </strong> from the Under Secretary to the Government of Meghalaya, Sports and Youth Affairs Department for recruitment to the post of <strong>Junior Football  Coach under the Directorate of Sports and Youth Affairs Department appearing at Post Code No. 02, Column No. 4 - "Educational Qualifications" </strong>of the above mentioned post, it is hereby notified that as per Ministry of Youth Affairs & Sports, Govt. of India vide L.No. <strong> F.22-4/2020-SP-II dtd 15.09.2020, an Additional Eligibility Criteria to the post has been included and may be read as </strong>
+    </a></li></td>
+	<td><p><strong>24-06-2026</strong></p></td>
+		<td><li class="nav-item"><strong>-</strong></li></td> 	  
+			</tr>
+	</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-11/3/2024-2025/107</strong>
+				</td>
+              <td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="notify/Notice09June2026a.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+PUBLIC NOTICE 
+In continuation to this Office Advertisement No. 06/2024, Dated Shillong, the 19th
+December, 2024, and in pursuance of the Judgement and Order of the Hon'ble High
+Court of Meghalaya in WP(C). No. 342 of 2025 dated 06.05.2026 and Department's
+L.No. ERTS (E) 33/2024/88, Dated Shillong, the 27th May, 2026 for the post of Inspector 
+of Excise in the Office of the Commissioner of Excise, Meghalaya, Shillong appearing at
+Post Code 01, Column No.5, the updated Category-wise No. of Posts now stands and may be
+read as under :  
+
+</strong></a></li></td>
+	<td><p><strong>09-06-2026</strong></p></td>
+		<td><li class="nav-item"><strong>-</strong></li></td> 	  
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-15/1/2025-2026/22</strong>
+				</td>
+              <td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="notify/Notice03June2026a.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+PUBLIC NOTICE 
+In continuation to this Office Advertisement No.03/2026, Dated the 25th May, 2026,
+and as per Departments L.No. MEG/PISC (E) 35/2024-25/73, Dated the 26th May,
+2026 for the post of Fishery Officer in the Directorate of Fisheries, appearing at
+Post Code-01, Para 2 -"Age & Age Relaxation" may be read as "18 years to 32
+years". Upper age limit is relaxable by 5 years for SC/ST who hold certificate
+issued by competent authority of the Government of Meghalaya.
+
+</strong></a></li></td>
+	<td><p><strong>03-06-2026</strong></p></td>
+			 <td><li class="nav-item"><strong>-</strong></li></td> 
+			</tr>
+		   <tr>
+				<td>
+					<strong>No. MPSC/D-61/1/2020-2021/151</strong>
+				</td>
+              <td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="notify/Notice26May2026a.pdf" target="_blank"><strong>PUBLIC NOTICE<br/>
+
+This is for general information of all candidates and general public that as per Letter No.PER
+(AR) 64/2022/41 Dated Shillong, the 4th November, 2025 received from Deputy Secretary to the
+Govt. of Meghalaya, Personnel & Admv. Reforms (B) Department for the post of Assistant Urban
+Planner in East Khasi Hills District under Urban Affairs Department which was advertised earlier by
+the Commission, the category wise Roster is as follows:- 
+
+</strong></a></li></td>
+	<td><p><strong>26-05-2026</strong></p></td>
+			 <td><li class="nav-item"><strong>-</strong></li></td> 
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.3/2026</strong>
+				</td>
+				
+					
+              <td><li><img src="img/new.gif" alt="New icon" width="30" height="12">
+	<a href="advt/Advt25May2026.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Fishery Officer underThe Directorate of Fisheries</li>
+				 <li> Junior Football Coach under The Directorate of Sports and Youth Affairs Department, Meghalaya, Shillong. </li>		 
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>25-05-2026</strong></p></td>
+				
+				<td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>L.No.ADVT/PT-1/2025</strong>
+				</td>
+              <td><li>
+	<a href="notify/Notice29April2026a.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+PUBLIC NOTICE 
+In partial modification of this Office Advertisement. No 17/2025 dtd 4th September, 2025 
+for the post of Sub-Inspector of Supply in the Office of the Directorate of Food Civil supplies & Consumer Affairs , "The Method of Selection" at Para 6
+& 
+6.3 for subjects and marks allocation
+for the above post stands modified.
+The revised subjects and marks distribution is as mentioned below:- 
+
+</strong></a></li></td>
+	<td><p><strong>29-04-2026</strong></p></td>
+			 <td><li class="nav-item"><strong>-</strong></li></td> 
+			</tr>
+		   <tr>
+				<td>
+					<strong>No.2/2026</strong>
+				</td>
+              <td><li>
+	<a href="advt/Advt08April2026.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Tourist Officer under Tourism Department. </li>
+				 <li> Draftsman Grade-I in the Directorate of Housing. </li>	 
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>08-04-2026</strong></p></td>
+				
+				<!-- <td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td> -->
+				<td><li class="nav-item"> <p>Application date over</p></li></td>
+				
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.1/2026</strong>
+				</td>
+              <td><li>
+	<a href="advt/Advt17Mar2026.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Wireman Instructor under The Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Development,Meghalaya. </li>
+				 <li> Publicity Assistant-cum- Khasi Translator under Directorate of Sericulture & Department of Textile</li>
+				 <li> Investigator in the Directorate of Housing. </li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>17-03-2026</strong></p></td>
+				
+				<td><li class="nav-item"> <p>Application date over</p></li></td>
+				
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-50/1/2021-2022/65</strong>
+				</td>
+              <td><li>
+	<a href="notify/Notice17Mar2026b.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+PUBLIC NOTICE 
+In continuation to this Public Notice No.MPSC/D-50/1/2021-2022/64, Dated Shillong, the 14th March 2026 for the post of Assistant Engineer in Urban Affairs Department under the Category Wise Roster may be read as:­ 
+</strong></a></li></td>
+	<td><p><strong>17-03-2026</strong></p></td>
+			 <td><li class="nav-item"><strong>-</strong></li></td> 
+			</tr>
+		  
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-30/2/2020-2021/81</strong>
+				</td>
+              <td><li>
+	<a href="notify/Notice14Mar2026b.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+This is for general information of all candidates and general public that as per Letter No.PER(AR) 144/2022/147, dated 24.07.2025 received from the Deputy Secretary to the Govt. of Meghalaya, 
+Personnel & Admv.Reforms (B) Department for the post of Junior Engineer (Electrical) under the Public Works (Building) Department which was advertised earlier by the Commission.
+</strong></a></li></td>
+	<td><p><strong>14-03-2026</strong></p></td>
+			  <td><li class="nav-item"><strong>-</strong></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-50/1/2021-2022/64</strong>
+				</td>
+              <td><li>
+	<a href="notify/Notice14Mar2026c.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+This is for general information of all candidates and general public that as per Letter No.PER(AR) 64/2022/41, dated Shillong, the 4th November, 2025 received from the Deputy Secretary to the Govt. of Meghalaya, 
+Personnel & Admv.Reforms (B) Department for the post of Assistant Engineer under Urban Affairs Department which was advertised earlier by the Commission.
+</strong></a></li></td>
+	<td><p><strong>14-03-2026</strong></p></td>
+			  <td><li class="nav-item"><strong>-</strong></li></td>
+			</tr>
+		  
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-64/2/2024-2025/90</strong>
+				</td>
+              <td><li>
+	<a href="notify/Notice10Feb2026a.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+In continuation to the MPSC Advertisement No.08/2025 dtd. 8th May 2025, for the 
+post of Assistant Engineer - Group - B (Grade II) in the Office of the Chief Engineer Water 
+Resources Department appearing at post code 02 and column 2 may be read as " Assistant 
+Engineer - Group - A(Grade II) in the Office of the Chief Engineer Water. Resources 
+Department. 
+</strong></a></li></td>
+	<td><p><strong>10-02-2026</strong></p></td>
+			  <td><li class="nav-item"><strong>-</strong></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/ADVT/PT-1/2025</strong>
+				</td>
+              <td><li> 
+	<a href="notify/Notice04Feb2026a.pdf" target="_blank">
+        <strong>
+		Consequent on receipt of L.No S&W.32/1988/Pt-1/244 dtd 30" January,2026 from
+the Joint Secretary, Department of Textiles, Meghalaya along with Court Order in WP(C)
+No 3 of 2026 dtd 28.01.2026 from the Hon'ble High Court of Meghalaya for the post of
+Sericulture Inspector/Reeling Foreman/Manager under the Directorate of Sericulture & 
+Weaving, Department of Textiles, It may be informed that Advertisement No 21/2025 dtd
+19.12.2025 & Public Notice. No MPSC/ADVT/PT-1/2025 dtd 23.01.2026 advertised by the
+Commission for 14 (fourteen) vacancies to the post of Sericulture Inspector/Reeling
+Foreman/Manager under the Directorate of Sericulture & Weaving, Department of Textiles 
+shall not be given effect to until WP(C) no. 555 of 2025 and other connected matters are
+heard. This is in compliance to the Court Order mentioned above.  
+        </strong>
+    </a></li></td>
+	<td><p><strong>04-02-2026</strong></p></td>
+				
+				<td><p align ="center"><strong>-</strong></p></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/PT-1/2025</strong>
+				</td>
+              <td><li>
+	<a href="advt/Advt23Jan2026a.pdf" target="_blank">
+        <strong>Consequent on receipt of L.No S&W.32/1988/240 dtd 22.01.2026 from the Joint Secretary to the Government of Meghalaya, Department of Textiles for the post of
+            <ol type="1">
+                 <li> Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture & Weaving, Department of Textiles, Meghalaya, Shillong.
+</li>
+				 
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>23-01-2026</strong></p></td>
+				
+				<!-- <td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td> -->
+				<td><p align ="center"><strong>-</strong></p></td>
+			</tr> 
+		  <tr>
+				<td>
+					<strong>No.21/2025</strong>
+				</td>
+              <td><li>
+	<a href="advt/Advt19Dec2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Sericulture Inspector/Reeling Foreman/Manager under The Directorate of Sericulture& Weaving, Department of Textiles, Meghalaya, Shillong.
+</li>
+				 
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>19-12-2025</strong></p></td>
+				
+				<!-- <td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td> -->
+				<td><p align ="center"><strong>-</strong></p></td>
+			</tr> 
+		  <tr>
+				<td>
+					<strong>No.20/2025</strong>
+				</td>
+              <td><li> 
+	<a href="advt/Advt10Dec2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Foreman under The Directorate of Printing and Stationery, Meghalaya</li>
+				 <li> Assistant Librarian Under Meghalaya Administrative Training Institute</li>
+				 <li> Librarian in the Directorate of Soil and Water Conservation Department</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>10-12-2025</strong></p></td>
+				
+				<td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.19/2025</strong>
+				</td>
+              <td><li><strong>ADDENDUM</strong><br/>	
+	<a href="advt/Addendum30Oct2025a.pdf" target="_blank">
+        <strong>Consequent upon the increase of number of vacancies as informed  by the various Heads of Department under the Government  of Meghalaya  for recruitment  to the post  
+		of Lower Division Assistant under the Heads of Department appearing at Post code No. 01 of Advt.No.15/Pt-1/2025 dtd 15.07.2025.
+		It is hereby notified for general  information of all concern that the number of vacancies  in respect of the above mentionecd posts are as follows:
+            <ol type="1">
+                 <li> Lower Division Assistant in the Heads of Department </li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>30-10-2025</strong></p></td>
+			  <!-- <td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td> -->
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.18/2025</strong>
+				</td>
+              <td><li> 
+	<a href="advt/Advt10Oct2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                 <li> Meghalaya Civil Service (MCS) [Oct 2025] </li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>10-10-2025</strong></p></td>
+				<td><li class="nav-item"> <p>Application date over</p></li></td>
+				<!-- <td><li class="nav-item"><a target="_blank" href="https://rpa.meghalaya.gov.in/rpaonline"><p align="center">Online Application</p></a></li></td> -->
+			</tr>
+		  <tr>
+				<td>
+					<strong>MPSC/D-78/1/2024-2025/227</strong>
+				</td>
+              <td><li>
+    
+	<a href="notify/Notice05Sept2025a.pdf" target="_blank"><strong>NOTICE</strong><br/>	
+		<ol type="1">
+			<li>
+			<strong>The Meghalaya  Public  Service Commission  (MPSC)  wishes  to inform all candidates  that the Online Recruitment  Processing  Application  (RPA) has been migrated  
+			from megrecruitment.nic.in to rpa.meghalaya.gov.in. The updated application link is now available on the official MPSC website.
+Candidates  are kindly  requested  to re-register on the new portal using the same email ID previously  used. This will ensure that  
+all applications  submitted under the former  system are seamlessly reflected in the new platform.
+We appreciate your cooperation during this transition.
+For any Assistance, kindly contact MPSC at helpdesk.mpsc-meg@gov.in.
+</strong>
+			</li> 
+		</ol>
+</a></li></td>
+	<td><p><strong>05-09-2025</strong></p></td>  
+	<td><p align ="center"><strong>-</strong></p></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>MPSC/D-78/1/2024-2025/226</strong>
+				</td>
+              <td><li>
+    
+	<a href="notify/Notice04Sept2025c.pdf" target="_blank"><strong>NOTICE</strong><br/>	
+		<ol type="1">
+			<li>
+			<strong>All candidates applying for posts advertised by the Meghalaya Public Service Commission (MPSC) are advised to verify the status of their application under the 
+			‘My Applications’ section after completing the payment process.
+If the application status indicates ‘Application fees not paid’ despite successful payment, candidates must promptly contact the Commission at helpdesk.mpsc-meg@gov.in for clarification and resolution.
+Please note that requests related to payment discrepancies will not be entertained once the Programme of Examinations has been scheduled. Candidates are therefore urged to ensure timely verification to avoid any inconvenience.
+For any Assistance, kindly contact MPSC at helpdesk.mpsc-meg@gov.in.
+</strong>
+			</li> 
+		</ol>
+</a></li></td>
+	<td><p><strong>04-09-2025</strong></p></td>  
+	<td><p align ="center"><strong>-</strong></p></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.17/2025</strong>
+				</td>
+              <td><li>  
+	<a href="advt/Advt04Sep2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Assistant Public Prosecutor under The Directorate of Prosecution. [Sept 2025] </li>
+				<li>Liaison Officer in The Office of the Additional Resident Commissioner, Meghalaya House, Mumbai under General Administration (A) Department. [Sept 2025]</li>
+				<li>Sub-Inspector of Supply in The Directorate of Food Civil Supplies & Consumer Affairs. [Sept 2025]</li>	
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>04-09-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/ADVT//Pt-1/2025</strong>
+				</td>
+		  <td>
+		  <li>
+			<a href="notify/Notice18Aug2025c.pdf" target="_blank"><strong>NOTICE</strong><br/> 
+				<strong>Due to Technical issues in the Application Server, It is hereby informed that the last date for application  of 
+					Advt No.15/Pt-1/2025 dtd 15th July 2025 for the post of Lower Division Assistant under Heads of Department and Advt No.16/Pt-I/2025 dtd 15th July 2025 
+					for the post of Typist in the various Heads of Department has been extended to 22nd August 2025 -
+					17:00 hours.
+				</strong>
+			</a></li>
+			</td>
+			<td><p><strong>18-08-2025</strong></p></td> 
+			<td><p align ="center"><strong>-</strong></p></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.16/Pt-1/2025</strong>
+				</td>
+              <td><li>  
+	<a href="advt/Advt15July2025b.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Typist in various Heads of Department [July 2025]</li>
+				
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>15-07-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.15/Pt-1/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt15July2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Lower Division Assistant in the Heads of Department [July 2025]</li>
+				
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>15-07-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  
+		  <tr>
+					<td>
+					<strong>ADVT./Pt-1/2025</strong>
+					</td>
+					<td><li>
+    <a href="advt/Addendum10July2025.pdf" target="_blank">
+        <strong>Consequent upon  the  increase  of number  of vacancies  as  informed  by  the  Joint  Secretary,  
+		Public  Health Engineering  Department   vide   (i)   L.NoPHE.43/2017/145   dtd   26.06.2025   for   the   post   of   
+		Sub   -   Divisional Officer/Assistant Engineer (Civil) under PHE  department appearing at Sl. No l(a) and (ii) L.NoPHE.154/2019/156 dtd  27.06.2025 for  the  post  of 
+		Sub-  Divisional  Officer/Assistant  Engineer  (Electrical)  under  PHE  department appearing at Sl. No l(b) of Advt.No.11/2025 dtd 30.05.2025.
+It is hereby notified for general information of all concern that the number of vacancies in respect of the above mentioned posts are as follows:
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>10-07-2025</strong></p></td>
+			  <td><li class="nav-item"> <p><strong>Addendum to Advt. No..11/2025 Dtd. 30.05.2025</strong></p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.14/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt26June2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Assistant Soil & Conservation Officer (AS&WCO) under Soil and Water Conservation Department [June 2025]</li>
+				<li>Mechanic Motor Vehicle (M.V) Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour, Employment & Skill Development [June 2025]</li>
+				<li> Electrician Instructor under the Directorate of Employment & Craftsmen Training, Department of Labour Employment & Skill Develoment [June 2025]</li>	
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>26-06-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-35/1/2025-2026/47</strong>
+				</td>
+              <td><li>
+    
+	<a href="notify/Notice18June2025a.pdf" target="_blank"><strong> PUBLIC NOTICE <br/> 
+This is for general information to all candidates that there are 2 (two) additional vacancies for the post  of Draughtsman  Grade II/Surveyor  Grade II  under Soil  & Water Conservation  
+Department as  informed by Department vide L.   No SCD.2/2023/195 dtd 26.05.2025  read with Personnel & Administrative   Reforms  (B)   Department  vide   L.No   PER  (AR)   19/2023/109  
+dtd  08.05.2025 advertised vide Advt.No.13/2025 dtd  17.06.2025.
+Candidates who had already applied for the post mentioned above in the previous advertisement advertised vide Advt. No. 03/2025 dtd 14.05.2025 "NEED NOT APPLY AGAIN".
+"The  Method of Selection" at PARA 6 for this  post  as  mentioned  in the  previous advertisement no. Advt no.03/2025 dtd 14.05.2025 stands modified. Candidates who had applied 
+in the previous advertisement  to this  post  are  to  refer  to  PARA  6  -"Method   of  Selection"   advertised  vide
+Advt.No.13/2025 dtd  17.06.2025.
+</strong></a></li></td>
+	<td><p><strong>18-06-2025</strong></p></td>
+			  <td><li class="nav-item"><strong>-</strong></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.13/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt17June2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Draughtsman Grade-II Surveyor Grade-II under the Directorate of Soil and Water Conservation</li>	
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>17-06-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/D-5/1/2025-2026/16</strong>
+				</td>
+              <td><li>
+    
+	<a href="notify/Notice13June2025a.pdf" target="_blank"><strong> CORRIGENDUM <br/>
+In  continuation of the Office Advertisement No.10/2025 dtd 26th May, 2025, Para 6.3 of "Method of Selection" for the post of Junior Cooperative Officer "under Cooperative Department" may be read as "under Cooperation Department". The post is transferable and recommended person may be posted
+anywhere in the State of Meghalaya, mostly in rural areas.
+</strong></a></li></td>
+	<td><p><strong>13-06-2025</strong></p></td>
+			  <td><li class="nav-item"><strong>-</strong></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.12/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt12June2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Assistant Employment Officer (Gazetted Group 'B') under the Directorate of Employment & Craftsmen Training Department of Labour, Employment & Skill Development [June 2025]</li>	
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>11-06-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		   <tr>
+				<td>
+					<strong>No.11/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt30May2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Sub-Divisional Officer / Assistant Engineer (Civil) under PHE Department and Public Works (R&B) Department [May 2025]</li>
+				<li>Sub Divisional Officer / Assistant Engineer (Electrical) under P.H.E Department [May 2025]</li>	
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>30-05-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.10/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt26May2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Animal Husbandry & Veterinary Officer under the Animal Husbandry and Veterinary Department [May 2025]</li>
+				<li>Computer Programmer in Planning, Investment Promotion & Sustainable Development Department [May 2025]</li>
+				<li>Junior Co-operative Officer under the Cooperation Department [May 2025]</li>
+				<li>Junior Karate Coach under the Directorate of Sports and Youth Affairs [May 2025]</li>
+				<li>Junior Badminton Coach under the Directorate of Sports and Youth Affairs [May 2025]</li>
+				<li>Stenographer Grade-III in the Directorate of Tourism [May 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>26-05-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.MPSC/ADVT/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="notify/Notice15May2025d.pdf" target="_blank"><strong>NOTICE<br/>	
+		<ol type="1">
+			<li> This is for general information to all the applicants, due to technical issues in the Online Recruitment Application, <strong> the last date for application to the various advertisements 
+			issued by the Meghalaya Public Service Commission has been extended to the 23rd May, 2025</li> </strong>
+		</ol>
+</a></li></td>
+	<td><p><strong>15-05-2025</strong></p></td>
+			  <td><li class="nav-item"> <strong>-</strong></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.09/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt12May2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>Stenographer Grade-I under Meghalaya Civil Secretariat [May 2025]</li>
+				<li>Stenographer Grade-III under Commissionerate of Food Safety and Inspector General of Prisons and Correctional Services [May 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>12-05-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.08/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt08May2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Scientific Officer for (Chemistry Division) under the Directorate of Forensic Science [May 2025]</li>
+				<li> Assistant Engineer-Group-B in the Office of the Chief Engineer Water Resources Department [May 2025]</li>
+				<li> Lower Division Assistant under the Meghalaya (C) Secretariat [May 2025]</li>
+				<li> Draftsman Grade-II Group-C in the Office of the Chief Engineer Water Resources Department [May 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>08-05-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.07/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt21April2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  Vice Principal in ITI(s) under the Directorate of Employment & Craftsmen Training, Labour Department [April 2025]</li>
+				<li>  Assistant Agriculture Engineer Land Use Survey (LUS) in the office of the Research Officer at Shillong, Tura and Jowai under the Department of Agriculture and Farmers' Welfare [April 2025]</li>
+				<li>  Junior Engineer Grade-I (Electrical) under P.H.E Department [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>21-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.05/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt17April2025b.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  Senior Scientific Assistant in the Documents Division of the Directorate of Forensics Sciences [April 2025]</li>
+				<li>  Soil & Water Conservation Ranger (Overseer/Draughtsman-I) in the Office of the Directorate of Soil & Water Conservation[April 2025]</li>
+				<li>  Environmental Planning and Protection Assistant in the Office of PCCF and HOFF, Meghalaya [April 2025]</li>
+				<li>  Librarian in the Directorate of Information and Public Relations [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>17-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.06/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt17April2025a.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  Motor Vehicle Inspectors under Transport Department [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>17-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.04/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt16April2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  Library Assistant at State Central Library, Shillong (Non-Gazetted) [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>16-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.03/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt14April2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  Inspector of Legal Metrology in the Office of the Controller of Legal Metrology [April 2025]</li>
+				<li>  Junior Engineer Grade - I (Civil) under Various Departments [April 2025]</li>
+				<li>  Draughtsman Grade-II Surveyor Grade-II under the Directorate of Soil and Water Conservation [April 2025]</li>
+				<li>  Account Assistant under the Directorate of Community and Rural Development [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>14-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.02/2025</strong>
+				</td>
+              <td><li>
+    
+	<a href="advt/Advt08April2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>  FOOD SAFETY OFFICER UNDER THE COMMISSIONERATE OF FOOD SAFETY [April 2025]</li>
+           </ol>
+        </strong>
+    </a></li></td>
+	<td><p><strong>08-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+	<tr>
+	<td>
+					<strong>No.01/2025</strong>
+				</td>
+				 <td><li>
+    <a href="advt/Advt04April2025.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Liaison Officer in the Office of the Officer on Special Duty, Meghalaya House, Guwahati and Meghalaya House, Vellore under General Admn.(A) Deptt [April 2025]</li>
+				<li> Inspector of Statistics under the Directorate of Economics and Statistics Department [April 2025]</li>
+				<li> Surveyor Grade-I in Housing Department [April 2025]</li>
+				<li> Sub Inspector of Statistics under the Directorate of Economics and Statistics [April 2025]</li>
+				<li> Inspector of Housing in Housing Department [April 2025]</li>
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>04-04-2025</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+			<tr>
+				<td>
+					<strong>No.06/2024</strong>
+				</td>
+              <td><li>
+    
+    <a href="advt/Advt19Dec2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Inspector of Excise in the Office of the Commissioner of Excise [Dec 2024]</li>
+				<li> Primary Investigator/Computor under the Directorate of Economics & Statistics [Dec 2024]</li>
+				<li> Field Assistant under the Directorate of Economics & Statistics [Dec 2024]</li>
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>19-12-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.05/2024</strong>
+				</td>
+              <td><li>
+    
+    <a href="advt/Advt17Dec2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Account Assistant under the Directorate of Food Civil Supplies & Consumer Affairs [Dec 2024]</li>
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>17-12-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+		  <tr>
+				<td>
+					<strong>No.04/2024</strong>
+				</td>
+              <td><li>
+		
+		<a href="advt/Advt27Nov2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Child Development Project Officer under Social Welfare department [Nov 2024]</li>
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>27-11-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+            <tr>
+					<td>
+					<strong>No.03/2024</strong>
+					</td>
+              <td><li>
+    
+    <a href="advt/Advt26Nov2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Stenographer Grade III in the Meghalaya Secretariat and Heads of department [Nov 2024]</li>
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>26-11-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+			<tr>
+				<td>
+					<strong>No.02/2024</strong>
+					</td>
+              <td><li>
+    
+    <a href="advt/Advt21Nov2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Lower Division Assistant in the various Heads of Department [Nov 2024]</li>
+                <li> Assistant Inspector of Excise under the Commissioner of Excise [Nov 2024]</li>    
+           </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>20-11-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+			<tr>
+			<td>
+					<strong>No.MPSC/D-16/3/2020-2021/112</strong>
+					</td>
+              <td><li>
+<a href="notify/Notice07Nov2024a.pdf" target="_blank"><strong> CORRIGENDUM <br/> Public Notice <br/> 
+This is for general information to all the candidates with regard to the Post of Assistant Conservator of Forest under Forest & Environment Department.
+</strong></a></li></td>
+			  <td><p><strong>07-11-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Corrigendum</p></li></td>
+			</tr>
+            <tr>
+					<td>
+					<strong>No.MPSC/ADVT-54/1/2024-2025/12</strong>
+					</td>
+					<td><li>
+    
+    <a href="advt/Addendum20Sept2024.pdf" target="_blank">
+        <strong>In  continuation  to  this  Office  Advertisement  No.  MPSC/ADVT-54/1/2024-2025/1  dtd  19th  September,
+2024,  for the post of Junior  Divisional  Accountant  (JDA)  under the Administrative  control  of the Director of Accounts & Treasuries, Meghalaya,  at SI  no 11(a)&(b), the Pay level for the post is Level 11 plus usual allowances as admissible under the Rules.
+
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>20-09-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Addendum</p></li></td>
+			</tr>
+			<tr>
+					<td>
+					<strong>No.MPSC/ADVT-54/1/2024-2025/1</strong>
+					</td>
+              <td><li>
+    
+    <a href="advt/Advt19Sep2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> Assistant Conservator of Forest under Forest &  Environment Department (Sept - 2024)</li>
+                <li>Assistant Curator at the District Museum, Tura (Gazetted) (Sept - 2024)</li>
+                <li>Dairy Officer under the Directorate of Dairy Development (Sept - 2024)</li>
+                <li>Junior Informatics Officer in the Directorate of Information Technology & Communications Department (Sept - 2024)</li>
+				<li>Scientific Officer in the Mobile Forensic Crime Scene Unit under the Directorate of Forensic Science (Sept - 2024)</li>
+				<li>Counsellor in the District Prisons & Correctional Homes (Sept - 2024)</li>
+				<li>Senior Scientific Assistant in the Mobile Forensic Crime Scene Unit under the Directorate of Forensic Science (Sept - 2024)</li>
+				<li>Sub-Divisional Public Relations Officer under the Directorate of information and Public Relations in the subordinate offices(Sept - 2024)</li>
+				<li>Piano Instructor at State Institute of Arts & Culture (Non Gazetted) (Sept - 2024)</li>
+				<li>Guitar Instructor at State Institute of Arts & Culture (Non Gazetted) (Sept - 2024)</li>
+				<li>Junior Divisional Accountant (JDA) Under the Administrative Control of the Director of Accounts & Treasuries. (Sept-2024)</li>
+				<li>Scientific Assistant in the Mobile Forensic Crime Scene Unit under the Directorate of Forensic Science (Sept-2024) </li>
+
+            </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>19-09-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+			<tr>
+			<td>
+					<strong>No.MPSC/ADVT-54/1/2023-2024/182</strong>
+					</td>
+              <td><li>
+    
+    <a href="advt/Advt08Mar2024.pdf" target="_blank">
+        <strong>On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li> MAS (MEGHALAYA AGRICULTURE SERVICE) -III [AGRICULTURE DEVELOPMENT OFFICER/ HORTICULTURE DEVELOPMENT OFFICER/SCIENTIFIC OFFICER(RESEARCH/SEED TECHNOLOGY/SOIL TESTING/SEED TESTING etc.)] [MAR 2024]</li>
+                <li>CHILD DEVELOPMENT PROJECT OFFICER UNDER SOCIAL WELFARE DEPARTMENT [MAR 2024]</li>
+                <li>LAW OFFICER UNDER LAW DEPARTMENT [MAR 2024]</li>
+                <li>RESEARCH ASSISTANT UNDER PLANNING DEPARTMENT [MAR 2024]</li>
+            </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>08-03-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+			<tr>
+			<td>
+					<strong>No.MPSC/ADVT-54/1/2023-2024/138</strong>
+					</td>
+              <td><li>
+    <a href="advt/Advt16Jan2024.pdf" target="_blank">
+        <strong>
+            On behalf of the Government of Meghalaya, Applications are invited on (Online-mode) from citizens of India as per the terms and conditions of this Advertisement for recruitment to the post(s) mentioned below :-
+            <ol type="1">
+                <li>JUNIOR GRADE (FINANCE & ACCOUNTS OFFICERS OR TREASURY OFFICERS) OF MEGHALAYA FINANCE SERVICE [JAN 2024]</li>
+                <li>INDUSTRIAL PROMOTION OFFICER OR ASSISTANT INDUSTRIES OFFICER OR ASSISTANT MANAGER,CFSW OR SUPERINTENDENT OF INDUSTRIES IN COMMERCE & INDUSTRIES DEPARTMENT [JAN 2024]</li>
+                <li>ASSISTANT ARCHITECT, GAZETTED GROUP A UNDER PUBLIC WORKS DEPARTMENT (R&B), MEGHALAYA [JAN 2024]</li>
+                <li>INVESTIGATOR IN THE DIRECTORATE OF HOUSING [JAN 2024]</li>
+            </ol>
+        </strong>
+    </a>
+</li></td>
+			  <td><p><strong>16-01-2024</strong></p></td>
+			  <td><li class="nav-item"> <p>Application date over</p></li></td>
+			</tr>
+          </tbody>
+        </table>
+      </div><div class="btn-group">
+  <a href="archives.html"><button>Archives</button></a>
+</div>
+    </div>
+	</div>
+         </section>
+         <!--/#paragraph-->
+         
+         <!--/#list-->
+         <!--/#article-->
+         
+      </section>
+      <!--/.body-wrapper-->
+      
+      <!--/.carousel-wrapper-->
+      <footer class="wrapper footer-wrapper">
+         <div class="footer-top-wrapper">
+            <div class="container common-container four_content footer-top-container"><ul>
+                  <li><a href="terms.html">Terms of Use</a></li>
+                  <li><a href="accessibility-statement.html">Accessibility Statement</a></li>
+                  <li><a href="help.html">Help</a></li>
+               </ul>
+            </div>
+         </div>
+        <div class="footer-bottom-wrapper">
+            <div class="container common-container four_content footer-bottom-container">
+               <div class="footer-content clearfix">
+                  <div class="copyright-content"> Site Designed, Developed and Updated by: Meghalaya Public Service Commission<br>
+Site hosted by : Meghalaya State Data Centre<br>
+ Queries/ comments regarding the content on this site may be sent to helpdesk.mpsc-meg@gov.in <br>
+
+ <script>
+ const paginationContainer = document.querySelector('.pagination');
+const currentPage = 1; // Initialize current page
+
+paginationContainer.addEventListener('click', (event) => {
+  const target = event.target;
+  if (target.classList.contains('page-link')) {
+    const pageNumber = parseInt(target.dataset.page);
+    // Update current page and perform any necessary actions (e.g., fetch new data)
+    currentPage = pageNumber;
+    // Update active class on pagination links
+    paginationContainer.querySelectorAll('.page-link').forEach((link) => link.classList.remove('active'));
+    target.classList.add('active');
+  }
+});
+ </script>
+ 
+ 
+ <script>
+function initArray() { 
+this.length = initArray.arguments.length
+for (var i = 0; i < this.length; i++) this[i+1] = initArray.arguments[i]
+} 
+var MOYArray = new initArray('January','February','March','April', 'May','June','July','August','September', 'October','November','December');
+var LastModDate = new Date(document.lastModified); 
+document.write('Last updated on ');
+document.write(MOYArray[(LastModDate.getMonth()+1)],' ');
+document.write(LastModDate.getDate(),', ',(LastModDate.getYear()+1900));
+document.write('');
+</script>
+                  </div>
+                  
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!--/.footer-wrapper-->
+      <script src="assets/js/jquery-2.1.1.min.js"></script>
+      <script src="assets/js/jquery-accessibleMegaMenu.js"></script>
+      <script src="assets/js/framework.js"></script>
+      <script src="assets/js/font-size.js"></script>
+      <script src="assets/js/swithcer.js"></script>
+      <script src="assets/js/megamenu.js"></script>
+      <script src="theme/js/easyResponsiveTabs.js"></script>
+      <script src="theme/js/custom.js"></script>
+   </body>
+</html>

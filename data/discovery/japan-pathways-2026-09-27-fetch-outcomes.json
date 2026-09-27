@@ -1,0 +1,167 @@
+[
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-main",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/newpage_50884.html",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-foreign-medical-licensing-recognition-main-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/stf/newpage_50884.html",
+      "fetchedAt": "2026-09-26T21:40:59.644Z",
+      "sha256": "345e23cce10c3410874a1fbe4c3a35541a691fc6c631c388d9f9279c2be98cca",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 59017
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "national-skills-system",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/ability_skill/ginoukentei/index.html",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-national-skills-system-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/ability_skill/ginoukentei/index.html",
+      "fetchedAt": "2026-09-26T21:41:00.528Z",
+      "sha256": "46931683376fff99349ddfdf5b37e86e0918c311c2cda31340e8fd88b46834db",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 60911
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "foreign-trainee-system",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/shokugyounouryoku/ability_skill/ginoukentei/kisokyu.html",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-foreign-trainee-system-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/shokugyounouryoku/ability_skill/ginoukentei/kisokyu.html",
+      "fetchedAt": "2026-09-26T21:41:01.558Z",
+      "sha256": "239e81c2cf56dfeced93b2c5e5f5e70c853f318aae2a406000d89d66e821e0ab",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 65320
+    }
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guideline-index",
+    "format": "HTML",
+    "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mext-undergraduate-embassy-2027-guideline-index-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html",
+      "fetchedAt": "2026-09-26T21:40:59.727Z",
+      "sha256": "070dbcb923ee794fd6d1e92d170d709bb084d12cf31811e4d9c060be34fd4e87",
+      "contentType": "text/html",
+      "bytes": 18315
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "foreign-graduate-procedures",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/newpage_56664.html",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-foreign-medical-licensing-foreign-graduate-procedures-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/stf/newpage_56664.html",
+      "fetchedAt": "2026-09-26T21:42:29.888Z",
+      "sha256": "d2a5796b7cea91b97726b6788656c877d87a3d00ed0736630fe5ec8cda14c90e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 55547
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-criteria-table",
+    "format": "image",
+    "url": "https://www.mhlw.go.jp/content/10800000/001448827.png",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-foreign-medical-licensing-recognition-criteria-table-2026-09-27.png",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/content/10800000/001448827.png",
+      "fetchedAt": "2026-09-26T21:42:31.202Z",
+      "sha256": "af55639efa91830ea21b398de193a02349dcd7920533ba2235d5a00c5a662d2f",
+      "contentType": "image/png",
+      "bytes": 200342
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-amendment",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/topics/2012/05/dl/tp0525-01_09.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-foreign-medical-licensing-recognition-amendment-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/topics/2012/05/dl/tp0525-01_09.pdf",
+      "fetchedAt": "2026-09-26T21:42:31.884Z",
+      "sha256": "fc078ac7978c613fe897de273173b6b9791afc48b72941cd5c412b9c064f653a",
+      "contentType": "application/pdf",
+      "bytes": 72980
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "trainee-overview-2021",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/content/000765976.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-trainee-overview-2021-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/content/000765976.pdf",
+      "fetchedAt": "2026-09-26T21:42:33.307Z",
+      "sha256": "fccc03ef485d10da4ab34a8a7a57e4d636014e05199d0d1ec0cb38664875d370",
+      "contentType": "application/pdf",
+      "bytes": 1700897
+    }
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "trainee-notes-current-link",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/content/001078400.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mhlw-skills-certification-trainee-notes-current-link-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.mhlw.go.jp/content/001078400.pdf",
+      "fetchedAt": "2026-09-26T21:42:33.903Z",
+      "sha256": "8e00ca541968bcc72baf6f8b143559a9938574a762f86d3e461efa9941a51b6d",
+      "contentType": "application/pdf",
+      "bytes": 1101195
+    }
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guidelines-en",
+    "format": "PDF",
+    "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_E.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mext-undergraduate-embassy-2027-guidelines-en-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_E.pdf",
+      "fetchedAt": "2026-09-26T21:42:30.449Z",
+      "sha256": "446245d6f9f9227daadb52d87d17d2422da4c864bfe87a5e590a45f2d3bfbf93",
+      "contentType": "application/pdf",
+      "bytes": 466807
+    }
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guidelines-ja",
+    "format": "PDF",
+    "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_J.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/japan62-jp-mext-undergraduate-embassy-2027-guidelines-ja-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_J.pdf",
+      "fetchedAt": "2026-09-26T21:42:30.862Z",
+      "sha256": "bcad8c06f385e31561318da7aa3e9c00ceeca2690ee60027bcae295c6196cb43",
+      "contentType": "application/pdf",
+      "bytes": 420457
+    }
+  }
+]

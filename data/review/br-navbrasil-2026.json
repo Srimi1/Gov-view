@@ -1,0 +1,323 @@
+{
+  "sourceId": "br-navbrasil-2026",
+  "collectedAt": "2026-09-25T03:46:53.292Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Concurso Público 01/2026 · Profissional Técnico de Navegação Aérea",
+      "programme": "Tower Control Operator — NAV Brasil",
+      "status": "closed",
+      "statusNote": "Application window closed. Official employer and FGV organizer registers remain available; founder must check later role-specific notices before publication.",
+      "scopeLabel": "Federal public company employment under Brazil's CLT labor regime; this is one role option within a multi-role concurso, not 128 separate application cycles.",
+      "outcome": "51 immediate Tower Control Operator public-employment vacancies plus reserve list; initial placement follows training and may be anywhere in NAV Brasil's network.",
+      "qualifications": "Completed secondary education. Valid unrestricted Aeronautical Medical Certificate, successful Air Traffic Controller training course and operational internship are required at later stages (retified edital Annex I, page 33).",
+      "citizenshipRule": "Application registration requires CPF but prints no blanket nationality restriction. Before Tower Control training and at appointment, Brazilian nationality qualifies; Portuguese nationality requires Brazil–Portugal Equality Statute status with political rights. Other citizenships do not meet the published later-stage criterion (edital sections 14.3.1 and 19.1(a)).",
+      "residenceRule": "No applicant domicile requirement printed. Listed airport cities are possible work placements or exam-centre cities, not applicant residence rules.",
+      "selectionStages": [
+        "FGV online application and R$83.64 fee",
+        "Objective exam: Portuguese 10 and English 20 questions plus other subjects",
+        "Medical and psychological assessments",
+        "Air Traffic Controller training course",
+        "Operational internship",
+        "Employment admission checks"
+      ],
+      "fee": "R$83.64 application fee for secondary-level role. Payment deadline 29 May 2026 at 23:59 Brasília time, separate from application closure.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "education": {
+          "minLevel": "secondary",
+          "evidence": "Retified edital Annex I, page 33: Ensino médio completo for Tower Control Operator."
+        },
+        "nationality": {
+          "allowed": [
+            "BR"
+          ],
+          "conditional": [
+            "PT"
+          ],
+          "stage": "selection",
+          "evidence": "Retified edital 14.3.1 requires Brazilian or Portuguese nationality before training; Portuguese candidates need Equality Statute status and political rights. Section 19.1(a) repeats this for hiring. Application nationality access is not explicitly settled."
+        },
+        "languages": [
+          {
+            "language": "pt",
+            "stage": "selection",
+            "requirement": "Objective exam includes 10 Portuguese-language questions for this secondary-level role; no CEFR or separate minimum proficiency level stated.",
+            "evidence": "Retified edital 9.3, page 16, and Annex II syllabus.",
+            "sourceUrl": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/edital-01-2026-nav-brasil_retificado_08_05.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "Objective exam includes 20 English-language questions; second amendment revises English reading syllabus. No CEFR or separate minimum proficiency level stated.",
+            "evidence": "Retified edital 9.3, page 16; second amendment 03/2026, pages 2–3.",
+            "sourceUrl": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/2-edital-de-retificacao-nav-brasil-08_05.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm CPF, payment or waiver, chosen role and any portal nationality gate. No general foreign-citizen application permission is inferred from the absence of a ban."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm exam result, unrestricted Aeronautical Medical Certificate, psychological assessment and, for Portuguese citizens, recognized Equality Statute status and political rights before training."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm successful training and operational internship, citizenship/equality status, medical and employment requirements in edital section 19.1."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Macapá objective-exam city (centre assignment may differ)",
+          "city": "Macapá",
+          "latitude": 0.0389,
+          "longitude": -51.0664,
+          "precision": "city",
+          "subdivision": "BR-AP"
+        },
+        {
+          "kind": "published",
+          "name": "Palmas objective-exam city (centre assignment may differ)",
+          "city": "Palmas",
+          "latitude": -10.1675,
+          "longitude": -48.3277,
+          "precision": "city",
+          "subdivision": "BR-TO"
+        },
+        {
+          "kind": "published",
+          "name": "Santarém objective-exam city (centre assignment may differ)",
+          "city": "Santarém",
+          "latitude": -2.4431,
+          "longitude": -54.7083,
+          "precision": "city",
+          "subdivision": "BR-PA"
+        },
+        {
+          "kind": "published",
+          "name": "Belo Horizonte objective-exam city (centre assignment may differ)",
+          "city": "Belo Horizonte",
+          "latitude": -19.9208,
+          "longitude": -43.9378,
+          "precision": "city",
+          "subdivision": "BR-MG"
+        },
+        {
+          "kind": "published",
+          "name": "São Paulo objective-exam city (centre assignment may differ)",
+          "city": "São Paulo",
+          "latitude": -23.5475,
+          "longitude": -46.6361,
+          "precision": "city",
+          "subdivision": "BR-SP"
+        },
+        {
+          "kind": "published",
+          "name": "Rio de Janeiro objective-exam city (centre assignment may differ)",
+          "city": "Rio de Janeiro",
+          "latitude": -22.9064,
+          "longitude": -43.1822,
+          "precision": "city",
+          "subdivision": "BR-RJ"
+        },
+        {
+          "kind": "published",
+          "name": "Vitória objective-exam city (centre assignment may differ)",
+          "city": "Vitória",
+          "latitude": -20.3194,
+          "longitude": -40.3378,
+          "precision": "city",
+          "subdivision": "BR-ES"
+        },
+        {
+          "kind": "published",
+          "name": "Goiânia objective-exam city (centre assignment may differ)",
+          "city": "Goiânia",
+          "latitude": -16.6786,
+          "longitude": -49.2539,
+          "precision": "city",
+          "subdivision": "BR-GO"
+        },
+        {
+          "kind": "published",
+          "name": "Londrina objective-exam city (centre assignment may differ)",
+          "city": "Londrina",
+          "latitude": -23.3103,
+          "longitude": -51.1628,
+          "precision": "city",
+          "subdivision": "BR-PR"
+        },
+        {
+          "kind": "published",
+          "name": "Aracaju objective-exam city (centre assignment may differ)",
+          "city": "Aracaju",
+          "latitude": -10.9111,
+          "longitude": -37.0717,
+          "precision": "city",
+          "subdivision": "BR-SE"
+        },
+        {
+          "kind": "published",
+          "name": "Teresina objective-exam city (centre assignment may differ)",
+          "city": "Teresina",
+          "latitude": -5.0892,
+          "longitude": -42.8019,
+          "precision": "city",
+          "subdivision": "BR-PI"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://conhecimento.fgv.br/concursos/navbrasil26",
+      "changes": [
+        {
+          "at": "2026-05-08",
+          "kind": "updated",
+          "summary": "Second amendment revises English syllabus; this role's application deadline remains 28 May at 18:00."
+        }
+      ],
+      "id": "navbrasil-2026-tower-control-operator",
+      "sourceId": "br-navbrasil-2026",
+      "title": "Tower Control Operator — NAV Brasil",
+      "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+      "pathway": "recruitment",
+      "jurisdictionCode": "BR",
+      "jurisdictionName": "Brazil",
+      "applicationWindow": {
+        "opensOn": "2026-04-27",
+        "closesOn": "2026-05-28",
+        "cutoffLocalTime": "18:00",
+        "officialTimeZone": "America/Sao_Paulo",
+        "precision": "minute",
+        "note": "Retified edital section 4.1: applications 27 April 2026 16:00 to 28 May 2026 18:00 Brasília time. Fee payment has separate 29 May 23:59 deadline; it is not a new-application deadline."
+      },
+      "salary": "R$5,944.03 monthly in retified edital role table, subject to employer terms.",
+      "sources": [
+        {
+          "id": "br-navbrasil-2026:4a6fa7f3b848",
+          "title": "NAV Brasil official concurso 01/2026 document register",
+          "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+          "language": "Portuguese",
+          "format": "HTML",
+          "url": "https://www.navbrasil.gov.br/acesso-a-informacao/agentes-publicos/concursos/concurso-publico/concurso-nav-brasil-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.navbrasil.gov.br/acesso-a-informacao/agentes-publicos/concursos/concurso-publico/concurso-nav-brasil-2026/",
+          "sha256": "7f028094740ab612da048d2104968e5aea8ca4203495a87413af1de704f28189",
+          "lastSuccessfulFetchAt": "2026-09-25T03:46:55.021Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "br-navbrasil-2026:5050da64e4b7",
+          "title": "FGV official organizer register",
+          "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+          "language": "Portuguese",
+          "format": "HTML",
+          "url": "https://conhecimento.fgv.br/concursos/navbrasil26",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://conhecimento.fgv.br/concursos/navbrasil26",
+          "sha256": "3e929cf18efef416c3f10acea25c7651544fee6354001d3668c4f6f87ecfe934",
+          "lastSuccessfulFetchAt": "2026-09-25T03:46:55.004Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "br-navbrasil-2026:6b6e37e65ca4",
+          "title": "NAV Brasil concurso 01/2026: Edital (retificado em 08/05/2026)",
+          "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+          "language": "Portuguese",
+          "format": "PDF",
+          "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/edital-01-2026-nav-brasil_retificado_08_05.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/edital-01-2026-nav-brasil_retificado_08_05.pdf",
+          "sha256": "c0c17b650c918950bbd724fba0133a0fa3b53362de4ef4abcbcb86871a353dc9",
+          "lastSuccessfulFetchAt": "2026-09-25T03:46:57.552Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "br-navbrasil-2026:6bde0b307e2e",
+          "title": "NAV Brasil concurso 01/2026: 1ª Retificação",
+          "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+          "language": "Portuguese",
+          "format": "PDF",
+          "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/1-edital-de-retificacao-nav-brasil-29_04.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/1-edital-de-retificacao-nav-brasil-29_04.pdf",
+          "sha256": "de3f2f695cd6a138d594d0e7979241edaec59e78e71ecd6b999c9aeab45112c2",
+          "lastSuccessfulFetchAt": "2026-09-25T03:46:57.892Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "br-navbrasil-2026:beae7c4fae1a",
+          "title": "NAV Brasil concurso 01/2026: 2ª Retificação",
+          "authority": "NAV Brasil Serviços de Navegação Aérea S.A.",
+          "language": "Portuguese",
+          "format": "PDF",
+          "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/2-edital-de-retificacao-nav-brasil-08_05.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/2-edital-de-retificacao-nav-brasil-08_05.pdf",
+          "sha256": "05f40d4a465eb856f6ce2e48d9599546c7ebfc14ff128312428f70c5fc5cf53f",
+          "lastSuccessfulFetchAt": "2026-09-25T03:46:59.185Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.navbrasil.gov.br/acesso-a-informacao/agentes-publicos/concursos/concurso-publico/concurso-nav-brasil-2026/",
+      "fetchedAt": "2026-09-25T03:46:55.021Z",
+      "sha256": "7f028094740ab612da048d2104968e5aea8ca4203495a87413af1de704f28189",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 94791
+    },
+    {
+      "url": "https://conhecimento.fgv.br/concursos/navbrasil26",
+      "fetchedAt": "2026-09-25T03:46:55.004Z",
+      "sha256": "3e929cf18efef416c3f10acea25c7651544fee6354001d3668c4f6f87ecfe934",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 81592
+    },
+    {
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/edital-01-2026-nav-brasil_retificado_08_05.pdf",
+      "fetchedAt": "2026-09-25T03:46:57.552Z",
+      "sha256": "c0c17b650c918950bbd724fba0133a0fa3b53362de4ef4abcbcb86871a353dc9",
+      "contentType": "application/pdf",
+      "bytes": 838787
+    },
+    {
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/1-edital-de-retificacao-nav-brasil-29_04.pdf",
+      "fetchedAt": "2026-09-25T03:46:57.892Z",
+      "sha256": "de3f2f695cd6a138d594d0e7979241edaec59e78e71ecd6b999c9aeab45112c2",
+      "contentType": "application/pdf",
+      "bytes": 208391
+    },
+    {
+      "url": "https://www.navbrasil.gov.br/wp-content/uploads/2026/05/2-edital-de-retificacao-nav-brasil-08_05.pdf",
+      "fetchedAt": "2026-09-25T03:46:59.185Z",
+      "sha256": "05f40d4a465eb856f6ce2e48d9599546c7ebfc14ff128312428f70c5fc5cf53f",
+      "contentType": "application/pdf",
+      "bytes": 240319
+    }
+  ],
+  "warnings": [
+    "Only Tower Control Operator role is extracted; other NAV Brasil 01/2026 roles remain coverage gaps.",
+    "Employer and organizer registers show first and second amendments; later role-specific convocations, result changes and admission rules need founder review.",
+    "Application-stage foreign nationality access is not explicit. Portuguese Equality Statute status is conditional; no language framework level is printed."
+  ],
+  "approvalRevisions": {
+    "navbrasil-2026-tower-control-operator": {
+      "evidenceRevision": "dfaf5b1623ae2f3d2e93687928b1276c3a1aa797b07e490a32169288923e96aa",
+      "recordRevision": "71e2075770ba88d6a4acc2bb6fa3fa51ef18435da803be46230cf97ab5224e21"
+    }
+  }
+}

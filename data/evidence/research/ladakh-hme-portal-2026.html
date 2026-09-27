@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/assets/css/output.css">
+<link rel="stylesheet" href="/assets/css/style.css">
+<title>Health &amp; Medical Education — UT Ladakh</title>
+
+</head>
+<body class="bg-white font-sans">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HME Ladakh — Online Admission Portal</title>
+    <link rel="stylesheet" href="/assets/css/output.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<!-- Utility bar -->
+<div class="bg-[#0f2560] text-white/65 text-xs py-1.5">
+    <div class="max-w-[1200px] mx-auto px-6 flex items-center justify-between gap-4">
+        <span>Government of India &nbsp;|&nbsp; Administration of Union Territory of Ladakh</span>
+        <a href="/admin/login"
+           class="bg-[#1a3c8f] text-white text-[13px] font-bold px-3.5 py-1 rounded-sm
+                  flex items-center gap-1.5 hover:bg-[#1e4fa0] transition-colors">
+            Admin Login
+        </a>
+    </div>
+</div>
+
+<!-- Main nav -->
+<nav class="bg-white border-b border-[#dde1ec] sticky top-0 z-50 shadow-sm">
+    <div class="max-w-[1200px] mx-auto flex items-center justify-between">
+        <!-- Logo -->
+        <a href="/" class="flex items-center gap-3 flex-shrink-0">
+            <img src="/assets/images/logo_hme.png" alt="HME Ladakh" class="h-24 w-auto">
+        </a>
+        
+        <!-- Desktop nav -->
+        <div class="hidden lg:flex items-stretch">
+                        <a href="/"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Home            </a>
+                        <a href="/notification"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Notifications            </a>
+                        <a href="/contact"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Helpline            </a>
+                        <a href="/usermanual"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                User Manual            </a>
+                        <a href="/guidelines"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Guideline            </a>
+                        <a href="/result"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Results 2024            </a>
+                    </div>
+
+        <div class="hidden lg:flex items-center gap-2 flex-shrink-0">
+            <a href="/register"
+               class="text-sm font-semibold text-[#1a3c8f] border border-[#1a3c8f] px-4 py-1.5
+                      rounded hover:bg-[#1a3c8f] hover:text-white transition-colors">
+                Register
+            </a>
+            <a href="/login"
+                class="text-sm font-semibold bg-[#1a3c8f] text-white px-4 py-1.5
+                      rounded hover:bg-[#152f7a] transition-colors">
+                Login
+            </a>
+        </div>
+
+        <button id="hamburgerBtn"
+                class="lg:hidden text-gray-700 hover:text-[#1a3c8f] p-2 rounded focus:outline-none relative w-10 h-10"
+                aria-label="Toggle menu">
+            <svg class="w-6 h-6 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path id="hamburgerOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M4 6h16M4 12h16M4 18h16"/>
+                <path class="hidden" id="hamburgerClose" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div> 
+
+    <!-- Mobile menu  -->
+    <div id="mobileMenu" class="lg:hidden border-t border-[#dde1ec] bg-white px-6 py-4 space-y-1 hidden">
+        <a href="/home" class="block py-2 text-sm font-semibold text-[#1a3c8f]">Home</a>
+        <a href="/notification" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Notifications</a>
+        <a href="/contact" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Helpline</a>
+        <a href="/guidelines" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Guideline</a>
+        <a href="/result" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Results 2024</a>
+        <a href="/usermanual" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">User Manual</a>
+
+        <div class="border-t border-gray-100 pt-3 mt-2 space-y-2">
+            <a href="/register"
+               class="block text-center border border-[#1a3c8f] text-[#1a3c8f] text-sm
+                      font-semibold py-2 rounded hover:bg-[#1a3c8f] hover:text-white transition-colors">
+                Register
+            </a>
+            <a href="/login"
+               class="block text-center bg-[#1a3c8f] text-white text-sm
+                      font-semibold py-2 rounded hover:bg-[#152f7a] transition-colors">
+                Login
+            </a>
+        </div>
+    </div>
+</nav>
+
+
+</body>
+</html>
+<!--  NOTICE TICKER  -->
+<!--  <div class="bg-[#f4a300] py-1.5 overflow-hidden whitespace-nowrap" role="alert" aria-live="polite">
+    <div class="max-w-[1200px] mx-auto px-6 flex items-center">
+        <span class="bg-[#1a3c8f] text-white text-[10px] font-bold tracking-widest uppercase
+                     px-3 py-0.5 rounded-sm flex-shrink-0 mr-4">Notice</span>
+        <span class="ticker text-xs font-semibold text-[#1a3c8f]">
+                                                Guidelines for Ladakh Central Pool Medical Seats for the academic year 2026-27 &nbsp;&nbsp;|&nbsp;&nbsp;
+                                    The application process for Ladakh Central Pool Medical Seats for the academic year 2026-27 will be open from 23rd September 2026 to 29th September 2026. Applicants are advised to carefully read the guidelines before submitting their applications. &nbsp;&nbsp;|&nbsp;&nbsp;
+                                    </span>
+    </div>
+</div>-->
+
+<!--  HERO SLIDER  -->
+<section class="relative bg-[#1a3c8f] flex items-stretch overflow-hidden h-[480px]"
+         aria-label="Hero">
+
+    <div class="absolute inset-0" id="sliderTrack">
+                <div class="slide active">
+            <img src="assets/images/slide1.jpg"
+                alt="Pangong Tso lake, Ladakh"
+                class="absolute inset-0 w-full h-full object-cover object-center"
+                onerror="this.style.display='none'">
+           <div class="slider absolute inset-0 "></div>
+        </div>
+                <div class="slide ">
+            <img src="assets/images/slide2.jpg"
+                alt="Pangong Lake, Ladakh"
+                class="absolute inset-0 w-full h-full object-cover object-center"
+                onerror="this.style.display='none'">
+           <div class="slider absolute inset-0 "></div>
+        </div>
+                <div class="slide ">
+            <img src="assets/images/slide3.jpg"
+                alt="Thikse Monastery, Ladakh"
+                class="absolute inset-0 w-full h-full object-cover object-center"
+                onerror="this.style.display='none'">
+           <div class="slider absolute inset-0 "></div>
+        </div>
+            </div>
+
+    <div class="hero-content-panel relative z-10 ml-auto flex flex-col justify-center
+                bg-[#1a3c8f] px-10 lg:pr-20 py-14 max-w-[480px]" >
+
+        <h1 class="   text-4xl lg:text-[52px] font-bold text-white leading-tight mb-5">
+            Health &amp;<br>Medical Education
+        </h1>
+        <div class="flex flex-col gap-3 mb-5">
+            <a href="register"
+               class="inline-flex items-center gap-2 bg-[#f4a300] text-[#1a3c8f] text-sm font-bold
+                      px-6 py-2.5 rounded-sm tracking-wider hover:bg-amber-400 transition-colors w-fit">
+                REGISTER NOW
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+            <a href="login"
+               class="inline-flex items-center gap-2 border-2 border-white text-white text-sm font-bold
+                      px-6 py-2.5 rounded-sm tracking-wider hover:bg-white hover:text-[#1a3c8f]
+                      transition-colors w-fit">
+                LOGIN
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+        </div>
+
+        <div class="flex items-center gap-3 mt-3" id="dotNav" aria-label="Slide controls">
+                        <button id="dot-0"
+                data-slide="0"
+                class="w-2.5 h-2.5 rounded-full border-2 cursor-pointer p-0 transition-all duration-300
+                    bg-white border-white scale-125"
+                aria-label="Go to slide 1"></button>
+                        <button id="dot-1"
+                data-slide="1"
+                class="w-2.5 h-2.5 rounded-full border-2 cursor-pointer p-0 transition-all duration-300
+                    bg-transparent border-white/45"
+                aria-label="Go to slide 2"></button>
+                        <button id="dot-2"
+                data-slide="2"
+                class="w-2.5 h-2.5 rounded-full border-2 cursor-pointer p-0 transition-all duration-300
+                    bg-transparent border-white/45"
+                aria-label="Go to slide 3"></button>
+                    </div>
+    </div>
+</section>
+
+<!--  WELCOME  -->
+<section class="bg-white">
+    <div class="max-w-[760px] mx-auto text-center px-6 py-16">
+        <h2 class="   text-3xl font-bold text-[#1a3c8f] mb-4 leading-snug">
+            Health &amp; Medical Education Department,<br>Union Territory of Ladakh
+        </h2>
+        <p class="text-[15px] text-gray-500 leading-relaxed">
+            The HME Department, UT Ladakh is the nodal body overseeing medical education, seat allocation,
+            and transparent admission processes for MBBS, BDS, and paramedical courses for students across the Ladakh region.
+        </p>
+    </div>
+</section>
+
+<!--  INFO CARDS  -->
+<div class="bg-[#f4f6fb] pb-16">
+    <div class="max-w-[1200px] mx-auto px-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 border border-[#dde1ec] rounded overflow-hidden">
+
+            <div class="info-card bg-white p-9 border-r border-[#dde1ec]">
+                <h3 class="   text-xl font-bold text-[#1a1a2e] mb-3">Guidelines</h3>
+                <p class="text-[13.5px] text-gray-500 leading-relaxed mb-6">
+                    Download the official 2026–27 guidelines covering eligibility and required documents
+                    before you apply.
+                </p>
+                <a href="/guidelines" target="_blank"
+                   class="inline-flex items-center gap-1.5 bg-[#1a3c8f] text-white text-xs font-bold
+                          tracking-wider px-4 py-2 rounded-sm hover:bg-[#1e4fa0] transition-colors">
+                    LEARN MORE
+                    <svg class="w-2.5 h-2.5 fill-white" viewBox="0 0 20 20"><path d="M5 10h10M10 5l5 5-5 5"/></svg>
+                </a>
+            </div>
+
+            <div class="info-card bg-[#1a3c8f] p-9 border-r border-white/10">
+                <h3 class="   text-xl font-bold text-white mb-3">Apply for a Seat</h3>
+                <p class="text-[13.5px] text-white/70 leading-relaxed mb-6">
+                    Create your applicant account, complete your application form, upload supporting documents,
+                    and track your admission status — all through this portal.
+                </p>
+                <a href="register"
+                   class="inline-flex items-center gap-1.5 bg-white text-[#1a3c8f] text-xs font-bold
+                          tracking-wider px-4 py-2 rounded-sm hover:bg-gray-100 transition-colors">
+                    APPLY
+                    <svg class="w-2.5 h-2.5 fill-current" viewBox="0 0 20 20"><path d="M5 10h10M10 5l5 5-5 5"/></svg>
+                </a>
+            </div>
+
+            <div class="info-card bg-white p-9">
+                <h3 class="   text-xl font-bold text-[#1a1a2e] mb-3">Results &amp; Merit List</h3>
+                <p class="text-[13.5px] text-gray-500 leading-relaxed mb-6">
+                    View the final merit list and seat allotment results for the 2024 admission cycle.
+                    Download your allotment letter and check reporting instructions for your institution.
+                </p>
+                <a href="/result" target="_blank"
+                   class="inline-flex items-center gap-1.5 bg-[#1a3c8f] text-white text-xs font-bold
+                          tracking-wider px-4 py-2 rounded-sm hover:bg-[#1e4fa0] transition-colors">
+                    VIEW
+                    <svg class="w-2.5 h-2.5 fill-white" viewBox="0 0 20 20"><path d="M5 10h10M10 5l5 5-5 5"/></svg>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- LATEST NOTIFICATIONS  -->
+<section class="py-16 bg-[#f4f6fb]">
+    <div class="max-w-[1200px] mx-auto px-6">
+
+        <!-- Section header -->
+        <div class="flex items-end justify-between mb-8">
+            <div>
+                <h2 class="text-3xl font-bold text-[#1a3c8f]">Notifications</h2>
+            </div>
+            <a href="notification"
+               class="inline-flex items-center gap-1.5 border border-[#c8d0e4] text-[#1a3c8f] text-xs
+                      font-bold tracking-widest uppercase px-4 py-2 rounded-sm
+                      hover:bg-[#1a3c8f] hover:text-white transition-colors">
+                View All
+                <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+        </div>
+
+        
+        
+        <div id="notifTabContainer" data-tab-group="notif" data-first-tab="All" data-tab-meta='{"All":{"active":"border-[#1a3c8f] text-[#1a3c8f]","inactive":"border-transparent text-gray-500 hover:text-[#1a3c8f]"},"Guidelines":{"active":"border-[#1a3c8f] text-[#1a3c8f]","inactive":"border-transparent text-gray-500 hover:text-[#1a3c8f]"},"General":{"active":"border-gray-600 text-gray-700","inactive":"border-transparent text-gray-500 hover:text-gray-700"}}'>
+
+            <!-- Tab bar -->
+            <div class="flex border-b border-[#dde1ec] overflow-x-auto">
+                                <button
+                    data-tab-btn="notif"
+                    data-tab-value="All"
+                    id="tab-btn-All"
+                    class="notif-tab-btn flex items-center gap-2 px-5 py-3.5 text-sm font-semibold
+                        border border-[#dde1ec] whitespace-nowrap transition-colors
+                        border-[#1a3c8f] text-[#1a3c8f]">
+                    All                </button>
+                                <button
+                    data-tab-btn="notif"
+                    data-tab-value="Guidelines"
+                    id="tab-btn-Guidelines"
+                    class="notif-tab-btn flex items-center gap-2 px-5 py-3.5 text-sm font-semibold
+                        border border-[#dde1ec] whitespace-nowrap transition-colors
+                        border-transparent text-gray-500 hover:text-[#1a3c8f]">
+                    Guidelines                </button>
+                                <button
+                    data-tab-btn="notif"
+                    data-tab-value="General"
+                    id="tab-btn-General"
+                    class="notif-tab-btn flex items-center gap-2 px-5 py-3.5 text-sm font-semibold
+                        border border-[#dde1ec] whitespace-nowrap transition-colors
+                        border-transparent text-gray-500 hover:text-gray-700">
+                    General                </button>
+                            </div>
+
+
+
+            <!-- Tab panels -->
+                        <div data-tab-panel="notif"
+                data-tab-value="All"
+                id="tab-panel-All"
+                class="notif-tab-panel "> 
+
+                
+                                <div class="flex items-stretch                             hover:bg-blue-50/20 transition-colors">
+
+                    <!-- Date stamp -->
+                    <div class="w-20 flex-shrink-0 flex flex-col items-center justify-center
+                                px-3 py-5 border-r border-[#dde1ec] gap-0.5 bg-[#f8f9fb]">
+                        <span class="text-xl font-bold text-gray-800 leading-none">23</span>
+                        <span class="text-[10px] font-semibold tracking-wide text-gray-400 mt-0.5 text-center">Sep 2026</span>
+                    </div>
+
+                    <!-- Left accent bar -->
+                    <div class="w-[3px] flex-shrink-0 bg-gray-600"></div>
+
+                    <!-- Content -->
+                    <div class="flex-1 px-5 py-4 flex flex-col justify-center gap-2 min-w-0">
+                        <p class="text-sm text-gray-800 leading-relaxed">
+                            Guidelines for Ladakh Central Pool Medical Seats for the academic year 2026-27                        </p>
+                                                <a href="uploads/notifications/notice_37e04513bc420bd9.pdf"
+                           target="_blank" rel="noopener"
+                           class="inline-flex items-center gap-1.5 text-[#1a3c8f] text-xs font-bold
+                                  hover:underline w-fit mt-0.5">
+                            <svg class="w-3.5 h-3.5 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6z"/>
+                                <path fill="white" d="M14 2v6h6M9 13h2v4H9zM13 11h2v6h-2zM7 15h2v2H7z"/>
+                            </svg>
+                            View Attachment
+                            <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+                            </svg>
+                        </a>
+                                            </div>
+
+                    <!-- Arrow -->
+                                        <div class="flex items-center pr-5 flex-shrink-0">
+                        <svg class="w-4 h-4 text-gray-300" fill="none" stroke="currentColor"
+                             stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                        </svg>
+                    </div>
+                    
+                </div>
+                                <div class="flex items-stretch border-t border-[#dde1ec]                            hover:bg-gray-50/60 transition-colors">
+
+                    <!-- Date stamp -->
+                    <div class="w-20 flex-shrink-0 flex flex-col items-center justify-center
+                                px-3 py-5 border-r border-[#dde1ec] gap-0.5 bg-[#f8f9fb]">
+                        <span class="text-xl font-bold text-gray-800 leading-none">23</span>
+                        <span class="text-[10px] font-semibold tracking-wide text-gray-400 mt-0.5 text-center">Sep 2026</span>
+                    </div>
+
+                    <!-- Left accent bar -->
+                    <div class="w-[3px] flex-shrink-0 bg-gray-600"></div>
+
+                    <!-- Content -->
+                    <div class="flex-1 px-5 py-4 flex flex-col justify-center gap-2 min-w-0">
+                        <p class="text-sm text-gray-800 leading-relaxed">
+                            The application process for Ladakh Central Pool Medical Seats for the academic year 2026-27 will be open from 23rd September 2026 to 29th September 2026. Applicants are advised to carefully read the guidelines before submitting their applications.                        </p>
+                                            </div>
+
+                    <!-- Arrow -->
+                    
+                </div>
+                                
+            </div><!-- /panel -->
+                        <div data-tab-panel="notif"
+                data-tab-value="Guidelines"
+                id="tab-panel-Guidelines"
+                class="notif-tab-panel hidden"> 
+
+                
+                                <div class="flex items-stretch                             hover:bg-blue-50/20 transition-colors">
+
+                    <!-- Date stamp -->
+                    <div class="w-20 flex-shrink-0 flex flex-col items-center justify-center
+                                px-3 py-5 border-r border-[#dde1ec] gap-0.5 bg-[#f8f9fb]">
+                        <span class="text-xl font-bold text-gray-800 leading-none">23</span>
+                        <span class="text-[10px] font-semibold tracking-wide text-gray-400 mt-0.5 text-center">Sep 2026</span>
+                    </div>
+
+                    <!-- Left accent bar -->
+                    <div class="w-[3px] flex-shrink-0 bg-blue-600"></div>
+
+                    <!-- Content -->
+                    <div class="flex-1 px-5 py-4 flex flex-col justify-center gap-2 min-w-0">
+                        <p class="text-sm text-gray-800 leading-relaxed">
+                            Guidelines for Ladakh Central Pool Medical Seats for the academic year 2026-27                        </p>
+                                                <a href="uploads/notifications/notice_37e04513bc420bd9.pdf"
+                           target="_blank" rel="noopener"
+                           class="inline-flex items-center gap-1.5 text-[#1a3c8f] text-xs font-bold
+                                  hover:underline w-fit mt-0.5">
+                            <svg class="w-3.5 h-3.5 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6z"/>
+                                <path fill="white" d="M14 2v6h6M9 13h2v4H9zM13 11h2v6h-2zM7 15h2v2H7z"/>
+                            </svg>
+                            View Attachment
+                            <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+                            </svg>
+                        </a>
+                                            </div>
+
+                    <!-- Arrow -->
+                                        <div class="flex items-center pr-5 flex-shrink-0">
+                        <svg class="w-4 h-4 text-gray-300" fill="none" stroke="currentColor"
+                             stroke-width="2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                        </svg>
+                    </div>
+                    
+                </div>
+                                
+            </div><!-- /panel -->
+                        <div data-tab-panel="notif"
+                data-tab-value="General"
+                id="tab-panel-General"
+                class="notif-tab-panel hidden"> 
+
+                
+                                <div class="flex items-stretch                             hover:bg-gray-50/60 transition-colors">
+
+                    <!-- Date stamp -->
+                    <div class="w-20 flex-shrink-0 flex flex-col items-center justify-center
+                                px-3 py-5 border-r border-[#dde1ec] gap-0.5 bg-[#f8f9fb]">
+                        <span class="text-xl font-bold text-gray-800 leading-none">23</span>
+                        <span class="text-[10px] font-semibold tracking-wide text-gray-400 mt-0.5 text-center">Sep 2026</span>
+                    </div>
+
+                    <!-- Left accent bar -->
+                    <div class="w-[3px] flex-shrink-0 bg-gray-500"></div>
+
+                    <!-- Content -->
+                    <div class="flex-1 px-5 py-4 flex flex-col justify-center gap-2 min-w-0">
+                        <p class="text-sm text-gray-800 leading-relaxed">
+                            The application process for Ladakh Central Pool Medical Seats for the academic year 2026-27 will be open from 23rd September 2026 to 29th September 2026. Applicants are advised to carefully read the guidelines before submitting their applications.                        </p>
+                                            </div>
+
+                    <!-- Arrow -->
+                    
+                </div>
+                                
+            </div><!-- /panel -->
+            
+        </div><!-- /tab container -->
+
+        
+    </div>
+</section>
+
+<link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+
+<footer class="bg-[#1a3a6e] text-[#c8d8f0] ">
+
+    <div class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+        <div>
+            <img src="/assets/images/footerlogo.png" alt="UT Ladakh Logo" class="h-24 mb-4 brightness-0 invert">
+            <p class="text-sm text-[#a8c0e0] leading-relaxed mb-5">
+                Official portal of Union Territory of Ladakh providing online services to citizens and businesses.
+            </p>
+            <div class="flex gap-2">
+                <a href="#" aria-label="Facebook"  class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="X Twitter" class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-x-twitter"></i></a>
+                <a href="#" aria-label="Instagram" class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-instagram"></i></a>
+                <a href="#" aria-label="YouTube"   class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Quick Links</h4>
+            <ul class="space-y-2.5">
+                <li><a href="https://en.wikipedia.org/wiki/Ladakh" class="text-sm text-[#a8c0e0] hover:text-white transition-colors   ">About Ladakh</a></li>
+                <li><a href="https://ladakh.gov.in/directory/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Government Directory</a></li>
+                <li><a href="https://ladakh.gov.in/online-citizen-services/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Citizen Services</a></li>
+                <li><a href="https://rtionline.ladakh.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">RTI Portal</a></li>
+                <li><a href="https://tenders.ladakh.gov.in/nicgep/app" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Tenders</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Important Links</h4>
+            <ul class="space-y-2.5">
+                <li><a href="https://india.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">India.gov.in</a></li>
+                <li><a href="https://www.digitalindia.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Digital India</a></li>
+                <li><a href="https://www.mygov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">MyGov</a></li>
+                <li><a href="https://indiadataportal.com/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Data Portal</a></li>
+                <li><a href="#" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Accessibility Statement</a></li>
+                <li><a href="#" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Privacy Policy</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Contact Us</h4>
+            <ul class="space-y-4">
+                <li class="flex items-start gap-3 text-sm text-[#a8c0e0]">
+                    <i class="fa-solid fa-location-dot text-white mt-0.5 text-sm shrink-0"></i>
+                    <span>Secretariat, Leh, Ladakh – 194101</span>
+                </li>
+                <li class="flex items-start gap-3 text-sm text-[#a8c0e0]">
+                    <i class="fa-solid fa-phone text-white mt-0.5 text-sm shrink-0"></i>
+                    <span>1982-415-869 (Toll Free)</span>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="border-t border-white/10">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-xs text-[#a8c0e0]">© 2025 Union Territory of Ladakh. All rights reserved.</p>
+            <div class="flex gap-5">
+                <a href="" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Terms of Use</a>
+                <a href="#" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Privacy Policy</a>
+                <a href="#" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Sitemap</a>
+            </div>
+        </div>
+    </div>
+
+    <div class=" py-2.5 px-6 flex items-center justify-center gap-2 text-lg text-[#8aaacf]">
+        Designed and Developed by
+        <strong class="text-[#c8d8f0] font-medium">National Informatics Centre</strong>
+        <img src="/assets/images/nic-logo.png" alt="NIC Logo" class="h-10 sm:h-20 object-contain">
+    </div>
+<script src="/assets/js/app.js"></script>
+
+</footer>
+
+</body>
+</html>
+

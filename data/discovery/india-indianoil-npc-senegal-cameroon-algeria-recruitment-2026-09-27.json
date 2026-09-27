@@ -1,0 +1,392 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 89,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-indianoil-job-openings",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-indianoil-job-openings",
+        "name": "Indian Oil Corporation Limited (IndianOil/IOCL) job openings",
+        "country": "IN",
+        "authority": "Indian Oil Corporation Limited — Central Public Sector Enterprise",
+        "homepage": "https://iocl.com/latest-job-opening",
+        "discoveredFrom": "https://iocl.com/pages/careers-overview",
+        "notes": "IndianOil official recruitment index includes current and historical adverts, results and admissions. PBR experienced-professional sample 2026/02 restricts applications to Indian nationals; overseas experience or recognized foreign degrees do not waive citizenship. Published application window ended 17 September 2026 at 17:00; timezone unstated. Document verification, interview and appointment fitness remain separate gates. Formal language level and permanent/fixed tenure unstated. National operations do not establish state collection scopes or exam venues.",
+        "accessGap": "Reader original observed after initial timeout; exact bytes not retained or accepted. Index mixes years, results and non-recruitment entries; complete notice/corrigendum inventory, governing timezone, tenure, language and permitted collection require review. Official index referral to ioclapply.com does not validate every hosted cycle.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://iocl.com/latest-job-opening",
+          "type": "official-employer-recruitment-index",
+          "observationMethod": "official-reader",
+          "summary": "Current/historical adverts, selection results and separate admission/vendor routes must be classified before cycle normalization. Career overview refers this index.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/1d167fc3d4b14cb394ac728aff0d32e9.pdf",
+          "type": "original-sample-notice",
+          "observationMethod": "official-reader",
+          "summary": "Notice 2026/02, 3 September: three PBR managerial positions; Indian nationals only, role-specific degree/experience/age criteria. Deadline 17 September 17:00 without stated zone. Verification/interview and fitness independent; tenure/language unknown.",
+          "sampleId": "IOCL/CO-HR/RECTT/2026/02",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "Graded experienced-professional recruitment and three-year service bond do not establish permanent status or fixed-term tenure.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "sample-restricted-indian-nationals",
+        "note": "PBR notice 2026/02 explicitly permits only Indian nationals. Overseas work and foreign-degree equivalence are independent criteria; no portal-wide ban inferred."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "No formal language requirement or examination medium accepted for sampled PBR notice; English document is not proficiency evidence.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "in-npc-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-npc-careers",
+        "name": "National Productivity Council (NPC) careers",
+        "country": "IN",
+        "authority": "National Productivity Council — DPIIT, Ministry of Commerce and Industry, Government of India",
+        "homepage": "https://www.npcindia.gov.in/NPC/User/Notification_Career",
+        "discoveredFrom": "https://www.npcindia.gov.in/NPC/User/about",
+        "notes": "NPC is separate from NPCIL. Current career table lists September 2026 contract engagements. Finance consultant sample 128/September/2026 offers two Delhi HQ positions on one-year contracts; original closes 8 October 2026 by 15:00, timezone unstated. Qualifications distinguish retired government personnel from other applicants. No citizenship permission or formal language level established. Office service regions do not establish state recruitment scopes or examination venues.",
+        "accessGap": "Career download javascript link opens original PDF in browser; reader cannot access original. Visual reading/translation remains review draft, raw bytes not retained. Complete inventory, nationality/residence, formal language, governing timezone and collection terms require review. Listed 2019 rolling dates do not prove current intake.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.npcindia.gov.in/NPC/User/about",
+          "type": "official-authority-identity",
+          "observationMethod": "official-reader",
+          "summary": "Autonomous organization under DPIIT/Commerce and Industry, Government of India; separate from NPCIL.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.npcindia.gov.in/NPC/User/Notification_Career",
+          "type": "official-career-index",
+          "observationMethod": "official-reader-and-ordinary-browser",
+          "summary": "Current September contractual advisor/consultant rows; finance row date-only 8 October. Original supplies clock time.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.npcindia.gov.in/NPC/Uploads/image/Career/ADV%20NO%20128%20DATED%2024%209%202026%20CONL%20FINANCE407438.pdf",
+          "type": "original-sample-notice",
+          "observationMethod": "ordinary-browser-visual-reading",
+          "summary": "Four-page original, pages 1–2 read: two finance consultants, one-year contract; retired level-7 route or specified postgraduate/professional qualifications plus experience, maximum age 62. Application by email by 8 October 15:00; timezone unknown. No regularization right.",
+          "sampleId": "NPC/Admin/128/September/2026",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-specific",
+        "note": "Finance consultant original expressly pure contract basis for one year, without regular appointment right.",
+        "value": "contract"
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "Original pages 1–2 show qualification and contract conditions, without accepted nationality/residence rule. Absence of citizenship text is not foreign-applicant permission."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "English UI/original and finance duties do not establish named language or standardized proficiency.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "sn-public-service-employment-requests",
+      "country": "SN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "sn-public-service-employment-requests",
+        "name": "Senegal public-service employment requests (PGDE)",
+        "country": "SN",
+        "authority": "Senegal ministry responsible for the public service",
+        "homepage": "https://emploi-fpublique.sec.gouv.sn/login",
+        "discoveredFrom": "https://www.fonctionpublique.gouv.sn/",
+        "notes": "Official ministry refers PGDE general public-service employment request platform. Public login says requests received exclusively through platform, earlier registrations remain valid, emailed dossiers not processed. Ministry FAQ considers profile against ministry needs, age, gender and disability, without accepted fixed thresholds. General registration is not specific vacancy/application cycle. French/Wolof instruction options are not applicant proficiency requirements. Nationality, tenure and language need original rule review.",
+        "accessGap": "Clean ministry and platform reader access failed; indexed official ministry page with tracking parameter and ordinary browser login verified referral/service. No account created. No current vacancy, nationality/residence threshold, appointment tenure, formal language, deadline, full inventory or permitted collection accepted. Ministry branding differs across page sections.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.fonctionpublique.gouv.sn/?trk=public_post_main-feed-card_reshare-text",
+          "type": "official-referral-and-general-faq",
+          "observationMethod": "official-reader",
+          "summary": "Ministry refers PGDE, considers profile fit and demographic criteria; no accepted nationality/age thresholds. Multiple ministry labels present; statutory/notice review pending.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://emploi-fpublique.sec.gouv.sn/login",
+          "type": "public-registration-entry",
+          "observationMethod": "ordinary-browser",
+          "summary": "Public login verified exclusive online employment requests and existing registrations valid; no account creation/login. Not a published vacancy inventory.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "General employment request service does not establish vacancy tenure.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "Ministry FAQ and public login do not establish foreign-citizen permission or prohibition; vacancy/statutory evidence needed."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "French interface and French/Wolof registration help are service languages, not formal applicant requirements.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "cm-minfopra-competitions",
+      "country": "CM",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "cm-minfopra-competitions",
+        "name": "Cameroon MINFOPRA public-service competitions",
+        "country": "CM",
+        "authority": "Ministère de la Fonction Publique et de la Réforme Administrative",
+        "homepage": "https://www.minfopra.gov.cm/index.php/fr/ouverture-des-concours",
+        "discoveredFrom": "https://www.minfopra.gov.cm/fr",
+        "notes": "MINFOPRA published openings mix direct, training, professional competitions, selection tests and results. June 2026 season article links separate originals. Agriculture sample L/000059 dated 4 June: 40 posts across four cadres; Cameroonian applicants, age and diploma rules independent. Deadline 24 July date-only; written exams 8–9 August at Yaoundé, not active application now. English paper for Francophones and French for Anglophones; no CEFR level. General conditions category empty is not ministry-wide empty inventory.",
+        "accessGap": "Reader main/category/original unavailable; ordinary browser published index and four-page scanned original visually read. Raw original not retained; French translation/critical fields await review. Later amendments/results, full cycle inventory, statutory nationality exceptions, tenure, timezone and permitted collection pending. Search-index administrative-looking online endpoints are excluded from evidence.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.minfopra.gov.cm/index.php/fr/ouverture-des-concours",
+          "type": "official-competition-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Published openings table contains recruitment/training plus results; no empty inventory inference.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.minfopra.gov.cm/index.php/fr/publications/2363-concours-administratifs-la-saison-2026-est-ouverte",
+          "type": "official-season-referral",
+          "observationMethod": "ordinary-browser",
+          "summary": "7 June publication refers 4 June 2026 orders, with distinct training/direct/professional/selection originals in French/English.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.minfopra.gov.cm/images/2026/DDRHE/CONCOURS/DIRECT/40_Agriculture_Fr.pdf",
+          "type": "original-scanned-sample-notice",
+          "observationMethod": "ordinary-browser-visual-reading",
+          "summary": "Four-page Agriculture order: Cameroonians, distinct cadre age/diploma gates. Submission 24 July date-only; August written exams; opposite-language paper and A/B oral. Yaoundé center is textual, no coordinate pin accepted.",
+          "sampleId": "L/000059/MINFOPRA — 4 June 2026",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.minfopra.gov.cm/index.php/fr/concours-et-recrutement-3/concours-mobile-fr/conditions-generales-mobil-fr",
+          "type": "general-conditions-category-gap",
+          "observationMethod": "ordinary-browser",
+          "summary": "Category contains no articles; no general eligibility rule inferred.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "Direct recruitment into rural-production civil-service cadres; permanent duration not independently established.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "sample-restricted-cameroonians",
+        "note": "Agriculture original Article 2 addresses Cameroonian applicants; approved foreign-school diplomas do not waive nationality. Statutory exceptions/other competitions unreviewed."
+      },
+      "languageAssessment": {
+        "status": "sample-language-test",
+        "note": "Agriculture written paper: English for Francophones, French for Anglophones; categories A/B also language oral. No standardized level stated; interpretation pending review.",
+        "namedLanguage": [
+          "English",
+          "French"
+        ],
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "dz-justice-recruitment-notices",
+      "country": "DZ",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "dz-justice-recruitment-notices",
+        "name": "Algeria Ministry of Justice recruitment notices",
+        "country": "DZ",
+        "authority": "Ministère de la Justice — République Algérienne Démocratique et Populaire",
+        "homepage": "https://www.mjustice.dz/fr/annonces-et-publications/",
+        "discoveredFrom": "https://www.mjustice.dz/fr/annonces-et-publications/",
+        "notes": "Official justice index includes 23 September 2026 external recruitment for National School of Registry Personnel, magistrate registration/calendars, and lawyer qualification results. Public recruitment and professional admission/results require separate pathway and cycle classification. Current linked notice blocked; nationality, qualifications, tenure, deadline and language requirements unknown. Arabic/French/English navigation is not proficiency evidence. Ministry source does not establish all Algeria authority coverage.",
+        "accessGap": "Official mjustice.dz index reader readable and refers mjustice.gov.dz notices; linked current detail and canonical index reader 502, ordinary browser detail blocked. No bypass. DGFP direct reader unavailable/browser remained blank; separate lead not registered. No current original rules accepted; inventory, permitted access and domain/canonical behavior require review.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.mjustice.dz/fr/annonces-et-publications/",
+          "type": "official-ministry-notice-index",
+          "observationMethod": "official-reader",
+          "summary": "Justice identity and current recruitment/admission/calendar/result links readable; mixed pathways cannot be merged into application cycles.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.mjustice.gov.dz/fr/concours-de-recrutement-externe-au-profit-de-lecole-nationale-des-personnels-des-greffes-2/",
+          "type": "unread-current-recruitment-detail",
+          "observationMethod": "reader-502-and-ordinary-browser-blocked",
+          "summary": "Index lists 23 September 2026 external school recruitment; detail blocked, critical fields unknown. No applicant data or blocker IP retained.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "Current external recruitment title does not establish appointment term.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "Current original nationality/residence unread; ministry nationality-certificate service is not recruitment eligibility evidence."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "Multilingual ministry navigation is not a verified examination medium or proficiency requirement.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

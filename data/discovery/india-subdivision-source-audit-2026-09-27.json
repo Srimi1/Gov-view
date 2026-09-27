@@ -1,0 +1,2788 @@
+{
+  "observedDate": "2026-09-27",
+  "generatedAt": "2026-09-26T20:57:36.466Z",
+  "scope": "Internal inventory of India subdivision-tagged sources; not an independent authority completeness or notice recall audit.",
+  "denominator": {
+    "count": 36,
+    "codes": [
+      "IN-AN",
+      "IN-AP",
+      "IN-AR",
+      "IN-AS",
+      "IN-BR",
+      "IN-CH",
+      "IN-CT",
+      "IN-DH",
+      "IN-DL",
+      "IN-GA",
+      "IN-GJ",
+      "IN-HP",
+      "IN-HR",
+      "IN-JH",
+      "IN-JK",
+      "IN-KA",
+      "IN-KL",
+      "IN-LA",
+      "IN-LD",
+      "IN-MH",
+      "IN-ML",
+      "IN-MN",
+      "IN-MP",
+      "IN-MZ",
+      "IN-NL",
+      "IN-OR",
+      "IN-PB",
+      "IN-PY",
+      "IN-RJ",
+      "IN-SK",
+      "IN-TG",
+      "IN-TN",
+      "IN-TR",
+      "IN-UP",
+      "IN-UT",
+      "IN-WB"
+    ],
+    "source": "public/geo/regions/IN.geojson",
+    "independentCurrentVerification": "National Portal state/UT page currently exposes no list to web reader; local inventory only. No claim of independently audited completeness."
+  },
+  "inputFingerprints": [
+    {
+      "path": "sources/registry.json",
+      "bytes": 173370,
+      "sha256": "d3b50831ce074733b428ad1cdec38a3cbc1552f84dea1366e717c7b9d371f625"
+    },
+    {
+      "path": "public/geo/regions/IN.geojson",
+      "bytes": 260259,
+      "sha256": "f52c998c5aeb7d2f9b918f4ca122044d7489224f55e53704dfe9e0fd4837eabe"
+    },
+    {
+      "path": "data/published/sources-status.json",
+      "bytes": 15108,
+      "sha256": "8aff5abfbc8698513d0223576147df8b8596671d073276b81a1f1f301fec979c"
+    }
+  ],
+  "packetFingerprints": [
+    {
+      "path": "data/review/in-an-recruitment.json",
+      "bytes": 9575,
+      "sha256": "869941b94873b21f804af50a4385fc9a6284688e301143e8dfabdb8880f9e9d5"
+    },
+    {
+      "path": "data/review/in-ap-recruitment.json",
+      "bytes": 5560,
+      "sha256": "ec4d2b70a3a746d1776d1fec8ad7838d9300d3516e1dbf2354f8ea79d598499f"
+    },
+    {
+      "path": "data/review/in-apeda-associates-2026.json",
+      "bytes": 17078,
+      "sha256": "bcdb54ce709a1bc3292d1fcbcc8225016114398d7d498ea9f713672ef8869758"
+    },
+    {
+      "path": "data/review/in-ar-recruitment.json",
+      "bytes": 14679,
+      "sha256": "fe56e1adb0bcc98cf7aea095c9582f95c326543843d5e1be32efa8da8d6e0230"
+    },
+    {
+      "path": "data/review/in-as-goalpara-ft8.json",
+      "bytes": 8423,
+      "sha256": "330aaa4bde561c78882c3e74d588387a427ad29ebe9efd333056f7e3cf712f08"
+    },
+    {
+      "path": "data/review/in-as-recruitment.json",
+      "bytes": 7972,
+      "sha256": "500e497d62ae3893183e6703bb96bf3a169d2f7ebce5622247e4aa31646897df"
+    },
+    {
+      "path": "data/review/in-as-sribhumi-ft2.json",
+      "bytes": 16218,
+      "sha256": "7b01dba31ca6ab18d2116d6ada8199f4962a8d17fb68bbe0d9975b78f1385041"
+    },
+    {
+      "path": "data/review/in-br-btsc.json",
+      "bytes": 20437,
+      "sha256": "a5e9a8ba8b6dd75a636a7ae3d51c2f10ebba561de17aba22e64abcff613a3be6"
+    },
+    {
+      "path": "data/review/in-br-dnsricm-lecturer-2026.json",
+      "bytes": 9845,
+      "sha256": "3f4af39f658323f9e89d04e8e7285443e5f4c56cb07637f12089753449c7b65e"
+    },
+    {
+      "path": "data/review/in-br-recruitment.json",
+      "bytes": 8702,
+      "sha256": "1d0f8b61c87a17e8ccc5c8d14f14b50b57746549c5dc329c361dbf17daa0ffca"
+    },
+    {
+      "path": "data/review/in-ch-recruitment.json",
+      "bytes": 7649,
+      "sha256": "22d7a63eb843231c67eeee5afa13ae3a2464b4712558198773e8c61977d754f0"
+    },
+    {
+      "path": "data/review/in-ct-recruitment.json",
+      "bytes": 8250,
+      "sha256": "54626f6053901dacdbfe07fc0983ba69ca80300171b82fd38f2871add47ebdd1"
+    },
+    {
+      "path": "data/review/in-dh-recruitment.json",
+      "bytes": 20375,
+      "sha256": "5b64d4973d75a93051b831f6e0af51506e9762683437331bcbb0c735bad582cc"
+    },
+    {
+      "path": "data/review/in-dl-recruitment.json",
+      "bytes": 128651,
+      "sha256": "668265590d24c3392e57a7d67770c80227266e75b7079aba9214907a528c4c43"
+    },
+    {
+      "path": "data/review/in-drdo-jrf-september-2026.json",
+      "bytes": 22315,
+      "sha256": "4c233f7a6af046cde30ad62c0ac30b91d5726417bb3527903aea66f9c44de2c6"
+    },
+    {
+      "path": "data/review/in-ga-gssc.json",
+      "bytes": 52403,
+      "sha256": "c6e6d07913a4b5a4f0a12821ccc6680f895a3c7cc8dc6bdb8f07a37933e928bf"
+    },
+    {
+      "path": "data/review/in-ga-recruitment.json",
+      "bytes": 54311,
+      "sha256": "9d5f9ea04e92a2349dd6f5a81c2ca96d0956ed52036df870ed2bc0e5fec7db8a"
+    },
+    {
+      "path": "data/review/in-gj-recruitment.json",
+      "bytes": 18470,
+      "sha256": "856acc1a3ddd8b84c19fc7e724c9023d220931b9c3667e307f1eebc1f0667653"
+    },
+    {
+      "path": "data/review/in-hp-forest-joa-it-pwd-2026.json",
+      "bytes": 8814,
+      "sha256": "2307de05ac6402f29e99d6ef32cc343de02428c0a2400698d3781c46b097ab3e"
+    },
+    {
+      "path": "data/review/in-hr-hssc.json",
+      "bytes": 20290,
+      "sha256": "c5083659dc0cbb809cca9a29380ef4908242131c726c940412cdbba17f86914d"
+    },
+    {
+      "path": "data/review/in-icmr-nihr-bhubaneswar-junior-consultant-2026.json",
+      "bytes": 12259,
+      "sha256": "775c1b72a4b34ae3a73e7214a8174309dbc4255cfcaf96a37fe0eb299d3cd042"
+    },
+    {
+      "path": "data/review/in-jh-jjb-cwc-2026.json",
+      "bytes": 13504,
+      "sha256": "2adb73f796314eb47ea994803dd9cb219ad282568d239339aa3a8157eb1a6c0d"
+    },
+    {
+      "path": "data/review/in-jh-recruitment.json",
+      "bytes": 9541,
+      "sha256": "56381604fa56e95bb262ab331a403e2cc78bd29d08874da69b75008ca032680b"
+    },
+    {
+      "path": "data/review/in-jk-jkssb.json",
+      "bytes": 28121,
+      "sha256": "06d108cc6d6e6b59c9ac2bbafd74a4c4138f7060b9935f727c9a63221f4e3fac"
+    },
+    {
+      "path": "data/review/in-jk-recruitment.json",
+      "bytes": 11465,
+      "sha256": "a62a5a5ca5259b4eb67af7e9201e7df6291be6fa4f73947c9285277da7370a1e"
+    },
+    {
+      "path": "data/review/in-ka-nlsiu-other-faculty-2026.json",
+      "bytes": 39702,
+      "sha256": "c7e8ad271c843575b90ccb06790cd69d13792102b0a9e60f6c915cb8824aca76"
+    },
+    {
+      "path": "data/review/in-ka-nlsiu-professor-law-2026.json",
+      "bytes": 10403,
+      "sha256": "3272945231cd9e44acebc408ccb0869866192a4c62b5021ecc33de6ef8c7162c"
+    },
+    {
+      "path": "data/review/in-ka-recruitment.json",
+      "bytes": 12883,
+      "sha256": "f64916e60169aac42a7486f6da2501f1a194042f2c2aa49382e2cb6d8dff4219"
+    },
+    {
+      "path": "data/review/in-kl-recruitment.json",
+      "bytes": 159303,
+      "sha256": "5cc540cc9ca529e714cb715d5456ec3c4c6c476e2a5fe99021c49aad3daeb8f1"
+    },
+    {
+      "path": "data/review/in-la-hme-admission.json",
+      "bytes": 9060,
+      "sha256": "80212c8dc8d74736357dc0992e6b87f4fb5026a993364630fdb83ce80b53f308"
+    },
+    {
+      "path": "data/review/in-la-police.json",
+      "bytes": 11093,
+      "sha256": "3359fc6632185dff477e40924fa1291587d4213bd7a6243f9e728da0fb0240fc"
+    },
+    {
+      "path": "data/review/in-mh-actrec.json",
+      "bytes": 7543,
+      "sha256": "a4e454f719f9c13f1a4478d567bada8c45c929d5ce1efb8aa7d0f9be2ef3a6ef"
+    },
+    {
+      "path": "data/review/in-mh-dmer-nashik-faculty-2026.json",
+      "bytes": 8823,
+      "sha256": "6c7a4d80fc1937f0ad7957d720292c006c399ef610368454d87d393b94e99f1d"
+    },
+    {
+      "path": "data/review/in-mh-pune-divcomm-legal.json",
+      "bytes": 7098,
+      "sha256": "ae258eddf06c3c8975919243696c0939599c22a555ef50a72964433ba49afbc6"
+    },
+    {
+      "path": "data/review/in-ml-recruitment.json",
+      "bytes": 17371,
+      "sha256": "2f80c4049e97625fd83def3ebdacd47e142a5bbedb6369f9cf4706b0e96353a8"
+    },
+    {
+      "path": "data/review/in-mn-recruitment.json",
+      "bytes": 6186,
+      "sha256": "fc4a3feec7ba7654806dd89972c7589e2533c4b579fd1642a5e9f0576dc5009b"
+    },
+    {
+      "path": "data/review/in-mp-esb-police-gd.json",
+      "bytes": 9137,
+      "sha256": "6cc0555fc798f0f910bc6e5879538bd5252732621ce7af424d7251da6aa52644"
+    },
+    {
+      "path": "data/review/in-mz-mirsac-group-d-2026.json",
+      "bytes": 11261,
+      "sha256": "4332934fecf99e186d60642157bddd065554b15deac6919ab440e6a3a6ba2f55"
+    },
+    {
+      "path": "data/review/in-mz-recruitment.json",
+      "bytes": 17463,
+      "sha256": "7cd6fa1c6234b8b1a334b85791051842b05bf65d2df31a5e19ce1196e6582788"
+    },
+    {
+      "path": "data/review/in-nl-recruitment.json",
+      "bytes": 7095,
+      "sha256": "54274b8b2b1df8cc2d4f8ba58c3dfd8d76016798ee32281ba2cafb5b839cd662"
+    },
+    {
+      "path": "data/review/in-or-drdo-pxe-apprentices.json",
+      "bytes": 8428,
+      "sha256": "21d116ef8b975ce0b91ce4ddad87ea6d6dda0e153006aa9148f8de259f9ea25d"
+    },
+    {
+      "path": "data/review/in-or-recruitment.json",
+      "bytes": 8539,
+      "sha256": "c72b99dd11cc57dcf72009a056447109f545cfab681641a9a6146a6364cb43e5"
+    },
+    {
+      "path": "data/review/in-pb-psegs.json",
+      "bytes": 13697,
+      "sha256": "33b5e6b6c888e4247c9d046339b067710444fe510f03cd61f3e93ee5d7c9486f"
+    },
+    {
+      "path": "data/review/in-pb-sssb.json",
+      "bytes": 15846,
+      "sha256": "152357ab87b586c0ba29a7291478e2d77be557f3e8295b725c92612090973a99"
+    },
+    {
+      "path": "data/review/in-py-pihmct-lecturer-2026.json",
+      "bytes": 9001,
+      "sha256": "bcddde1bd6f0cb7a397f33cdcfca833d51f9cd57e007a4083bff277772899291"
+    },
+    {
+      "path": "data/review/in-rj-recruitment.json",
+      "bytes": 49064,
+      "sha256": "d67727f1a70a3fffeb08b40f501e67ce912d9c69b6f6765667574ee92eba5b49"
+    },
+    {
+      "path": "data/review/in-sk-recruitment.json",
+      "bytes": 10084,
+      "sha256": "c105a8f6bee6adb2f3546e8e78d70037aef0bfc055815b52f86abe7991cfbd2e"
+    },
+    {
+      "path": "data/review/in-tg-nfc-iti-apprenticeship.json",
+      "bytes": 7884,
+      "sha256": "eb9977e65c72417de287a48c7ad4742f7c56297612735f26506d8bdbda25d195"
+    },
+    {
+      "path": "data/review/in-tg-sports-physio.json",
+      "bytes": 8103,
+      "sha256": "88168694f11d8074af08e8c40379c52d09d4e6538fca9bbef7c8f5d69ea0aab8"
+    },
+    {
+      "path": "data/review/in-tn-recruitment.json",
+      "bytes": 15186,
+      "sha256": "1d22dd104bbcc7959bc89528298fc44e718fb51d44711c4e5073e2afee37e265"
+    },
+    {
+      "path": "data/review/in-tr-recruitment.json",
+      "bytes": 18827,
+      "sha256": "647c01d937b5a17d2ea9d38a89f82fc83b3d37cca913904e3a380d27250cd829"
+    },
+    {
+      "path": "data/review/in-uk-icfre-fri-walkin-2026.json",
+      "bytes": 14171,
+      "sha256": "531c523573235ffec719d8d722047fbbbef3c151b059285040236b450b50b8bc"
+    },
+    {
+      "path": "data/review/in-up-recruitment.json",
+      "bytes": 10420,
+      "sha256": "3c623ac7b31724053cfce98d904722487ccad3568b888949f4289543721d9205"
+    },
+    {
+      "path": "data/review/in-ut-nituk-nt08-2026.json",
+      "bytes": 98315,
+      "sha256": "a577ae8273f71e0aa43688289b462f47473534bde727d2da6ae2f91f55f283d0"
+    },
+    {
+      "path": "data/review/in-ut-recruitment.json",
+      "bytes": 11412,
+      "sha256": "5a2025333e6db88badf0d4301294d2e9f93f7e787a6e2ca60539faa555c65b2d"
+    },
+    {
+      "path": "data/review/in-wb-iiserkol-nt04-2026.json",
+      "bytes": 55482,
+      "sha256": "ca693ca8ac2a1ed1975403a32a3652f7aca23404d35f1ce81a445696fea078a0"
+    },
+    {
+      "path": "data/review/in-wb-recruitment.json",
+      "bytes": 12411,
+      "sha256": "b7c071b9b39502a4729869ab05ba1de09dae86190154488999219f76c349db0b"
+    }
+  ],
+  "summary": {
+    "indiaRegistrySources": 93,
+    "subdivisionsWithRegistryEntry": 36,
+    "subdivisionsWithDesignatedPrimaryAdapter": 27,
+    "subdivisionsWithoutDesignatedPrimaryAdapter": [
+      "IN-HR",
+      "IN-HP",
+      "IN-LA",
+      "IN-LD",
+      "IN-MP",
+      "IN-MH",
+      "IN-PY",
+      "IN-PB",
+      "IN-TG"
+    ],
+    "uniqueSubdivisionTaggedSources": 72,
+    "enabledSubdivisionTaggedSources": 0,
+    "approvedIndiaCycles": 0,
+    "independentlyAuditedSubdivisionCount": 0
+  },
+  "interpretation": [
+    "A connector function is not connector acceptance, enabled scheduling, complete notice capture or publication.",
+    "Missing source-health row is unknown collector health, not no evidence: existing packets may retain document-level fetch timestamps.",
+    "Subdivision tags do not prove a state appointing authority; central institute and workplace tags cannot substitute for PSC/administration coverage.",
+    "Per-region source/draft counts overlap when a source has multiple subdivision tags. Do not sum them for India totals.",
+    "Evidence in pending packets is unverified. Published counts require exact approval revisions, not stored-record totals.",
+    "Recruitment-only primary entries do not establish licensing, education admission or vocational coverage."
+  ],
+  "rows": [
+    {
+      "code": "IN-AN",
+      "name": "Andaman and Nicobar Islands",
+      "primarySourceId": "in-an-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-an-recruitment",
+          "name": "Andaman and Nicobar Administration — Common Recruitment",
+          "homepage": "https://erecruitment.andamannicobar.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "andaman-agriculture",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-an-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T01:21:18.188Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-notice connector for one live 2026 Agriculture Group B/C recruitment (three post codes, ten vacancies). Indian citizenship explicit; English CBT content and desirable post-specific Hindi recorded. Post-specific ages and application-link grouping require founder review; other departments and historical recruitment remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-AP",
+      "name": "Andhra Pradesh",
+      "primarySourceId": "in-ap-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ap-recruitment",
+          "name": "Andhra Pradesh Public Service Commission",
+          "homepage": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "andhra-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ap-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:27:57.355Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "New official portal exposes 2026 recruitment notification links. Draft pilot covers brief notification 16/2026 only, with exact PDF-bound future application dates and separate English/Telugu qualifying tests. Detailed notice, nationality, residence and physical criteria require founder review. Other notices and departments remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-AR",
+      "name": "Arunachal Pradesh",
+      "primarySourceId": "in-ar-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ar-recruitment",
+          "name": "Arunachal Pradesh Public Service Commission",
+          "homepage": "https://appsc.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "arunachal-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ar-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T23:36:33.313Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 3,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "APPSCCE advertisement 5/2026 bound to exact official scanned PDF and subsequent-notification register. One combined 135-post cycle staged for founder review; other APPSC, departmental and local recruitment remain coverage gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-AS",
+      "name": "Assam",
+      "primarySourceId": "in-as-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": true,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 4,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 4,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-as-recruitment",
+          "name": "Assam Public Service Commission",
+          "homepage": "https://apsc.nic.in/advt_2026.php#advertisement",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "assam-psc-12-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T13:26:21.353Z",
+            "lastSuccessfulFetchAt": "2026-09-25T13:26:21.353Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null,
+            "totalAvailable": 12
+          },
+          "reviewPacket": "data/review/in-as-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T13:26:21.353Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 3,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only exact advertisement 12/2026 is extracted from the official register; its 10 September application deadline has passed. The connector is disabled pending founder acceptance. Later amendments, other APSC advertisements, separate portal listings and other Assam hiring authorities remain unverified.",
+          "scopeNotes": "Draft-only exact-PDF connector covers closed advertisement 12/2026: one Research Assistant post under Labour Welfare Department, Indian citizenship and permanent Assam residence required. No mandatory language level printed. Other APSC advertisements, departments and local recruitment remain coverage gaps."
+        },
+        {
+          "id": "in-as-sribhumi-ft2",
+          "name": "Sribhumi District Administration — Foreigners Tribunal-II recruitment",
+          "homepage": "https://sribhumi.assam.gov.in/document/advertisements",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "sribhumi-ft2",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-as-sribhumi-ft2.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T02:06:28.251Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for one September 2026 walk-in notice with separate Data Entry Operator and Copyist roles. Registration window 12 September 09:00–11:00. Copyist requires good English and Bengali handwriting with no formal level. Nationality and employment-registration eligibility need founder review; other district and Assam sources remain gaps."
+        },
+        {
+          "id": "in-as-goalpara-ft8",
+          "name": "Goalpara District Administration — Foreigners Tribunal No. 8 Copyist",
+          "homepage": "https://goalpara.assam.gov.in/document/recruitment",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "goalpara-ft8",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T04:00:51.309Z",
+            "lastSuccessfulFetchAt": "2026-09-25T04:00:51.309Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-as-goalpara-ft8.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T04:00:51.309Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Exact-scan draft for one closed 10 September 2026 FT-8 Copyist walk-in, temporary contractual job. Original states Indian citizenship, Higher Secondary plus computer diploma, English/Assamese typing and good command, without a formal level. Result links are observed by title only; no candidate lists imported. Other Goalpara district and Assam PSC recruitment remain gaps."
+        },
+        {
+          "id": "in-as-asdma",
+          "name": "Assam State Disaster Management Authority — recruitment",
+          "homepage": "https://asdma.assam.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "https://asdma.assam.gov.in/resource/recruitment and /resource/archives return HTTP 404 while authority homepage returns HTTP 200. Working official index and original notice needed before collection.",
+          "scopeNotes": "Search-indexed official recruitment page listed a District Project Officer vacancy for Tamulpur and Bajali with 25 September 2026 submission date. Current live page returns HTTP 404, and exact notice PDF could not be verified; no cycle or eligibility claim was imported."
+        }
+      ]
+    },
+    {
+      "code": "IN-BR",
+      "name": "Bihar",
+      "primarySourceId": "in-br-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 3,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 6,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-br-dnsricm-lecturer-2026",
+          "name": "DNS-RICM Patna — August 2026 contract Lecturer recruitment",
+          "homepage": "https://www.dnsricmpatna.org/notice.php",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "dnsricm-lecturer-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T11:28:30.594Z",
+            "lastSuccessfulFetchAt": "2026-09-25T11:28:30.594Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-br-dnsricm-lecturer-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T11:28:30.594Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Absolute deadline, any extension, source publication date, foreign-citizen permission, age reckoning date, selection venue and subject-specific application identity require institute confirmation. Founder must resolve date conflict before approval. Other DNS-RICM calls remain gaps.",
+          "scopeNotes": "Draft-only exact August 2026 Lecturer advertisement: five contract vacancies across four subjects, counted as one recruitment cycle. Official announcement requires registered-post application within 21 days of publication but prints no publication date; 14 August register date is not substituted. Employment News reports 27 September, which remains unconfirmed by institute. Nationality and domicile appear only as form fields, so foreign-citizen eligibility is unknown. No formal language level stated."
+        },
+        {
+          "id": "in-br-recruitment",
+          "name": "Bihar Public Service Commission",
+          "homepage": "https://bpsc.bihar.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "bihar-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-br-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T01:55:38.806Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 3,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "BPSC public homepage AJAX search exposes original advertisement 15/2026 and important notice for TRE 4.0. Draft-only pilot binds their PDF hashes and five TRE 4.0 search rows. One replacement notice lists 32,388 teacher vacancies and 25 September–26 October applications. International applicant and universal language requirements need review. Other BPSC notices and Bihar authorities remain gaps."
+        },
+        {
+          "id": "in-br-btsc",
+          "name": "Bihar Technical Service Commission — Recruitment register",
+          "homepage": "https://btsc.bihar.gov.in/recruitment?page=0",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "btsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-br-btsc.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T20:48:49.915Z",
+          "pendingDraftCount": 4,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft connector follows recruitment-register pagination. Current/recent cycles require scanned notice and amendment review. Separate news and corrigendum feeds remain gaps. Distinct from Bihar Public Service Commission."
+        }
+      ]
+    },
+    {
+      "code": "IN-CH",
+      "name": "Chandigarh",
+      "primarySourceId": "in-ch-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ch-recruitment",
+          "name": "Chandigarh Administration — Public Notices",
+          "homepage": "https://chandigarh.gov.in/public-notice",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "chandigarh-utcps",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ch-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T23:55:55.307Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "UTCPS Accountant Officer 22 September 2026 walk-in notice bound to exact official PDF and public-notice row for founder review. Other Chandigarh departments and recruitment notices remain coverage gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-CT",
+      "name": "Chhattisgarh",
+      "primarySourceId": "in-ct-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 2,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ct-recruitment",
+          "name": "Chhattisgarh Public Service Commission",
+          "homepage": "https://psc.cg.gov.in/Advertisement.php",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "cgpsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ct-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:10:33.981Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 4,
+          "accessGap": null,
+          "scopeNotes": "Draft exact-PDF connector for advertisement 05/2026: two separately applied Microbiologist posts. Original Hindi nationality category, domicile benefits and bilingual paper wording require founder review. Other 2026 advertisements and state departments remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-DH",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "primarySourceId": "in-dh-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 3,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-dh-recruitment",
+          "name": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "homepage": "https://ddd.gov.in/notice-category/recruitments/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "ddd-recruitments",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-dh-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T00:22:32.091Z",
+          "pendingDraftCount": 3,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot binds four September 2026 register rows and original PDFs. Three government intakes cover two teaching contracts and five hospital specialties in one shared notice. A separate grant-aided private-school notice is retained but excluded pending public-recruitment scope review. Nationality and formal language levels are unstated; other departments and older notices remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-DL",
+      "name": "Delhi",
+      "primarySourceId": "in-dl-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 25,
+      "registeredSourceCount": 2,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 27,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-apeda-associates-2026",
+          "name": "APEDA — August 2026 Associate Legal and Trade contracts",
+          "homepage": "https://apeda.gov.in/recruitment-appointment",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "apeda-associates-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-26T19:20:46.207Z",
+            "lastSuccessfulFetchAt": "2026-09-26T19:20:46.207Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-apeda-associates-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-26T19:20:46.207Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "First output needs review. Only two August associate notices extracted; five other current documents and 206 archive rows are not cycle-complete. Later amendments, international eligibility, age reckoning date, official deadline timezone, selection language, fees and interview venue need verification.",
+          "scopeNotes": "Two distinct August 2026 contract cycles, one vacancy each, discovered through NCS. Both printed deadlines passed. Nationality and language form fields do not establish an international route or formal language level. Exact PDF hashes and current/archive row digests gate extraction."
+        },
+        {
+          "id": "in-dl-recruitment",
+          "name": "Delhi Subordinate Services Selection Board — Vacancies",
+          "homepage": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "dsssb",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-dl-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:02:29.873Z",
+          "pendingDraftCount": 25,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 52,
+          "draftEvidenceValidationTimestampCount": 52,
+          "accessGap": null,
+          "scopeNotes": "Draft adapter for advertisement 03/2026: 25 separate post-code cycles, exact-document nationality and exam-language evidence, and two vacancy corrigenda. Other advertisements, Delhi departments and later notices remain gaps. Founder review required; no listings imported."
+        }
+      ]
+    },
+    {
+      "code": "IN-GA",
+      "name": "Goa",
+      "primarySourceId": "in-ga-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 7,
+      "registeredSourceCount": 3,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 11,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ga-recruitment",
+          "name": "Goa Public Service Commission",
+          "homepage": "https://gpsc.goa.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "goa-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ga-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T23:13:02.574Z",
+          "pendingDraftCount": 7,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 28,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft adapter stages seven distinct posts in advertisement 09/2026, with separate direct/deputation dates, working-Konkani evidence and unresolved foreign-citizen permission. Other advertisements, amendments and local authorities remain gaps. Founder review required; no listing imported."
+        },
+        {
+          "id": "in-ga-gssc",
+          "name": "Goa Staff Selection Commission — Group C recruitment",
+          "homepage": "https://gssc.goa.gov.in/?page_id=1079",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "gssc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T17:05:52.509Z",
+            "lastSuccessfulFetchAt": "2026-09-25T17:05:52.509Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 4,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-ga-gssc.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T17:05:52.509Z",
+          "pendingDraftCount": 4,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 32,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only four post choices in GSSC Advertisement 3/2026 are normalized. CBES still shows 204 LDC/Recovery Clerk vacancies (111 UR) against GSSC's later 203 (110 UR). Other GSSC advertisements, later amendments and applicant eligibility remain unresolved.",
+          "scopeNotes": "Draft connector binds four Advertisement 3/2026 post choices to GSSC PDFs and Government of Goa CBES post pages. CBES establishes applications 11 September–2 October 2026 and confirms essential Konkani; no cutoff clock time or formal language framework level is published. PwD fee, nationality, residence certificate and a CBES-vs-supplement LDC vacancy-count conflict require founder review. Separate from Goa Public Service Commission."
+        },
+        {
+          "id": "in-ga-cbes-application-portal",
+          "name": "Government of Goa CBES — Online Recruitment System",
+          "homepage": "https://cbes.goa.gov.in/advertisement",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Portal's LDC/Recovery Clerk vacancy total is stale against GSSC's 21 September supplement. Other CBES advertisements and private candidate-account functions are not collected.",
+          "scopeNotes": "Official portal lists post-level qualifications and application dates. Four GSSC Advertisement 3/2026 pages are consumed as corroborating evidence by the in-ga-gssc connector, not counted again as separate source cycles. They show essential Konkani but no standardized proficiency level."
+        }
+      ]
+    },
+    {
+      "code": "IN-GJ",
+      "name": "Gujarat",
+      "primarySourceId": "in-gj-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 2,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-gj-recruitment",
+          "name": "Gujarat Public Service Commission",
+          "homepage": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "gujarat-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-gj-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T23:02:56.031Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for maritime advertisements 42/2026-27 and 43/2026-27, both active through 8 October 2026 at 23:59 local Gujarat time. Distinct PwD-only applications share bilingual detailed PDF bytes. Gujarati or Hindi knowledge is required without formal level; national citizenship and foreign-citizen appointment conditions need recruitment-rule review. Other GPSC advertisements and state authorities remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-HR",
+      "name": "Haryana",
+      "primarySourceId": "in-hr-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 2,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-hr-recruitment",
+          "name": "Haryana Public Service Commission",
+          "homepage": "https://hpsc.gov.in/en-us/Instructions",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "HPSC robots.txt ends with User-agent: * / Disallow: /, blocking automated collection of the archive and PDFs. Manual research evidence is retained; no live connector or verified listing is claimed.",
+          "scopeNotes": "Manual research retained advertisement 25/2026: Food Safety Officer, 45 posts, 28 September 2026 opening and 19 October 2026 17:00 deadline in its scanned notice. The archive and PDF disagree on publication date. International-applicant conditions need full notice and service-rule review. Other Haryana authorities and advertisements remain gaps."
+        },
+        {
+          "id": "in-hr-hssc",
+          "name": "Haryana Staff Selection Commission — CET and prison recruitment",
+          "homepage": "https://hssc.gov.in/advertisement",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "haryana-ssc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-hr-hssc.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T02:22:28.783Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for Group-D CET advertisement 05/2026 and Group-C prison recruitment 06/2026. One CET registration and one provisional prison application cycle; four prison categories total 1,238 posts, but group-form identity needs founder review. Nepal/Bhutan subjects need a Government eligibility certificate for CET; post appointment and Hindi/Sanskrit academic conditions need review. Other HSSC notices remain gaps. Separate from HPSC."
+        }
+      ]
+    },
+    {
+      "code": "IN-HP",
+      "name": "Himachal Pradesh",
+      "primarySourceId": "in-hp-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 4,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-hp-recruitment",
+          "name": "Himachal Pradesh Public Service Commission",
+          "homepage": "https://hppsc.hp.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Official endpoint requires unsafe legacy TLS renegotiation, rejected by the Node collector. Secure feed or server TLS update needed; no listings imported.",
+          "scopeNotes": "Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps."
+        },
+        {
+          "id": "in-hp-hprca",
+          "name": "Himachal Pradesh Rajya Chayan Aayog",
+          "homepage": "https://hprca.hp.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "hprca.hp.gov.in/robots.txt returns HTTP 200 text/html containing the application shell, not a text/plain robots policy. The collector cannot establish permission for automated notice collection; no HPRCA cycles are staged or published.",
+          "scopeNotes": "Separate state recruitment authority from HPPSC. The state government's vacancies page links this exact .gov.in host. The homepage and recent notices are visible in ordinary browser research, but no notice details or applicant criteria are imported. The similarly named hprca.in site is not used as an official source."
+        },
+        {
+          "id": "in-hp-forest-joa-it-pwd-2026",
+          "name": "HP Forest Department — JOA (IT) PwBD intake",
+          "homepage": "https://hpforest.gov.in/recruitments",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "hpforest-joa-it-pwd-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T15:30:14.108Z",
+            "lastSuccessfulFetchAt": "2026-09-25T15:30:14.108Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-hp-forest-joa-it-pwd-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T15:30:14.108Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only this Forest Department notice is extracted. Other HP Forest recruitment rows, HPPSC, HPRCA and Jal Shakti remain unresolved; JSV robots policy was unreachable on collection host.",
+          "scopeNotes": "Exact scanned-PDF connector for one JOA (IT) PwBD contract application, two reserved posts. Original notice prints conflicting application receipt dates (30 September schedule versus 10 October signed note), so deadline is unknown and status uncertain. Indian citizenship and bona fide Himachal residence are explicit; English/Hindi typing speeds are alternatives, not formal language levels."
+        },
+        {
+          "id": "in-hp-jsv-recruitment",
+          "name": "Himachal Pradesh Jal Shakti Vibhag — Recruitment",
+          "homepage": "https://jsv.hp.gov.in/Home/TableEntryPage?ms=h%2Fyhm1mKjnA9Q3v8n1lz%2FfEKxjyZ7mim03hiLdkahwFacFM%2FtTAfh%2F9qwq3eAJ60",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "On 25 September 2026 the collector could not reach jsv.hp.gov.in/robots.txt; collection is disabled until access policy can be established.",
+          "scopeNotes": "Official index displayed September 2026 division-level recruitment notices during manual research. No original applicant notice was retained under the project collector, so no deadline or eligibility is imported."
+        }
+      ]
+    },
+    {
+      "code": "IN-JK",
+      "name": "Jammu and Kashmir",
+      "primarySourceId": "in-jk-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": true,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 2,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 4,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-jk-recruitment",
+          "name": "Jammu and Kashmir Public Service Commission",
+          "homepage": "https://jkpsc.nic.in/Default.aspx",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "jkpsc-gcet-librarian-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T15:56:14.966Z",
+            "lastSuccessfulFetchAt": "2026-09-25T15:56:14.966Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-jk-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T15:56:14.966Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 5,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "The official homepage resumed serving notice links on 25 September 2026 after an earlier maintenance response. Its rotating list is not a complete advertisement archive; this exact-document pilot does not establish source completeness.",
+          "scopeNotes": "Draft-only exact-PDF pilot covers one SC-backlog GCET Librarian post under notification 07-PSC (DR-P) of 2026. Its 15 September extension ends forms 18 September while eligibility cutoff stays 31 August. Domicile and SC certificate are mandatory; citizenship and formal language level are unstated. Other notification 07 posts, notifications 05/06 and departmental recruitment remain gaps."
+        },
+        {
+          "id": "in-jk-jkssb",
+          "name": "Jammu and Kashmir Services Selection Board",
+          "homepage": "https://jkssb.nic.in/Advertisement.html",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "jkssb-notices",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T04:20:19.971Z",
+            "lastSuccessfulFetchAt": "2026-09-25T04:20:19.971Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 3,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-jk-jkssb.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T04:20:19.971Z",
+          "pendingDraftCount": 3,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 13,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact extraction of advertisement 09/2026 Class IV and two post-family groups from open advertisement 08/2026: Horticulture Technician and Junior Pharmacist, 256 of 518 positions. Remaining 08/2026 groups, broader JKSSB and department coverage remain incomplete."
+        }
+      ]
+    },
+    {
+      "code": "IN-JH",
+      "name": "Jharkhand",
+      "primarySourceId": "in-jh-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 2,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-jh-recruitment",
+          "name": "Jharkhand Public Service Commission",
+          "homepage": "https://www.jpsc.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "jharkhand-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-jh-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T01:30:29.506Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-document connector for Assistant Professor medical super-specialty advertisement 07/2026 (90 posts, ten specialties). Citizenship, language and specialty application grouping require founder review. Other JPSC 2026 notices and departments remain gaps."
+        },
+        {
+          "id": "in-jh-jjb-cwc-2026",
+          "name": "Jharkhand recruitment portal — child-protection appointments",
+          "homepage": "https://recruitment.jharkhand.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "jharkhand-jjb-cwc-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T08:41:18.586Z",
+            "lastSuccessfulFetchAt": "2026-09-25T08:41:18.586Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-jh-jjb-cwc-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T08:41:18.586Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only two child-protection notices are covered. Other recruitment entries, later amendments, JPSC and district authorities remain gaps. Deoghar Home Guard volunteer notice is excluded from salaried-job counts.",
+          "scopeNotes": "Two current honorary child-protection appointment cycles staged from notices 2979 and 3062. One application under 3062 can prefer JJB and CWC roles. The notices offer ₹2,000 per sitting, not a salaried government job. Portal gives 10 and 15 October 2026 deadlines at 23:59 but not a governing timezone. International eligibility and formal language level remain unverified."
+        }
+      ]
+    },
+    {
+      "code": "IN-KA",
+      "name": "Karnataka",
+      "primarySourceId": "in-ka-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 4,
+      "adapterCount": 4,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 8,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-drdo-jrf-september-2026",
+          "name": "DRDO — DYSL-SM and LRDE September 2026 JRF calls",
+          "homepage": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "drdo-jrf-september-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-26T19:32:17.974Z",
+            "lastSuccessfulFetchAt": "2026-09-26T19:32:17.974Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-drdo-jrf-september-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-26T19:32:17.974Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only two notices extracted from fourteen current cards, which include result notices. Prior DRDO archive, other laboratories, amendments, ambiguous DYSL-SM postgraduate wording (MechanicalMechatronics), age reckoning/relaxations, email procedure, official timezone and foreign degree equivalence remain review gaps. Source disabled pending first-output acceptance.",
+          "scopeNotes": "Two exact temporary JRF calls: DYSL-SM one place, LRDE two places. Indian nationals only; formal language level not stated. LRDE needs English transcripts for non-English documents. LRDE 25 September willingness advisory differs from 8 October walk-in; late attendance route is unresolved."
+        },
+        {
+          "id": "in-ka-nlsiu-other-faculty-2026",
+          "name": "NLSIU — September 2026 faculty Notifications 16–19",
+          "homepage": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "nlsiu-other-faculty-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T17:28:48.674Z",
+            "lastSuccessfulFetchAt": "2026-09-25T17:28:48.674Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 4,
+            "lastValidatedAt": null,
+            "totalAvailable": 5
+          },
+          "reviewPacket": "data/review/in-ka-nlsiu-other-faculty-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T17:28:48.674Z",
+          "pendingDraftCount": 4,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 18,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "First output, degree/discipline equivalence, category relaxations, application form behavior, later amendments, interview venues, fees and wider NLSIU recruitment need founder review. Professor (Law) 15/2026 is collected separately.",
+          "scopeNotes": "Four separate permanent faculty application cycles, Notifications 16–19/2026, close 26 October 2026 at 17:00 IST. Foreign nationals may apply, while appointment confirmation needs visa approval. Corrigenda to 17 and 18 expand indicative Sociology to Sociology and Anthropology. No formal language level stated."
+        },
+        {
+          "id": "in-ka-nlsiu-professor-law-2026",
+          "name": "NLSIU — Professor (Law), Notification 15/2026",
+          "homepage": "https://www.nls.ac.in/news-and-events/work-with-us/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "nlsiu-professor-law-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T16:58:19.460Z",
+            "lastSuccessfulFetchAt": "2026-09-25T16:58:19.460Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-ka-nlsiu-professor-law-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T16:58:19.460Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only Professor (Law) 15/2026 is bound here; the four other September faculty roles have a separate draft connector. Later amendments, interview details and wider NLSIU recruitment remain uncovered. First connector output needs founder review.",
+          "scopeNotes": "Draft-only Notification 15/2026, one Professor (Law) application cycle for five permanent vacancies. Apply online by 26 October 2026, 17:00 IST. Foreign nationals, OCI, NRI and PIO may apply; selected foreign applicants need visa approval for appointment confirmation. Two qualification routes differ. No formal language level or interview venue is published."
+        },
+        {
+          "id": "in-ka-recruitment",
+          "name": "Karnataka Public Service Commission",
+          "homepage": "https://kpsc.kar.nic.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "karnataka-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ka-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T01:08:19.055Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 7,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-document connector for one 2026-27 Gazetted Probationers Group A/B intake (319 posts). Kannada notice, extension, age press note, timetable and online application page retained. Citizenship, residence, age and post-specific qualifications need founder review; other recruitment remains a gap."
+        }
+      ]
+    },
+    {
+      "code": "IN-KL",
+      "name": "Kerala",
+      "primarySourceId": "in-kl-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": true,
+      "primaryPendingDraftCount": 21,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 21,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-kl-recruitment",
+          "name": "Kerala Public Service Commission",
+          "homepage": "https://www.keralapsc.gov.in/notifications",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "kerala-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T15:09:07.878Z",
+            "lastSuccessfulFetchAt": "2026-09-25T15:09:07.878Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 21,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-kl-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T15:09:07.878Z",
+          "pendingDraftCount": 21,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 63,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Exact-document draft for 31 August 2026 gazette: 21 provisional category applications, including nine NCA categories from two shared PDFs. All 14 category PDFs and current General Conditions PDF are hash-pinned. Individual notices have provisional job type, qualification, fee and restriction fields. General Conditions identify narrow non-Indian eligibility routes with Government of India certificate; personal route, Part I exceptions and service rules need founder review. No blanket language level is stated. Shared-category form identity, midnight cutoff and Kerala community proof remain unresolved. Other gazettes and authorities remain gaps. Run npm run collect -- --source in-kl-recruitment --stage."
+        }
+      ]
+    },
+    {
+      "code": "IN-LA",
+      "name": "Ladakh",
+      "primarySourceId": "in-la-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 3,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-la-recruitment",
+          "name": "Ladakh Administration — Recruitment notices",
+          "homepage": "https://ladakh.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Official Administration notification archive inspected; it carries a byte-identical copy of Police Constable 02/2026 plus a September Central Pool MBBS/BDS admission notice. Administration admissions and other departmental/local cycles have not been imported and remain gaps."
+        },
+        {
+          "id": "in-la-hme-admission",
+          "name": "Ladakh Health & Medical Education — Central Pool admission",
+          "homepage": "https://hme.ladakh.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "ladakh-hme",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-la-hme-admission.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T00:52:24.496Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "admission"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only 2026-27 Central Pool MBBS/BDS admission pilot. Portal supplies 23–29 September window without cutoff time; scanned notice has conflicting issue dates. NEET, parent-residence route and foreign-national eligibility need founder/authority review. Other intakes remain gaps."
+        },
+        {
+          "id": "in-la-police",
+          "name": "Ladakh Police Subordinate Service Recruitment Board",
+          "homepage": "https://police.ladakh.gov.in/pages/recruitment.html",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "ladakh-police",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-la-police.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T23:24:10.365Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 5,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft adapter for scanned Constable advertisement 02/2026: one application for 331 posts, 15 September close, required Ladakh domicile, English/Hindi exam medium without stated proficiency level. No citizenship clause was identified in scanned evidence; founder/authority confirmation is needed for foreign applicants. Later physical-test postponement is not an application extension. Other Police Board notices and Ladakh authorities remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-LD",
+      "name": "Lakshadweep",
+      "primarySourceId": "in-ld-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 1,
+      "adapterCount": 0,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 0,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ld-recruitment",
+          "name": "Lakshadweep Administration — Recruitments",
+          "homepage": "https://lakshadweep.gov.in/notice_category/recruitment/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Detailed Lakshadweep notice PDFs are hosted on cdn.s3waas.gov.in, whose robots.txt disallows all automated requests. Manual research evidence is retained; no PDF collector or verified listing is claimed.",
+          "scopeNotes": "Official recruitment and circular indexes checked manually. September 2026 Veterinary Assistant Surgeon and Cardiologist notices are retained as research, not published or collected; selection lists and draft rules are not application cycles. Other departmental/local sources remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-MP",
+      "name": "Madhya Pradesh",
+      "primarySourceId": "in-mp-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 2,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-mp-recruitment",
+          "name": "Madhya Pradesh Public Service Commission",
+          "homepage": "https://mppsc.mp.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "MPPSC robots.txt disallows all automated paths. A permitted feed or manual review is needed before any connector can collect advertisements; no verified listing is claimed.",
+          "scopeNotes": "Official MPPSC homepage and robots.txt checked. Homepage links an advertisement section, but no notice-specific eligibility was imported; other MP authorities remain gaps."
+        },
+        {
+          "id": "in-mp-esb-police-gd",
+          "name": "MP Employees Selection Board — Police Constable GD 2026",
+          "homepage": "https://esb.mp.gov.in/home_n.html",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "mpesb-pcrt-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T07:54:54.466Z",
+            "lastSuccessfulFetchAt": "2026-09-25T07:54:54.466Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-mp-esb-police-gd.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T07:54:54.466Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only one MPESB intake is covered. Exact rulebook and revised-page hashes are pinned; later amendments, all other board tests and MPPSC notices remain uncollected.",
+          "scopeNotes": "Pilot binds the 2026 Police Constable GD online form row to the original Hindi rulebook and scanned revised first page. New applications 22 September–6 October; correction until 11 October is distinct. Original rulebook states Indian citizenship is mandatory; first-stage MCQ is in Hindi without a formal proficiency level. Founder review required; other ESB and MPPSC recruitments remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-MH",
+      "name": "Maharashtra",
+      "primarySourceId": "in-mh-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 4,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-mh-dmer-nashik-faculty-2026",
+          "name": "Maharashtra DMER — Government Medical College Nashik faculty advertisement 04",
+          "homepage": "https://dmer.maharashtra.gov.in/english/home-news-content/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "dmer-nashik-faculty-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T11:28:19.094Z",
+            "lastSuccessfulFetchAt": "2026-09-25T11:28:19.094Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-mh-dmer-nashik-faculty-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T11:28:19.094Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only advertisement 04 is bound. Later corrigenda, other DMER colleges, rank-specific qualification checks, nationality and licensing route, application receipt semantics, and selection changes remain gaps. Founder review required before publication.",
+          "scopeNotes": "Review-only September 2026 call for eight temporary contractual Professor, Associate Professor and Assistant Professor vacancies in six subjects at GMC Nashik. Notice page 1 prints applications 21–28 September, 11:00–17:00, without named timezone, and an interview on 7 October. Multiple application delivery routes are described. Foreign-citizen eligibility and formal language level are not stated; subject/rank qualifications and Maharashtra-institution priority need individual review."
+        },
+        {
+          "id": "in-mh-recruitment",
+          "name": "Maharashtra Public Service Commission",
+          "homepage": "https://mpsc.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Public notice API routes disallow automated collection in robots.txt. Official homepage remains available; a permitted feed or manual notice review is needed.",
+          "scopeNotes": "Official source identified; listings not imported. Public website loads notices through API routes that robots.txt disallows for automated collection (checked 2026-09-25). Needs a permitted official feed or manual notice review."
+        },
+        {
+          "id": "in-mh-actrec",
+          "name": "Tata Memorial Centre ACTREC — public recruitment",
+          "homepage": "https://www.actrec.gov.in/jobs",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "actrec-senior-resident",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T03:32:40.974Z",
+            "lastSuccessfulFetchAt": "2026-09-25T03:32:40.974Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-mh-actrec.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T03:32:40.974Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-document pilot for Senior Resident, Transfusion Medicine, advertisement 198/2026. Indian nationals only; 8 October 2026 17:30 IST deadline, ₹100 application fee and separate joining deposit. No formal language level printed. Other ACTREC job rows remain gaps; Maharashtra PSC access restriction remains separate."
+        },
+        {
+          "id": "in-mh-pune-divcomm-legal",
+          "name": "Pune Divisional Commissioner — Legal Officer 2026",
+          "homepage": "https://divcompune.maharashtra.gov.in/en/recruitment/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "pune-divcomm-legal-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T08:02:51.582Z",
+            "lastSuccessfulFetchAt": "2026-09-25T08:02:51.582Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-mh-pune-divcomm-legal.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T08:02:51.582Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only this Pune Division notice is covered. Other district, divisional and state departments, later amendments and Maharashtra PSC notices remain gaps.",
+          "scopeNotes": "One closed 2026 Legal Officer contract notice staged. Marathi notice gives a 31 August date-only application receipt deadline and adequate Marathi, Hindi and English knowledge without a formal level. No foreign-citizen rule was found; international eligibility remains unverified. Maharashtra PSC access restriction remains separate."
+        }
+      ]
+    },
+    {
+      "code": "IN-MN",
+      "name": "Manipur",
+      "primarySourceId": "in-mn-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-mn-recruitment",
+          "name": "Manipur Public Service Commission",
+          "homepage": "https://mpscmanipur.gov.in/whats_new.html",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "manipur-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-mn-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:35:38.264Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for scanned Advertisement 04/2026, Dental Surgeon. Original PDF states Indian citizenship, Manipur residence with parent/ancestor exception, and spoken Manipuri or a Manipur tribal dialect. Founder review pending; other notices, departments and local recruitment remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-ML",
+      "name": "Meghalaya",
+      "primarySourceId": "in-ml-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 2,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-ml-recruitment",
+          "name": "Meghalaya Public Service Commission",
+          "homepage": "https://mpsc.meghalaya.gov.in/advertisements.html",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "meghalaya-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ml-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:41:53.353Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for scanned Advertisement 03/2026: Fishery Officer and Junior Football Coach, with age and qualification/deadline corrections. Indian citizenship is explicit; General English appears in selection tests without a CEFR level. Exact PDFs and the extension scope require founder review; other advertisements and departments remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-MZ",
+      "name": "Mizoram",
+      "primarySourceId": "in-mz-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 2,
+      "registeredSourceCount": 2,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-mz-mirsac-group-d-2026",
+          "name": "Mizoram Remote Sensing Application Centre — Group D provisional employees",
+          "homepage": "https://mirsac.mizoram.gov.in/recruitment-for-group-d-provisional-employee-2-posts/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "mirsac-group-d-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T14:46:08.797Z",
+            "lastSuccessfulFetchAt": "2026-09-25T14:46:08.797Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-mz-mirsac-group-d-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T14:46:08.797Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only this advertisement is bound. MIRSAC Recruitment Rules, 2018, any later amendments, foreign-citizen permission, age reckoning date, selection method, duration and final posting require founder or authority review before publication.",
+          "scopeNotes": "Advertisement 1 of 2026–2027 seeks one Group D provisional-employee application for two positions. Forms reach MIRSAC Aizawl office by 30 October 2026 during unspecified office hours. HSLC and working Mizo through middle-school standard are published; form requests Mizo Class VIII-or-above proof. Nationality and domicile are unstated, so international applicants need verification."
+        },
+        {
+          "id": "in-mz-recruitment",
+          "name": "Mizoram Public Service Commission",
+          "homepage": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "mizoram-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-mz-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T21:53:00.015Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for active Advertisement 25/2026-27 (LDC) and 26/2026-27 (Peon), closing 12 and 13 October 2026 at 16:00 local time. Both require Mizo Language Proficiency test or stated Class-X/MIL exemption; numerical level and nationality are not in retained notices. Founder review required. Other Mizoram authorities and notices remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-NL",
+      "name": "Nagaland",
+      "primarySourceId": "in-nl-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-nl-recruitment",
+          "name": "Nagaland Public Service Commission",
+          "homepage": "https://npsc.nagaland.gov.in/advertisement",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "nagaland-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-nl-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T22:06:20.764Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only Stenographer Examination 2026 pilot. Applications closed 3 September 2026 at noon; all 26 posts are reserved for specified indigenous inhabitants, while nationality and shorthand language are unstated. Other NPSC examinations, notifications and local authorities remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-OR",
+      "name": "Odisha",
+      "primarySourceId": "in-or-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 3,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-or-recruitment",
+          "name": "Odisha Public Service Commission",
+          "homepage": "https://opsc.gov.in/Public/OPSC/Default.aspx",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "odisha-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-or-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T22:16:31.110Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "One APP 09/2026-27 candidate notice is bound to exact scanned PDF bytes and staged for founder review. Current notices are served through public ASP.NET form postbacks; remaining OPSC notices and departmental/local recruitment remain gaps."
+        },
+        {
+          "id": "in-or-drdo-pxe-apprentices",
+          "name": "DRDO PXE — graduate and technician apprenticeships",
+          "homepage": "https://www.drdo.gov.in/drdo/offerings/vacancies",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "drdo-pxe-apprentices",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-or-drdo-pxe-apprentices.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T06:32:48.176Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "vocational"
+          ],
+          "draftEvidenceFetchTimestampCount": 3,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-document connector for one open 2026–27 PXE apprenticeship intake: 50 degree/diploma places across 12 branches, postal receipt by 12 October 2026 without a printed hour. One shared application form; no guaranteed DRDO employment. Nationality field is blank, foreign-citizen acceptance and formal language level are unstated. Other DRDO vacancies remain gaps."
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026",
+          "name": "ICMR-NIHR Bhubaneswar — Junior Consultant (Medical)",
+          "homepage": "https://www.rmrcbbsr.gov.in/career/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "icmr-nihr-bhubaneswar-junior-consultant-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T16:22:48.633Z",
+            "lastSuccessfulFetchAt": "2026-09-25T16:22:48.633Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-icmr-nihr-bhubaneswar-junior-consultant-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T16:22:48.633Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "This connector binds one September role and checks the current institute career row for a later amendment. Other NIHR/ICMR notices, historical editions and source inventory remain incomplete.",
+          "scopeNotes": "Draft-only exact-document pilot for one temporary DRISTI Junior Consultant (Medical) walk-in on 29 September 2026 at 10:30 in Bhubaneswar. One post at ₹80,000 monthly; MBBS/BDS/BVSc or equivalent and six years post-qualification experience. Age table's 40–50-year range lacks a category mapping. Nationality and language level unstated. Earlier May/June postings reuse advertisement number but are separate cycles."
+        }
+      ]
+    },
+    {
+      "code": "IN-PY",
+      "name": "Puducherry",
+      "primarySourceId": "in-py-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 3,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-py-recruitment",
+          "name": "Puducherry Government — Recruitment",
+          "homepage": "https://recruitment.py.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Puducherry CGL2026001 portal row gives application close 13 April 2026 15:00; its linked 32-page official notice gives 14 April 2026 15:00. No resolving amendment was found on that recruitment's news page. Hold the date for review; do not infer an extension.",
+          "scopeNotes": "Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps."
+        },
+        {
+          "id": "in-py-gov-recruitment",
+          "name": "Puducherry Government — recruitment notices",
+          "homepage": "https://py.gov.in/recruitment",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "https://py.gov.in/robots.txt redirects HTTP 302 to /warning HTML; collector cannot establish text/plain robots rules. Keep automated connector disabled until official access policy is resolved.",
+          "scopeNotes": "Separate from recruitment.py.gov.in. Two current official PDFs were retained for manual research: Planning and Research Joint Director deputation (11 November 2026 date-only close) and PIHMCT Assistant Lecturer contract (25 October 2026 date-only close). Job type, international-applicant uncertainty and language wording are documented in data/evidence/research/puducherry-government-recruitment-september-2026.json. Neither notice is staged or published; other departments remain gaps."
+        },
+        {
+          "id": "in-py-pihmct-lecturer-2026",
+          "name": "PIHMCT Puducherry — Assistant Lecturer contract intake",
+          "homepage": "https://pihmct.py.gov.in/notice-board",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "pihmct-assistant-lecturer-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T15:20:29.720Z",
+            "lastSuccessfulFetchAt": "2026-09-25T15:20:29.720Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-py-pihmct-lecturer-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T15:20:29.720Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 3,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only this PIHMCT notice is collected; other institute notices and Puducherry authorities remain coverage gaps.",
+          "scopeNotes": "Review-only exact-PDF connector for one open 2026 Assistant Lecturer contract application covering three posts, physical receipt by 25 October 2026 without a printed hour. Category A/B qualification alternatives and NHTET/PhD exemption require founder review. The form asks nationality but original notice gives no foreign-citizen rule or formal language level. This institute source is distinct from blocked py.gov.in umbrella recruitment and recruitment.py.gov.in portal."
+        }
+      ]
+    },
+    {
+      "code": "IN-PB",
+      "name": "Punjab",
+      "primarySourceId": "in-pb-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 3,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-pb-recruitment",
+          "name": "Punjab Public Service Commission",
+          "homepage": "https://www.ppsc.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "PPSC homepage and robots.txt are accessible, but the Open Advertisement link redirects to a session-expired error without a usable notice register. A stable official notice endpoint is needed before collection.",
+          "scopeNotes": "Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps."
+        },
+        {
+          "id": "in-pb-psegs",
+          "name": "Punjab State e-Governance Society — DGG&IT vacancies",
+          "homepage": "https://dit.punjab.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "punjab-psegs",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-pb-psegs.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T02:35:36.747Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only pilot for PSeGS advertisement 02/2026: one open two-year Deputy General Manager (Technical) Cyber Security contract closing 8 October 2026 at 23:59 IST. Working Punjabi is essential with a specified post-appointment test route. Nationality is unstated. Official PDF links an off-domain form and payment instructions that require founder verification. Other Punjab authorities and notices remain gaps."
+        },
+        {
+          "id": "in-pb-sssb",
+          "name": "Punjab Subordinate Services Selection Board — Group D",
+          "homepage": "https://sssb.punjab.gov.in/vacancy-group-d/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "punjab-sssb",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T02:45:26.951Z",
+            "lastSuccessfulFetchAt": "2026-09-25T02:45:26.951Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-pb-sssb.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T02:43:52.582Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only extraction of closed Group D advertisement 04/2026: 2,098 positions, final new-application deadline 21 September 2026; correction portal 24–27 September serves existing applicants only. International applicant and appointment permission unstated. Original notice requires Punjab domicile/residence certificate at counselling, with scope for unreserved and overseas candidates awaiting authority confirmation. Other board groups remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-RJ",
+      "name": "Rajasthan",
+      "primarySourceId": "in-rj-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 13,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 13,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-rj-recruitment",
+          "name": "Rajasthan Public Service Commission",
+          "homepage": "https://rpsc.rajasthan.gov.in/advertisements",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "rpsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-rj-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T20:09:56.232Z",
+          "pendingDraftCount": 13,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 13,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft archive connector; original advertisements and corrections are grouped conservatively. Unknown application dates are not marked open. First output requires founder review."
+        }
+      ]
+    },
+    {
+      "code": "IN-SK",
+      "name": "Sikkim",
+      "primarySourceId": "in-sk-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 1,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-sk-recruitment",
+          "name": "Sikkim Public Service Commission",
+          "homepage": "https://spsc.sikkim.gov.in/Advertisement.html",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "sikkim-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-sk-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T22:55:12.309Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 5,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only Village Level Worker advertisement 23/SPSC/EXAM/2026 pilot. One closed 2026 application for 69 posts. Sikkim Subject/Identification Certificate and Local Employment Card are required; national citizenship is unstated and foreign-citizen eligibility needs official review. One State language is required without a published formal level. Other SPSC notices and authorities remain coverage gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-TN",
+      "name": "Tamil Nadu",
+      "primarySourceId": "in-tn-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 4,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 4,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-tn-recruitment",
+          "name": "Tamil Nadu Public Service Commission",
+          "homepage": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "tnpsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-tn-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T20:01:11.239Z",
+          "pendingDraftCount": 4,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 6,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft connector available; dates cross-checked against exam dashboards. First output and notice-specific language conditions require founder review. Run npm run collect -- --source in-tn-recruitment --stage."
+        }
+      ]
+    },
+    {
+      "code": "IN-TG",
+      "name": "Telangana",
+      "primarySourceId": "in-tg-recruitment",
+      "primaryAdapterPresent": false,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 0,
+      "registeredSourceCount": 5,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 4,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-drdo-jrf-september-2026",
+          "name": "DRDO — DYSL-SM and LRDE September 2026 JRF calls",
+          "homepage": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "drdo-jrf-september-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-26T19:32:17.974Z",
+            "lastSuccessfulFetchAt": "2026-09-26T19:32:17.974Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-drdo-jrf-september-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-26T19:32:17.974Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 8,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only two notices extracted from fourteen current cards, which include result notices. Prior DRDO archive, other laboratories, amendments, ambiguous DYSL-SM postgraduate wording (MechanicalMechatronics), age reckoning/relaxations, email procedure, official timezone and foreign degree equivalence remain review gaps. Source disabled pending first-output acceptance.",
+          "scopeNotes": "Two exact temporary JRF calls: DYSL-SM one place, LRDE two places. Indian nationals only; formal language level not stated. LRDE needs English transcripts for non-English documents. LRDE 25 September willingness advisory differs from 8 October walk-in; late attendance route is unresolved."
+        },
+        {
+          "id": "in-tg-nfc-iti-apprenticeship",
+          "name": "Nuclear Fuel Complex — ITI trade apprenticeship",
+          "homepage": "https://www.nfc.gov.in/recruitment.html",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "nfc-iti-apprenticeship",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-tg-nfc-iti-apprenticeship.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T05:54:22.298Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "vocational"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-document connector for one closed 2026–27 ITI apprenticeship intake: 432 tentative places across 15 positive-vacancy trades, one application cycle, closing 16 September without printed cutoff hour. This is vocational training, not a job vacancy. Nationality and formal language level are unstated. Separate diploma/graduate apprenticeships and other NFC notices remain gaps."
+        },
+        {
+          "id": "in-tg-recruitment",
+          "name": "Telangana Public Service Commission",
+          "homepage": "https://www.tgpsc.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": null,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Main TGPSC homepage links September 2026 Manager (Engineering) application and new-site notice PDFs. The new site's robots.txt redirects to a login page, so automated notice-PDF access cannot be cleared by the collector; a permitted public source endpoint is needed.",
+          "scopeNotes": "Official source identified. Listings and notice-specific eligibility have not been imported; departmental and local recruitment remain coverage gaps."
+        },
+        {
+          "id": "in-tg-tgprb",
+          "name": "Telangana Police Recruitment Board — 2026 recruitment",
+          "homepage": "https://tgprb.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "none",
+          "adapterPresent": false,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": null,
+          "reviewPacketStatus": null,
+          "reviewPacketCollectedAt": null,
+          "pendingDraftCount": 0,
+          "pathwaysInDrafts": [],
+          "draftEvidenceFetchTimestampCount": 0,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Original notice PDFs are hosted on doc.tgprb.in, whose robots.txt returns HTTP 403 (Amazon S3 AccessDenied). The public homepage host returns HTTP 404 for robots.txt. Original documents were retained only for manual research; a permitted official notice feed or clarified access policy is needed before automated collection.",
+          "scopeNotes": "Manual research retained four 29 July 2026 direct-recruitment notices totaling 7,437 vacancies: PC Civil/equivalent 7,112; SI Civil/equivalent 275; PC Mechanic/Driver 27; ASI Finger Print Bureau 23. Applications ran 19 August 08:00–16 September 2026 17:00 after signed 8 September extension; 17 September press note confirms closure. Neither four original notices nor reviewed amendments establish a general foreign-citizen permission. SI has qualifying English and Telugu-or-Urdu papers at Matriculation standard; PC exam question language is not a universal proficiency certificate. Post identity, category/local reservations, age supplements and appointment rules need founder review. No cycle staged or published."
+        },
+        {
+          "id": "in-tg-sports-physio",
+          "name": "Telangana State Sports Department — Physiotherapist",
+          "homepage": "https://satgrecruitment.telangana.gov.in/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "tg-sports-physiotherapist",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T05:03:08.869Z",
+            "lastSuccessfulFetchAt": "2026-09-25T05:03:08.869Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-tg-sports-physio.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T05:03:08.869Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 2,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only exact-notice connector for September 2026 male physiotherapist intake at Hakimpet. Online window 23–26 September, 17:00 IST close; separate 28 September physical-form step and age cut-off date need review. Master's Physiotherapy from recognized Indian or foreign university, three years role experience, maximum age 45. Foreign degree acceptance is not foreign-citizen permission; nationality and language requirements are unstated. Vacancy count, tenure, gender restriction and portal form details need founder review; other Sports Department intakes remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-TR",
+      "name": "Tripura",
+      "primarySourceId": "in-tr-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 3,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 3,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-tr-recruitment",
+          "name": "Tripura Public Service Commission",
+          "homepage": "https://tpsc.tripura.gov.in/advertisement",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "tripura-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-tr-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-24T22:31:49.055Z",
+          "pendingDraftCount": 3,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 7,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Three 2026 TPSC advertisements and one addendum are bound to exact scanned PDF bytes for founder review. News, later notices and other Tripura authorities remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-UP",
+      "name": "Uttar Pradesh",
+      "primarySourceId": "in-up-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": true,
+      "primaryPendingDraftCount": 2,
+      "registeredSourceCount": 1,
+      "adapterCount": 1,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 2,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-up-recruitment",
+          "name": "Uttar Pradesh Public Service Commission",
+          "homepage": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "uppsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T16:45:52.976Z",
+            "lastSuccessfulFetchAt": "2026-09-25T16:45:52.976Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-up-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T16:45:52.976Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Official View Advertisement links for current D-6/E-1/2025 and D-2/E-1/2026 redirected to the UPPSC homepage during 25 September 2026 research. Exact notice qualifications, nationality, residence, language and later amendments cannot be verified from the retained table and alert alone.",
+          "scopeNotes": "Draft application-table connector cross-checks current job alerts. Two September 2026 applications are staged: reopened Inspector of Drugs and Deputy Secretary (I.T.). Separate application, fee, reconciliation and correction dates; no published cutoff clock time or official timezone. First output requires founder review."
+        }
+      ]
+    },
+    {
+      "code": "IN-UT",
+      "name": "Uttarakhand",
+      "primarySourceId": "in-ut-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": false,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 3,
+      "adapterCount": 3,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 18,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-uk-icfre-fri-walkin-2026",
+          "name": "ICFRE Forest Research Institute — October 2026 temporary fellowship walk-ins",
+          "homepage": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "icfre-fri-walkin-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T11:40:05.547Z",
+            "lastSuccessfulFetchAt": "2026-09-25T11:40:05.547Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 2,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-uk-icfre-fri-walkin-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T11:40:05.547Z",
+          "pendingDraftCount": 2,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only advertisement 5-1/RCS/2026 (September) is bound. Other ICFRE institutes and notices, later corrections, project/role-specific qualifications, nationality and work permission, and selection outcomes remain gaps. Founder review required.",
+          "scopeNotes": "Exact September 2026 Forest Research Institute advertisement: two separate walk-in registration days, 1 and 5 October 2026, 09:00–10:15, for temporary project fellowships. Fellowship gives no guarantee of later Council employment. Nationality permission, work authorization and formal language level are unstated; the English notice governs bilingual differences."
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026",
+          "name": "NIT Uttarakhand — non-teaching staff 08/2026",
+          "homepage": "https://nituk.ac.in/recruitments",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "nituk-nt08-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T11:48:27.132Z",
+            "lastSuccessfulFetchAt": "2026-09-25T11:48:27.132Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 15,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-ut-nituk-nt08-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T11:48:27.132Z",
+          "pendingDraftCount": 15,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 30,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only advertisement 08/2026 is bound. Portal branch choices were inspected without registration but are not rechecked by automated collector; later amendments and other NIT recruitments remain gaps. Scanned annexed rules and route-specific conditions require founder review.",
+          "scopeNotes": "Draft-only exact-notice connector for advertisement 08/2026: 15 distinct portal post choices across five post families, 21 indicative vacancies. Online applications close 4 November 2026 without printed cutoff hour; mandatory hard copy by 11 November at 17:30 without governing timezone. Contract applicants must be Indian citizens; deputation is limited to eligible serving officials, with nationality unstated. No formal language level or test medium is printed; Junior Assistant typing speed is 35 w.p.m. without named language. Technician (SG-II) contract eligibility needs 2019-rule reconciliation."
+        },
+        {
+          "id": "in-ut-recruitment",
+          "name": "Uttarakhand Public Service Commission",
+          "homepage": "https://psc.uk.gov.in/candidate-corner/recruitment",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "uttarakhand-psc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": null,
+          "reviewPacket": "data/review/in-ut-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T00:11:01.541Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 4,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only connector for advertisement A-1/E-1/2026-27: one combined application for 67 vacancies across 16 post codes. The 22 and 24 September index rows concern a prior examination result and a separate edit window, not new application deadlines. Exact Hindi PDF bytes, second-precision deadline, and conditional non-citizen routes require founder review. Other UKPSC, departmental, and local notices remain gaps."
+        }
+      ]
+    },
+    {
+      "code": "IN-WB",
+      "name": "West Bengal",
+      "primarySourceId": "in-wb-recruitment",
+      "primaryAdapterPresent": true,
+      "primaryHealthRowPresent": true,
+      "primaryPendingDraftCount": 1,
+      "registeredSourceCount": 2,
+      "adapterCount": 2,
+      "enabledSourceCount": 0,
+      "pendingDraftCount": 8,
+      "approvedCycleCount": 0,
+      "coverageAudited": false,
+      "sources": [
+        {
+          "id": "in-wb-iiserkol-nt04-2026",
+          "name": "IISER Kolkata — non-teaching direct recruitment NT-04/2026",
+          "homepage": "https://apply.iiserkol.ac.in/jobs/",
+          "role": "other-registered-source-with-subdivision-tag",
+          "adapter": "iiserkol-nt04-2026",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T09:02:38.201Z",
+            "lastSuccessfulFetchAt": "2026-09-25T09:02:38.201Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 7,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-wb-iiserkol-nt04-2026.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T09:02:38.201Z",
+          "pendingDraftCount": 7,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 21,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": "Only advertisement NT-04/2026 is bound. Other institute advertisements, later amendments and any further authority interpretation remain gaps; founder must resolve the eligibility-date conflict before approval.",
+          "scopeNotes": "Draft-only exact-notice connector for seven separately applied regular non-teaching post types (17 total vacancies), online close 19 October 2026 at 17:30 and mandatory hard-copy receipt by 29 October at 17:30. Indian citizenship required; no formal language level stated. Notice conflicts on age/qualification reckoning date (19 September versus online close), so automated age matching is withheld. Neither cutoff gives an official timezone."
+        },
+        {
+          "id": "in-wb-recruitment",
+          "name": "West Bengal Public Service Commission",
+          "homepage": "https://psc.wb.gov.in/",
+          "role": "designated-PSC-or-administration-entry",
+          "adapter": "wbpsc",
+          "adapterPresent": true,
+          "enabled": false,
+          "requiresReview": true,
+          "sourceHealth": {
+            "lastAttemptAt": "2026-09-25T02:53:03.918Z",
+            "lastSuccessfulFetchAt": "2026-09-25T02:53:03.918Z",
+            "lastError": null,
+            "consecutiveFailures": 0,
+            "recordCount": 0,
+            "complete": false,
+            "pendingReviewCount": 1,
+            "lastValidatedAt": null
+          },
+          "reviewPacket": "data/review/in-wb-recruitment.json",
+          "reviewPacketStatus": "pending",
+          "reviewPacketCollectedAt": "2026-09-25T02:52:38.615Z",
+          "pendingDraftCount": 1,
+          "pathwaysInDrafts": [
+            "recruitment"
+          ],
+          "draftEvidenceFetchTimestampCount": 5,
+          "draftEvidenceValidationTimestampCount": 0,
+          "accessGap": null,
+          "scopeNotes": "Draft-only extraction for closed Principal advertisement 05/2026: 12 DIET posts, final new-application and fee deadline 3 June 2026 at 15:00 IST. Planned 30 April start did not occur; actual opening date unknown. Foreign-citizen route is conditional on Government of India declaration; Bengali/Nepali exception and category age rules need review. Other advertisements and authorities remain gaps."
+        }
+      ]
+    }
+  ]
+}

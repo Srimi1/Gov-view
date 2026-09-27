@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://ladakh.gov.in/document-category/notification/",
+  "fetchedAt": "2026-09-25T00:58:00.421Z",
+  "sha256": "eab8c46c99e96b0597ae6e859218a40bf3912149ac6ccb9d8c06ec4280301e51",
+  "bytes": 211437,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://hme.ladakh.gov.in/",
+  "fetchedAt": "2026-09-25T00:58:01.698Z",
+  "sha256": "60642188ba5a5c100bd91aec5ce1a3bf11028cbb4b51f2a2b5e8649011c49edc",
+  "bytes": 32252,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/09/202609231438871085.pdf",
+  "fetchedAt": "2026-09-25T00:58:03.358Z",
+  "sha256": "421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90",
+  "bytes": 6662076,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://hme.ladakh.gov.in/uploads/notifications/notice_37e04513bc420bd9.pdf",
+  "fetchedAt": "2026-09-25T00:58:04.240Z",
+  "sha256": "e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219",
+  "bytes": 2674753,
+  "contentType": "application/pdf"
+ }
+]

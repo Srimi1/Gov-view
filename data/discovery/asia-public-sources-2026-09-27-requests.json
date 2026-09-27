@@ -1,0 +1,134 @@
+[
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "authority-home",
+    "url": "https://www.scs.gov.cn/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "government-2026-notice",
+    "url": "https://www.yuli.gov.cn/xjylx/c110928/202510/2b1de345f90143a99aa19e75adda2cc0.shtml",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "authority-home",
+    "url": "https://wwwc.moex.gov.tw/main/home/wfrmHome.aspx",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "local-2026-detail",
+    "url": "https://wwwc.moex.gov.tw/main/exam/wFrmExamDetail.aspx?c=115190",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "authority-referral",
+    "url": "https://www.csc.gov.mn/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "authority-news",
+    "url": "https://web.csc.gov.mn/home",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "selection-register",
+    "url": "https://se.csc.gov.mn/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "government-selection-referral",
+    "url": "https://www.gov.mn/news/n/4563",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "authority-home",
+    "url": "https://sonv.laichau.gov.vn/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "round3-2026-plan",
+    "url": "https://sonv.laichau.gov.vn/Vanbanchitiet?did=28820",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "kh-mcs-civil-service",
+    "label": "authority-home",
+    "url": "https://www.mcs.gov.kh/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "kh-mcs-civil-service",
+    "label": "teacher-registration-2024",
+    "url": "https://www.mcs.gov.kh/%E1%9E%82%E1%9E%8E%E1%9F%88%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%9A%E1%9F%80%E1%9E%94%E1%9E%85%E1%9F%86%E1%9E%80%E1%9E%B6%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A1%E1%9E%84-2/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "kh-nec-official-recruitment",
+    "label": "authority-home",
+    "url": "https://nec.gov.kh/english/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "kh-nec-official-recruitment",
+    "label": "contract-plan-2026",
+    "url": "https://nec.gov.kh/english/content/press-release-outcomes-national-election-committees-meeting-21st-july-2026",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "authority-home",
+    "url": "https://www.nuol.edu.la/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "english-admission",
+    "url": "https://www.nuol.edu.la/index.php/en/admission",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "admission-news",
+    "url": "https://www.nuol.edu.la/index.php/en/news?start=10",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "entrance-portal",
+    "url": "https://entrance.nuol.edu.la/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "high-general-2026-guide",
+    "url": "https://wwwc.moex.gov.tw/main/exam/FileHandler.ashx?File=3996&MCode=7730&PCode=5121&f=115&t=P",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "historical-may-2026-plan",
+    "url": "https://xathulum.laichau.gov.vn/upload/105515/20260520/document__11__0669d.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "annual-2026-portal",
+    "url": "https://bm.scs.gov.cn/kl2026",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "chinese-teacher-2026-27-report",
+    "url": "https://www.nuol.edu.la/index.php/en/news/643-%E0%BA%AA%E0%BA%B0%E0%BA%96%E0%BA%B2%E0%BA%9A%E0%BA%B1%E0%BA%99%E0%BA%82%E0%BA%BB%E0%BA%87%E0%BA%88%E0%BA%B7-%E0%BA%88%E0%BA%B1%E0%BA%94%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%AA%E0%BA%AD%E0%BA%9A%E0%BB%80%E0%BA%AA%E0%BA%B1%E0%BA%87%E0%BA%84%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%A5%E0%BA%B7%E0%BA%AD%E0%BA%81%E0%BA%99%E0%BA%B1%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2%E0%BB%83%E0%BB%9D%E0%BB%88-%E0%BA%AA%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%84%E0%BA%B9%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2%E0%BA%88%E0%BA%B5%E0%BA%99-%E0%BA%9B%E0%BA%B0%E0%BA%88%E0%BA%B3%E0%BA%AA%E0%BA%BB%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2-2026-2027",
+    "format": "HTML"
+  }
+]

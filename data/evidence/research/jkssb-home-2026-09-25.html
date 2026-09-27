@@ -1,0 +1,748 @@
+﻿<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="JKSSB" />
+    <meta name="keywords" content="JKSSB" />
+    <title>JKSSB</title>
+    <!-- Bootstrap -->
+
+    <link href="css1/style.css" rel="stylesheet" />
+    <link href="css1/font-awesome.min.css" rel="stylesheet" />
+    <link href="css1/fontello.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css1/animsition.min.css" />
+    <link href="css1/bootstrap.min.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="css1/font.css" rel="stylesheet" />
+
+    <!-- owl Carousel Css -->
+    <link href="css1/owl.carousel.css" rel="stylesheet" />
+    <link href="css1/owl.theme.css" rel="stylesheet" />
+    <link href="css1/popup.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
+    <!--<style>
+        .logo > .ssbheader {
+            width: auto !important;
+            max-width: none !important;
+            height: auto;
+            margin: 0;
+            padding: 0;
+            border: none;
+            line-height: normal;
+            vertical-align: middle;
+        }
+    </style>-->
+
+    <style>
+        /* Overlay */
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.65);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            padding: 15px;
+        }
+
+        /* Popup Box */
+        .popup {
+            background: #ffffff;
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+            padding: 25px 20px;
+            position: relative;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+        /* Heading */
+        .popup h2 {
+            margin: 0 0 15px;
+            font-size: 22px;
+            text-align: center;
+        }
+
+        /* Close Button */
+        .close {
+            position: absolute;
+            right: 15px;
+            top: 10px;
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .close:hover {
+            color: red;
+        }
+
+        /* Content */
+        .modelP {
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 12px;
+            text-align: justify;
+        }
+
+        /* Animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 480px) {
+            .popup {
+                padding: 20px 15px;
+            }
+
+            .popup h2 {
+                font-size: 18px;
+            }
+
+            .modelP {
+                font-size: 14px;
+            }
+        }
+
+        #notification {
+            width: 100%;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        #notification marquee {
+            width: 100%;
+        }
+
+        #notification a {
+            display: inline-block;
+            color: #fff;
+            text-decoration: none;
+            padding-left: 20px;
+        }
+
+        /* Download Admit Card Dropdown */
+        nav ul li {
+            position: relative;
+        }
+
+        nav ul li ul {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            min-width: 380px !important;
+            /* Increase width */
+            width: max-content !important;
+            /* Auto adjust to longest text */
+            background: #f58200;
+            display: none;
+            z-index: 9999;
+        }
+
+        nav ul li:hover>ul {
+            display: block;
+        }
+
+        nav ul li ul li {
+            display: block;
+            width: 100%;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        nav ul li ul li:last-child {
+            border-bottom: none;
+        }
+
+        nav ul li ul li a {
+            display: block;
+            color: #fff;
+            padding: 14px 18px !important;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 1.4;
+            text-decoration: none;
+            white-space: nowrap !important;
+            /* Prevent line break */
+        }
+
+        nav ul li ul li a:hover {
+            background: #e36d00;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body class="animsition">
+    <div class="top-bar">
+        <!-- top-bar -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 hidden-xs hidden-sm">
+                    <p class="mail-text">JAMMU AND KASHMIR SERVICES SELECTION BOARD</p>
+                </div>
+                <div class="col-md-8 col-sm-12 text-right col-xs-12">
+                    <div class="top-nav"> <span class="top-text hidden-xs"><a href="#">Contact Us</a> </span> <span
+                            class="top-text"><a href="#">0194-2435089</a></span> <span class="top-text"><a
+                                href="mailto:ssbjk-grievance@jk.gov.in"
+                                target="_blank">ssbjk-grievance[at]jk[dot]gov[dot]in</a></span> <span
+                            class="top-text"><a href="ScreenReaders.html" target="_blank">Screen Reader
+                                Access</a></span> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- pop Up -->
+    <!-- <div id="popup1" class="overlay">
+        <div class="popup">
+            <span class="close" onclick="closePopup()">&times;</span>
+
+            <h2>Notice</h2>
+
+            <p class="modelP">
+                It is hereby notified for the information of all concerned candidates that the OMR Based Written
+                Examination for the post of Laboratory Attendant (Home Department) advertised vide notification no. 06
+                of 2025 dated 22.07.2025 which was scheduled to held today on 01.03.2026, <strong>is hereby
+                postponed.</strong>is hereby postponed.
+            </p>
+
+            <p class="modelP">
+                The name/address of the examination centre should be read as:
+            </p>
+
+            <p class="modelP">
+                <strong>
+                    EXAMINATION HALLS, NEAR CANAL ROAD, OLD CAMPUS,
+                    UNIVERSITY OF JAMMU.
+                </strong>
+            </p>
+
+            <p class="modelP">
+                Instead of the previously mentioned address.
+            </p>
+
+            <p class="modelP">
+                All concerned candidates are advised to note the above correction carefully.
+                Candidates may download their admit cards afresh to obtain the updated details.
+            </p>
+
+        </div>
+    </div>
+
+    <script>
+        function closePopup() {
+            document.getElementById("popup1").style.display = "none";
+        }
+    </script> -->
+
+
+    <!-- /.top-bar -->
+    <div class="header-2">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <!-- logo -->
+                    <!--<div class="logo" style="float:left">
+                        <img src="images/ssbHeader.jpg" class="ssbheader" />
+                    </div>-->
+                    <div class="slider-img" style="z-index:0 !important">
+                        <img src="images/ssbHeader.jpg" alt="" class="" />
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="navigation-2">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div id="navigation">
+                            <!-- navigation start-->
+                            <ul>
+                                <li><a href="Home.html" title="Home" class="animsition-link">Home</a></li>
+                                <li>
+                                    <a href="#" class="animsition-link">About us</a>
+                                    <ul>
+                                        <li><a href="Introduction.html" class="animsition-link">Introduction</a></li>
+                                        <li><a href="citizencharter.html" class="animsition-link">Citizen Charter</a>
+                                        </li>
+                                        <li><a href="Functioning.html" class="animsition-link">Functioning</a></li>
+                                        <li><a href="Who_1.html" class="animsition-link">Who's Who</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="animsition-link">Services</a>
+                                    <ul>
+                                        <li><a href="Rules.html" class="animsition-link">Rules</a></li>
+                                        <li><a href="pdf/Annual_calendar_2026_18122025.pdf" target="_blank"
+                                                class="animsition-link">Recruitment Calendar</a></li>
+                                        <!--<li><a href="Functioning.html"class="animsition-link">Functioning</a></li>-->
+                                        <li><a href="Syllabus.html" class="animsition-link">Syllabus</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="animsition-link">SRO/SO</a>
+                                    <ul>
+                                        <li><a href="BoardConstitution.html" class="animsition-link">Board
+                                                Constitution</a></li>
+                                        <!--<li><a href="citizencharter.html" class="animsition-link">Citizen Charter</a></li>
+            <li><a href="Functioning.html" class="animsition-link">Functioning</a></li>-->
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="animsition-link">Quick Links</a>
+                                    <ul>
+                                        <li><a href="Results.html" class="animsition-link">Results</a></li>
+                                        <li><a href="Disclaimer.html" class="animsition-link">Disclaimer</a></li>
+                                        <li><a href="FAQ.html" class="animsition-link">FAQ</a></li>
+                                        <li><a href="QP.html" class="animsition-link">Previous Question Papers</a></li>
+                                        <li><a href="ListOfHolidays.html" class="animsition-link">List of Holidays</a>
+                                        </li>
+                                        <li><a href="DownloadForm.html" class="animsition-link">Download Forms</a></li>
+                                        <li><a href="DigitalSignature.html" class="animsition-link">Digital
+                                                Signature</a></li>
+                                        <li><a href="RegisterGreivance.html" class="animsition-link">Register
+                                                Grievance</a></li>
+
+                                    </ul>
+                                </li>
+
+                                <li><a href="RTI.html" title="Contact us" class="animsition-link">RTI</a></li>
+                                <li><a href="ContactUs.html" title="Contact us" class="animsition-link">Contact us</a>
+                                </li>
+                                <li><a href="Help.html" title="Contact us" class="animsition-link">Help</a></li>
+                                <!--<li><a href="Pages/login.aspx" title="Contact us" class="animsition-link">Login</a></li>-->
+                                <li><a href="#" title="Login" class="animsition-link">Login</a>
+                                    <ul>
+                                        <li><a href=" https://www.ssbjk.org.in/" class="animsition-link">Old Login</a>
+                                        </li>
+                                        <li><a href=" https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx"
+                                                class="animsition-link">Apply for Various Posts</a></li>
+                                        <li><a href=" https://jkssb.nic.in/dynamic-jkssb-test/Pages/Applicant/Signup.aspx"
+                                                class="animsition-link">New User / Sign Up</a></li>
+                                        <li><a href=" https://jkssb.nic.in/dynamic-jkssb-test/pages/ForgotPassword.aspx"
+                                                class="animsition-link">Forgot Password</a></li>
+                                        <li><a href=" https://jkssb.nic.in/dynamic-jkssb-test/Pages/Applicant/GetActivationLink.aspx"
+                                                class="animsition-link">Get Activation Link</a></li>
+
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#" class="animsition-link">Download Admit Card</a>
+                                    <ul>
+                                        <!-- <li>
+                                            <a href="https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx"
+                                                class="animsition-link">
+                                                Junior X-Ray Technician (07 of 2025)
+                                            </a>
+                                        </li> -->
+                                    </ul>
+                                </li>
+                            </ul>
+
+                            </li>
+                            </ul>
+                        </div>
+                        <!-- /.navigation start-->
+                    </div>
+
+
+                    <!-- /.search start-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="slider" id="slider">
+        <!-- slider -->
+        <div class="slider-img">
+            <img src="images1/slider-1.jpg" alt="" class="" />
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="slider-captions">
+                            <!-- slider-captions -->
+                            <!--<h1 class="slider-title">Personal Loan to Suit Your Needs. </h1>-->
+                            <!--<p class="slider-text hidden-xs">
+                                The low rate you need for the need you want! Call
+                                <br>
+                                <strong class="text-highlight">(555) 123-4567</strong>
+                            </p>
+                            <a href="team.html" class="btn btn-default hidden-xs">Loan Products</a>-->
+                        </div>
+                        <!-- /.slider-captions -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--<div>
+            <div class="slider-img">
+                <img src="images1/slider-2.jpg" alt="" class="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                            <div class="slider-captions">-->
+        <!-- slider-captions -->
+        <!--<h1 class="slider-title">Lowest Car Loan Rate <strong class="text-highlight">9.60%</strong> </h1>
+        <p class="slider-text hidden-xs">We provide an excellent service Loan company. Lorem ipsum simple dummy content goes here.</p>
+        <a href="#" class="btn btn-default hidden-xs">Check Eligiblity</a>-->
+        <!--</div>-->
+        <!-- /.slider-captions -->
+        <!--</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="slider-img">
+                <img src="images1/slider-3.jpg" alt="" class="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                            <div class="slider-captions">-->
+        <!-- slider-captions -->
+        <!--<h1 class="slider-title">Student Loans with Greate Rates <strong class="text-highlight">11.10%</strong></h1>
+        <p class="slider-text hidden-xs">
+            We provide an excellent service for all types of loans in
+            <br>
+            ahmedabad and offer service, advice and direction.
+        </p>
+        <a href="#" class="btn btn-default hidden-xs">View Products</a>-->
+        <!--</div>-->
+        <!-- /.slider-captions -->
+        <!--</div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+    </div>
+    <div class="rate-table">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="rate-counter-block">
+
+                        <div class="rate-box">
+                            <h1 class="loan-rate"><a href="Pdf/bonafideCertificate.pdf" target="_blank">Bonafide
+                                    Certificate</a> </h1>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="rate-counter-block">
+
+                        <div class="rate-box">
+                            <h1 class="loan-rate"><a href="Pdf/PDC.pdf" target="_blank">Permanent District Code</a>
+                            </h1>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="rate-counter-block">
+
+                        <div class="rate-box">
+                            <h1 class="loan-rate"><a href="Tender.html">Tenders</a></h1>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="rate-counter-block">
+
+                        <div class="rate-box">
+                            <h1 class="loan-rate"><a href="chrmsg.html">Chairperson's Message</a></h1>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Marqueeeeeee code -->
+    <!-- Marquee -->
+    <!-- <div class="rate-table">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div id="notification" class="rightJQ">
+                        <marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop();"
+                            onmouseout="this.start();">
+
+                            <a href="../Pdf/notice_07072026.pdf" class="linkText" target="_blank"
+                                rel="noopener noreferrer" style="color:#fff; white-space:nowrap; display:inline-block;">
+
+                                <strong>Notice:</strong> OMR Written Examination for the posts of <strong>Sanitary
+                                    Inspector</strong> and <strong>Junior Ophthalmic Technician</strong> (Notification
+                                No. 07 of 2025) scheduled on 08-07-2026 has been postponed and will now be held on
+                                09-07-2026. Admit Cards already issued shall remain valid.
+
+                            </a>
+
+                        </marquee>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <div class="section-space40">
+        <div class="container">
+            <h1>ANNOUNCEMENTS</h1>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 ">
+                    <div class="service-box">
+                        <div class="service-icon orange">
+                            <div class="front-content">
+                                <i class="fa icon-newspaper"></i>
+                                <h3>Whats New...</h3>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <h3>Whats New...</h3>
+                            <p> <a href="Whatsnew.html" class="btn-link white">Click here to view</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 ">
+                    <div class="service-box">
+                        <div class="service-icon green">
+                            <div class="front-content">
+                                <i class="icon-list  icon-4x icon-primary"></i>
+                                <h3>
+                                    Selection List
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <h3>
+                                Selection List
+                            </h3>
+                            <p> <a href="SelectionList.html" class="btn-link white"> Click here to view</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="service-box ">
+                        <div class="service-icon red">
+                            <div class="front-content">
+                                <i class="icon-documentation  icon-4x icon-primary"></i>
+                                <h3>Advertisement</h3>
+                            </div>
+                        </div>
+                        <div class="service-content">
+                            <h3>Advertisement</h3>
+                            <p> <a href="Advertisement.html" class="btn-link white">Click here to view</a></p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--<div class="container">
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="bg-white bg-boxshadow">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 nopadding col-xs-12">
+                            <div class="bg-white pinside60 number-block outline" id="whatsnew">
+                                <div class="mb20"><i class="icon-newspaper  icon-4x icon-primary"></i></div>
+                                <h3>Whats New...</h3>
+                                <a href="Whatsnew.html" class="btn-link">View</a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 nopadding col-xs-12">
+                            <div class="bg-white pinside60 number-block outline">
+                                <div class="mb20"><i class="icon-list  icon-4x icon-primary"></i></div>
+                                <h3>Selection List</h3>
+                                <a href="SelectionList.html" class="btn-link">View</a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12 nopadding col-xs-12">
+                            <div class="bg-white pinside60 number-block outline">
+                                <div class="mb20"><i class="icon-documentation  icon-4x icon-primary"></i></div>
+                                <h3>Advertisement</h3>
+                                <a href="Advertisement.html" class="btn-link">View</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    </div>
+    <div class="section-space10">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-sm-offset-2 col-sm-8">
+                    <div class="mb60 text-center section-title">
+                        <h1>We are Here to Help You</h1>
+                        <!--<p>Our mission is to deliver reliable, latest news and opinions.</p>-->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                        <div class="mb40"><i class="icon-calendar-3 icon-2x icon-primary"></i></div>
+                        <h2 class="capital-title">How to Apply?</h2>
+                        <p></p>
+                        <a href='../Pdf/Noticeregardingapplicationform_27012025195514_27012025.pdf'
+                            class="btn-link">Check Here</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                        <div class="mb40"><i class="icon-phone-call icon-2x icon-primary"></i></div>
+                        <h2 class="capital-title">Call us at </h2>
+                        <h1 class="text-big">Jammu:-0191-2461335 </h1>
+                        <p>ssbjk-grievance[at]jk[dot]gov[dot]in</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
+                        <div class="mb40"> <i class="icon-users icon-2x icon-primary"></i></div>
+                        <h2 class="capital-title">Call us at</h2>
+                        <h1 class="text-big"> Srinagar:- 0194-2435089 </h1>
+                        <p>ssbjk-grievance[at]jk[dot]gov[dot]in</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <!-- footer -->
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="widget-text">
+                        <!-- widget text -->
+                        <p></p>
+                        <div class="row">
+                            <div class="col-md-3 col-xs-6">
+                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i> </span
+                                        style='color: #ffffff;'>Head
+                                    Office Jammu </p>
+                                <div class="widget-footer mt10">
+                                    <ul class="listnone">
+                                        <li><a href="#">Services Selection Board</a></li>
+                                        <li><a href="#">Muthi, Akhnoor Road, Jammu.</a></li>
+                                        <!-- <li><a href="#">0191-2461346</a></li> -->
+                                        <li><a href="#">HelpLine No:-0191-2461335</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i>
+                                    </span style='color: #ffffff;'>Divisional Office Jammu </p>
+                                <div class="widget-footer mt10">
+                                    <ul class="listnone">
+                                        <li><a href="#">Services Selection Board,</a></li>
+                                        <li><a href="#">CPO Chowk, Panjtirthi, Jammu,</a></li>
+                                        <!-- <li><a href="#">Rail Head Complex, Jammu</a></li> -->
+                                        <!-- <li><a href="#">HelpLine No:-0191-22555721</a></li> -->
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i> </span
+                                        style='color: #ffffff;'>Head
+                                    Office Srinagar </p>
+                                <div class="widget-footer mt10">
+                                    <ul class="listnone">
+                                        <li><a href="#">Services Selection Board,</a></li>
+                                        <li><a href="#">Zum Zum Building Rambagh,</a></li>
+                                        <li><a href="#">Srinagar.</a></li>
+                                        <li><a href="#">0194-2433838</a></li>
+                                        <li><a href="#">HelpLine No:-0194-2435089</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-md-3 col-xs-6">
+                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i>
+                                    </span style='color: #ffffff;'>Divisional Office Srinagar </p>
+                                <div class="widget-footer mt10">
+                                    <ul class="listnone">
+                                        <li><a href="#">Services Selection Board,</a></li>
+                                        <li><a href="#">House No. 17, Ibrahim Colony, Lane 2</a></li>
+                                        <li><a href="#">Hyderpora, Srinagar.</a></li>
+                                        <li><a href="#">0194-2439015</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.widget text -->
+                    </div>
+
+                </div>
+            </div>
+            <div class="row align-items-center nicbackground">
+                <div class="col-lg-12 col-md-12">
+                    <div class="copyright">
+                        <p style="text-align:center; color:white">
+                            Developed By NIC
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- /.tiny footer -->
+    <!-- back to top icon -->
+    <a href="#0" class="cd-top" title="Go to top">Top</a>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!--<script src="js1/jquery.min.js"></script>-->
+    <script src="scripts/jquery_3.7.1.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!--<script src="js1/bootstrap.min.js"></script>-->
+    <link href="css1/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="js1/menumaker.js"></script>
+    <!-- animsition -->
+    <script type="text/javascript" src="js1/animsition.js"></script>
+    <script type="text/javascript" src="js1/animsition-script.js"></script>
+    <!-- sticky header -->
+    <script type="text/javascript" src="js1/jquery.sticky.js"></script>
+    <script type="text/javascript" src="js1/sticky-header.js"></script>
+    <!-- slider script -->
+    <script type="text/javascript" src="js1/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js1/slider-carousel.js"></script>
+    <script type="text/javascript" src="js1/service-carousel.js"></script>
+    <!-- Back to top script -->
+    <script src="js1/back-to-top.js" type="text/javascript"></script>
+</body>
+
+</html>

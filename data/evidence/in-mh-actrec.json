@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://www.actrec.gov.in/jobs",
+  "fetchedAt": "2026-09-25T03:32:42.499Z",
+  "sha256": "2fceb361c4453eac5a5500c72e5b8d96ebe5fc10efc4bf024110e76366eb2ccd",
+  "bytes": 62928,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.actrec.gov.in/sites/default/files/2026-09/FINAL%20ADVT-%20Senior%20Resident%20%28Transfusion%20Medicine%29FINAL.pdf",
+  "fetchedAt": "2026-09-25T03:32:43.309Z",
+  "sha256": "04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294",
+  "bytes": 488799,
+  "contentType": "application/pdf"
+ }
+]

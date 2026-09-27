@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+  "fetchedAt": "2026-09-25T16:58:20.884Z",
+  "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+  "bytes": 150466,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+  "fetchedAt": "2026-09-25T16:58:21.828Z",
+  "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+  "bytes": 49284,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-professor-law-5-vacancies/",
+  "fetchedAt": "2026-09-25T16:58:22.869Z",
+  "sha256": "9dc71c54590985fe17100df20aa6a3c4220e342bca119dcafe39b19398a7332f",
+  "bytes": 52396,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.15-Professor_Law.pdf",
+  "fetchedAt": "2026-09-25T16:58:23.776Z",
+  "sha256": "1f66a79ea7e5d1e15fb95a90c819085116874a37753d08d1dcf6b3a4fe5f1c0d",
+  "bytes": 204659,
+  "contentType": "application/pdf"
+ }
+]

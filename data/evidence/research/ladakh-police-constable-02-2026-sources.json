@@ -1,0 +1,17 @@
+{
+  "sourceId": "in-la-police",
+  "capturedOn": "2026-09-25",
+  "status": "draft-collection-founder-review-required",
+  "documents": [
+    { "url": "https://police.ladakh.gov.in/pages/recruitment.html", "file": "ladakh-police-recruitment-2026.html", "sha256": "c09eaaa740baa4258afcc02a4a65572090ebac0f2c791175ad33a8ba48e98bb7" },
+    { "url": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf", "file": "ladakh-police-constable-board-2026.pdf", "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065" },
+    { "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/08/202608251066662538.pdf", "file": "ladakh-police-constable-2026.pdf", "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065", "note": "Administration's separately hosted copy is byte-identical to Police Board copy; same opportunity, not second cycle." },
+    { "url": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf", "file": "ladakh-police-no-extension-2026.pdf", "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2" },
+    { "url": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf", "file": "ladakh-police-pst-postponement-2026.pdf", "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02" },
+    { "url": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf", "file": "ladakh-police-standing-order-2026.pdf", "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f" },
+    { "url": "https://police.ladakh.gov.in/robots.txt", "file": "ladakh-police-robots-404.html", "sha256": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f", "httpStatus": 404, "note": "No published robots disallow rule at this host." }
+  ],
+  "extraction": "data/extractions/ladakh-police-constable-02-2026.json",
+  "interpretation": "One application cycle for 331 posts. Application closed 15 September 2026, date precision only. 22 September notice postpones physical tests for specified candidates from 24 to 26 September at NDS Stadium Leh, without reopening or cancelling applications. Valid Ladakh domicile certificate required. No citizenship or formal language-proficiency rule identified in OCR/manual research of scanned documents; written paper bilingual English/Hindi. Founder must visually verify scans.",
+  "review": ["Founder visual review of scanned originals and standing order", "Nationality and appointment permission for international applicants", "District/border-village domicile proof and age relaxations", "Remaining Ladakh Police and Administration sources"]
+}

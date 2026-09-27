@@ -1,0 +1,518 @@
+{
+  "researchDate": "2026-09-27",
+  "notPublishedEligibility": true,
+  "sourceCountIsNotCycleCount": true,
+  "translationAcceptance": "pending-human-review",
+  "sources": [
+    {
+      "sourceId": "ar-concursar-public-recruitment",
+      "country": "AR",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "museum executive-function selection; permanent or fixed-term tenure not established",
+      "summary": "Retained 2026 museum call covers five executive-function posts. Registration ran 24 August 10:00 to 7 September 17:00; official timezone unverified. Museo Historico Nacional bases require Argentine nationality by birth, naturalisation or option, with a reasoned Chief of Cabinet exception. Foreign applicants need evidence that an exception applies; open public/private competition does not remove nationality, degree or experience conditions. Mandatory reading/comprehension of at least one role-relevant foreign language is stated, without a named language, CEFR level or certificate threshold. General digital FAQ and current original-document instructions require reconciliation.",
+      "unresolved": "No adapter or reviewed cycle. Other four museum bases and amendments remain unretained. Resolve current-versus-general document instructions, citizenship exception authority, appointment duration, fees, timezone, selection venues and complete role requirements. Five posts do not automatically equal five cycles; applicant-result registers are outside opportunity collection.",
+      "internationalApplicantAssessment": "needs verification: explicit nationality condition with authorised exception, not blanket foreign-applicant permission",
+      "languageAssessment": "mandatory role-relevant foreign-language reading/comprehension; language and formal level unspecified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "ar-concursar-public-recruitment",
+          "label": "authority-directory",
+          "url": "https://www.argentina.gob.ar/desregulacion/transformacion-del-estado-y-funcion-publica/desarrollo-y-modernizacion-del-empleo-26",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-authority-directory-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.argentina.gob.ar/desregulacion/transformacion-del-estado-y-funcion-publica/desarrollo-y-modernizacion-del-empleo-26",
+            "fetchedAt": "2026-09-26T23:19:36.083Z",
+            "sha256": "9ce131ca87ab5fc6e88b5178dae5f2f32bb6dab4e39f9b0d4d415d1f315d2f21",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 35809
+          }
+        },
+        {
+          "sourceId": "ar-concursar-public-recruitment",
+          "label": "museum-call-2026",
+          "url": "https://www.argentina.gob.ar/desregulacion/transformacion-del-estado-y-funcion-publica/desarrollo-y-modernizacion-del-empleo-26-0",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-museum-call-2026-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.argentina.gob.ar/desregulacion/transformacion-del-estado-y-funcion-publica/desarrollo-y-modernizacion-del-empleo-26-0",
+            "fetchedAt": "2026-09-26T23:19:39.093Z",
+            "sha256": "ff3e1ff05ce39e3987a6e12ad843910408517d71e216b834a5176c05239237ff",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 37311
+          }
+        },
+        {
+          "sourceId": "ar-concursar-public-recruitment",
+          "label": "museum-historico-2026-bases",
+          "url": "https://www.argentina.gob.ar/sites/default/files/if-2026-74073682-apn-dpspmdyte_historico_nacional.pdf",
+          "format": "PDF",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-museum-historico-2026-bases-2026-09-27.pdf",
+          "evidence": {
+            "url": "https://www.argentina.gob.ar/sites/default/files/if-2026-74073682-apn-dpspmdyte_historico_nacional.pdf",
+            "fetchedAt": "2026-09-26T23:19:42.412Z",
+            "sha256": "185c77cf3fdb049a499e4a7db7c3a3cb86971b6c9db6d59e3acc2c1d4663e1bb",
+            "contentType": "application/pdf",
+            "bytes": 813159
+          }
+        },
+        {
+          "sourceId": "ar-concursar-public-recruitment",
+          "label": "general-faq",
+          "url": "https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/concursar/concursar/preguntas-frecuentes",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-ar-concursar-public-recruitment-general-faq-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/concursar/concursar/preguntas-frecuentes",
+            "fetchedAt": "2026-09-26T23:19:44.950Z",
+            "sha256": "8e3854045e7fab874d6d552d121a677bbdaa09f934f6d70d57f39ec1218307f3",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 48773
+          }
+        }
+      ]
+    },
+    {
+      "sourceId": "pe-servir-talento-peru",
+      "country": "PE",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "public jobs and professional/preprofessional practices; employer-specific regimes",
+      "summary": "Retained SERVIR campaign and service pages refer to public-sector jobs and professional/preprofessional practices. Employers register vacancies; jobseekers follow individual employer notices. SERVIR employer page separates Civil Service Law, CAS and practice routes. Practice participation does not guarantee a government appointment or vocational qualification. Publication duration is separate from application dates. Foreign-citizen eligibility and formal language levels remain unverified; Spanish interface cannot establish a proficiency requirement.",
+      "unresolved": "No adapter or reviewed cycle. Retained authority referral points to app.servir.gob.pe/DifusionOfertasExterno/faces/consultas/ofertas_laborales.xhtml; live application data and employer notices still require collection. Verify nationality, residence, education equivalence, tenure, language, application window/timezone, fees and venue per notice. Posting obligation is not a completeness audit.",
+      "internationalApplicantAssessment": "needs verification: no notice-level foreign-applicant rule retained",
+      "languageAssessment": "formal language requirement unverified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "pe-servir-talento-peru",
+          "label": "authority-campaign",
+          "url": "https://www.gob.pe/institucion/servir/campa%C3%B1as/4782-talento-peru",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-pe-servir-talento-peru-authority-campaign-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.gob.pe/institucion/servir/campa%C3%B1as/4782-talento-peru",
+            "fetchedAt": "2026-09-26T23:19:37.133Z",
+            "sha256": "26c4d9b33693ce6b9cfe3c96e534dd5985ba096e041135ab2c19f8902e6fc23a",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 76243
+          }
+        },
+        {
+          "sourceId": "pe-servir-talento-peru",
+          "label": "authority-service-referral",
+          "url": "https://www.gob.pe/institucion/servir/pages/10009-acceder-a-la-bolsa-de-trabajo-y-practicas-en-el-estado",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-pe-servir-talento-peru-authority-service-referral-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.gob.pe/institucion/servir/pages/10009-acceder-a-la-bolsa-de-trabajo-y-practicas-en-el-estado",
+            "fetchedAt": "2026-09-26T23:19:37.982Z",
+            "sha256": "85cb003118a1c8892af8df06274e166b6b0c507d054f6fb4cb0256947279c382",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 34113
+          }
+        },
+        {
+          "sourceId": "pe-servir-talento-peru",
+          "label": "servir-employer-routes",
+          "url": "https://www.gob.pe/53357",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-pe-servir-talento-peru-servir-employer-routes-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.gob.pe/53357",
+            "fetchedAt": "2026-09-26T23:19:38.658Z",
+            "sha256": "f1c5111956edc53c122a53e20ced38bd383a54d400cb14a010db90752267fad6",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 28013
+          }
+        }
+      ]
+    },
+    {
+      "sourceId": "ec-encuentraempleo-public-contests",
+      "country": "EC",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "public merit/opposition selection within a mixed public/private employment service; tenure unverified",
+      "summary": "Official-reader observations identify Ministry employment service and a public merit/opposition route. Exact-byte requests failed. Selection authority page is an administrative human-resources login, not a public applicant catalogue. Refugee/migrant services and private vacancies cannot prove eligibility for public service. Current foreign-citizen permission and language levels remain unverified. Reader notes newer selection regulations, so historical FAQ rules need reconciliation before extraction.",
+      "unresolved": "All three exact-byte requests failed at robots access. No retained original, adapter or reviewed cycle. Obtain current official applicant catalogue, notice originals, governing amendments and public/private classification. Verify nationality, residence, language, tenure, qualifications, dates/timezones, fees and actual selection venues; never infer application status from a login screen.",
+      "internationalApplicantAssessment": "needs verification: official-reader discovery only; no retained notice",
+      "languageAssessment": "formal language requirement unverified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "ec-encuentraempleo-public-contests",
+          "label": "authority-home",
+          "url": "https://encuentraempleo.trabajo.gob.ec/",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-authority-home-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.650Z",
+          "error": "robots.txt unreachable at https://encuentraempleo.trabajo.gob.ec: fetch failed"
+        },
+        {
+          "sourceId": "ec-encuentraempleo-public-contests",
+          "label": "selection-authority",
+          "url": "https://selecciondepersonal.trabajo.gob.ec/",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-selection-authority-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.650Z",
+          "error": "robots.txt unreachable at https://selecciondepersonal.trabajo.gob.ec: fetch failed"
+        },
+        {
+          "sourceId": "ec-encuentraempleo-public-contests",
+          "label": "authority-faq",
+          "url": "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/preguntasFrecuentes.jsf",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-authority-faq-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:42.225Z",
+          "error": "robots.txt unreachable at https://encuentraempleo.trabajo.gob.ec: fetch failed"
+        }
+      ]
+    },
+    {
+      "sourceId": "uy-onsc-uruguay-concursa",
+      "country": "UY",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "multiple public employment/traineeship contracts; Soriano masonry precedence list described as contracted",
+      "summary": "Retained government referral distinguishes central and employer-managed recruitment and multiple contract routes. Official-reader Soriano masonry call 8184/2026 states natural or legal Uruguayan citizenship; original vacancy retention failed, so this remains provisional. Legal citizenship is distinct from foreign nationality alone. Retained citizenship service requires Spanish understanding/expression for foreign-language applicants, without CEFR level; that is a citizenship procedure, not a universal job exam requirement. Precedence lists do not guarantee immediate appointment.",
+      "unresolved": "Soriano original request failed because robots response was non-text. No adapter or reviewed cycle. Retain current notice/bases and amendments before accepting indexed 24 September–8 October dates or citizenship/contract terms. Relative cached opening labels are not current status. Verify all application, selection and appointment conditions, fees, cutoff timezone and venues. Citizenship service is supporting context only.",
+      "internationalApplicantAssessment": "needs verification: reader-only citizenship condition; legal-citizenship route must be assessed separately",
+      "languageAssessment": "Spanish comprehension/expression in citizenship procedure; no universal recruitment level inferred",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "uy-onsc-uruguay-concursa",
+          "label": "soriano-masonry-8184-2026",
+          "url": "https://www.uruguayconcursa.gub.uy/llamado/43217",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-soriano-masonry-8184-2026-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.651Z",
+          "error": "robots.txt unreachable at https://www.uruguayconcursa.gub.uy: robots.txt returned non-text content"
+        },
+        {
+          "sourceId": "uy-onsc-uruguay-concursa",
+          "label": "government-referral",
+          "url": "https://www.gub.uy/tramites/uruguay-concursa",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-government-referral-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.gub.uy/tramites/uruguay-concursa",
+            "fetchedAt": "2026-09-26T23:19:36.069Z",
+            "sha256": "28a695723c2c20caf0e7b23565db866cf271d83d29eed58068a32ee0fd40c1d4",
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 41261
+          }
+        },
+        {
+          "sourceId": "uy-onsc-uruguay-concursa",
+          "label": "legal-citizenship-service",
+          "url": "https://www.gub.uy/tramites/carta-ciudadania",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-uy-onsc-uruguay-concursa-legal-citizenship-service-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.gub.uy/tramites/carta-ciudadania",
+            "fetchedAt": "2026-09-26T23:19:37.931Z",
+            "sha256": "2ccd7a6962cf25eafa7cf95f5bef88bd3d6f527f6c1f3c93a42010c279447022",
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 50921
+          }
+        }
+      ]
+    },
+    {
+      "sourceId": "cr-dgsc-public-recruitment",
+      "country": "CR",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "civil-service applicant and eligible registers plus employer vacancies; tenure per role unresolved",
+      "summary": "Retained DGSC pages separate applicant registers from eligible registers after suitability assessment. Eligible registration creates participation expectations, not guaranteed employment. Vacancy page includes current cards and extensive historical hidden notices; raw DOM entries must not all become current cycles. FAQ assigns teaching processes to Ministry of Public Education and allows role-specific complementary knowledge/language checks. No universal CEFR requirement or foreign-citizen permission verified. Work locations remain distinct from selection venues.",
+      "unresolved": "No adapter or reviewed cycle. Reconcile rendered current vacancies against historical modals and institution-specific notices. DGSC route is not complete government employer coverage; teaching and other regimes require separate authorities. Verify notice-specific nationality, residence, age, qualifications, language, tenure, dates/timezones, fees and venues.",
+      "internationalApplicantAssessment": "needs verification: no notice-level foreign-applicant permission established",
+      "languageAssessment": "role-specific language knowledge may be tested; no universal named language or certificate level verified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "cr-dgsc-public-recruitment",
+          "label": "authority-faq",
+          "url": "https://www.dgsc.go.cr/pregFrecuentes.html",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-authority-faq-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.dgsc.go.cr/pregFrecuentes.html",
+            "fetchedAt": "2026-09-26T23:19:45.476Z",
+            "sha256": "2f1543b8d1c18880d6c6c1a1b75d91a15bb4eedbe4a738b4dfde0f6df5ef64e0",
+            "contentType": "text/html",
+            "bytes": 59821
+          }
+        },
+        {
+          "sourceId": "cr-dgsc-public-recruitment",
+          "label": "applicant-eligible-registers",
+          "url": "https://piep.dgsc.go.cr/",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-applicant-eligible-registers-2026-09-27.html",
+          "evidence": {
+            "url": "https://piep.dgsc.go.cr/",
+            "fetchedAt": "2026-09-26T23:19:46.672Z",
+            "sha256": "80e33a1418ae475982381e529fcb0f953c8e7816cddfc236dbf6946a110bd66a",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 56528
+          }
+        },
+        {
+          "sourceId": "cr-dgsc-public-recruitment",
+          "label": "vacancy-register",
+          "url": "https://vacantes.dgsc.go.cr/",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-cr-dgsc-public-recruitment-vacancy-register-2026-09-27.html",
+          "evidence": {
+            "url": "https://vacantes.dgsc.go.cr/",
+            "fetchedAt": "2026-09-26T23:20:11.177Z",
+            "sha256": "7bb98ee070d6de12ea837f6c3c4c504d41dbaae30f2464fffbc034c6edf62476",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 3564151
+          }
+        }
+      ]
+    },
+    {
+      "sourceId": "do-map-concursa",
+      "country": "DO",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "immediate environmental-educator vacancy versus future eligible registers; definitive tenure unverified",
+      "summary": "Retained environmental-educator September 2026 notice explicitly requires Dominican nationality, relevant degree and one year of experience. External competition does not mean international eligibility. Documents accepted 22–28 September, 08:00–16:00; timezone not printed. Receipt confirmation precedes jury admission; fuller bases are available only after admission. Work address is not an exam venue. Separate disability-inclusive Labour Relations Analyst notice creates an eligible register, also requires Dominican nationality, and closed 3 August at 15:00. No formal language level established.",
+      "unresolved": "No adapter or reviewed cycle. Preserve independent immediate-vacancy and future-register identities; portal result/seat counts are not application-cycle totals. Confirm amendments and tenure, current notice hierarchy, fees and official cutoff timezone. Full selection bases are available only after admission and remain an evidence gap. Nationality conditions apply to these notices, not every public-sector role.",
+      "internationalApplicantAssessment": "does not match the explicit nationality condition for applicants without Dominican nationality in the two retained notices; other conditions and later stages still require review",
+      "languageAssessment": "no formal proficiency level established in retained notices",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "do-map-concursa",
+          "label": "public-contests",
+          "url": "https://map.gob.do/Concursa/",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-do-map-concursa-public-contests-2026-09-27.html",
+          "evidence": {
+            "url": "https://map.gob.do/Concursa/",
+            "fetchedAt": "2026-09-26T23:19:36.383Z",
+            "sha256": "ab67368d6e4455a6c5355b8ecde06794d408071f02fe7b89413d5aa505c8465b",
+            "contentType": "text/html; charset=utf-8",
+            "bytes": 73415
+          }
+        },
+        {
+          "sourceId": "do-map-concursa",
+          "label": "inclusive-register-2026",
+          "url": "https://map.gob.do/2026/07/16/el-map-convoca-a-las-personas-con-discapacidad-al-primer-concurso-inclusivo-para-registro-de-elegibles/",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-do-map-concursa-inclusive-register-2026-2026-09-27.html",
+          "evidence": {
+            "url": "https://map.gob.do/2026/07/16/el-map-convoca-a-las-personas-con-discapacidad-al-primer-concurso-inclusivo-para-registro-de-elegibles/",
+            "fetchedAt": "2026-09-26T23:19:38.214Z",
+            "sha256": "ad36a5f8dc053b28d4a209ce8e951fb5abc823a765c56b54391576ab40a45a43",
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 168762
+          }
+        },
+        {
+          "sourceId": "do-map-concursa",
+          "label": "environmental-educator-september-2026",
+          "url": "https://map.gob.do/Concursa/Concurso/ObtenerArchivoDePublicacion?archivo=02ca7e17ce8349448c65949fe1beba99.pdf",
+          "format": "PDF",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-do-map-concursa-environmental-educator-september-2026-2026-09-27.pdf",
+          "evidence": {
+            "url": "https://map.gob.do/Concursa/Concurso/ObtenerArchivoDePublicacion?archivo=02ca7e17ce8349448c65949fe1beba99.pdf",
+            "fetchedAt": "2026-09-26T23:23:50.491Z",
+            "sha256": "a79109620c0059bee5ad374f8ae267af1754145b3e7c3b220c5d52d3d1c34747",
+            "contentType": "application/pdf",
+            "bytes": 234712
+          }
+        },
+        {
+          "sourceId": "do-map-concursa",
+          "label": "inclusive-labour-relations-register-2026",
+          "url": "https://map.gob.do/Concursa/Concurso/ObtenerArchivoDePublicacion?archivo=68bfc53f839c4c9e81c24f41019080ba.pdf",
+          "format": "PDF",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-do-map-concursa-inclusive-labour-relations-register-2026-2026-09-27.pdf",
+          "evidence": {
+            "url": "https://map.gob.do/Concursa/Concurso/ObtenerArchivoDePublicacion?archivo=68bfc53f839c4c9e81c24f41019080ba.pdf",
+            "fetchedAt": "2026-09-26T23:23:51.198Z",
+            "sha256": "539cd80fc831ef511f319efaaa303adb7a4155d239496d41712153af910a2941",
+            "contentType": "application/pdf",
+            "bytes": 245187
+          }
+        }
+      ]
+    },
+    {
+      "sourceId": "py-mef-paraguay-concursa",
+      "country": "PY",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "public appointment competitions and restricted internal promotion; current tenure unverified",
+      "summary": "Retained MEF authority page identifies Paraguay Concursa. Retained employer register separates public opposition from internal promotion. Its June 2026 internal-promotion publication window is 26–30 June; applications ran 2–8 July, a different window now closed. Internal competitions cannot become general public applications. INAPP training for existing officials is not proof of an open vocational qualification. Foreign-applicant permission and formal Spanish/Guarani levels remain unverified.",
+      "unresolved": "Central portal exact-byte request failed at robots fetch. No adapter or reviewed cycle. Retain central listings and original employer bases/amendments. Keep publication and application dates separate, historical entries historical, and internal eligibility distinct. Verify nationality, residence, education, language, tenure, fees, timezone and venues; MEF alone is not complete national authority coverage.",
+      "internationalApplicantAssessment": "needs verification: internal promotion and public opposition have different participant rules",
+      "languageAssessment": "formal Spanish/Guarani proficiency requirements unverified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "py-mef-paraguay-concursa",
+          "label": "authority-referral",
+          "url": "https://www.mef.gov.py/es/dependencias/viceministerio-de-capital-humano-y-gestion-organizacional/inapp",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-authority-referral-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.mef.gov.py/es/dependencias/viceministerio-de-capital-humano-y-gestion-organizacional/inapp",
+            "fetchedAt": "2026-09-26T23:19:37.472Z",
+            "sha256": "cccb174f26a221f66a20eb31f88c30ecedd5f4462af932a36d891bac54714116",
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 53282
+          }
+        },
+        {
+          "sourceId": "py-mef-paraguay-concursa",
+          "label": "employer-contests",
+          "url": "https://www.mef.gov.py/en/institucional/concursos",
+          "format": "HTML",
+          "status": "retained",
+          "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-employer-contests-2026-09-27.html",
+          "evidence": {
+            "url": "https://www.mef.gov.py/en/institucional/concursos",
+            "fetchedAt": "2026-09-26T23:19:38.372Z",
+            "sha256": "48116ab26721378108d4a6b3ac1f23cd54cad3ead8b8ace4e41feacadefa73ff",
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 37359
+          }
+        },
+        {
+          "sourceId": "py-mef-paraguay-concursa",
+          "label": "public-portal",
+          "url": "https://www.paraguayconcursa.gov.py/",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-public-portal-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.651Z",
+          "error": "robots.txt unreachable at https://www.paraguayconcursa.gov.py: fetch failed"
+        }
+      ]
+    },
+    {
+      "sourceId": "gt-onsec-guatempleo",
+      "country": "GT",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "government vacancy service identified through historical official referral; current appointment terms unverified",
+      "summary": "Official-reader indexing identifies ONSEC 2019 anniversary publication referring to GUATEMPLEO for CV, vacancy application and status. This historical referral does not establish a current 2026 intake. ONSEC homepage, portal and historical publication exact-byte requests all failed HTTP 403 at robots access. Foreign-citizen permission, language levels and current appointment types remain unverified; registration ability is not eligibility evidence.",
+      "unresolved": "All three requests failed; no retained original, adapter or reviewed cycle. Obtain current official portal referral and notice/bases, resolve permitted access, then verify nationality, residence, age, qualifications, language, tenure, window/timezone, fees and venues. Historical publication date cannot be replaced by search-engine crawl date. Current notice access remains unresolved.",
+      "internationalApplicantAssessment": "needs verification: historical authority discovery only",
+      "languageAssessment": "formal language requirement unverified",
+      "threeStageEligibility": {
+        "canApply": "needs verification: complete criteria not accepted",
+        "canEnterSelection": "needs verification: admission conditions not accepted",
+        "canObtainJobOrLicence": "needs verification: resulting appointment conditions not accepted"
+      },
+      "documents": [
+        {
+          "sourceId": "gt-onsec-guatempleo",
+          "label": "public-portal",
+          "url": "https://guatempleo.siarh.gob.gt/",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-gt-onsec-guatempleo-public-portal-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.651Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://guatempleo.siarh.gob.gt"
+        },
+        {
+          "sourceId": "gt-onsec-guatempleo",
+          "label": "authority-home",
+          "url": "https://www.onsec.gob.gt/",
+          "format": "HTML",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-gt-onsec-guatempleo-authority-home-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:31.651Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.onsec.gob.gt"
+        },
+        {
+          "sourceId": "gt-onsec-guatempleo",
+          "label": "historical-authority-referral-2019",
+          "url": "https://www.onsec.gob.gt/w1/wp-content/uploads/2019/10/Revista-ONSEC-Aniversario-2019-FINAL.pdf",
+          "format": "PDF",
+          "status": "failed",
+          "path": "data/evidence/research/latam67-gt-onsec-guatempleo-historical-authority-referral-2019-2026-09-27-failure.json",
+          "attemptedAt": "2026-09-26T23:19:35.837Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.onsec.gob.gt"
+        }
+      ]
+    }
+  ]
+}

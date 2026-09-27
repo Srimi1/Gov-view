@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://mirsac.mizoram.gov.in/all-news-notices/",
+  "fetchedAt": "2026-09-25T14:46:11.465Z",
+  "sha256": "6847333e95ee9eb751ff8e6f242abcaef1699b668629ad851240eda9d12f67d4",
+  "bytes": 196879,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://mirsac.mizoram.gov.in/recruitment-for-group-d-provisional-employee-2-posts/",
+  "fetchedAt": "2026-09-25T14:46:12.483Z",
+  "sha256": "74a58d53649ea739a27f9465b3c4aa70c48b50e8a9a88bdb8c516d548e867d23",
+  "bytes": 197807,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://mirsac.mizoram.gov.in/wp-content/uploads/2026/09/MIRSAC-Recruitment-2026.pdf",
+  "fetchedAt": "2026-09-25T14:46:13.329Z",
+  "sha256": "59073874d2d59e296fb23cf1169ba14e5007e37a2b2bf50b59603e76bbce6be8",
+  "bytes": 823997,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mirsac.mizoram.gov.in/wp-content/uploads/2026/09/Application-Form-for-Group-D-PE_MIRSAC-.pdf",
+  "fetchedAt": "2026-09-25T14:46:14.045Z",
+  "sha256": "24ea238b86ba2b28e0736f6000b84cf719c6ae2bd6f02bf8c1a9bde62ee81620",
+  "bytes": 334802,
+  "contentType": "application/pdf"
+ }
+]

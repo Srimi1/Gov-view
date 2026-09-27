@@ -1,0 +1,215 @@
+{
+  "researchDate": "2026-09-27",
+  "notPublishedEligibility": true,
+  "sourceCountIsNotCycleCount": true,
+  "sources": [
+    {
+      "sourceId": "in-iitm-gate",
+      "pathway": "admission",
+      "status": "research-only-awaiting-review",
+      "appointmentType": "not applicable to entrance/admission; downstream employment requires its own cycle",
+      "summary": "GATE 2027: foreign nationals may apply and sit the examination subject to academic criteria. Centres are within India only; travel is the applicant’s responsibility. Foreign-registration instructions require the foreign passport at examination entry. Question-paper language is English; no formal proficiency level was verified. Scores support postgraduate admission and some PSU recruitment, but neither admission nor a government job is guaranteed. Each institution/employer sets resulting eligibility. Current date table shows 2 September 2026 opening, 27 September regular closing and 5 October late-fee closing; these are date-only observations, not verified cutoff times.",
+      "unresolved": "No adapter or reviewed application cycle. Foreign-passport registration instructions are stricter than the FAQ’s broader photo-ID examples and need reconciliation. Original brochure, live deadline notices, fees, institution-specific admission/PSU nationality rules and published venues need review; no cutoff time or timezone inferred.",
+      "documents": [
+        {
+          "url": "https://gate2027.iitm.ac.in/",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-home-2026-09-27.html",
+          "status": "retained",
+          "sha256": "10d6b5f67f0f4c426af8fc5366d6e2265d9b5b889c367c83053805efd8c197fa",
+          "fetchedAt": "2026-09-26T22:49:14.985Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://gate2027.iitm.ac.in/eligibility_criteria",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-eligibility-2026-09-27.html",
+          "status": "retained",
+          "sha256": "6036a5e81aae0b41570be8152adf90bc0e916a70a57c4b248e6fec91926f165a",
+          "fetchedAt": "2026-09-26T22:49:15.454Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://gate2027.iitm.ac.in/faqs",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-faq-2026-09-27.html",
+          "status": "retained",
+          "sha256": "b4f3ca519875e012bc8778dee7d0038e0f702cdb529c48946ac2590847d1536e",
+          "fetchedAt": "2026-09-26T22:49:16.563Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://gate2027.iitm.ac.in/question_paper_pattern",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-pattern-2026-09-27.html",
+          "status": "retained",
+          "sha256": "321b15d468adafa80eb4cdafcb8518d2ca2b47898bee467e1b2e48b8259710d9",
+          "fetchedAt": "2026-09-26T22:49:17.472Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://gate2027.iitm.ac.in/important_dates",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-dates-2026-09-27.html",
+          "status": "retained",
+          "sha256": "8a80f7e8d1fad552bc5de439574dd0473189b8e377dea95b687874ab99f563b5",
+          "fetchedAt": "2026-09-26T22:49:18.333Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://gate2027.iitm.ac.in/guideline/",
+          "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-foreign-registration-2026-09-27.html",
+          "status": "retained",
+          "sha256": "d29156751f198916a2626f7749b2e564690510ea1e3d7b5a611be20ab83dab47",
+          "fetchedAt": "2026-09-26T22:49:19.422Z",
+          "format": "HTML"
+        }
+      ]
+    },
+    {
+      "sourceId": "in-iitkgp-jam",
+      "pathway": "admission",
+      "status": "research-only-awaiting-review",
+      "appointmentType": "not applicable to entrance/admission; downstream employment requires its own cycle",
+      "summary": "JAM 2027 examination is open to Indian and foreign nationals with completed undergraduate study or final-year qualifying study. Examination centres are in India. Brochure v2 distinguishes exam eligibility from admission: its admission application clause expressly includes foreign nationals with Indian degrees, subject to admitting-institute policy; foreign-degree admission needs verification. Official overview describes English as programme instruction medium; exam language and a formal proficiency level were not verified. Home and brochure v2 show 11 September–19 October 2026 registration, without a verified cutoff time. This is postgraduate admission, not a government appointment.",
+      "unresolved": "No adapter or reviewed cycle. General nationality wording cannot override the Indian-degree admission clause. Institute-specific foreign-degree routes, English requirements, exact cutoff/timezone, fees, degree-subject requirements, result-sharing admission applications and later corrections need review. Brochure v2 retained; FAQ contains application-correction statements needing reconciliation.",
+      "documents": [
+        {
+          "url": "https://jam.iitkgp.ac.in/",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-home-2026-09-27.html",
+          "status": "retained",
+          "sha256": "bea4b4da2e9bc60ec9fe93b17380054c43f27c2569ba50b7f3703bbb869bfd65",
+          "fetchedAt": "2026-09-26T22:49:14.322Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/exam-eligibilityreq.html",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-eligibility-2026-09-27.html",
+          "status": "retained",
+          "sha256": "36d7aebaf0c04a035f8f0819fd16a90e564a94d3906b08194a476447bba9993a",
+          "fetchedAt": "2026-09-26T22:49:15.369Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/faq.html",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-faq-2026-09-27.html",
+          "status": "retained",
+          "sha256": "9e23d06e1862c9442c4db4d17527b08551c3457240a00f6a6930e2a417aa5b09",
+          "fetchedAt": "2026-09-26T22:49:16.316Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/download.html",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-download-2026-09-27.html",
+          "status": "retained",
+          "sha256": "b57a5204a80d859068b2fe423229f51366e8084f8aaf2d70d5dd6fa521acc0d4",
+          "fetchedAt": "2026-09-26T22:50:18.954Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/about.html",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-about-2026-09-27.html",
+          "status": "retained",
+          "sha256": "f7ceec7545cb89fad3d749a2f5362b5898d49249d52b5dac5f5fad10edbc02c0",
+          "fetchedAt": "2026-09-26T22:50:19.953Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/test-schedule.html",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-schedule-2026-09-27.html",
+          "status": "retained",
+          "sha256": "ae64a7a2b01789a0a4a6a081d8f5670f805788de820935446305090265fa8471",
+          "fetchedAt": "2026-09-26T22:50:20.952Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://jam.iitkgp.ac.in/docs/Info_Brochure_v2.pdf",
+          "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-brochure-v2-2026-09-27.pdf",
+          "status": "retained",
+          "sha256": "83aab610ce5944c08868b62d8d5202fc7f2eea0d066877f1f193bc57a285c128",
+          "fetchedAt": "2026-09-26T22:50:52.088Z",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "sourceId": "in-nta-jee-main",
+      "pathway": "admission",
+      "status": "research-only-awaiting-review",
+      "appointmentType": "not applicable to entrance/admission; downstream employment requires its own cycle",
+      "summary": "Retained JEE (Main) 2026 bulletin covers engineering, architecture and planning entrance, not a government job. It recognizes specified foreign school qualifications and references foreign applicants, but this alone does not establish every foreign citizen’s admission route. OCI candidates have separately stated quota provisions; nationality, OCI and overseas education must not be merged. Examination has 13 language options with centre restrictions; English is available in India and abroad. No formal proficiency level verified. 2026 qualifying-school years and institution-specific admission conditions must not be rolled into a 2027 application cycle.",
+      "unresolved": "No adapter or reviewed cycle. General foreign-national application permission needs further official clarification; JEE Advanced, JoSAA, DASA and each institution have distinct eligibility and counselling rules. Current registration notices, fees, full language/centre table, exact deadlines and 2027 edition remain unresolved.",
+      "documents": [
+        {
+          "url": "https://jeemain.nta.nic.in/information-bulletin/",
+          "path": "data/evidence/research/india65-in-nta-jee-main-bulletin-index-2026-09-27.html",
+          "status": "retained",
+          "sha256": "fc0f69792bd862dc0511bb3e1d891b07687675125d42f82cb1aa0adbc9ebd0ae",
+          "fetchedAt": "2026-09-26T22:49:14.233Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/11/202511021649722475.pdf",
+          "path": "data/evidence/research/india65-in-nta-jee-main-bulletin-2026-2026-09-27.pdf",
+          "status": "retained",
+          "sha256": "b18d5d608dda0a274eaa1bcaa4127e0ab7e49d2fd0e78840bd9c96707400960e",
+          "fetchedAt": "2026-09-26T22:49:15.774Z",
+          "format": "PDF"
+        }
+      ]
+    },
+    {
+      "sourceId": "in-nta-cuet-ug",
+      "pathway": "admission",
+      "status": "research-only-awaiting-review",
+      "appointmentType": "not applicable to entrance/admission; downstream employment requires its own cycle",
+      "summary": "Retained CUET (UG) 2026 bulletin covers undergraduate admissions. It recognizes specified equivalent foreign qualifications and mentions foreign candidates when selecting cities; this is not verified universal foreign-national admission permission. Each university sets programme qualifications, subject combinations and applicable age/other rules. Question papers offer 13 language mediums; selected medium and tested language subjects are separate choices. No formal proficiency level verified. Appearance or score alone does not entitle admission. This is an education pathway, not government recruitment; the 2026 bulletin does not establish a 2027 window.",
+      "unresolved": "No adapter or reviewed cycle. CUET index exact-byte access failed while fetching robots.txt; linked 2026 PDF retained separately. University-specific foreign-admission/exemption routes, current public notices, subject-language requirements, fees, deadlines and later editions remain gaps. Successful PDF research is not a connected or validated collector.",
+      "documents": [
+        {
+          "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+          "path": "data/evidence/research/india65-in-nta-cuet-ug-bulletin-2026-2026-09-27.pdf",
+          "status": "retained",
+          "sha256": "089251af8851a575d97565162aeb777a623849fbde2495e52e40a53d6bfedbc7",
+          "fetchedAt": "2026-09-26T22:49:16.465Z",
+          "format": "PDF"
+        },
+        {
+          "url": "https://cuet.nta.nic.in/information-bulletin/",
+          "path": "data/evidence/research/india65-in-nta-cuet-ug-bulletin-index-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://cuet.nta.nic.in: fetch failed"
+        }
+      ]
+    },
+    {
+      "sourceId": "in-nta-neet-ug",
+      "pathway": "admission",
+      "status": "research-only-awaiting-review",
+      "appointmentType": "not applicable to entrance/admission; downstream employment requires its own cycle",
+      "summary": "Retained NEET (UG) 2026 bulletin explicitly permits Indian nationals, NRIs, OCI and foreign nationals to appear, subject to qualifying conditions. Admission for foreign candidates remains subject to government, state, institution and counselling rules; nationality documentation is required. Thirteen question-paper mediums have centre restrictions. Qualifying education includes English alongside required science subjects; no CEFR or other formal proficiency level verified. This is medical admission, not permission to practise medicine or a government appointment. Later signed notice sets 21 June 2026 re-examination; original 3 May bulletin date must not stand alone. No fresh 2027 window verified.",
+      "unresolved": "No adapter or reviewed cycle. Later re-examination, refunds, results and venue changes require revision linking within the same annual cycle, not duplicate opportunity counts. State/institution foreign quotas, qualifying education equivalence, admission dates, fees, original-language requirements and subsequent licensing remain unresolved. Scanned re-examination notice retained and visually read; extraction/translation acceptance pending.",
+      "documents": [
+        {
+          "url": "https://neet.nta.nic.in/",
+          "path": "data/evidence/research/india65-in-nta-neet-ug-home-2026-09-27.html",
+          "status": "retained",
+          "sha256": "9432f8417785357e97425a9e80b547c8c01bfa8fef876f52bbf58d87b8a4148e",
+          "fetchedAt": "2026-09-26T22:49:14.234Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+          "path": "data/evidence/research/india65-in-nta-neet-ug-bulletin-2026-2026-09-27.pdf",
+          "status": "retained",
+          "sha256": "2b688f32bc58e5d5acdc4d61c8e6795a81419c40887a7e5c40b7d163174b4925",
+          "fetchedAt": "2026-09-26T22:49:17.924Z",
+          "format": "PDF"
+        },
+        {
+          "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
+          "path": "data/evidence/research/india65-in-nta-neet-ug-re-examination-notice-2026-05-2026-09-27.pdf",
+          "status": "retained",
+          "sha256": "b590bad365058f4c58c6f9bcc0c6e654002fbf60ab426950f13a06ba8f96707c",
+          "fetchedAt": "2026-09-26T22:50:19.195Z",
+          "format": "PDF"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sourceId": "in-ga-recruitment",
+  "capturedOn": "2026-09-25",
+  "status": "draft-collection-founder-review-required",
+  "documents": [
+    { "url": "https://gpsc.goa.gov.in/advertisements/", "file": "goa-psc-advertisements-2026.html", "sha256": "407c37b7ef86262add4ef8bffd6635ea2a2fde4b1cd53282594ce70dd6a1b058" },
+    { "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data", "file": "goa-psc-advertisements-table-2026.json", "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b", "note": "Live URL also requires changing public nonce read from advertisements page; this is the public AJAX endpoint explicitly allowed by robots.txt." },
+    { "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf", "file": "goa-psc-advt-09-2026.pdf", "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660" },
+    { "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf", "file": "goa-psc-instructions-2026.pdf", "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f" },
+    { "url": "https://gpsc.goa.gov.in/robots.txt", "file": "goa-psc-robots.txt", "sha256": "50a2af81e04998a52ae4d360c88ed96a01232003478e7927c2c5d1dc9a1ff771" }
+  ],
+  "extraction": "data/extractions/goa-psc-09-2026.json",
+  "interpretation": "Seven separate post applications; three transfer-on-deputation posts close 25 October 2026 and four direct posts close 25 September 2026. No cutoff clock time or opening date is printed. National citizenship requirement is unstated; language is post-specific.",
+  "remainingGaps": ["Founder must verify every extracted field and application status", "Other advertisements and amendments not fully reconciled", "International applicant permission and appointment eligibility unconfirmed", "Other Goa government and local authorities not collected"]
+}

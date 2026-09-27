@@ -1,0 +1,237 @@
+{
+  "sourceId": "za-dpsa-cpsi-internships-2026",
+  "collectedAt": "2026-09-25T14:54:19.795Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Circular 34/2026 · Post 34/08 · Ref 0003/2026",
+      "programme": "CPSI Internship 2026/27",
+      "status": "open",
+      "statusNote": "DPSA circular page and exact CPSI annexure retained. First connector output awaits founder review; later amendments and portal terms need checking.",
+      "scopeLabel": "National government component. Pretoria is the work centre, not a published assessment venue or applicant residence rule.",
+      "outcome": "One 24-month paid internship contract, subject to selection and appointment. Annual salary R98,097.",
+      "qualifications": "Senior Certificate/Grade 12 and a recognised National Diploma or Degree (NQF 6/7) in Internal Audit. Applicants must be unemployed and must not have participated in a government department internship. Foreign qualifications require SAQA evaluation at applicant expense.",
+      "citizenshipRule": "Annexure says shortlisted candidates undergo citizenship or permanent residency verification; it does not say whether every foreign citizen, including a South African permanent resident, may apply. Confirm with CPSI before an international eligibility verdict.",
+      "residenceRule": "No applicant residence or domicile rule is stated in retained annexure. Pretoria is the work centre only; permanent residency is mentioned as a suitability check, not proven by residence address.",
+      "selectionStages": [
+        "Apply through CPSI eRecruitment; required Z83 information is entered online",
+        "Shortlist and provide certified documents before interview",
+        "Practical exercise, integrity and suitability checks, including citizenship or permanent residency and qualifications",
+        "Reference checks and final appointment decision"
+      ],
+      "fee": "No application fee stated in retained annexure; foreign qualification SAQA evaluation is at applicant expense.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "CPSI must confirm eligibility of non-citizens, including South African permanent residents; residence address alone is insufficient. Confirm qualification field, NQF equivalence, unemployment and no prior government internship."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm practical exercise, interview, integrity, citizenship or permanent residency and SAQA qualification checks. No selection venue is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm right to take up this public-service internship, contract, appointment and work authorization with CPSI."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue not published; Pretoria is the work centre"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://erecruitment.cpsi.co.za",
+      "changes": [],
+      "id": "za-cpsi-internal-audit-intern-2026-0003",
+      "sourceId": "za-dpsa-cpsi-internships-2026",
+      "title": "Intern: Internal Audit — CPSI",
+      "authority": "Centre for Public Service Innovation",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "ZA",
+      "jurisdictionName": "South Africa",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "CPSI annexure says closing date 05 October 2026 at 23h59, without naming an official timezone. Circular posting date is not an application opening date."
+      },
+      "languageNote": "Good verbal and written communication skills are requested. No named language, certificate, CEFR level or standardized language score is stated.",
+      "salary": "R98,097 per annum for a 24-month internship contract.",
+      "workLocations": [
+        "Pretoria, South Africa"
+      ],
+      "sources": [
+        {
+          "id": "za-dpsa-cpsi-internships-2026:e330759e2540",
+          "title": "DPSA Public Service Vacancy Circular 34 of 2026",
+          "authority": "Centre for Public Service Innovation",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+          "sha256": "f6cbab0ad0667103cfe47393deb36be9e39bc15ea7ca68bf0118d5a69fc9f03d",
+          "lastSuccessfulFetchAt": "2026-09-25T14:54:22.579Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "za-dpsa-cpsi-internships-2026:1eded803095c",
+          "title": "CPSI Annexure B, posts 34/08 and 34/09",
+          "authority": "Centre for Public Service Innovation",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+          "sha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+          "lastSuccessfulFetchAt": "2026-09-25T14:54:23.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Circular 34/2026 · Post 34/09 · Ref 0004/2026",
+      "programme": "CPSI Internship 2026/27",
+      "status": "open",
+      "statusNote": "DPSA circular page and exact CPSI annexure retained. First connector output awaits founder review; later amendments and portal terms need checking.",
+      "scopeLabel": "National government component. Pretoria is the work centre, not a published assessment venue or applicant residence rule.",
+      "outcome": "One 24-month paid internship contract, subject to selection and appointment. Annual salary R98,097.",
+      "qualifications": "Senior Certificate/Grade 12 and a recognised degree (NQF 7) in law. Applicants must be unemployed and must not have participated in a government department internship. Foreign qualifications require SAQA evaluation at applicant expense.",
+      "citizenshipRule": "Annexure says shortlisted candidates undergo citizenship or permanent residency verification; it does not say whether every foreign citizen, including a South African permanent resident, may apply. Confirm with CPSI before an international eligibility verdict.",
+      "residenceRule": "No applicant residence or domicile rule is stated in retained annexure. Pretoria is the work centre only; permanent residency is mentioned as a suitability check, not proven by residence address.",
+      "selectionStages": [
+        "Apply through CPSI eRecruitment; required Z83 information is entered online",
+        "Shortlist and provide certified documents before interview",
+        "Practical exercise, integrity and suitability checks, including citizenship or permanent residency and qualifications",
+        "Reference checks and final appointment decision"
+      ],
+      "fee": "No application fee stated in retained annexure; foreign qualification SAQA evaluation is at applicant expense.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "CPSI must confirm eligibility of non-citizens, including South African permanent residents; residence address alone is insufficient. Confirm qualification field, NQF equivalence, unemployment and no prior government internship."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm practical exercise, interview, integrity, citizenship or permanent residency and SAQA qualification checks. No selection venue is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm right to take up this public-service internship, contract, appointment and work authorization with CPSI."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue not published; Pretoria is the work centre"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://erecruitment.cpsi.co.za",
+      "changes": [],
+      "id": "za-cpsi-legal-services-intern-2026-0004",
+      "sourceId": "za-dpsa-cpsi-internships-2026",
+      "title": "Intern: Legal Services — CPSI",
+      "authority": "Centre for Public Service Innovation",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "ZA",
+      "jurisdictionName": "South Africa",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "CPSI annexure says closing date 05 October 2026 at 23h59, without naming an official timezone. Circular posting date is not an application opening date."
+      },
+      "languageNote": "Good verbal and written communication skills are requested. No named language, certificate, CEFR level or standardized language score is stated.",
+      "salary": "R98,097 per annum for a 24-month internship contract.",
+      "workLocations": [
+        "Pretoria, South Africa"
+      ],
+      "sources": [
+        {
+          "id": "za-dpsa-cpsi-internships-2026:e330759e2540",
+          "title": "DPSA Public Service Vacancy Circular 34 of 2026",
+          "authority": "Centre for Public Service Innovation",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+          "sha256": "f6cbab0ad0667103cfe47393deb36be9e39bc15ea7ca68bf0118d5a69fc9f03d",
+          "lastSuccessfulFetchAt": "2026-09-25T14:54:22.579Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "za-dpsa-cpsi-internships-2026:1eded803095c",
+          "title": "CPSI Annexure B, posts 34/08 and 34/09",
+          "authority": "Centre for Public Service Innovation",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+          "sha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+          "lastSuccessfulFetchAt": "2026-09-25T14:54:23.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+      "fetchedAt": "2026-09-25T14:54:22.579Z",
+      "sha256": "f6cbab0ad0667103cfe47393deb36be9e39bc15ea7ca68bf0118d5a69fc9f03d",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 24317
+    },
+    {
+      "url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+      "fetchedAt": "2026-09-25T14:54:23.259Z",
+      "sha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+      "contentType": "application/pdf",
+      "bytes": 25778
+    }
+  ],
+  "warnings": [
+    "Two distinct post references are separate recruitment cycles; confirm portal submission behavior for each. Neither work centre creates an exam venue.",
+    "DPSA circular 34 contains many other departments and provincial annexures that this connector does not cover.",
+    "CPSI citizenship or permanent residency verification does not establish a blanket foreign-citizen ban or acceptance; all three eligibility stages need review.",
+    "The annexure prints 23h59 without naming an official timezone; the closing-day status stays uncertain.",
+    "The eRecruitment portal, later amendments, application fee and any formal language standard need founder confirmation."
+  ],
+  "approvalRevisions": {
+    "za-cpsi-internal-audit-intern-2026-0003": {
+      "evidenceRevision": "e46d1f05ee857e9c93f2160877322b9d207574f41c25128f788831022e359a25",
+      "recordRevision": "60108952f717b0ac187b7a1941f0483e4258986721c41a1311d0c97623c3a600"
+    },
+    "za-cpsi-legal-services-intern-2026-0004": {
+      "evidenceRevision": "e46d1f05ee857e9c93f2160877322b9d207574f41c25128f788831022e359a25",
+      "recordRevision": "b2fa15d498d5b8c9540e51f0e23ce8442cfd0d277d424ad4deddd94b21244310"
+    }
+  }
+}

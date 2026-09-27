@@ -1,0 +1,299 @@
+{
+  "completedAt": "2026-09-26T21:09:08.375Z",
+  "baseline": "data/discovery/india-primary-health-baseline-2026-09-27.json",
+  "timestampCorrections": "data/discovery/india-primary-fetch-time-corrections-2026-09-27.json",
+  "outcomes": [
+    {
+      "id": "in-ut-recruitment",
+      "previousHealth": null,
+      "currentHealth": {
+        "lastAttemptAt": "2026-09-26T20:59:24.810Z",
+        "lastSuccessfulFetchAt": "2026-09-26T21:01:16.468Z",
+        "lastError": null,
+        "consecutiveFailures": 0,
+        "recordCount": 0,
+        "complete": false,
+        "pendingReviewCount": 1,
+        "lastValidatedAt": null
+      },
+      "responseCount": 4,
+      "evidenceManifest": "data/evidence/in-ut-recruitment.json",
+      "packetChanged": false,
+      "packetSha256": "5a2025333e6db88badf0d4301294d2e9f93f7e787a6e2ca60539faa555c65b2d",
+      "candidateIds": [
+        "uttarakhand-psc-2026-a1-combined-civil-service"
+      ],
+      "humanValidationRecorded": false
+    },
+    {
+      "id": "in-tn-recruitment",
+      "previousHealth": null,
+      "currentHealth": {
+        "lastAttemptAt": "2026-09-26T21:01:35.338Z",
+        "lastSuccessfulFetchAt": "2026-09-26T21:01:42.769Z",
+        "lastError": null,
+        "consecutiveFailures": 0,
+        "recordCount": 0,
+        "complete": false,
+        "pendingReviewCount": 4,
+        "lastValidatedAt": null
+      },
+      "responseCount": 6,
+      "evidenceManifest": "data/evidence/in-tn-recruitment.json",
+      "packetChanged": true,
+      "packetSha256": "6ce5f61f08ab52a0b3721602092807597f115d419a7cc6009b046a5a7fb22e5c",
+      "candidateIds": [
+        "tnpsc-2026-8",
+        "tnpsc-2026-7",
+        "tnpsc-2026-6",
+        "tnpsc-2026-5"
+      ],
+      "humanValidationRecorded": false
+    },
+    {
+      "id": "in-an-recruitment",
+      "previousHealth": null,
+      "currentHealth": {
+        "lastAttemptAt": "2026-09-26T21:07:50.091Z",
+        "lastSuccessfulFetchAt": "2026-09-26T21:07:53.801Z",
+        "lastError": null,
+        "consecutiveFailures": 0,
+        "recordCount": 0,
+        "complete": false,
+        "pendingReviewCount": 1,
+        "lastValidatedAt": null
+      },
+      "responseCount": 2,
+      "evidenceManifest": "data/evidence/in-an-recruitment.json",
+      "packetChanged": true,
+      "packetSha256": "edf40ff0c0c8a48c8dd02bc063e667b53d199541fced3bd8b557c4486fb188ab",
+      "candidateIds": [
+        "andaman-agriculture-group-b-c-2026"
+      ],
+      "humanValidationRecorded": false
+    }
+  ],
+  "remainingPrimaryAdaptersWithoutHealth": [
+    "in-ap-recruitment",
+    "in-ar-recruitment",
+    "in-br-recruitment",
+    "in-ch-recruitment",
+    "in-ct-recruitment",
+    "in-dh-recruitment",
+    "in-dl-recruitment",
+    "in-ga-recruitment",
+    "in-gj-recruitment",
+    "in-jh-recruitment",
+    "in-ka-recruitment",
+    "in-mn-recruitment",
+    "in-ml-recruitment",
+    "in-mz-recruitment",
+    "in-nl-recruitment",
+    "in-or-recruitment",
+    "in-rj-recruitment",
+    "in-sk-recruitment",
+    "in-tr-recruitment"
+  ],
+  "reviewDecisionRecorded": false,
+  "coverageChanges": [
+    {
+      "code": "IN",
+      "oldConnected": 39,
+      "newConnected": 42,
+      "oldSuccessful": "2026-09-26T20:26:02.349Z",
+      "newSuccessful": "2026-09-26T21:07:53.801Z",
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "US",
+      "oldConnected": 1,
+      "newConnected": 1,
+      "oldSuccessful": "2026-09-25T11:48:27.132Z",
+      "newSuccessful": "2026-09-25T11:48:27.132Z",
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "ID",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "MY",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "TH",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "MX",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "CL",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "CO",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "DK",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    },
+    {
+      "code": "BE",
+      "oldConnected": 0,
+      "newConnected": 0,
+      "oldSuccessful": null,
+      "newSuccessful": null,
+      "oldValidated": null,
+      "newValidated": null
+    }
+  ],
+  "persistedCoverageLimitations": [
+    {
+      "country": "ID",
+      "sourceId": "id-bkn-sscasn",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "MY",
+      "sourceId": "my-spa-recruitment",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "TH",
+      "sourceId": "th-ocsc-jobs",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "MX",
+      "sourceId": "mx-trabajaen",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "CL",
+      "sourceId": "cl-empleos-publicos",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "CO",
+      "sourceId": "co-cnsc-simo",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "DK",
+      "sourceId": "dk-tax-appeals-agency-jobs",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    },
+    {
+      "country": "BE",
+      "sourceId": "be-werkenvoor",
+      "statement": "Other public authorities and pathways remain incomplete; source registration is not an audited national coverage claim.",
+      "reason": "Preserve existing researched coverage limitation through automatic coverage regeneration."
+    }
+  ],
+  "approvalRevisionComparison": [
+    {
+      "source": "in-ut-recruitment",
+      "cycles": [
+        {
+          "id": "uttarakhand-psc-2026-a1-combined-civil-service",
+          "windowChanged": false,
+          "priorRevisionAvailable": true,
+          "evidenceRevisionChanged": false,
+          "recordRevisionChanged": false
+        }
+      ]
+    },
+    {
+      "source": "in-tn-recruitment",
+      "cycles": [
+        {
+          "id": "tnpsc-2026-8",
+          "windowChanged": false,
+          "priorRevisionAvailable": false,
+          "evidenceRevisionChanged": null,
+          "recordRevisionChanged": null
+        },
+        {
+          "id": "tnpsc-2026-7",
+          "windowChanged": false,
+          "priorRevisionAvailable": false,
+          "evidenceRevisionChanged": null,
+          "recordRevisionChanged": null
+        },
+        {
+          "id": "tnpsc-2026-6",
+          "windowChanged": false,
+          "priorRevisionAvailable": false,
+          "evidenceRevisionChanged": null,
+          "recordRevisionChanged": null
+        },
+        {
+          "id": "tnpsc-2026-5",
+          "windowChanged": false,
+          "priorRevisionAvailable": false,
+          "evidenceRevisionChanged": null,
+          "recordRevisionChanged": null
+        }
+      ]
+    },
+    {
+      "source": "in-an-recruitment",
+      "cycles": [
+        {
+          "id": "andaman-agriculture-group-b-c-2026",
+          "windowChanged": false,
+          "priorRevisionAvailable": true,
+          "evidenceRevisionChanged": true,
+          "recordRevisionChanged": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-as-sribhumi-ft2",
+  "indexUrl": "https://sribhumi.assam.gov.in/document/advertisements",
+  "documentUrl": "https://sribhumi.assam.gov.in/sites/default/files/public_utility/Advertisement%20for%20Walk-in-interview%20for%20the%20post%20of%20Data%20Entry%20Operator%20%26%20Copyist%20in%20the%20Office%20of%20the%20Member.%20Foreigners%20Tribunal-II.pdf",
+  "documentSha256": "9319255aa399e3081f6e9ba52b5216e458a4fc4614de290c197cd16d0715481e",
+  "documentPages": 2,
+  "indexPublishedOn": "2026-09-05",
+  "walkInOn": "2026-09-12",
+  "registrationOpensLocalTime": "09:00",
+  "registrationClosesLocalTime": "11:00",
+  "contractThrough": "2027-05-22",
+  "roles": [
+    { "id": "sribhumi-ft2-data-entry-operator-2026", "name": "Data Entry Operator", "vacancies": 1, "monthlyPayInr": 10000 },
+    { "id": "sribhumi-ft2-copyist-2026", "name": "Copyist", "vacancies": 1, "monthlyPayInr": 9000 }
+  ],
+  "evidenceNotes": [
+    "Sribhumi District Administration official advertisement register contains one 5 September 2026 Foreigners Tribunal-II link; robots.txt permits the public index and PDF paths. Original two-page PDF and rendered pages are retained with exact SHA-256.",
+    "Original PDF page 1 lists one Data Entry Operator post and one Copyist post on fixed-pay contract, with 12 September 2026 walk-in interview at 09:00 in the Office of the Member, Foreigners Tribunal-2nd, Sribhumi. Candidates must register between 09:00 and 11:00; applications after 11:00 are not considered. No earlier application opening is printed.",
+    "Both roles require higher-secondary pass and a six-month Computer Diploma from a government-recognized institution; age not more than 40, but no age reference date is printed. Copyist additionally needs good handwriting skill in English and Bengali; no CEFR or numerical level is stated. Data Entry Operator needs MS Office and Internet processing ability.",
+    "Page 1 requires standard Assam Gazette Part IX form, self-attested age/qualification/employment-registration evidence, photographs, signature and mobile number at registration. Employment Registration Certificate is required, but no separate residence or citizenship rule is stated. International ability to apply or take contract appointment needs authority verification.",
+    "The notice has one registration window but two distinct posts with different qualifications and pay. Draft records one provisional role cycle each; founder must confirm whether separate forms or role choices are used before approval. No cancellation was inferred from elapsed date or absence of later notices."
+  ]
+}

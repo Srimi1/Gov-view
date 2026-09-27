@@ -1,0 +1,44 @@
+[
+ {
+  "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+  "fetchedAt": "2026-09-26T21:01:36.687Z",
+  "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+  "bytes": 224135,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=cf52b42c-7e4d-4d72-a8bf-77adf8242159",
+  "fetchedAt": "2026-09-26T21:01:37.827Z",
+  "sha256": "f72786780c960a025fff8b682f6d34021af7378e59f171088c645808b95f26af",
+  "bytes": 12383,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+  "fetchedAt": "2026-09-26T21:01:40.585Z",
+  "sha256": "d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182",
+  "bytes": 2290003,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=89113de0-6a0e-4d47-a409-c84fb04ef33e",
+  "fetchedAt": "2026-09-26T21:01:40.705Z",
+  "sha256": "db962538269f7b1198d7e0bdb7df7266a1852b6b1fd96d6ee010ecdb00863453",
+  "bytes": 14190,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=ea45cb0a-2d35-4b46-a38d-f05d6ee0965b",
+  "fetchedAt": "2026-09-26T21:01:41.716Z",
+  "sha256": "b080076a4a90b5261c6c8ba9453c91468e1eccb5e6fa4da3cf217b482904ae9e",
+  "bytes": 15045,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=33aa5415-6205-4ae9-842e-212d62d088f1",
+  "fetchedAt": "2026-09-26T21:01:42.769Z",
+  "sha256": "21e4fde1a1f1ff7d41f53e9e918529689f7f20eef763fa042a52219dee723642",
+  "bytes": 21265,
+  "contentType": "text/html; charset=utf-8"
+ }
+]

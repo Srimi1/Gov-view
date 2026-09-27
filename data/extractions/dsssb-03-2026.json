@@ -1,0 +1,41 @@
+{
+  "reviewStatus": "pending",
+  "method": "Draft transcription of official advertisement 03/2026 and visual reading of two scanned corrigenda; founder review required",
+  "indexUrl": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+  "advertisementUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+  "advertisementSha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+  "corrigenda": [
+    { "postCode": "28/26", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_28_26.pdf", "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5", "summary": "22 July 2026: advertised total vacancies 81 revised to 78; remaining advertisement unchanged" },
+    { "postCode": "33/26", "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf", "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40", "summary": "15 June 2026: category distribution revised; total vacancies remains 4; remaining advertisement unchanged" }
+  ],
+  "opensOn": "2026-06-16",
+  "closesOn": "2026-07-15",
+  "cutoffLocalTime": "23:59",
+  "postCodes": [
+    ["21/26", "Junior Scientific Assistant (Biology)"],
+    ["22/26", "Junior Scientific Assistant (Ballistics)"],
+    ["23/26", "Junior Scientific Assistant (Chemistry)"],
+    ["24/26", "Junior Scientific Assistant (Lie-Detection)"],
+    ["25/26", "Junior Scientific Assistant (Documents)"],
+    ["26/26", "Junior Scientific Assistant (HRD/QC)"],
+    ["27/26", "Junior Scientific Assistant (Photo)"],
+    ["28/26", "Junior Scientific Assistant (Cyber Forensic)"],
+    ["29/26", "Junior Scientific Assistant (Crime Scene/District Mobile Forensic Unit)"],
+    ["30/26", "Junior Scientific Assistant (Finger Print)"],
+    ["31/26", "Junior Scientific Assistant (Physics)"],
+    ["32/26", "Technical Assistant (Hindi)"],
+    ["33/26", "Assistant Archivist Grade-I"],
+    ["34/26", "I.T. Assistant Grade-A"],
+    ["35/26", "Fitter Grade-II"],
+    ["36/26", "Lift Operator"],
+    ["37/26", "Assistant Operator cum Mechanic (A/C)"],
+    ["38/26", "Sub Station Apprentice"],
+    ["39/26", "Data Processing Assistant Grade A"],
+    ["40/26", "Data Entry Operator Grade B"],
+    ["41/26", "Trained Graduate Teacher (Computer Science)"],
+    ["42/26", "Domestic Science Teacher"],
+    ["43/26", "Trained Graduate Teacher (Special Education Teacher)"],
+    ["44/26", "Special Educator (Primary)"],
+    ["45/26", "Electrical Overseer / Sub-Inspector"]
+  ]
+}

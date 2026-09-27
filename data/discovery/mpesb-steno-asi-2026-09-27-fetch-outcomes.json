@@ -1,0 +1,62 @@
+[
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "rulebook",
+    "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/mpesb68-in-mp-esb-steno-asi-2026-rulebook-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+      "fetchedAt": "2026-09-26T23:33:28.695Z",
+      "sha256": "0af335cfde1efd8e339d1dab7c29c68127152d987d59cea35494ce9ce12b6f8c",
+      "contentType": "application/pdf",
+      "bytes": 2314726
+    }
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "home",
+    "url": "https://esb.mp.gov.in/home_n.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/mpesb68-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://esb.mp.gov.in/home_n.html",
+      "fetchedAt": "2026-09-26T23:33:05.788Z",
+      "sha256": "4959757fe320bebd5f28bd8d613fcc86eae65864868ad0d5db92593059467c2e",
+      "contentType": "text/html",
+      "bytes": 11543
+    }
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "dashboard",
+    "url": "https://esb.mp.gov.in/student_dashboard.htm",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/mpesb68-dashboard-2026-09-27.html",
+    "evidence": {
+      "url": "https://esb.mp.gov.in/student_dashboard.htm",
+      "fetchedAt": "2026-09-26T23:32:20.240Z",
+      "sha256": "e9ac12c6260687314428203a97d71bb077458cf06c13cc408fa63002f9792eb1",
+      "contentType": "text/html",
+      "bytes": 534685
+    }
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "forms",
+    "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/mpesb68-forms-2026-09-27.html",
+    "evidence": {
+      "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+      "fetchedAt": "2026-09-26T23:33:07.005Z",
+      "sha256": "50fdfafaca8734f0c94e6072283108b53de9fab888f44f7537aaff6d05dee825",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 61033
+    }
+  }
+]

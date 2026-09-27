@@ -1,0 +1,30 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-mn-recruitment",
+  "records": [
+    {
+      "file": "data/evidence/research/manipur-whats-new.html",
+      "url": "https://mpscmanipur.gov.in/whats_new.html",
+      "sha256": "dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4",
+      "bytes": 76437
+    },
+    {
+      "file": "data/evidence/research/manipur-04-2026.pdf",
+      "url": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
+      "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+      "bytes": 288556
+    },
+    {
+      "file": "data/evidence/research/manipur-syllabus-2026.pdf",
+      "url": "https://mpscmanipur.gov.in/files/DS_Syllabus_2026.pdf",
+      "sha256": "4c21751764c1816f1f21e34b0aa23b801e63d903bf8b91cf2d574f57c2bb2054",
+      "bytes": 33864237
+    }
+  ],
+  "notes": [
+    "Official latest-notifications table and 3-page scanned advertisement, uploaded 23 September 2026. Source robots.txt returned HTTP 404; no disallow rule was published.",
+    "Advertisement states 13 Dental Surgeon posts, 28 September–18 October 2026 application window with 11:59 PM cutoff, Indian citizenship, Manipur residence with parent/direct-ancestor exception, and spoken Manipuri or any Manipur tribal dialect.",
+    "The separate scanned 47-page syllabus is retained for founder review; its content is not parsed into this draft.",
+    "No exam venue or CEFR language level is inferred. Scanned transcription, residence proof, age relaxations, dental registration, and any correction require founder verification."
+  ]
+}

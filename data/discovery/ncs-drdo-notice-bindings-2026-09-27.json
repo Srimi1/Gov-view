@@ -1,0 +1,42 @@
+{
+  "sourceCapture": "data/evidence/research/ncs-classified-jobs-2026-09-27-browser.json",
+  "packet": "data/review/in-drdo-jrf-september-2026.json",
+  "records": [
+    {
+      "ncsSequence": 1,
+      "ncsPostingDateRaw": "2026-09-08",
+      "publishedNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "sourceId": "in-drdo-jrf-september-2026",
+      "cycleId": "drdo-dysl-sm-jrf-2026-1",
+      "noticeSha256": "28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f",
+      "recordStatus": "staged-pending-review",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-06",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "6 October is walk-in date, starting 09:30 with latecomers excluded. Supporting documents must also be emailed, but no email receipt deadline is printed. Official timezone unstated; 09:30 is not repurposed as an email cutoff or separate closing time."
+      },
+      "eligibilityScope": "Published Indian-national criterion; other conditions incomplete. No founder decision."
+    },
+    {
+      "ncsSequence": 3,
+      "ncsPostingDateRaw": "2026-09-07",
+      "publishedNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "sourceId": "in-drdo-jrf-september-2026",
+      "cycleId": "drdo-lrde-jrf-03-2026",
+      "noticeSha256": "030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5",
+      "recordStatus": "staged-pending-review",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": "09:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "8 October is walk-in date, with reporting 08:30–09:30; late arrivals excluded. Willingness email was advised by 25 September, with no email cutoff time. Whether that email is prerequisite needs clarification. Official timezone unstated; index Start Date is not a verified application opening."
+      },
+      "eligibilityScope": "Published Indian-national criterion; other conditions incomplete. No founder decision."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+Amnexwre -&
+
+Tripura Gazette. Extraordinary Issue. February 25, 2026 A. D.
+
+SCHEDULE-VI
+{Syllabus of the Examination]
+
+1. Syllabus for General Ability Test Paper-I (Grade-IV):
+
+net Topic paste
+English Composition will cover Synonyms, Antonyms,
+use of common Phrase & Idioms., use of appropriate
+Prepositions and Articles, Comprehension, ordering of
+1 | English words in a sentence, Ordering of sentences, spotting of | 15
+errors, use of appropriate and qualifying words.
+(OMR based MCQ Type - 15 Questions one mark
+each)
+General Mental | Logical Reasoning, Analytical Reasoning Capabilities,
+Ability & Quantitative and Qualitative abilities, General Aptitude | |,
+Logical (OMR based MCQ Type - 15 Questions one mark
+reasoning each)
+(@ General Knowledge with special reference to Tripura
+and Northeastern States
+(ii) Elementary knowledge of Indian History and Indian
+General Geography.
+3 | Knowledge & _{iii) Matter of common experience and current events and| 20
+Current Affairs problems with special reference to Tripura, India and
+world.
+(iv) (OMR based MCQ Type & 20 Questions one
+mark each)
+Total 50
+
+2. a) Syllabus for Job Oriented Subjects (Grade-IV) Examination:
+@ Technical Paper-1 (Full Marks-120)
+
+Engineering Mathematics
+Section 1: Probability and Statistics: Random variables. Uniform, normal,
+exponential, Poisson and binomial distributions. Mean, median, mode and standard
+deviation. Conditional probability and Bayes theorem.
+
+Computer Science and Information Technology Section 2:
+
+Digital Logic
+Boolean algebra, Combinational and sequential circuits, Minimization, Number
+representations and computer arithmetic (fixed and floating point).
+
+Section 3: Computer Organization and Architecture
+Machine instructions and addressing modes, ALU, data path and control unit.
+Instruction pipelining, pipeline hazards. Memory hierarchy: cache, main memory
+and secondary storage; 1/O interface (interrupt and DMA mode).
+
+Section 4: Analog and Digital Communication
+Autocorrelation and power spectral density, properties of white noise, filtering of
+
+20

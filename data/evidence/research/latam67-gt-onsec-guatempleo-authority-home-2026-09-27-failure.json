@@ -1,0 +1,10 @@
+{
+  "sourceId": "gt-onsec-guatempleo",
+  "label": "authority-home",
+  "url": "https://www.onsec.gob.gt/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/latam67-gt-onsec-guatempleo-authority-home-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:19:31.651Z",
+  "error": "robots.txt unavailable (HTTP 403) at https://www.onsec.gob.gt"
+}

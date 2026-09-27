@@ -1,0 +1,1096 @@
+
+    
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Telangana Public Service Commission</title>
+
+<style type="text/css">
+	.rowPadding{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	
+ 
+</style>
+</head>
+<body>
+
+</body>
+	 
+			<div>
+				
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+ <meta name="referrer" content="no-referrer" />
+<meta name="referrer" content="unsafe-url" />
+<meta name="referrer" content="origin" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta name="referrer" content="origin-when-cross-origin" />
+<noscript>
+	<meta http-equiv="refresh"
+		content="1; url=/jsp/disableJavascript.html" />
+</noscript>
+<link id="favicon1" rel="icon" type="image/png"
+	href="/images/favicon.png"
+	sizes="16x16" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Telangana Public Service Commission</title>
+<link rel="icon" href="/img/tspsc-logo-min.png" type="image/icon type">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<!-- Bootstrap CSS-->
+<link rel="stylesheet"
+	href="/vendor/bootstrap/css/bootstrap.min.css">
+<!-- Font Awesome CSS-->
+<link rel="stylesheet"
+	href="/css/font-awesome.min.css">
+<!-- Google fonts - Roboto-->
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700"> -->
+<!-- Bootstrap Select-->
+
+<!-- owl carousel-->
+
+
+<!-- theme stylesheet-->
+<link rel="stylesheet"
+	href="/css/style.default.css"
+	id="theme-stylesheet">
+<!-- Custom stylesheet - for your changes-->
+<link rel="stylesheet"
+	href="/css/custom.css">
+	<script src="js/jquery.min.js"></script>
+
+<!-- <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.0.13/css/all.css"/>
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> -->
+
+<link type="text/css" rel="stylesheet"
+	href="/ticker/css/cgg_ticker.css" />
+
+<!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+<script src="js/dw_event.js" type="text/javascript"></script>
+<script src="js/dw_cookies.js" type="text/javascript"></script>
+<script src="js/dw_sizerdx.js" type="text/javascript"></script>
+<script type="text/javascript">
+	dw_Event.add(window, 'load', dw_fontSizerDX.init);
+</script>
+<script type="text/javascript">
+	function swapStyleSheet(sheet) {
+
+		document.getElementById('theme-stylesheet').setAttribute('href', sheet);
+
+	}
+</script>
+<script type="text/javascript" src="ticker/js/cgg_ticker.js"></script>
+
+<script type="text/javascript" src="js/common.js"></script>
+
+<script>
+	$(document).ready(function() {
+		/* $("#ticker_scro").endlessRiver({  
+			speed: 50,
+			pause: true,
+			buttons: true
+			
+		}); */
+
+		$(".locales").click(function() {
+			var selectedOption = $(this).attr('id');
+			//alert("change language"+selectedOption);
+			if (selectedOption != '') {
+				window.location.replace('?lang=' + selectedOption);
+			}
+		});
+	});
+</script>
+<script>
+	function myFunction() {
+		var input, filter, ul, li, a, i;
+		input = document.getElementById("myInput");
+		filter = input.value.toUpperCase();
+		ul = document.getElementById("myUL");
+		li = ul.getElementsByTagName("li");
+		for (i = 0; i < li.length; i++) {
+			a = li[i].getElementsByTagName("a")[0];
+			if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+				li[i].style.display = "";
+			} else {
+				li[i].style.display = "none";
+			}
+		}
+	}
+</script>
+<style>
+.scroll {
+	height: 670px;
+	overflow: scroll;
+}
+</style>
+
+<style>
+.Highlighted a {
+	background-color: #b82601 !important;
+	background-image: none !important;
+	color: white !important;
+	font-weight: bold !important;
+	font-size: 10pt;
+	border: 1px solid #E0E0DA !important;
+}
+html,body {
+       overflow-x: hidden;
+  
+}
+@media (max-width: 576px) {
+    html, body {
+        overflow-x: auto;
+    }
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#myInput {
+	background-image: url('/css/searchicon.png');
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	width: 63%;
+	font-size: 16px;
+	padding: 10px 15px 10px 30px;
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+
+#myUL {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#myUL li a {
+	border: 1px solid #ddd;
+	margin-top: -1px; /* Prevent double borders */
+	background-color: #f6f6f6;
+	padding: 12px;
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+	display: block
+}
+#myUL
+ 
+li
+ 
+a
+:hover
+:not
+ 
+(
+.header
+ 
+)
+{
+background-color
+:
+ 
+#eee
+;
+
+
+}
+</style>
+
+<style type="text/css">
+.counter-count {
+	display: inline-block;
+	padding: 6px 6px 4px;
+	border-radius: 3px;
+	background: #3183a8;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	margin-top: 7px;
+}
+
+
+.top-bar ul.social-custom a {
+padding: 0px 3px;
+font-size: 0.9rem!important;
+font-weight: 400!important;
+}
+</style>
+
+</head>
+<!--/head-->
+
+<body>
+<body id="sizer">
+	<div id="all">
+		<!-- Top bar-->
+		<div class="top-bar" style="background: #2f4058;font-size: 0.9rem!important;font-weight: 400!important;">
+			<div class="container-fluid">
+				<div class="row ">
+					<div class="col-md-8">
+						<ul class="left-menu list-inline">
+							<li class="list-inline-item"><a
+								href="/site.jsp"
+								style="padding-top: 3px;font-size: 0.9rem!important;font-weight: 400!important;">Sitemap</a></li>
+							<li class="list-inline-item"><a href="#skip_content"
+								style="padding-top: 3px;font-size: 0.9rem!important;font-weight: 400!important;">Skip Content</a></li>
+						</ul>
+
+
+					</div>
+					<div class="col-md-4">
+						<div class="d-flex justify-content-md-end justify-content-between">
+						
+							<ul class="social-custom list-inline">
+								<li class="list-inline-item"><a
+									class="increase  accessibility" href="javascript:void(0);">
+										A+ </a></li>
+								<li class="list-inline-item"><a class="reset accessibility"
+									href="javascript:void(0);"> A&nbsp; </a></li>
+								<li class="list-inline-item"><a
+									class="decrease  accessibility" href="javascript:void(0);">
+										A- </a></li>
+								<li class="list-inline-item"><a href="#" class="dark"
+									onclick="swapStyleSheet('/css/style.default.css')"
+									style="background: #000!important; border-color: none!important; color: #fff!important">
+										A&nbsp;</a></li>
+								<li class="list-inline-item"><a href="#" class="dark"
+									onclick="swapStyleSheet('/css/dark.css')"
+									style="background: #898989!important; border-color: none!important; color: #fff!important">
+										A&nbsp;</a></li>
+								<li class="list-inline-item" style="margin-right: 0;"><a
+									href="/about.jsp"
+									class="dark  bg-orange" style="border-color: none;"><i
+										class="fa fa-wheelchair"> </i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!-- Top bar end-->
+		<!-- Login Modal-->
+		<header class="header">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-sm-9">
+						<div class="logo">
+
+							<a href="/" class="home"><img
+								src="/img/tspsc-logo-min.png">
+								<h3 style="display: inline-flex;font-weight: 700;">
+									TELANGANA PUBLIC SERVICE COMMISSION
+								</h3></a>
+
+						</div>
+
+
+					</div>
+
+				</div>
+			</div>
+		</header>
+
+
+
+		<!--/header-middle-->
+	</div>
+</body>
+			</div>
+			
+			<div>
+				
+			</div>
+			
+			<div>
+				
+			</div>
+			
+		<div id="skip_content" class="container-fluid bg-light"> 
+			<div class="row">
+			
+				<div class="col-sm-3">
+				
+				</div>
+				
+				<div class="col-sm-6 rowPadding">
+					
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<meta charset="ISO-8859-1">
+<title>Telangana Public Service Commission</title>
+ 
+   <link rel="stylesheet" href="/css/bootstrap-icons-1.10.5.css">
+<!--   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+ --><!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+<script src="/vendor/sweetalert/sweetalert2.all.min.js"></script>
+<script src="/js/captcha.js"></script>
+ <style>
+        
+        .input-container {
+            position: relative;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .input-container input {
+            width: 100%;
+              border: 2px solid #f6f6f6;
+            border-radius: 5px;
+            background-color: #f6f6f6;
+            color: #0d0d0d;
+            transition: all 0.5s ease-in-out;
+        }
+        .input-container input:focus {
+            background-color: #fff;
+            border-bottom: 2px solid #5fbae9;
+        }
+        .input-container .toggle-password {
+            position: absolute;
+            top: 50%;
+            right: 15%;
+            transform: translateY(-50%);
+            cursor: pointer;
+        }
+    </style>
+
+<style type="text/css">
+	
+/* BASIC */
+
+html {
+  background-color: #56baed;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+}
+
+a {
+  color: #92badd;
+  display:inline-block;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  /* text-transform: uppercase; */
+  /* display:inline-block; */
+  padding-bottom: 10px;
+  margin: 20px 8px 10px 8px; 
+  color: #cccccc;
+}
+
+
+
+/* STRUCTURE */
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  width: 100%;
+  min-height: 100%;
+  padding: 20px;
+}
+
+#formContent {
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  background: #fff;
+  padding: 30px;
+  width: 90%;
+  max-width: 450px;
+  position: relative;
+  padding: 0px;
+  -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+  box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+  text-align: center;
+}
+
+#formFooter {
+  background-color: #f6f6f6;
+  border-top: 1px solid #dce8f1;
+  padding: 25px;
+  text-align: center;
+  -webkit-border-radius: 0 0 10px 10px;
+  border-radius: 0 0 10px 10px;
+}
+
+
+
+/* TABS */
+
+h2.inactive {
+  color: #cccccc;
+}
+
+h2.active {
+  color: #0d0d0d;
+  border-bottom: 2px solid #5fbae9;
+}
+
+
+
+/* FORM TYPOGRAPHY*/
+
+input[type=button], input[type=submit], input[type=reset]  {
+  background-color: #56baed;
+  border: none;
+  color: white;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+  -webkit-box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+  box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  margin: 5px 20px 40px 20px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
+  background-color: #39ace7;
+}
+
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
+  -moz-transform: scale(0.95);
+  -webkit-transform: scale(0.95);
+  -o-transform: scale(0.95);
+  -ms-transform: scale(0.95);
+  transform: scale(0.95);
+}
+
+input[type=text] {
+  background-color: #f6f6f6;
+  border: none;
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 85%;
+  border: 2px solid #f6f6f6;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+input[type=password] {
+  background-color: #f6f6f6;
+  border: none;
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 85%;
+  border: 2px solid #f6f6f6;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+input[type=text]:focus {
+  background-color: #fff;
+  border-bottom: 2px solid #5fbae9;
+}
+
+input[type=password]:focus {
+  background-color: #fff;
+  border-bottom: 2px solid #5fbae9;
+}
+
+input[type=text]:placeholder {
+  color: #cccccc;
+}
+
+input[type=password]:placeholder {
+  color: #cccccc;
+}
+
+
+/* ANIMATIONS */
+
+/* Simple CSS3 Fade-in-down Animation */
+.fadeInDown {
+  -webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+/* Simple CSS3 Fade-in Animation */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fadeIn {
+  opacity:0;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+.fadeIn.first {
+  -webkit-animation-delay: 0.4s;
+  -moz-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+
+.fadeIn.second {
+  -webkit-animation-delay: 0.6s;
+  -moz-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+.fadeIn.third {
+  -webkit-animation-delay: 0.8s;
+  -moz-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+
+.fadeIn.fourth {
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+/* Simple CSS3 Fade-in Animation */
+.underlineHover:after {
+  display: block;
+  left: 0;
+  bottom: -10px;
+  width: 0;
+  height: 2px;
+  background-color: #56baed;
+  content: "";
+  transition: width 0.2s;
+}
+
+.underlineHover:hover {
+  color: #0d0d0d;
+}
+
+.underlineHover:hover:after{
+  width: 100%;
+}
+
+
+
+/* OTHERS */
+
+*:focus {
+    outline: none;
+} 
+
+#icon {
+  width:30%;
+}
+	
+</style>
+</head>
+
+<body onload="createCaptcha()" id="loginBody">
+ 	<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+
+    <!-- Icon -->
+    <h2 class="active"> Log In </h2>
+    <div class="fadeIn first">
+      <img src="/images/icon.svg" id="icon" alt="User Icon" />
+    </div>
+
+    <!-- Login Form -->
+    <form id="loginForm" action="/login" method="post">
+      <div class="container">
+        <div class="input-container">
+            <input type="text" id="userName" name="userName" placeholder="User Name" autocomplete="off" width="100%">
+        </div>
+        <div class="input-container">
+            <input type="password" id="password" name="password" placeholder="Password" autocomplete="off" width="100%">
+        <i class="bi bi-eye-fill toggle-password" onclick="togglePassword()"></i>
+        </div>
+    </div>
+
+       
+        
+         
+  	  
+        <div id="captcha">
+    </div>
+            <div class="input-container px-3">
+    
+    <input type="text" placeholder="Captcha" id="cpatchaTextBox" required="required" maxlength="6" autocomplete="off" width="100%" onkeypress="return isNumberKey(event)"/>
+    </div>
+    <p id="invalidCaptcha" class="text-danger h4"></p>
+      <input type="submit" class="fadeIn fourth btn btn-primary" value="Log In">
+    </form>
+
+    
+    <div id="formFooter">
+      <a class="underlineHover" href="/forgotPassword">Forgot Password?</a>
+    </div>
+
+  </div>
+</div>
+
+</body>
+
+  <script>
+        function togglePassword() {
+            const passwordField = document.getElementById("password");
+            const toggleIcon = document.querySelector(".toggle-password");
+            const type = passwordField.getAttribute("type") === "password" ? "text" : "password";
+            passwordField.setAttribute("type", type);
+            toggleIcon.classList.toggle("bi-eye-slash-fill");
+            toggleIcon.classList.toggle("bi-eye-fill");        }
+    </script>
+
+<script type="text/javascript">
+
+
+
+//alert('');
+$( "#loginForm" ).submit(function(event ) {
+	  //alert( "submit() called");
+	  
+	  
+	  if($("#userName").val()==""){
+		  Swal.fire({
+			  icon: 'warning',
+			  title: 'Oops...',
+			  text: 'Please Enter UserName !',
+			  
+			})
+		  return false;
+	  }
+	  
+	  else if($("#password").val()==""){
+		  Swal.fire({
+			  icon: 'warning',
+			  title: 'Oops...',
+			  text: 'Please Enter Password !',
+			  
+			})
+		  return false;
+	  }
+	  var captchaValue = validateCaptcha();
+	  if(captchaValue){
+		  var passwordField = document.getElementById("password");
+          var encryptedPassword = btoa(passwordField.value); 
+          passwordField.value = encryptedPassword;
+	  }
+	  return captchaValue;
+	});
+</script>
+ <script type="text/javascript">
+    $(document).ready(function () {
+        var successMessage = "";
+        if (successMessage && successMessage.length > 0) {
+        	alert("==="+successMessage)
+            Swal.fire({
+                position: 'top-end',
+                icon: 'success',
+                title: successMessage,
+                showConfirmButton: false,
+                timer: 5000
+            });
+        }
+    });
+</script>
+ 
+</html>
+				</div>
+					
+				<div class="col-sm-3">
+					
+				</div>
+			</div>
+		</div>
+		
+			
+			
+			<div>
+				
+
+
+
+      
+	<style>
+	.toggleDiv 
+	{
+  background-color: transparent;    
+  cursor: pointer;
+    transition: transform 0.5s ease, opacity 0.5s ease; /* Add a dynamic transition effect */
+
+
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-3x {
+     font-size: 3em; 
+}
+
+.hidden 
+{
+  opacity: 0;
+  pointer-events: none; /* Disable pointer events on hidden div */
+transform: scale(0);    
+}
+      
+	</style>
+	
+	<!-- <script>
+	function toggleChatbot()
+	{
+		
+		  var chatbotIcon = document.getElementById("chatbotIcon");
+		  var chatbotWindow = document.getElementById("chatbotWindow");
+
+		  chatbotIcon.classList.toggle("hidden");
+		  chatbotWindow.classList.toggle("hidden");
+		  
+		  //
+		}         
+</script>    -->
+<div class="support-section">
+	<div class="container-fluid _no-padding">
+
+		<div class="row d-flex justify-content-center">
+		
+		<div class="col-sm-6 col-md-4 col-lg-2">
+				<div class="panel panel-default sidebar-menu with-icons ">
+					<div class="panel-heading">
+						<h3 class="h4 panel-title">TGPSC</h3>
+					</div>
+					<div class="panel-body">
+						<span style='color:#35d8ff;font-size: 16px;'><b>Smt. M. HARITHA, IAS.,</b></span> <br> Secretary <br>Telangana Public Service Commission<br> Prathibha Bhavan, M.J.Road, <br>Nampally, Hyderabad - 500001. <br>Telephone No:  040-24747577
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-sm-6 col-md-4 col-lg-2">
+				<div class="panel panel-default sidebar-menu with-icons">
+					<div class="panel-heading">
+						<h3 class="h4 panel-title">Call Center</h3>
+					</div>
+					<div class="panel-body">
+						For any queries / information / grievance contact Ph. No: 040-22445566 / 040-67445566  (Call Time :10.30 A.M to 5:00 P.M on working days) email to : helpdesk@tgpsc.gov.in
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-4 col-lg-2">
+				<div class="panel panel-default sidebar-menu with-icons">
+					<div class="panel-heading">
+						<h3 class="h4 panel-title">Technical Team</h3>
+					</div>
+					<div class="panel-body">
+						For any doubts in Online submission and download of hall-tickets Call Ph: 040-23120301 / 23120302 (Call Time :10:30 A.M to 5:00 P.M) 
+					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-7 col-md-4 col-lg-3" >
+				<div class="panel panel-default sidebar-menu with-icons"
+					style="background-color: #1c529b; border: none;">
+					<div class="panel-heading">
+						<h3 class="h4 panel-title">PAYMENTS RELATED</h3>
+					</div>
+
+					<div class="panel-body"
+						style="background-color: #1c529b; padding: 0;">
+						<ul style="margin: 0; padding-left: 20px;">
+
+							<li><a
+								href="/jsp/footerLinks/aboutUS.jsp" target="_blank"
+								style="display: block; padding: 3px 0; color: white; font-size: 14px;">
+									 About Us </a></li>
+
+							<li><a
+								href="/jsp/footerLinks/termsAndConditions.jsp" target="_blank"
+								style="display: block; padding: 3px 0; color: white; font-size: 14px;">
+									 Terms & Conditions </a></li>
+
+							<li><a
+								href="/jsp/footerLinks/refundAndCancellationPolicy.jsp" target="_blank"
+								style="display: block; padding: 3px 0; color: white; font-size: 14px;">
+									 Refund Policy & Cancellation Policy </a></li>
+
+							<li><a
+								href="/jsp/footerLinks/privacyPolicy.jsp" target="_blank"
+								style="display: block; padding: 3px 0; color: white; font-size: 14px;">
+									Privacy Policy </a></li>
+							<li><p style="display: block; padding: 3px 0; color: white; font-size: 14px;"> Email : Hydsupport@billdesk.com</p></li>
+
+						</ul>
+					</div>
+
+				</div>
+			</div>
+
+			
+
+			
+			
+		</div>
+	</div>
+</div>
+<!-- <section class="social-pay">
+<div class="container ">
+<div class="row">
+
+</div>
+</div>
+ </section> -->
+ 
+
+<div>
+
+
+
+</div>
+
+<!-- FOOTER -->
+<footer class="main-footer ">
+
+	<div class="container ">
+
+	<br>
+		<div class="row">
+
+			<div class="col-sm-3 "></div>
+			
+			<div class="col-sm-2 ">
+					<span  onclick="$('#hyperlinking_policy_div').slideToggle('slow');" style="cursor:pointer;" title="Click here to view Hyperlinking Policy">
+						<label  style="text-decoration: underline;color:#adadad;">Hyperlinking Policy </label>
+					</span>
+			</div>
+			<div class="col-sm-2 ">
+					<span  onclick="$('#privacy_policy_div').slideToggle('slow');" style="cursor:pointer;" title="Click here to view Privacy Policy">
+						<label  style="text-decoration: underline;color:#adadad;">Privacy Policy </label>
+					</span>
+			</div>
+			<div class="col-sm-2 ">
+					<span  onclick="$('#security_policy_div').slideToggle('slow');" style="cursor:pointer;" title="Click here to view Security Policy">
+						<label style="text-decoration: underline;color:#adadad;">Security Policy</label>
+					</span>
+			</div>
+	<div class="col-sm-3 "></div>
+	
+<div class="col-sm-12 text-center">
+	
+    
+	<div align="left" style="display:none; text-align: justify;" id="hyperlinking_policy_div">
+		<label>Hyperlinking Policy </label>
+	<p>
+	At many places in this Website you shall find links to other Websites These links have been placed for your convenience. TGPSC is not responsible for the contents of the linked destinations and does not necessarily endorse the views expressed in them. May presence of the link or its listing on this Website should not be assumed as endorsement of any kind. We cannot guarantee that these links will work all the time and we have no control over availability of linked destinations.
+	</p>
+	</div>
+	<br>
+	
+    
+	<div align="left" style="display:none; text-align: justify;" id="privacy_policy_div">
+	<label>Privacy Policy </label>
+	<p>
+	TGPSC Website does not automatically capture any specific personal information from you (like name, phone number or e-mail address), that allows us to identify you individually. If you choose to provide us with your personal information, like names or addresses, when you visit our website, we use it only to fulfil your request for information. To avail online services, this website requires user registration. Information so collected is used to facilitate interaction.
+	</p>
+	<p>
+	We do not sell or share any personally identifiable information volunteered on this site to any third party (public/private). Any information provided to this website will be protected from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+	</p>
+	<p>
+	We gather certain information about the User, such as Internet protocol (IP) address, domain name, browser type, operating system, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected.
+	</p>
+			
+	</div>
+	
+	<div align="left" style="display:none; text-align: justify;" id="security_policy_div">
+	<label>Security Policy </label>
+	<p>
+The Website of TGPSC has been placed in protected zones with implementation of firewalls and IDS (Intrusion Detection System) and high availability solutions.
+</p>
+<p>
+The Website of TGPSC has been audited for known application level vulnerabilities before the launch and all the known vulnerability has been addressed.
+</p>
+<p>
+All the development work is done on separate development environment and is well tested on staging server before updating it on the production server.
+</p>
+<p>
+After testing properly on the staging server the applications are uploaded to the production server.
+</p>
+<p>
+The content contributed by/from remote locations is duly authenticated &amp; is not published on the production server directly. Any content contributed has to go through the moderation process before final publishing to the production server.
+</p>
+<p>
+All contents of the web pages are checked for intentional or unintentional malicious content before final upload to web server pages.
+</p>
+<p>
+All newly released system software patches; bug fixes and upgrades are expediently and regularly reviewed and installed on the web server.
+</p>
+<p>
+On Production web servers, Internet browsing, mail and any other desktop applications are disabled. Only server administration related task is performed.
+</p>
+	
+	</div>
+	</div>
+
+			<div class="col-sm-12 text-center">
+
+				<p style="color: #fff;     margin: 0;    text-align: center; 	position:relative;">
+					<span style="background: #020211;     z-index: 9; padding: 3px 25px;     position: relative;   color: #adadad;  text-transform: uppercase;  font-size: 14px;">2026  &copy; TGPSC., All rights reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+						 Designed & Developed by
+					</span><img src="/img/cgg_logo.png" 	alt="cgg logo " />
+				</p>
+				                <span style="width: 100%; height: 1px; background: #a9a9a9; position: absolute; left: 0; top: 15px;"></span>
+				  
+			</div>
+		</div>
+	</div>            
+	<br>
+	  			<div align="center">
+		                               <div class="row" >
+		                	           <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12" style="color:#7e7e7e;font-size:12px!important;"> 
+		                	        		 Version : 2.1.4
+		                	           </div>
+		                               </div>
+		                              
+		                               
+		                               <div class="row" >
+		                	           <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12" style="color:#7e7e7e;font-size:12px!important;"> 
+		                	           This site is best viewed in 1024 * 768 resolution with latest version of Chrome, Firefox, Safari and Internet Explorer.<br>
+		                	           This site last updated on 25/09/2026 06:54:17 AM
+		                	           </div>
+		                               </div>
+                               </div>
+	 <br>  <input type="hidden" value="24-Sep-2026 05:44:43 PM"><br>
+	 
+	 
+	 
+
+
+        
+
+               
+</footer>   
+
+<!-- Javascript files-->
+<!-- <script>
+	jQuery(document).ready(function($) {
+
+		$('.carousel').carousel()
+
+	});
+</script> -->       
+<script
+	src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript"
+	src="/js/jquery.marquee.js"></script>
+
+<script type="text/javascript">
+	$(function() {
+
+		$('#marquee-vertical').marquee();
+
+	});
+</script>
+			
+
+
+
+</body>
+
+
+			</div>
+			
+		
+
+</html>

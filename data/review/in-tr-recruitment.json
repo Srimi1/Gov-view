@@ -1,0 +1,401 @@
+{
+  "sourceId": "in-tr-recruitment",
+  "collectedAt": "2026-09-24T22:31:49.055Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 01/2026",
+      "programme": "Assistant Tourist Officer",
+      "status": "closed",
+      "statusNote": "Scanned official advertisement transcribed as a review draft; no founder acceptance yet.",
+      "scopeLabel": "Tripura Tourism Department, Assistant Tourist Officer recruitment",
+      "outcome": "2 Assistant Tourist Officer posts: one Scheduled Tribe, one unreserved after addendum",
+      "qualifications": "Bachelor's degree in Travel/Tourism Management or Tourism Administration from a recognized university; PRTC. Bengali or Kokborok knowledge desirable, with no stated level (original page 1; addendum page 1).",
+      "citizenshipRule": "TPSC advertisement 01/2026 invites bonafide citizens of India. Foreign citizens do not meet this published criterion.",
+      "residenceRule": "Permanent Resident Certificate of Tripura (PRTC) required at application. Current address is insufficient proof.",
+      "selectionStages": [
+        "170-mark MCQ written test, including English, general knowledge and tourism subjects",
+        "30-mark interview/personality test"
+      ],
+      "fee": "₹350 general; ₹250 ST/SC, BPL cardholders and persons with disabilities (original page 4).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-04-18",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "TPSC advertisement 01/2026, page 1: online applications invited from bonafide citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify Permanent Resident Certificate of Tripura (PRTC) required by advertisement 01/2026; current address alone does not prove certificate eligibility."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 2026-04-18, all category/disability/government-service relaxations, and grade-specific qualifications where applicable."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify educational qualification and certificates by advertised application closing date."
+          },
+          {
+            "stage": "selection",
+            "text": "Bengali or Kokborok is desirable, not a published mandatory language level; review later test/interview instructions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exact examination venue not stated in advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://tpsc.onlinetripura.in/",
+      "changes": [
+        {
+          "at": "2026-03-27",
+          "kind": "extended",
+          "summary": "Addendum adds one unreserved vacancy and extends application deadline from 18 to 27 April 2026 at 5:30 PM; original 18 April age date unchanged."
+        }
+      ],
+      "id": "tripura-psc-2026-01",
+      "sourceId": "in-tr-recruitment",
+      "title": "Assistant Tourist Officer",
+      "authority": "Tripura Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-03-24",
+        "closesOn": "2026-04-27",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "TPSC advertisement 01/2026 and 27 March addendum state 5:30 PM closing time without a timezone; Asia/Kolkata is local Tripura interpretation."
+      },
+      "sources": [
+        {
+          "id": "in-tr-recruitment:c30e36b5cdad",
+          "title": "TPSC advertisement register",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://tpsc.tripura.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/advertisement",
+          "sha256": "fcdddfc5769318e6e31030f4a002234c4809d5566818d393f73e854387470f49",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:50.525Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tr-recruitment:fc8d8e9edf1a",
+          "title": "TPSC advertisement 01/2026",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_01_2026_170326.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/sites/default/files/Advt_01_2026_170326.pdf",
+          "sha256": "140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:54.279Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tr-recruitment:67b96354dae4",
+          "title": "TPSC 01/2026 vacancy and deadline addendum",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://tpsc.tripura.gov.in/sites/default/files/Addendum_01_2026_300326.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/sites/default/files/Addendum_01_2026_300326.pdf",
+          "sha256": "6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:53.192Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 02/2026",
+      "programme": "Assistant Technical Officer",
+      "status": "closed",
+      "statusNote": "Scanned official advertisement transcribed as a review draft; no founder acceptance yet.",
+      "scopeLabel": "Tripura Information Technology Service, Group B gazetted recruitment",
+      "outcome": "220 Assistant Technical Officer posts; category reservation applies",
+      "qualifications": "BE/BTech in Computer Science, IT, Electronics, Electronics and Communication, or Electronics and Telecommunications; alternatively MCA, from an accepted institution. PRTC required. Bengali or Kokborok desirable, no level stated (page 1).",
+      "citizenshipRule": "TPSC advertisement 02/2026 invites bonafide citizens of India. Foreign citizens do not meet this published criterion.",
+      "residenceRule": "Permanent Resident Certificate of Tripura (PRTC) required at application. Current address is insufficient proof.",
+      "selectionStages": [
+        "170-mark written MCQ examination; answers in English only",
+        "30-mark interview/personality test"
+      ],
+      "fee": "₹350 general; ₹250 ST/SC, BPL cardholders and persons with disabilities (page 4).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-06-05",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "TPSC advertisement 02/2026, page 1: online applications invited from bonafide citizens of India."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "Written-examination answers must be in English only; notice gives no CEFR or equivalent proficiency level.",
+            "evidence": "Advertisement 02/2026, attached examination rules, PDF page 9.",
+            "sourceUrl": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify Permanent Resident Certificate of Tripura (PRTC) required by advertisement 02/2026; current address alone does not prove certificate eligibility."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 2026-06-05, all category/disability/government-service relaxations, and grade-specific qualifications where applicable."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify educational qualification and certificates by advertised application closing date."
+          },
+          {
+            "stage": "selection",
+            "text": "Bengali or Kokborok is desirable, not a published mandatory language level; review later test/interview instructions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exact examination venue not stated in advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://tpsc.onlinetripura.in/",
+      "changes": [],
+      "id": "tripura-psc-2026-02",
+      "sourceId": "in-tr-recruitment",
+      "title": "Assistant Technical Officer",
+      "authority": "Tripura Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-05-12",
+        "closesOn": "2026-06-05",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "TPSC advertisement 02/2026 state 5:30 PM closing time without a timezone; Asia/Kolkata is local Tripura interpretation."
+      },
+      "sources": [
+        {
+          "id": "in-tr-recruitment:c30e36b5cdad",
+          "title": "TPSC advertisement register",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://tpsc.tripura.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/advertisement",
+          "sha256": "fcdddfc5769318e6e31030f4a002234c4809d5566818d393f73e854387470f49",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:50.525Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tr-recruitment:30c114d6434b",
+          "title": "TPSC advertisement 02/2026",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf",
+          "sha256": "cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:52.412Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 03/2026",
+      "programme": "Junior Engineer, Electrical (Grade I degree / Grade II diploma)",
+      "status": "closed",
+      "statusNote": "Scanned official advertisement transcribed as a review draft; no founder acceptance yet.",
+      "scopeLabel": "Combined Junior Engineer Electrical examination; Grade I degree and Grade II diploma positions",
+      "outcome": "8 Junior Engineer posts: Grade I has 5; Grade II has 3. Grade choice and application identity need portal review.",
+      "qualifications": "Grade I requires Electrical Engineering degree; Grade II requires Electrical Engineering diploma or equivalent. PRTC required for both; Bengali or Kokborok desirable without a stated level (pages 1–2).",
+      "citizenshipRule": "TPSC advertisement 03/2026 invites bonafide citizens of India. Foreign citizens do not meet this published criterion.",
+      "residenceRule": "Permanent Resident Certificate of Tripura (PRTC) required at application. Current address is insufficient proof.",
+      "selectionStages": [
+        "100-mark preliminary MCQ screening",
+        "500-mark main written examination, including English Composition",
+        "50-mark interview/personality test"
+      ],
+      "fee": "Grade I Group B: ₹350 general / ₹250 ST/SC, BPL, disability. Grade II Group C: ₹200 general / ₹150 ST/SC, BPL, disability (page 5).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-06-12",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "TPSC advertisement 03/2026, pages 1–2: online applications invited from bonafide citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify Permanent Resident Certificate of Tripura (PRTC) required by advertisement 03/2026; current address alone does not prove certificate eligibility."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 2026-06-12, all category/disability/government-service relaxations, and grade-specific qualifications where applicable."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify educational qualification and certificates by advertised application closing date."
+          },
+          {
+            "stage": "selection",
+            "text": "Bengali or Kokborok is desirable, not a published mandatory language level; review later test/interview instructions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exact examination venue not stated in advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://tpsc.onlinetripura.in/",
+      "changes": [],
+      "id": "tripura-psc-2026-03",
+      "sourceId": "in-tr-recruitment",
+      "title": "Junior Engineer, Electrical (Grade I degree / Grade II diploma)",
+      "authority": "Tripura Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-05-19",
+        "closesOn": "2026-06-12",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "TPSC advertisement 03/2026 state 5:30 PM closing time without a timezone; Asia/Kolkata is local Tripura interpretation."
+      },
+      "sources": [
+        {
+          "id": "in-tr-recruitment:c30e36b5cdad",
+          "title": "TPSC advertisement register",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://tpsc.tripura.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/advertisement",
+          "sha256": "fcdddfc5769318e6e31030f4a002234c4809d5566818d393f73e854387470f49",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:50.525Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tr-recruitment:14aa465fdbd7",
+          "title": "TPSC advertisement 03/2026",
+          "authority": "Tripura Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_03_2026_070526.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tpsc.tripura.gov.in/sites/default/files/Advt_03_2026_070526.pdf",
+          "sha256": "086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476",
+          "lastSuccessfulFetchAt": "2026-09-24T22:31:51.899Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://tpsc.tripura.gov.in/advertisement",
+      "fetchedAt": "2026-09-24T22:31:50.525Z",
+      "sha256": "fcdddfc5769318e6e31030f4a002234c4809d5566818d393f73e854387470f49",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 143906
+    },
+    {
+      "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_03_2026_070526.pdf",
+      "fetchedAt": "2026-09-24T22:31:51.899Z",
+      "sha256": "086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476",
+      "contentType": "application/pdf",
+      "bytes": 5664334
+    },
+    {
+      "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf",
+      "fetchedAt": "2026-09-24T22:31:52.412Z",
+      "sha256": "cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72",
+      "contentType": "application/pdf",
+      "bytes": 4484053
+    },
+    {
+      "url": "https://tpsc.tripura.gov.in/sites/default/files/Addendum_01_2026_300326.pdf",
+      "fetchedAt": "2026-09-24T22:31:53.192Z",
+      "sha256": "6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9",
+      "contentType": "application/pdf",
+      "bytes": 218776
+    },
+    {
+      "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_01_2026_170326.pdf",
+      "fetchedAt": "2026-09-24T22:31:54.279Z",
+      "sha256": "140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291",
+      "contentType": "application/pdf",
+      "bytes": 2781551
+    }
+  ],
+  "warnings": [
+    "Three closed 2026 advertisement drafts only; other TPSC notices, departments and Tripura authorities remain coverage gaps.",
+    "03/2026 advertises two Junior Engineer grades under one combined examination. Whether grade selection permits separate applications needs official portal review before publication.",
+    "PRTC is a certificate rule, not an address comparison. Bengali/Kokborok is desirable without a published proficiency level. All scanned transcriptions require founder review.",
+    "TPSC news and notifications include later exam schedules/results; this pilot checks the advertisement register only and does not claim complete current-cycle status."
+  ],
+  "approvalRevisions": {
+    "tripura-psc-2026-01": {
+      "evidenceRevision": "a118083a0caaebbe3c46247255eaf02f16a96843dfeffd8ab014f24fb016b931",
+      "recordRevision": "39e2c21d0b7be8ac8e12515912d26c7cc3283ee01d0c1f58d32ce284ecc2746b"
+    },
+    "tripura-psc-2026-02": {
+      "evidenceRevision": "01e10ba1198f1ad104e408475f58f651d9b750d2ae76e03bc44a51a8f80418a0",
+      "recordRevision": "f48496f54cc8e3e2534b79b3e1e2552fa3a985c11d312415cafeb8a8ae7ee7a3"
+    },
+    "tripura-psc-2026-03": {
+      "evidenceRevision": "fc8acf42d9fe1af9801f1aae49a74b9a00f65ddc782aecd22572cd93b35fcbad",
+      "recordRevision": "931f90782f57b655e696d46bd29608f0571d4f65d9b8b9968b0b7fd6f612636c"
+    }
+  }
+}

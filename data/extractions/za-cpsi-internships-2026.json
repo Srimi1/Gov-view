@@ -1,0 +1,13 @@
+{
+  "circularUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/",
+  "annexureUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/b.pdf",
+  "annexureSha256": "907508bf82328944203b2ed15c74f68a1d8c10f6cb888de55851d73141a07e34",
+  "applicationUrl": "https://erecruitment.cpsi.co.za",
+  "postedOn": "2026-09-18",
+  "closesOn": "2026-10-05",
+  "cutoffLocalTime": "23:59",
+  "posts": [
+    { "id": "za-cpsi-internal-audit-intern-2026-0003", "postCode": "34/08", "reference": "0003/2026", "title": "Intern: Internal Audit", "qualification": "Senior Certificate/Grade 12 and a recognised National Diploma or Degree (NQF 6/7) in Internal Audit." },
+    { "id": "za-cpsi-legal-services-intern-2026-0004", "postCode": "34/09", "reference": "0004/2026", "title": "Intern: Legal Services", "qualification": "Senior Certificate/Grade 12 and a recognised degree (NQF 7) in law." }
+  ]
+}

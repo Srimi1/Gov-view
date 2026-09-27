@@ -1,0 +1,1775 @@
+{
+  "sourceCapture": "data/evidence/research/ncs-classified-jobs-2026-09-27-browser.json",
+  "observedDate": "2026-09-27",
+  "method": "Exact normalized published-target hostname compared with registry homepage hostname. Same-host matches are review candidates only; they do not prove coverage, authority identity, or duplicate cycle identity.",
+  "registrySourceCount": 119,
+  "indexRows": 145,
+  "rowsWithSameHostRegistryCandidate": 79,
+  "rowsWithoutSameHostRegistryCandidate": 66,
+  "possibleDuplicateLeadSequences": [
+    [
+      125,
+      126
+    ]
+  ],
+  "appointmentPolicy": "Raw Type mixes reservation categories and appointment labels. No deterministic appointment type or eligibility inferred.",
+  "leads": [
+    {
+      "sequence": 1,
+      "organizationRaw": "DRDO - DYSL-SM, Hyderabad",
+      "positionRaw": "Junior Research Fellowship (JRF)",
+      "postingDateRaw": "2026-09-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 2,
+      "organizationRaw": "DRDO - CVRDE, Chennai",
+      "positionRaw": "Paid Internship Scheme 2026-27",
+      "postingDateRaw": "2026-09-08",
+      "vacanciesRaw": "35",
+      "typeRaw": "Internship",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCVRDE08092026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 3,
+      "organizationRaw": "DRDO - LRDE, Bengaluru",
+      "positionRaw": "Junior Research Fellow (JRF) 2026",
+      "postingDateRaw": "2026-09-07",
+      "vacanciesRaw": "2",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 4,
+      "organizationRaw": "India Post",
+      "positionRaw": "Driver (Ordinary Grade)",
+      "postingDateRaw": "2026-09-01",
+      "vacanciesRaw": "11",
+      "typeRaw": "Deputation / Absorption",
+      "publishedTarget": "blob:https://www.indiapost.gov.in/76ce6339-5f6d-4bd4-94b2-e69315639170",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required",
+      "linkGap": "Non-durable blob URL; no usable notice URL established"
+    },
+    {
+      "sequence": 5,
+      "organizationRaw": "DRDO - CVRDE, Chennai",
+      "positionRaw": "Apprenticeship Training",
+      "postingDateRaw": "2026-08-31",
+      "vacanciesRaw": "93",
+      "typeRaw": "Apprentice",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCVRDE02092026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 6,
+      "organizationRaw": "DRDO - NPOL, Kochi",
+      "positionRaw": "Junior Research Fellow (JRF)",
+      "postingDateRaw": "2026-08-31",
+      "vacanciesRaw": "4",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtNPOL01092026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 7,
+      "organizationRaw": "DRDO - VRDE, Ahilyanagar",
+      "positionRaw": "Junior Research Fellow (JRF)",
+      "postingDateRaw": "2026-08-31",
+      "vacanciesRaw": "5",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtVRDE31082026En.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 8,
+      "organizationRaw": "APEDA",
+      "positionRaw": "Associate (Legal)",
+      "postingDateRaw": "2026-08-27",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contract",
+      "publishedTarget": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-apeda-associates-2026"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 9,
+      "organizationRaw": "DRDO - DEBEL, Bengaluru",
+      "positionRaw": "Junior Research Fellow (JRF)",
+      "postingDateRaw": "2026-08-27",
+      "vacanciesRaw": "2",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDEBEL27082026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 10,
+      "organizationRaw": "NCI AIIMS Jhajjar",
+      "positionRaw": "Project Technical Support-III",
+      "postingDateRaw": "2026-08-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://www1.aiims.edu/images/pdf/recruitment/advertisement/NCI-25-8-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 11,
+      "organizationRaw": "AIIMS New Delhi (NDDTC)",
+      "positionRaw": "Project Technical Support-III",
+      "postingDateRaw": "2026-08-25",
+      "vacanciesRaw": "2",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://server.aiims.edu/images/pdf/recruitment/advertisement/nddtc-25-8-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 12,
+      "organizationRaw": "DRDO Headquarters",
+      "positionRaw": "Chairperson, CEPTAM",
+      "postingDateRaw": "2026-08-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Direct Recruitment/deputation",
+      "publishedTarget": "https://drdo.gov.in/drdo/offerings/vacancies",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 13,
+      "organizationRaw": "Ministry of Labour & Employment",
+      "positionRaw": "Assistant Provident Fund Commissioner (APFC)",
+      "postingDateRaw": "2026-08-22",
+      "vacanciesRaw": "80",
+      "typeRaw": "Central Govt",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-52-2026-Special-Engl-210826.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 14,
+      "organizationRaw": "NCDC (MoHFW)",
+      "positionRaw": "Field Worker",
+      "postingDateRaw": "2026-08-13",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://ncdc.mohfw.gov.in/uploads/vacancies/1785324855_NCDC_ED_NPSP_2026_01_correspondence_5032579_2026_169_29-07-2026_04-54-55pm.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 15,
+      "organizationRaw": "NCDC (MoHFW)",
+      "positionRaw": "Junior Laboratory Technician Grade-II",
+      "postingDateRaw": "2026-08-13",
+      "vacanciesRaw": "2",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://ncdc.mohfw.gov.in/uploads/vacancies/1785324855_NCDC_ED_NPSP_2026_01_correspondence_5032579_2026_169_29-07-2026_04-54-55pm.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 16,
+      "organizationRaw": "Railway Recruitment Board (RRB)",
+      "positionRaw": "Junior Engineer (JE), Depot Material Superintendent (DMS), CMA",
+      "postingDateRaw": "2026-08-13",
+      "vacanciesRaw": "4029",
+      "typeRaw": "Ur/obc/sc/st/ews (As Per Notification)",
+      "publishedTarget": "https://www.rrbapply.gov.in/#/auth/landing",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 17,
+      "organizationRaw": "Ministry of Labour & Employment / CGIT Ahmedabad",
+      "positionRaw": "Consultant (PA Post)",
+      "postingDateRaw": "2026-08-12",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.labour.gov.in/static/uploads/2026/08/1a9111a891594ba93233cdce19ccb4f9.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 18,
+      "organizationRaw": "APEDA",
+      "positionRaw": "Associate (Trade)",
+      "postingDateRaw": "2026-08-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contract",
+      "publishedTarget": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-apeda-associates-2026"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 19,
+      "organizationRaw": "DRDO - Defence Research Laboratory (DRL), Tezpur",
+      "positionRaw": "Junior Research Fellow (JRF) / Research Associate (RA)",
+      "postingDateRaw": "2026-08-07",
+      "vacanciesRaw": "6",
+      "typeRaw": "Jrf/ra",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDRL11082026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 20,
+      "organizationRaw": "DRDO - Centre for Artificial Intelligence & Robotics (CAIR), Bengaluru",
+      "positionRaw": "Junior Research Fellow (JRF)",
+      "postingDateRaw": "2026-08-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCAIR14082026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 21,
+      "organizationRaw": "DRDO - Defence Geoinformatics Research Establishment (DGRE), Chandigarh",
+      "positionRaw": "Junior Research Fellow (JRF)",
+      "postingDateRaw": "2026-07-31",
+      "vacanciesRaw": "8",
+      "typeRaw": "Jrf",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDGRE31072026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 22,
+      "organizationRaw": "Bharat Electronics Limited (BEL)",
+      "positionRaw": "Probationary Legal\nOfficer / E-II",
+      "postingDateRaw": "2026-07-29",
+      "vacanciesRaw": "1",
+      "typeRaw": "Ur-01",
+      "publishedTarget": "https://bel-india.in/wp-content/uploads/2026/07/Detailed-advt-Prob-Legal-Officer-English.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 23,
+      "organizationRaw": "DRDO - Solid State Physics Laboratory (SSPL), Delhi",
+      "positionRaw": "Internship",
+      "postingDateRaw": "2026-07-29",
+      "vacanciesRaw": "65",
+      "typeRaw": "Internship",
+      "publishedTarget": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL_30072026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-or-drdo-pxe-apprentices"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 24,
+      "organizationRaw": "Department of Local Self Government, Rajasthan",
+      "positionRaw": "Safai Karamchari (Corrigendum/Amendment)",
+      "postingDateRaw": "2026-07-28",
+      "vacanciesRaw": "Not Disclosed",
+      "typeRaw": "Corrigendum",
+      "publishedTarget": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/OrderEntry/LSG/2026/Recruitment_Related/O_280726_11dfd223-b302-485f-84d0-b44162366925.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 25,
+      "organizationRaw": "Department of Local Self Government, Rajasthan",
+      "positionRaw": "Safai Karamchari (Sanitation Worker)",
+      "postingDateRaw": "2026-07-28",
+      "vacanciesRaw": "24752",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/OrderEntry/LSG/2026/Recruitment_Related/O_280726_dbadae6e-6843-48a4-8616-952e49d49d7a.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 26,
+      "organizationRaw": "AIIMS New Delhi (Pediatrics Genetics Division)",
+      "positionRaw": "Project Associate-I",
+      "postingDateRaw": "2026-07-28",
+      "vacanciesRaw": "1",
+      "typeRaw": "Dbt Project",
+      "publishedTarget": "https://server.aiims.edu/images/pdf/recruitment/advertisement/pead-28-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 27,
+      "organizationRaw": "AIIMS New Delhi (Pediatrics Genetics Division)",
+      "positionRaw": "Senior Project Associate",
+      "postingDateRaw": "2026-07-28",
+      "vacanciesRaw": "1",
+      "typeRaw": "Dbt Project",
+      "publishedTarget": "https://server.aiims.edu/images/pdf/recruitment/advertisement/pead-28-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 28,
+      "organizationRaw": "Government of Puducherry, Department of Animal Husbandry & Animal Welfare",
+      "positionRaw": "Veterinary Assistant Surgeon",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "4",
+      "typeRaw": "Ur-2, Obc-1, Sc-1",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 29,
+      "organizationRaw": "Ministry of Steel",
+      "positionRaw": "Assistant Industrial Adviser",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "2",
+      "typeRaw": "Ur",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 30,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Surgical Oncology)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Obc",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 31,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Immuno-Haematology & Blood Transfusion)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "5",
+      "typeRaw": "Ur-4, Obc-1",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 32,
+      "organizationRaw": "Ministry of Defence (DGAFMS)",
+      "positionRaw": "Civilian Medical Officer",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "18",
+      "typeRaw": "Ur-6, Ews-3, Obc-4, Sc-3, St-2",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 33,
+      "organizationRaw": "Ministry of Culture",
+      "positionRaw": "Scientist 'B' (Zoology)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Sc",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 34,
+      "organizationRaw": "Ministry of Culture",
+      "positionRaw": "Scientist 'B' (Physics)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Obc",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 35,
+      "organizationRaw": "Ministry of Culture",
+      "positionRaw": "Scientist 'B' (Geology)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Ur",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 36,
+      "organizationRaw": "Ministry of Culture",
+      "positionRaw": "Scientist 'B' (Environmental Science)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Ur",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 37,
+      "organizationRaw": "Ministry of Culture",
+      "positionRaw": "Scientist 'B' (Botany)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Ur",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 38,
+      "organizationRaw": "Ministry of Ayush",
+      "positionRaw": "Medical Officer / Research Officer (Unani)",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "4",
+      "typeRaw": "Ur-1, Ews-1, Obc-1, Sc-1",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 39,
+      "organizationRaw": "Ministry of Agriculture & Farmers Welfare",
+      "positionRaw": "Agricultural Engineer",
+      "postingDateRaw": "2026-07-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Obc",
+      "publishedTarget": "https://upsconline.nic.in/ora/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 40,
+      "organizationRaw": "AIIMS New Delhi",
+      "positionRaw": "Project Technical Support-II",
+      "postingDateRaw": "2026-07-22",
+      "vacanciesRaw": "1",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gyne-23-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 41,
+      "organizationRaw": "AIIMS New Delhi",
+      "positionRaw": "Project Technical Support-III",
+      "postingDateRaw": "2026-07-22",
+      "vacanciesRaw": "1",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gyne-23-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 42,
+      "organizationRaw": "AIIMS New Delhi",
+      "positionRaw": "Project Technical Support-III (Dietician)",
+      "postingDateRaw": "2026-07-22",
+      "vacanciesRaw": "1",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gyne-23-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 43,
+      "organizationRaw": "AIIMS New Delhi",
+      "positionRaw": "Project Research Scientist-II (Non-Medical)",
+      "postingDateRaw": "2026-07-18",
+      "vacanciesRaw": "1",
+      "typeRaw": "Icmr Project",
+      "publishedTarget": "https://www.aiims.edu/images/pdf/recruitment/advertisement/emeg.med-20-7-26.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 44,
+      "organizationRaw": "Railway Recruitment Board (RRB)",
+      "positionRaw": "Section Controller",
+      "postingDateRaw": "2026-07-15",
+      "vacanciesRaw": "119",
+      "typeRaw": "Ur-50, Sc-19, St-12, Obc-29, Ews-9",
+      "publishedTarget": "https://www.rrbbbs.gov.in/documentexplorer.php?prmt=TVRrek53PT0=",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 45,
+      "organizationRaw": "Ministry of Labour & Employment / DGOSH Mumbai",
+      "positionRaw": "Director (Industrial Hygiene)",
+      "postingDateRaw": "2026-07-13",
+      "vacanciesRaw": "1",
+      "typeRaw": "Deputation",
+      "publishedTarget": "https://www.labour.gov.in/static/uploads/2026/07/ff7199e6c49c3d63e0b0c4adbe630ec5.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 46,
+      "organizationRaw": "Legislative Department, Ministry of Law & Justice",
+      "positionRaw": "Superintendent (Legal)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 47,
+      "organizationRaw": "Central Forensic Science Laboratory, Directorate of Forensic Science Services, Ministry of Home Affairs",
+      "positionRaw": "Junior Scientific Officer (Toxicology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 48,
+      "organizationRaw": "National Centre for Vector Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare",
+      "positionRaw": "Entomologist (CCCO)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 49,
+      "organizationRaw": "National Centre for Vector Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare",
+      "positionRaw": "Deputy Assistant Director (Entomology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "2",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 50,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Surgical Gastroenterology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 51,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Paediatric Cardiology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 52,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Pulmonary Medicine)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "3",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 53,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Nuclear Medicine)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "3",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 54,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Neonatology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "13",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 55,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Endocrinology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "10",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 56,
+      "organizationRaw": "Department of Health & Family Welfare, Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Clinical Hematology)",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "9",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 57,
+      "organizationRaw": "Serious Fraud Investigation Office (SFIO), Ministry of Corporate Affairs",
+      "positionRaw": "Prosecutor",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 58,
+      "organizationRaw": "Soil and Land Use Survey of India, Department of Agriculture & Farmers Welfare",
+      "positionRaw": "Assistant Soil Chemist",
+      "postingDateRaw": "2026-07-11",
+      "vacanciesRaw": "2",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-08-2026-Engl-100726.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 59,
+      "organizationRaw": "Indian Bureau of Mines",
+      "positionRaw": "Assistant Chemist",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 60,
+      "organizationRaw": "Indian Bureau of Mines",
+      "positionRaw": "Assistant Administrative Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 61,
+      "organizationRaw": "Directorate General of Employment",
+      "positionRaw": "Sub-Regional Employment Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "11",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 62,
+      "organizationRaw": "Central Ground Water Board, Ministry of Jal Shakti",
+      "positionRaw": "Library & Information Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 63,
+      "organizationRaw": "Ministry of Home Affairs",
+      "positionRaw": "Assistant Director (Disaster Management)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 64,
+      "organizationRaw": "Office of Registrar General & Census Commissioner of India",
+      "positionRaw": "Assistant Director of Census Operations (Technical)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "9",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 65,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Urology)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "6",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 66,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Social & Preventive Medicine / Community Medicine)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "11",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 67,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Physical Medicine & Rehabilitation)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "6",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 68,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Paediatric Oncology)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 69,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Paediatric Nephrology)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 70,
+      "organizationRaw": "VMMC & Safdarjung Hospital",
+      "positionRaw": "Specialist Grade III Assistant Professor (Orthopaedics)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "2",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 71,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Neurology)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "21",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 72,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Cardio Vascular & Thoracic Surgery)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 73,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III Assistant Professor (Cardiology)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "9",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 74,
+      "organizationRaw": "Ministry of Health & Family Welfare",
+      "positionRaw": "Specialist Grade III (Orthopaedics)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 75,
+      "organizationRaw": "DGAFMS, Ministry of Defence",
+      "positionRaw": "Store Officer (Civilian)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 76,
+      "organizationRaw": "Ministry of Defence",
+      "positionRaw": "Civilian Assistant Security Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "7",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 77,
+      "organizationRaw": "Ministry of Defence",
+      "positionRaw": "Photographic Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "2",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 78,
+      "organizationRaw": "Ministry of Defence",
+      "positionRaw": "Senior Photographic Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "4",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 79,
+      "organizationRaw": "Archaeological Survey of India",
+      "positionRaw": "Deputy Superintending Archaeologist",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "2",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 80,
+      "organizationRaw": "Ministry of Corporate Affairs",
+      "positionRaw": "Company Prosecutor",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "18",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 81,
+      "organizationRaw": "Directorate General of Civil Aviation",
+      "positionRaw": "Legal Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "12",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 82,
+      "organizationRaw": "Directorate General of Civil Aviation",
+      "positionRaw": "Aeronautical Officer",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "11",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 83,
+      "organizationRaw": "Ministry of AYUSH",
+      "positionRaw": "Medical Officer/Research Officer (Siddha)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "1",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 84,
+      "organizationRaw": "Department of Agriculture & Farmers Welfare",
+      "positionRaw": "Joint Director (Crops Development Directorate)",
+      "postingDateRaw": "2026-07-06",
+      "vacanciesRaw": "6",
+      "typeRaw": "Upsc-direct",
+      "publishedTarget": "https://www.upsc.gov.in/sites/default/files/AdvtNo-07-2026-Engl-250626.pdf",
+      "candidateRegistrySourceIds": [
+        "in-upsc"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 85,
+      "organizationRaw": "Railway Recruitment Boards (RRB)",
+      "positionRaw": "Technician Grade-I Signal & Technician Grade-III",
+      "postingDateRaw": "2026-07-01",
+      "vacanciesRaw": "6238",
+      "typeRaw": "Central Government Recruitment",
+      "publishedTarget": "https://www.rrbapply.gov.in/assets/forms/CEN_03_2026.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 86,
+      "organizationRaw": "Department of Revenue, Ministry of Finance, Government of India",
+      "positionRaw": "Joint Commissioner",
+      "postingDateRaw": "2026-06-22",
+      "vacanciesRaw": "1",
+      "typeRaw": "Deputation",
+      "publishedTarget": "https://dor.gov.in/files/vacancy_documents/JC_DELHI_VACANCY_0.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 87,
+      "organizationRaw": "Central Industrial Security Force (CISF)",
+      "positionRaw": "ASI (Lab Technician)",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "5",
+      "typeRaw": "Temporary Posts",
+      "publishedTarget": "https://ncsdocsstorage.blob.core.windows.net/ncsdocsstorage/common%2Fwhatsnew%2Fnewsletter_1780911495753.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required",
+      "linkGap": "Public time-limited signed URL query omitted; base path retained only for discovery, not actionable evidence"
+    },
+    {
+      "sequence": 88,
+      "organizationRaw": "Central Industrial Security Force (CISF)",
+      "positionRaw": "ASI (X-Ray Technician)",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Temporary Posts",
+      "publishedTarget": "https://ncsdocsstorage.blob.core.windows.net/ncsdocsstorage/common%2Fwhatsnew%2Fnewsletter_1780911495753.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required",
+      "linkGap": "Public time-limited signed URL query omitted; base path retained only for discovery, not actionable evidence"
+    },
+    {
+      "sequence": 89,
+      "organizationRaw": "Central Industrial Security Force (CISF)",
+      "positionRaw": "ASI (Pharmacist)",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "18",
+      "typeRaw": "Temporary Posts",
+      "publishedTarget": "https://ncsdocsstorage.blob.core.windows.net/ncsdocsstorage/common%2Fwhatsnew%2Fnewsletter_1780911495753.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required",
+      "linkGap": "Public time-limited signed URL query omitted; base path retained only for discovery, not actionable evidence"
+    },
+    {
+      "sequence": 90,
+      "organizationRaw": "National Power Training Institute (NPTI)",
+      "positionRaw": "Office Assistant",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "Not Disclosed",
+      "typeRaw": "Short-term Contract (Temporary)",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/0806202664151810118.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 91,
+      "organizationRaw": "National Power Training Institute (NPTI)",
+      "positionRaw": "Consultant",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "Not Disclosed",
+      "typeRaw": "Short-term Contract (Temporary)",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/0806202664151810118.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 92,
+      "organizationRaw": "Sainik School Ambikapur",
+      "positionRaw": "Nursing Sister (Female)",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual (11 Months, Extendable)",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/08062026332481060.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 93,
+      "organizationRaw": "Sainik School Ambikapur",
+      "positionRaw": "Medical Officer",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual (11 Months, Extendable)",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/08062026332481060.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 94,
+      "organizationRaw": "Sainik School Ambikapur",
+      "positionRaw": "TGT (English)",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/08062026332481060.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 95,
+      "organizationRaw": "Ordnance Factory Hospital\nDehu Road Pune",
+      "positionRaw": "MBBS Doctor",
+      "postingDateRaw": "2026-06-08",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/08062026787891021.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 96,
+      "organizationRaw": "National Disaster Management Authority (NDMA), Ministry of Home Affairs, Govt. of India",
+      "positionRaw": "Senior Consultant (Technical Expert – Recovery Programmes: Structural, Social & Public Infrastructure Sectors)",
+      "postingDateRaw": "2026-06-02",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/0206202676659509131.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 97,
+      "organizationRaw": "National Disaster Management Authority (NDMA), Ministry of Home Affairs, Govt. of India",
+      "positionRaw": "Senior Consultant (Technical Expert – Recovery Programmes: Productive/Livelihoods Sectors)",
+      "postingDateRaw": "2026-06-02",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/0206202676659509131.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 98,
+      "organizationRaw": "Labour Department, GNCTD",
+      "positionRaw": "Electrical Overseer / Sub-Inspector",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "19",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 99,
+      "organizationRaw": "Directorate of Education, GNCTD",
+      "positionRaw": "Special Educator (Primary)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "450",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 100,
+      "organizationRaw": "Directorate of Education, GNCTD",
+      "positionRaw": "Trained Graduate Teacher (Special Education Teacher)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "163",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 101,
+      "organizationRaw": "Directorate of Education, GNCTD",
+      "positionRaw": "Domestic Science Teacher",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "129",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 102,
+      "organizationRaw": "Directorate of Education, GNCTD",
+      "positionRaw": "Trained Graduate Teacher (Computer Science)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "675",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 103,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Data Entry Operator Grade-B",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "2",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 104,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Data Processing Assistant Grade-A",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "21",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 105,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Sub Station Apprentice",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "37",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 106,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Assistant Operator cum Mechanic (A/C)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "15",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 107,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Lift Operator",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "13",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 108,
+      "organizationRaw": "New Delhi Municipal Council",
+      "positionRaw": "Fitter Grade-II",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "36",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 109,
+      "organizationRaw": "Information Technology Department, GNCTD",
+      "positionRaw": "I.T. Assistant Grade-A",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "125",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 110,
+      "organizationRaw": "Department of Delhi Archives",
+      "positionRaw": "Assistant Archivist Grade-I",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "4",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 111,
+      "organizationRaw": "Department of Delhi Archives",
+      "positionRaw": "Technical Assistant (Hindi)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "1",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 112,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Physics)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "16",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 113,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Finger Print)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "1",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 114,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Crime Scene/District Mobile Forensic Unit)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "46",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 115,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Cyber Forensic)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "81",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 116,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Photo)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "14",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 117,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (HRD/QC)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "5",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 118,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Documents)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "15",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 119,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Lie Detection)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "12",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 120,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Chemistry)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "37",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 121,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Ballistics)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "18",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 122,
+      "organizationRaw": "Forensic Science Laboratory, GNCTD",
+      "positionRaw": "Junior Scientific Assistant (Biology)",
+      "postingDateRaw": "2026-05-29",
+      "vacanciesRaw": "44",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "candidateRegistrySourceIds": [
+        "in-dl-recruitment"
+      ],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 123,
+      "organizationRaw": "AIIMS, New Delhi & AIIMS-CAPFIMS",
+      "positionRaw": "Assistant Professor, Associate Professor, Additional Professor, Professor (Community Medicine), Tutor (College of Nursing)",
+      "postingDateRaw": "2026-05-25",
+      "vacanciesRaw": "15",
+      "typeRaw": "Direct Recruitment",
+      "publishedTarget": "https://www.aiimsexams.ac.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 124,
+      "organizationRaw": "National Thermal Power Corporation (NTPC)",
+      "positionRaw": "Associate (Retired Executives)",
+      "postingDateRaw": "2026-05-25",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://careers.ntpc.co.in/recruitment/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 125,
+      "organizationRaw": "Sainik School Nalanda (Sainik Schools Society, Ministry of Defence, Govt. of India)",
+      "positionRaw": "PGT (Physics), TGT (Mathematics), Art Master, LDC",
+      "postingDateRaw": "2026-05-22",
+      "vacanciesRaw": "4",
+      "typeRaw": "Mixed (Contractual + Regular)",
+      "publishedTarget": "https://www.sainikschoolnalanda.edu.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 126,
+      "organizationRaw": "Sainik School Nalanda (Sainik Schools Society, Ministry of Defence, Govt. of India)",
+      "positionRaw": "PGT (Physics), TGT (Mathematics), Art Master, LDC",
+      "postingDateRaw": "2026-05-22",
+      "vacanciesRaw": "4",
+      "typeRaw": "Contractual (3) + Regular (1)",
+      "publishedTarget": "https://www.sainikschoolnalanda.edu.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 127,
+      "organizationRaw": "National Company Law Tribunal (NCLT)",
+      "positionRaw": "Joint Registrar, Deputy Registrar, Assistant Registrar, Programmer, Court Officer, Private Secretary, Sr. Legal Assistant, Assistant, Stenographer, Cashier, Record Assistant, UDC, Driver",
+      "postingDateRaw": "2026-05-21",
+      "vacanciesRaw": "100",
+      "typeRaw": "Deputation / Absorption",
+      "publishedTarget": "https://nclt.gov.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 128,
+      "organizationRaw": "Bharat Electronics Limited (BEL)",
+      "positionRaw": "Field Operation Engineer / Project Engineer-I",
+      "postingDateRaw": "2026-05-20",
+      "vacanciesRaw": "56",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://bel-india.in/job-notifications/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 129,
+      "organizationRaw": "J&K Development Finance Corporation Ltd. (Govt. of India Enterprise)",
+      "positionRaw": "Manager (Legal)",
+      "postingDateRaw": "2026-05-19",
+      "vacanciesRaw": "1",
+      "typeRaw": "Regular / Ida Pay Scale",
+      "publishedTarget": "http://www.jkdfc.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 130,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Empanelment of Retired Officers",
+      "postingDateRaw": "2026-05-18",
+      "vacanciesRaw": "Not Disclosed",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/retrired-officers190526.pdf/57110574-930f-4fc7-7356-910c8f243006",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 131,
+      "organizationRaw": "Directorate of Medical Education, Madhya Pradesh",
+      "positionRaw": "Dean",
+      "postingDateRaw": "2026-05-18",
+      "vacanciesRaw": "5",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://medicaleducation.mp.gov.in/uploads/files/Advertisement_Dean_May_2026.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 132,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Associate Consultant",
+      "postingDateRaw": "2026-05-13",
+      "vacanciesRaw": "5",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/DetailedAdvertisementPMIS_3JorhatAssam.pdf/413e301c-04a4-f031-fd8b-4bee6982cf7d",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 133,
+      "organizationRaw": "Bharat Electronics Limited (BEL)",
+      "positionRaw": "Assistant Security Officer",
+      "postingDateRaw": "2026-05-13",
+      "vacanciesRaw": "7",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://bel-india.in/job-notifications/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 134,
+      "organizationRaw": "Field Unit Khadki",
+      "positionRaw": "MBBS Doctor",
+      "postingDateRaw": "2026-05-11",
+      "vacanciesRaw": "3",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/040520264346290520.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 135,
+      "organizationRaw": "Bharat Electronics Limited (BEL)",
+      "positionRaw": "Senior Assistant Engineer (Ex-Servicemen)",
+      "postingDateRaw": "2026-04-28",
+      "vacanciesRaw": "41",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://bel-india.in/job-notifications/",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 136,
+      "organizationRaw": "National Disaster Management Authority (NDMA)",
+      "positionRaw": "Lead Consultant (NRRC Coordinator)",
+      "postingDateRaw": "2026-04-16",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/040520264058780542.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 137,
+      "organizationRaw": "Office of Principal Scientific Adviser",
+      "positionRaw": "Scientist ‘G’",
+      "postingDateRaw": "2026-04-16",
+      "vacanciesRaw": "Not Disclosed",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/040520263348980515.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 138,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Project Associate",
+      "postingDateRaw": "2026-04-15",
+      "vacanciesRaw": "2",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/AdvtUranium-Projects2026.pdf/c782163c-c724-ecba-3104-106095572a29",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 139,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Junior Project Associate (Geologist)",
+      "postingDateRaw": "2026-04-15",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/AdvtUranium-Projects2026.pdf/c782163c-c724-ecba-3104-106095572a29",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 140,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Senior Project Fellow (Geologist)",
+      "postingDateRaw": "2026-04-15",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/AdvtUranium-Projects2026.pdf/c782163c-c724-ecba-3104-106095572a29",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 141,
+      "organizationRaw": "Oil and Natural Gas Corporation (ONGC)",
+      "positionRaw": "Junior Project Associate",
+      "postingDateRaw": "2026-04-15",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://www.ongcindia.com/documents/77751/2660534/AdvtUranium-Projects2026.pdf/c782163c-c724-ecba-3104-106095572a29",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 142,
+      "organizationRaw": "National Disaster Management Authority (NDMA)",
+      "positionRaw": "Senior Consultant (Biological & Public Health Emergencies)",
+      "postingDateRaw": "2026-04-09",
+      "vacanciesRaw": "1",
+      "typeRaw": "Contractual",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/240420262666650430.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 143,
+      "organizationRaw": "National Institute of Technology (NIT)",
+      "positionRaw": "Faculty Positions (Assistant Professor / Associate Professor / Professor)",
+      "postingDateRaw": "2026-04-08",
+      "vacanciesRaw": "30",
+      "typeRaw": "Mixed (Regular/contractual)",
+      "publishedTarget": "https://employmentnews.gov.in/writereaddata/240420266109750427.pdf",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 144,
+      "organizationRaw": "Ministry of Railways (Railway Recruitment Boards - RRB)",
+      "positionRaw": "Assistant Loco Pilot (ALP)",
+      "postingDateRaw": "2026-03-21",
+      "vacanciesRaw": "11127",
+      "typeRaw": "Regular",
+      "publishedTarget": "https://www.rrbcdg.gov.in/2026-01-alp.php",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    },
+    {
+      "sequence": 145,
+      "organizationRaw": "CSIR-Central Electronics Engineering Research Institute (CSIR-CEERI), Ministry of Science & Technology, Govt. of India",
+      "positionRaw": "Technical Officer; Technician",
+      "postingDateRaw": "2026-01-01",
+      "vacanciesRaw": "22",
+      "typeRaw": "Permanent (Direct Recruitment)",
+      "publishedTarget": "https://www.ceeri.res.in",
+      "candidateRegistrySourceIds": [],
+      "status": "employer-notice-review-required"
+    }
+  ]
+}

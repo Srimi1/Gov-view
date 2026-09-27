@@ -1,0 +1,433 @@
+{
+  "observedDate": "2026-09-27",
+  "scope": "Official-source discovery across eight additional jurisdictions. No applicant cycle, automated connector, acceptance or publication decision.",
+  "entries": [
+    {
+      "id": "id-bkn-sscasn",
+      "country": "ID",
+      "name": "Indonesia — BKN SSCASN selection portal",
+      "authority": "Badan Kepegawaian Negara, Indonesia",
+      "homepage": "https://sscasn.bkn.go.id/",
+      "discoveredFrom": "https://www.bkn.go.id/layanan/",
+      "notes": "BKN services page identifies SSCASN. Current landing says Seleksi Sekolah Kedinasan 2026 and timeline data unavailable; do not invent a live civil-service recruitment window from an older search snapshot. Recruitment and service-school admission editions require distinct classification.",
+      "gap": "No adapter or current application cycle extracted. Agency/period-specific notices, CPNS versus PPPK appointment arrangements, admission outcomes, Indonesian and subnational source coverage, nationality, qualifications, language criteria, amendments and access policy require review.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://sscasn.bkn.go.id/"
+        },
+        {
+          "label": "authority-services",
+          "url": "https://www.bkn.go.id/layanan/"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "failed-research-attempt",
+          "url": "https://sscasn.bkn.go.id/",
+          "attemptedAt": "2026-09-26T20:32:45.172Z",
+          "error": "robots.txt unreachable at https://sscasn.bkn.go.id: fetch failed",
+          "metadataPath": "data/evidence/research/world-source-id-bkn-sscasn-portal-2026-09-27-failure.json"
+        },
+        {
+          "label": "authority-services",
+          "status": "retained-research-response",
+          "url": "https://www.bkn.go.id/layanan/",
+          "fetchedAt": "2026-09-26T20:32:57.330Z",
+          "sha256": "0ae8a7124ed78e0d66f7365b171699e21c8d4efaab1a49f6e75b3cd5a5ac13cd",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 100618,
+          "requestedUrl": "https://www.bkn.go.id/layanan/",
+          "file": "data/evidence/research/world-source-id-bkn-sscasn-authority-services-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-id-bkn-sscasn-authority-services-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "my-spa-recruitment",
+      "country": "MY",
+      "name": "Malaysia — SPA career advertisements and SPA9 routes",
+      "authority": "Suruhanjaya Perkhidmatan Awam Malaysia",
+      "homepage": "https://www.spa.gov.my/informasi/iklan-kerjaya",
+      "discoveredFrom": "https://www.spa.gov.my/",
+      "notes": "SPA9 FAQ restricts applications to Malaysian citizens, excluding permanent residents without citizenship. SPA9 covers federal general services, four named state administrations and judicial/legal services; education, police, military and other state administrations use separate appointing authorities. N1 language criterion is Bahasa Melayu credit, at least Grade C at SPM/SVM or government-recognized equivalent, not CEFR.",
+      "gap": "No adapter or cycle extracted. Career page includes a 69-vacancy/207-reserve N1 call and a simultaneous no-advertisement message, plus pagination. Reserve count is not vacancies or cycles. Native school-language certificate, qualification routes, exact appointment terms, regional scope, current notices, deadline timezone and other appointing authorities need review. SPA9 account registration validity is not a vacancy application window.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://www.spa.gov.my/informasi/iklan-kerjaya"
+        },
+        {
+          "label": "application-faq",
+          "url": "https://www.spa.gov.my/perkhidmatan/urusan-pengambilan/soalan-lazim/urusan-permohonan-pekerjaan"
+        },
+        {
+          "label": "n1-conditions",
+          "url": "https://www.spa.gov.my/syarat-permohonan/spm-svm/pembantu-tadbir-perkeranian-operasi-gred-n1"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "retained-research-response",
+          "url": "https://www.spa.gov.my/informasi/iklan-kerjaya",
+          "fetchedAt": "2026-09-26T20:32:46.717Z",
+          "sha256": "864cb71ac6f2193f529ed2d4ad600670940572dc50e6b0cbcdf916e71d4d3f71",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 57838,
+          "requestedUrl": "https://www.spa.gov.my/informasi/iklan-kerjaya",
+          "file": "data/evidence/research/world-source-my-spa-recruitment-portal-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-my-spa-recruitment-portal-2026-09-27-evidence.json"
+        },
+        {
+          "label": "application-faq",
+          "status": "retained-research-response",
+          "url": "https://www.spa.gov.my/perkhidmatan/urusan-pengambilan/soalan-lazim/urusan-permohonan-pekerjaan",
+          "fetchedAt": "2026-09-26T20:32:47.766Z",
+          "sha256": "d9490b561d844d7cb4432528fe87cdd1be8d32a3dba41e00334d6a1cf9500e8b",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 56856,
+          "requestedUrl": "https://www.spa.gov.my/perkhidmatan/urusan-pengambilan/soalan-lazim/urusan-permohonan-pekerjaan",
+          "file": "data/evidence/research/world-source-my-spa-recruitment-application-faq-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-my-spa-recruitment-application-faq-2026-09-27-evidence.json"
+        },
+        {
+          "label": "n1-conditions",
+          "status": "retained-research-response",
+          "url": "https://www.spa.gov.my/syarat-permohonan/spm-svm/pembantu-tadbir-perkeranian-operasi-gred-n1",
+          "fetchedAt": "2026-09-26T20:32:48.542Z",
+          "sha256": "9e5a7fd2c88fa34d981a7480ee220ba3145b93757b40b84b060cc53f8f8c8eb4",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 40003,
+          "requestedUrl": "https://www.spa.gov.my/syarat-permohonan/spm-svm/pembantu-tadbir-perkeranian-operasi-gred-n1",
+          "file": "data/evidence/research/world-source-my-spa-recruitment-n1-conditions-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-my-spa-recruitment-n1-conditions-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "th-ocsc-jobs",
+      "country": "TH",
+      "name": "Thailand — OCSC public recruitment portal",
+      "authority": "Office of the Civil Service Commission, Thailand",
+      "homepage": "https://job.ocsc.go.th/portal",
+      "discoveredFrom": "https://job.ocsc.go.th/portal",
+      "notes": "Official OCSC source identifies public recruitment and general civil-service examination information. Web reader currently exposes no notice text; an empty reader result is not proof of no openings.",
+      "gap": "No adapter or notice extracted. Thai original notices, public versus internal recruitment, exam prerequisites, appointment type, nationality/residence permission, qualifications, human-language requirements, application windows, amendments and all other public authorities require review.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://job.ocsc.go.th/portal"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "retained-research-response",
+          "url": "https://job.ocsc.go.th/portal",
+          "fetchedAt": "2026-09-26T20:32:46.368Z",
+          "sha256": "b3dd8147b0ebe8ba5cc455f28648f1b92780e5fc2ee4da1ae194cfdf6bc156c7",
+          "contentType": "text/html",
+          "bytes": 3930,
+          "requestedUrl": "https://job.ocsc.go.th/portal",
+          "file": "data/evidence/research/world-source-th-ocsc-jobs-portal-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-th-ocsc-jobs-portal-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "mx-trabajaen",
+      "country": "MX",
+      "name": "Mexico — TrabajaEn federal career-service recruitment",
+      "authority": "Mexican federal public administration career-service recruiting authorities",
+      "homepage": "https://www.trabajaen.gob.mx/",
+      "discoveredFrom": "https://www.gob.mx/conapo/documentos/convocatoria-publica-y-abierta-no-001-2026",
+      "notes": "CONAPO official 2026 competition page refers applicants to TrabajaEn and the federal gazette. Registered scope is career-service recruitment, not every federal, state or municipal job. Open-data competition results through first half of 2025 are historical records, not current application windows.",
+      "gap": "Web reader cannot access portal. No adapter or cycle extracted. Gazette amendments, exact notice identity, foreign-applicant conditions, appointment kind, language criteria, dates, fees, public/internal restrictions and state/municipal authorities require original-evidence review. No nationality restriction inferred from portal registration fields or Mexican institution name.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://www.trabajaen.gob.mx/"
+        },
+        {
+          "label": "authority-referral",
+          "url": "https://www.gob.mx/conapo/documentos/convocatoria-publica-y-abierta-no-001-2026"
+        },
+        {
+          "label": "gazette-example",
+          "url": "https://www.diariooficial.gob.mx/vacantes/21984/014276.html"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "failed-research-attempt",
+          "url": "https://www.trabajaen.gob.mx/",
+          "attemptedAt": "2026-09-26T20:32:45.173Z",
+          "error": "robots.txt unreachable at https://www.trabajaen.gob.mx: fetch failed",
+          "metadataPath": "data/evidence/research/world-source-mx-trabajaen-portal-2026-09-27-failure.json"
+        },
+        {
+          "label": "authority-referral",
+          "status": "retained-research-response",
+          "url": "https://www.gob.mx/conapo/documentos/convocatoria-publica-y-abierta-no-001-2026",
+          "fetchedAt": "2026-09-26T20:32:48.293Z",
+          "sha256": "b85bd53ff88f71e734db4a559f10e5b3b9c8fdf3b32199ba159643bc7ef43dd4",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 60573,
+          "requestedUrl": "https://www.gob.mx/conapo/documentos/convocatoria-publica-y-abierta-no-001-2026",
+          "file": "data/evidence/research/world-source-mx-trabajaen-authority-referral-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-mx-trabajaen-authority-referral-2026-09-27-evidence.json"
+        },
+        {
+          "label": "gazette-example",
+          "status": "failed-research-attempt",
+          "url": "https://www.diariooficial.gob.mx/vacantes/21984/014276.html",
+          "attemptedAt": "2026-09-26T20:32:48.293Z",
+          "error": "robots.txt unreachable at https://www.diariooficial.gob.mx: fetch failed",
+          "metadataPath": "data/evidence/research/world-source-mx-trabajaen-gazette-example-2026-09-27-failure.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "cl-empleos-publicos",
+      "country": "CL",
+      "name": "Chile — Empleos Públicos recruitment",
+      "authority": "Dirección Nacional del Servicio Civil, Chile, and employing public institutions",
+      "homepage": "https://www.empleospublicos.cl/",
+      "discoveredFrom": "https://www.serviciocivil.cl/postulantes/",
+      "notes": "Servicio Civil identifies Empleos Públicos for ministries/public services with planta, contrata, honorarios, replacements, Labour Code and special-statute routes. These arrangements cannot all be labelled permanent. ADP, school-director and student-practice portals are separate entry points.",
+      "gap": "Portal web-reader request returned 403; authority referral remains readable. No adapter or cycle extracted. Each employer's original conditions, international permission, language level, appointment arrangement, deadline zone, amendments and municipal/other-authority coverage require review.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://www.empleospublicos.cl/"
+        },
+        {
+          "label": "authority-referral",
+          "url": "https://www.serviciocivil.cl/postulantes/"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "failed-research-attempt",
+          "url": "https://www.empleospublicos.cl/",
+          "attemptedAt": "2026-09-26T20:32:58.747Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.empleospublicos.cl",
+          "metadataPath": "data/evidence/research/world-source-cl-empleos-publicos-portal-2026-09-27-failure.json"
+        },
+        {
+          "label": "authority-referral",
+          "status": "retained-research-response",
+          "url": "https://www.serviciocivil.cl/postulantes/",
+          "fetchedAt": "2026-09-26T20:33:01.762Z",
+          "sha256": "e4f32ba40578934ad8a3301faf559a5340e3d4decf3a0c2ce8a7a95bf5493655",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 68935,
+          "requestedUrl": "https://www.serviciocivil.cl/postulantes/",
+          "file": "data/evidence/research/world-source-cl-empleos-publicos-authority-referral-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-cl-empleos-publicos-authority-referral-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "co-cnsc-simo",
+      "country": "CO",
+      "name": "Colombia — CNSC SIMO career recruitment",
+      "authority": "Comisión Nacional del Servicio Civil, Colombia",
+      "homepage": "https://simo.cnsc.gov.co/",
+      "discoveredFrom": "https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-para-ingresar-la-carrera-administrativa-traves-del-proceso-de",
+      "notes": "CNSC official notice identifies SIMO for national/territorial career-service competitions. The cited May 2026 competition is historical discovery evidence, not an open application claim. Search, process stages and reserved vacancies must be distinguished from an applicant's eligible application cycle.",
+      "gap": "No adapter or current cycle extracted. Dynamic public search, exact OPEC/competition identity, notice agreements/amendments, citizenship/residence rules, language requirements, appointment terms, fees, dates, internal-promotion restrictions and authorities outside CNSC scope remain unverified.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://simo.cnsc.gov.co/"
+        },
+        {
+          "label": "authority-referral",
+          "url": "https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-para-ingresar-la-carrera-administrativa-traves-del-proceso-de"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "retained-research-response",
+          "url": "https://simo.cnsc.gov.co/",
+          "fetchedAt": "2026-09-26T20:33:05.596Z",
+          "sha256": "66562b9ce8889ebef5d1bff98510c98d62f8acde56360c029471660d731c2d1a",
+          "contentType": "text/html;charset=UTF-8",
+          "bytes": 2525,
+          "requestedUrl": "https://simo.cnsc.gov.co/",
+          "file": "data/evidence/research/world-source-co-cnsc-simo-portal-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-co-cnsc-simo-portal-2026-09-27-evidence.json"
+        },
+        {
+          "label": "authority-referral",
+          "status": "retained-research-response",
+          "url": "https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-para-ingresar-la-carrera-administrativa-traves-del-proceso-de",
+          "fetchedAt": "2026-09-26T20:33:13.278Z",
+          "sha256": "1e4bb799d4632e304a0feeb844fe30ae1581155d33d43d16d6ffa5d41e39e554",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 77971,
+          "requestedUrl": "https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-para-ingresar-la-carrera-administrativa-traves-del-proceso-de",
+          "file": "data/evidence/research/world-source-co-cnsc-simo-authority-referral-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-co-cnsc-simo-authority-referral-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "dk-tax-appeals-agency-jobs",
+      "country": "DK",
+      "name": "Denmark — Danish Tax Appeals Agency vacancies",
+      "authority": "Skatteankestyrelsen, Denmark",
+      "homepage": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger",
+      "discoveredFrom": "https://skatteankestyrelsen.dk/job-og-karriere/ansaettelsesprocessen",
+      "notes": "Own-agency official recruitment source; not nationwide recruitment coverage. Public vacancy page renders a loading message. Official process page refers to advertised jobs and an external recruitment provider. Separate jobistaten.dk landing says coming soon; it is not treated as a live notice register.",
+      "gap": "No adapter or cycle extracted. Permitted dynamic vacancy/detail access, external employer binding, appointment arrangements, international eligibility, Danish or other language criteria, dates and amendments require review. Other Danish state, regional, municipal, Greenland and Faroe Islands authorities remain separate gaps.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger"
+        },
+        {
+          "label": "authority-process",
+          "url": "https://skatteankestyrelsen.dk/job-og-karriere/ansaettelsesprocessen"
+        },
+        {
+          "label": "upcoming-portal-research-only",
+          "url": "https://www.jobistaten.dk/"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "retained-research-response",
+          "url": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger",
+          "fetchedAt": "2026-09-26T20:33:00.966Z",
+          "sha256": "2b6fb11b677e3903d3da6e32b2faed6e0cd4be4a351f94d4cb52b6b117557ee5",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 89797,
+          "requestedUrl": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger",
+          "file": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-portal-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-portal-2026-09-27-evidence.json"
+        },
+        {
+          "label": "authority-process",
+          "status": "retained-research-response",
+          "url": "https://skatteankestyrelsen.dk/job-og-karriere/ansaettelsesprocessen",
+          "fetchedAt": "2026-09-26T20:33:01.605Z",
+          "sha256": "4de5bee7b7161f67558fc7a9452c8e838d72a40e4416cf3d20357018317032ca",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 108268,
+          "requestedUrl": "https://skatteankestyrelsen.dk/job-og-karriere/ansaettelsesprocessen",
+          "file": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-authority-process-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-authority-process-2026-09-27-evidence.json"
+        },
+        {
+          "label": "upcoming-portal-research-only",
+          "status": "retained-research-response",
+          "url": "https://www.jobistaten.dk/",
+          "fetchedAt": "2026-09-26T20:33:02.851Z",
+          "sha256": "44627f239dac02cea82afe247b93ef3d082589526b3bd4c18c802d0b2e82484b",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 4300,
+          "requestedUrl": "https://www.jobistaten.dk/",
+          "file": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-upcoming-portal-research-only-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-dk-tax-appeals-agency-jobs-upcoming-portal-research-only-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "id": "be-werkenvoor",
+      "country": "BE",
+      "name": "Belgium — Werkenvoor federal recruitment and language testing",
+      "authority": "Federal Public Service Policy and Support (BOSA), Belgium",
+      "homepage": "https://werkenvoor.be/nl",
+      "discoveredFrom": "https://bosa.belgium.be/nl/news/van-selor-naar-werkenvoorbe-ontdek-nieuwe-website",
+      "notes": "BOSA confirms Selor became Werkenvoor in 2023. Public portal distinguishes recruitment, existing civil-servant progression, language testing/certification and security-profession routes. Dutch/French/German interface availability does not establish a proficiency requirement for every vacancy.",
+      "gap": "No adapter or cycle extracted. Original language versions, exact public versus internal eligibility, statutory versus contractual arrangements, citizenship restrictions and exceptions, role-specific language certificates, language-test outcome, diploma recognition, dates and amendments require review. Regional/community/local authorities are not covered by this federal entry alone.",
+      "requests": [
+        {
+          "label": "portal",
+          "url": "https://werkenvoor.be/nl"
+        },
+        {
+          "label": "authority-referral",
+          "url": "https://bosa.belgium.be/nl/news/van-selor-naar-werkenvoorbe-ontdek-nieuwe-website"
+        },
+        {
+          "label": "language-tests",
+          "url": "https://werkenvoor.be/nl/testen-en-certificaten/taal"
+        }
+      ],
+      "artifacts": [
+        {
+          "label": "portal",
+          "status": "retained-research-response",
+          "url": "https://werkenvoor.be/nl",
+          "fetchedAt": "2026-09-26T20:33:00.588Z",
+          "sha256": "0f3e6e701499d590aa99e9c9cb91f217352c6d540bda59763583c6846236710c",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 131337,
+          "requestedUrl": "https://werkenvoor.be/nl",
+          "file": "data/evidence/research/world-source-be-werkenvoor-portal-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-be-werkenvoor-portal-2026-09-27-evidence.json"
+        },
+        {
+          "label": "authority-referral",
+          "status": "retained-research-response",
+          "url": "https://bosa.belgium.be/nl/news/van-selor-naar-werkenvoorbe-ontdek-nieuwe-website",
+          "fetchedAt": "2026-09-26T20:33:02.021Z",
+          "sha256": "4850ff6bf0af4713eb8a1879e22235a80dee5b15f4eb4376b853fffc714e2fbe",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 67299,
+          "requestedUrl": "https://bosa.belgium.be/nl/news/van-selor-naar-werkenvoorbe-ontdek-nieuwe-website",
+          "file": "data/evidence/research/world-source-be-werkenvoor-authority-referral-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-be-werkenvoor-authority-referral-2026-09-27-evidence.json"
+        },
+        {
+          "label": "language-tests",
+          "status": "retained-research-response",
+          "url": "https://werkenvoor.be/nl/testen-en-certificaten/taal",
+          "fetchedAt": "2026-09-26T20:33:02.225Z",
+          "sha256": "7a139c6264351dcf9cea9a7d65ce1e4f78627d98911cde88294b857862200e7e",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 51685,
+          "requestedUrl": "https://werkenvoor.be/nl/testen-en-certificaten/taal",
+          "file": "data/evidence/research/world-source-be-werkenvoor-language-tests-2026-09-27.html",
+          "metadataPath": "data/evidence/research/world-source-be-werkenvoor-language-tests-2026-09-27-evidence.json"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    }
+  ],
+  "retainedResponses": 15,
+  "failedAttempts": 4,
+  "evidenceBoundary": "Primary official referrals and retained original HTML support source discovery and the explicitly cited Malaysia criteria. Original-language meaning, notice-level eligibility, appointment arrangements, source completeness and publication remain unverified. Research responses do not create connected-source counts or connector freshness."
+}

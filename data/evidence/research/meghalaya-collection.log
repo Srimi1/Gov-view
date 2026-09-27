@@ -1,0 +1,10 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-ml-recruitment
+
+
+▸ in-ml-recruitment (Meghalaya Public Service Commission)
+  ⚠ Two post-code drafts only; other Meghalaya advertisements, departments and local authorities remain gaps.
+  ⚠ The 24 June addendum is written for Junior Football Coach; whether its application extension also applied to Fishery Officer is ambiguous. Both dates have passed; founder review must resolve historical cutoff before publication.
+  ⚠ Scanned transcripts, age exceptions, degree alternatives and English test interpretation require founder review.
+  2 draft records saved for review; no publication

@@ -1,0 +1,14 @@
+{
+  "indexUrl": "https://satgrecruitment.telangana.gov.in/",
+  "noticeUrl": "https://satgrecruitment.telangana.gov.in/public/frontend/Images/Notification.pdf",
+  "noticeSha256": "52cfae6f1b29a72822b75e5b77e73cb108f616b46f2197f616b46a335534f821",
+  "applicationUrl": "https://satgrecruitment.telangana.gov.in/applynow",
+  "opensOn": "2026-09-23",
+  "closesOn": "2026-09-26",
+  "cutoffLocalTime": "17:00",
+  "physicalFormDate": "2026-09-28",
+  "physicalFormStart": "11:00",
+  "physicalFormEnd": "17:00",
+  "officialTimeZone": "Asia/Kolkata",
+  "reviewNote": "First connector output. Portal title specifies male only; PDF does not state nationality, contract terms, application fee, selection venue, or a formal language requirement. Physical-forms step and employer scope need founder review."
+}

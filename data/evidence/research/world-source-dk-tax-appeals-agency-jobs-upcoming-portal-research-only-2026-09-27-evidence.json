@@ -1,0 +1,10 @@
+{
+  "label": "upcoming-portal-research-only",
+  "status": "retained-research-response",
+  "url": "https://www.jobistaten.dk/",
+  "fetchedAt": "2026-09-26T20:33:02.851Z",
+  "sha256": "44627f239dac02cea82afe247b93ef3d082589526b3bd4c18c802d0b2e82484b",
+  "contentType": "text/html; charset=utf-8",
+  "bytes": 4300,
+  "requestedUrl": "https://www.jobistaten.dk/"
+}

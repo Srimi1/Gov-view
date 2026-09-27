@@ -1,0 +1,12 @@
+{
+  "checkedOn": "2026-09-25",
+  "authority": "DNS Regional Institute of Cooperative Management, Patna",
+  "discoverySource": "https://employmentnews.gov.in/newemp/MoreContentS.aspx?n=WebAdvertisement",
+  "advertisementUrl": "https://employmentnews.gov.in/writereaddata/120920269678432449.pdf",
+  "retainedFile": "dnsricm-lecturer-employmentnews-2026.pdf",
+  "sha256": "9cc0251e634a3324d2fa0f8c31c1b582886fcf3ece7b1c67aab2d6107d47d51b",
+  "observed": "One scanned advertisement, No. 001/2026/DNSRICM/Patna dated 29 August 2026, for contractual Lecturer. It requires registered-post receipt within 15 days of publication and directs applicants to the institute for full qualifications and remuneration. Employment News issue 12–18 September lists 27 September as deadline.",
+  "authorityHomepage": "https://www.dnsricmpatna.org/",
+  "authorityGap": "Current institute homepage still links earlier Lecturer notices and a July 2026 corrigendum for DNS/Advt./2026/331. Those older qualification PDFs cannot safely be assigned to the separate September advertisement. Current detailed terms and any later correction were not found on the authority site.",
+  "decision": "Discovery lead retained, no connector or applicant cycle staged; resolve advertisement identity and exact current conditions before using for eligibility."
+}

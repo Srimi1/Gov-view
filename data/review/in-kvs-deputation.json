@@ -1,0 +1,286 @@
+{
+  "sourceId": "in-kvs-deputation",
+  "collectedAt": "2026-09-25T11:45:31.721Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "KVS advertisement 03/2026",
+      "programme": "KVS Executive Engineer deputation 2026",
+      "status": "open",
+      "statusNote": "Signed deadline extension applied to original scanned advertisement. First connector output and transcription await founder review.",
+      "scopeLabel": "One Executive Engineer deputation post. New Delhi mailing address does not establish appointment location; no examination venue is published.",
+      "outcome": "One Executive Engineer appointment by transfer on deputation, initial term three years subject to applicable rules.",
+      "qualifications": "Recognized Civil Engineering graduate degree plus one of three Annexure I service routes: analogous parent-cadre post with civil works experience; Assistant Engineer (Civil), seven years of civil works at pay Level 7; or Assistant Executive Engineer (Civil)/equivalent with four regular years at Level 10.",
+      "citizenshipRule": "No nationality rule is printed in advertisement 03/2026 or its extension. Both posts require an eligible serving officer and employer forwarding on deputation. International applicants need KVS confirmation for application, selection and appointment; nationality alone does not establish deputation eligibility.",
+      "residenceRule": "No domicile or residence condition is printed. New Delhi is the postal application address, not an applicant residence rule or confirmed work location.",
+      "selectionStages": [
+        "Current employer checks service and forwards application with vigilance clearance and five years of ACRs/APARs",
+        "KVS checks deputation eligibility and qualifications",
+        "Further selection procedure is not stated in these notices"
+      ],
+      "fee": "No application fee stated in original advertisement or extension.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Civil Engineering"
+          ],
+          "evidence": "Original scanned advertisement Annexure I page 3: Civil Engineering degree and one qualifying service route."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify eligible serving-officer deputation status, one civil-engineering service route, age below 56 at receipt deadline, employer forwarding and foreign-citizen permission with KVS."
+          },
+          {
+            "stage": "selection",
+            "text": "KVS must check parent-cadre service records, vigilance clearance and five attested ACR/APAR years; selection method and any language test are not stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment permission, lending-employer release and applicable deputation terms."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue or workplace not published in reviewed advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+      "changes": [],
+      "sourceId": "in-kvs-deputation",
+      "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+      "pathway": "recruitment",
+      "appointmentType": "deputation",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original scanned advertisement page 2 set 14 September 2026 as last date for receipt. Signed 17 September extension moves receipt deadline to 5 October 2026. Neither states a cutoff hour or application opening date. Postal delivery must reach KVS by deadline."
+      },
+      "sources": [
+        {
+          "id": "in-kvs-deputation:8094a844a4e0",
+          "title": "KVS recruitment document register",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://kvsangathan.nic.in/en/interview-notice/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://kvsangathan.nic.in/en/interview-notice/",
+          "sha256": "d350ed3904498d5da0a16cd3ce58d290109696a1a154b7345e69e3241267d8e6",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:43.842Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kvs-deputation:a634d781627c",
+          "title": "KVS advertisement 03/2026, four scanned pages",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+          "sha256": "16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:45.136Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kvs-deputation:707e005ef0a5",
+          "title": "KVS 17 September 2026 signed deadline extension",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+          "sha256": "c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:46.001Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "kvs-executive-engineer-deputation-03-2026",
+      "title": "Executive Engineer — KVS deputation",
+      "salary": "Pay Level 11, ₹67,700–₹2,08,700, per original advertisement page 1."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "KVS advertisement 03/2026",
+      "programme": "KVS Assistant Director (Official Language) deputation 2026",
+      "status": "open",
+      "statusNote": "Signed deadline extension applied to original scanned advertisement. First connector output and transcription await founder review.",
+      "scopeLabel": "One Assistant Director (Official Language) deputation post. Postal destination is not a confirmed job or selection venue.",
+      "outcome": "One Assistant Director (Official Language) appointment by transfer on deputation, initial term three years subject to applicable rules.",
+      "qualifications": "Central/State/UT government officer holding an analogous regular post or three regular years at pay Level 7, plus an accepted master's degree combination involving Hindi and English at degree level and three years of translation, terminology, teaching or research experience as specified in Annexure I.",
+      "citizenshipRule": "No nationality rule is printed in advertisement 03/2026 or its extension. Both posts require an eligible serving officer and employer forwarding on deputation. International applicants need KVS confirmation for application, selection and appointment; nationality alone does not establish deputation eligibility.",
+      "residenceRule": "No domicile or residence condition is printed. New Delhi is the postal application address, not an applicant residence rule or confirmed work location.",
+      "selectionStages": [
+        "Current employer checks service and forwards application with vigilance clearance and five years of ACRs/APARs",
+        "KVS checks deputation eligibility and qualifications",
+        "Further selection procedure is not stated in these notices"
+      ],
+      "fee": "No application fee stated in original advertisement or extension.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-05",
+        "education": {
+          "minLevel": "master",
+          "evidence": "Original scanned advertisement Annexure I page 3: master's degree with listed Hindi/English study or examination-medium alternatives, and relevant three-year experience."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "apply",
+            "requirement": "Annexure I requires an accepted master's/degree-level subject or examination-medium combination involving Hindi and English, plus specified Hindi/English work experience. No CEFR or other standardized language level is given.",
+            "evidence": "KVS advertisement 03/2026, Annexure I page 3.",
+            "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "apply",
+            "requirement": "Annexure I requires an accepted master's/degree-level subject or examination-medium combination involving Hindi and English, plus specified Hindi/English work experience. No CEFR or other standardized language level is given.",
+            "evidence": "KVS advertisement 03/2026, Annexure I page 3.",
+            "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify one accepted Hindi/English education combination, three years of specified language work, eligible government service, age below 56, employer forwarding and foreign-citizen permission with KVS."
+          },
+          {
+            "stage": "selection",
+            "text": "KVS must validate language education/work evidence, service history, vigilance clearance and five attested ACR/APAR years; no separate proficiency scale or selection test is stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment permission, lending-employer release and applicable deputation terms."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue or workplace not published in reviewed advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+      "changes": [],
+      "sourceId": "in-kvs-deputation",
+      "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+      "pathway": "recruitment",
+      "appointmentType": "deputation",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original scanned advertisement page 2 set 14 September 2026 as last date for receipt. Signed 17 September extension moves receipt deadline to 5 October 2026. Neither states a cutoff hour or application opening date. Postal delivery must reach KVS by deadline."
+      },
+      "sources": [
+        {
+          "id": "in-kvs-deputation:8094a844a4e0",
+          "title": "KVS recruitment document register",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://kvsangathan.nic.in/en/interview-notice/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://kvsangathan.nic.in/en/interview-notice/",
+          "sha256": "d350ed3904498d5da0a16cd3ce58d290109696a1a154b7345e69e3241267d8e6",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:43.842Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kvs-deputation:a634d781627c",
+          "title": "KVS advertisement 03/2026, four scanned pages",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+          "sha256": "16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:45.136Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kvs-deputation:707e005ef0a5",
+          "title": "KVS 17 September 2026 signed deadline extension",
+          "authority": "Kendriya Vidyalaya Sangathan (Ministry of Education)",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+          "sha256": "c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008",
+          "lastSuccessfulFetchAt": "2026-09-25T11:45:46.001Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "kvs-assistant-director-official-language-deputation-03-2026",
+      "title": "Assistant Director (Official Language) — KVS deputation",
+      "salary": "Pay Level 10, ₹56,100–₹1,77,500, per original advertisement page 1."
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://kvsangathan.nic.in/en/interview-notice/",
+      "fetchedAt": "2026-09-25T11:45:43.842Z",
+      "sha256": "d350ed3904498d5da0a16cd3ce58d290109696a1a154b7345e69e3241267d8e6",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 129487
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+      "fetchedAt": "2026-09-25T11:45:45.136Z",
+      "sha256": "16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f",
+      "contentType": "application/pdf",
+      "bytes": 1714802
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+      "fetchedAt": "2026-09-25T11:45:46.001Z",
+      "sha256": "c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008",
+      "contentType": "application/pdf",
+      "bytes": 252885
+    }
+  ],
+  "warnings": [
+    "Only advertisement 03/2026 and its 17 September extension are extracted; other KVS recruitments and later amendments remain coverage gaps.",
+    "Deadline is date-only. Receipt by postal mail, not mailing or online submission, is required by 5 October; no cutoff hour or application opening date is printed.",
+    "Foreign-citizen permission is unstated. Deputation requires qualified existing government service and employer release; language-education combinations require document review.",
+    "All extracted text comes from visual reading of scanned PDFs and requires founder confirmation before publication."
+  ],
+  "approvalRevisions": {
+    "kvs-executive-engineer-deputation-03-2026": {
+      "evidenceRevision": "47d4e2e77534ef7dc68e89670c80fa2ddeb2072b8b6aa3c6ffab51f64db2edbc",
+      "recordRevision": "922a8cd8e090bdbd9463a217f6d8f9047c85e7b5d219351bf6d6d3e417f1b3c2"
+    },
+    "kvs-assistant-director-official-language-deputation-03-2026": {
+      "evidenceRevision": "47d4e2e77534ef7dc68e89670c80fa2ddeb2072b8b6aa3c6ffab51f64db2edbc",
+      "recordRevision": "eac7863b88a75a49e4ffd95f2947904c5ec5ea47864f536835afeb2d05ac406f"
+    }
+  }
+}

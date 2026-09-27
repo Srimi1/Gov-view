@@ -1,0 +1,29 @@
+{
+  "researchedAt": "2026-09-26T23:27:29.299517+00:00",
+  "localDate": "2026-09-27",
+  "scope": "Eight official recruitment sources in AR, PE, EC, UY, CR, DO, PY and GT; discovery is not verified opportunity publication.",
+  "method": "Primary official-reader/index research and retained originals. Exact-byte requests use existing HTTPS, robots, throttle and TLS policy. Failed access remains explicit. No collector health, review-packet or publication changes.",
+  "matrix": "data/discovery/latin-america-public-source-matrix-2026-09-27.json",
+  "outcomes": "data/discovery/latin-america-public-sources-2026-09-27-fetch-outcomes.json",
+  "readerOnly": [
+    {
+      "sourceId": "uy-onsc-uruguay-concursa",
+      "url": "https://www.uruguayconcursa.gub.uy/llamado/43217",
+      "observation": "Indexed Soriano call 8184/2026: contracted masonry precedence list, natural/legal citizenship, 24 September–8 October dates. Original retention failed; fields remain provisional."
+    },
+    {
+      "sourceId": "ec-encuentraempleo-public-contests",
+      "url": "https://selecciondepersonal.trabajo.gob.ec/",
+      "observation": "Official reader shows administrative UATH login and newer selection regulations. Not evidence of public vacancy rows."
+    },
+    {
+      "sourceId": "gt-onsec-guatempleo",
+      "url": "https://www.onsec.gob.gt/w1/wp-content/uploads/2019/10/Revista-ONSEC-Aniversario-2019-FINAL.pdf",
+      "observation": "Historical 2019 official-index referral only. Current window unverified; original retention failed."
+    }
+  ],
+  "originalsRetained": 18,
+  "failedRequests": 8,
+  "collectionJobs": 0,
+  "publicationDecisions": 0
+}

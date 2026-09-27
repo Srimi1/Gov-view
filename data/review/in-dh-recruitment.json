@@ -1,0 +1,387 @@
+{
+  "sourceId": "in-dh-recruitment",
+  "collectedAt": "2026-09-25T00:22:32.091Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 39.1-EST-GP/2026-27/658",
+      "programme": "Government Polytechnic Daman — Lecturer in Plastic Engineering",
+      "status": "open",
+      "statusNote": "English, Hindi and Gujarati notice retained. First extraction needs founder review; postal delivery must reach office by deadline.",
+      "scopeLabel": "One short-term contract lecturer post for six months at Government Polytechnic, Daman.",
+      "outcome": "One Lecturer in Plastic Engineering post; six-month contract, ₹45,000 per month, no claim to regularisation.",
+      "qualifications": "First-class or equivalent bachelor's in Plastic Engineering/Technology from a recognised university; if candidate has a master's, first class may be at bachelor's or master's level. Master's and teaching experience are desirable. Age must not exceed 35; reference date and relaxations are not printed in English notice (page 1).",
+      "citizenshipRule": "The retained notice gives no nationality or foreign-citizen hiring rule. International applicant eligibility requires authority confirmation.",
+      "residenceRule": "The retained notice gives no blanket DNH & DD domicile condition. Any local preference or age relaxation requires separate review.",
+      "selectionStages": [
+        "Application and document scrutiny",
+        "Interview for eligible candidates; date and venue not stated in this notice"
+      ],
+      "fee": "No application fee stated in retained notice.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Plastic Engineering",
+            "Plastic Technology"
+          ],
+          "evidence": "Advertisement page 1: first-class or equivalent degree in Plastic Engineering/Technology."
+        },
+        "languages": [
+          {
+            "language": "gu",
+            "stage": "selection",
+            "mandatory": false,
+            "requirement": "Knowledge of Gujarati is desirable, not stated as mandatory; no proficiency level given.",
+            "evidence": "Advertisement page 1, desirable qualification 3.",
+            "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm first-class or equivalent grade, recognised university, age reference date and any relaxation with authority."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm nationality and work authorisation; notice states no citizenship rule."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm interview result and short-term contract appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview location not stated; postal application office is not an examination venue."
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf",
+      "changes": [],
+      "sourceId": "in-dh-recruitment",
+      "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DH"
+      ],
+      "id": "ddd-govt-polytechnic-plastic-lecturer-2026-658",
+      "title": "Government Polytechnic Daman — Lecturer in Plastic Engineering",
+      "applicationWindow": {
+        "opensOn": "2026-09-16",
+        "closesOn": "2026-10-15",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Notice page 1: receive application 16 September–15 October 2026 by 5 pm. Timezone not printed; Asia/Kolkata is local interpretation. Hand, speed post or courier to Principal, Government Polytechnic, Varkund, Nani Daman 396210."
+      },
+      "sources": [
+        {
+          "id": "in-dh-recruitment:26e68fc671db",
+          "title": "DNH & DD recruitment register",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "sha256": "192e2405d967c184dccb0c1b1e93c9399f7a7a95378714f53c76c985afdf7352",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:33.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dh-recruitment:ec76b9059741",
+          "title": "Government Polytechnic Lecturer advertisement",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English/Hindi/Gujarati",
+          "format": "PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf",
+          "sha256": "b4d7fd232888b994a56bd8533fe700bcca4ff14e072b625544fd956ef5d575dd",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:34.390Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 1.0-EST-GEC/2026-27/495",
+      "programme": "Government Engineering College Daman — Assistant Professor in Bio-Medical Engineering",
+      "status": "open",
+      "statusNote": "Multilingual notice retained; founder must reconcile local-resident selection preference stated in Hindi pages with English wording.",
+      "scopeLabel": "One short-term contract Assistant Professor post for six months at Government Engineering College, Daman.",
+      "outcome": "One Bio-Medical Engineering Assistant Professor post; six-month contract, ₹50,000 per month, no claim to regularisation.",
+      "qualifications": "B.E./B.Tech. and M.E./M.Tech. in Bio-Medical Engineering, with first class or equivalent at either degree level. Age must not exceed 35; age reference date and possible local-worker relaxation require review (notice pages 1–2).",
+      "citizenshipRule": "The retained notice gives no nationality or foreign-citizen hiring rule. International applicant eligibility requires authority confirmation.",
+      "residenceRule": "The retained notice gives no blanket DNH & DD domicile condition. Any local preference or age relaxation requires separate review.",
+      "selectionStages": [
+        "Application and document scrutiny",
+        "Interview for eligible candidates; date and venue not stated in this notice"
+      ],
+      "fee": "No application fee stated in retained notice.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "education": {
+          "minLevel": "master",
+          "fields": [
+            "Bio-Medical Engineering",
+            "Biomedical Engineering"
+          ],
+          "evidence": "Advertisement page 1: BE/BTech plus ME/MTech in Bio-Medical Engineering, first class or equivalent at either level."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm both required degrees, grade equivalence, age reference date and any relaxation."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm nationality and work authorisation; notice states no citizenship rule."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm whether Daman and Diu local-resident preference in Hindi text applies and how it is scored; it is not an application ban."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview location not stated; postal application office is not an examination venue."
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151431689579.pdf",
+      "changes": [],
+      "sourceId": "in-dh-recruitment",
+      "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DH"
+      ],
+      "id": "ddd-govt-engineering-college-biomedical-professor-2026-495",
+      "title": "Government Engineering College Daman — Assistant Professor in Bio-Medical Engineering",
+      "applicationWindow": {
+        "opensOn": "2026-09-10",
+        "closesOn": "2026-10-09",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Notice page 1: receive application 10 September–9 October 2026 by 5 pm. Timezone not printed; Asia/Kolkata is local interpretation. Hand, speed post or courier to Principal, Government Engineering College, Varkund, Nani Daman 396210."
+      },
+      "sources": [
+        {
+          "id": "in-dh-recruitment:26e68fc671db",
+          "title": "DNH & DD recruitment register",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "sha256": "192e2405d967c184dccb0c1b1e93c9399f7a7a95378714f53c76c985afdf7352",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:33.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dh-recruitment:f1cc61c45c1b",
+          "title": "Government Engineering College Assistant Professor advertisement",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English/Hindi/Gujarati",
+          "format": "PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151431689579.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151431689579.pdf",
+          "sha256": "5edf564f6205a6ebced25fd12670e87ed96dfa1f1fa9c40335ae1d32a3b760c9",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:37.368Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Walk-in notice NAMO/DMN/Specialist/2026-27/1517",
+      "programme": "NAMO Hospital Daman — Specialist recruitment in five disciplines",
+      "status": "uncertain",
+      "statusNote": "Scanned three-page notice, visually checked. Index 21 September is listing start, not proven application opening. Application-submission method needs founder confirmation.",
+      "scopeLabel": "One shared application window and role-named form covering five specialties; 8 vacancies total. Founder to confirm whether post-specific submissions require separate cycle records.",
+      "outcome": "Short-term contracts: Anaesthetist 2, Ophthalmic Surgeon 2, Paediatrician 2, Orthopaedic Surgeon 1, General Surgeon 1. Monthly pay varies by degree/diploma and experience (notice page 1).",
+      "qualifications": "MBBS with postgraduate degree or diploma (MS/MD/DNB) in relevant specialty from an NMC/MCI-recognised institution, with NMC or State Medical Council registration. Experience is desirable. The form asks age on 15 October 2026 but page 1 states no upper limit (notice pages 1–2).",
+      "citizenshipRule": "The retained notice gives no nationality or foreign-citizen hiring rule. International applicant eligibility requires authority confirmation.",
+      "residenceRule": "The retained notice gives no blanket DNH & DD domicile condition. Any local preference or age relaxation requires separate review.",
+      "selectionStages": [
+        "Application and document scrutiny",
+        "Walk-in interview 15 October 2026 at 11:00; report by 10:00, Conference Hall, NAMO Hospital, Daman",
+        "Original documents and five-minute professional-achievement presentation"
+      ],
+      "fee": "No application fee stated in retained notice.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "languages": [
+          {
+            "language": "und",
+            "stage": "selection",
+            "mandatory": false,
+            "requirement": "Knowledge of local language is desirable; notice names no specific language or proficiency level.",
+            "evidence": "Walk-in notice page 1, desirable qualification 2.",
+            "sourceUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm role-specific PG specialty and NMC or State Medical Council registration."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm application submission method and nationality/work authorisation; notice does not resolve either."
+          },
+          {
+            "stage": "selection",
+            "text": "Bring original documents and five-minute presentation; interview report at 10:00 on 15 October."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm medical registration and short-term contract appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Conference Hall, NAMO Hospital, Daman (interview; city centre on map)",
+          "city": "Daman",
+          "latitude": 20.4143,
+          "longitude": 72.8324,
+          "precision": "city",
+          "subdivision": "IN-DH"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf",
+      "changes": [],
+      "sourceId": "in-dh-recruitment",
+      "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DH"
+      ],
+      "id": "ddd-namo-hospital-specialists-walkin-2026-1517",
+      "title": "NAMO Hospital Daman — Specialist recruitment in five disciplines",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-10",
+        "cutoffLocalTime": "17:30",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Notice page 1: application submission closes 10 October 2026 at 5:30 pm. Index lists 21 September start but PDF does not establish application opening. Timezone not printed; Asia/Kolkata is local interpretation. Presentation may reach office or printed email by same deadline; whether the application itself may be emailed needs confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-dh-recruitment:26e68fc671db",
+          "title": "DNH & DD recruitment register",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+          "sha256": "192e2405d967c184dccb0c1b1e93c9399f7a7a95378714f53c76c985afdf7352",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:33.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dh-recruitment:2a24f20d5087",
+          "title": "NAMO Hospital specialist walk-in notice",
+          "authority": "Dadra and Nagar Haveli and Daman and Diu — Recruitments",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf",
+          "sha256": "3f25f3839e759bcd4b8d10de9a3873913c1cd447487edc93b29f4604a1cba9a0",
+          "lastSuccessfulFetchAt": "2026-09-25T00:22:36.379Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+      "fetchedAt": "2026-09-25T00:22:33.302Z",
+      "sha256": "192e2405d967c184dccb0c1b1e93c9399f7a7a95378714f53c76c985afdf7352",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 100415
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf",
+      "fetchedAt": "2026-09-25T00:22:34.390Z",
+      "sha256": "b4d7fd232888b994a56bd8533fe700bcca4ff14e072b625544fd956ef5d575dd",
+      "contentType": "application/pdf",
+      "bytes": 608156
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/20260923187262113.pdf",
+      "fetchedAt": "2026-09-25T00:22:35.550Z",
+      "sha256": "7c9064a03fdfc86ceaa52b41fbfc004b1c7443bf9118991a0c14c031760b900b",
+      "contentType": "application/pdf",
+      "bytes": 3080419
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf",
+      "fetchedAt": "2026-09-25T00:22:36.379Z",
+      "sha256": "3f25f3839e759bcd4b8d10de9a3873913c1cd447487edc93b29f4604a1cba9a0",
+      "contentType": "application/pdf",
+      "bytes": 584843
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151431689579.pdf",
+      "fetchedAt": "2026-09-25T00:22:37.368Z",
+      "sha256": "5edf564f6205a6ebced25fd12670e87ed96dfa1f1fa9c40335ae1d32a3b760c9",
+      "contentType": "application/pdf",
+      "bytes": 539656
+    }
+  ],
+  "warnings": [
+    "Three current government recruitment intakes staged. The grant-aided Sarvajanik Vidyalaya notice is retained but excluded from government-job counts pending scope review.",
+    "Two college notices give explicit 17:00 postal cutoffs. NAMO notice gives 17:30 application cutoff but no proven opening date or unambiguous application-submission channel.",
+    "No notice establishes general foreign-citizen permission; Gujarati and unnamed local language are desirable only, without formal proficiency levels.",
+    "Other DNH & DD departmental sources, the archived recruitment register, later amendments and current grant-aided school scope remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "ddd-govt-polytechnic-plastic-lecturer-2026-658": {
+      "evidenceRevision": "da9be9192fdac7ea1af12ce514938760ccb8ca88dcacaaa2e8261dc8724a8b3a",
+      "recordRevision": "d4df47af16361ae94fbc00142bfbc51fef13d46ea4cb8e8c7956a83e962861a1"
+    },
+    "ddd-govt-engineering-college-biomedical-professor-2026-495": {
+      "evidenceRevision": "dacdb5aac1260a64ec51fad1b19ad0476481d5387454653669cbe63fae7c717c",
+      "recordRevision": "aaa94aaada631343910e8be675cd275ce3ae079a1b1e35e0be48d1a7acb9c9f6"
+    },
+    "ddd-namo-hospital-specialists-walkin-2026-1517": {
+      "evidenceRevision": "d47206c18ad94e2fd9a6ba942a9f8ce2879d16d45e2e1e70b7796796b3d7e27a",
+      "recordRevision": "ce3bf19efb6e61fca3d6d036344134d3a699044700f798729a44440e3e9af2de"
+    }
+  }
+}

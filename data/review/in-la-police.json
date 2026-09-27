@@ -1,0 +1,205 @@
+{
+  "sourceId": "in-la-police",
+  "collectedAt": "2026-09-24T23:24:10.365Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 02 of 2026",
+      "programme": "Constable, General Cadre — Ladakh Police",
+      "status": "closed",
+      "statusNote": "Original and 11 September notices set 15 September application date. 22 September notice reschedules physical tests for a subset; it does not reopen applications. Scanned transcription requires founder review.",
+      "scopeLabel": "One constable application across Executive/Armed/IRP/SDRF, Border Battalion and Women Battalion options",
+      "outcome": "331 Constable posts: 141 Executive/Armed/IRP/SDRF, 168 Border Battalion and 22 Women Battalion. Battalion and district vacancy rows are not separate application cycles.",
+      "qualifications": "Class 10/Matriculation from a recognised board by application close. Serving Ladakh Police Special Police Officers with at least three years' continuous engagement may qualify with Class 8 instead. General age 18–28 on 1 January 2026, subject to cited relaxations. Physical, medical and document checks apply.",
+      "citizenshipRule": "No national citizenship test was identified in the retained scanned advertisement or standing order. OCR may miss text; founder must verify. Foreign-citizen permission to apply, enter selection or receive appointment needs official confirmation. A valid UT Ladakh domicile certificate is explicitly required regardless of nationality uncertainty.",
+      "residenceRule": "Valid UT Ladakh domicile certificate from competent authority is required by application deadline. Women/Border Battalion applicants are limited to vacancies in their qualifying domicile district; Border Battalion preference additionally needs eligible border-village proof.",
+      "selectionStages": [
+        "Physical Standard Test (PST)",
+        "Physical Endurance Test (PET)",
+        "Original-document scrutiny",
+        "Desired qualification/NCC incentive assessment where applicable",
+        "Written examination: English/Hindi bilingual paper; no formal language-proficiency level printed",
+        "Medical examination and final appointment verification"
+      ],
+      "fee": "₹600 for unreserved/EWS; ₹500 for SC, ST and ALC. Online payment required (advertisement page 13); other exemptions need founder check.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify valid UT Ladakh domicile certificate by 15 September 2026, plus district or border-village proof for Women/Border Battalion choices (advertisement pages 2, 5; standing order pages 1–2)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify nationality and foreign-citizen appointment permission with Ladakh Police; OCR/manual research has not established a citizenship rule in the scanned advertisement or standing order."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Class 10 qualification or narrow serving-SPO Class 8 exception, age 18–28 on 1 January 2026 and all applicable relaxations (advertisement pages 5–6)."
+          },
+          {
+            "stage": "selection",
+            "text": "Pass post-specific physical/medical requirements. Written paper is in English and Hindi, but notice states no language proficiency threshold or CEFR level (advertisement pages 7–10)."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final domicile/district, document, character and medical checks; selection does not itself establish appointment eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Individual physical-test venue appears on admit card. NDS Stadium Leh postponement applies only to specified 24/25 September candidates; no all-applicant exam pin."
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://police.ladakh.gov.in/pages/recruitment.html",
+      "changes": [],
+      "id": "ladakh-police-2026-02-constable",
+      "sourceId": "in-la-police",
+      "title": "Constable, General Cadre — Ladakh Police",
+      "authority": "Ladakh Police Subordinate Service Recruitment Board",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-LA"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-29",
+        "closesOn": "2026-09-15",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 and no-further-extension notice: applications 29 August–15 September 2026. No cutoff clock time or timezone label printed; Asia/Kolkata is Ladakh local time. 22 September notice changes only physical-test timing."
+      },
+      "salary": "Pay Matrix Level 2; detailed remuneration and allowances require review.",
+      "sources": [
+        {
+          "id": "in-la-police:1cfc70b0604d",
+          "title": "Ladakh Police recruitment notice register",
+          "authority": "Ladakh Police Subordinate Service Recruitment Board",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://police.ladakh.gov.in/pages/recruitment.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://police.ladakh.gov.in/pages/recruitment.html",
+          "sha256": "c09eaaa740baa4258afcc02a4a65572090ebac0f2c791175ad33a8ba48e98bb7",
+          "lastSuccessfulFetchAt": "2026-09-24T23:24:11.716Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-police:cccfaa5ee66c",
+          "title": "Ladakh Police advertisement 2026",
+          "authority": "Ladakh Police Subordinate Service Recruitment Board",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf",
+          "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065",
+          "lastSuccessfulFetchAt": "2026-09-24T23:24:12.935Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-police:96e12630013b",
+          "title": "Ladakh Police no-extension 2026",
+          "authority": "Ladakh Police Subordinate Service Recruitment Board",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf",
+          "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2",
+          "lastSuccessfulFetchAt": "2026-09-24T23:24:13.719Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-police:bb4687b53efd",
+          "title": "Ladakh Police pst-postponement 2026",
+          "authority": "Ladakh Police Subordinate Service Recruitment Board",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf",
+          "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02",
+          "lastSuccessfulFetchAt": "2026-09-24T23:24:14.846Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-police:e8fd538d2380",
+          "title": "Ladakh Police standing-order 2026",
+          "authority": "Ladakh Police Subordinate Service Recruitment Board",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf",
+          "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:24:15.688Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://police.ladakh.gov.in/pages/recruitment.html",
+      "fetchedAt": "2026-09-24T23:24:11.716Z",
+      "sha256": "c09eaaa740baa4258afcc02a4a65572090ebac0f2c791175ad33a8ba48e98bb7",
+      "contentType": "text/html",
+      "bytes": 74018
+    },
+    {
+      "url": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf",
+      "fetchedAt": "2026-09-24T23:24:12.935Z",
+      "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065",
+      "contentType": "application/pdf",
+      "bytes": 741714
+    },
+    {
+      "url": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf",
+      "fetchedAt": "2026-09-24T23:24:13.719Z",
+      "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2",
+      "contentType": "application/pdf",
+      "bytes": 528248
+    },
+    {
+      "url": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf",
+      "fetchedAt": "2026-09-24T23:24:14.846Z",
+      "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02",
+      "contentType": "application/pdf",
+      "bytes": 921210
+    },
+    {
+      "url": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf",
+      "fetchedAt": "2026-09-24T23:24:15.688Z",
+      "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f",
+      "contentType": "application/pdf",
+      "bytes": 470271
+    }
+  ],
+  "warnings": [
+    "One application cycle covers 331 Constable posts across unit and district rows; those rows are not separate opportunities.",
+    "Applications closed 15 September. The later PST/PET postponement affects specified candidates only and is not a deadline extension or cancellation.",
+    "UT Ladakh domicile certificate is mandatory. No national citizenship rule was identified from scanned evidence; OCR uncertainty and foreign-citizen appointment permission require official confirmation.",
+    "Written paper is bilingual English/Hindi, with no published proficiency level or CEFR equivalence.",
+    "The scanned notice and standing order need founder visual review. Other Ladakh Police and administration recruitments remain gaps."
+  ],
+  "approvalRevisions": {
+    "ladakh-police-2026-02-constable": {
+      "evidenceRevision": "3566ba8b1e685efd41c9684c2c78d9de14a339599e3bac9551b5973a5727095d",
+      "recordRevision": "afd6b7562c65d3051fa1d8e178d29bfbf2864528bfa6d651bc1e3ed2842dea34"
+    }
+  }
+}

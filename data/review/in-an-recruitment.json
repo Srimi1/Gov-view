@@ -1,0 +1,170 @@
+{
+  "sourceId": "in-an-recruitment",
+  "collectedAt": "2026-09-26T21:07:50.091Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Agriculture vacancy notice · 21 September 2026",
+      "programme": "Andaman and Nicobar Agriculture 2026",
+      "status": "open",
+      "statusNote": "Official portal shows 24 September–23 October 2026 applications. Scanned notice gives a 12:00 noon opening and ambiguous '12:00 Midnight' closing clock; founder review pending.",
+      "scopeLabel": "A&N Agriculture Department: three post codes, ten tentative vacancies and one preference-based recruitment notice",
+      "outcome": "One Agriculture Officer (Group B), two Agriculture Engineering Assistants (Group B) and seven Agriculture Assistants (Group C); selection by CBT merit, post preference and document checks",
+      "qualifications": "Officer: master's in Agriculture/Horticulture. Engineering Assistant: Agriculture Engineering degree plus soil/water conservation training. Assistant: bachelor's in Agriculture/Horticulture. Notice page 5; category, equivalence and age relaxations need individual review.",
+      "citizenshipRule": "Scanned official notice page 4, eligibility condition 3(i): applicant must be an Indian citizen. A foreign citizen does not meet the published application criterion.",
+      "residenceRule": "No general A&N domicile condition for unreserved applicants appears in checked notice. Local ST and OBC status affects reserved vacancies; outside-UT ST/OBC candidates are considered for unreserved vacancies (notice page 1).",
+      "selectionStages": [
+        "Online application with one or more post preferences",
+        "Computer-based test: General Studies and post-specific paper; English Language questions appear in General Studies",
+        "In-person original-certificate verification for shortlisted candidates",
+        "Final selection by CBT merit and post preference, subject to recruitment rules"
+      ],
+      "fee": "₹100; female, ST and eligible benchmark-disability candidates exempt (notice page 6).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-23",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Scanned Agriculture vacancy notice page 4, eligibility condition 3(i): applicant must be an Indian Citizen."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Notice page 5: all three posts require at least a degree; Officer requires a master's and Engineering Assistant has additional training. Exact field and equivalence remain manual."
+        },
+        "age": {
+          "min": 18,
+          "evidence": "Notice page 4: all three posts have minimum age 18 at application closing date; upper limits differ by post and sex, with category/service relaxations."
+        },
+        "languages": [
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "CBT General Studies contains English Language questions; question paper is in English and Hindi. No fixed English pass mark or standardized proficiency level is published.",
+            "evidence": "Scanned vacancy notice pages 6–7, CBT scheme and indicative syllabus.",
+            "sourceUrl": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf"
+          },
+          {
+            "language": "hi",
+            "stage": "apply",
+            "mandatory": false,
+            "requirement": "Only Agriculture Assistant: ability to read and write Hindi is desirable, not essential. No formal level or certificate is stated.",
+            "evidence": "Scanned vacancy notice page 5, Agriculture Assistant desirable-qualification column.",
+            "sourceUrl": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose post code and confirm exact field, degree, Engineering Assistant training and any degree-equivalence decision (notice page 5)."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm post- and sex-specific upper age limit and applicable category, disability, service or ex-serviceman relaxation at 23 October 2026 (notice pages 4–5)."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm whether separate portal links require distinct applications for multiple post preferences (notice page 2)."
+          },
+          {
+            "stage": "selection",
+            "text": "Sit CBT in English/Hindi; General Studies includes English Language questions, with no stated formal level or fixed English-only pass threshold (notice pages 6–7)."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify original degree, age and category documents; final appointment follows CBT merit, preference and recruitment rules (notice pages 8–9)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "CBT is published for South Andaman; exact centre and exam date will be sent later (notice page 6)"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://erecruitment.andamannicobar.gov.in/",
+      "changes": [],
+      "id": "andaman-agriculture-group-b-c-2026",
+      "sourceId": "in-an-recruitment",
+      "title": "Andaman and Nicobar Agriculture Group B/C recruitment 2026",
+      "authority": "Andaman and Nicobar Administration — Common Recruitment",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-AN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-23",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Portal and scanned notice page 2 agree on dates. Notice prints opening 12:00 noon and closing '12:00 Midnight' without clarifying whether that means start or end of 23 October. Asia/Kolkata is local interpretation; precise closing time withheld."
+      },
+      "sources": [
+        {
+          "id": "in-an-recruitment:fc93f5f09077",
+          "title": "A&N Administration ongoing recruitment card",
+          "authority": "Andaman and Nicobar Administration — Common Recruitment",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://erecruitment.andamannicobar.gov.in/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://erecruitment.andamannicobar.gov.in/",
+          "sha256": "e781cfd872b63fe08f7f00d5e67a0bec4b9ef35d6dbff736d1e6a86e783c48dd",
+          "lastSuccessfulFetchAt": "2026-09-26T21:07:51.650Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-an-recruitment:23337a5fb277",
+          "title": "Agriculture Group B/C vacancy notice, 21 September 2026",
+          "authority": "Andaman and Nicobar Administration — Common Recruitment",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf",
+          "sha256": "8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d",
+          "lastSuccessfulFetchAt": "2026-09-26T21:07:53.801Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://erecruitment.andamannicobar.gov.in/",
+      "fetchedAt": "2026-09-26T21:07:51.650Z",
+      "sha256": "e781cfd872b63fe08f7f00d5e67a0bec4b9ef35d6dbff736d1e6a86e783c48dd",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 143124
+    },
+    {
+      "url": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf",
+      "fetchedAt": "2026-09-26T21:07:53.801Z",
+      "sha256": "8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d",
+      "contentType": "application/pdf",
+      "bytes": 3975093
+    }
+  ],
+  "warnings": [
+    "This draft counts one preference-based recruitment notice covering three posts. Founder must confirm whether separate online application links create distinct cycles.",
+    "The notice says closing 23 October '12:00 Midnight'; precise cutoff is ambiguous and withheld. Opening 24 September 12:00 noon is retained in text.",
+    "Indian citizenship is explicit. Local ST/OBC reservation is not a blanket domicile rule. Post-specific qualifications, upper ages and relaxations remain manual.",
+    "English Language appears in CBT and Hindi literacy is desirable only for Agriculture Assistant; no CEFR or other formal level is stated.",
+    "Only this live Agriculture notice is extracted. Older A&N recruitment cycles, other departments and later amendments remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "andaman-agriculture-group-b-c-2026": {
+      "evidenceRevision": "d1ae52b841f362aee36afa10f196bed4817470b301e15a46e7d90b116269db51",
+      "recordRevision": "62d20a443d23f7b2724d0e1da6daba72adb87822660daf8800628a5f77dbfef6"
+    }
+  }
+}

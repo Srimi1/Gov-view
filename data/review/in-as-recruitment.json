@@ -1,0 +1,162 @@
+{
+  "sourceId": "in-as-recruitment",
+  "collectedAt": "2026-09-25T13:26:21.353Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "totalAvailable": 12,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "12/2026",
+      "programme": "Research Assistant — Labour Welfare Department, Assam",
+      "status": "closed",
+      "statusNote": "Advertisement 12/2026 applications closed 10 September 2026. Exact official PDF, advertisement row and corrigenda register await founder review. Fee payment had a separate 12 September deadline.",
+      "scopeLabel": "Assam Government Labour Welfare Department; one post. Hiring scope is Assam. Possible exam zones on notice p. 6 are not assigned exam venues.",
+      "outcome": "One Research Assistant post, pay band ₹22,000–97,000 per month plus ₹9,400 grade pay and admissible allowances. Appointment term is not stated in the checked notice.",
+      "qualifications": "At least a second-class bachelor's degree in arts, science or commerce from a recognized university (p. 2). Computer diploma, Labour Laws experience, or Labour Laws/Social Works degree or diploma are preferred, not mandatory.",
+      "citizenshipRule": "Indian citizenship is required in notice pp. 1–2. Foreign citizens do not meet this published application criterion.",
+      "residenceRule": "Permanent Assam residence is required. Notice p. 2 accepts a valid Assam Permanent Resident Certificate issued for education or Employment Exchange Registration Certificate as residence proof; living in Assam alone does not prove this.",
+      "selectionStages": [
+        "Online form, uploads and fee processing",
+        "Selection method to be announced by APSC; screening, written examination and/or interview may be used (pp. 4–6)",
+        "Document and eligibility verification before appointment"
+      ],
+      "fee": "Application fee plus ₹47.20 CSC processing: General ₹297.20 total; OBC/MOBC ₹197.20; SC/ST/BPL/PwBD ₹47.20. Payment deadline 12 September 2026 is separate from application closing date (p. 3).",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "APSC advertisement 12/2026 pp. 1–2: Indian citizenship required."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "APSC advertisement 12/2026 p. 2: at least second-class BA/BSc/BCom or recognized equivalent; second-class and recognized-degree proof need review."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify Assam permanent-resident certificate or Employment Exchange Registration Certificate, second-class recognized bachelor's degree, age 21–38 on 1 January 2026 or applicable SC/ST/OBC/MOBC/PwBD relaxation, and Form-A small-family declaration."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm later APSC selection notice, assigned test venue, required ID and original documents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm Government appointment terms, health checks and original-document verification."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Selection venue not assigned; notice lists possible zones only"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apscrecruitment.in/",
+      "changes": [],
+      "id": "assam-psc-research-assistant-12-2026",
+      "sourceId": "in-as-recruitment",
+      "title": "Research Assistant — Labour Welfare Department, Assam",
+      "authority": "Assam Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-AS"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-11",
+        "closesOn": "2026-09-10",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Notice p. 3 gives 11 August–10 September for online applications and 12 September for fee payment. No application cutoff hour or governing timezone is printed."
+      },
+      "languageNote": "Checked six-page advertisement states no mandatory language or formal proficiency level. Later selection process has not been announced.",
+      "sources": [
+        {
+          "id": "in-as-recruitment:b2f6578292b7",
+          "title": "APSC 2026 advertisement register, row 12/2026",
+          "authority": "Assam Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apsc.nic.in/advt_2026.php",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apsc.nic.in/advt_2026.php",
+          "sha256": "3baea740649665d5c9e69be62966ba10b431d1e7b83c518cb82ea61d7c66ce82",
+          "lastSuccessfulFetchAt": "2026-09-25T13:26:24.713Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-as-recruitment:c8486c338f8b",
+          "title": "APSC 2026 corrigenda register",
+          "authority": "Assam Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apsc.nic.in/corig_2026.php",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apsc.nic.in/corig_2026.php",
+          "sha256": "0f354cd6085eb790533c261c3027c7f53de4e2d67fe03d0ce19b68b4e45c97af",
+          "lastSuccessfulFetchAt": "2026-09-25T13:26:26.706Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-as-recruitment:88d7535a6dc0",
+          "title": "APSC advertisement 12/2026 original notice",
+          "authority": "Assam Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apsc.nic.in/advt_2026/Advt_no_12-2026_website.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apsc.nic.in/advt_2026/Advt_no_12-2026_website.pdf",
+          "sha256": "50799e314530726481395c7b4ca3859c5bc116cb0f05dacf53288db18904d055",
+          "lastSuccessfulFetchAt": "2026-09-25T13:26:28.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://apsc.nic.in/advt_2026.php",
+      "fetchedAt": "2026-09-25T13:26:24.713Z",
+      "sha256": "3baea740649665d5c9e69be62966ba10b431d1e7b83c518cb82ea61d7c66ce82",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 27523
+    },
+    {
+      "url": "https://apsc.nic.in/corig_2026.php",
+      "fetchedAt": "2026-09-25T13:26:26.706Z",
+      "sha256": "0f354cd6085eb790533c261c3027c7f53de4e2d67fe03d0ce19b68b4e45c97af",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 23058
+    },
+    {
+      "url": "https://apsc.nic.in/advt_2026/Advt_no_12-2026_website.pdf",
+      "fetchedAt": "2026-09-25T13:26:28.925Z",
+      "sha256": "50799e314530726481395c7b4ca3859c5bc116cb0f05dacf53288db18904d055",
+      "contentType": "application/pdf",
+      "bytes": 345823
+    }
+  ],
+  "warnings": [
+    "Only APSC advertisement 12/2026 is extracted from 12 register rows; other advertisements and departments remain gaps.",
+    "No application cutoff hour, formal language level, appointment term or assigned exam venue appears in the checked notice.",
+    "Founder must recheck portal, later amendments, Assam residence proof and category/age exceptions before approval."
+  ],
+  "approvalRevisions": {
+    "assam-psc-research-assistant-12-2026": {
+      "evidenceRevision": "ced0135c9d34e774c2738125bc69b3d27de91b8916af3036c67011d8253c1eef",
+      "recordRevision": "c2232cd8661113e0a9eeecb94e3382768cebc07fe50726703e34414b6811c2af"
+    }
+  }
+}

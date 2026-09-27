@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://psc.uk.gov.in/candidate-corner/recruitment",
+  "fetchedAt": "2026-09-26T20:59:29.498Z",
+  "sha256": "dd94d0268d715ecb6268ebecdfe449e69550abe1503281921187c365bf62e665",
+  "bytes": 122959,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://psc.uk.gov.in/public/uploads/recruitment/1247631101.pdf",
+  "fetchedAt": "2026-09-26T20:59:46.691Z",
+  "sha256": "667960213d2a258fd0ebfabaec5297c995450b7b13de01781d07715b380aede6",
+  "bytes": 549472,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://psc.uk.gov.in/public/uploads/recruitment/1843959203.pdf",
+  "fetchedAt": "2026-09-26T21:00:25.419Z",
+  "sha256": "56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b",
+  "bytes": 1179904,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://psc.uk.gov.in/public/uploads/recruitment/52805175.pdf",
+  "fetchedAt": "2026-09-26T21:01:16.468Z",
+  "sha256": "56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b",
+  "bytes": 1179904,
+  "contentType": "application/pdf"
+ }
+]

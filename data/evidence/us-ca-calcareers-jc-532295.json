@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532295",
+  "fetchedAt": "2026-09-25T11:48:41.298Z",
+  "sha256": "679691d4873c31a1f2fc6adb90537b56e27706aeb4fa782dc3083da34e6392fd",
+  "bytes": 505051,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://calcareers.ca.gov/CalHRPublic/GeneralInfo/FAQS.aspx",
+  "fetchedAt": "2026-09-25T11:48:42.583Z",
+  "sha256": "5e59d01d6c6f164010d503b56c859668a93e33c78d88e606dcdec5d4d2d38bf5",
+  "bytes": 162843,
+  "contentType": "text/html; charset=utf-8"
+ }
+]

@@ -1,0 +1,244 @@
+{
+  "sourceId": "in-uk-icfre-fri-walkin-2026",
+  "collectedAt": "2026-09-25T11:40:05.547Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "September 2026 notice; 2026-10-01 walk-in",
+      "programme": "FRI September 2026 walk-in fellowship selection",
+      "status": "upcoming",
+      "statusNote": "Original bilingual scanned notice and official update row retained; role table and any later amendment require founder review. Registration closes at the printed time; governing timezone is not named.",
+      "scopeLabel": "Forest Research Institute, Dehradun, Uttarakhand. Project Scientist-II and two Project Associate-I project rows. Dehradun is the published selection venue, not an applicant domicile restriction.",
+      "outcome": "Temporary project fellowships for Project Scientist-II and Project Associate-I roles. Notice says fellowship does not guarantee subsequent employment at any Council institute.",
+      "qualifications": "Role-specific qualifications: Project Scientist-II lists a relevant forestry Ph.D. plus three years of research experience; Project Associate-I rows list relevant MSc degrees. Check each project row, experience, NET status and proof requirements in the original table.",
+      "citizenshipRule": "The six-page notice gives no nationality eligibility clause. International applicants must confirm eligibility to attend selection and hold the fellowship with FRI.",
+      "residenceRule": "No applicant Uttarakhand domicile or residence restriction is stated in this notice. Work authorization and project travel requirements need individual confirmation.",
+      "selectionStages": [
+        "Register in person on 2026-10-01 between 09:00 and 10:15 at the FRI Main Building board room in Dehradun",
+        "Bring bio-data, recent passport photograph, self-attested education certificates and relevant documents",
+        "Attend same-day walk-in interview; provide employer NOC if already working elsewhere"
+      ],
+      "fee": "No application fee stated in the checked notice; confirm with FRI before attendance.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm role/project choice, exact qualification, age and relaxation, walk-in registration cutoff and foreign-citizen permission with FRI."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm interview documents, prior research/fellowship limits, NET status if applicable, employer NOC, and any unstated language requirement."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm project tenure, stipend, work authorization and fellowship rules. Notice gives no guarantee of later Council employment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Published walk-in: FRI Main Building board room",
+          "city": "Dehradun",
+          "latitude": 30.3244,
+          "longitude": 78.0339,
+          "precision": "city",
+          "subdivision": "IN-UT"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+      "changes": [],
+      "id": "icfre-fri-fellowships-1-october-2026",
+      "sourceId": "in-uk-icfre-fri-walkin-2026",
+      "title": "Temporary project fellowships — FRI Dehradun, 1 October",
+      "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-10-01",
+        "closesOn": "2026-10-01",
+        "cutoffLocalTime": "10:15",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Walk-in registration on 2026-10-01 from 09:00 to 10:15 at FRI Dehradun; interview follows. The notice does not name a timezone or say whether the last minute is inclusive."
+      },
+      "languageNote": "Notice is bilingual Hindi and English and says English governs differences between versions. It does not state an applicant language test, certificate or formal proficiency level; notice language is not an eligibility rule.",
+      "salary": "Fellowship amount varies by role and project; consult the original table.",
+      "sources": [
+        {
+          "id": "in-uk-icfre-fri-walkin-2026:c729d93f2ea8",
+          "title": "ICFRE official updates register, 21 September row",
+          "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+          "sha256": "57446b43b1eb7c665f793cc9bfa22931b30227b72af21fd6ef28d5647a7b4ad4",
+          "lastSuccessfulFetchAt": "2026-09-25T11:40:07.796Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-uk-icfre-fri-walkin-2026:9838b02237aa",
+          "title": "FRI September 2026 walk-in fellowship advertisement, 6 pages",
+          "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+          "language": "Hindi/English",
+          "format": "scanned PDF",
+          "url": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+          "sha256": "8b3e99830d4c622133cb2ca3a4c8a2065f285dfd95a483202ba82189c35f06a9",
+          "lastSuccessfulFetchAt": "2026-09-25T11:40:12.779Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "September 2026 notice; 2026-10-05 walk-in",
+      "programme": "FRI September 2026 walk-in fellowship selection",
+      "status": "upcoming",
+      "statusNote": "Original bilingual scanned notice and official update row retained; role table and any later amendment require founder review. Registration closes at the printed time; governing timezone is not named.",
+      "scopeLabel": "Forest Research Institute, Dehradun, Uttarakhand. Technical Assistant, Scientific Assistant, Project Assistant and Field Assistant project rows. Dehradun is the published selection venue, not an applicant domicile restriction.",
+      "outcome": "Temporary project fellowships for Technical Assistant, Scientific Assistant, Project Assistant and Field Assistant roles. Notice says fellowship does not guarantee subsequent employment at any Council institute.",
+      "qualifications": "Role-specific qualifications range from Intermediate through science or other bachelor's degrees, with project-specific subjects and desirable experience. Check exact row and documents in the original table.",
+      "citizenshipRule": "The six-page notice gives no nationality eligibility clause. International applicants must confirm eligibility to attend selection and hold the fellowship with FRI.",
+      "residenceRule": "No applicant Uttarakhand domicile or residence restriction is stated in this notice. Work authorization and project travel requirements need individual confirmation.",
+      "selectionStages": [
+        "Register in person on 2026-10-05 between 09:00 and 10:15 at the FRI Main Building board room in Dehradun",
+        "Bring bio-data, recent passport photograph, self-attested education certificates and relevant documents",
+        "Attend same-day walk-in interview; provide employer NOC if already working elsewhere"
+      ],
+      "fee": "No application fee stated in the checked notice; confirm with FRI before attendance.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm role/project choice, exact qualification, age and relaxation, walk-in registration cutoff and foreign-citizen permission with FRI."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm interview documents, prior research/fellowship limits, NET status if applicable, employer NOC, and any unstated language requirement."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm project tenure, stipend, work authorization and fellowship rules. Notice gives no guarantee of later Council employment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Published walk-in: FRI Main Building board room",
+          "city": "Dehradun",
+          "latitude": 30.3244,
+          "longitude": 78.0339,
+          "precision": "city",
+          "subdivision": "IN-UT"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+      "changes": [],
+      "id": "icfre-fri-fellowships-5-october-2026",
+      "sourceId": "in-uk-icfre-fri-walkin-2026",
+      "title": "Temporary project fellowships — FRI Dehradun, 5 October",
+      "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-10-05",
+        "closesOn": "2026-10-05",
+        "cutoffLocalTime": "10:15",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Walk-in registration on 2026-10-05 from 09:00 to 10:15 at FRI Dehradun; interview follows. The notice does not name a timezone or say whether the last minute is inclusive."
+      },
+      "languageNote": "Notice is bilingual Hindi and English and says English governs differences between versions. It does not state an applicant language test, certificate or formal proficiency level; notice language is not an eligibility rule.",
+      "salary": "Fellowship amount varies by role and project; consult the original table.",
+      "sources": [
+        {
+          "id": "in-uk-icfre-fri-walkin-2026:c729d93f2ea8",
+          "title": "ICFRE official updates register, 21 September row",
+          "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+          "sha256": "57446b43b1eb7c665f793cc9bfa22931b30227b72af21fd6ef28d5647a7b4ad4",
+          "lastSuccessfulFetchAt": "2026-09-25T11:40:07.796Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-uk-icfre-fri-walkin-2026:9838b02237aa",
+          "title": "FRI September 2026 walk-in fellowship advertisement, 6 pages",
+          "authority": "Forest Research Institute, Indian Council of Forestry Research and Education, Ministry of Environment, Forest and Climate Change",
+          "language": "Hindi/English",
+          "format": "scanned PDF",
+          "url": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+          "sha256": "8b3e99830d4c622133cb2ca3a4c8a2065f285dfd95a483202ba82189c35f06a9",
+          "lastSuccessfulFetchAt": "2026-09-25T11:40:12.779Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://icfre2026.icfre.gov.in/en/view-all-updates",
+      "fetchedAt": "2026-09-25T11:40:07.796Z",
+      "sha256": "57446b43b1eb7c665f793cc9bfa22931b30227b72af21fd6ef28d5647a7b4ad4",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 193013
+    },
+    {
+      "url": "https://icfre2026.icfre.gov.in/pdf/vacancy/vacancy1114.44.pdf",
+      "fetchedAt": "2026-09-25T11:40:12.779Z",
+      "sha256": "8b3e99830d4c622133cb2ca3a4c8a2065f285dfd95a483202ba82189c35f06a9",
+      "contentType": "application/pdf",
+      "bytes": 2949482
+    }
+  ],
+  "warnings": [
+    "One advertisement has two different walk-in registration dates and role groups; count two application cycles, not the vacancy rows or advertised places.",
+    "The notice recruits temporary project fellows and explicitly denies any guarantee of later Council employment. Role-specific credentials and age clauses need founder review.",
+    "Foreign-citizen permission and formal language level are not stated. The Hindi/English document does not establish an applicant proficiency rule.",
+    "This connector binds one September PDF only; other ICFRE institutes, advertisements, corrections and selection changes remain gaps."
+  ],
+  "approvalRevisions": {
+    "icfre-fri-fellowships-1-october-2026": {
+      "evidenceRevision": "7b12a07754fac189522313a7f9e2bfd028dc8cfd882c483e9a9af182dc6bb9a4",
+      "recordRevision": "b499656533944a13613c9c114598472d41ad5a6034a1380ac5c563f7ed051713"
+    },
+    "icfre-fri-fellowships-5-october-2026": {
+      "evidenceRevision": "7b12a07754fac189522313a7f9e2bfd028dc8cfd882c483e9a9af182dc6bb9a4",
+      "recordRevision": "b26a209370db9ab2c43080bf74068db42f182b285fac6ab03bbb9623eb13c071"
+    }
+  }
+}

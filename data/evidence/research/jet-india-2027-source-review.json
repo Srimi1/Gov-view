@@ -1,0 +1,35 @@
+{
+  "reviewStatus": "manual-research-only",
+  "researchedOn": "2026-09-25",
+  "authority": "Embassy of Japan in India",
+  "pathway": "recruitment",
+  "programme": "2027 JET Programme Assistant Language Teacher, India application route",
+  "officialApplicationPage": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01196.html",
+  "officialGuidelines": "https://www.in.emb-japan.go.jp/files/100720531.pdf",
+  "evidenceLimit": "Official pages were read through web research. Local HTTPS requests for robots.txt, page and PDF returned Access Denied. No exact bytes are retained, so this is not a staged cycle or publishable listing.",
+  "findings": [
+    {
+      "field": "jobType",
+      "value": "Assistant Language Teacher in Japanese schools or local boards of education; public or private placement may follow selection",
+      "evidence": "Embassy page, Assistant Language Teacher and Duties sections; 2027 guidelines pp. 1–2"
+    },
+    {
+      "field": "internationalApplicants",
+      "value": "India route requires Indian passport; nationality of recruitment country is required in general guidelines. Other citizens should use own embassy routes.",
+      "evidence": "Embassy page, Eligibility Requirements; 2027 guidelines p. 5, condition 5",
+      "qualificationNote": "Embassy document checklist permits alternate nationality proof when passport is not yet held at application, so founder must check timing of passport requirement."
+    },
+    {
+      "field": "language",
+      "value": "Excellent English pronunciation and language ability required. Japanese language background earns additional consideration; no mandatory JLPT level or certificate for ALT.",
+      "evidence": "Embassy page, Eligibility Requirements and Additional Points; 2027 guidelines pp. 5–6"
+    },
+    {
+      "field": "deadlineConflict",
+      "value": "Embassy application page says email application and audio file no later than Friday 30 October 2026; linked generic guidelines p. 6 say submit by [31 October 2026]. Do not silently choose later date.",
+      "evidence": "Embassy page, Recruitment Timeline and Steps 4–5; 2027 guidelines p. 6, Application Procedures",
+      "action": "Seek embassy clarification; conservatively tell applicants to follow the 30 October country-specific page while conflict is unresolved."
+    }
+  ],
+  "coverageLimit": "Only India ALT route researched. CIR, other national routes and later amendments need separate evidence and dates."
+}

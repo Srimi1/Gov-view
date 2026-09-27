@@ -1,0 +1,10 @@
+{
+  "sourceId": "la-nuol-public-admissions",
+  "label": "english-admission",
+  "url": "https://www.nuol.edu.la/index.php/en/admission",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-la-nuol-public-admissions-english-admission-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T22:59:29.299Z",
+  "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed"
+}

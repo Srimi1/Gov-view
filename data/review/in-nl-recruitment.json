@@ -1,0 +1,134 @@
+{
+  "sourceId": "in-nl-recruitment",
+  "collectedAt": "2026-09-24T22:06:20.764Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement NPSC-3/STENO-2026",
+      "programme": "Stenographer (Grade III)",
+      "status": "closed",
+      "statusNote": "Notice wording is document-bound; founder review, reservation interpretation and current application status remain pending.",
+      "scopeLabel": "Nagaland Government Stenographer examination; twelve item numbers share one advertised exam application",
+      "outcome": "26 Grade III Stenographer posts across departments; three are 2021 backlog positions reserved for persons with benchmark disabilities",
+      "qualifications": "Graduate in any discipline; six-month Diploma in Computer Operation; one-year shorthand course with 80 words-per-minute speed shown on marksheet or completion certificate (advertisement qualification and paragraphs 7(i), 10).",
+      "citizenshipRule": "Advertisement does not state a nationality test or permission for foreign citizens. Every advertised vacancy is reserved for specified indigenous inhabitants of Nagaland; a foreign applicant must not be treated as eligible without official confirmation of that condition.",
+      "residenceRule": "Paragraph 2 says 100% of vacancies are reserved for Naga Tribe, Kuki, Kachari, Garo or Mikir persons who are Indigenous Inhabitants of Nagaland; paragraph 8 specifies certificate authority. This is a reservation/certificate condition, not a general current-address test.",
+      "selectionStages": [
+        "Stenographer Recruitment Examination 2026; examination date, detailed stages and venue are not stated in this advertisement."
+      ],
+      "fee": "₹300 examination fee, ₹25 convenience fee and applicable payment-gateway charges; OTR registration free (paragraph 17).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify 100% indigenous-inhabitant reservation and required certificate for the applicant; the notice states no nationality rule (paragraphs 2, 7(ii)(b), 8)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age 21–32 on 1 January 2026 and applicable SC/ST or serving-government-employee relaxation (age clause and note 1)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify graduation, six-month computer diploma and one-year shorthand certificate showing 80 wpm, held by application deadline (qualification and paragraphs 7(i), 10)."
+          },
+          {
+            "stage": "selection",
+            "text": "Shorthand language, test format and any language level are not specified in this notice; check later examination instructions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination venue not stated in advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://npsc.nagaland.gov.in/",
+      "changes": [],
+      "id": "nagaland-psc-2026-steno-3",
+      "sourceId": "in-nl-recruitment",
+      "title": "Stenographer (Grade III)",
+      "authority": "Nagaland Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-NL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-21",
+        "closesOn": "2026-09-03",
+        "cutoffLocalTime": "12:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Advertisement paragraph 15 states online applications from noon 21 August to noon 3 September 2026. OTR registration closes separately on 2026-09-02 at noon. Notice does not print a timezone; Asia/Kolkata is local Kohima time."
+      },
+      "salary": "Pay Band ₹28,700–₹91,300, Level 8 (advertisement scale-of-pay table).",
+      "sources": [
+        {
+          "id": "in-nl-recruitment:d689ab663686",
+          "title": "NPSC advertisement archive",
+          "authority": "Nagaland Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://npsc.nagaland.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://npsc.nagaland.gov.in/advertisement",
+          "sha256": "e575c770dda3fea43863287bfc5c62fb74c5f24a6953084d2eec710d1a0051d2",
+          "lastSuccessfulFetchAt": "2026-09-24T22:06:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "itemSha256": "d146d0ad9f0776c214b54abef589fb8ed859f0824180c9bb1932db8cb101d62a"
+        },
+        {
+          "id": "in-nl-recruitment:1ea2e3df4313",
+          "title": "Advertisement NPSC-3/STENO-2026",
+          "authority": "Nagaland Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://npsc.nagaland.gov.in/advertisement/178713486224731",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://npsc.nagaland.gov.in/advertisement/178713486224731",
+          "sha256": "37aabf9eccb50be040f5e55fc8e3f38f54c54c672fd9a674ba8750f771f56e68",
+          "lastSuccessfulFetchAt": "2026-09-24T22:06:22.999Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "itemSha256": "4186433c0aff21de5b319e574142a9150d90ca62117467fd5b53a0a8a76c8241"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://npsc.nagaland.gov.in/advertisement",
+      "fetchedAt": "2026-09-24T22:06:22.033Z",
+      "sha256": "e575c770dda3fea43863287bfc5c62fb74c5f24a6953084d2eec710d1a0051d2",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 81978
+    },
+    {
+      "url": "https://npsc.nagaland.gov.in/advertisement/178713486224731",
+      "fetchedAt": "2026-09-24T22:06:22.999Z",
+      "sha256": "37aabf9eccb50be040f5e55fc8e3f38f54c54c672fd9a674ba8750f771f56e68",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 44822
+    }
+  ],
+  "warnings": [
+    "One closed Stenographer 2026 examination cycle only; other Nagaland advertisements, notifications and authorities remain gaps.",
+    "Notice has twelve item numbers and 26 vacancies but advertises one Stenographer exam application; item numbers and departments do not inflate cycle count.",
+    "All vacancies carry indigenous-inhabitant reservation. Notice does not state citizenship or a shorthand language/CEFR level; founder must verify international-applicant outcome and certificates.",
+    "Notice body hash excludes dynamic visitor counter and anonymous form token. A new amendment or changed notice body blocks old extracted fields."
+  ],
+  "approvalRevisions": {
+    "nagaland-psc-2026-steno-3": {
+      "evidenceRevision": "dd8e8bd7acc701f28d4b66d1f6ffbbe8e33346f6aaa2a902040bca44310c8339",
+      "recordRevision": "10a88e15701431e756dfac05609b04c6169ede4f68ae6560877cb61ce602bfa6"
+    }
+  }
+}

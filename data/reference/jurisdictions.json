@@ -1,0 +1,3465 @@
+{
+  "inventoryAsOf": "2026-09-24",
+  "unM49Source": "https://unstats.un.org/unsd/methodology/m49/overview/",
+  "unM49Sha256": "b9048114f6e7f2abda83bf03d4263c9d7cd1bd7230e3d0461025ee7839a7a1fb",
+  "jurisdictions": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "m49": "004",
+      "iso3": "AFG",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 33.93,
+        "longitude": 67.692
+      },
+      "geometryCode": "AF"
+    },
+    {
+      "code": "AX",
+      "name": "Åland Islands",
+      "m49": "248",
+      "iso3": "ALA",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 60.227,
+        "longitude": 19.962
+      },
+      "geometryCode": "AX"
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "m49": "008",
+      "iso3": "ALB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 41.146,
+        "longitude": 20.154
+      },
+      "geometryCode": "AL"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "m49": "012",
+      "iso3": "DZA",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 28.035,
+        "longitude": 1.643
+      },
+      "geometryCode": "DZ"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "m49": "016",
+      "iso3": "ASM",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -14.32,
+        "longitude": -170.711
+      },
+      "geometryCode": "AS"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "m49": "020",
+      "iso3": "AND",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 42.539,
+        "longitude": 1.585
+      },
+      "geometryCode": "AD"
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "m49": "024",
+      "iso3": "AGO",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -11.944,
+        "longitude": 17.899
+      },
+      "geometryCode": "AO"
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "m49": "660",
+      "iso3": "AIA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.221,
+        "longitude": -63.084
+      },
+      "geometryCode": "AI"
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "m49": "010",
+      "iso3": "ATA",
+      "region": "",
+      "subregion": null,
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "m49": "028",
+      "iso3": "ATG",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.079,
+        "longitude": -61.776
+      },
+      "geometryCode": "AG"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "m49": "032",
+      "iso3": "ARG",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -37.089,
+        "longitude": -63.617
+      },
+      "geometryCode": "AR"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "m49": "051",
+      "iso3": "ARM",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 40.077,
+        "longitude": 45.022
+      },
+      "geometryCode": "AM"
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "m49": "533",
+      "iso3": "ABW",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.521,
+        "longitude": -69.975
+      },
+      "geometryCode": "AW"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "m49": "036",
+      "iso3": "AUS",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": {
+        "latitude": -12.433,
+        "longitude": 123.587
+      },
+      "geometryCode": "AU"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "m49": "040",
+      "iso3": "AUT",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 47.694,
+        "longitude": 13.335
+      },
+      "geometryCode": "AT"
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "m49": "031",
+      "iso3": "AZE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 40.143,
+        "longitude": 47.697
+      },
+      "geometryCode": "AZ"
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "m49": "044",
+      "iso3": "BHS",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 24.729,
+        "longitude": -78.075
+      },
+      "geometryCode": "BS"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "m49": "048",
+      "iso3": "BHR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 26.017,
+        "longitude": 50.547
+      },
+      "geometryCode": "BH"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "m49": "050",
+      "iso3": "BGD",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 23.681,
+        "longitude": 90.328
+      },
+      "geometryCode": "BD"
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "m49": "052",
+      "iso3": "BRB",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.191,
+        "longitude": -59.536
+      },
+      "geometryCode": "BB"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "m49": "112",
+      "iso3": "BLR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 53.697,
+        "longitude": 27.943
+      },
+      "geometryCode": "BY"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "m49": "056",
+      "iso3": "BEL",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 50.497,
+        "longitude": 4.449
+      },
+      "geometryCode": "BE"
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "m49": "084",
+      "iso3": "BLZ",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.181,
+        "longitude": -88.66
+      },
+      "geometryCode": "BZ"
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "m49": "204",
+      "iso3": "BEN",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 9.306,
+        "longitude": 2.303
+      },
+      "geometryCode": "BJ"
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "m49": "060",
+      "iso3": "BMU",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "source": "UN M49",
+      "center": {
+        "latitude": 32.324,
+        "longitude": -64.778
+      },
+      "geometryCode": "BM"
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "m49": "064",
+      "iso3": "BTN",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 27.527,
+        "longitude": 90.41
+      },
+      "geometryCode": "BT"
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia (Plurinational State of)",
+      "m49": "068",
+      "iso3": "BOL",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -16.285,
+        "longitude": -63.566
+      },
+      "geometryCode": "BO"
+    },
+    {
+      "code": "BQ",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "m49": "535",
+      "iso3": "BES",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "m49": "070",
+      "iso3": "BIH",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 43.925,
+        "longitude": 17.669
+      },
+      "geometryCode": "BA"
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "m49": "072",
+      "iso3": "BWA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -22.34,
+        "longitude": 24.664
+      },
+      "geometryCode": "BW"
+    },
+    {
+      "code": "BV",
+      "name": "Bouvet Island",
+      "m49": "074",
+      "iso3": "BVT",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "m49": "076",
+      "iso3": "BRA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -10,
+        "longitude": -55
+      },
+      "geometryCode": "BR"
+    },
+    {
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "m49": "086",
+      "iso3": "IOT",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -7.35,
+        "longitude": 72.413
+      },
+      "geometryCode": "IO"
+    },
+    {
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "m49": "092",
+      "iso3": "VGB",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.419,
+        "longitude": -64.615
+      },
+      "geometryCode": "VG"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "m49": "096",
+      "iso3": "BRN",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 4.534,
+        "longitude": 114.55
+      },
+      "geometryCode": "BN"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "m49": "100",
+      "iso3": "BGR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 42.734,
+        "longitude": 25.462
+      },
+      "geometryCode": "BG"
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "m49": "854",
+      "iso3": "BFA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.236,
+        "longitude": -1.566
+      },
+      "geometryCode": "BF"
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "m49": "108",
+      "iso3": "BDI",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -3.383,
+        "longitude": 29.906
+      },
+      "geometryCode": "BI"
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "m49": "132",
+      "iso3": "CPV",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.111,
+        "longitude": -23.625
+      },
+      "geometryCode": "CV"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "m49": "116",
+      "iso3": "KHM",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.561,
+        "longitude": 104.959
+      },
+      "geometryCode": "KH"
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "m49": "120",
+      "iso3": "CMR",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.368,
+        "longitude": 12.359
+      },
+      "geometryCode": "CM"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "m49": "124",
+      "iso3": "CAN",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "source": "UN M49",
+      "center": {
+        "latitude": 56.831,
+        "longitude": -98.311
+      },
+      "geometryCode": "CA"
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "m49": "136",
+      "iso3": "CYM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 19.326,
+        "longitude": -81.252
+      },
+      "geometryCode": "KY"
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "m49": "140",
+      "iso3": "CAF",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 6.622,
+        "longitude": 20.914
+      },
+      "geometryCode": "CF"
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "m49": "148",
+      "iso3": "TCD",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.45,
+        "longitude": 18.716
+      },
+      "geometryCode": "TD"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "m49": "152",
+      "iso3": "CHL",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -35.697,
+        "longitude": -71.361
+      },
+      "geometryCode": "CL"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "m49": "156",
+      "iso3": "CHN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 36.904,
+        "longitude": 104.191
+      },
+      "geometryCode": "CN"
+    },
+    {
+      "code": "HK",
+      "name": "China, Hong Kong Special Administrative Region",
+      "m49": "344",
+      "iso3": "HKG",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 22.407,
+        "longitude": 114.149
+      },
+      "geometryCode": "HK"
+    },
+    {
+      "code": "MO",
+      "name": "China, Macao Special Administrative Region",
+      "m49": "446",
+      "iso3": "MAC",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 22.136,
+        "longitude": 113.559
+      },
+      "geometryCode": "MO"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "m49": "162",
+      "iso3": "CXR",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "m49": "166",
+      "iso3": "CCK",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "m49": "170",
+      "iso3": "COL",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 4.116,
+        "longitude": -72.948
+      },
+      "geometryCode": "CO"
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "m49": "174",
+      "iso3": "COM",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -11.656,
+        "longitude": 43.358
+      },
+      "geometryCode": "KM"
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "m49": "178",
+      "iso3": "COG",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -0.656,
+        "longitude": 14.87
+      },
+      "geometryCode": "CG"
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "m49": "184",
+      "iso3": "COK",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -21.22,
+        "longitude": -159.794
+      },
+      "geometryCode": "CK"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "m49": "188",
+      "iso3": "CRI",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 9.623,
+        "longitude": -84.255
+      },
+      "geometryCode": "CR"
+    },
+    {
+      "code": "CI",
+      "name": "Côte d’Ivoire",
+      "m49": "384",
+      "iso3": "CIV",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.535,
+        "longitude": -5.563
+      },
+      "geometryCode": "CI"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "m49": "191",
+      "iso3": "HRV",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 44.748,
+        "longitude": 16.457
+      },
+      "geometryCode": "HR"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "m49": "192",
+      "iso3": "CUB",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 21.521,
+        "longitude": -79.545
+      },
+      "geometryCode": "CU"
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "m49": "531",
+      "iso3": "CUW",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.221,
+        "longitude": -68.953
+      },
+      "geometryCode": "CW"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "m49": "196",
+      "iso3": "CYP",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 35.159,
+        "longitude": 33.433
+      },
+      "geometryCode": "CY"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "m49": "203",
+      "iso3": "CZE",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 49.797,
+        "longitude": 15.454
+      },
+      "geometryCode": "CZ"
+    },
+    {
+      "code": "KP",
+      "name": "Democratic People's Republic of Korea",
+      "m49": "408",
+      "iso3": "PRK",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 40.336,
+        "longitude": 127.511
+      },
+      "geometryCode": "KP"
+    },
+    {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo",
+      "m49": "180",
+      "iso3": "COD",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -4.04,
+        "longitude": 21.741
+      },
+      "geometryCode": "CD"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "m49": "208",
+      "iso3": "DNK",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 56.27,
+        "longitude": 9.53
+      },
+      "geometryCode": "DK"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "m49": "262",
+      "iso3": "DJI",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 11.819,
+        "longitude": 42.588
+      },
+      "geometryCode": "DJ"
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "m49": "212",
+      "iso3": "DMA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.418,
+        "longitude": -61.373
+      },
+      "geometryCode": "DM"
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "m49": "214",
+      "iso3": "DOM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.771,
+        "longitude": -70.172
+      },
+      "geometryCode": "DO"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "m49": "218",
+      "iso3": "ECU",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -1.788,
+        "longitude": -78.12
+      },
+      "geometryCode": "EC"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "m49": "818",
+      "iso3": "EGY",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 26.825,
+        "longitude": 30.792
+      },
+      "geometryCode": "EG"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "m49": "222",
+      "iso3": "SLV",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.802,
+        "longitude": -88.905
+      },
+      "geometryCode": "SV"
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "m49": "226",
+      "iso3": "GNQ",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 1.634,
+        "longitude": 10.341
+      },
+      "geometryCode": "GQ"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "m49": "232",
+      "iso3": "ERI",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.182,
+        "longitude": 39.772
+      },
+      "geometryCode": "ER"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "m49": "233",
+      "iso3": "EST",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 58.593,
+        "longitude": 25.797
+      },
+      "geometryCode": "EE"
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "m49": "748",
+      "iso3": "SWZ",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -26.526,
+        "longitude": 31.451
+      },
+      "geometryCode": "SZ"
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "m49": "231",
+      "iso3": "ETH",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 9.142,
+        "longitude": 40.484
+      },
+      "geometryCode": "ET"
+    },
+    {
+      "code": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "m49": "238",
+      "iso3": "FLK",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -51.795,
+        "longitude": -58.728
+      },
+      "geometryCode": "FK"
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "m49": "234",
+      "iso3": "FRO",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 62.13,
+        "longitude": -6.963
+      },
+      "geometryCode": "FO"
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "m49": "242",
+      "iso3": "FJI",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -17.787,
+        "longitude": 177.982
+      },
+      "geometryCode": "FJ"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "m49": "246",
+      "iso3": "FIN",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 64.943,
+        "longitude": 26.096
+      },
+      "geometryCode": "FI"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "m49": "250",
+      "iso3": "FRA",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.5,
+        "longitude": 2.5
+      },
+      "geometryCode": "FR"
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "m49": "254",
+      "iso3": "GUF",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "m49": "258",
+      "iso3": "PYF",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -17.694,
+        "longitude": -149.408
+      },
+      "geometryCode": "PF"
+    },
+    {
+      "code": "TF",
+      "name": "French Southern Territories",
+      "m49": "260",
+      "iso3": "ATF",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -49.183,
+        "longitude": 69.649
+      },
+      "geometryCode": "TF"
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "m49": "266",
+      "iso3": "GAB",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -0.811,
+        "longitude": 11.593
+      },
+      "geometryCode": "GA"
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "m49": "270",
+      "iso3": "GMB",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.442,
+        "longitude": -15.325
+      },
+      "geometryCode": "GM"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "m49": "268",
+      "iso3": "GEO",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 42.291,
+        "longitude": 43.34
+      },
+      "geometryCode": "GE"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "m49": "276",
+      "iso3": "DEU",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 51.085,
+        "longitude": 10.44
+      },
+      "geometryCode": "DE"
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "m49": "288",
+      "iso3": "GHA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.95,
+        "longitude": -1.039
+      },
+      "geometryCode": "GH"
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "m49": "292",
+      "iso3": "GIB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 36.126,
+        "longitude": -5.348
+      },
+      "geometryCode": "GI"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "m49": "300",
+      "iso3": "GRC",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 39.07,
+        "longitude": 23.318
+      },
+      "geometryCode": "GR"
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "m49": "304",
+      "iso3": "GRL",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "source": "UN M49",
+      "center": {
+        "latitude": 71.811,
+        "longitude": -42.217
+      },
+      "geometryCode": "GL"
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "m49": "308",
+      "iso3": "GRD",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.122,
+        "longitude": -61.702
+      },
+      "geometryCode": "GD"
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "m49": "312",
+      "iso3": "GLP",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "m49": "316",
+      "iso3": "GUM",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.444,
+        "longitude": 144.788
+      },
+      "geometryCode": "GU"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "m49": "320",
+      "iso3": "GTM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.773,
+        "longitude": -90.233
+      },
+      "geometryCode": "GT"
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "m49": "831",
+      "iso3": "GGY",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 49.469,
+        "longitude": -2.587
+      },
+      "geometryCode": "GG"
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "m49": "324",
+      "iso3": "GIN",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 9.931,
+        "longitude": -11.37
+      },
+      "geometryCode": "GN"
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "m49": "624",
+      "iso3": "GNB",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 11.803,
+        "longitude": -15.195
+      },
+      "geometryCode": "GW"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "m49": "328",
+      "iso3": "GUY",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 4.872,
+        "longitude": -58.939
+      },
+      "geometryCode": "GY"
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "m49": "332",
+      "iso3": "HTI",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.985,
+        "longitude": -73.067
+      },
+      "geometryCode": "HT"
+    },
+    {
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "m49": "334",
+      "iso3": "HMD",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": {
+        "latitude": -53.085,
+        "longitude": 73.524
+      },
+      "geometryCode": "HM"
+    },
+    {
+      "code": "VA",
+      "name": "Holy See",
+      "m49": "336",
+      "iso3": "VAT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 41.904,
+        "longitude": 12.454
+      },
+      "geometryCode": "VA"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "m49": "340",
+      "iso3": "HND",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 14.505,
+        "longitude": -86.246
+      },
+      "geometryCode": "HN"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "m49": "348",
+      "iso3": "HUN",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 47.156,
+        "longitude": 19.486
+      },
+      "geometryCode": "HU"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "m49": "352",
+      "iso3": "ISL",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 64.967,
+        "longitude": -19.021
+      },
+      "geometryCode": "IS"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "m49": "356",
+      "iso3": "IND",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 22.5,
+        "longitude": 79
+      },
+      "geometryCode": "IN"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "m49": "360",
+      "iso3": "IDN",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 0.107,
+        "longitude": 113.934
+      },
+      "geometryCode": "ID"
+    },
+    {
+      "code": "IR",
+      "name": "Iran (Islamic Republic of)",
+      "m49": "364",
+      "iso3": "IRN",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 32.413,
+        "longitude": 53.668
+      },
+      "geometryCode": "IR"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "m49": "368",
+      "iso3": "IRQ",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 33.217,
+        "longitude": 43.667
+      },
+      "geometryCode": "IQ"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "m49": "372",
+      "iso3": "IRL",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 53.416,
+        "longitude": -8.227
+      },
+      "geometryCode": "IE"
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "m49": "833",
+      "iso3": "IMN",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 54.236,
+        "longitude": -4.551
+      },
+      "geometryCode": "IM"
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "m49": "376",
+      "iso3": "ISR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 31.386,
+        "longitude": 34.957
+      },
+      "geometryCode": "IL"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "m49": "380",
+      "iso3": "ITA",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 42.513,
+        "longitude": 12.559
+      },
+      "geometryCode": "IT"
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "m49": "388",
+      "iso3": "JAM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.111,
+        "longitude": -77.281
+      },
+      "geometryCode": "JM"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "m49": "392",
+      "iso3": "JPN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 36,
+        "longitude": 138
+      },
+      "geometryCode": "JP"
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "m49": "832",
+      "iso3": "JEY",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 49.215,
+        "longitude": -2.133
+      },
+      "geometryCode": "JE"
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "m49": "400",
+      "iso3": "JOR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 31.281,
+        "longitude": 37.12
+      },
+      "geometryCode": "JO"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "m49": "398",
+      "iso3": "KAZ",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 48.01,
+        "longitude": 66.901
+      },
+      "geometryCode": "KZ"
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "m49": "404",
+      "iso3": "KEN",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 0.176,
+        "longitude": 37.889
+      },
+      "geometryCode": "KE"
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "m49": "296",
+      "iso3": "KIR",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 1.869,
+        "longitude": -157.379
+      },
+      "geometryCode": "KI"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "m49": null,
+      "iso3": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "supplemental: separately administered; XK is local, not ISO",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "m49": "414",
+      "iso3": "KWT",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 29.316,
+        "longitude": 47.483
+      },
+      "geometryCode": "KW"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "m49": "417",
+      "iso3": "KGZ",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 41.225,
+        "longitude": 74.728
+      },
+      "geometryCode": "KG"
+    },
+    {
+      "code": "LA",
+      "name": "Lao People's Democratic Republic",
+      "m49": "418",
+      "iso3": "LAO",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.204,
+        "longitude": 103.882
+      },
+      "geometryCode": "LA"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "m49": "428",
+      "iso3": "LVA",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 56.876,
+        "longitude": 24.595
+      },
+      "geometryCode": "LV"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "m49": "422",
+      "iso3": "LBN",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 33.888,
+        "longitude": 35.855
+      },
+      "geometryCode": "LB"
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "m49": "426",
+      "iso3": "LSO",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -29.615,
+        "longitude": 28.219
+      },
+      "geometryCode": "LS"
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "m49": "430",
+      "iso3": "LBR",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 6.458,
+        "longitude": -9.43
+      },
+      "geometryCode": "LR"
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "m49": "434",
+      "iso3": "LBY",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 26.338,
+        "longitude": 17.221
+      },
+      "geometryCode": "LY"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "m49": "438",
+      "iso3": "LIE",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 47.16,
+        "longitude": 9.546
+      },
+      "geometryCode": "LI"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "m49": "440",
+      "iso3": "LTU",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 55.165,
+        "longitude": 23.927
+      },
+      "geometryCode": "LT"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "m49": "442",
+      "iso3": "LUX",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 49.803,
+        "longitude": 6.111
+      },
+      "geometryCode": "LU"
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "m49": "450",
+      "iso3": "MDG",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -18.773,
+        "longitude": 46.856
+      },
+      "geometryCode": "MG"
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "m49": "454",
+      "iso3": "MWI",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -13.264,
+        "longitude": 34.284
+      },
+      "geometryCode": "MW"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "m49": "458",
+      "iso3": "MYS",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 3.939,
+        "longitude": 114.403
+      },
+      "geometryCode": "MY"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "m49": "462",
+      "iso3": "MDV",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 4.203,
+        "longitude": 73.489
+      },
+      "geometryCode": "MV"
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "m49": "466",
+      "iso3": "MLI",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.568,
+        "longitude": -4.014
+      },
+      "geometryCode": "ML"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "m49": "470",
+      "iso3": "MLT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 35.887,
+        "longitude": 14.435
+      },
+      "geometryCode": "MT"
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "m49": "584",
+      "iso3": "MHL",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.111,
+        "longitude": 171.215
+      },
+      "geometryCode": "MH"
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "m49": "474",
+      "iso3": "MTQ",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "m49": "478",
+      "iso3": "MRT",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 21.009,
+        "longitude": -10.95
+      },
+      "geometryCode": "MR"
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "m49": "480",
+      "iso3": "MUS",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -20.245,
+        "longitude": 57.552
+      },
+      "geometryCode": "MU"
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "m49": "175",
+      "iso3": "MYT",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "m49": "484",
+      "iso3": "MEX",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 23.631,
+        "longitude": -101.934
+      },
+      "geometryCode": "MX"
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia (Federated States of)",
+      "m49": "583",
+      "iso3": "FSM",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 6.871,
+        "longitude": 158.223
+      },
+      "geometryCode": "FM"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "m49": "492",
+      "iso3": "MCO",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 43.741,
+        "longitude": 7.402
+      },
+      "geometryCode": "MC"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "m49": "496",
+      "iso3": "MNG",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.858,
+        "longitude": 103.816
+      },
+      "geometryCode": "MN"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "m49": "499",
+      "iso3": "MNE",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 42.699,
+        "longitude": 19.394
+      },
+      "geometryCode": "ME"
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "m49": "500",
+      "iso3": "MSR",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 16.75,
+        "longitude": -62.183
+      },
+      "geometryCode": "MS"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "m49": "504",
+      "iso3": "MAR",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 28.346,
+        "longitude": -9.069
+      },
+      "geometryCode": "MA"
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "m49": "508",
+      "iso3": "MOZ",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -18.66,
+        "longitude": 35.531
+      },
+      "geometryCode": "MZ"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "m49": "104",
+      "iso3": "MMR",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 19.259,
+        "longitude": 96.676
+      },
+      "geometryCode": "MM"
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "m49": "516",
+      "iso3": "NAM",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -22.954,
+        "longitude": 18.489
+      },
+      "geometryCode": "NA"
+    },
+    {
+      "code": "NR",
+      "name": "Naoero",
+      "m49": "520",
+      "iso3": "NRU",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -0.521,
+        "longitude": 166.933
+      },
+      "geometryCode": "NR"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "m49": "524",
+      "iso3": "NPL",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 28.382,
+        "longitude": 84.1
+      },
+      "geometryCode": "NP"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands (Kingdom of the)",
+      "m49": "528",
+      "iso3": "NLD",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 52.1,
+        "longitude": 5.323
+      },
+      "geometryCode": "NL"
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "m49": "540",
+      "iso3": "NCL",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -21.239,
+        "longitude": 165.513
+      },
+      "geometryCode": "NC"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "m49": "554",
+      "iso3": "NZL",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": {
+        "latitude": -43.592,
+        "longitude": 170.4
+      },
+      "geometryCode": "NZ"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "m49": "558",
+      "iso3": "NIC",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 12.864,
+        "longitude": -85.4
+      },
+      "geometryCode": "NI"
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "m49": "562",
+      "iso3": "NER",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.607,
+        "longitude": 8.062
+      },
+      "geometryCode": "NE"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "m49": "566",
+      "iso3": "NGA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 9.076,
+        "longitude": 8.671
+      },
+      "geometryCode": "NG"
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "m49": "570",
+      "iso3": "NIU",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -19.047,
+        "longitude": -169.858
+      },
+      "geometryCode": "NU"
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "m49": "574",
+      "iso3": "NFK",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "source": "UN M49",
+      "center": {
+        "latitude": -29.032,
+        "longitude": 167.955
+      },
+      "geometryCode": "NF"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "m49": "807",
+      "iso3": "MKD",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 41.609,
+        "longitude": 21.727
+      },
+      "geometryCode": "MK"
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "m49": "580",
+      "iso3": "MNP",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.181,
+        "longitude": 145.737
+      },
+      "geometryCode": "MP"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "m49": "578",
+      "iso3": "NOR",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 64.56,
+        "longitude": 18.002
+      },
+      "geometryCode": "NO"
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "m49": "512",
+      "iso3": "OMN",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 20.81,
+        "longitude": 55.902
+      },
+      "geometryCode": "OM"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "m49": "586",
+      "iso3": "PAK",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 30.294,
+        "longitude": 68.102
+      },
+      "geometryCode": "PK"
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "m49": "585",
+      "iso3": "PLW",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.538,
+        "longitude": 134.568
+      },
+      "geometryCode": "PW"
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "m49": "591",
+      "iso3": "PAN",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 8.407,
+        "longitude": -80.108
+      },
+      "geometryCode": "PA"
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "m49": "598",
+      "iso3": "PNG",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -6.651,
+        "longitude": 145.861
+      },
+      "geometryCode": "PG"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "m49": "600",
+      "iso3": "PRY",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -23.439,
+        "longitude": -58.447
+      },
+      "geometryCode": "PY"
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "m49": "604",
+      "iso3": "PER",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -9.184,
+        "longitude": -75.011
+      },
+      "geometryCode": "PE"
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "m49": "608",
+      "iso3": "PHL",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.591,
+        "longitude": 121.971
+      },
+      "geometryCode": "PH"
+    },
+    {
+      "code": "PN",
+      "name": "Pitcairn",
+      "m49": "612",
+      "iso3": "PCN",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -25.071,
+        "longitude": -130.103
+      },
+      "geometryCode": "PN"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "m49": "616",
+      "iso3": "POL",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 51.916,
+        "longitude": 19.134
+      },
+      "geometryCode": "PL"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "m49": "620",
+      "iso3": "PRT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 39.577,
+        "longitude": -7.851
+      },
+      "geometryCode": "PT"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "m49": "630",
+      "iso3": "PRI",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.223,
+        "longitude": -66.438
+      },
+      "geometryCode": "PR"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "m49": "634",
+      "iso3": "QAT",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 25.364,
+        "longitude": 51.181
+      },
+      "geometryCode": "QA"
+    },
+    {
+      "code": "KR",
+      "name": "Republic of Korea",
+      "m49": "410",
+      "iso3": "KOR",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 36.459,
+        "longitude": 127.857
+      },
+      "geometryCode": "KR"
+    },
+    {
+      "code": "MD",
+      "name": "Republic of Moldova",
+      "m49": "498",
+      "iso3": "MDA",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.973,
+        "longitude": 28.375
+      },
+      "geometryCode": "MD"
+    },
+    {
+      "code": "RE",
+      "name": "Réunion",
+      "m49": "638",
+      "iso3": "REU",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "m49": "642",
+      "iso3": "ROU",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 45.962,
+        "longitude": 24.971
+      },
+      "geometryCode": "RO"
+    },
+    {
+      "code": "RU",
+      "name": "Russian Federation",
+      "m49": "643",
+      "iso3": "RUS",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 59.472,
+        "longitude": 103.664
+      },
+      "geometryCode": "RU"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "m49": "646",
+      "iso3": "RWA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -1.946,
+        "longitude": 29.873
+      },
+      "geometryCode": "RW"
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthélemy",
+      "m49": "652",
+      "iso3": "BLM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.905,
+        "longitude": -62.829
+      },
+      "geometryCode": "BL"
+    },
+    {
+      "code": "SH",
+      "name": "Saint Helena",
+      "m49": "654",
+      "iso3": "SHN",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -15.955,
+        "longitude": -5.722
+      },
+      "geometryCode": "SH"
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "m49": "659",
+      "iso3": "KNA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.306,
+        "longitude": -62.75
+      },
+      "geometryCode": "KN"
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "m49": "662",
+      "iso3": "LCA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.913,
+        "longitude": -60.983
+      },
+      "geometryCode": "LC"
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin (French Part)",
+      "m49": "663",
+      "iso3": "MAF",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.078,
+        "longitude": -63.082
+      },
+      "geometryCode": "MF"
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "m49": "666",
+      "iso3": "SPM",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.963,
+        "longitude": -56.323
+      },
+      "geometryCode": "PM"
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "m49": "670",
+      "iso3": "VCT",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.263,
+        "longitude": -61.202
+      },
+      "geometryCode": "VC"
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "m49": "882",
+      "iso3": "WSM",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -13.634,
+        "longitude": -172.492
+      },
+      "geometryCode": "WS"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "m49": "674",
+      "iso3": "SMR",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 43.938,
+        "longitude": 12.439
+      },
+      "geometryCode": "SM"
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "m49": "678",
+      "iso3": "STP",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 0.215,
+        "longitude": 6.614
+      },
+      "geometryCode": "ST"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "m49": "682",
+      "iso3": "SAU",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 24.246,
+        "longitude": 45.105
+      },
+      "geometryCode": "SA"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "m49": "686",
+      "iso3": "SEN",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 14.498,
+        "longitude": -14.457
+      },
+      "geometryCode": "SN"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "m49": "688",
+      "iso3": "SRB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 44.004,
+        "longitude": 20.913
+      },
+      "geometryCode": "RS"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "m49": "690",
+      "iso3": "SYC",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -4.683,
+        "longitude": 55.453
+      },
+      "geometryCode": "SC"
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "m49": "694",
+      "iso3": "SLE",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 8.456,
+        "longitude": -11.791
+      },
+      "geometryCode": "SL"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "m49": "702",
+      "iso3": "SGP",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 1.348,
+        "longitude": 103.808
+      },
+      "geometryCode": "SG"
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten (Dutch part)",
+      "m49": "534",
+      "iso3": "SXM",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 18.041,
+        "longitude": -63.069
+      },
+      "geometryCode": "SX"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "m49": "703",
+      "iso3": "SVK",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 48.683,
+        "longitude": 19.692
+      },
+      "geometryCode": "SK"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "m49": "705",
+      "iso3": "SVN",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.144,
+        "longitude": 14.94
+      },
+      "geometryCode": "SI"
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "m49": "090",
+      "iso3": "SLB",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -9.598,
+        "longitude": 160.214
+      },
+      "geometryCode": "SB"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "m49": "706",
+      "iso3": "SOM",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 5.145,
+        "longitude": 46.189
+      },
+      "geometryCode": "SO"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "m49": "710",
+      "iso3": "ZAF",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -28.473,
+        "longitude": 24.681
+      },
+      "geometryCode": "ZA"
+    },
+    {
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "m49": "239",
+      "iso3": "SGS",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -54.434,
+        "longitude": -36.908
+      },
+      "geometryCode": "GS"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "m49": "728",
+      "iso3": "SSD",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.853,
+        "longitude": 30.029
+      },
+      "geometryCode": "SS"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "m49": "724",
+      "iso3": "ESP",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 39.9,
+        "longitude": -2.981
+      },
+      "geometryCode": "ES"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "m49": "144",
+      "iso3": "LKA",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 7.875,
+        "longitude": 80.787
+      },
+      "geometryCode": "LK"
+    },
+    {
+      "code": "PS",
+      "name": "State of Palestine",
+      "m49": "275",
+      "iso3": "PSE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 31.953,
+        "longitude": 35.22
+      },
+      "geometryCode": "PS"
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "m49": "729",
+      "iso3": "SDN",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.454,
+        "longitude": 30.206
+      },
+      "geometryCode": "SD"
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "m49": "740",
+      "iso3": "SUR",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 3.932,
+        "longitude": -56.026
+      },
+      "geometryCode": "SR"
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen Islands",
+      "m49": "744",
+      "iso3": "SJM",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "m49": "752",
+      "iso3": "SWE",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 62.191,
+        "longitude": 17.636
+      },
+      "geometryCode": "SE"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "m49": "756",
+      "iso3": "CHE",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 46.811,
+        "longitude": 8.209
+      },
+      "geometryCode": "CH"
+    },
+    {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "m49": "760",
+      "iso3": "SYR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 34.821,
+        "longitude": 38.983
+      },
+      "geometryCode": "SY"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "m49": null,
+      "iso3": "TWN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "source": "supplemental: separately administered",
+      "center": {
+        "latitude": 23.594,
+        "longitude": 121.03
+      },
+      "geometryCode": "TW"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "m49": "762",
+      "iso3": "TJK",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 38.859,
+        "longitude": 71.257
+      },
+      "geometryCode": "TJ"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "m49": "764",
+      "iso3": "THA",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 13.037,
+        "longitude": 101.496
+      },
+      "geometryCode": "TH"
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "m49": "626",
+      "iso3": "TLS",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -8.898,
+        "longitude": 126.117
+      },
+      "geometryCode": "TL"
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "m49": "768",
+      "iso3": "TGO",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 8.617,
+        "longitude": 0.808
+      },
+      "geometryCode": "TG"
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau",
+      "m49": "772",
+      "iso3": "TKL",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "m49": "776",
+      "iso3": "TON",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -21.166,
+        "longitude": -175.216
+      },
+      "geometryCode": "TO"
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "m49": "780",
+      "iso3": "TTO",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 10.447,
+        "longitude": -61.418
+      },
+      "geometryCode": "TT"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "m49": "788",
+      "iso3": "TUN",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 33.787,
+        "longitude": 9.523
+      },
+      "geometryCode": "TN"
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "m49": "792",
+      "iso3": "TUR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 38.957,
+        "longitude": 35.439
+      },
+      "geometryCode": "TR"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "m49": "795",
+      "iso3": "TKM",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 38.966,
+        "longitude": 59.542
+      },
+      "geometryCode": "TM"
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "m49": "796",
+      "iso3": "TCA",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 21.801,
+        "longitude": -71.741
+      },
+      "geometryCode": "TC"
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "m49": "798",
+      "iso3": "TUV",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -8.502,
+        "longitude": 179.204
+      },
+      "geometryCode": "TV"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "m49": "800",
+      "iso3": "UGA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": 1.367,
+        "longitude": 32.281
+      },
+      "geometryCode": "UG"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "m49": "804",
+      "iso3": "UKR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 48.374,
+        "longitude": 31.146
+      },
+      "geometryCode": "UA"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "m49": "784",
+      "iso3": "ARE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 24.349,
+        "longitude": 53.981
+      },
+      "geometryCode": "AE"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "m49": "826",
+      "iso3": "GBR",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "source": "UN M49",
+      "center": {
+        "latitude": 54,
+        "longitude": -2
+      },
+      "geometryCode": "GB"
+    },
+    {
+      "code": "TZ",
+      "name": "United Republic of Tanzania",
+      "m49": "834",
+      "iso3": "TZA",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -6.354,
+        "longitude": 34.88
+      },
+      "geometryCode": "TZ"
+    },
+    {
+      "code": "UM",
+      "name": "United States Minor Outlying Islands",
+      "m49": "581",
+      "iso3": "UMI",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 16.759,
+        "longitude": -169.528
+      },
+      "geometryCode": "UM"
+    },
+    {
+      "code": "US",
+      "name": "United States of America",
+      "m49": "840",
+      "iso3": "USA",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "source": "UN M49",
+      "center": {
+        "latitude": 39,
+        "longitude": -98
+      },
+      "geometryCode": "US"
+    },
+    {
+      "code": "VI",
+      "name": "United States Virgin Islands",
+      "m49": "850",
+      "iso3": "VIR",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 17.73,
+        "longitude": -64.727
+      },
+      "geometryCode": "VI"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "m49": "858",
+      "iso3": "URY",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": -32.536,
+        "longitude": -55.779
+      },
+      "geometryCode": "UY"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "m49": "860",
+      "iso3": "UZB",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 41.371,
+        "longitude": 64.559
+      },
+      "geometryCode": "UZ"
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "m49": "548",
+      "iso3": "VUT",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -15.146,
+        "longitude": 166.885
+      },
+      "geometryCode": "VU"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela (Bolivarian Republic of)",
+      "m49": "862",
+      "iso3": "VEN",
+      "region": "Americas",
+      "subregion": "Latin America and the Caribbean",
+      "source": "UN M49",
+      "center": {
+        "latitude": 6.424,
+        "longitude": -66.61
+      },
+      "geometryCode": "VE"
+    },
+    {
+      "code": "VN",
+      "name": "Viet Nam",
+      "m49": "704",
+      "iso3": "VNM",
+      "region": "Asia",
+      "subregion": "South-eastern Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.966,
+        "longitude": 105.796
+      },
+      "geometryCode": "VN"
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna Islands",
+      "m49": "876",
+      "iso3": "WLF",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "source": "UN M49",
+      "center": {
+        "latitude": -14.282,
+        "longitude": -178.117
+      },
+      "geometryCode": "WF"
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "m49": "732",
+      "iso3": "ESH",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "source": "UN M49",
+      "center": null,
+      "geometryCode": null
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "m49": "887",
+      "iso3": "YEM",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "source": "UN M49",
+      "center": {
+        "latitude": 15.797,
+        "longitude": 47.85
+      },
+      "geometryCode": "YE"
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "m49": "894",
+      "iso3": "ZMB",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -13.131,
+        "longitude": 27.827
+      },
+      "geometryCode": "ZM"
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "m49": "716",
+      "iso3": "ZWE",
+      "region": "Africa",
+      "subregion": "Sub-Saharan Africa",
+      "source": "UN M49",
+      "center": {
+        "latitude": -19.017,
+        "longitude": 29.149
+      },
+      "geometryCode": "ZW"
+    }
+  ]
+}

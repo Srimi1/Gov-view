@@ -1,0 +1,47 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-kl-recruitment",
+  "gazetteUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+  "closesOn": "2026-10-07",
+  "generalConditions": {
+    "pageUrl": "https://www.keralapsc.gov.in/general-conditions",
+    "pdfUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+    "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+    "nationalityPage": 45
+  },
+  "documents": [
+    { "key": "130", "sha256": "cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc" },
+    { "key": "131", "sha256": "369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544" },
+    { "key": "132", "sha256": "95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc" },
+    { "key": "133", "sha256": "508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0" },
+    { "key": "134", "sha256": "07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806" },
+    { "key": "135", "sha256": "464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde" },
+    { "key": "136", "sha256": "04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16" },
+    { "key": "137", "sha256": "d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d" },
+    { "key": "138", "sha256": "21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235" },
+    { "key": "139-142", "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f" },
+    { "key": "143", "sha256": "017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0" },
+    { "key": "144", "sha256": "f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927" },
+    { "key": "145", "sha256": "9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748" },
+    { "key": "146-150", "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f" }
+  ],
+  "sharedCategories": [
+    { "number": 139, "documentKey": "139-142", "post": "Fire & Rescue Officer (Trainee)", "community": "Scheduled Caste Converts to Christianity", "vacancies": 2, "districts": [] },
+    { "number": 140, "documentKey": "139-142", "post": "Fire & Rescue Officer (Trainee)", "community": "Latin Catholic / Anglo Indian", "vacancies": 3, "districts": [] },
+    { "number": 141, "documentKey": "139-142", "post": "Fire & Rescue Officer (Trainee)", "community": "Viswakarma", "vacancies": 1, "districts": [] },
+    { "number": 142, "documentKey": "139-142", "post": "Fire & Rescue Officer (Trainee)", "community": "SIUC Nadar", "vacancies": 1, "districts": [] },
+    { "number": 146, "documentKey": "146-150", "post": "Beat Forest Officer", "community": "Latin Catholic / Anglo Indian", "vacancies": 1, "districts": ["Wayanad"] },
+    { "number": 147, "documentKey": "146-150", "post": "Beat Forest Officer", "community": "Muslim", "vacancies": 1, "districts": ["Idukki"] },
+    { "number": 148, "documentKey": "146-150", "post": "Beat Forest Officer", "community": "Scheduled Caste", "vacancies": 2, "districts": ["Idukki", "Wayanad"] },
+    { "number": 149, "documentKey": "146-150", "post": "Beat Forest Officer", "community": "SIUC Nadar", "vacancies": 1, "districts": ["Idukki"] },
+    { "number": 150, "documentKey": "146-150", "post": "Beat Forest Officer", "community": "Scheduled Caste Converts to Christianity", "vacancies": 1, "districts": ["Idukki"] }
+  ],
+  "evidenceNotes": [
+    "The notice enumerates separate category numbers and directs candidates to Apply Now for respective posts under One Time Registration. Treat 139–142 and 146–150 as nine provisional category applications, not two PDFs or counts of venues; founder must confirm portal form identity before publication.",
+    "Fire & Rescue notice English pages 1–5 lists four category/community/vacancy rows, Plus Two, swimming/physical tests and no application fee; Malayalam counterpart follows. Female and differently abled candidates are excluded by this notice. National citizenship wording is not printed.",
+    "Beat Forest notice English pages 1–6 lists five category/community rows; category 148 has two district vacancies under one category with district selection. Plus Two, category-specific age, physical tests and no application fee are stated; Malayalam counterpart follows. National citizenship wording is not printed.",
+    "Both shared PDFs say 7 October 2026 up to 12 midnight. Precise instant is ambiguous and is not converted to a 23:59 or 00:00 cutoff. Category-specific general conditions and proofs need founder review.",
+    "The other 12 individual category PDFs are retained and hash-pinned. Provisional job type, qualification, fee, salary, community and in-service conditions are extracted in connectors/kerala-psc.ts for founder review. Nationality permission and language levels remain unresolved; bilingual notice text and Arabic degree subject do not establish a proficiency-scale requirement. This is 21 candidates, not 21 reviewed listings.",
+    "The official General Conditions page linked the 107-page PDF current on 25 September 2026 (PDF modification metadata 11 August 2026). English PDF page 45, Part II paragraph 1, gives Indian citizenship and narrow conditional Nepal, Bhutan, Tibetan-migrant and Indian-origin migrant routes with Government of India eligibility certificate. Post-specific Part I exemptions and individual proof still need review. No blanket Malayalam/English proficiency level is stated."
+  ]
+}

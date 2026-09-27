@@ -1,0 +1,41 @@
+Sl No Circle Name                Language Name                    UR      OBC    SC     ST     EWS    PWD-A   PWD-B   PWD-C   PWD-DE   Total
+1     Andhra Pradesh Circle      Telugu                           400     213    125    45     109    5       8       11      1        917
+2     Assam Circle               Assamese/Asomiya                 159     80     31     26     21     2       2       1       0        322
+3     Assam Circle               Bengali                          40      13     6      11     6      0       1       0       0        77
+4     Assam Circle               Bodo                             15      0      0      0      0      0       0       0       0        15
+5     Bihar Circle               Hindi                            491     279    157    56     87     9       7       4       8        1,098
+6     Chhattisgarh Circle        Hindi                            290     35     83     257    75     9       7       4       2        762
+7     Delhi Circle               Hindi                            8       3      2      2      1      0       0       0       0        16
+8     Gujarat Circle             Gujarati                         234     118    24     74     38     3       1       7       0        499
+9     Haryana Circle             Hindi                            36      22     16     1      9      0       1       2       0        87
+10    Himachal Pradesh Circle    Hindi                            142     66     76     12     33     3       2       1       0        335
+11    Jammu and Kashmir Circle   Hindi/Urdu                       148     89     26     37     30     1       5       2       2        340
+12    Jharkhand Circle           Hindi                            527     162    160    343    134    13      19      13      8        1,379
+13    Karnataka Circle           Kannada                          446     286    176    64     115    9       7       11      2        1,116
+14    Kerala Circle              Malayalam                        753     343    111    5      114    12      16      15      4        1,373
+15    Madhya Pradesh Circle      Hindi                            563     215    225    272    133    11      17      7       7        1,450
+16    Maharashtra Circle         Konkani/Marathi                  70      23     5      18     14     0       4       0       0        134
+17    Maharashtra Circle         Marathi                          991     577    236    176    234    18      33      21      11       2,297
+18    North Eastern Circle       Bengali/kak barak                74      2      28     52     17     1       4       1       0        179
+19    North Eastern Circle       English/Hindi                    926     0      21     297    87     15      4       4       0        1,354
+20    North Eastern Circle       English/Hindi and Garo           112     5      3      136    29     3       3       2       3        296
+21    North Eastern Circle       English/Hindi and Khasi          146     26     3      145    34     4       4       4       3        369
+22    North Eastern Circle       English/Manipuri                 120     49     5      91     29     3       3       3       3        306
+23    North Eastern Circle       Mizo                             44      5      0      47     10     0       4       0       0        110
+24    Odisha Circle              Oriya                            571     152    213    266    123    9       9       9       1        1,353
+25    Punjab Circle              English/Hindi                    1       1      1      0      0      0       0       0       0        3
+26    Punjab Circle              Punjabi                          55      27     27     2      8      0       0       0       0        119
+27    Rajasthan Circle           Hindi                            470     114    138    133    120    13      9       10      2        1,009
+28    Tamilnadu Circle           Tamil                            921     524    385    18     203    13      23      23      8        2,118
+29    Telangana Circle           Telugu                           201     85     59     17     45     2       5       5       0        419
+30    Uttarakhand Circle         Hindi                            225     71     78     17     43     7       5       5       1        452
+31    Uttar Pradesh Circle       Hindi                            720     453    301    48     139    14      9       4       3        1,691
+32    West Bengal Circle         Bengali                          672     360    354    92     106    11      13      9       2        1,619
+33    West Bengal Circle         Bengali/Nepali                   6       3      2      0      1      0       0       0       0        12
+                                 English and
+                                 Bhutia/Gurung/Lepcha/Nepali/Rai/
+34    West Bengal Circle         Sherpa/Tamang                    42      21     2      9      9      1       1       0       1        86
+35    West Bengal Circle         English/Hindi                    19      10     0      3      4      1       1       0       0        38
+36    West Bengal Circle         Nepali                           2       1      3      1      0      0       0       0       0        7
+      Total                                                       10640   4433   3082   2773   2160   192     227     178     72       23757
+

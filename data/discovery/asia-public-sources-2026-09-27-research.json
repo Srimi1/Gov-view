@@ -1,0 +1,27 @@
+{
+  "researchedAt": "2026-09-26T23:06:49.383Z",
+  "localDate": "2026-09-27",
+  "scope": "Seven official public sources in CN, TW, MN, VN, KH and LA; authority discovery is not verified opportunity publication.",
+  "method": "Primary official-reader/index observations and bounded exact-byte requests. HTTPS, robots, throttle and TLS policy enforced by existing HTTP helper. No bypass or collection-state updates.",
+  "currentReaderAdditions": [
+    {
+      "url": "https://wwwc.moex.gov.tw/main/news/wfrmNews.aspx?kind=3&menu_id=42&news_id=7665",
+      "finding": "115/2026 English certificate acceptance reforms apply to named civil-service categories. Exact required scores need current category annex; no universal requirement inferred.",
+      "retainedOriginal": false
+    },
+    {
+      "url": "https://sonv.laichau.gov.vn/",
+      "finding": "September 9 round-3 plan/announcement followed by September 10 amendments 1806/QD-SNV and 4189/TB-SNV; all require reconciliation.",
+      "retainedOriginal": false
+    },
+    {
+      "url": "https://www.nuol.edu.la/index.php/en/news/643-%E0%BA%AA%E0%BA%B0%E0%BA%96%E0%BA%B2%E0%BA%9A%E0%BA%B1%E0%BA%99%E0%BA%82%E0%BA%BB%E0%BA%87%E0%BA%88%E0%BA%B7-%E0%BA%88%E0%BA%B1%E0%BA%94%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%AA%E0%BA%AD%E0%BA%9A%E0%BB%80%E0%BA%AA%E0%BA%B1%E0%BA%87%E0%BA%84%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%A5%E0%BA%B7%E0%BA%AD%E0%BA%81%E0%BA%99%E0%BA%B1%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2%E0%BB%83%E0%BB%9D%E0%BB%88-%E0%BA%AA%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%84%E0%BA%B9%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2%E0%BA%88%E0%BA%B5%E0%BA%99-%E0%BA%9B%E0%BA%B0%E0%BA%88%E0%BA%B3%E0%BA%AA%E0%BA%BB%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2-2026-2027",
+      "finding": "Historical programme entry tests and later scholarship language conditions differ. HSK score 210 passage omits level; no HSK level guessed.",
+      "retainedOriginal": false
+    }
+  ],
+  "matrix": "data/discovery/asia-public-source-matrix-2026-09-27.json",
+  "outcomes": "data/discovery/asia-public-sources-2026-09-27-fetch-outcomes.json",
+  "publicationDecisions": 0,
+  "collectionJobs": 0
+}

@@ -1,0 +1,17 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-mz-recruitment",
+  "records": [
+    { "file": "data/evidence/research/mizoram-advertisements-2026-27.html", "url": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027", "sha256": "8efb2d02094b2b13fe3ac78739751370d96f89aa70bb79f6d6c69ac37ca5f99a", "bytes": 1452367 },
+    { "file": "data/evidence/research/mizoram-corrigenda.html", "url": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum", "sha256": "08b52626ed371268fdb810f220ed53a401ac5ad062139683fde807aeee9364ec", "bytes": 1430703 },
+    { "file": "data/evidence/research/mizoram-25-2026-27-ldc.pdf", "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf", "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769", "bytes": 677080 },
+    { "file": "data/evidence/research/mizoram-26-2026-27-peon.pdf", "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf", "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b", "bytes": 672462 },
+    { "file": "data/evidence/research/mizoram-mizo-language-2024.pdf", "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf", "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c", "bytes": 895209 }
+  ],
+  "notes": [
+    "Official MPSC archive and both original notices; source and application-portal robots.txt each allow collection. Archive lists upload/notification date 15 September, while both PDFs are dated 11 September. Neither establishes an application opening date.",
+    "Peon advert 26/2026-27 says three posts and closes 13 October 2026 at 4 PM; LDC advert 25/2026-27 says four posts and closes 12 October at 4 PM. Both are direct-recruitment examinations with no published exam venue in retained notices.",
+    "Both require Mizo Language Proficiency qualifying test or specified Class-X/MIL exemption. 2024 MPSC notice confirms rule and disqualification outcome but gives no numerical pass mark or CEFR level.",
+    "Neither notice states citizenship or general domicile criteria. International-applicant eligibility, cited recruitment rules, precise opening date, fees and live application form need founder review. Other Mizoram authorities and notices remain coverage gaps."
+  ]
+}

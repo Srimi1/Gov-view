@@ -1,0 +1,2705 @@
+{
+  "sourceId": "in-kl-recruitment",
+  "collectedAt": "2026-09-25T15:09:07.878Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "130/2026",
+      "programme": "Artist - Information and Public Relations (Cat.No.130/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Information and Public Relations; general statewide direct recruitment",
+      "outcome": "Artist appointment; vacancy count anticipated, not published",
+      "qualifications": "Diploma in Drawing and Painting (MGTE or KGTE), or accepted equivalent.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "No Kerala domicile rule established in this category notice; applicable general conditions need review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Category 130 English PDF age clause: minimum age 19; upper limit and relaxations need case-specific review."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm MGTE/KGTE drawing and painting qualification or officially accepted equivalent, category-specific age relaxation and applicable general conditions. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-130",
+      "sourceId": "in-kl-recruitment",
+      "title": "Artist - Information and Public Relations (Cat.No.130/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹35,600–₹75,400 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:363fb9547e95",
+          "title": "Kerala category 130/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-130-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-130-26.pdf",
+          "sha256": "cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:13.284Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "131/2026",
+      "programme": "Compounder Gr.IV - Malabar Cements Ltd. (Cat.No.131/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Malabar Cements Ltd; direct recruitment to a public-sector company",
+      "outcome": "One Compounder Grade IV position",
+      "qualifications": "Diploma in Pharmacy and government-recognized First-Aid certificate.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "No Kerala domicile rule established in this category notice; applicable general conditions need review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 131 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Pharmacy diploma, recognized First-Aid certificate, age relaxation and company appointment conditions. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-131",
+      "sourceId": "in-kl-recruitment",
+      "title": "Compounder Gr.IV - Malabar Cements Ltd. (Cat.No.131/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹30,200–₹62,650 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:c2cb2d0751fd",
+          "title": "Kerala category 131/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-131-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-131-26.pdf",
+          "sha256": "369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:14.347Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "132/2026",
+      "programme": "Plumber (B/T) (Only for In-service personnel working in the lower categories in KWA) - Kerala Water Authority (Cat.No.132/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Water Authority; by-transfer category for serving lower-category personnel, not an open-market application",
+      "outcome": "Eight Plumber (By Transfer) positions",
+      "qualifications": "At least three years in a qualifying lower-category Kerala Water Authority post; SSLC or equivalent and National Trade Certificate in Plumber trade after a one-year course, or accepted equivalent. Service certificate required.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "Current qualifying Kerala Water Authority employment is required for this category; no separate domicile rule established.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Service certificate and qualification verification",
+        "Selection test if announced",
+        "By-transfer appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 132 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "secondary",
+          "evidence": "Category 132 English PDF, qualification 8: SSLC or equivalent; Plumber trade certificate also required."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "Category 132 English PDF, method of appointment note 1: at least three years in specified lower-category Kerala Water Authority service."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm current qualifying Kerala Water Authority service, prescribed lower category, service certificate and Plumber trade certificate. Separate open-market ranked list is not this application cycle. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-132",
+      "sourceId": "in-kl-recruitment",
+      "title": "Plumber (B/T) (Only for In-service personnel working in the lower categories in KWA) - Kerala Water Authority (Cat.No.132/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹25,800–₹59,300 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:2900f1dceaef",
+          "title": "Kerala category 132/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-132-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-132-26.pdf",
+          "sha256": "95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:15.313Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "133/2026",
+      "programme": "Laboratory Attender - Ground Water Department (Cat.No.133/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Ground Water Department; general direct recruitment",
+      "outcome": "One Laboratory Attender position",
+      "qualifications": "SSLC pass with at least 60% marks, or accepted equivalent.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "No Kerala domicile rule established in this category notice; applicable general conditions need review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 133 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "secondary",
+          "evidence": "Category 133 English PDF, qualification 7: SSLC with at least 60% marks or equivalent."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm SSLC score of at least 60% or accepted equivalent, age relaxation and applicable general conditions. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-133",
+      "sourceId": "in-kl-recruitment",
+      "title": "Laboratory Attender - Ground Water Department (Cat.No.133/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹23,700–₹52,600 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:40114e782475",
+          "title": "Kerala category 133/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-133-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-133-26.pdf",
+          "sha256": "508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:16.342Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "134/2026",
+      "programme": "Junior Assistant - Part-II (Society Category) - Kerala Co-operative Milk Marketing Federation Limited(Cat.No.134/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Co-operative Milk Marketing Federation; Part II society category for regular member-society employees, not general open-market Part I",
+      "outcome": "One Junior Assistant society-category position",
+      "qualifications": "Three years regular service in an affiliated member society or primary member society; degree in Arts, Science or Commerce; JDC/HDC; service certificate uploaded with application.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "Regular qualifying affiliated-society employment is required; no separate domicile rule established.",
+      "selectionStages": [
+        "One Time Registration and Part II application",
+        "Uploaded service certificate and qualification verification",
+        "Selection test if announced",
+        "Society-category appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 134 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "Category 134 English PDF, qualification 7: degree in Arts, Science or Commerce; JDC/HDC also required."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "Category 134 English PDF, qualification 7: three years regular member-society service at application and appointment."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm regular affiliated-society service at application and appointment, three-year duration, Arts/Science/Commerce degree, JDC/HDC and uploaded service certificate. Part I open-market recruitment is a separate list. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-134",
+      "sourceId": "in-kl-recruitment",
+      "title": "Junior Assistant - Part-II (Society Category) - Kerala Co-operative Milk Marketing Federation Limited(Cat.No.134/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹20,180–₹46,990 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:3d11f48807e0",
+          "title": "Kerala category 134/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-134-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-134-26.pdf",
+          "sha256": "07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:17.328Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "135/2026",
+      "programme": "Assistant Project Engineer - Kerala Land Development Corporation Limited (Cat.No.135/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Land Development Corporation; direct recruitment restricted to serving corporation personnel",
+      "outcome": "One Assistant Project Engineer position",
+      "qualifications": "B.Tech in Civil or Agricultural Engineering, accepted equivalent, or Section A and B AMIE Civil; three years as corporation Draftsman/Overseer, or four years in another qualifying lower category. Temporary workers are excluded. Service certificate required.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "Current qualifying corporation service is required; no separate domicile rule established.",
+      "selectionStages": [
+        "One Time Registration and in-service application",
+        "Service certificate and engineering qualification verification",
+        "Selection test if announced",
+        "Corporation appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm current non-temporary corporation service, eligible engineering qualification, applicable three- or four-year service route and service certificate. Notice states no upper age limit. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-135",
+      "sourceId": "in-kl-recruitment",
+      "title": "Assistant Project Engineer - Kerala Land Development Corporation Limited (Cat.No.135/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹19,240–₹34,500 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:49c20d4a833d",
+          "title": "Kerala category 135/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-135-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-135-26.pdf",
+          "sha256": "464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:18.261Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "136/2026",
+      "programme": "Conservation Officer (SR for SC/ST) - State Archives Department (Cat.No.136/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala State Archives; special direct recruitment restricted to Scheduled Caste or Scheduled Tribe candidates of Kerala State",
+      "outcome": "One Conservation Officer position",
+      "qualifications": "First- or second-class Master's degree in Chemistry; at least three years archival-record conservation experience and two years chemistry research experience. National Archives conservation certificate is preferential.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "Notice limits this special recruitment to Scheduled Caste or Scheduled Tribe candidates of Kerala State; community proof and any residence condition need review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 136 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "master",
+          "evidence": "Category 136 English PDF, qualification 7(i): first- or second-class Master's degree in Chemistry."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "Category 136 English PDF, qualifications 7(ii)–(iii): three years archival conservation and two years chemistry research; overlap must be checked."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Kerala SC/ST community eligibility, Chemistry Master's class and recognition, both experience requirements and conditional age relaxation up to 50. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-136",
+      "sourceId": "in-kl-recruitment",
+      "title": "Conservation Officer (SR for SC/ST) - State Archives Department (Cat.No.136/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹50,200–₹105,300 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:598be5992f5a",
+          "title": "Kerala category 136/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-136-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-136-26.pdf",
+          "sha256": "04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:19.436Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "137/2026",
+      "programme": "Lecturer in Arabic (I NCA-E/B/T) - Kerala General Education (DIET) (Cat.No.137/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala General Education DIET; NCA direct recruitment for Ezhava/Billava/Thiyya community of Kerala State",
+      "outcome": "One Lecturer in Arabic position",
+      "qualifications": "At least 50% in Master's degree in Arabic Language and Literature, at least 50% in M.Ed with Language Education or Arabic teaching specialization, and one listed TET/NET/SET/M.Phil/Ph.D route.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "NCA category is limited to Ezhava/Billava/Thiyya candidates of Kerala State; community proof needs review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 22,
+          "evidence": "Category 137 English PDF age clause: minimum age 22; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "master",
+          "evidence": "Category 137 English PDF, qualification 7: Master's in Arabic Language and Literature and M.Ed, both at least 50%."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Ezhava/Billava/Thiyya Kerala community, both specified degrees and marks, accepted test or research-degree route, and age conditions. Arabic is degree subject; notice gives no CEFR or other language proficiency level. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-137",
+      "sourceId": "in-kl-recruitment",
+      "title": "Lecturer in Arabic (I NCA-E/B/T) - Kerala General Education (DIET) (Cat.No.137/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹55,200–₹115,300 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:17d66880c44d",
+          "title": "Kerala category 137/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-137-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-137-26.pdf",
+          "sha256": "d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:20.280Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "138/2026",
+      "programme": "Police Constable (Band/Bugler/Drummer) (I NCA-OBC) - Police (Band Unit) (Cat.No.138/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Police Band Unit; NCA direct recruitment for Other Backward Class community; female and differently abled candidates excluded by notice",
+      "outcome": "One Police Constable (Band/Bugler/Drummer) position",
+      "qualifications": "Higher Secondary or equivalent; at least one year playing Police Band instruments with a registered firm, institution or band troop; practical proficiency and physical standards.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "Notice restricts this NCA category to the notified OBC community; community proof and any residence condition need review.",
+      "selectionStages": [
+        "One Time Registration and NCA category application",
+        "Community, education and band experience verification",
+        "Physical and practical instrument tests",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 138 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Category 138 English PDF, qualification 7(1)(a): Higher Secondary or equivalent."
+        },
+        "experience": {
+          "minYears": 1,
+          "evidence": "Category 138 English PDF, qualification 7(1)(b): one year playing Police Band instruments in a registered institution."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm notified OBC community, male/non-disabled restriction, band experience certificate, physical and visual standards, practical instrument test and age exceptions. Instrument proficiency is not a language level. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-138",
+      "sourceId": "in-kl-recruitment",
+      "title": "Police Constable (Band/Bugler/Drummer) (I NCA-OBC) - Police (Band Unit) (Cat.No.138/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹31,100–₹66,800 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:303a03811c5d",
+          "title": "Kerala category 138/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-138-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-138-26.pdf",
+          "sha256": "21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:21.347Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "139/2026",
+      "programme": "Fire & Rescue Officer (Trainee) NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Fire and Rescue Services recruitment for specified Kerala community. District names are hiring scope, not exam venues.",
+      "outcome": "2 Fire & Rescue Officer (Trainee) positions reserved for Scheduled Caste Converts to Christianity",
+      "qualifications": "Plus Two or recognized equivalent; specified physical and visual standards, swimming qualification and physical efficiency test. Female and differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Scheduled Caste Converts to Christianity candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof",
+        "Physical measurement",
+        "Swimming practical test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Fire & Rescue shared PDF English page 2: birth windows start at age 18; upper ages vary by category and require manual check."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Fire & Rescue shared PDF English page 2: Plus Two or equivalent; preferential computer diploma is not mandatory."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Scheduled Caste Converts to Christianity Kerala community certificate, category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm notice-specific gender, disability, physical, vision and swimming rules; complete mandatory tests and any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-139",
+      "sourceId": "in-kl-recruitment",
+      "title": "Fire & Rescue Officer (Trainee) — Scheduled Caste Converts to Christianity (Cat.No.139/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:bc620ef2239c",
+          "title": "Kerala categories 139-142/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:22.269Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "140/2026",
+      "programme": "Fire & Rescue Officer (Trainee) NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Fire and Rescue Services recruitment for specified Kerala community. District names are hiring scope, not exam venues.",
+      "outcome": "3 Fire & Rescue Officer (Trainee) positions reserved for Latin Catholic / Anglo Indian",
+      "qualifications": "Plus Two or recognized equivalent; specified physical and visual standards, swimming qualification and physical efficiency test. Female and differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Latin Catholic / Anglo Indian candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof",
+        "Physical measurement",
+        "Swimming practical test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Fire & Rescue shared PDF English page 2: birth windows start at age 18; upper ages vary by category and require manual check."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Fire & Rescue shared PDF English page 2: Plus Two or equivalent; preferential computer diploma is not mandatory."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Latin Catholic / Anglo Indian Kerala community certificate, category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm notice-specific gender, disability, physical, vision and swimming rules; complete mandatory tests and any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-140",
+      "sourceId": "in-kl-recruitment",
+      "title": "Fire & Rescue Officer (Trainee) — Latin Catholic / Anglo Indian (Cat.No.140/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:bc620ef2239c",
+          "title": "Kerala categories 139-142/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:22.269Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "141/2026",
+      "programme": "Fire & Rescue Officer (Trainee) NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Fire and Rescue Services recruitment for specified Kerala community. District names are hiring scope, not exam venues.",
+      "outcome": "1 Fire & Rescue Officer (Trainee) position reserved for Viswakarma",
+      "qualifications": "Plus Two or recognized equivalent; specified physical and visual standards, swimming qualification and physical efficiency test. Female and differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Viswakarma candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof",
+        "Physical measurement",
+        "Swimming practical test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Fire & Rescue shared PDF English page 2: birth windows start at age 18; upper ages vary by category and require manual check."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Fire & Rescue shared PDF English page 2: Plus Two or equivalent; preferential computer diploma is not mandatory."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Viswakarma Kerala community certificate, category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm notice-specific gender, disability, physical, vision and swimming rules; complete mandatory tests and any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-141",
+      "sourceId": "in-kl-recruitment",
+      "title": "Fire & Rescue Officer (Trainee) — Viswakarma (Cat.No.141/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:bc620ef2239c",
+          "title": "Kerala categories 139-142/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:22.269Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "142/2026",
+      "programme": "Fire & Rescue Officer (Trainee) NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Fire and Rescue Services recruitment for specified Kerala community. District names are hiring scope, not exam venues.",
+      "outcome": "1 Fire & Rescue Officer (Trainee) position reserved for SIUC Nadar",
+      "qualifications": "Plus Two or recognized equivalent; specified physical and visual standards, swimming qualification and physical efficiency test. Female and differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to SIUC Nadar candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof",
+        "Physical measurement",
+        "Swimming practical test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Fire & Rescue shared PDF English page 2: birth windows start at age 18; upper ages vary by category and require manual check."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Fire & Rescue shared PDF English page 2: Plus Two or equivalent; preferential computer diploma is not mandatory."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm SIUC Nadar Kerala community certificate, category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm notice-specific gender, disability, physical, vision and swimming rules; complete mandatory tests and any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-142",
+      "sourceId": "in-kl-recruitment",
+      "title": "Fire & Rescue Officer (Trainee) — SIUC Nadar (Cat.No.142/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:bc620ef2239c",
+          "title": "Kerala categories 139-142/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+          "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:22.269Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "143/2026",
+      "programme": "Assistant Prison Officer (I NCA-SCCC) - Prisons and Correctional Services (Cat.No.143/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Prisons and Correctional Services; NCA statewide direct recruitment for SCCC community of Kerala State; female and differently abled candidates excluded by notice",
+      "outcome": "One Assistant Prison Officer position",
+      "qualifications": "SSLC or equivalent; specified physical, vision and physical-efficiency standards. Kerala Jail Subordinate Officer's test follows appointment during probation.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "NCA category is limited to Scheduled Caste Converted to Christianity candidates of Kerala State; community proof needs review.",
+      "selectionStages": [
+        "One Time Registration and NCA category application",
+        "Community and education verification",
+        "Physical, vision and physical-efficiency tests",
+        "Medical and appointment checks",
+        "Jail Subordinate Officer's test during probation"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 143 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "education": {
+          "minLevel": "secondary",
+          "evidence": "Category 143 English PDF, qualification 7(a): SSLC or equivalent."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Kerala SCCC community, male/non-disabled restriction, physical and vision standards, physical-efficiency test and applicable age concession. Jail Subordinate Officer's test occurs during probation after appointment. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-143",
+      "sourceId": "in-kl-recruitment",
+      "title": "Assistant Prison Officer (I NCA-SCCC) - Prisons and Correctional Services (Cat.No.143/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:f392ac8f6aa1",
+          "title": "Kerala category 143/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-143-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-143-26.pdf",
+          "sha256": "017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:23.385Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "144/2026",
+      "programme": "Electrician (I NCA-Muslim) - Ground Water Department (Cat.No.144/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala Ground Water Department; NCA direct recruitment for Muslim community of Kerala State",
+      "outcome": "One Electrician position",
+      "qualifications": "ITI trade certificate in Electrician trade, or accepted equivalent.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "NCA category is limited to Muslim candidates of Kerala State; community proof needs review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 144 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Kerala Muslim community, Electrician ITI trade certificate or accepted equivalent, and age conditions. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-144",
+      "sourceId": "in-kl-recruitment",
+      "title": "Electrician (I NCA-Muslim) - Ground Water Department (Cat.No.144/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹26,500–₹60,700 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:56520e1452fb",
+          "title": "Kerala category 144/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-144-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-144-26.pdf",
+          "sha256": "f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:24.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "145/2026",
+      "programme": "Electrician (I NCA-LC/AI) - Kerala State Film Development Corporation Limited. (Cat.No.145/2026)",
+      "status": "uncertain",
+      "statusNote": "Category-specific fields extracted from hash-pinned original PDF; founder review and applicable general conditions remain pending.",
+      "scopeLabel": "Kerala State Film Development Corporation; NCA direct recruitment for LC/AI community of Kerala State",
+      "outcome": "One Electrician position",
+      "qualifications": "Diploma in Electrical Engineering; or, only in absence of diploma-qualified candidates, 18-month ITI Electrician course plus apprenticeship. Two years in a film studio of repute required for either route.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "NCA category is limited to Latin Catholic/Anglo Indian candidates of Kerala State; community proof needs review.",
+      "selectionStages": [
+        "One Time Registration and category-specific application",
+        "Qualification and category proof",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Appointment checks"
+      ],
+      "fee": "Original category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 18,
+          "evidence": "Category 145 English PDF age clause: minimum age 18; upper limit and relaxations need case-specific review."
+        },
+        "experience": {
+          "minYears": 2,
+          "evidence": "Category 145 English PDF, qualification 7(b): two years in a film studio of repute."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Kerala LC/AI community, Electrical Engineering diploma or conditional ITI-plus-apprenticeship route, film-studio experience certificate and age conditions. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm category-specific practical tests, documents and any later test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-145",
+      "sourceId": "in-kl-recruitment",
+      "title": "Electrician (I NCA-LC/AI) - Kerala State Film Development Corporation Limited. (Cat.No.145/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹19,000–₹43,600 pay scale.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:5521b27b1c1e",
+          "title": "Kerala category 145/2026 original notice",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-145-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-145-26.pdf",
+          "sha256": "9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:25.344Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "146/2026",
+      "programme": "Beat Forest Officer NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Forest and Wildlife recruitment for specified Kerala community; district choice: Wayanad. District names are hiring scope, not exam venues.",
+      "outcome": "1 Beat Forest Officer position reserved for Latin Catholic / Anglo Indian; district choice: Wayanad",
+      "qualifications": "Plus Two or recognized equivalent; sex- and community-specific physical, endurance and medical standards. Differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Latin Catholic / Anglo Indian candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof, with district selection",
+        "Physical measurement and endurance test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Beat Forest shared PDF English page 2: birth windows start at age 19; upper age varies for SC and other NCA communities."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Beat Forest shared PDF English page 2: Plus Two or equivalent recognized by Kerala or India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Latin Catholic / Anglo Indian Kerala community certificate, district selection (Wayanad), category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm community/district, disability, sex-specific physical and medical rules; complete endurance and physical tests plus any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-146",
+      "sourceId": "in-kl-recruitment",
+      "title": "Beat Forest Officer — Latin Catholic / Anglo Indian (Cat.No.146/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:1a5fb8a4242c",
+          "title": "Kerala categories 146-150/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:26.310Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "147/2026",
+      "programme": "Beat Forest Officer NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Forest and Wildlife recruitment for specified Kerala community; district choice: Idukki. District names are hiring scope, not exam venues.",
+      "outcome": "1 Beat Forest Officer position reserved for Muslim; district choice: Idukki",
+      "qualifications": "Plus Two or recognized equivalent; sex- and community-specific physical, endurance and medical standards. Differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Muslim candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof, with district selection",
+        "Physical measurement and endurance test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Beat Forest shared PDF English page 2: birth windows start at age 19; upper age varies for SC and other NCA communities."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Beat Forest shared PDF English page 2: Plus Two or equivalent recognized by Kerala or India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Muslim Kerala community certificate, district selection (Idukki), category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm community/district, disability, sex-specific physical and medical rules; complete endurance and physical tests plus any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-147",
+      "sourceId": "in-kl-recruitment",
+      "title": "Beat Forest Officer — Muslim (Cat.No.147/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:1a5fb8a4242c",
+          "title": "Kerala categories 146-150/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:26.310Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "148/2026",
+      "programme": "Beat Forest Officer NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Forest and Wildlife recruitment for specified Kerala community; district choice: Idukki or Wayanad. District names are hiring scope, not exam venues.",
+      "outcome": "2 Beat Forest Officer positions reserved for Scheduled Caste; district choice: Idukki or Wayanad",
+      "qualifications": "Plus Two or recognized equivalent; sex- and community-specific physical, endurance and medical standards. Differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Scheduled Caste candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof, with district selection",
+        "Physical measurement and endurance test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Beat Forest shared PDF English page 2: birth windows start at age 19; upper age varies for SC and other NCA communities."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Beat Forest shared PDF English page 2: Plus Two or equivalent recognized by Kerala or India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Scheduled Caste Kerala community certificate, district selection (Idukki or Wayanad), category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm community/district, disability, sex-specific physical and medical rules; complete endurance and physical tests plus any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-148",
+      "sourceId": "in-kl-recruitment",
+      "title": "Beat Forest Officer — Scheduled Caste (Cat.No.148/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:1a5fb8a4242c",
+          "title": "Kerala categories 146-150/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:26.310Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "149/2026",
+      "programme": "Beat Forest Officer NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Forest and Wildlife recruitment for specified Kerala community; district choice: Idukki. District names are hiring scope, not exam venues.",
+      "outcome": "1 Beat Forest Officer position reserved for SIUC Nadar; district choice: Idukki",
+      "qualifications": "Plus Two or recognized equivalent; sex- and community-specific physical, endurance and medical standards. Differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to SIUC Nadar candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof, with district selection",
+        "Physical measurement and endurance test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Beat Forest shared PDF English page 2: birth windows start at age 19; upper age varies for SC and other NCA communities."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Beat Forest shared PDF English page 2: Plus Two or equivalent recognized by Kerala or India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm SIUC Nadar Kerala community certificate, district selection (Idukki), category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm community/district, disability, sex-specific physical and medical rules; complete endurance and physical tests plus any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-149",
+      "sourceId": "in-kl-recruitment",
+      "title": "Beat Forest Officer — SIUC Nadar (Cat.No.149/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:1a5fb8a4242c",
+          "title": "Kerala categories 146-150/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:26.310Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "150/2026",
+      "programme": "Beat Forest Officer NCA recruitment",
+      "status": "uncertain",
+      "statusNote": "Shared original PDF has separate category numbers and vacancy rows. Category application identity and general conditions await founder review.",
+      "scopeLabel": "Kerala Forest and Wildlife recruitment for specified Kerala community; district choice: Idukki. District names are hiring scope, not exam venues.",
+      "outcome": "1 Beat Forest Officer position reserved for Scheduled Caste Converts to Christianity; district choice: Idukki",
+      "qualifications": "Plus Two or recognized equivalent; sex- and community-specific physical, endurance and medical standards. Differently abled candidates are excluded by this notice.",
+      "citizenshipRule": "Kerala PSC General Conditions Part II §1 accepts Indian citizens; subjects of Nepal or Bhutan; pre-1962 Tibetan migrants intending permanent settlement; and persons of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania intending permanent settlement. Listed non-Indian groups need a Government of India eligibility certificate. They may sit the examination or interview before producing it; appointment remains provisional until they do. A category-specific Part I exemption or additional service rule may change this, so foreign applicants must verify their route and documents with Kerala PSC.",
+      "residenceRule": "This NCA category is limited to Scheduled Caste Converts to Christianity candidates of Kerala State. Community and district proof require verification; an overseas applicant should confirm whether they meet this condition with Kerala PSC.",
+      "selectionStages": [
+        "One Time Registration and category-specific online application",
+        "Document and community proof, with district selection",
+        "Physical measurement and endurance test",
+        "Physical efficiency test",
+        "Written/OMR/online test if announced, with required confirmation",
+        "Medical and appointment checks"
+      ],
+      "fee": "Original shared category notice says no application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-01-01",
+        "age": {
+          "min": 19,
+          "evidence": "Beat Forest shared PDF English page 2: birth windows start at age 19; upper age varies for SC and other NCA communities."
+        },
+        "education": {
+          "minLevel": "higher-secondary",
+          "evidence": "Beat Forest shared PDF English page 2: Plus Two or equivalent recognized by Kerala or India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Scheduled Caste Converts to Christianity Kerala community certificate, district selection (Idukki), category-specific birth window. This NCA application is not open to other communities. Check Kerala PSC General Conditions Part II §1 route, any category-specific Part I exemption, and personal proof. Nepal/Bhutan subject status or listed migrant origin is more specific than nationality alone."
+          },
+          {
+            "stage": "selection",
+            "text": "For listed non-Indian routes, General Conditions permit examination/interview while the Government of India eligibility certificate is pending; verify route and category-specific selection conditions. Confirm community/district, disability, sex-specific physical and medical rules; complete endurance and physical tests plus any written-test confirmation."
+          },
+          {
+            "stage": "outcome",
+            "text": "For listed non-Indian routes, appointment is provisional until the Government of India eligibility certificate is produced; verify service-specific appointment conditions. Confirm original documents and service conditions."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination or test venue not published in the reviewed category notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.keralapsc.gov.in",
+      "changes": [],
+      "id": "kerala-psc-2026-150",
+      "sourceId": "in-kl-recruitment",
+      "title": "Beat Forest Officer — Scheduled Caste Converts to Christianity (Cat.No.150/2026)",
+      "authority": "Kerala Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-07",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Gazette published 31 August 2026. Category notices say 7 October up to 12 midnight without naming a timezone; exact cutoff instant is ambiguous, so no clock time or official timezone is encoded. Opening date is not confirmed."
+      },
+      "salary": "₹27,900–₹63,700 pay scale as printed in the category notice.",
+      "sources": [
+        {
+          "id": "in-kl-recruitment:56f91ff67148",
+          "title": "Kerala 31 August 2026 extraordinary gazette",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "HTML",
+          "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+          "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:10.115Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:1a5fb8a4242c",
+          "title": "Kerala categories 146-150/2026 shared original PDF",
+          "authority": "Kerala Public Service Commission",
+          "language": "English and Malayalam",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+          "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:26.310Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-kl-recruitment:ba4b7fbf6f1a",
+          "title": "Kerala PSC General Conditions, Part II §1 (English PDF page 45)",
+          "authority": "Kerala Public Service Commission",
+          "language": "Malayalam and English",
+          "format": "PDF",
+          "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+          "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+          "lastSuccessfulFetchAt": "2026-09-25T15:09:12.611Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.keralapsc.gov.in/notifications",
+      "fetchedAt": "2026-09-25T15:09:09.133Z",
+      "sha256": "8563e781d6ac33a8056ad863f0ff32176e74ef4fbb42b295e1de42a61027bee2",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 48324
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+      "fetchedAt": "2026-09-25T15:09:10.115Z",
+      "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 34795
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/general-conditions",
+      "fetchedAt": "2026-09-25T15:09:11.283Z",
+      "sha256": "ebaebd135a256d0433917e70cd05af4ebb5fcc8d1ca5e2939c346a1f1224166e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 31353
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+      "fetchedAt": "2026-09-25T15:09:12.611Z",
+      "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+      "contentType": "application/pdf",
+      "bytes": 499406
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-130-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:13.284Z",
+      "sha256": "cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc",
+      "contentType": "application/pdf",
+      "bytes": 308622
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-131-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:14.347Z",
+      "sha256": "369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544",
+      "contentType": "application/pdf",
+      "bytes": 350835
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-132-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:15.313Z",
+      "sha256": "95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc",
+      "contentType": "application/pdf",
+      "bytes": 360279
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-133-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:16.342Z",
+      "sha256": "508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0",
+      "contentType": "application/pdf",
+      "bytes": 277244
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-134-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:17.328Z",
+      "sha256": "07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806",
+      "contentType": "application/pdf",
+      "bytes": 367446
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-135-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:18.261Z",
+      "sha256": "464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde",
+      "contentType": "application/pdf",
+      "bytes": 363678
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-136-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:19.436Z",
+      "sha256": "04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16",
+      "contentType": "application/pdf",
+      "bytes": 387602
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-137-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:20.280Z",
+      "sha256": "d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d",
+      "contentType": "application/pdf",
+      "bytes": 357572
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-138-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:21.347Z",
+      "sha256": "21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235",
+      "contentType": "application/pdf",
+      "bytes": 386647
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:22.269Z",
+      "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+      "contentType": "application/pdf",
+      "bytes": 391265
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-143-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:23.385Z",
+      "sha256": "017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0",
+      "contentType": "application/pdf",
+      "bytes": 380834
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-144-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:24.302Z",
+      "sha256": "f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927",
+      "contentType": "application/pdf",
+      "bytes": 354392
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-145-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:25.344Z",
+      "sha256": "9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748",
+      "contentType": "application/pdf",
+      "bytes": 368628
+    },
+    {
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+      "fetchedAt": "2026-09-25T15:09:26.310Z",
+      "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+      "contentType": "application/pdf",
+      "bytes": 393898
+    }
+  ],
+  "warnings": [
+    "Only the 31 August 2026 gazette is bound here; other gazettes and Kerala authorities remain coverage gaps.",
+    "Twelve individual category PDFs have provisional job-type, qualification and reservation extraction. The linked current General Conditions PDF gives conditional non-Indian routes; founder must verify individual route, category-specific exemptions, service rules and documents. No language level is inferred from bilingual document text.",
+    "Nine NCA category numbers share two PDFs and are staged separately by category, provisionally pending application-portal identity review. Vacancy rows and district choices never multiply cycle counts.",
+    "Shared notices say 7 October up to 12 midnight. Precise cutoff instant is unresolved; no 00:00 or 23:59 time is invented.",
+    "No blanket language proficiency level is printed in the reviewed General Conditions or these English/Malayalam category PDFs; founder must check post-specific rules and original-language text. Lecturer in Arabic specifies a degree subject, not a proficiency-scale level."
+  ],
+  "approvalRevisions": {
+    "kerala-psc-2026-130": {
+      "evidenceRevision": "6f18ee1d7904f3e6a350720b75370ef1f79ee8cc920f53f02ce69bb53d9e8944",
+      "recordRevision": "e28acc09e480e2403478b36de4eee16dce2fa016a50df0cda10571585f1f0705"
+    },
+    "kerala-psc-2026-131": {
+      "evidenceRevision": "73791042af180d0eab537b70f6d152ca79ddf2706e9168897d086a2168867baf",
+      "recordRevision": "ba115e66e1ea08293942e6d45fcd5abf10c95994ca9bab945a77007613d02682"
+    },
+    "kerala-psc-2026-132": {
+      "evidenceRevision": "72543183cdc390689297b37285305b566a0f7d9b6025fe6a216f82b8c3d8aeb0",
+      "recordRevision": "e6a01329c110bb424c333bc4b02a32e317cb0f3a066b5cdc0bb0a563bd2a0a39"
+    },
+    "kerala-psc-2026-133": {
+      "evidenceRevision": "f246fbcf8875a8fd25aa147f0c4df18e4dea7e08e880fcb92d9b2f44d1b980a5",
+      "recordRevision": "e644e84827f9a5dd4b9ef7717a2872be85f72bdd2a9351a14be07584069adcc0"
+    },
+    "kerala-psc-2026-134": {
+      "evidenceRevision": "4800a4b4ec024f61085e5733f6df011e4c4e37d028771b560ab38ea77d12af4d",
+      "recordRevision": "28d423c8916f61ff5420171b7c80ba0a773ef32647fca8567926fa5c87dd4ba0"
+    },
+    "kerala-psc-2026-135": {
+      "evidenceRevision": "0ea35edd121edf1f2ca9ae2e4f22223f6b6381c0ed9522466fd8e71ed2b0b60f",
+      "recordRevision": "f78f628fb96174d195790264bd1dc741c6c61d9ce5b2bc81264f6ba374b671bc"
+    },
+    "kerala-psc-2026-136": {
+      "evidenceRevision": "9b03a7dd4c73bc915166905c3695cb3a22da0e8679da6cc6ac51e1058a6ee85d",
+      "recordRevision": "25747656a2b486780d7a2eb22607bfdb09749efc364327cb798f7260369a6559"
+    },
+    "kerala-psc-2026-137": {
+      "evidenceRevision": "9b9540e2b4aaa00fb8bd90aacd40878ee103f15418f995a9f77c265884b38188",
+      "recordRevision": "4db399b81bca36bf27f84cf7b3cfd29a739508fac79262d721be79fc1b17ec01"
+    },
+    "kerala-psc-2026-138": {
+      "evidenceRevision": "97b5692721cad315f4f8d3f4f6b264a76cdad745d170121ed2d1dbfa3abdd909",
+      "recordRevision": "41942a59211253e209a51252a1ba87b4f80040203e2c70d83e2e4654ae94acdc"
+    },
+    "kerala-psc-2026-139": {
+      "evidenceRevision": "4173c3623fa54b1edcb82aba2178d6674b62a1829f29d0458a2ad32d884229f6",
+      "recordRevision": "eb20cd895c9e595e3a128f4463ecc1b84d6a98c7fb2980c960fc30334bb60df3"
+    },
+    "kerala-psc-2026-140": {
+      "evidenceRevision": "4173c3623fa54b1edcb82aba2178d6674b62a1829f29d0458a2ad32d884229f6",
+      "recordRevision": "2fdf37bedb7da46832d022ad75e3bb565f28578dc276085a03fd7944dab61be0"
+    },
+    "kerala-psc-2026-141": {
+      "evidenceRevision": "4173c3623fa54b1edcb82aba2178d6674b62a1829f29d0458a2ad32d884229f6",
+      "recordRevision": "9717c56c6ae364901a961377203b15e86abece656297450c347213afef4cf44d"
+    },
+    "kerala-psc-2026-142": {
+      "evidenceRevision": "4173c3623fa54b1edcb82aba2178d6674b62a1829f29d0458a2ad32d884229f6",
+      "recordRevision": "6a511674e92576e3b962b34dc4eb63718354c509daf6bd8b7d8736b3e4ef6769"
+    },
+    "kerala-psc-2026-143": {
+      "evidenceRevision": "829410e41cdd54b8ce8276bc97d8ee09749f5255b5f27f5a5767e9d870ea3de3",
+      "recordRevision": "6a39b576835e1533ab653a995346f36fa6bd3653a36e92314e8fbe4251d76a54"
+    },
+    "kerala-psc-2026-144": {
+      "evidenceRevision": "55b499ae7d14de7c66ec422a749d2be1f3ca03f09584e9ed2cc86d882605c25e",
+      "recordRevision": "84234a03a93c4698026eb7c75ac5f6bcea929690e56393b2a16459cdfd07500a"
+    },
+    "kerala-psc-2026-145": {
+      "evidenceRevision": "893d323ae3cd9c4e3843c22e0940c22eeeacab000099ad5e60f8cb2f7f8207e2",
+      "recordRevision": "ddab14f8b6100809f92100e09c33a5a5bc74a0ee817e3d4e2997b49c9b13ce37"
+    },
+    "kerala-psc-2026-146": {
+      "evidenceRevision": "2f7d5853eb5c4b4fdb6de30ed429835395d924b066200119ff3ee5b9964b35b7",
+      "recordRevision": "1eea06983643c151093d44cae3192b4b32dbe00d6a3890de3590cf00a83da484"
+    },
+    "kerala-psc-2026-147": {
+      "evidenceRevision": "2f7d5853eb5c4b4fdb6de30ed429835395d924b066200119ff3ee5b9964b35b7",
+      "recordRevision": "2898e8f7f67ffe94ab3c06528169cf11b408a0ebfef4f43ef0d9d1e635409150"
+    },
+    "kerala-psc-2026-148": {
+      "evidenceRevision": "2f7d5853eb5c4b4fdb6de30ed429835395d924b066200119ff3ee5b9964b35b7",
+      "recordRevision": "3f294c447e3e3844f9f02355dc586de2d1a2802dba39b742195ad22e9afc23e0"
+    },
+    "kerala-psc-2026-149": {
+      "evidenceRevision": "2f7d5853eb5c4b4fdb6de30ed429835395d924b066200119ff3ee5b9964b35b7",
+      "recordRevision": "a26cb7dc18d361c1d633b64ab3773898d83f932b3c5886e450ac59093d231f08"
+    },
+    "kerala-psc-2026-150": {
+      "evidenceRevision": "2f7d5853eb5c4b4fdb6de30ed429835395d924b066200119ff3ee5b9964b35b7",
+      "recordRevision": "ef2cf344092d2bad330d4d48db51d1deeba3a344dc7c9f88f89ba308e0188f5d"
+    }
+  }
+}

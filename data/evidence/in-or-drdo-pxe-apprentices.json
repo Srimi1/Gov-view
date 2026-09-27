@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://www.drdo.gov.in/drdo/offerings/vacancies",
+  "fetchedAt": "2026-09-25T06:32:50.090Z",
+  "sha256": "0f55a0410217bb53873b38406ed4093302425f0bff4cfb4cc568992817cbb4e9",
+  "bytes": 465967,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.drdo.gov.in/drdo/en/offerings/vacancies/pxe-balasore-invites-eligible-candidates-engagement-aprentices-under",
+  "fetchedAt": "2026-09-25T06:32:50.942Z",
+  "sha256": "396ad53a737f0ee508f7676eb1a0a189de18c51dda9ce8aaac5aacf5404438cf",
+  "bytes": 281280,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtPXE23092026.pdf",
+  "fetchedAt": "2026-09-25T06:32:51.464Z",
+  "sha256": "444edf6db32032526f59717db01f211396efb03913eab914c0960af9b105c245",
+  "bytes": 258315,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,219 @@
+[
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyTable.cfm",
+  "fetchedAt": "2026-09-24T20:23:41.011Z",
+  "sha256": "0b1b79d67110d801c2efb201f89977150467e9810501e48503a7ba18a3b7488a",
+  "bytes": 768600,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225041",
+  "fetchedAt": "2026-09-24T20:23:42.446Z",
+  "sha256": "6328718e3c73c91c2dd58503fcaa37d7dac954b3a550b0d7ff9e2aa8b0425f31",
+  "bytes": 27273,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224639",
+  "fetchedAt": "2026-09-24T20:23:44.478Z",
+  "sha256": "d1a90f861bf67592ce4ed3b82408ca2b383bc852acd828f6e5e1ae49a4ca5727",
+  "bytes": 34039,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222943",
+  "fetchedAt": "2026-09-24T20:23:45.933Z",
+  "sha256": "3e25aa13935f06c788e133b71899ea25faa197e221420760f66ef7d7588423b0",
+  "bytes": 31387,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222942",
+  "fetchedAt": "2026-09-24T20:23:46.600Z",
+  "sha256": "766ee87718d41d27602f486182bebe4182d2d57a4e51af943fe082f832ce65f4",
+  "bytes": 31427,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222941",
+  "fetchedAt": "2026-09-24T20:23:47.632Z",
+  "sha256": "0777be9d5ff19673a963a371b6ee3e33df97d0095cb6410c7b96c0a3aa617851",
+  "bytes": 31222,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222940",
+  "fetchedAt": "2026-09-24T20:23:48.358Z",
+  "sha256": "09a72001f5088d6b476f2ca896d903f189b701aa2aa1ae0416a3a647b33b4db8",
+  "bytes": 31373,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222939",
+  "fetchedAt": "2026-09-24T20:23:49.285Z",
+  "sha256": "c44574a5d9131fb35e31fa0c139b92186c0100359b2f7e9e1d1a0a604ca8b713",
+  "bytes": 31276,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222938",
+  "fetchedAt": "2026-09-24T20:23:50.278Z",
+  "sha256": "a06a1bef839e56eab7d887779967744db71b7db55daa5394487103d06d33e4be",
+  "bytes": 31210,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=214062",
+  "fetchedAt": "2026-09-24T20:23:51.287Z",
+  "sha256": "f1d88ed84c41cf071cd8f3f91e7fa74ce9a9bb1750e880e1f8cf2bea1d9a5f41",
+  "bytes": 26511,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225641",
+  "fetchedAt": "2026-09-24T20:23:52.298Z",
+  "sha256": "5a3c9ff679b5b36c872abeb36e5a1833a811ca9d0dc35b76a4ae0238ba089586",
+  "bytes": 33346,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225639",
+  "fetchedAt": "2026-09-24T20:23:53.303Z",
+  "sha256": "9a227357a982dc19e27871467a30863e2cadfbb15a0cc56dfef48b28341c69e7",
+  "bytes": 30191,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225637",
+  "fetchedAt": "2026-09-24T20:23:54.326Z",
+  "sha256": "2f963521ce023890a5e07a751de21eb8f58cabf3a11f7a06e90473fc7e6fc8c6",
+  "bytes": 28767,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225635",
+  "fetchedAt": "2026-09-24T20:23:55.366Z",
+  "sha256": "08db7f949898356a78e1ccd411bb380797703a91d17b31b1cd35a17731e3d5d6",
+  "bytes": 28700,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225633",
+  "fetchedAt": "2026-09-24T20:23:56.292Z",
+  "sha256": "a84b3fbfaef932819505ad1529367996811774c0efb1a30b8078b79bbc4a6c18",
+  "bytes": 31311,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225632",
+  "fetchedAt": "2026-09-24T20:23:57.291Z",
+  "sha256": "add5a4c4a7a038124116ee5ca5d0742fd6961f246f01306d5ee4f57a0f060f53",
+  "bytes": 31428,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225631",
+  "fetchedAt": "2026-09-24T20:23:58.326Z",
+  "sha256": "14bebd5feba69d109a96b8b1552a6225099fa184d14aab5ffbf020ca8fb81dde",
+  "bytes": 28145,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225630",
+  "fetchedAt": "2026-09-24T20:23:59.367Z",
+  "sha256": "7b9a368d728ab77f0dfe37e3085789ff1154d1da2a1dd0ae2c32f7292fc99a18",
+  "bytes": 26417,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225629",
+  "fetchedAt": "2026-09-24T20:24:00.290Z",
+  "sha256": "427bf1a4c109d6d088b4ee2b5755310d5895a3b300a193aa15a7d958f4ffceb4",
+  "bytes": 36970,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225628",
+  "fetchedAt": "2026-09-24T20:24:01.308Z",
+  "sha256": "02866ce8e70fc8b809bb13051b9d0bfd47b60255ac3395baf358b5539c373ba5",
+  "bytes": 26259,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225627",
+  "fetchedAt": "2026-09-24T20:24:02.289Z",
+  "sha256": "9e98d8465c95860376effd5c905221389af72e10c9a33ffe9938d3d07db1c9c4",
+  "bytes": 27549,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225626",
+  "fetchedAt": "2026-09-24T20:24:03.293Z",
+  "sha256": "f72620cebb4707434253f7ad73d53a31f245203a14f8280f47f4b65066d56ad2",
+  "bytes": 28487,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225625",
+  "fetchedAt": "2026-09-24T20:24:04.303Z",
+  "sha256": "da1006547547096cf5ebab64701a3c2c3d50b1faaeb0438fc18c54ce74997076",
+  "bytes": 27915,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225620",
+  "fetchedAt": "2026-09-24T20:24:05.343Z",
+  "sha256": "d5ae3750a9283d8e8909808fbbc1cf05d7a0fa0e89df440ba24e0decaa6b4704",
+  "bytes": 30172,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225618",
+  "fetchedAt": "2026-09-24T20:24:06.377Z",
+  "sha256": "99a25e1816bc03945d9a04e6de5731b53d6e218cf0ddbf89bb189c7a33b0edd5",
+  "bytes": 27017,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225607",
+  "fetchedAt": "2026-09-24T20:24:07.306Z",
+  "sha256": "5ca9ed6fc9cd90fc3afadeb3da8406776ba1d40510442e96089ed0f08e1b8d1c",
+  "bytes": 29289,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225605",
+  "fetchedAt": "2026-09-24T20:24:08.305Z",
+  "sha256": "de35abd5ba96156c37574fc298bdaa23347a18dea9fa4383ead973e475973be5",
+  "bytes": 27909,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225604",
+  "fetchedAt": "2026-09-24T20:24:09.337Z",
+  "sha256": "ad54ae34f0478b6f4e5eebf807f31e7725bd6ce000fde6a6356b66ec5bfba55b",
+  "bytes": 30212,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225603",
+  "fetchedAt": "2026-09-24T20:24:10.379Z",
+  "sha256": "69db86032f996f6c7af2246aca0ec9b133a59e63822030eb56a7a172bfc3f2d4",
+  "bytes": 30619,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225602",
+  "fetchedAt": "2026-09-24T20:24:11.311Z",
+  "sha256": "9df46c11d3fe9652500148df0782795044ccbafe351a97a84c1b3ae4efc7e539",
+  "bytes": 29569,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225601",
+  "fetchedAt": "2026-09-24T20:24:12.308Z",
+  "sha256": "09ece11f50253cdfe4c85ca87123c1ecf8af4fb107d79221bfde7ad00a0dd683",
+  "bytes": 27019,
+  "contentType": "text/html;charset=UTF-8"
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://jobs.govt.nz/jobs/APA-1946342",
+  "fetchedAt": "2026-09-25T11:48:29.043Z",
+  "sha256": "7d947beb1a0ef804b1ce7e43b2e3dbda6d454b700f8d53434a818c6f3ad5f3d9",
+  "bytes": 55895,
+  "contentType": "text/html;charset=ISO-8859-15"
+ },
+ {
+  "url": "https://jobs.govt.nz/jobs/NZ-1948355",
+  "fetchedAt": "2026-09-25T11:48:30.061Z",
+  "sha256": "64e79954a47cfc90ebde6b681cfb20c97c172da2936ae84d37c12570da410888",
+  "bytes": 59438,
+  "contentType": "text/html;charset=ISO-8859-15"
+ }
+]

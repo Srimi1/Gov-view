@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<!-- 
+	================================
+	JOBBÖRSE DER REPUBLIK ÖSTERREICH
+	================================
+	
+	Umsetzung: BRZ / Snap Consulting GmbH, 2016
+
+ -->
+<html>
+	<head><meta name="sap-client" content="100"><meta name="sap-ui-fesr" content="/sap/bc/ui2/flp;sap-fesr-only"><meta name="sap.whitelistService" content="/sap/public/bc/uics/whitelist/service">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+
+		<!-- https://sapui5.hana.ondemand.com/1.38.5/resources/sap-ui-core.js -->
+		<script src="resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m"
+				data-sap-ui-theme="sap_horizon"
+				data-sap-ui-async="true"
+				data-sap-ui-appCacheBuster="./"
+				data-sap-ui-xx-bindingSyntax="complex"
+				data-sap-ui-resourceroots='{
+					"at.gv.brz.bund.jobs": "./"
+				}'>
+		</script>
+
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+ 		<link href="./res/images/jb.png" rel="shortcut icon" type="image/x-icon" />
+
+		<script>
+				sap.ui.getCore().attachInit(function () {
+					new sap.m.Shell({
+						app: new sap.ui.core.ComponentContainer("shell", {
+							name: "at.gv.brz.bund.jobs"
+						}),
+						title: "Jobbörse der Republik Österreich",
+						showLogout: false
+					}).placeAt("content");
+				})
+		</script>
+	</head>
+	<body class="sapUiBody" id="content">
+		<noscript>
+			Um den vollen Funktionsumfang dieser Webseite zu erfahren, ben�tigen
+			Sie JavaScript. Eine Anleitung wie Sie JavaScript in Ihrem Browser
+			einschalten, finden Sie <a href="http://www.enable-javascript.com/de/"
+				target="_blank">hier.</a>.
+		</noscript>
+	</body>
+</html>

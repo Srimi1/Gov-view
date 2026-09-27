@@ -1,0 +1,26 @@
+{
+  "indexUrl": "https://recruitment.jharkhand.gov.in/",
+  "applicationUrl": "https://recruitment.jharkhand.gov.in/Home/Register",
+  "notices": [
+    {
+      "id": "jharkhand-jjb-2979-2026",
+      "documentUrl": "https://recruitment.jharkhand.gov.in/Home/fileDownload/198",
+      "sha256": "2e72ddd7e8bb169636be45de6990c1c4de71fb53dbfa4e5d26a068801c1442d2",
+      "noticeNumber": "2979",
+      "closesOn": "2026-10-10",
+      "indexDeadline": "10/10/2026 11:59 PM",
+      "vacancies": 6,
+      "type": "JJB"
+    },
+    {
+      "id": "jharkhand-jjb-cwc-3062-2026",
+      "documentUrl": "https://recruitment.jharkhand.gov.in/Home/fileDownload/199",
+      "sha256": "5708c6080bcf03539495cb718d945752935f94313a5e958ae760b0d0b988e2a6",
+      "noticeNumber": "3062",
+      "closesOn": "2026-10-15",
+      "indexDeadline": "15/10/2026 11:59 PM",
+      "vacancies": 11,
+      "type": "JJB_CWC"
+    }
+  ]
+}

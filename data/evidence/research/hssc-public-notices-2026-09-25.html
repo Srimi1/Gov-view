@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Haryana Staff Selection Commission</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdn.datatables.net/v/bs5/dt-2.0.7/datatables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+   <script src="https://cdn.datatables.net/v/bs5/dt-2.0.7/datatables.min.js"></script>
+   <link rel="stylesheet" href="https://hssc.gov.in/css/style.css">
+    <script src="https://hssc.gov.in/js/custom.js"></script>
+
+</head>
+<body>
+
+    <header>
+    <!-- Top Row: Logo and Title -->
+    <div class="header-top d-flex justify-content-between align-items-center">
+        <a href="https://hssc.gov.in" class="logo-link">
+            <img src="https://hssc.gov.in/images/logo.png" alt="Logo" class="logo-img">
+            <div class="logo-text">
+                <span class="org-name">हरियाणा कर्मचारी चयन आयोग</span>
+                <span class="app-name">Haryana Staff Selection Commission</span>
+            </div>
+        </a>
+        <!-- 🔻 NEW Notification Section (below header) -->
+         
+         
+ <div class="latest-noti-container">
+        <ul class="latest_noti mb-0">
+            <li class="d-flex align-items-center">
+                <a target="_blank"
+                   href="https://onetimeregn.haryana.gov.in/hssc"
+                   class="noti-link">
+                    <b>Apply for CET Group D-05/2026</b>
+                </a>
+                <img src="https://hssc.gov.in/images/tenor.gif" class="noti-gif ms-2" />
+            </li>
+            <li class="d-flex align-items-center">
+                <a target="_blank"
+                   href="https://adv062026.hryssc.com"
+                   class="noti-link">
+                    <b>Apply for Advt no. 06/2026</b>
+                </a>
+                
+            </li>
+        </ul>
+    </div>
+    
+    </div>
+
+    <!-- Bottom Row: Navigation Menu -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid d-flex justify-content-between align-items-center">
+            <!-- Brand for mobile -->
+            <a class="navbar-brand d-lg-none" href="https://hssc.gov.in">Haryana Staff Selection Commission</a>
+
+            <!-- Mobile Toggle -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Menu Items -->
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav nav-flex-gap">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            About
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/overview">Overview</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/function">Functions</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/organisationStructure">Organisation Structure</a></li> 
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/commission">Commission</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/branchInfo">Branch Information</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/contact">Contact</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Dropdown Menu Example -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Recruitment
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/process">Process</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/applicantInstruction">Instructions to Applicants</a></li>
+                            <li><a class="dropdown-item" href="#">Apply for Job</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/advertisement">Advertisements</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/result">Results</a>
+                    </li>
+                    
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            E-Citizen
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/rightToInfo">Right to Information</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/publicNotice">Public Notice</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/citizenCharter">Citizen Charter</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/notifications">Notifications</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/faq">FAQ’s</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/tender">Tenders</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<style type="text/css">
+.latest-noti-container {
+    text-align: right;
+}
+
+.latest_noti {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.latest_noti li a {
+    font-size: 14px;
+    color: red;
+}
+
+.noti-gif {
+    height: 28px;
+    width: 28px;
+}
+
+
+
+
+
+
+</style>
+
+    <main class="container-fluid">
+        
+<div class="container-fluid" style="background-color: white;">
+    <div class="container py-4 px-3 px-md-0" style="max-width: 1200px;">
+
+        <div class="d-flex justify-content-between align-items-center mb-5">
+            <p class="mb-0 small text-uppercase content-text">
+                <a href="https://hssc.gov.in" class="text-secondary text-decoration-none">HOME</a>
+                <span class="mx-1 text-secondary">/</span>
+                <a href="#" class="text-secondary text-decoration-none">E-CITIZEN</a>
+                <span class="mx-1 text-secondary">/</span>
+                <span class="fw-bold text-dark">Public Notice</span>
+            </p>
+            <p class="mb-0 small text-uppercase content-text">
+                <a href="javascript:window.print()" class="text-dark text-decoration-none">
+                    <i class="bi bi-printer me-1"></i> <span class="text-dark">PRINT /</span>
+                </a>
+            </p>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-12">
+                <h1 class="fw-normal display-6 content-heading" style="font-weight: 600 !important;">Public Notice</h1>
+            </div>
+        </div>
+
+        <div class="mb-3 d-flex justify-content-end align-items-center">
+    <input 
+        type="text" 
+        id="searchInput" 
+        class="form-control" 
+        placeholder="Search Public Notice No or Date..." 
+        style="max-width: 300px;"
+    >
+</div>
+
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="table-responsive">
+                     <input type="hidden" id="siteUrl" value="https://hssc.gov.in">
+                     <input type="hidden" id="section" value="publicNotice">
+                    
+                    <table id="advertisementsTable" class="table table-bordered table-hover mb-0" style="border: 1px solid #ccc; width: 100%;">
+                        <thead style="background-color: #f0f0f0;">
+                            <tr>
+                                <th scope="col" class="content-text fw-bold p-2" style="width: 50%;">Notice</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center" style="width: 15%;">Against Advertisement No.</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center" style="width: 10%;">Category No.</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center" style="width: 15%;">Date Of Updation</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center" style="width: 10%;">Download</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ajaxTableBody">
+                           
+
+                                                            <tr>
+                                    <td class="content-text p-2">Notice to the candidates regarding Final Answer Key for the post of Primary Teacher (Mewat Cadre) against Advt. No. 05/2024, Cat. No.1 of Elementary Education Department, Haryana.</td>
+                                    <td class="content-text p-2 text-center">05/2024</td>
+                                    <td class="content-text p-2 text-center">01</td>
+                                    <td class="content-text p-2 text-center">2026-09-10 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9fda-137e-81a0-89ede0820007/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Final Answer Key For The Post Of Primary Teacher (PRT) </td>
+                                    <td class="content-text p-2 text-center">5/2024</td>
+                                    <td class="content-text p-2 text-center">01</td>
+                                    <td class="content-text p-2 text-center">2026-09-10 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9fda-137e-81a0-89a629190004/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Public notice regarding PST</td>
+                                    <td class="content-text p-2 text-center">Various</td>
+                                    <td class="content-text p-2 text-center">Various</td>
+                                    <td class="content-text p-2 text-center">2026-07-27 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-d67659ed001f/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">PUBLIC NOTICE TO THE MALE ABSENTEE CANDIDATES FOR PHYSICAL SCREENING TEST (PST) FOR THE VARIOUS POSTS OF VARIOUS DEPARTMENTS AGAINST ADVT. NOS. 13/2024, 01/2026 &amp; 06/2026</td>
+                                    <td class="content-text p-2 text-center">13/2024, 01/2026 &amp; 06/2026</td>
+                                    <td class="content-text p-2 text-center">Various</td>
+                                    <td class="content-text p-2 text-center">2026-08-03 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-c66664700018/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Preference Selection for the various posts under Group-25 against Advt. No. 08/2024.</td>
+                                    <td class="content-text p-2 text-center">08/2024</td>
+                                    <td class="content-text p-2 text-center">Various (Group-25)</td>
+                                    <td class="content-text p-2 text-center">2026-07-30 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-b2fdd4d80015/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Notice to the Candidates regarding submission of Grievances for the post of Primary Teacher (Mewat Cadre) against Advt. No. 05/2024, Cat. No. 01.</td>
+                                    <td class="content-text p-2 text-center">05/2024</td>
+                                    <td class="content-text p-2 text-center">01</td>
+                                    <td class="content-text p-2 text-center">2026-07-28 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-a8a7717d0012/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">PUBLIC NOTICE TO THE FEMALE ABSENTEE CANDIDATES FOR  PHYSICAL SCREENING TEST (PST) FOR THE VARIOUS POSTS OF VARIOUS DEPARTMENTS AGAINST ADVT. NOS.  13/2024, 01/2026 &amp; 06/2026 </td>
+                                    <td class="content-text p-2 text-center">13/2024, 01/2026 &amp; 06/2026</td>
+                                    <td class="content-text p-2 text-center">Various</td>
+                                    <td class="content-text p-2 text-center">2026-07-24 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-947d2e820009/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">NOTICE TO THE CANDIDATES FOR PHYSICAL SCREENING TEST (PST) FOR THE VARIOUS POSTS AGAINST ADVT. NOS. 13/2024, 01/2026 and 06/2026.</td>
+                                    <td class="content-text p-2 text-center">13/2024, 01/2026 &amp; 06/2026</td>
+                                    <td class="content-text p-2 text-center">Various </td>
+                                    <td class="content-text p-2 text-center">2026-07-22 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-8af999770001/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">NOTICE TO THE CANDIDATES FOR PHYSICAL SCREENING TEST (PST) FOR THE POST OF FEMALE CONSTABLE AGAINST ADVERTISEMENT NO. 01/2026, CATEGORY NO. 02 OF POLICE DEPARTMENT, HARYANA.</td>
+                                    <td class="content-text p-2 text-center">01/2026</td>
+                                    <td class="content-text p-2 text-center">02</td>
+                                    <td class="content-text p-2 text-center">2026-07-16 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-6b93802b009e/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">RE-SCHEDULE NOTICE TO THE CANDIDATES FOR PHYSICAL SCREENING TEST (PST) FOR THE POST OF MALE CONSTABLE (GD) AND MALE CONSTABLE (GRP) AGAINST ADVT. NO. 01/2026, CAT. NOS. 01 &amp; 03 OF POLICE DEPARTMENT, HARYANA</td>
+                                    <td class="content-text p-2 text-center">01/2026</td>
+                                    <td class="content-text p-2 text-center">01 &amp; 03</td>
+                                    <td class="content-text p-2 text-center">2026-07-16 </td>
+                                    <td class="content-text p-2 text-center">
+                                        
+                                        <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-6a467550009b/publicNotice" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                        
+                        </tbody>
+                    </table>
+                     <div id="pagination" class="d-flex justify-content-center mt-4"></div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+    </main>
+
+    <footer class="footer bg-dark text-white mt-5 pt-4 pb-2">
+    <div class="container text-center">
+
+        
+        <div class="footer-links mb-3">
+            <a href="https://hssc.gov.in/termsConditions" class="footer-link">Terms & Conditions</a>
+            <a href="https://hssc.gov.in/privacyPolicy" class="footer-link">Privacy Policy</a>
+            <a href="https://hssc.gov.in/copyrightPolicy" class="footer-link">Copyright Policy</a>
+            <a href="https://hssc.gov.in/hyperlinkingPolicy" class="footer-link">Hyperlinking Policy</a>
+            <a href="https://hssc.gov.in/accessibilityStatement" class="footer-link">Accessibility Statement</a>
+            <a href="https://hssc.gov.in/disclaimer" class="footer-link">Disclaimer</a>
+            <a href="https://hssc.gov.in/help" class="footer-link">Help</a>
+        </div>
+
+        
+        <p class="mb-1">Content Owned by Haryana Staff Selection Commission</p>
+        <p class="mb-1">Developed By <a href="https://www.hkcl.in" class="text-primary text-decoration-none">HKCL</a></p>
+        <p class="small mb-4">Copyright © 2026 Haryana Staff Selection Commission. All Rights Reserved.</p>
+
+        
+        <div class="row align-items-center border-top border-secondary pt-3">
+            <div class="col-md-6 text-md-start text-center mb-2 mb-md-0">
+                <span>Last Updated: <strong>25/09/26</strong></span>
+            </div>
+         <!--    <div class="col-md-3 text-center mb-2 mb-md-0">
+                <span>Visitor Counter: <strong>Web Hits</strong></span>
+            </div> -->
+            <div class="col-md-3 text-md-end text-center">
+                <img src="https://hssc.gov.in/images/digital-india.png" alt="Digital India" height="40">
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

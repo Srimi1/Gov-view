@@ -1,0 +1,137 @@
+{
+  "sourceUrl": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+  "sourceKind": "official-discovery-journal",
+  "listingStatus": "research-leads-only",
+  "issueDateFormat": "day-first-inferred-from-unambiguous-rows; page-header-conflicts",
+  "evidence": {
+    "url": "https://employmentnews.gov.in/newemp/AllJobs.aspx?k=All",
+    "fetchedAt": "2026-09-25T11:01:02.334Z",
+    "sha256": "c17672f353ec6b4c3da3c5d8b28bd85253eae6e0ace8309349ca749ba0c5581c",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 61576
+  },
+  "observedRows": 12,
+  "leads": [
+    {
+      "id": "en-de7befd52879f62f",
+      "issueDate": "2026-09-12",
+      "issueDateRaw": "12/09/2026",
+      "organisation": "MINERAL EXPLORATION AND CONSULTANCY LIMITED",
+      "post": "ACCOUNTANT & OTHERS",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-10-11",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-2ce563addb7bdd86",
+      "issueDate": "2026-09-12",
+      "issueDateRaw": "12/09/2026",
+      "organisation": "DNS REGIONAL INSTITUTE OF COOPERATIVE MANAGEMENT",
+      "post": "LECTURER",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-27",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-cdd3064c98e9d228",
+      "issueDate": "2026-09-12",
+      "issueDateRaw": "12/09/2026",
+      "organisation": "NALANDA UNIVERSITY",
+      "post": "TEACHING POSITIONS",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-15",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-e6e5dc409d664f58",
+      "issueDate": "2026-09-07",
+      "issueDateRaw": "07/09/2026",
+      "organisation": "RAMAGUNDAM FERTILIZERS AND CHEMICALS LIMITED",
+      "post": "ENGINEER & OTHERS",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-24",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-3194602c8c2e240b",
+      "issueDate": "2026-09-07",
+      "issueDateRaw": "07/09/2026",
+      "organisation": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH KOLKATA, M/O CHEMICAL AND FERTILIZERS",
+      "post": "PROFESSOR",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-17",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-505efc25bf539721",
+      "issueDate": "2026-08-31",
+      "issueDateRaw": "31/08/2026",
+      "organisation": "NATIONAL DISASTER MANAGEMENT AUTHORITY",
+      "post": "YOUNG CONSULTANT (FOREST FIRE RISK MANAGEMENT)",
+      "appointmentMethod": "Deputation",
+      "reportedDeadline": "2026-10-18",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-0581ec951a372e05",
+      "issueDate": "2026-08-31",
+      "issueDateRaw": "31/08/2026",
+      "organisation": "NATIONAL BOARD OF EXAMINATIONS IN MEDICAL SCIENCES",
+      "post": "EXECUTIVE DIRECTOR",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-10-30",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-b72fedba97174ae6",
+      "issueDate": "2026-08-24",
+      "issueDateRaw": "24/08/2026",
+      "organisation": "INDO-RUSSIAN RIFLES PVT LTD, D/O DEFENCE",
+      "post": "CHIEF EXECUTIVE OFFICER/ MANAGING DIRECTOR",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-11",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-defcc568fd7f7fef",
+      "issueDate": "2026-08-24",
+      "issueDateRaw": "24/08/2026",
+      "organisation": "SAINIK SCHOOL AMBIKAPUR",
+      "post": "LABORATORY ASSISTANT (BIOLOGY) & OTHERS",
+      "appointmentMethod": "Contractual",
+      "reportedDeadline": "2026-09-12",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-d076dd827c53ba9a",
+      "issueDate": "2026-08-24",
+      "issueDateRaw": "24/08/2026",
+      "organisation": "BRIC- NATIONAL INSTITUTE OF ANIMAL BIOTECHNOLOGY",
+      "post": "SCIENTIST-B & OTHERS",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-11",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-1eb078ecf2521891",
+      "issueDate": "2026-07-20",
+      "issueDateRaw": "20/07/2026",
+      "organisation": "ANDAMAN AND NICOBAR ADMINISTRATION SECRETARIAT",
+      "post": "SUPERINTENDING ENGINEER (CIVIL)",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-02",
+      "verification": "authority-not-checked"
+    },
+    {
+      "id": "en-8d60dac2233d9583",
+      "issueDate": "2026-07-13",
+      "issueDateRaw": "13/07/2026",
+      "organisation": "LAL BAHADUR SHASTRI NATIONAL ACADEMY OF ADMINISTRATION (LBSNAA), D/O PERSONNEL & TRAINING",
+      "post": "ADMINISTRATIVE OFFICER & OTHERS",
+      "appointmentMethod": "Recruitment",
+      "reportedDeadline": "2026-09-11",
+      "verification": "authority-not-checked"
+    }
+  ],
+  "note": "Employment News is a Government of India discovery journal. Its issue-date header says MM/DD/YYYY, but rows such as 31/08/2026 prove this snapshot uses day-first; raw strings are retained. Table has no hiring-authority notice links or applicant eligibility rules. Reported dates and methods must be checked against each authority before any application cycle enters founder review. These leads never enter public search or map counts."
+}

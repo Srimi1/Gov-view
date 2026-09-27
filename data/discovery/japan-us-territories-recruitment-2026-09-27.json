@@ -1,0 +1,300 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 74,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "territoryAccounting": "GU, PR and VI use existing separate jurisdiction codes; not added again as US-country sources.",
+  "regionalScope": "Osaka prefectural authority is labelled in text; Japan subdivision UI inventory does not yet exist.",
+  "storagePolicy": "No writes to data/evidence; cap and collection pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "jp-osaka-prefecture-recruitment",
+      "country": "JP",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "jp-osaka-prefecture-recruitment",
+        "name": "Japan — Osaka Prefecture staff recruitment",
+        "country": "JP",
+        "authority": "Osaka Prefectural Government — Personnel Commission and Human Resources Division",
+        "homepage": "https://www.pref.osaka.lg.jp/o210010/jinji-i/saiyo/index.html",
+        "discoveredFrom": "https://www.pref.osaka.lg.jp/o040030/jinji/senkou/index.html",
+        "notes": "Research only; Osaka prefectural scope, not nationwide. Official FAQ allows non-Japanese candidates in competitive categories except police administration; resulting appointments exclude public-power/public-decision roles. Current guard/civil-construction selection explicitly accepts foreign citizens, but requires residence status permitting the duties at appointment. Born on/after 2 April 1977; education/work experience not required. Original application window 28 August 10:00–1 October 18:00, 2026; official timezone unestablished. General-knowledge test, guard essay and interview; no formal Japanese level stated. Appointment tenure unverified.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Current HTML guide and PDF attachment must be reconciled. Nationality permission cannot override age, disqualifications or lawful residence at appointment. Japanese test/page text does not establish JLPT or CEFR threshold. Police, education and other selection routes need separate notices. Osaka name describes authority scope; no geographic code or venue pin added.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "prefectural guard/civil-construction employment; permanent versus fixed-term unverified",
+      "internationalApplicantAssessment": "current selection expressly permits non-Japanese candidates; lawful residence for duties required at appointment; public-power/public-decision roles excluded",
+      "languageAssessment": "Japanese guide describes general-knowledge test, guard essay and interview; no mandatory JLPT/CEFR level established",
+      "documents": [
+        {
+          "url": "https://www.pref.osaka.lg.jp/o210010/jinji-i/saiyo/index.html",
+          "label": "Official prefectural recruitment directory",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "lastChangedDate": "2026-08-26"
+        },
+        {
+          "url": "https://www.pref.osaka.lg.jp/faq/o210010/faq_001643.html",
+          "label": "Nationality FAQ for competitive examinations",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "lastChangedDate": "2026-03-17",
+          "policeAdministrationException": true
+        },
+        {
+          "url": "https://www.pref.osaka.lg.jp/o040030/jinji/senkou/r8_ginou.html",
+          "label": "2026 guard and civil-construction selection guide",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "lastChangedDate": "2026-08-28",
+          "observedApplicationOpening": "2026-08-28",
+          "observedOpeningClock": "10:00",
+          "observedApplicationClose": "2026-10-01",
+          "observedCutoffClock": "18:00",
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "foreignCitizenPermissionObserved": true,
+          "residenceAtAppointmentRequired": true,
+          "minimumBirthDate": "1977-04-02",
+          "pdfReconciliationPending": true
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "gu-doa-public-recruitment",
+      "country": "GU",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "gu-doa-public-recruitment",
+        "name": "Guam — Department of Administration recruitment",
+        "country": "GU",
+        "authority": "Government of Guam — Department of Administration, Human Resources Recruitment Branch",
+        "homepage": "https://hr.doa.guam.gov/branches/recruitment/",
+        "discoveredFrom": "https://doa.guam.gov/hrd/",
+        "notes": "Research only. Official branch posts recruitment for non-autonomous departments/agencies and establishes eligible lists. Meeting minimum qualifications does not guarantee a passing numerical rating or appointment. Employment listing link failed in reader. Job type, international-applicant rules and mandatory language levels require individual notices. Central branch scope does not cover every autonomous authority.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Employment route reader error cannot establish empty coverage or closure. Current complete notice inventory, autonomous bodies, citizenship/work authorization, appointment terms and language criteria remain gaps. Application form fields and site language cannot decide eligibility.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "needs verification; eligible-list process does not establish appointment tenure",
+      "internationalApplicantAssessment": "needs verification; no current notice citizenship or work-authorization rule accepted",
+      "languageAssessment": "needs verification; English interface is not a proficiency requirement",
+      "documents": [
+        {
+          "url": "https://hr.doa.guam.gov/branches/recruitment/",
+          "label": "Official branch scope and selection process",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://hr.doa.guam.gov/employment/",
+          "label": "Officially linked employment listing",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-error",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "pr-central-public-recruitment",
+      "country": "PR",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "pr-central-public-recruitment",
+        "name": "Puerto Rico — Central recruitment registry",
+        "country": "PR",
+        "authority": "Government of Puerto Rico — Office of Administration and Transformation of Human Resources (OATRH)",
+        "homepage": "https://empleos.pr.gov/",
+        "discoveredFrom": "https://pr.gov/",
+        "notes": "Research only. Official OATRH directory separates internal, external, reopened and transitory recruitment; internal is not open to every applicant. Aguadilla nutrition-services coordinator 09-2026-HSAr is labelled Transitorio, until further notice. Notice accepts foreigners authorized by federal immigration authorities to work in Puerto Rico; this is not visa sponsorship or permission for all foreign applicants. Academic conditions apply at application, with post-selection medical/drug tests. Clear oral/written expression required; no named language or formal level established.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Reconcile downloadable original, amendment history, online/offline instructions and general conditions. Until further notice has no invented cutoff. Transitorio label does not establish exact duration. Portal index exposes both date and until-further-notice text on some other cards; unresolved dates must not become deadlines. Municipality/duty location is not an examination venue.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "Aguadilla example labelled Transitorio; exact term and duration unverified",
+      "internationalApplicantAssessment": "Aguadilla example accepts foreigners authorized to work in Puerto Rico; employer sponsorship and other post conditions unverified",
+      "languageAssessment": "example requires clear oral/written expression; no language name or formal proficiency level inferred",
+      "documents": [
+        {
+          "url": "https://pr.gov/",
+          "label": "Official government referral to central employment registry",
+          "sourceLanguage": "Spanish",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://empleos.pr.gov/",
+          "label": "OATRH recruitment directory and route types",
+          "sourceLanguage": "Spanish",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "completeNoticeInventory": false
+        },
+        {
+          "url": "https://empleos.pr.gov/convocatorias/09-2026-hsar",
+          "label": "Aguadilla nutrition-services coordinator 09-2026-HSAr",
+          "sourceLanguage": "Spanish",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "rawAppointmentLabel": "Transitorio",
+          "observedClosingText": "Hasta Nuevo Aviso",
+          "applicationClose": null,
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "foreignWorkAuthorizationRequired": true,
+          "downloadableOriginalReconciliationPending": true
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "vi-personnel-public-recruitment",
+      "country": "VI",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "vi-personnel-public-recruitment",
+        "name": "United States Virgin Islands — Division of Personnel careers",
+        "country": "VI",
+        "authority": "Government of the United States Virgin Islands — Division of Personnel",
+        "homepage": "https://www.dopusvi.org/careers/",
+        "discoveredFrom": "https://dpp.vi.gov/careers/",
+        "notes": "Research only. Government Property and Procurement department refers applicants to Division of Personnel; official careers page links GovernmentJobs portal. Open careers and promotional opportunities are distinct. September exam announcements repeat correction-officer and call-center entries: duplicate display does not create extra cycles. Applications closed 18 September 2026; October testing does not reopen them. Foreign qualification evaluation is separate from foreign-citizen permission. Individual job type and mandatory language level unverified.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Collection terms, exact notices, translations and amendments need review. Embedded/external vacancy inventory and exact employer notices need review; sparse reader output is not checked-empty coverage. Promotion, retiree and Army PaYS routes are distinct; interview access does not guarantee employment. Official timezone, citizenship/work authorization and appointment tenure unestablished. No location coordinates inferred.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "needs verification; examination eligibility and eligible lists do not establish tenure",
+      "internationalApplicantAssessment": "needs verification; foreign-credential evaluation guidance is not foreign-citizen permission",
+      "languageAssessment": "needs verification; English interface and exam titles do not establish a required level",
+      "documents": [
+        {
+          "url": "https://dpp.vi.gov/careers/",
+          "label": "Government department referral to Division of Personnel",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.dopusvi.org/careers/",
+          "label": "Official career page and outsourced portal referral",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "externalVacancyInventoryAccepted": false
+        },
+        {
+          "url": "https://www.dopusvi.org/recruitment-and-classification/",
+          "label": "Selection services, duplicated September announcements and credential guidance",
+          "sourceLanguage": "English",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null,
+          "observedApplicationClose": "2026-09-18",
+          "observedCutoffClock": "23:59",
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "duplicateAnnouncementsObserved": true,
+          "notFreshApplicationWindow": true
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

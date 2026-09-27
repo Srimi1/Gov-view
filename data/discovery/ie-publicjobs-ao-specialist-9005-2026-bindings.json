@@ -1,0 +1,175 @@
+{
+  "sourceId": "ie-publicjobs-ao-specialist-2026",
+  "cycleId": "ie-ao-specialist-9005-2026",
+  "applicationCycles": 1,
+  "specialistChoiceCount": 4,
+  "onlyOneChoiceAndApplicationAllowed": true,
+  "officialDetailUrl": "https://publicjobs.tal.net/candidate/so/pm/1/pl/3/opp/9005-Graduate-Opportunities-2026-Administrative-Officer-Specialist/en-GB",
+  "applicationCutoff": {
+    "date": "2026-10-13",
+    "localTime": "15:00",
+    "officialTimeZone": null
+  },
+  "citizenshipRuleStage": "job-offer date",
+  "citizenshipRoutes": [
+    "EEA citizenship",
+    "United Kingdom citizenship",
+    "Switzerland citizenship",
+    "Non-EEA citizenship with Stamp 4 permission",
+    "Non-EEA citizenship with Stamp 5 permission",
+    "50 TEU permission accepted as Stamp 4 equivalent"
+  ],
+  "languageRequirement": {
+    "generalStandardizedLevel": null,
+    "conditionalIrishRoute": "Minimum B2 on linked Europass self-assessment framework, only for opt-in Irish-language positions; extra Irish assessments before consideration",
+    "applicationLanguageControlsCommunications": true,
+    "irishLabelledBookletIsIdenticalEnglish": true,
+    "bookletSha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247"
+  },
+  "qualificationRoutes": [
+    {
+      "name": "Energy, Environment and Climate",
+      "summary": "First/second-class NFQ Level 8 honours degree in Environmental Science, Energy, Climate, Agriculture, Economics, Geography, Electrical or Technical Engineering; alternatively first/second-class Level 8 higher diploma in listed subjects plus primary degree in any discipline at least Level 7, or Level 9 Master’s/postgraduate diploma in listed subjects. Average at least 50% of modules across qualifications must be in listed subjects. Demonstrate required capabilities."
+    },
+    {
+      "name": "Finance Policy",
+      "summary": "First/second-class NFQ Level 8 honours degree in Business, Finance, Economics, Accounting, Taxation or another financial discipline; alternatively first/second-class Level 8 honours degree in any discipline plus first/second-class Level 8 higher diploma in listed disciplines, Level 9-or-above Master’s/postgraduate diploma in listed disciplines, or qualified accountant/tax advisor with recognised professional membership or entitlement at final-exam standard acceptable to publicjobs. Average at least 50% of modules across qualifications must be Finance, Economics, Accounting, Taxation or another financial discipline. Demonstrate required capabilities."
+    },
+    {
+      "name": "Health Policy Analyst",
+      "summary": "First/second-class NFQ Level 8 honours degree in listed regulated health/social-care disciplines or health, social-care or healthcare-management field; alternatively Level 9 Master’s/postgraduate diploma in these fields, or first/second-class Level 8 higher diploma in these fields plus first/second-class primary honours degree in any discipline at least Level 7. Listed regulators are Medical Council, Dental Council, Nursing and Midwifery Board of Ireland, Pharmaceutical Society of Ireland and CORU. Demonstrate required capabilities."
+    },
+    {
+      "name": "Human Resources",
+      "summary": "First/second-class NFQ Level 8 honours degree in Human Resource Management or any discipline with HR specialism; alternatively first/second-class Level 8 higher diploma in HR Management plus primary degree in any discipline at least Level 7, Level 9 Master’s/postgraduate diploma in HR Management, or NFQ Level 7 CIPD Associate Diploma. Demonstrate required capabilities. Two years high-level HR experience and CIPD/relevant-body membership are desirable, not essential."
+    }
+  ],
+  "incorporatedDocuments": [
+    {
+      "key": "conditions",
+      "title": "Principal Conditions of Service: permanent post, probation and pay",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/32/077bfe81961c9b397da42dcc2d4d1887d3f0e0b8",
+      "sha256": "2267670b39688054108188323039f0c68f5ee2086ae8d546dcf4d266ae24f81f"
+    },
+    {
+      "key": "energy",
+      "title": "AO Energy, Environment and Climate: duties and essential alternatives",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/50/793641601c7545d5e83ff3e6470334b2d7c3a718",
+      "sha256": "7b98c8efdb9d01e9f6b64f05c10903b2d57bea82d616df544859ba59684375f3"
+    },
+    {
+      "key": "finance",
+      "title": "AO Finance Policy: duties and essential alternatives",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/47/92afbc69f53b9615f4eefb61d302ef4663078f44",
+      "sha256": "04045866ee0a51000c9e1a4f8b50a54742dc689202e9d2575e9a558f7f03e2fc"
+    },
+    {
+      "key": "health",
+      "title": "AO Health Policy Analyst: duties and essential alternatives",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/48/7bb68669a93df1e9c35c51fc3925178f9f7d72f5",
+      "sha256": "9b057388ef33b4fbbf02224aa07758e8b16acee3658e7124510c9ad8dbe4ea03"
+    },
+    {
+      "key": "hr",
+      "title": "AO Human Resources: duties, alternatives and desirable criteria",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/49/9a23f976142c02cf61e4848eaca86b38c5594b71",
+      "sha256": "cdb3044987595b874c7c60d8ed9baaa9a196fc314ac5f1db7c028d6057210739"
+    },
+    {
+      "key": "eligibility",
+      "title": "Eligibility to Compete: citizenship, immigration and re-employment restrictions",
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/33/557efe9fd970288dd2779120e856083a7431aa25",
+      "sha256": "799829f4f8a9557fc0e90a1b486367302eb57410cf4bf9267a8d6bbb02d87031"
+    }
+  ],
+  "retainedResponseCount": 11,
+  "evidence": [
+    {
+      "url": "https://www.publicjobs.ie/en/",
+      "fetchedAt": "2026-09-26T19:56:18.909Z",
+      "sha256": "79aa738bc8e1c897b27d2bebdf6901b7bc4f6383a799e0eb3d84680a09528696",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 76872
+    },
+    {
+      "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-423dd989250d/candidate/jobboard/vacancy/3/adv/",
+      "fetchedAt": "2026-09-26T19:56:20.787Z",
+      "sha256": "113911991d8e08212bb897cf50bb2697cf1cfc45809295af0a5121626053c82e",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 281940
+    },
+    {
+      "url": "https://publicjobs.tal.net/candidate/so/pm/1/pl/3/opp/9005-Graduate-Opportunities-2026-Administrative-Officer-Specialist/en-GB",
+      "fetchedAt": "2026-09-26T19:56:22.118Z",
+      "sha256": "3edec43917ea96f0dcef22af9e3c0aa0986896325b47759352fc7766dcf5b46b",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 61353
+    },
+    {
+      "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-aa0ac4d56852/candidate/download_file_opp/9005/105858/1/0/30a45384f252003f28ea5f016ebce93f47eadbcb",
+      "fetchedAt": "2026-09-26T19:56:24.440Z",
+      "sha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247",
+      "contentType": "application/pdf",
+      "bytes": 997463
+    },
+    {
+      "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-aa0ac4d56852/candidate/download_file_opp/9005/406178/1/0/30a45384f252003f28ea5f016ebce93f47eadbcb",
+      "fetchedAt": "2026-09-26T19:56:26.538Z",
+      "sha256": "09cbe5f3f3b843a4d38fe3a0437652e73ab9bf7a55e75258c7f8bc84f4083247",
+      "contentType": "application/pdf",
+      "bytes": 997463
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/32/077bfe81961c9b397da42dcc2d4d1887d3f0e0b8",
+      "fetchedAt": "2026-09-26T19:56:27.066Z",
+      "sha256": "2267670b39688054108188323039f0c68f5ee2086ae8d546dcf4d266ae24f81f",
+      "contentType": "application/pdf",
+      "bytes": 184394
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/50/793641601c7545d5e83ff3e6470334b2d7c3a718",
+      "fetchedAt": "2026-09-26T19:56:28.111Z",
+      "sha256": "7b98c8efdb9d01e9f6b64f05c10903b2d57bea82d616df544859ba59684375f3",
+      "contentType": "application/pdf",
+      "bytes": 259461
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/47/92afbc69f53b9615f4eefb61d302ef4663078f44",
+      "fetchedAt": "2026-09-26T19:56:29.036Z",
+      "sha256": "04045866ee0a51000c9e1a4f8b50a54742dc689202e9d2575e9a558f7f03e2fc",
+      "contentType": "application/pdf",
+      "bytes": 178448
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/48/7bb68669a93df1e9c35c51fc3925178f9f7d72f5",
+      "fetchedAt": "2026-09-26T19:56:30.000Z",
+      "sha256": "9b057388ef33b4fbbf02224aa07758e8b16acee3658e7124510c9ad8dbe4ea03",
+      "contentType": "application/pdf",
+      "bytes": 161776
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/49/9a23f976142c02cf61e4848eaca86b38c5594b71",
+      "fetchedAt": "2026-09-26T19:56:30.990Z",
+      "sha256": "cdb3044987595b874c7c60d8ed9baaa9a196fc314ac5f1db7c028d6057210739",
+      "contentType": "application/pdf",
+      "bytes": 230048
+    },
+    {
+      "url": "https://publicjobs.tal.net/cached/spa-1/share/d/33/557efe9fd970288dd2779120e856083a7431aa25",
+      "fetchedAt": "2026-09-26T19:56:31.999Z",
+      "sha256": "799829f4f8a9557fc0e90a1b486367302eb57410cf4bf9267a8d6bbb02d87031",
+      "contentType": "application/pdf",
+      "bytes": 152308
+    }
+  ],
+  "reviewStatus": "pending",
+  "publicationApproved": false,
+  "remainingGaps": [
+    "One vacancy ID and one application choosing one specialist role count once; four choices, merit panels and possible work locations do not multiply application cycles.",
+    "Only competition 9005 extracted. Current board mixes external employers and other jurisdictions; no board total is treated as verified Irish government-job coverage.",
+    "Citizenship/permission criteria apply by job-offer date. Non-EEA Stamp 4/5 or accepted 50 TEU equivalent needs documentary verification, not a nationality-only rejection.",
+    "Irish B2 is conditional on opting into Irish-language posts. General campaign has no standardized language level; both labelled booklet downloads currently contain identical English bytes.",
+    "NFQ routes include professional membership and HR CIPD alternatives; generic degree/experience filters cannot safely determine eligibility. Desirable HR experience is not essential.",
+    "Timezone and interview centres are unstated; provisional tests/interviews and panel availability are not guaranteed appointments. Changed original documents or card/details stop extraction for review."
+  ]
+}

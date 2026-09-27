@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://sribhumi.assam.gov.in/document/advertisements",
+  "fetchedAt": "2026-09-25T02:06:30.783Z",
+  "sha256": "a4f09566150e24c26a1531615d34eb1edc537adb8d45de39e942f236ffe270f0",
+  "bytes": 214643,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://sribhumi.assam.gov.in/sites/default/files/public_utility/Advertisement%20for%20Walk-in-interview%20for%20the%20post%20of%20Data%20Entry%20Operator%20%26%20Copyist%20in%20the%20Office%20of%20the%20Member.%20Foreigners%20Tribunal-II.pdf",
+  "fetchedAt": "2026-09-25T02:06:31.130Z",
+  "sha256": "9319255aa399e3081f6e9ba52b5216e458a4fc4614de290c197cd16d0715481e",
+  "bytes": 696952,
+  "contentType": "application/pdf"
+ }
+]

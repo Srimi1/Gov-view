@@ -1,0 +1,13 @@
+{
+  "reviewStatus": "research-only",
+  "indexUrl": "https://psc.uk.gov.in/candidate-corner/recruitment",
+  "observations": [
+    "Top row dated 24 September 2026 links a notice about the earlier Lecturer Group C examination 2025, not a new application cycle.",
+    "Second row dated 22 September 2026 links a Veterinary Officer 2026 edit/correction window notice. It cites original application end 14 September; the index end date 1 October is the edit-window end, not a new application deadline.",
+    "Index title cells render generic metadata instead of post names. A connector must read linked PDF and distinguish application, correction, examination and result notices before creating opportunities. No UKPSC record was imported from these rows."
+  ],
+  "documents": [
+    { "url": "https://psc.uk.gov.in/public/uploads/recruitment/1433940324.pdf", "sha256": "51ee90e7f0aae3ad638c9a080e30aebe974fe383d351aa20f8f78cfabc40e9bb" },
+    { "url": "https://psc.uk.gov.in/public/uploads/recruitment/1019909814.pdf", "sha256": "c21e674d9e02aff1372d1d63e2a4ec01ef19ff50a1b2e6a29319ed982dedd26b" }
+  ]
+}

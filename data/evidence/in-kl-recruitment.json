@@ -1,0 +1,128 @@
+[
+ {
+  "url": "https://www.keralapsc.gov.in/notifications",
+  "fetchedAt": "2026-09-25T15:09:09.133Z",
+  "sha256": "8563e781d6ac33a8056ad863f0ff32176e74ef4fbb42b295e1de42a61027bee2",
+  "bytes": 48324,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026",
+  "fetchedAt": "2026-09-25T15:09:10.115Z",
+  "sha256": "9fd2f5d43a6d893d529bf14ebafc47e12be27fc099870f01b6b15965a4a7749e",
+  "bytes": 34795,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/general-conditions",
+  "fetchedAt": "2026-09-25T15:09:11.283Z",
+  "sha256": "ebaebd135a256d0433917e70cd05af4ebb5fcc8d1ca5e2939c346a1f1224166e",
+  "bytes": 31353,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/inline-files/general_conditions_added_latest.pdf",
+  "fetchedAt": "2026-09-25T15:09:12.611Z",
+  "sha256": "2a10e22aa5646e723eb3f9459f5fdd0b0c6d5e1d120ebec1c1aa8d3b615fc555",
+  "bytes": 499406,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-130-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:13.284Z",
+  "sha256": "cf51a743eaec8e592389cb2678eb74d60c30e28c7a185f42ed42b55daf03ffcc",
+  "bytes": 308622,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-131-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:14.347Z",
+  "sha256": "369400ab0b5d5f54f0410fb9955ca815177a51b8d02e853a12642c59e224f544",
+  "bytes": 350835,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-132-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:15.313Z",
+  "sha256": "95feef9efd577a68bde0a49763a329fc982d14462f47c70401ccd678499f40cc",
+  "bytes": 360279,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-133-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:16.342Z",
+  "sha256": "508912a0a4c3ad375a302adb43f885e37cb62bea97828774423e53a5081b32b0",
+  "bytes": 277244,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-134-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:17.328Z",
+  "sha256": "07a04bb87a77c8393b5117a366b04dd5b7dfb13435b33a4a508f99418af16806",
+  "bytes": 367446,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-135-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:18.261Z",
+  "sha256": "464c538633624ebe93dc26e4a1dbaf6cca18a6e0c541f5303770ae3121e44bde",
+  "bytes": 363678,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-136-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:19.436Z",
+  "sha256": "04883857474f67e219f89fb9b8909e7b1a8d8bfa5fb9bc7970ceebacbaac0b16",
+  "bytes": 387602,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-137-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:20.280Z",
+  "sha256": "d9a2bf7d563296899733040ed397a40115ee68a3e64f64a1a0c17fa92af54a4d",
+  "bytes": 357572,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-138-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:21.347Z",
+  "sha256": "21ae503980c25b20d86c0ca86bd0ccb23f32e17101148558115f5487ba5d8235",
+  "bytes": 386647,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-139-142-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:22.269Z",
+  "sha256": "5d5b0593222d03255099017250fb5b316db066729624de461da872a7b7e1fb8f",
+  "bytes": 391265,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-143-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:23.385Z",
+  "sha256": "017bfe1eeb00b422edb50a844c9b9615e9c70fd83c24c9348368988c4207a4a0",
+  "bytes": 380834,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-144-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:24.302Z",
+  "sha256": "f61cd7c6fd1d1940daf961107a0990bdaec6dc6753fcd1eb4739fc66184fc927",
+  "bytes": 354392,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-145-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:25.344Z",
+  "sha256": "9a9ab05ba0a4780c258f622a3306908025781c4d0f92dac106ab8deeca897748",
+  "bytes": 368628,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-146-150-26.pdf",
+  "fetchedAt": "2026-09-25T15:09:26.310Z",
+  "sha256": "bfb52a3ac8abd07a01e915960822f740198efb6b4e6596eccd291cf54d80792f",
+  "bytes": 393898,
+  "contentType": "application/pdf"
+ }
+]

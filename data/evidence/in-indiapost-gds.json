@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://www.indiapost.gov.in/gdsonlineengagement",
+  "fetchedAt": "2026-09-25T05:15:56.299Z",
+  "sha256": "e616474cac7dc239f0611d5682cc4f1c1c9e2444395549d972cd36d0f17c9a58",
+  "bytes": 20422,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.indiapost.gov.in/gdsonlineengagement/_next/static/chunks/dce9ad18a44c759f.js",
+  "fetchedAt": "2026-09-25T05:15:57.232Z",
+  "sha256": "ce1b3214823433599dc81f5c21cd1181ee2381f6f837eacac9264c8874a4a4f9",
+  "bytes": 212259,
+  "contentType": "application/javascript; charset=UTF-8"
+ },
+ {
+  "url": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf",
+  "fetchedAt": "2026-09-25T05:15:58.422Z",
+  "sha256": "fbd5721ce789ff0b307a973eac5d0e6ee776a9619fe9abd4903a3f8c1e6e3ebb",
+  "bytes": 309910,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification-hindi.pdf",
+  "fetchedAt": "2026-09-25T05:15:59.568Z",
+  "sha256": "534975a5ed69e980e45d2eb45c6d42eb2cee633ed9c1f1f6356d344a4bf71fb0",
+  "bytes": 403627,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/Annexure-Ia.pdf",
+  "fetchedAt": "2026-09-25T05:16:00.413Z",
+  "sha256": "b72ef8e4290027eb04feee551eed8f67a7262cbc6be32cffd63d07972e52d5f1",
+  "bytes": 418912,
+  "contentType": "application/pdf"
+ }
+]

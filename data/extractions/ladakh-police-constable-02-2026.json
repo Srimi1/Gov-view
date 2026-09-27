@@ -1,0 +1,16 @@
+{
+  "indexUrl": "https://police.ladakh.gov.in/pages/recruitment.html",
+  "applicationUrl": "https://police.ladakh.gov.in/pages/recruitment.html",
+  "advertisement": "02 of 2026",
+  "opensOn": "2026-08-29",
+  "closesOn": "2026-09-15",
+  "ageAsOn": "2026-01-01",
+  "vacancies": 331,
+  "documents": [
+    { "key": "advertisement", "url": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf", "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065", "indexDate": "24-08-2026" },
+    { "key": "no-extension", "url": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf", "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2", "indexDate": "11-09-2026" },
+    { "key": "admit-card", "url": "https://police.ladakh.gov.in/pages/pdf/admitcard.pdf", "sha256": null, "indexDate": "17-09-2026", "linkedOnly": true },
+    { "key": "pst-postponement", "url": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf", "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02", "indexDate": "22-09-2026" },
+    { "key": "standing-order", "url": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf", "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f", "indexDate": "14-08-2026" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "reviewedOn": "2026-09-25",
+  "sourceId": "in-mh-pune-divcomm-legal",
+  "cycleId": "pune-divcomm-legal-officer-2026",
+  "publicationDecision": "founder-review-pending",
+  "officialEvidence": [
+    {
+      "url": "https://divcompune.maharashtra.gov.in/en/recruitment/",
+      "file": "pune-divcomm-recruitment-2026.html",
+      "sha256": "0f1eb411664d042eb613fd318c74cde39b883f16ee2d3166cc5d7128220a3cfe",
+      "finding": "Official Pune Division recruitment page names one contractual Legal Officer advertisement, dated 1 August 2026, and links the scanned PDF."
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s3b427426b8acd2c2e53827970f2c2f526/uploads/2026/08/202608011825918750.pdf",
+      "file": "pune-divcomm-legal-officer-2026.pdf",
+      "sha256": "1bf07c28d382585e013852f62687b8d9f641a7b06e65497a9ea5230aeb27c8ab",
+      "finding": "Twelve-page scanned Marathi notice, decision and form. Page 1 says one 11-month contract, application receipt by 31 August 2026 during office hours, recognised law degree, Bar Council membership, seven years' practice, age not above 45 at appointment, and adequate Marathi/Hindi/English knowledge. It states ₹45,000 honorarium plus ₹5,000 fixed allowance per month."
+    }
+  ],
+  "internationalApplicantAssessment": "No nationality or foreign-citizen rule was identified on checked notice page 1. Application and eventual contract eligibility remain needs-verification for all nationalities; do not infer permission from silence.",
+  "languageAssessment": "Adequate knowledge of Marathi, Hindi and English is explicitly requested. No formal level, certificate or test score is printed on checked page 1.",
+  "datePrecision": "31 August 2026 is application receipt date. No opening date, exact hour or official timezone is printed. Do not convert office hours to an invented cutoff time.",
+  "venueAssessment": "Pune Vidhan Bhavan is stated work and application-receipt location, not an interview venue. No selection pin created.",
+  "access": "Pune host robots.txt returned HTTP 200 text/plain and only restricted wp-admin. Linked cdnbbsr.s3waas.gov.in robots.txt returned HTTP 404; public PDF responded with exact bytes.",
+  "coverageLimit": "One closed Pune Division advertisement only; later amendments, remaining Pune Division notices, Maharashtra PSC and other Maharashtra authorities remain gaps.",
+  "reviewNeeds": "Founder checks scanned Marathi translation, full eligibility and forms, any later amendments, application submission method and foreign-citizen appointment rules before approval."
+}

@@ -1,0 +1,355 @@
+{
+  "sourceId": "in-drdo-jrf-september-2026",
+  "collectedAt": "2026-09-26T19:32:17.974Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "DYSL-SM/HRD/JRF/REC/2026/1",
+      "programme": "DRDO DYSL-SM Hyderabad Junior Research Fellowship",
+      "status": "open",
+      "statusNote": "Walk-in 6 October 2026 at 09:30, with prescribed form and email submission step. No email deadline printed; first output awaits review.",
+      "scopeLabel": "Indian-national research fellowship at DYSL-SM Hyderabad. Laboratory location is not an applicant domicile condition.",
+      "outcome": "1 JRF place; Temporary fellowship initially two years, with subsequent SRF upgradation subject to DRDO guidelines. Fellowship does not confer any right to absorption in DRDO.",
+      "qualifications": "B.E./B.Tech. in Mechanical or Mechatronics Engineering, first class, with valid GATE score; alternatively first-class M.E./M.Tech. in published list (literally \"MechanicalMechatronics\", Robotics & Automation, Machine Design, Solid Mechanics), together with first-class B.E./B.Tech. in Mechanical/Mechatronics. Joined \"MechanicalMechatronics\" wording requires authority clarification; no separator is silently added. Degree or provisional certificate must already be awarded. GATE where required must be valid on interview date. Desirable: finite-element packages, CAD, 3D printing, composite materials, basic electronics and instrumentation. Maximum age 28 on actual date of application, with 5-year SC/ST and 3-year OBC relaxation or applicable government guidelines. No fixed calendar age date is published.",
+      "citizenshipRule": "Original notice expressly restricts applications to Indian nationals. Foreign citizenship, including OCI without Indian citizenship, is not an accepted nationality route in this call.",
+      "residenceRule": "No applicant domicile condition is printed. Office/venue address does not create a residence rule.",
+      "selectionStages": [
+        "Email prescribed form and supporting documents in PDF below 10 MB; email deadline unspecified",
+        "Bring original certificates, prescribed form, photo and self-attested copies to 6 October walk-in at 09:30; latecomers excluded",
+        "Screening using valid GATE score where applicable, degree marks, desirable criteria and relevant experience; interview",
+        "Selection panel valid one year; empanelment does not guarantee fellowship, and employed applicants need NOC"
+      ],
+      "fee": "No application fee stated in retained notice; no TA/DA for interview or joining.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Original DYSL-SM/HRD/JRF/REC/2026/1 notice expressly invites only Indian nationals."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "finalYearAllowed": false,
+          "evidence": "Completed qualifying engineering degree is required; first-class/division, discipline and GATE or postgraduate alternative need manual verification."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "B.E./B.Tech. in Mechanical or Mechatronics Engineering, first class, with valid GATE score; alternatively first-class M.E./M.Tech. in published list (literally \"MechanicalMechatronics\", Robotics & Automation, Machine Design, Solid Mechanics), together with first-class B.E./B.Tech. in Mechanical/Mechatronics. Joined \"MechanicalMechatronics\" wording requires authority clarification; no separator is silently added. Degree or provisional certificate must already be awarded. GATE where required must be valid on interview date. Desirable: finite-element packages, CAD, 3D printing, composite materials, basic electronics and instrumentation. Maximum age 28 on actual date of application, with 5-year SC/ST and 3-year OBC relaxation or applicable government guidelines. No fixed calendar age date is published. Candidates previously awarded JRF in any DRDO lab are ineligible; confirm email procedure and application date."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify originals, valid qualification route, reporting 6 October at 09:30; latecomers excluded, employer NOC and any selection-language expectations. No language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify antecedents/documents, availability of fellowship, final tenure and admissible emoluments. Fellowship does not give permanent DRDO employment rights."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published-address",
+          "name": "DRDO Young Scientists Laboratory for Smart Materials (DYSL-SM), AMTL Campus (near DMRL), Kanchanbagh, Hyderabad 500058",
+          "city": "Hyderabad",
+          "subdivision": "IN-TG"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "changes": [],
+      "id": "drdo-dysl-sm-jrf-2026-1",
+      "sourceId": "in-drdo-jrf-september-2026",
+      "title": "Junior Research Fellowship — DRDO DYSL-SM Hyderabad",
+      "authority": "DRDO DYSL-SM Hyderabad, Ministry of Defence, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TG"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-06",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "6 October is walk-in date, starting 09:30 with latecomers excluded. Supporting documents must also be emailed, but no email receipt deadline is printed. Official timezone unstated; 09:30 is not repurposed as an email cutoff or separate closing time."
+      },
+      "languageNote": "No named mandatory language, standardized proficiency level or certificate is stated. English notice/form language does not establish English eligibility.",
+      "salary": "₹37,000 per month plus applicable HRA and other emoluments under DRDO rules.",
+      "workLocations": [
+        "DRDO Young Scientists Laboratory for Smart Materials (DYSL-SM), AMTL Campus (near DMRL), Kanchanbagh, Hyderabad 500058"
+      ],
+      "sources": [
+        {
+          "id": "in-drdo-jrf-september-2026:b771cb8019ff",
+          "title": "DRDO current vacancy index, page 1",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "sha256": "8e48b634d7c6452d908d2bc54aa241656b32c905f678b14bcb9ef2b575c3ab6f",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:19.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:d736072f40a7",
+          "title": "DRDO current vacancy index, page 2",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+          "sha256": "efc6a66db48c974061bd546ed626518a6cf7f2f504fa74adc7b4672d010bf9ee",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:20.222Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:4edbdeb06c61",
+          "title": "DRDO DYSL-SM Hyderabad JRF detail",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-sm-hyderabad-invites-eligible-candidates-walk-interview-award-junior",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-sm-hyderabad-invites-eligible-candidates-walk-interview-award-junior",
+          "sha256": "d6448b09f660df807281a7785f615bdfe630284301219c7e4cb5755b2df6f495",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:21.288Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:7b8e34883202",
+          "title": "DYSL-SM/HRD/JRF/REC/2026/1 original notice and application form",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+          "sha256": "28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:22.685Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026/JRF",
+      "programme": "DRDO LRDE Bengaluru Junior Research Fellowship",
+      "status": "uncertain",
+      "statusNote": "Walk-in 8 October 2026 follows advised willingness email by 25 September. Notice does not establish whether someone who missed that advisory can attend; verify with LRDE. First output awaits review.",
+      "scopeLabel": "Indian-national research fellowship at LRDE Bengaluru. Laboratory location is not an applicant domicile condition.",
+      "outcome": "2 JRF places; Initial fellowship two years, extendable to maximum four years under DRDO research-fellow scheme. Fellowship does not confer any right to absorption in DRDO.",
+      "qualifications": "First-division recognized B.E./B.Tech. in Electronics/Communication or one of listed equivalent electronics disciplines with qualifying valid GATE score (2024, 2025 or 2026); alternatively relevant M.E./M.Tech. with first division at both graduate and postgraduate levels. Discipline equivalence and score qualification need verification. Maximum age 28 as on 1 September 2026; SC/ST/OBC relaxation follows Government of India rules but notice gives no numeric increments.",
+      "citizenshipRule": "Original notice expressly restricts applications to Indian nationals. Foreign citizenship, including OCI without Indian citizenship, is not an accepted nationality route in this call.",
+      "residenceRule": "No applicant domicile condition is printed. Office/venue address does not create a residence rule.",
+      "selectionStages": [
+        "Send willingness email, advised by 25 September, with JRF-ECE subject; confirm attendance eligibility if missed",
+        "Report at LRDE Main Gate Reception 08:30–09:30 on 8 October with prescribed form, original documents, photo ID and required NOC",
+        "Document verification from 09:00; written test if necessary and interview that day",
+        "Selection panel and antecedent verification before joining; empanelment does not guarantee fellowship"
+      ],
+      "fee": "No application fee stated in retained notice; no TA/DA for interview or joining.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Original 03/2026/JRF notice expressly invites only Indian nationals."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "finalYearAllowed": false,
+          "evidence": "Completed qualifying engineering degree is required; first-class/division, discipline and GATE or postgraduate alternative need manual verification."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "First-division recognized B.E./B.Tech. in Electronics/Communication or one of listed equivalent electronics disciplines with qualifying valid GATE score (2024, 2025 or 2026); alternatively relevant M.E./M.Tech. with first division at both graduate and postgraduate levels. Discipline equivalence and score qualification need verification. Maximum age 28 as on 1 September 2026; SC/ST/OBC relaxation follows Government of India rules but notice gives no numeric increments. Confirm attendance route after 25 September willingness advisory."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify originals, valid qualification route, reporting 8 October 08:30–09:30 at LRDE Main Gate Reception; late arrivals excluded, employer NOC and any selection-language expectations. Non-English documents need self-attested English transcripts; this is a document rule, not a proficiency certificate."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify antecedents/documents, availability of fellowship, final tenure and admissible emoluments. Fellowship does not give permanent DRDO employment rights."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published-address",
+          "name": "Electronics & Radar Development Establishment (LRDE), DRDO Township, CV Raman Nagar, Bengaluru 560093",
+          "city": "Bengaluru",
+          "subdivision": "IN-KA"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "changes": [],
+      "id": "drdo-lrde-jrf-03-2026",
+      "sourceId": "in-drdo-jrf-september-2026",
+      "title": "Junior Research Fellowship — DRDO LRDE Bengaluru",
+      "authority": "DRDO LRDE Bengaluru, Ministry of Defence, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "temporary",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-KA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": "09:30",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "8 October is walk-in date, with reporting 08:30–09:30; late arrivals excluded. Willingness email was advised by 25 September, with no email cutoff time. Whether that email is prerequisite needs clarification. Official timezone unstated; index Start Date is not a verified application opening."
+      },
+      "languageNote": "Non-English documents/certificates require duly self-attested English transcripts. This is a document translation rule. No named mandatory speaking/writing language, CEFR/JLPT level or proficiency certificate is stated.",
+      "salary": "₹37,000 per month plus admissible HRA.",
+      "workLocations": [
+        "Electronics & Radar Development Establishment (LRDE), DRDO Township, CV Raman Nagar, Bengaluru 560093"
+      ],
+      "sources": [
+        {
+          "id": "in-drdo-jrf-september-2026:b771cb8019ff",
+          "title": "DRDO current vacancy index, page 1",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/offerings/vacancies",
+          "sha256": "8e48b634d7c6452d908d2bc54aa241656b32c905f678b14bcb9ef2b575c3ab6f",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:19.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:d736072f40a7",
+          "title": "DRDO current vacancy index, page 2",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+          "sha256": "efc6a66db48c974061bd546ed626518a6cf7f2f504fa74adc7b4672d010bf9ee",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:20.222Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:62278b82f9dc",
+          "title": "DRDO LRDE Bengaluru JRF detail",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://drdo.gov.in/drdo/en/offerings/vacancies/lrde-bengaluru-invites-eligible-candidates-walk-interview-post-junior-research",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/en/offerings/vacancies/lrde-bengaluru-invites-eligible-candidates-walk-interview-post-junior-research",
+          "sha256": "f83afabe4c7a4781702e7377aacf3746ec9df508cd547c5308d7ca3c21675ae1",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:23.185Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-drdo-jrf-september-2026:55509eb19870",
+          "title": "03/2026/JRF original notice and application form",
+          "authority": "Defence Research and Development Organisation, Ministry of Defence, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+          "sha256": "030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5",
+          "lastSuccessfulFetchAt": "2026-09-26T19:32:24.296Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://drdo.gov.in/drdo/offerings/vacancies",
+      "fetchedAt": "2026-09-26T19:32:19.849Z",
+      "sha256": "8e48b634d7c6452d908d2bc54aa241656b32c905f678b14bcb9ef2b575c3ab6f",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 465901
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/offerings/vacancies?page=1",
+      "fetchedAt": "2026-09-26T19:32:20.222Z",
+      "sha256": "efc6a66db48c974061bd546ed626518a6cf7f2f504fa74adc7b4672d010bf9ee",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 317510
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/en/offerings/vacancies/dysl-sm-hyderabad-invites-eligible-candidates-walk-interview-award-junior",
+      "fetchedAt": "2026-09-26T19:32:21.288Z",
+      "sha256": "d6448b09f660df807281a7785f615bdfe630284301219c7e4cb5755b2df6f495",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 281179
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "fetchedAt": "2026-09-26T19:32:22.685Z",
+      "sha256": "28cf82d3165bdef0e93864eb419358b7ac67e7b2ef90f74ae07f6bb33e874b4f",
+      "contentType": "application/pdf",
+      "bytes": 1559543
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/en/offerings/vacancies/lrde-bengaluru-invites-eligible-candidates-walk-interview-post-junior-research",
+      "fetchedAt": "2026-09-26T19:32:23.185Z",
+      "sha256": "f83afabe4c7a4781702e7377aacf3746ec9df508cd547c5308d7ca3c21675ae1",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 281171
+    },
+    {
+      "url": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "fetchedAt": "2026-09-26T19:32:24.296Z",
+      "sha256": "030f57db69a1e6d60ef925a53e06de4881202d1e2e5a0356770cddd1ba3586f5",
+      "contentType": "application/pdf",
+      "bytes": 243343
+    }
+  ],
+  "warnings": [
+    "Two exact JRF calls produce two cycles and three fellowship places; repeated index notices and published venues never multiply cycles.",
+    "Only DYSL-SM and LRDE are extracted from fourteen current index cards. Index contains result notices as well as applications; other DRDO calls and archive remain gaps.",
+    "Both notices restrict applications to Indian nationals. Neither prescribes CEFR, JLPT or any other standardized language level; LRDE requires English transcripts of non-English documents.",
+    "LRDE willingness email was advised by 25 September, before 8 October walk-in. Attendance after missing advisory is unresolved, so current application status is uncertain.",
+    "DYSL-SM age is counted on actual application date, not walk-in date. LRDE age date is 1 September, with unquantified government-rule relaxations. Neither age limit is auto-applied.",
+    "DYSL-SM original PDF prints MechanicalMechatronics without a separator in postgraduate disciplines. Exact wording is preserved and requires authority clarification before approval.",
+    "Official deadline timezone is unstated; interview times are not invented email cutoffs. Exact PDF and current index/detail bindings stop changed claims for review."
+  ],
+  "approvalRevisions": {
+    "drdo-dysl-sm-jrf-2026-1": {
+      "evidenceRevision": "dd51aea55d4d3871b3620805f9a189e967fc0b41c81bec8e6b8c62d0ed1bef42",
+      "recordRevision": "08ebfb689b4b1c12e60eca964b605d626aac9c09efce8b63c595c74bc1afcdef"
+    },
+    "drdo-lrde-jrf-03-2026": {
+      "evidenceRevision": "b7dc6263c9b79f48639ca53aab6f88b95642cfbcb1134bc39c0c8e5027a4049a",
+      "recordRevision": "dd7a5731dd2c62b59cd8fd8f544494c1e398dc827c2fd15063e2cc9468d361ef"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "capturedAt": "2026-09-24T21:11:01.821533+00:00",
+  "records": [
+    {
+      "file": "data/evidence/research/puducherry-portal.html",
+      "url": "https://recruitment.py.gov.in/",
+      "sha256": "5678f9e58f8410b92832ad21f2c4b1846752deb6ff364f2941fb9f7c1b13aed2",
+      "bytes": 187982
+    },
+    {
+      "file": "data/evidence/research/puducherry-cgl2026001-notification.html",
+      "url": "https://recruitment.py.gov.in/recruitment/CGL2026001/show-notification",
+      "sha256": "00f465bf33aa1acec8398c205709c40922676c3f660220348c637e2aa415b0e9",
+      "bytes": 25010
+    },
+    {
+      "file": "data/evidence/research/puducherry-cgl2026001-notification.pdf",
+      "url": "https://recruitment.py.gov.in/recruitment/CGL2026001/RenderNotification",
+      "sha256": "f7838734df108037414b23cd6e9f56f18037ad79cb7b5a5aec074cf9ee1c7fb7",
+      "bytes": 1584791
+    },
+    {
+      "file": "data/evidence/research/puducherry-cgl2026001-news.html",
+      "url": "https://recruitment.py.gov.in/recruitment/CGL2026001/Index?PageTypeId=N",
+      "sha256": "95288517fe3725151f9fd9ae0923a4fa86720f52f4b69c5dacb495147ae38043",
+      "bytes": 25023
+    }
+  ],
+  "conflict": {
+    "cycleId": "CGL2026001",
+    "job": "Junior Engineer (Civil), Public Works Department",
+    "portalClosing": "2026-04-13 15:00:00",
+    "noticeClosing": "2026-04-14 15:00:00",
+    "noticePage": 1,
+    "newsPage": "Content not updated yet",
+    "resolution": "unresolved; do not publish exact closing date"
+  },
+  "applicantScope": "Notice first page invites eligible Indian citizens who are natives/residents of Puducherry; exact exceptions and proof requirements need original-language review."
+}

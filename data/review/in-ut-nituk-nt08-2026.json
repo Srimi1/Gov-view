@@ -1,0 +1,1607 @@
+{
+  "sourceId": "in-ut-nituk-nt08-2026",
+  "collectedAt": "2026-09-25T11:48:27.132Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Superintendent",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Superintendent family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Superintendent vacancy; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "First-class bachelor's degree in any discipline or master's degree with at least 50% marks, plus computer word-processing and spreadsheet knowledge for the general recruitment route. Deputation requires eligible current service, analogous post or specified grade service and employer clearance; annexed 2019 rules govern details. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-superintendent",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Superintendent — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technical Assistant (Civil)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technical Assistant family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "2 indicative Technical Assistant (Civil) vacancies; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant first-class B.E./B.Tech./MCA, first-class engineering diploma, first-class science bachelor's degree, or science master's degree with at least 50% marks. Deputation has additional analogous-post or six-year grade-service criteria; exact branch equivalence needs review. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technical-assistant-civil",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technical Assistant (Civil) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technical Assistant (Electrical)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technical Assistant family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technical Assistant (Electrical) vacancy; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant first-class B.E./B.Tech./MCA, first-class engineering diploma, first-class science bachelor's degree, or science master's degree with at least 50% marks. Deputation has additional analogous-post or six-year grade-service criteria; exact branch equivalence needs review. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technical-assistant-electrical",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technical Assistant (Electrical) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technical Assistant (Electronics)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technical Assistant family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technical Assistant (Electronics) vacancy; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant first-class B.E./B.Tech./MCA, first-class engineering diploma, first-class science bachelor's degree, or science master's degree with at least 50% marks. Deputation has additional analogous-post or six-year grade-service criteria; exact branch equivalence needs review. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technical-assistant-electronics",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technical Assistant (Electronics) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technical Assistant (CSE)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technical Assistant family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technical Assistant (CSE) vacancy; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant first-class B.E./B.Tech./MCA, first-class engineering diploma, first-class science bachelor's degree, or science master's degree with at least 50% marks. Deputation has additional analogous-post or six-year grade-service criteria; exact branch equivalence needs review. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technical-assistant-cse",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technical Assistant (CSE) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technical Assistant (Mechanical)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technical Assistant family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technical Assistant (Mechanical) vacancy; Level 6 on deputation; ₹57,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant first-class B.E./B.Tech./MCA, first-class engineering diploma, first-class science bachelor's degree, or science master's degree with at least 50% marks. Deputation has additional analogous-post or six-year grade-service criteria; exact branch equivalence needs review. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹500 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technical-assistant-mechanical",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technical Assistant (Mechanical) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 6 on deputation; ₹57,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (SG-II) (CSE)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician (SG-II) family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "2 indicative Technician (SG-II) (CSE) vacancies; Level 5 on deputation; ₹47,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Annexed Technician (Selection Grade-II) rules give no direct-recruitment qualification; deputation requires eligible serving officer, specified analogous post or five-year grade service, and listed science/ITI/engineering-diploma routes. Contract-route criteria are not fully resolved by the appended rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-sg2-cse",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (SG-II) (CSE) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 5 on deputation; ₹47,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (SG-II) (Electronics)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician (SG-II) family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "2 indicative Technician (SG-II) (Electronics) vacancies; Level 5 on deputation; ₹47,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Annexed Technician (Selection Grade-II) rules give no direct-recruitment qualification; deputation requires eligible serving officer, specified analogous post or five-year grade service, and listed science/ITI/engineering-diploma routes. Contract-route criteria are not fully resolved by the appended rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-sg2-electronics",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (SG-II) (Electronics) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 5 on deputation; ₹47,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (SG-II) (Electrical)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician (SG-II) family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technician (SG-II) (Electrical) vacancy; Level 5 on deputation; ₹47,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Annexed Technician (Selection Grade-II) rules give no direct-recruitment qualification; deputation requires eligible serving officer, specified analogous post or five-year grade service, and listed science/ITI/engineering-diploma routes. Contract-route criteria are not fully resolved by the appended rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-sg2-electrical",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (SG-II) (Electrical) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 5 on deputation; ₹47,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (SG-II) (Mechanical)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician (SG-II) family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technician (SG-II) (Mechanical) vacancy; Level 5 on deputation; ₹47,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Annexed Technician (Selection Grade-II) rules give no direct-recruitment qualification; deputation requires eligible serving officer, specified analogous post or five-year grade service, and listed science/ITI/engineering-diploma routes. Contract-route criteria are not fully resolved by the appended rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-sg2-mechanical",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (SG-II) (Mechanical) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 5 on deputation; ₹47,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (SG-II) (Library)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician (SG-II) family, at Srinagar (Garhwal), Uttarakhand. Deputation or one-year contract routes are advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technician (SG-II) (Library) vacancy; Level 5 on deputation; ₹47,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Annexed Technician (Selection Grade-II) rules give no direct-recruitment qualification; deputation requires eligible serving officer, specified analogous post or five-year grade service, and listed science/ITI/engineering-diploma routes. Contract-route criteria are not fully resolved by the appended rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "Contract route expressly invites citizens of India. Deputation route invites eligible serving officials of specified public bodies but does not print a separate nationality rule. A foreign citizen cannot use the contract route; deputation access needs authority and current-employer verification.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang and deputation candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Choose contract or deputation route. Contract requires Indian citizenship; deputation requires eligible existing service, employer forwarding/NOC, APARs and vigilance clearance. Verify branch-specific qualifications, age and any relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-sg2-library",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (SG-II) (Library) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "Level 5 on deputation; ₹47,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (Civil)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician family, at Srinagar (Garhwal), Uttarakhand. One-year contract route is advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "2 indicative Technician (Civil) vacancies; ₹35,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant science 10+2 with 60%; or 10+2 with 50% plus at least one-year ITI; or Class 10 with 60% plus two-year ITI; or three-year engineering diploma, under annexed 2019 rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "These posts are advertised on contract. Page 1 limits contractual applicants to citizens of India; foreign citizens do not meet the published application criterion.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NIT Uttarakhand advertisement 08/2026 page 1: contractual applicants must be citizens of India; Technician and Junior Assistant are contract-only rows."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian citizenship, branch-specific 2019 qualification, fee exemption if claimed, age and reservation documents. Foreign citizens fail the printed contractual route."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-civil",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (Civil) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "appointmentType": "contract",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "₹35,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (Electrical)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician family, at Srinagar (Garhwal), Uttarakhand. One-year contract route is advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technician (Electrical) vacancy; ₹35,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant science 10+2 with 60%; or 10+2 with 50% plus at least one-year ITI; or Class 10 with 60% plus two-year ITI; or three-year engineering diploma, under annexed 2019 rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "These posts are advertised on contract. Page 1 limits contractual applicants to citizens of India; foreign citizens do not meet the published application criterion.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NIT Uttarakhand advertisement 08/2026 page 1: contractual applicants must be citizens of India; Technician and Junior Assistant are contract-only rows."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian citizenship, branch-specific 2019 qualification, fee exemption if claimed, age and reservation documents. Foreign citizens fail the printed contractual route."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-electrical",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (Electrical) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "appointmentType": "contract",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "₹35,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Technician (Electronics)",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Technician family, at Srinagar (Garhwal), Uttarakhand. One-year contract route is advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "1 indicative Technician (Electronics) vacancy; ₹35,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Relevant science 10+2 with 60%; or 10+2 with 50% plus at least one-year ITI; or Class 10 with 60% plus two-year ITI; or three-year engineering diploma, under annexed 2019 rules. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "These posts are advertised on contract. Page 1 limits contractual applicants to citizens of India; foreign citizens do not meet the published application criterion.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NIT Uttarakhand advertisement 08/2026 page 1: contractual applicants must be citizens of India; Technician and Junior Assistant are contract-only rows."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian citizenship, branch-specific 2019 qualification, fee exemption if claimed, age and reservation documents. Foreign citizens fail the printed contractual route."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-technician-electronics",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Technician (Electronics) — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "appointmentType": "contract",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "No formal language proficiency level, language certificate or written-test medium is stated. English notice publication is not an applicant language requirement.",
+      "salary": "₹35,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "08/2026 · Junior Assistant",
+      "programme": "NIT Uttarakhand non-teaching staff 2026",
+      "status": "open",
+      "statusNote": "Exact 2026 advertisement and recruitment-register row retained. Annexed 2019 recruitment rules include scanned pages; branch and route eligibility need founder review. No test venue or test language published.",
+      "scopeLabel": "One distinct online portal post choice in the Junior Assistant family, at Srinagar (Garhwal), Uttarakhand. One-year contract route is advertised. Job location is not applicant domicile or a published test venue.",
+      "outcome": "3 indicative Junior Assistant vacancies; ₹35,000 monthly consolidated on contract. Initial one-year appointment may be extended; permanent government employment is not promised.",
+      "qualifications": "Recognized 10+2, typing speed of at least 35 words per minute, and computer word-processing and spreadsheet proficiency. Notice does not state typing language. Age and all qualifications are reckoned on 2026-11-04; category relaxations and route-specific 2019 rules require review.",
+      "citizenshipRule": "These posts are advertised on contract. Page 1 limits contractual applicants to citizens of India; foreign citizens do not meet the published application criterion.",
+      "residenceRule": "No applicant Uttarakhand domicile rule is printed. Srinagar (Garhwal) is the work and postal location, not a residence criterion.",
+      "selectionStages": [
+        "Separate online registration for this portal post choice",
+        "Print form; send signed hard copy, fee proof and self-attested documents by 11 November 2026 at 17:30",
+        "Document screening",
+        "Written test in relevant field",
+        "Trade test for shortlisted candidates",
+        "Document and appointment checks"
+      ],
+      "fee": "₹250 online per application; SC/ST/women/Divyaang candidates are exempt. Prior 06/2024 applicants must apply again and may claim fee exemption with earlier fee proof.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-04",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "NIT Uttarakhand advertisement 08/2026 page 1: contractual applicants must be citizens of India; Technician and Junior Assistant are contract-only rows."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Indian citizenship, branch-specific 2019 qualification, fee exemption if claimed, age and reservation documents. Foreign citizens fail the printed contractual route."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm written-test and trade-test shortlisting, relevant specialization and document verification; test medium and venue are not published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm final appointment, employer release where applicable, one-year term and service conditions; test success alone does not grant the post."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written/trade test venue not published; Srinagar is work and postal address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://recruitment-nt.nituk.ac.in/",
+      "changes": [],
+      "id": "nituk-nt08-2026-junior-assistant",
+      "sourceId": "in-ut-nituk-nt08-2026",
+      "title": "Junior Assistant — NIT Uttarakhand",
+      "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-UT"
+      ],
+      "appointmentType": "contract",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-11-04",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Advertisement 08/2026 page 1: online application closes 2026-11-04 without clock time. Required signed hard copy and documents must reach Registrar by 2026-11-11 at 17:30; governing timezone not printed. Notice issue date is not assumed to be application opening."
+      },
+      "languageNote": "Junior Assistant annexed rule requires 35 w.p.m. typing but names no typing language. No formal language proficiency level, language certificate or written-test medium is stated.",
+      "salary": "₹35,000 monthly consolidated on contract",
+      "sources": [
+        {
+          "id": "in-ut-nituk-nt08-2026:ec03df33da45",
+          "title": "NIT Uttarakhand recruitment register, advertisement 08/2026",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://nituk.ac.in/recruitments",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/recruitments",
+          "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:32.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ut-nituk-nt08-2026:16aa8711bd37",
+          "title": "Advertisement 08/2026 and annexed 2019 recruitment rules",
+          "authority": "National Institute of Technology Uttarakhand, Ministry of Education",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+          "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+          "lastSuccessfulFetchAt": "2026-09-25T11:48:35.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://nituk.ac.in/recruitments",
+      "fetchedAt": "2026-09-25T11:48:32.225Z",
+      "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 99916
+    },
+    {
+      "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+      "fetchedAt": "2026-09-25T11:48:35.245Z",
+      "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+      "contentType": "application/pdf",
+      "bytes": 2274213
+    }
+  ],
+  "warnings": [
+    "The public application portal offers 15 distinct post choices for 21 indicative vacancies across five post families; portal option labels were inspected without applicant registration. Branch-specific form identity needs founder confirmation before approval.",
+    "Contract applicants must be Indian citizens. Deputation nationality is not separately printed; eligible existing service and employer release require individual verification.",
+    "The online deadline has date precision only. Hard-copy receipt by 11 November 17:30 is a separate mandatory step; no governing timezone is printed.",
+    "Technician (SG-II) annexed rule has no direct-recruitment qualification, while current advertisement offers contract pay; contract-route criteria require founder/authority reconciliation.",
+    "Advertisement 06/2024 is a prior edition; its applicants must register again and are not imported as current applications.",
+    "Other NIT Uttarakhand recruitments and later corrigenda remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "nituk-nt08-2026-superintendent": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "19097c4a2fbb9c47edd16065e488b5a7072a291fa3403f796b2e6d24044376ae"
+    },
+    "nituk-nt08-2026-technical-assistant-civil": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "5f70c53cdcdb713dedef9295fba53193ee568b7890afb901f65e6b4a42e17b92"
+    },
+    "nituk-nt08-2026-technical-assistant-electrical": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "d2d4e20886ac35edb287a31f070a8e338537d325b9796fb1230746a378415630"
+    },
+    "nituk-nt08-2026-technical-assistant-electronics": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "98bd3c9b6a5045c5648860e4126157552838c6eb602a6aa9886f5d4540d2009a"
+    },
+    "nituk-nt08-2026-technical-assistant-cse": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "5bd2a65e0b25994d893751392a3af28a2c5e69942ab9b7f019606b2721202445"
+    },
+    "nituk-nt08-2026-technical-assistant-mechanical": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "9a58e457341a7155d2414b6d240c3dae8859dda29e8f56e495841d421e04da68"
+    },
+    "nituk-nt08-2026-technician-sg2-cse": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "936f6e45a2d75b86f43beacc94f48280bc8b4a0bc2cf6ff2ad0406132c8ad06d"
+    },
+    "nituk-nt08-2026-technician-sg2-electronics": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "b171e3a10966c74bcba45e99c250b32424ad26834ccb731dcae43c6b3df8468d"
+    },
+    "nituk-nt08-2026-technician-sg2-electrical": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "fb25abe718ef63b03c04854ebc0cfd5076af1b76851a906b7fa787511f9f96e4"
+    },
+    "nituk-nt08-2026-technician-sg2-mechanical": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "ca51106116bd95315b49c22c6315b8afdcaadf6af6a440678e5617aa6b5a45c7"
+    },
+    "nituk-nt08-2026-technician-sg2-library": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "71b358d3694bb31480be00ac3be585c7d195c961067a801e02f982157f5ad0a9"
+    },
+    "nituk-nt08-2026-technician-civil": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "bb5ce64a4fcf598b85b49202919878a0f1229914c6ba344de07b66671dcb40f6"
+    },
+    "nituk-nt08-2026-technician-electrical": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "9d49c7f25831ceac06b2145d18a6a4f724257aa260e34b1b1e8487769da33dae"
+    },
+    "nituk-nt08-2026-technician-electronics": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "c923164f5f7cf54009505f8f37e23ab5a6ce7a30f1dcdeaf46c9a8721bd92c37"
+    },
+    "nituk-nt08-2026-junior-assistant": {
+      "evidenceRevision": "322f363124237da8b807490e38faf0b38e5dc461beaa5390a7dd037f2bc6b591",
+      "recordRevision": "242ea24d78c3eb57174c8044b698c8920cca875d70efbcb03c06267e9c35a6fc"
+    }
+  }
+}

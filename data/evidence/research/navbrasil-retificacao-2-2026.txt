@@ -1,0 +1,258 @@
+                                          EDITAL Nº 03/2026
+
+              CONCURSO PÚBLICO DESTINADO AO PROVIMENTO DE CARGOS EFETIVOS
+                     DA NAV BRASIL SERVIÇOS DE NAVEGAÇÃO AÉREA S.A
+
+                                           2ª RETIFICAÇÃO
+
+
+A PRESIDENTE DA COMISSÃO ORGANIZADORA DO CONCURSO PÚBLICO DA NAV BRASIL, no uso de
+suas atribuições, tendo em vista o disposto no item 20.10 do Edital de Abertura nº 01/2026, publicado
+no dia 24 de abril de 2026, torna pública a seguinte retificação ao edital supracitado, cujas alterações
+estão a seguir elencadas:
+
+
+No ANEXO I – DAS ATRIBUIÇÕES E REQUISITOS DOS CARGOS - ONDE SE LÊ:
+
+
+ Engenheiro      Projetar, desenvolver, testar e manter softwares         Superior Completo em
+ Software        críticos de controle, monitoramento e apoio, com         Engenharia da
+                 documentação e revisão de código, segurança da           Computação. Registro ativo
+                 informação, interoperabilidade, gestão de prazos e       no Conselho Regional de
+                 custos e melhoria contínua baseada em dados, em          Engenharia e Agronomia
+                 conformidade regulatória.                                (CREA).
+
+
+LEIA-SE:
+
+
+ Engenheiro      Projetar, desenvolver, testar e manter softwares          Superior Completo em
+ Software        críticos de controle, monitoramento e apoio, com          Engenharia de Software.
+                 documentação e revisão de código, segurança da            Registro ativo no
+                 informação, interoperabilidade, gestão de prazos e        Conselho Regional de
+                 custos e melhoria contínua baseada em dados, em           Engenharia e Agronomia
+                 conformidade regulatória.                                 (CREA).
+
+
+
+No ANEXO II – CONTEÚDO PROGRAMÁTICO - CARGOS DE NÍVEL MÉDIO - Língua Inglesa - ONDE SE LÊ:
+
+1. COMPREENSÃO E INTERPRETAÇÃO DE TEXTOS EM LÍNGUA INGLESA: Compreensão geral e específica
+de textos técnicos e institucionais, incluindo documentos utilizados no comércio exterior e
+correspondência comercial. Identificação de ideias principais e secundárias. 2. ESTRATÉGIAS DE
+LEITURA: skimming (leitura global); scanning (busca de informações específicas). Inferência de
+informações implícitas. Identificação de palavras-chave e uso do contexto para dedução de significado.
+Conhecimento de terminologia básica de comércio internacional. Uso de vocabulário relacionado a
+exportação, importação e logística internacional. Sinonímia e antonímia. 3. COERÊNCIA E COESÃO:
+concordância nominal e verbal; uso de conectores e marcadores discursivos. Conhecimento de
+expressões idiomáticas, de preposições, de tempos e modos verbais mais frequentes em textos
+técnicos; uso da voz passiva e função de verbos modais. Formação de palavras (prefixos e sufixos).
+Cognatos e falsos cognatos.
+
+LEIA-SE:
+1. COMPREENSÃO E INTERPRETAÇÃO DE TEXTOS EM LÍNGUA INGLESA: Compreensão geral e específica
+de textos técnicos e institucionais. Identificação de ideias principais e secundárias. 2. ESTRATÉGIAS DE
+LEITURA: skimming (leitura global); scanning (busca de informações específicas). Inferência de
+informações implícitas. Identificação de palavras-chave e uso do contexto para dedução de significado.
+Conhecimento de terminologia básica de comércio internacional. Uso de vocabulário relacionado a
+exportação, importação e logística internacional. Sinonímia e antonímia. 3. COERÊNCIA E COESÃO:
+concordância nominal e verbal; uso de conectores e marcadores discursivos. Conhecimento de
+expressões idiomáticas, de preposições, de tempos e modos verbais mais frequentes em textos
+técnicos; uso da voz passiva e função de verbos modais. Formação de palavras (prefixos e sufixos).
+Cognatos e falsos cognatos.
+
+
+No ANEXO II – CONTEÚDO PROGRAMÁTICO - CARGOS DE NÍVEL SUPERIOR - Conhecimentos Específicos
+– ONDE SE LÊ:
+
+Engenheiro - Mecânico
+1. SISTEMAS ESPECÍFICOS DA AVIAÇÃO CIVIL: 1.1. Sistemas de Elevação e Transporte Vertical: Princípios
+de operação, componentes e manutenção de elevadores e montacargas. Normas de segurança (ABNT
+NBR NM 207, NBR 14799). Inspeção e procedimentos corretivos. 1.2. Sistemas de Climatização de
+Grande Porte: Operação e manutenção de sistema central de ar condicionado. Cálculos de carga
+térmica, componentes principais (chillers, torres de resfriamento, fan coils, dutos), eficiência
+energética e controle ambiental para salas de equipamentos e ambientes operacionais. 2. MOTORES,
+GERADORES E SISTEMAS DE ACIONAMENTO: 2.1. Motores Diesel e Elétricos: Ciclos termodinâmicos,
+componentes, sistemas de alimentação, ignição/injeção, arrefecimento e escapamento. Curvas de
+desempenho e eficiência. Aplicações em grupos geradores e sistemas de emergência. 2.2. Geradores
+e Sistemas de Força Motriz: Princípio de funcionamento de geradores síncronos e assíncronos.
+Regulação de tensão e frequência. Acoplamento motor-gerador. Quadros de comando, controle e
+proteção: disjuntores, relés de proteção, sistemas de sincronismo e transferência automática (ATS).
+2.3. Sistemas de Transmissão de Potência e Elementos de Máquinas: Dimensionamento de eixos,
+mancais e rolamentos (cálculo de vida útil, cargas estáticas e dinâmicas). Transmissão por correias e
+engrenagens: seleção, cálculo de relações, rendimento e manutenção. 3. LUBRIFICAÇÃO,
+REFRIGERAÇÃO E TÉCNICAS DE INSPEÇÃO: 3.1. Lubrificantes e Lubrificação Industrial: Propriedades dos
+lubrificantes (viscosidade, índice de viscosidade, ponto de fulgor). Sistemas de lubrificação (por banho,
+por circulação, graxa). Seleção de lubrificantes para diferentes aplicações (motores, redutores,
+rolamentos). Controle de contaminação. 3.2. Sistema de Refrigeração de Motores: Componentes do
+sistema (radiador, bomba d'água, termostato, ventilador). Cálculo de capacidade de troca térmica.
+Fluidos refrigerantes e sua manutenção. 3.3. Ensaios Não Destrutivos (END): Princípios e aplicações dos
+principais métodos: líquidos penetrantes, partículas magnéticas, ultrassom, radiografia industrial e
+correntes parasitas. Interpretação de resultados e normas técnicas aplicáveis. 4. GESTÃO DA
+MANUTENÇÃO E DE MATERIAIS: 4.1. Fundamentos e Estratégias de Manutenção Industrial: Conceitos
+de manutenção preventiva e corretiva, preditiva e detectiva. Programação e execução de serviços de
+manutenção. Organização de manutenção em sistemas de operação contínua (H24), planejamento de
+paradas e garantia de disponibilidade. 4.2. Gestão da Manutenção e dos Ativos: Conceitos de Gestão
+de Ativos Físicos conforme normas (PAS 55, ISO 55000). Indicadores de desempenho da manutenção
+(MTBF, MTTR, disponibilidade). Custo do ciclo de vida (LCC). 4.3. Administração de Materiais Técnicos:
+Planejamento e controle de materiais técnicos de consumo. Gestão de estoques (curva ABC, estoque
+de segurança). Especificação técnica de peças e insumos. Logística de suprimentos. 4.4. Administração
+de Contratos: Elaboração de termos de referência e especificações técnicas para contratos de
+manutenção e serviços. Acompanhamento técnico, fiscalização e medição de serviços contratados.
+Interface com a Lei de Licitações (Lei nº 14.133/2021). 5. SEGURANÇA, SAÚDE NO TRABALHO E GESTÃO
+DE EQUIPES: 5.1. Normas de Saúde e Segurança no Trabalho: Aplicação das Normas Regulamentadoras
+(NRs), com ênfase na NR-12 (Segurança no Trabalho em Máquinas e Equipamentos) e NR-10
+(Segurança em Instalações e Serviços em Eletricidade). Análise de Risco e Permissão de Trabalho. 5.2.
+Liderança e Gerenciamento de Recursos: Liderança de equipes técnicas. Gestão de conflitos.
+Planejamento e alocação de recursos humanos e materiais. Comunicação técnica eficaz.
+
+LEIA-SE:
+
+Engenheiro - Mecânico
+1. SISTEMAS ESPECÍFICOS DA AVIAÇÃO CIVIL: 1.1. Sistemas de Elevação e Transporte Vertical: Princípios
+de operação, componentes e manutenção de elevadores e montacargas. Inspeção e procedimentos
+corretivos. 1.2. Sistemas de Climatização de Grande Porte: Operação e manutenção de sistema central
+de ar condicionado. Cálculos de carga térmica, componentes principais (chillers, torres de
+resfriamento, fan coils, dutos), eficiência energética e controle ambiental para salas de equipamentos
+e ambientes operacionais. 2. MOTORES, GERADORES E SISTEMAS DE ACIONAMENTO: 2.1. Motores
+Diesel e Elétricos: Ciclos termodinâmicos, componentes, sistemas de alimentação, ignição/injeção,
+arrefecimento e escapamento. Curvas de desempenho e eficiência. Aplicações em grupos geradores e
+sistemas de emergência. 2.2. Geradores e Sistemas de Força Motriz: Princípio de funcionamento de
+geradores síncronos e assíncronos. Regulação de tensão e frequência. Acoplamento motor-gerador.
+Quadros de comando, controle e proteção: disjuntores, relés de proteção, sistemas de sincronismo e
+transferência automática (ATS). 2.3. Sistemas de Transmissão de Potência e Elementos de Máquinas:
+Dimensionamento de eixos, mancais e rolamentos (cálculo de vida útil, cargas estáticas e dinâmicas).
+Transmissão por correias e engrenagens: seleção, cálculo de relações, rendimento e manutenção. 3.
+LUBRIFICAÇÃO, REFRIGERAÇÃO E TÉCNICAS DE INSPEÇÃO: 3.1. Lubrificantes e Lubrificação Industrial:
+Propriedades dos lubrificantes (viscosidade, índice de viscosidade, ponto de fulgor). Sistemas de
+lubrificação (por banho, por circulação, graxa). Seleção de lubrificantes para diferentes aplicações
+(motores, redutores, rolamentos). Controle de contaminação. 3.2. Sistema de Refrigeração de
+Motores: Componentes do sistema (radiador, bomba d'água, termostato, ventilador). Cálculo de
+capacidade de troca térmica. Fluidos refrigerantes e sua manutenção. 3.3. Ensaios Não Destrutivos
+(END): Princípios e aplicações dos principais métodos: líquidos penetrantes, partículas magnéticas,
+ultrassom, radiografia industrial e correntes parasitas. Interpretação de resultados e normas técnicas
+aplicáveis. 4. GESTÃO DA MANUTENÇÃO E DE MATERIAIS: 4.1. Fundamentos e Estratégias de
+Manutenção Industrial: Conceitos de manutenção preventiva e corretiva, preditiva e detectiva.
+Programação e execução de serviços de manutenção. Organização de manutenção em sistemas de
+operação contínua (H24), planejamento de paradas e garantia de disponibilidade. 4.2. Gestão da
+Manutenção e dos Ativos: Conceitos de Gestão de Ativos Físicos conforme normas (PAS 55, ISO 55000).
+Indicadores de desempenho da manutenção (MTBF, MTTR, disponibilidade). Custo do ciclo de vida
+(LCC). 4.3. Administração de Materiais Técnicos: Planejamento e controle de materiais técnicos de
+consumo. Gestão de estoques (curva ABC, estoque de segurança). Especificação técnica de peças e
+insumos. Logística de suprimentos. 4.4. Administração de Contratos: Elaboração de termos de
+referência e especificações técnicas para contratos de manutenção e serviços. Acompanhamento
+técnico, fiscalização e medição de serviços contratados. Interface com a Lei de Licitações (Lei nº
+14.133/2021). 5. SEGURANÇA, SAÚDE NO TRABALHO E GESTÃO DE EQUIPES: 5.1. Normas de Saúde e
+Segurança no Trabalho: Aplicação das Normas Regulamentadoras (NRs), com ênfase na NR-12
+(Segurança no Trabalho em Máquinas e Equipamentos) e NR-10 (Segurança em Instalações e Serviços
+em Eletricidade). Análise de Risco e Permissão de Trabalho. 5.2. Liderança e Gerenciamento de
+Recursos: Liderança de equipes técnicas. Gestão de conflitos. Planejamento e alocação de recursos
+humanos e materiais. Comunicação técnica eficaz.
+
+No ANEXO II – CONTEÚDO PROGRAMÁTICO - CARGOS DE NÍVEL SUPERIOR - Conhecimentos Específicos
+– INCLUI-SE:
+
+Engenheiro – Software
+1. ENGENHARIA DE SOFTWARE E DESENVOLVIMENTO DE SISTEMAS: 1.1 Fundamentos de Engenharia
+de Software. 1.2 Ciclo de vida de desenvolvimento de software (tradicional, ágil e híbrido). 1.3
+Arquitetura de software: arquiteturas em camadas; arquitetura orientada a serviços (SOA);
+microsserviços; arquitetura hexagonal. 1.4 Qualidades arquiteturais e trade-offs: desempenho,
+escalabilidade, disponibilidade, confiabilidade, manutenibilidade e testabilidade; decisões de
+arquitetura. 1.5 Princípios de projeto e boas práticas: coesão, acoplamento, modularidade; Clean Code;
+refatoração; padrões de projeto (GoF). 1.6 Desenvolvimento orientado a objetos (conceitos). 1.7
+Desenvolvimento de aplicações web e APIs: RESTful APIs; JSON e XML; documentação de APIs
+(OpenAPI/Swagger). 1.8 Integração e interoperabilidade de sistemas: contratos de integração;
+compatibilidade e evolução versionada; gestão de dependências (conceitos). 1.9 Controle de versão e
+gestão de configuração (Git); estratégias de integração de mudanças. 1.10 Revisão de código: objetivos,
+critérios de qualidade e prevenção de defeitos. 2. ENGENHARIA DE REQUISITOS E DOCUMENTAÇÃO
+TÉCNICA: 2.1 Conceitos e classificação de requisitos (funcionais e não funcionais). 2.2 Processo de
+engenharia de requisitos: elicitação, análise, validação e negociação. 2.3 Gerenciamento de requisitos:
+priorização; controle de mudanças; conceitos de versionamento de requisitos. 2.4 Rastreabilidade de
+requisitos e impactos de mudança. 2.5 Documentação técnica ao longo do ciclo de vida: especificações;
+conceitos de registros de decisão (ADRs); manuais e documentação de suporte à operação e
+manutenção. 3. QUALIDADE, TESTES, VERIFICAÇÃO E VALIDAÇÃO DE SOFTWARE: 3.1 Fundamentos de
+qualidade de software. 3.2 Tipos e níveis de testes: unitário, integração, sistema e aceitação. 3.3
+Estratégias de testes automatizados (conceitos) e pirâmide de testes. 3.4 Test-driven development
+(TDD – conceito). 3.5 Testes em ambientes ágeis: critérios de aceitação; Definition of Done (conceitos).
+3.6 Verificação e validação (V&V): objetivos, evidências e rastreabilidade (conceitos). 3.7 Testes de
+desempenho e confiabilidade: métricas, análise de resultados e correção de falhas (conceitos). 3.8
+Simulações e testes para validação de comportamento do sistema em cenários operacionais
+(conceitos). 4. MÉTODOS ÁGEIS E GESTÃO DO DESENVOLVIMENTO: 4.1 Manifesto Ágil e princípios. 4.2
+Scrum: papéis, eventos e artefatos. 4.3 Kanban e gestão de fluxo. 4.4 Conceitos de Extreme
+Programming (XP). 4.5 Conceitos de Métricas Ágeis (story points, velocidade, lead time/cycle time). 4.6
+Planejamento e acompanhamento de entregas: estimativas, priorização e gestão de riscos (conceitos).
+5. BANCO DE DADOS E GESTÃO DE DADOS: 5.1 Modelagem de dados: conceitual, lógica e física
+(conceitos). 5.2 Modelo relacional e normalização (conceitos). 5.3 SQL: DDL e DML (conceitos). 5.4
+Integridade e transações (conceitos). 5.5 Bancos de dados NoSQL (conceitos e aplicações). 5.6
+Integração de dados (ETL/ELT). 5.7 Conceitos de armazenamento e análise de dados (data warehouse
+e data lake). 6. DEVOPS E OPERABILIDADE: 6.1 Fundamentos de DevOps e integração/entrega contínua;
+conceitos de CI/CD. 6.2 Pipelines de build, testes e deploy (visão conceitual). 6.3 Containers e
+virtualização (conceitos). 6.4 Observabilidade e monitoramento: logs, métricas e traces (conceitos);
+rastreabilidade em produção (conceitos). 6.5 Monitoramento de desempenho e melhoria contínua
+baseada em dados e feedback (conceitos). 6.6 Gestão de incidentes (conceitos): detecção,
+comunicação, contenção e análise pós-incidente (post-mortem – conceito). 7. SEGURANÇA DA
+INFORMAÇÃO APLICADA AO DESENVOLVIMENTO: 7.1 Princípios de segurança: confidencialidade,
+integridade e disponibilidade. 7.2 Controle de acesso e autenticação (OAuth2, SSO – conceitos). 7.3
+OWASP Top 10. 7.4 Ciclo de desenvolvimento seguro (Secure SDLC) e integração de segurança ao ciclo
+de vida. 7.5 Análise de código e segurança de aplicações: análise estática e dinâmica (SAST/DAST). 7.6
+Gestão de vulnerabilidades: identificação, priorização, mitigação e correção (conceitos). 7.7 Gestão de
+riscos em segurança da informação (conceitos). 7.8 Normas ISO/IEC 27001 e 27002 (conceitos). 8.
+GOVERNANÇA, CONFORMIDADE E CONTEXTO DE SISTEMAS CRÍTICOS: 8.1 Governança de TI (COBIT
+2019 – conceitos). 8.2 Gerenciamento de serviços (ITIL v4 – conceitos). 8.3 Gerenciamento de projetos:
+conceitos gerais; abordagens preditiva, ágil e híbrida. 8.4 Modelagem de processos (BPMN). 8.5
+Conformidade e padrões técnicos: documentação e evidências para auditorias, validações e processos
+de aceitação (conceitos). 8.6 Continuidade, disponibilidade e evolução controlada em ambientes
+críticos (conceitos). 8.7 Integração com sistemas de terceiros e gestão de níveis de serviço (SLAs –
+conceitos); mitigação de dependência tecnológica (conceitos). 8.8 Noções de sistemas críticos no
+contexto de navegação aérea: requisitos não funcionais, interoperabilidade e confiabilidade (visão
+conceitual). 8.9 Inglês Técnico Aplicado: Leitura de documentação técnica, logs e especificações;
+vocabulário internacional de TI; alfabeto fonético ICAO e siglas aeronáuticas essenciais; consistência
+terminológica; uso de documentação internacional. 9. EXPERIÊNCIA DO USUÁRIO, USABILIDADE E
+ACESSIBILIDADE: 9.1 Conceitos de UX e usabilidade. 9.2 Acessibilidade em aplicações. 9.3 Arquitetura
+da informação. 9.4 Critérios de aceitação e consistência de interfaces (noções).
+
+No ANEXO II – CONTEÚDO PROGRAMÁTICO - CARGOS DE NÍVEL SUPERIOR – Conhecimentos
+Específicos – INCLUI-SE:
+
+Engenheiro – Civil
+1. MECÂNICA DOS SÓLIDOS E ESTRUTURAS: 1.1 Estruturas de concreto: propriedades do concreto e do
+aço; dimensionamento básico (NBR 6118 – conceitos); Estados Limites (Último e de Serviço);
+detalhamento de armaduras. 1.2 Estruturas metálicas: dimensionamento e comportamento estrutural;
+Tipos de perfis; ligações (parafusadas/soldadas); proteção contra corrosão e incêndio (NBR 8800). 2.
+GEOTECNIA E FUNDAÇÕES: 2.1 Mecânica dos solos: propriedades físicas e mecânicas dos solos;
+compactação e permeabilidade. 2.2 Empuxos de terra. 2.2 Fundações: superficiais e profundas;
+capacidade de carga. 2.3 Investigação do subsolo: Sondagem SPT; recalques; (NBR 6122). 3.
+HIDRÁULICA E SANEAMENTO: 3.1 Sistemas de abastecimento de água: distribuição; instalações
+prediais de água fria e quente (NBR 5626). 3.4 Sistemas de esgotamento sanitário: Redes de coleta e
+tratamento; instalações prediais de esgoto e ventilação (NBR 8160). 3.5 Drenagem urbana: Hidrologia
+aplicada; micro e macrodrenagem; águas pluviais em edifícios (NBR 10844). 4. MATERIAIS E
+TECNOLOGIA DAS CONSTRUÇÕES: 4.1 Materiais de construção: concreto, aço, madeira e materiais
+alternativos. 4.2 Tecnologia do concreto: dosagem, produção e controle tecnológico; métodos de
+traço; transporte, lançamento, adensamento e cura; ensaios em estado fresco e endurecido. 4.3
+Patologia das construções: manifestações patológicas e recuperação; diagnóstico de patologias em
+estruturas, revestimentos e vedações; técnicas de reforço estrutural. 4.4 Perícias de Engenharia:
+Laudos periciais e vistorias cautelares (NBR 13752); Inspeção predial e saúde das edificações (NBR
+16747). 5. PLANEJAMENTO E GESTÃO DE OBRAS: 5.1 Planejamento de obras: planejamento
+físicofinanceiro; Gráfico de Gantt; Curva S. 5.2 Orçamento de obras: composição de custos; BDI;
+encargos sociais; uso de sistemas de referência (SINAPI/SICRO). 5.3 Execução e fiscalização de obras.
+5.4 Gestão de contratos: Acompanhamento contratual; aditivos; equilíbrio econômico-financeiro;
+aplicação da lei que dispõe sobre o estatuto jurídico das empresas estatais (Lei nº 13.303/2016). 6.
+TOPOGRAFIA: 6.1 Levantamentos topográficos: planimetria e altimetria; equipamentos (estação total,
+nível, GNSS). 6.2 Georreferenciamento: Normas para certificação de imóveis; precisão e acurácia
+posicional (Decreto nº 9.310/2018, NBR 17047, NBR 13133 e NBR 14166). 7. NORMAS TÉCNICAS E
+LEGISLAÇÃO: 7.1 Normas ABNT aplicadas à construção civil: Manutenção (NBR 5674), Desempenho
+(NBR 15575), Manual de Operação (NBR 14037) e Acessibilidade (NBR 9050). 7.2 Licenciamento e
+legislação urbana: Código de Obras; licenciamento ambiental; Plano Diretor e parcelamento do solo.
+7.3 Segurança do trabalho na construção (NRs): Normas Regulamentadoras (NR-18, NR-35, NR-10, NR-
+12). 8. TECNOLOGIA E INOVAÇÃO NA ENGENHARIA CIVIL: 8.1 BIM (Building Information Modeling):
+conceitos e aplicações; interoperabilidade e aplicações em projetos e manutenção de ativos. 8.2
+Sustentabilidade na construção: Eficiência energética; certificações (LEED, Procel Edifica); gestão de
+resíduos sólidos da construção civil (CONAMA 307).
+
+
+                                 Rio de Janeiro, 08 de maio de 2026.
+
+
+                                    Valeska Barbedo de Oliveira
+                     Presidente da Comissão Organizadora do Concurso Público
+

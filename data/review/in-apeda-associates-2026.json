@@ -1,0 +1,285 @@
+{
+  "sourceId": "in-apeda-associates-2026",
+  "collectedAt": "2026-09-26T19:20:46.207Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Notice 2026-08-27 · PAD-2023-24-000091",
+      "programme": "APEDA Associate (Legal) contract recruitment",
+      "status": "closed",
+      "statusNote": "Original August notice and current/archive indexes retained. NCS still lists this notice after its printed deadline. No approval recorded; later document-row changes stop extraction.",
+      "scopeLabel": "Central-government autonomous authority contract in New Delhi; location does not establish applicant domicile or interview venue.",
+      "outcome": "One Associate (Legal) vacancy. Initial one-year contract includes three-week probation; performance-based yearly extensions cannot exceed three years. No right to subsequent government employment.",
+      "qualifications": "Essential: LL.B.; at least two years relevant work experience; basic intellectual-property law knowledge; effective, clear verbal and written communication; ability to meet strict deadlines and work under pressure. LL.M. or related law Master's and prior intellectual-property work are desirable. Upper age limit 45; notice gives no age reckoning date or relaxation rules.",
+      "citizenshipRule": "Notice does not specify permitted citizenships or an international-applicant route. Nationality field on form is not permission; verify with APEDA.",
+      "residenceRule": "No applicant domicile or residence requirement stated. New Delhi is work location; international appointment/work authorization requires verification.",
+      "selectionStages": [
+        "Email one typed and signed prescribed application, scanned CV and self-attested documents; mention position applied for",
+        "APEDA screening; only shortlisted candidates contacted by email for interview",
+        "Interview arrangements communicated separately",
+        "Qualification and experience verification, police verification report and medical fitness certificate before engagement"
+      ],
+      "fee": "No application fee stated in retained notice; confirm with APEDA.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify citizenship route, age reckoning date, required LL.B. and relevant experience, intellectual-property knowledge and communication skills; complete prescribed form and deadline procedure."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not guarantee interview. Confirm shortlist, venue and any language expectations; no formal language level is printed."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify international work authorization, document checks, police verification, medical fitness and final contract terms; no permanent employment right."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; APEDA office address is not an interview location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+      "changes": [],
+      "id": "apeda-associate-legal-2026-08",
+      "sourceId": "in-apeda-associates-2026",
+      "title": "Associate (Legal) — APEDA",
+      "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-09",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Notice gives 2026-09-09 by 1700 hrs. Official timezone is not stated. Notice date is not a confirmed opening date. Office hours are not an application cutoff."
+      },
+      "languageNote": "Legal notice requires clear verbal and written communication but names no mandatory language or standardized proficiency level. Form asks languages known with proficiency; that field alone adds no language criterion.",
+      "salary": "₹90,000–₹1,20,000 per month, inclusive of applicable taxes; no other facility or allowance.",
+      "workLocations": [
+        "APEDA, New Delhi"
+      ],
+      "sources": [
+        {
+          "id": "in-apeda-associates-2026:2e6f5e88e265",
+          "title": "APEDA recruitment and appointment index",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apeda.gov.in/recruitment-appointment",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/recruitment-appointment",
+          "sha256": "6c25c300e52c33a24d140155a9a9a596743e214ea32b4b4cfc9ea2cae58a52bf",
+          "lastSuccessfulFetchAt": "2026-09-26T19:20:48.022Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-apeda-associates-2026:53fc6277156b",
+          "title": "APEDA recruitment archive: separate prior editions",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apeda.gov.in/recruitment-appointment-archive",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/recruitment-appointment-archive",
+          "sha256": "c2bff657db12a7276158c379c28fac63053a59459eb91ee2ada561dda35179fe",
+          "lastSuccessfulFetchAt": "2026-09-26T19:20:49.609Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-apeda-associates-2026:35a4a434f0a8",
+          "title": "APEDA Associate (Legal) notice 2026-08-27 and prescribed form",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+          "sha256": "1864645263621cb83506f0508bbe9dd0a792d7437e0fe91ea420e45bb00e92d6",
+          "lastSuccessfulFetchAt": "2026-09-26T19:20:55.111Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "email"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Notice 2026-08-11 · PAD-2023-24-000091",
+      "programme": "APEDA Associate (Trade) contract recruitment",
+      "status": "closed",
+      "statusNote": "Original August notice and current/archive indexes retained. NCS still lists this notice after its printed deadline. No approval recorded; later document-row changes stop extraction.",
+      "scopeLabel": "Central-government autonomous authority contract in New Delhi; location does not establish applicant domicile or interview venue.",
+      "outcome": "One Associate (Trade) vacancy. Initial one-year contract includes three-week probation; performance-based yearly extensions cannot exceed three years. No right to subsequent government employment.",
+      "qualifications": "Essential: Master's in economics, agricultural economics, international trade or related field; at least two years post-Master's work experience in relevant discipline, including Tableau, Power BI or similar visualization tools and proficiency in spreadsheets and presentation suites. Market intelligence, data analysis, agriculture and market-access experience is desirable. Upper age limit 45; notice gives no age reckoning date or relaxation rules.",
+      "citizenshipRule": "Notice does not specify permitted citizenships or an international-applicant route. Nationality field on form is not permission; verify with APEDA.",
+      "residenceRule": "No applicant domicile or residence requirement stated. New Delhi is work location; international appointment/work authorization requires verification.",
+      "selectionStages": [
+        "Email one typed and signed prescribed application, scanned CV and self-attested documents; mention position applied for",
+        "APEDA screening; only shortlisted candidates contacted by email for interview",
+        "Interview arrangements communicated separately",
+        "Qualification and experience verification, police verification report and medical fitness certificate before engagement"
+      ],
+      "fee": "No application fee stated in retained notice; confirm with APEDA.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify citizenship route, age reckoning date, required Master's discipline, post-Master's experience, visualization tools and office software; complete prescribed form and deadline procedure."
+          },
+          {
+            "stage": "selection",
+            "text": "Minimum qualifications do not guarantee interview. Confirm shortlist, venue and any language expectations; no formal language level is printed."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify international work authorization, document checks, police verification, medical fitness and final contract terms; no permanent employment right."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview venue not published; APEDA office address is not an interview location"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+      "changes": [],
+      "id": "apeda-associate-trade-2026-08",
+      "sourceId": "in-apeda-associates-2026",
+      "title": "Associate (Trade) — APEDA",
+      "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-08-24",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Notice gives 2026-08-24 without a cutoff time. Official timezone is not stated. Notice date is not a confirmed opening date. Office hours are not an application cutoff."
+      },
+      "languageNote": "Trade notice states no mandatory language or standardized proficiency level. Form asks languages known with proficiency; that field alone adds no language criterion.",
+      "salary": "₹80,000–₹1,05,000 per month, inclusive of applicable taxes; no other facility or allowance.",
+      "workLocations": [
+        "APEDA, New Delhi"
+      ],
+      "sources": [
+        {
+          "id": "in-apeda-associates-2026:2e6f5e88e265",
+          "title": "APEDA recruitment and appointment index",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apeda.gov.in/recruitment-appointment",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/recruitment-appointment",
+          "sha256": "6c25c300e52c33a24d140155a9a9a596743e214ea32b4b4cfc9ea2cae58a52bf",
+          "lastSuccessfulFetchAt": "2026-09-26T19:20:48.022Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-apeda-associates-2026:53fc6277156b",
+          "title": "APEDA recruitment archive: separate prior editions",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apeda.gov.in/recruitment-appointment-archive",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/recruitment-appointment-archive",
+          "sha256": "c2bff657db12a7276158c379c28fac63053a59459eb91ee2ada561dda35179fe",
+          "lastSuccessfulFetchAt": "2026-09-26T19:20:49.609Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-apeda-associates-2026:e2c9e2a2c71a",
+          "title": "APEDA Associate (Trade) notice 2026-08-11 and prescribed form",
+          "authority": "Agricultural and Processed Food Products Export Development Authority, Department of Commerce, Ministry of Commerce and Industry, Government of India",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+          "sha256": "08306466792e991b2275c6b1f4e57aa05c7f124698acaa091156c1f55bbd31b4",
+          "lastSuccessfulFetchAt": "2026-09-26T19:21:00.123Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "email"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://apeda.gov.in/recruitment-appointment",
+      "fetchedAt": "2026-09-26T19:20:48.022Z",
+      "sha256": "6c25c300e52c33a24d140155a9a9a596743e214ea32b4b4cfc9ea2cae58a52bf",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 98988
+    },
+    {
+      "url": "https://apeda.gov.in/recruitment-appointment-archive",
+      "fetchedAt": "2026-09-26T19:20:49.609Z",
+      "sha256": "c2bff657db12a7276158c379c28fac63053a59459eb91ee2ada561dda35179fe",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 538027
+    },
+    {
+      "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+      "fetchedAt": "2026-09-26T19:20:55.111Z",
+      "sha256": "1864645263621cb83506f0508bbe9dd0a792d7437e0fe91ea420e45bb00e92d6",
+      "contentType": "application/pdf",
+      "bytes": 374049
+    },
+    {
+      "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+      "fetchedAt": "2026-09-26T19:21:00.123Z",
+      "sha256": "08306466792e991b2275c6b1f4e57aa05c7f124698acaa091156c1f55bbd31b4",
+      "contentType": "application/pdf",
+      "bytes": 359617
+    }
+  ],
+  "warnings": [
+    "Two separate role-specific applications count as two cycles, despite shared file number PAD-2023-24-000091. NCS posting date and vacancy counts are not cycle identifiers.",
+    "Both August deadlines have passed. Legal gives 1700 hrs without an official timezone; Trade gives only a date. No timezone or midnight cutoff inferred.",
+    "Nationality and languages-known form fields establish no foreign-applicant permission or mandatory language level. Age reckoning date is unstated; eligibility remains manual.",
+    "Current index has seven document rows and archive has 206. Only these two August notices were extracted; other advertisements, prior editions and linked result notices remain gaps.",
+    "Any current/archive document-row change or original PDF byte change stops extraction for review; no disappearance is interpreted as cancellation."
+  ],
+  "approvalRevisions": {
+    "apeda-associate-legal-2026-08": {
+      "evidenceRevision": "3d3503bdb80f51f2ce2ce2cb336330d7a4e9dfb0635cba2f4d16a2252f28672e",
+      "recordRevision": "2e717c2732a77a19c5e3a6f00d2922069fd238a72c38c94cf90a6d3feea0cb95"
+    },
+    "apeda-associate-trade-2026-08": {
+      "evidenceRevision": "28359ba937de3968eee3685456ff8e64e8a4b9df45014d0d0ad2cd5b6537ac07",
+      "recordRevision": "34b5bde65ec8ad96f6bcfbb50629ba15e842939f87120dcd598ecb684d2b9775"
+    }
+  }
+}

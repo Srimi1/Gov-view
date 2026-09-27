@@ -1,0 +1,1135 @@
+{
+  "sourceId": "in-rj-recruitment",
+  "collectedAt": "2026-09-24T20:09:56.232Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "14/2025-26",
+      "programme": "ASST. DIRECTOR AND SR. SCIENTIFIC OFFICER 2025",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for ASST. DIRECTOR AND SR. SCIENTIFIC OFFICER 2025",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-14-2025-26",
+      "sourceId": "in-rj-recruitment",
+      "title": "ASST. DIRECTOR AND SR. SCIENTIFIC OFFICER 2025",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2025-12-23. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:ae3917dcd9ce67d9",
+          "title": "Advt. No. 14/2025-26 For Asst. Director and Sr. Scientific Officer 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/91ADA3E6C3CE4A0D98CDF66A27B4461C.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:b897db290a8a436b",
+          "title": "Corrigendum No. 14/2026-27 for Asst. Director And Sr. Scientific Officer - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/6E083E87394F49FE8CC87393F091740D.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "07/2025-26",
+      "programme": "SR. TEACHER (SEC. EDU.) COMP. EXAM 2025",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for SR. TEACHER (SEC. EDU.) COMP. EXAM 2025",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-07-2025-26",
+      "sourceId": "in-rj-recruitment",
+      "title": "SR. TEACHER (SEC. EDU.) COMP. EXAM 2025",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2025-07-17. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:ebc14e1949c87fa0",
+          "title": "Advt. No. 07/2025-26 for Sr. Teacher Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/ED4F69C3BFA14F9BBACDC0077554C90D.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:8f6de0b31f53c306",
+          "title": "Corrigendum No. 09/2025-26 for Sr. Teacher Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/662450E36A6E4533A0E4FD6EF73986E8.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:db26126a103c8349",
+          "title": "Corrigendum No. 20/2025-26 for Sr. Teacher (Sec. Edu.) Comp. Exam- 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/570BD2007AE048B38067D6354CFFE7E3.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:60394fe2dbd4b98d",
+          "title": "Corrigendum No. 10/2026-27 for Sr. Teacher (Sec. Edu.) Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/5CBBBF65B06F46049C822F3732EF1442.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:df74d7a3357a2255",
+          "title": "Corrigendum No. 11/2026-27 for Sr. Teacher (Sec. Edu.) Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/822E936087014626ABCDA1EF2D44697A.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:94f167cc25203614",
+          "title": "Corrigendum No. 13/2026-27 for Sr. Teacher (Sec. Edu.) Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/228444789A784A4A9387F24F94BBA165.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "05/2026-27",
+      "programme": "PHYSIOTHERAPIST (ADVT. WITHDRAWN) 2026",
+      "status": "cancelled",
+      "statusNote": "Official archive explicitly labels this advertisement withdrawn. Check the withdrawal notice; founder review pending.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for PHYSIOTHERAPIST (ADVT. WITHDRAWN) 2026",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-05-2026-27",
+      "sourceId": "in-rj-recruitment",
+      "title": "PHYSIOTHERAPIST (ADVT. WITHDRAWN) 2026",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2026-07-21. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:05560ac75e6b6505",
+          "title": "Advt. No. 05/2026-27 for Physiotherapist - 2026",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/C80D8376B256408692F17AAA61B754DE.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "17/2024-25",
+      "programme": "AGRICULTURE DEPT. EXAM 2024",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for AGRICULTURE DEPT. EXAM 2024",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-17-2024-25",
+      "sourceId": "in-rj-recruitment",
+      "title": "AGRICULTURE DEPT. EXAM 2024",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2024-10-16. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:a0c450c78befdf9a",
+          "title": "Advt. No. 17/2024-25 for Agriculture Department Exam 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/567080A9A9F24B128C1E7BF8355765FF.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:97d58a517c7e6497",
+          "title": "Corrigendum No. 14/2024-25 for Agriculture Department Exam 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/C81BE2B67274401EA150B99B279E537B.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:64768bd7bb887e91",
+          "title": "Corrigendum No. 05/2025-26 for Agriculture Department Exam 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/3626C084F696403AA1AD9DA5CD19A77A.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:3f54d344ad4bdb45",
+          "title": "Corrigendum No. 07/2026-27 for Agriculture Dept. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/C5C690F1F5AA4F809C4D40E8E203658E.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:2388d2ff49bdc1ce",
+          "title": "Corrigendum No. 12/2026-27 for Agriculture Dept. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/59A5A6986BF74537A8829598027A7345.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "05/2025-26",
+      "programme": "SUB INSPECTOR COMB. COMP. EXAM 2025",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for SUB INSPECTOR COMB. COMP. EXAM 2025",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-05-2025-26",
+      "sourceId": "in-rj-recruitment",
+      "title": "SUB INSPECTOR COMB. COMP. EXAM 2025",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2025-07-17. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:acff3543e0ecf446",
+          "title": "Advt. 05/2025-26 for Sub Inspector/Platoon Commander - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/B87284F000614D55999928D873BD8B3E.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:5a575043f537726b",
+          "title": "Corrigendum No. 10/2025-26 for Sub Inspector/Platoon Commander - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/48F34BFAB78F47CCB65BD3AB9BFE2E9A.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:173f34012cb6619e",
+          "title": "Corrigendum No. 06/2026-27 for Sub Inspector Comb. Comp. Exam - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/28B6E635D7114CC786750C2BFB239F80.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "10/2024-25",
+      "programme": "ASST. ENGINEER COMB. COMP. EXAM 2024",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for ASST. ENGINEER COMB. COMP. EXAM 2024",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-10-2024-25",
+      "sourceId": "in-rj-recruitment",
+      "title": "ASST. ENGINEER COMB. COMP. EXAM 2024",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2024-08-05. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:2420a9021c11a3fb",
+          "title": "Advt. No. 10/2024-25 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/9E7377FAB263494785AFA32F092382C8.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:547ef158f690fb24",
+          "title": "Corrigendum No. 08/2024-25 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/00BC55D805D549FE8D22EF649FB6F092.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:feadc8296a50ca31",
+          "title": "Corrigendum No. 10/2024-25 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/7D290B208940469DB11BDE1174E50AE2.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:7f783ef37c38ffe9",
+          "title": "Corrigendum No. 12/2024-25 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/4DD319045C8242F093F268BA896793EE.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:46ae69a78b3d5aed",
+          "title": "Corrigendum No. 12/2025-26 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/97A72BE3C8474B96A6CB2F5E11E866C5.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:72c2b0ced568ad28",
+          "title": "Corrigendum No. 16/2025-26 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/55991191C0A7470E833B92B2E5CBA21C.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:82792955a4305719",
+          "title": "Corrigendum No. 05/2026-27 for Asst. Engineer Comb. Comp. Exam - 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/B4D63B24BC9945BCBB5B7060F679AA38.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "04/2026-27",
+      "programme": "SR. SCIENTIFIC OFFICER 2026",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for SR. SCIENTIFIC OFFICER 2026",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-04-2026-27",
+      "sourceId": "in-rj-recruitment",
+      "title": "SR. SCIENTIFIC OFFICER 2026",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2026-06-02. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:104b06f701a08663",
+          "title": "Advt. No. 04/2026-27 for Sr. Scientific Officer - 2026",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/4524809EA5E7488987F1D0FA9327F539.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "02/2026-27",
+      "programme": "RAJ. STATE AND SUB. SERVICES COMB. COMP EXAM 2026",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for RAJ. STATE AND SUB. SERVICES COMB. COMP EXAM 2026",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-02-2026-27",
+      "sourceId": "in-rj-recruitment",
+      "title": "RAJ. STATE AND SUB. SERVICES COMB. COMP EXAM 2026",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2026-05-27. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:88591f52bcab254a",
+          "title": "Advt. No. 02/2026-27 for Raj. State And Sub. Services Comb. Comp Exam - 2026",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/76C02A7D61A54708AFFCDD7A2A60DBB2.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026-27",
+      "programme": "ASST. PROSECUTION OFFICER 2026",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for ASST. PROSECUTION OFFICER 2026",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-03-2026-27",
+      "sourceId": "in-rj-recruitment",
+      "title": "ASST. PROSECUTION OFFICER 2026",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2026-05-27. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:4c4111c09d8c0645",
+          "title": "Advt. No. 03/2026-27 for Asst. Prosecution Officer - 2026",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/3ABD11DA80374279A39F1BF78AAB0950.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "01/2026-27",
+      "programme": "SCHOOL LECTURER (SPECIAL EDUCATION) 2026",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for SCHOOL LECTURER (SPECIAL EDUCATION) 2026",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-01-2026-27",
+      "sourceId": "in-rj-recruitment",
+      "title": "SCHOOL LECTURER (SPECIAL EDUCATION) 2026",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2026-05-22. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:82318efa8b189e5b",
+          "title": "Advt. No. 01/2026-27 for School Lecturer (Special Education) - 2026",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/20787BD8A34D461A80CD78EE212A5723.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "20/2024-25",
+      "programme": "SUB INSPECTOR (TELECOM) COMP. EXAM 2024",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for SUB INSPECTOR (TELECOM) COMP. EXAM 2024",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-20-2024-25",
+      "sourceId": "in-rj-recruitment",
+      "title": "SUB INSPECTOR (TELECOM) COMP. EXAM 2024",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2024-11-20. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:24907e7e7a035cb6",
+          "title": "Advt. No. 20/2024-25 for Sub Inspector (Telecom) Comp. Exam 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/AE670DFCB7C74FA6ABAEA970F46F1703.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:1b2d1f03a8e0afb6",
+          "title": "Corrigendum No 03/2026-27 Regarding Bifurcation of Post For Sub Inspector (Telecom) Comp. Exam 2024",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/FC23E8323119476587982D2BAFF96D06.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "10/2025-26",
+      "programme": "ASST. PROF. (COLLEGE EDUCATION) 2025",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for ASST. PROF. (COLLEGE EDUCATION) 2025",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-10-2025-26",
+      "sourceId": "in-rj-recruitment",
+      "title": "ASST. PROF. (COLLEGE EDUCATION) 2025",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2025-09-18. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:3e1c403623073df3",
+          "title": "Advt. No. 10/2025-26 for Asst. Prof. (College Education) Exam- 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/CAD19A4629AD42EB9A2E01D4EC8153E3.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:4a2706f26006622f",
+          "title": "Corrigendum No. 11/2025-26 for Asst. Prof. (College Education) Exam- 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/797405ACF5F246E8A30DF4BB0A3C71E8.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:8ecb074656444002",
+          "title": "Corrigendum No. 02/2026-27 for Asst. Prof. (College Education) Exam- 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/223DFA462DF944FAB6FC653DC92CF63D.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "04/2025-26",
+      "programme": "VETERINARY OFFICER 2025",
+      "status": "uncertain",
+      "statusNote": "Advertisement and corrections identified. Application window and current status require PDF review.",
+      "scopeLabel": "Rajasthan recruitment; applicant domicile must be checked separately",
+      "outcome": "Recruitment for VETERINARY OFFICER 2025",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility has not been verified from this advertisement and applicable rules.",
+      "residenceRule": "Residence and domicile conditions have not been extracted from the notice.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "rpsc-04-2025-26",
+      "sourceId": "in-rj-recruitment",
+      "title": "VETERINARY OFFICER 2025",
+      "authority": "Rajasthan Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-RJ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Advertisement released 2025-07-17. Release dates are not application dates."
+      },
+      "sources": [
+        {
+          "id": "in-rj-recruitment:3a5ce64dacb2",
+          "title": "Official advertisement and corrigendum index",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rpsc.rajasthan.gov.in/advertisements",
+          "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+          "lastSuccessfulFetchAt": "2026-09-24T20:09:59.014Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:b630a3befc23544b",
+          "title": "Advt. 04/2025-26 for Veterinary Officer - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/0A26F657CFCA4BC6B8DF51B45C764E95.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-rj-recruitment:document:f8c7027df58509a6",
+          "title": "Corrigendum No. 01/2026-27 for Veterinary Officer - 2025",
+          "authority": "Rajasthan Public Service Commission",
+          "language": "Not verified",
+          "format": "PDF",
+          "url": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/8B5669688CBD47A0B370CDE3C62C15D4.pdf",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://rpsc.rajasthan.gov.in/advertisements",
+      "fetchedAt": "2026-09-24T20:09:59.014Z",
+      "sha256": "3a5ce64dacb28654c850552de2cf998df0b6e83558185c29d827d1c7d8781454",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 794860
+    }
+  ],
+  "warnings": [
+    "SUB INSPECTOR COMB. COMP. EXAM 2021: 0 original advertisements; amendment association needs review",
+    "SCHOOL LECTURER (SCHOOL EDU.) 2025: 2 original advertisements; amendment association needs review",
+    "ASST. PROFESSOR (MEDICAL EDU.) 2024: 2 original advertisements; amendment association needs review",
+    "Draft archive connector: only cycles with notices released within 180 days. PDFs are linked but not fetched or verified. Unknown application windows are never marked open."
+  ]
+}

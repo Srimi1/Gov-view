@@ -1,0 +1,22 @@
+{
+  "checkedOn": "2026-09-25",
+  "authority": "Department of Posts, Ministry of Communications, Government of India",
+  "registerUrl": "https://www.indiapost.gov.in/vacancies",
+  "retainedHtml": "indiapost-vacancies-2026.html",
+  "retainedHtmlSha256": "3a862339b2c62cc785d1e7179aa82deeb98c9dcfb58739d9a2937df1655f17ef",
+  "retainedVerificationChunk": "indiapost-vacancies-chunk-9260-2bb682e7c85510e9.js",
+  "retainedVerificationChunkSha256": "280740f40292c904fa65685fab4e48a8bd439a0d6967e05b86e689d8d0edbe7f",
+  "pageOneRows": 10,
+  "visibleRecruitmentRows": [
+    { "title": "Drivers (Ordinary Grade) through deputation/absorption", "publishedOn": "2026-08-01", "documentRows": 2, "languagesShown": ["Hindi", "English"] },
+    { "title": "Skilled Artisan (Ordinary Grade), Mail Motor Service, Bengaluru", "publishedOn": "2026-06-16", "documentRows": 3, "note": "Two original notice languages plus a 29 June 2026 Hindi corrigendum; amendment scope unresolved." },
+    { "title": "Manager Mail Motor Service, Department of Posts", "publishedOn": "2026-06-05", "documentRows": 1, "languagesShown": ["English"] }
+  ],
+  "accessObservation": "Clicking a notice's View button in the official browser page opened a 'Verify to continue' dialog and generated a CAPTCHA before document access. The client bundle names createDocumentCaptchaSession and verifyDocumentCaptcha server actions. The register exposes titles, publication dates, document sizes and language labels, but does not supply original notice text or application deadlines in its visible rows.",
+  "collectionDecision": "Register as a disabled, manual-review source. No opportunity cycle, eligibility result, deadline or cancellation can be verified from register rows alone. Do not automate CAPTCHA completion or treat the notice publication date as an application date.",
+  "remainingQuestions": [
+    "Obtain original English/Hindi notices and Skilled Artisan corrigendum through a permitted official route or founder-assisted review.",
+    "Determine application grouping, open/close windows, nationality and residence rules, required language proficiency, selection stages, fees and amendments.",
+    "Check page two and later register pages for additional current opportunities; page one is a partial snapshot."
+  ]
+}

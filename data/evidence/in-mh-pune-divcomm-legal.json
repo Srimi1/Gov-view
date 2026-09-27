@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://divcompune.maharashtra.gov.in/en/recruitment/",
+  "fetchedAt": "2026-09-25T08:02:53.770Z",
+  "sha256": "0f1eb411664d042eb613fd318c74cde39b883f16ee2d3166cc5d7128220a3cfe",
+  "bytes": 101394,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s3b427426b8acd2c2e53827970f2c2f526/uploads/2026/08/202608011825918750.pdf",
+  "fetchedAt": "2026-09-25T08:02:55.138Z",
+  "sha256": "1bf07c28d382585e013852f62687b8d9f641a7b06e65497a9ea5230aeb27c8ab",
+  "bytes": 2398506,
+  "contentType": "application/pdf"
+ }
+]

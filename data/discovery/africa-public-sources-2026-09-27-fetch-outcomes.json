@@ -1,0 +1,258 @@
+[
+  {
+    "sourceId": "gh-psc-public-jobs",
+    "label": "vacancies",
+    "url": "https://psc.gov.gh/job-vacancies/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-gh-psc-public-jobs-vacancies-2026-09-27.html",
+    "evidence": {
+      "url": "https://psc.gov.gh/job-vacancies/",
+      "fetchedAt": "2026-09-26T21:49:52.873Z",
+      "sha256": "3a9f1232daf8bf637eb943a2229b431756ebcf260fc690b582380f640c4443fb",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 50321
+    }
+  },
+  {
+    "sourceId": "gh-psc-public-jobs",
+    "label": "recruitment-faq",
+    "url": "https://psc.gov.gh/faqs/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-gh-psc-public-jobs-recruitment-faq-2026-09-27.html",
+    "evidence": {
+      "url": "https://psc.gov.gh/faqs/",
+      "fetchedAt": "2026-09-26T21:49:54.272Z",
+      "sha256": "72feb240338a83820a46d09e4e5351c756c821874f55aa5ab79033e68fcf97cf",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 75224
+    }
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "authority-advertisements",
+    "url": "https://ajira.go.tz/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-tz-psrs-recruitment-authority-advertisements-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://ajira.go.tz: fetch failed"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "authority-mandate",
+    "url": "https://www.ajira.go.tz/whoarewe",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-tz-psrs-recruitment-authority-mandate-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.ajira.go.tz/whoarewe",
+      "fetchedAt": "2026-09-26T21:49:57.388Z",
+      "sha256": "1dd08942c0f48a1cbf6194241894db49df4d4d3756d2565f04866301e6c4a8a3",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 75605
+    }
+  },
+  {
+    "sourceId": "ug-psc-vacancies",
+    "label": "recruitment-home",
+    "url": "https://vacancies.psc.go.ug/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-ug-psc-vacancies-recruitment-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://vacancies.psc.go.ug: The operation was aborted due to timeout"
+  },
+  {
+    "sourceId": "ug-psc-vacancies",
+    "label": "government-referral",
+    "url": "https://www.publicservice.go.ug/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-ug-psc-vacancies-government-referral-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.publicservice.go.ug/",
+      "fetchedAt": "2026-09-26T21:49:55.245Z",
+      "sha256": "f0eceabc2833a8078b40dbb4fdcd38aad6a5946dc9224d1317cf22fbd29f4bb9",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 161786
+    }
+  },
+  {
+    "sourceId": "rw-mifotra-recruitment",
+    "label": "recruitment-home",
+    "url": "https://www.recruitment.mifotra.gov.rw/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-rw-mifotra-recruitment-recruitment-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.recruitment.mifotra.gov.rw/",
+      "fetchedAt": "2026-09-26T21:49:56.293Z",
+      "sha256": "221dbc3086d857f07e3ab150e2ed1956695c828d6b82227c3a5a840c235ec82b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 2206
+    }
+  },
+  {
+    "sourceId": "rw-mifotra-recruitment",
+    "label": "ministry-referral",
+    "url": "https://www.mifotra.gov.rw/news-detail/recruitment-of-public-servants-digitized-in-rwanda",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-rw-mifotra-recruitment-ministry-referral-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://www.mifotra.gov.rw: fetch failed"
+  },
+  {
+    "sourceId": "zm-csc-public-service",
+    "label": "authority-home",
+    "url": "https://www.csc.gov.zm/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-zm-csc-public-service-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://www.csc.gov.zm: fetch failed"
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "recruitment-home",
+    "url": "https://erecruitment.psc.gov.zw/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-zw-psc-erecruitment-recruitment-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://erecruitment.psc.gov.zw/",
+      "fetchedAt": "2026-09-26T21:49:56.875Z",
+      "sha256": "0d7f3133267286e37d5a2cc10206afa271ff399e3cad16566849c5a9234b5c75",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 53964
+    }
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "authority-home",
+    "url": "https://psc.gov.zw/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-zw-psc-erecruitment-authority-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://psc.gov.zw/",
+      "fetchedAt": "2026-09-26T21:49:57.877Z",
+      "sha256": "5111227d02e33a91d6a8dab5db3a94c1f7c9383d607c4649e9a7645586800243",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 172972
+    }
+  },
+  {
+    "sourceId": "bw-government-careers",
+    "label": "careers",
+    "url": "https://gov.bw/careers",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-bw-government-careers-careers-2026-09-27.html",
+    "evidence": {
+      "url": "https://gov.bw/careers",
+      "fetchedAt": "2026-09-26T21:49:56.553Z",
+      "sha256": "b6ac827d33ffa34ec1d4023c0cdbedfa980f8460f63bdb71de56b9e3a108152e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 66926
+    }
+  },
+  {
+    "sourceId": "na-opm-public-vacancies",
+    "label": "authority-home",
+    "url": "https://opm.gov.na/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-na-opm-public-vacancies-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "HTTP 468 for https://opm.gov.na/"
+  },
+  {
+    "sourceId": "mu-psc-dfsc-vacancies",
+    "label": "authority-vacancies",
+    "url": "https://psc.govmu.org/psc/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-mu-psc-dfsc-vacancies-authority-vacancies-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://psc.govmu.org: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "sc-psb-vacancies",
+    "label": "vacancies",
+    "url": "https://www.psb.gov.sc/vacancies",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-sc-psb-vacancies-vacancies-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.psb.gov.sc/vacancies",
+      "fetchedAt": "2026-09-26T21:49:57.365Z",
+      "sha256": "b83f42ca6805ad4f3ced47f4fa2531445153158bb4da080dae7f7a7cc5c37dbd",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 16783
+    }
+  },
+  {
+    "sourceId": "sc-psb-vacancies",
+    "label": "government-directory",
+    "url": "https://www.gov.sc/departments",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-sc-psb-vacancies-government-directory-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:49:49.317Z",
+    "error": "robots.txt unreachable at https://www.gov.sc: The operation was aborted due to timeout"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "canonical-advertisements",
+    "format": "HTML",
+    "url": "https://www.ajira.go.tz/",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-tz-psrs-recruitment-canonical-advertisements-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:52:28.011Z",
+    "error": "robots.txt unreachable at https://www.ajira.go.tz: fetch failed"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "neec-chief-executive-notice",
+    "format": "PDF",
+    "url": "https://www.ajira.go.tz/baseattachments/advertisementattachments/260922174716TANGAZO LA KAZI -MTENDAJI MKUU NEEC.pdf",
+    "status": "not-attempted",
+    "reason": "robots.txt unreachable at https://www.ajira.go.tz: fetch failed"
+  },
+  {
+    "sourceId": "tz-psrs-recruitment",
+    "label": "must-september-notice",
+    "format": "PDF",
+    "url": "https://www.ajira.go.tz/baseattachments/advertisementattachments/20262609370647TANGAZO LA AJIRA MPYA SEP  2026 - MUST...pdf",
+    "status": "not-attempted",
+    "reason": "robots.txt unreachable at https://www.ajira.go.tz: fetch failed"
+  },
+  {
+    "sourceId": "zw-psc-erecruitment",
+    "label": "ict-deputy-director-detail",
+    "format": "HTML",
+    "url": "https://erecruitment.psc.gov.zw/jobs/216",
+    "status": "retained",
+    "path": "data/evidence/research/africa63-zw-psc-erecruitment-ict-deputy-director-detail-2026-09-27.html",
+    "evidence": {
+      "url": "https://erecruitment.psc.gov.zw/jobs/216",
+      "fetchedAt": "2026-09-26T21:52:30.784Z",
+      "sha256": "44f5dda93318b9154a010b7388d1dfa9a3405682a9a4f1655f0936771eafbc80",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 17840
+    }
+  },
+  {
+    "sourceId": "na-opm-public-vacancies",
+    "label": "regional-mirror-circular",
+    "format": "PDF",
+    "url": "https://www.karasrc.gov.na/documents/178653/5905947/PSM%2BCircular%2BNo%2BF%2Bof%2B2025.pdf/47129916-50d6-db1b-b27a-cf4abfff2a11?t=1754558828316",
+    "status": "failed",
+    "path": "data/evidence/research/africa63-na-opm-public-vacancies-regional-mirror-circular-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:52:28.017Z",
+    "error": "robots.txt unreachable at https://www.karasrc.gov.na: fetch failed"
+  }
+]

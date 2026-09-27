@@ -1,0 +1,30 @@
+{
+  "reviewedOn": "2026-09-25",
+  "authority": "New Zealand Government Jobs",
+  "officialEntryPoint": "https://jobs.govt.nz/",
+  "governmentDirectory": "https://www.govt.nz/browse/work-and-tax/finding-and-starting-a-job/government-jobs/",
+  "robotsUrl": "https://jobs.govt.nz/robots.txt",
+  "robotsSnapshot": "nz-gov-jobs-robots-2026-09-25.txt",
+  "robotsSha256": "1cea6d5bd12e33d77fc74603272b413b8b6b5484e27d60506d8d51150f604797",
+  "robotsObservation": "User-Agent * disallows application/login/email actions, not /jobs/ detail pages. Collector fetched public job details only; it did not fetch application actions or listed attachments.",
+  "sampledNotices": [
+    {
+      "url": "https://jobs.govt.nz/jobs/APA-1946342",
+      "snapshot": "nz-gov-probation-2026-09-25.html",
+      "snapshotSha256": "7d947beb1a0ef804b1ce7e43b2e3dbda6d454b700f8d53434a818c6f3ad5f3d9",
+      "observation": "Permanent Rotorua Probation Officer role. Existing legal right to work in New Zealand and full NZ driver licence are stated; employer says visa support may be unavailable. Excellent spoken/written communication is stated without named language level. Date-only 4 October 2026 close."
+    },
+    {
+      "url": "https://jobs.govt.nz/jobs/NZ-1948355",
+      "snapshot": "nz-gov-msd-2026-09-25.html",
+      "snapshotSha256": "64e79954a47cfc90ebde6b681cfb20c97c172da2936ae84d37c12570da410888",
+      "observation": "Permanent Auckland customer-service roles. Notice says NZ citizenship or Permanent Resident visa required at application. It lists 4 October 2026 at 11:59pm but no governing timezone. No formal language level printed."
+    }
+  ],
+  "unresolved": [
+    "Only two exact job pages checked; full portal vacancy inventory, deletions, amendments and employer-specific pages remain uncovered.",
+    "Published work locations do not establish interview or examination venues.",
+    "Neither linked agency application endpoint nor position description was fetched; founder must verify those before any approval.",
+    "Citizenship and permanent-resident alternatives cannot be reduced to a nationality-only automated check."
+  ]
+}

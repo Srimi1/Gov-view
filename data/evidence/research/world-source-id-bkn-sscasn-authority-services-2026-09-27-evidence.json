@@ -1,0 +1,10 @@
+{
+  "label": "authority-services",
+  "status": "retained-research-response",
+  "url": "https://www.bkn.go.id/layanan/",
+  "fetchedAt": "2026-09-26T20:32:57.330Z",
+  "sha256": "0ae8a7124ed78e0d66f7365b171699e21c8d4efaab1a49f6e75b3cd5a5ac13cd",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 100618,
+  "requestedUrl": "https://www.bkn.go.id/layanan/"
+}

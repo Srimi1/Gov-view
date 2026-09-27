@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://ncs.gov.in/latest-update",
+  "fetchedAt": "2026-09-26T18:02:36.707Z",
+  "sha256": "3bbf7e38e644f32de4e37a300d9ce1f3b91c3e0dbfe5ee75ba0e79132e53350f",
+  "observedIndexTotal": 145,
+  "visibleRowsChecked": 10,
+  "unseenRows": 135,
+  "notes": [
+    "Discovery leads only. Posting date is not an application opening date; row counts and vacancy counts are not distinct application-cycle totals.",
+    "NCS International Jobs through e-migrate describes overseas employment, not foreign-citizen permission for these India government roles.",
+    "Employer notices, amendments, nationality, residence, language, deadlines and application forms remain unchecked.",
+    "India Post link is a browser blob URL, not a durable public notice URL.",
+    "AIIMS .edu notice URL is syntactically usable but its institutional identity has not yet been verified in this research pass; eight other notice links use government domains."
+  ],
+  "leads": [
+    {
+      "organisation": "DRDO - DYSL-SM, Hyderabad",
+      "position": "Junior Research Fellowship (JRF)",
+      "postingDate": "2026-09-08",
+      "advertisedVacancies": 1,
+      "sourceTypeLabel": "Jrf",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "DRDO - CVRDE, Chennai",
+      "position": "Paid Internship Scheme 2026-27",
+      "postingDate": "2026-09-08",
+      "advertisedVacancies": 35,
+      "sourceTypeLabel": "Internship",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCVRDE08092026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "DRDO - LRDE, Bengaluru",
+      "position": "Junior Research Fellow (JRF) 2026",
+      "postingDate": "2026-09-07",
+      "advertisedVacancies": 2,
+      "sourceTypeLabel": "Jrf",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "India Post",
+      "position": "Driver (Ordinary Grade)",
+      "postingDate": "2026-09-01",
+      "advertisedVacancies": 11,
+      "sourceTypeLabel": "Deputation / Absorption",
+      "officialNoticeUrl": null,
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": "blob:https://www.indiapost.gov.in/76ce6339-5f6d-4bd4-94b2-e69315639170"
+    },
+    {
+      "organisation": "DRDO - CVRDE, Chennai",
+      "position": "Apprenticeship Training",
+      "postingDate": "2026-08-31",
+      "advertisedVacancies": 93,
+      "sourceTypeLabel": "Apprentice",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCVRDE02092026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "DRDO - NPOL, Kochi",
+      "position": "Junior Research Fellow (JRF)",
+      "postingDate": "2026-08-31",
+      "advertisedVacancies": 4,
+      "sourceTypeLabel": "Jrf",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtNPOL01092026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "DRDO - VRDE, Ahilyanagar",
+      "position": "Junior Research Fellow (JRF)",
+      "postingDate": "2026-08-31",
+      "advertisedVacancies": 5,
+      "sourceTypeLabel": "Jrf",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtVRDE31082026En.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "APEDA",
+      "position": "Associate (Legal)",
+      "postingDate": "2026-08-27",
+      "advertisedVacancies": 1,
+      "sourceTypeLabel": "Contract",
+      "officialNoticeUrl": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "DRDO - DEBEL, Bengaluru",
+      "position": "Junior Research Fellow (JRF)",
+      "postingDate": "2026-08-27",
+      "advertisedVacancies": 2,
+      "sourceTypeLabel": "Jrf",
+      "officialNoticeUrl": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDEBEL27082026.pdf",
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": null
+    },
+    {
+      "organisation": "NCI AIIMS Jhajjar",
+      "position": "Project Technical Support-III",
+      "postingDate": "2026-08-25",
+      "advertisedVacancies": 1,
+      "sourceTypeLabel": "Icmr Project",
+      "officialNoticeUrl": null,
+      "applicantCycleVerified": false,
+      "unverifiedOrNonDurableLink": "https://www1.aiims.edu/images/pdf/recruitment/advertisement/NCI-25-8-26.pdf"
+    }
+  ]
+}

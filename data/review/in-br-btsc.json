@@ -1,0 +1,404 @@
+{
+  "sourceId": "in-br-btsc",
+  "collectedAt": "2026-09-24T20:48:49.915Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "28/2026",
+      "programme": "Advertisement for regular appointment to the post of FISHERY EXTENSION OFFICER",
+      "status": "uncertain",
+      "statusNote": "Official recruitment-register dates extracted; scanned notice, amendments and eligibility require founder review.",
+      "scopeLabel": "Bihar technical recruitment; domicile benefits and nationality are separate conditions",
+      "outcome": "Appointment as FISHERY EXTENSION OFFICER",
+      "qualifications": "Four-year bachelor degree in Fisheries Science from the fisheries college of an agricultural university recognized by the Indian Council of Agricultural Research, New Delhi (clause 1, printed page 1). Institution recognition and certificate details require review. Age exceptions include historical eligibility and contract/service provisions; no simplified age exclusion is applied.",
+      "citizenshipRule": "Clause 1 explicitly invites eligible candidates who are citizens of India: “जो भारत के नागरिक हो”. Draft translation and applicable recruitment rules require founder review before publication.",
+      "residenceRule": "Clause 3(ii), printed page 2, limits reservation benefits to Bihar permanent residents and explicitly says candidates residing outside Bihar do not receive those benefits. This is not a blanket ban on applying from another Indian state. Category certificates and later horizontal-reservation conditions require review.",
+      "selectionStages": [
+        "Computer-based competitive examination: 100 multiple-choice questions, 2 hours; paper supplied in Hindi and English (clause 6, printed page 5)",
+        "Minimum qualifying score stated as 30%; negative marking 0.25 per wrong answer; normalization across sessions if used",
+        "Merit calculation includes qualifying contract-service experience under the notice; weighting discrepancy requires review",
+        "Document verification and appointment checks"
+      ],
+      "fee": "INR 100 application fee under clause 4, printed page 4, plus applicable bank/payment charges. Online payment only; draft extraction pending review.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 28/2026, clause 1, printed page 1: योग्य उम्मीदवारों (जो भारत के नागरिक हो). English draft: eligible candidates who are citizens of India."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify the four-year Fisheries Science degree and the specified ICAR-recognized institution. Original notice: clause 1, printed page 1."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age under clauses 2(i)–(viii), including historical 01.08.2020–01.08.2026 eligibility, category, disability, government/contract service and ex-serviceman provisions. The notice permits only one of the listed additional relaxations."
+          },
+          {
+            "stage": "apply",
+            "text": "Bihar domicile determines reservation benefits, not a blanket current-residence eligibility test. Check category and domicile certificates under clause 3."
+          },
+          {
+            "stage": "selection",
+            "text": "The question paper is in Hindi and English; this describes examination medium, not a required CEFR/JLPT proficiency level. The subject syllabus is to be published separately."
+          },
+          {
+            "stage": "selection",
+            "text": "Review the experience-weighting discrepancy: the merit table appears to show 35 marks for service experience while its text says a maximum of 25 and the total is 100 with CBT worth 75."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw=%3D",
+      "changes": [],
+      "id": "btsc-2026-28",
+      "sourceId": "in-br-btsc",
+      "title": "Advertisement for regular appointment to the post of FISHERY EXTENSION OFFICER",
+      "authority": "Bihar Technical Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-BR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-23",
+        "officialTimeZone": "Unknown",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Registration deadline: 2026-10-23. Payment deadline: 2026-10-23. Application deadline remains separate. Cutoff time and official timezone require notice verification."
+      },
+      "salary": "Pay Level 7 (clause 1, printed page 1); monetary salary not extracted.",
+      "sources": [
+        {
+          "id": "in-br-btsc:693df33f99bf",
+          "title": "Recruitment register: 28/2026",
+          "authority": "Bihar Technical Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+          "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+          "lastSuccessfulFetchAt": "2026-09-24T20:48:51.703Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-br-btsc:ebc30671af27",
+          "title": "28/2026: Advertisement",
+          "authority": "Bihar Technical Service Commission",
+          "language": "Original language pending review",
+          "format": "PDF",
+          "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/28_2026.pdf",
+          "sha256": "ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23",
+          "lastSuccessfulFetchAt": "2026-09-24T20:49:00.360Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "27/2026",
+      "programme": "Advertisement for regular appointment to the post of Touring Veterinary Officer and Equivalent",
+      "status": "uncertain",
+      "statusNote": "Official recruitment-register dates extracted; scanned notice, amendments and eligibility require founder review.",
+      "scopeLabel": "Bihar technical recruitment; domicile benefits and nationality are separate conditions",
+      "outcome": "Appointment as Touring Veterinary Officer and Equivalent",
+      "qualifications": "Scanned/linked official notice requires qualification extraction and review.",
+      "citizenshipRule": "International eligibility has not been extracted from this notice; do not infer it from the hiring jurisdiction.",
+      "residenceRule": "Residence and reservation conditions require original-notice review.",
+      "selectionStages": [],
+      "fee": "Fee requires original-notice review.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw=%3D",
+      "changes": [],
+      "id": "btsc-2026-27",
+      "sourceId": "in-br-btsc",
+      "title": "Advertisement for regular appointment to the post of Touring Veterinary Officer and Equivalent",
+      "authority": "Bihar Technical Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-BR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-23",
+        "officialTimeZone": "Unknown",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Registration deadline: 2026-10-23. Payment deadline: 2026-10-23. Application deadline remains separate. Cutoff time and official timezone require notice verification."
+      },
+      "sources": [
+        {
+          "id": "in-br-btsc:693df33f99bf",
+          "title": "Recruitment register: 27/2026",
+          "authority": "Bihar Technical Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+          "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+          "lastSuccessfulFetchAt": "2026-09-24T20:48:51.703Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-br-btsc:fc014b8204cd",
+          "title": "27/2026: Advertisement",
+          "authority": "Bihar Technical Service Commission",
+          "language": "Original language pending review",
+          "format": "PDF",
+          "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/27_2026_0.pdf",
+          "sha256": "fc014b8204cdf44e845011ab49375775c2e60aeb76982ab2e6f5e5bc5ec25f1e",
+          "lastSuccessfulFetchAt": "2026-09-24T20:49:01.717Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "26/2026",
+      "programme": "Advertisement for regular appointment to the post of Technician (Bench Chemist)",
+      "status": "closed",
+      "statusNote": "Official recruitment-register dates extracted; scanned notice, amendments and eligibility require founder review.",
+      "scopeLabel": "Bihar technical recruitment; domicile benefits and nationality are separate conditions",
+      "outcome": "Appointment as Technician (Bench Chemist)",
+      "qualifications": "Scanned/linked official notice requires qualification extraction and review.",
+      "citizenshipRule": "International eligibility has not been extracted from this notice; do not infer it from the hiring jurisdiction.",
+      "residenceRule": "Residence and reservation conditions require original-notice review.",
+      "selectionStages": [],
+      "fee": "Fee requires original-notice review.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "btsc-2026-26",
+      "sourceId": "in-br-btsc",
+      "title": "Advertisement for regular appointment to the post of Technician (Bench Chemist)",
+      "authority": "Bihar Technical Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-BR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-07-24",
+        "closesOn": "2026-08-23",
+        "officialTimeZone": "Unknown",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Registration deadline: 2026-08-23. Payment deadline: 2026-08-23. Application deadline remains separate. Cutoff time and official timezone require notice verification."
+      },
+      "sources": [
+        {
+          "id": "in-br-btsc:693df33f99bf",
+          "title": "Recruitment register: 26/2026",
+          "authority": "Bihar Technical Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+          "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+          "lastSuccessfulFetchAt": "2026-09-24T20:48:51.703Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-br-btsc:5182d2694169",
+          "title": "26/2026: Advertisement",
+          "authority": "Bihar Technical Service Commission",
+          "language": "Original language pending review",
+          "format": "PDF",
+          "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2026.pdf",
+          "sha256": "5182d2694169aa10e7675696560b6dfdf021c94dfb9c92ecee8e68f55452965d",
+          "lastSuccessfulFetchAt": "2026-09-24T20:49:06.139Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "25/2026",
+      "programme": "Advertisement for regular appointment to the post of Assistant Bacteriologist",
+      "status": "closed",
+      "statusNote": "Official recruitment-register dates extracted; scanned notice, amendments and eligibility require founder review.",
+      "scopeLabel": "Bihar technical recruitment; domicile benefits and nationality are separate conditions",
+      "outcome": "Appointment as Assistant Bacteriologist",
+      "qualifications": "Scanned/linked official notice requires qualification extraction and review.",
+      "citizenshipRule": "International eligibility has not been extracted from this notice; do not infer it from the hiring jurisdiction.",
+      "residenceRule": "Residence and reservation conditions require original-notice review.",
+      "selectionStages": [],
+      "fee": "Fee requires original-notice review.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "btsc-2026-25",
+      "sourceId": "in-br-btsc",
+      "title": "Advertisement for regular appointment to the post of Assistant Bacteriologist",
+      "authority": "Bihar Technical Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-BR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-07-24",
+        "closesOn": "2026-08-23",
+        "officialTimeZone": "Unknown",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Registration deadline: 2026-08-23. Payment deadline: 2026-08-23. Application deadline remains separate. Cutoff time and official timezone require notice verification."
+      },
+      "sources": [
+        {
+          "id": "in-br-btsc:693df33f99bf",
+          "title": "Recruitment register: 25/2026",
+          "authority": "Bihar Technical Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+          "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+          "lastSuccessfulFetchAt": "2026-09-24T20:48:51.703Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-br-btsc:8589b6c894c3",
+          "title": "25/2026: Advertisement",
+          "authority": "Bihar Technical Service Commission",
+          "language": "Original language pending review",
+          "format": "PDF",
+          "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/25_2026.pdf",
+          "sha256": "8589b6c894c3bbebfcf6c26c473a2b614c0b21cd56e17d1857aa3db42265fd10",
+          "lastSuccessfulFetchAt": "2026-09-24T20:49:08.233Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+      "fetchedAt": "2026-09-24T20:48:51.703Z",
+      "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 69631
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=1",
+      "fetchedAt": "2026-09-24T20:48:52.439Z",
+      "sha256": "e13f2221925a61e9f942f5ee5d2fb78f5b772c54015de22d862e7865bb86e4d0",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 70448
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=2",
+      "fetchedAt": "2026-09-24T20:48:53.482Z",
+      "sha256": "c3623af82b7ef9b6a8c05815211c4023a0a3f51f11b28b1cec31661c558d0280",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 70540
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=3",
+      "fetchedAt": "2026-09-24T20:48:54.528Z",
+      "sha256": "35423263e45c44210d2c7caf9c0e162d1f90d7fc88c314ad274d3f031f6bbfc9",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 72681
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=4",
+      "fetchedAt": "2026-09-24T20:48:55.356Z",
+      "sha256": "83a8e38dd0b6b3dbffee2543d44a32cbeb2ddc473697e4e781f910e341e32976",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 70334
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=5",
+      "fetchedAt": "2026-09-24T20:48:56.316Z",
+      "sha256": "2a9d1d163642272857acd3ea901f7a7248db0d6c1b2ced3d893808c1321dc0cc",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 70394
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/recruitment?page=6",
+      "fetchedAt": "2026-09-24T20:48:57.335Z",
+      "sha256": "1e1563cbc22d03fcbe4b5010946523a491811c938c2d71c0b572fb664bf5a582",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 61107
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/28_2026.pdf",
+      "fetchedAt": "2026-09-24T20:49:00.360Z",
+      "sha256": "ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23",
+      "contentType": "application/pdf",
+      "bytes": 395898
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/27_2026_0.pdf",
+      "fetchedAt": "2026-09-24T20:49:01.717Z",
+      "sha256": "fc014b8204cdf44e845011ab49375775c2e60aeb76982ab2e6f5e5bc5ec25f1e",
+      "contentType": "application/pdf",
+      "bytes": 448276
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2026.pdf",
+      "fetchedAt": "2026-09-24T20:49:06.139Z",
+      "sha256": "5182d2694169aa10e7675696560b6dfdf021c94dfb9c92ecee8e68f55452965d",
+      "contentType": "application/pdf",
+      "bytes": 709886
+    },
+    {
+      "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/25_2026.pdf",
+      "fetchedAt": "2026-09-24T20:49:08.233Z",
+      "sha256": "8589b6c894c3bbebfcf6c26c473a2b614c0b21cd56e17d1857aa3db42265fd10",
+      "contentType": "application/pdf",
+      "bytes": 697414
+    }
+  ],
+  "warnings": [
+    "Draft connector: complete paginated recruitment register, retaining cycles whose application deadline is within the last 60 days or later. Separate news/corrigendum feeds and individual department recruitment remain coverage gaps. Scanned notices require original-language review.",
+    "Conflicting BTSC identifier 23/2025: \"Advertisement for Regular Appointment to the post of Staff Nurse (Relive- Notice No.-1712)\" (2025-06-07–2025-06-13) versus \"Advertisement for Regular Appointment to the post of Staff Nurse\" (2025-04-25–2025-05-23). All rows for this identifier withheld; no inferred correction to the advertisement year.",
+    "Conflicting BTSC identifier 18/2025: \"Advertisement for regular appointment to the post of Instructor (Welder)\" (2026-04-15–2026-05-15) versus \"Advertisement for Regular Appointment to the post of Specialist Medical Officer (Radiology)\" (2025-03-04–2025-04-01). All rows for this identifier withheld; no inferred correction to the advertisement year.",
+    "Scanned Hindi notice: visual draft extraction requires founder/translation review; PDF text extraction yielded only page breaks.",
+    "Material ambiguity on printed page 4: experience row shows 35 marks while its text states maximum 25; total 100 with CBT 75. Do not automate merit weighting before clarification.",
+    "Question paper is bilingual Hindi/English. No independent language proficiency threshold was identified in this retained notice; a separately published syllabus remains to be checked.",
+    "7 register pages and 58 distinct advertisement identifiers checked; 2 conflicting identifiers withheld, 4 unambiguous identifiers within the retention window. This is not complete Bihar government coverage."
+  ]
+}

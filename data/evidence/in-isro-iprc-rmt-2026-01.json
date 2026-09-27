@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://www.iprc.gov.in/careers.html",
+  "fetchedAt": "2026-09-25T11:43:07.090Z",
+  "sha256": "833c5eb46c9de560bcb923d501ecde7ea34b2f7ab3bcee05ff4e6e48df57e938",
+  "bytes": 114440,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.iprc.gov.in/files/careers/Advertisement_12092026.pdf",
+  "fetchedAt": "2026-09-25T11:43:09.743Z",
+  "sha256": "b5c06a933e51f2eaf696d016e7194fc40eb88caff8c50e726ad50d676c91268a",
+  "bytes": 4891970,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.iprc.gov.in/files/careers/AnnexureA_12092026.pdf",
+  "fetchedAt": "2026-09-25T11:43:09.928Z",
+  "sha256": "415e13db25828ff4791551dba72ab2ff518588f42432edea4020c6595d377fb1",
+  "bytes": 561962,
+  "contentType": "application/pdf"
+ }
+]

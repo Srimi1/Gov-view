@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://kvsangathan.nic.in/en/interview-notice/",
+  "fetchedAt": "2026-09-25T11:48:36.589Z",
+  "sha256": "d350ed3904498d5da0a16cd3ce58d290109696a1a154b7345e69e3241267d8e6",
+  "bytes": 129487,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/08/2026082055.pdf",
+  "fetchedAt": "2026-09-25T11:48:37.918Z",
+  "sha256": "16f9d14998e01ddd4426dbd1fbd0c661b1051c29142cf53672b35cb028ad5b7f",
+  "bytes": 1714802,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s32d2ca7eedf739ef4c3800713ec482e1a/uploads/2026/09/2026091723.pdf",
+  "fetchedAt": "2026-09-25T11:48:38.707Z",
+  "sha256": "c5df72ef8fcb3ba3141cbf8d131e15d0b70cefdb3781dfbf33d593d1a035f008",
+  "bytes": 252885,
+  "contentType": "application/pdf"
+ }
+]

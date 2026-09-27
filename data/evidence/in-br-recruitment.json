@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://bpsc.bihar.gov.in/",
+  "fetchedAt": "2026-09-25T01:55:42.302Z",
+  "sha256": "070f208a5c488d5b1f4c8a692a0fd7ef7eeea1cfbb2a401032fed03be130e3f4",
+  "bytes": 296085,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://bpsc.bihar.gov.in/wp-admin/admin-ajax.php",
+  "fetchedAt": "2026-09-25T01:55:44.221Z",
+  "sha256": "d7a3f45c8497d8da020b36db302c2d26c668eda795c7ba040596cf5de1e756ab",
+  "bytes": 16920,
+  "contentType": "application/json; charset=UTF-8"
+ },
+ {
+  "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-152026-TRE-4.0_BPSC-20260922-dbsf04.pdf",
+  "fetchedAt": "2026-09-25T01:55:46.719Z",
+  "sha256": "61a12b83e5ca2aa9342a8e2b35621f66e3cd8e3bf6bd2e8858d9a730c4ded398",
+  "bytes": 1476684,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-152026-TRE-4.0-Advertisement_BPSC-20260922-vn0ekm.pdf",
+  "fetchedAt": "2026-09-25T01:55:47.975Z",
+  "sha256": "0aff8f1d269f327dd24ffbbae5f239ae4bd9b6ea1e76405600b334c123af8d8e",
+  "bytes": 25884,
+  "contentType": "application/pdf"
+ }
+]

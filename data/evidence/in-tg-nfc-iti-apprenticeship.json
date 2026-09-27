@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://www.nfc.gov.in/recruitment.html",
+  "fetchedAt": "2026-09-25T05:54:23.555Z",
+  "sha256": "e975108ef465bc7ea804fe7ddf0232741d9aa966b05cdac80e211ffb85313de2",
+  "bytes": 84594,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/nfc-r-III-1082026.pdf",
+  "fetchedAt": "2026-09-25T05:54:25.490Z",
+  "sha256": "6ab8df414fc7f0c485d78375f8471a8c802edffb0b8bfcf8a6ad3cfa60a9bf29",
+  "bytes": 2283593,
+  "contentType": "application/pdf"
+ }
+]

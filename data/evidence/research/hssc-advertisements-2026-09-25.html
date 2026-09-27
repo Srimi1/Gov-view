@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Haryana Staff Selection Commission</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdn.datatables.net/v/bs5/dt-2.0.7/datatables.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+   <script src="https://cdn.datatables.net/v/bs5/dt-2.0.7/datatables.min.js"></script>
+   <link rel="stylesheet" href="https://hssc.gov.in/css/style.css">
+     <script src="https://hssc.gov.in/js/custom.js"></script>
+
+</head>
+<body>
+
+    <header>
+    <!-- Top Row: Logo and Title -->
+    <div class="header-top d-flex justify-content-between align-items-center">
+        <a href="https://hssc.gov.in" class="logo-link">
+            <img src="https://hssc.gov.in/images/logo.png" alt="Logo" class="logo-img">
+            <div class="logo-text">
+                <span class="org-name">हरियाणा कर्मचारी चयन आयोग</span>
+                <span class="app-name">Haryana Staff Selection Commission</span>
+            </div>
+        </a>
+        <!-- 🔻 NEW Notification Section (below header) -->
+         
+         
+ <div class="latest-noti-container">
+        <ul class="latest_noti mb-0">
+            <li class="d-flex align-items-center">
+                <a target="_blank"
+                   href="https://onetimeregn.haryana.gov.in/hssc"
+                   class="noti-link">
+                    <b>Apply for CET Group D-05/2026</b>
+                </a>
+                <img src="https://hssc.gov.in/images/tenor.gif" class="noti-gif ms-2" />
+            </li>
+            <li class="d-flex align-items-center">
+                <a target="_blank"
+                   href="https://adv062026.hryssc.com"
+                   class="noti-link">
+                    <b>Apply for Advt no. 06/2026</b>
+                </a>
+                
+            </li>
+        </ul>
+    </div>
+    
+    </div>
+
+    <!-- Bottom Row: Navigation Menu -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid d-flex justify-content-between align-items-center">
+            <!-- Brand for mobile -->
+            <a class="navbar-brand d-lg-none" href="https://hssc.gov.in">Haryana Staff Selection Commission</a>
+
+            <!-- Mobile Toggle -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Menu Items -->
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav nav-flex-gap">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            About
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/overview">Overview</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/function">Functions</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/organisationStructure">Organisation Structure</a></li> 
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/commission">Commission</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/branchInfo">Branch Information</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/contact">Contact</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Dropdown Menu Example -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Recruitment
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/process">Process</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/applicantInstruction">Instructions to Applicants</a></li>
+                            <li><a class="dropdown-item" href="#">Apply for Job</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/advertisement">Advertisements</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/result">Results</a>
+                    </li>
+                    
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            E-Citizen
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/rightToInfo">Right to Information</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/publicNotice">Public Notice</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/citizenCharter">Citizen Charter</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/notifications">Notifications</a></li>
+                            <li><a class="dropdown-item" href="https://hssc.gov.in/faq">FAQ’s</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://hssc.gov.in/tender">Tenders</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<style type="text/css">
+.latest-noti-container {
+    text-align: right;
+}
+
+.latest_noti {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.latest_noti li a {
+    font-size: 14px;
+    color: red;
+}
+
+.noti-gif {
+    height: 28px;
+    width: 28px;
+}
+
+
+
+
+
+
+</style>
+
+    <main class="container-fluid">
+        
+<div class="container-fluid" style="background-color: white;">
+    <div class="container py-4 px-3 px-md-0" style="max-width: 1200px;">
+
+        <div class="d-flex justify-content-between align-items-center mb-5">
+            <p class="mb-0 small text-uppercase content-text">
+                <a href="https://hssc.gov.in" class="text-secondary text-decoration-none">HOME</a>
+                <span class="mx-1 text-secondary">/</span>
+                <span class="fw-bold text-dark">Advertisements</span>
+            </p>
+            <p class="mb-0 small text-uppercase content-text">
+                <a href="javascript:window.print()" class="text-dark text-decoration-none">
+                    <i class="bi bi-printer me-1"></i> <span class="text-dark">PRINT /</span>
+                </a>
+            </p>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-12">
+                <h1 class="fw-normal display-6 content-heading" style="font-weight: 600 !important;">Advertisements</h1>
+            </div>
+        </div>
+<div class="mb-3 d-flex justify-content-end align-items-center">
+    <input 
+        type="text" 
+        id="searchInput" 
+        class="form-control" 
+        placeholder="Search Advertisement No or Date..." 
+        style="max-width: 300px;"
+    >
+</div>
+
+
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="table-responsive">
+                   <input type="hidden" id="siteUrl" value="https://hssc.gov.in">
+                     <input type="hidden" id="section" value="advertisements">
+                    <table id="advertisementsTable" class="table table-bordered table-hover mb-0" style="border: 1px solid #ccc; width: 100%;">
+                        <thead style="background-color: #f0f0f0;">
+                            <tr>
+                                <th scope="col" class="content-text fw-bold p-2">Advertisement No.</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center">Date of Publication</th>
+                                <th scope="col" class="content-text fw-bold p-2 text-center">Download</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ajaxTableBody">
+                           
+
+                                                            <tr>
+                                    <td class="content-text p-2">Advt. No. 05/2026 (Group-D) Closing Date Extension</td>
+                                    <td class="content-text p-2 text-center">2026-07-03</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Advt. No. 06/2026 (Group-C)</td>
+                                    <td class="content-text p-2 text-center">2026-06-22</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">05/2026</td>
+                                    <td class="content-text p-2 text-center">2026-06-18</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">01/2023 (Additional Posts)</td>
+                                    <td class="content-text p-2 text-center">2026-06-03</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-8dc6a16b0043/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Corrigendum Advt. No. 05/2024 </td>
+                                    <td class="content-text p-2 text-center">2026-04-07</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-9cf7-1335-819d-671679930008/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Corrigendum in Appendix- A (Advt.No.04/2026) </td>
+                                    <td class="content-text p-2 text-center">2026-03-16</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-f73b050a006c/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">01/2026, 02/2026, 03/2026 &amp; 04/2026</td>
+                                    <td class="content-text p-2 text-center">2026-03-16</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-f737d99a0068/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Advt. No. 04/2026</td>
+                                    <td class="content-text p-2 text-center">2026-02-06</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-32aaa1600063/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Corrigendum (Appendix-A Advt. No. 03/2026)</td>
+                                    <td class="content-text p-2 text-center">2026-02-05</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-2d8e98c60060/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class="content-text p-2">Corrigendum in Appendix- A (Advt.No.02/2026)</td>
+                                    <td class="content-text p-2 text-center">2026-02-03</td>
+                                    <td class="content-text p-2 text-center">
+                            <a target="_" href="https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-225da6c8005d/advertisements" class="text-danger" title="Download PDF">
+    <i class="bi bi-file-earmark-pdf-fill" style="font-size: 1.2rem;"></i>
+</a>
+                                    </td>
+                                </tr>
+                                                        
+                        </tbody>
+                    </table>
+                    <div id="pagination" class="d-flex justify-content-center mt-4"></div>
+                </div>
+            </div>
+        </div>
+        
+        
+
+    </div>
+</div>
+
+
+
+    </main>
+
+    <footer class="footer bg-dark text-white mt-5 pt-4 pb-2">
+    <div class="container text-center">
+
+        
+        <div class="footer-links mb-3">
+            <a href="https://hssc.gov.in/termsConditions" class="footer-link">Terms & Conditions</a>
+            <a href="https://hssc.gov.in/privacyPolicy" class="footer-link">Privacy Policy</a>
+            <a href="https://hssc.gov.in/copyrightPolicy" class="footer-link">Copyright Policy</a>
+            <a href="https://hssc.gov.in/hyperlinkingPolicy" class="footer-link">Hyperlinking Policy</a>
+            <a href="https://hssc.gov.in/accessibilityStatement" class="footer-link">Accessibility Statement</a>
+            <a href="https://hssc.gov.in/disclaimer" class="footer-link">Disclaimer</a>
+            <a href="https://hssc.gov.in/help" class="footer-link">Help</a>
+        </div>
+
+        
+        <p class="mb-1">Content Owned by Haryana Staff Selection Commission</p>
+        <p class="mb-1">Developed By <a href="https://www.hkcl.in" class="text-primary text-decoration-none">HKCL</a></p>
+        <p class="small mb-4">Copyright © 2026 Haryana Staff Selection Commission. All Rights Reserved.</p>
+
+        
+        <div class="row align-items-center border-top border-secondary pt-3">
+            <div class="col-md-6 text-md-start text-center mb-2 mb-md-0">
+                <span>Last Updated: <strong>25/09/26</strong></span>
+            </div>
+         <!--    <div class="col-md-3 text-center mb-2 mb-md-0">
+                <span>Visitor Counter: <strong>Web Hits</strong></span>
+            </div> -->
+            <div class="col-md-3 text-md-end text-center">
+                <img src="https://hssc.gov.in/images/digital-india.png" alt="Digital India" height="40">
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

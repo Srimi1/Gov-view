@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://www.dnsricmpatna.org/notice.php",
+  "fetchedAt": "2026-09-25T11:28:31.773Z",
+  "sha256": "e94b6f31c3a4282dd6ed0d1e88954c4bd0815b67d3249464f6d0f684fefd39b9",
+  "bytes": 38193,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.dnsricmpatna.org/BBA/17-08-26.jpeg",
+  "fetchedAt": "2026-09-25T11:28:32.877Z",
+  "sha256": "89f892575a8a22f6fe727d8046901becb97f450ba025027b941ebf729a5e82f0",
+  "bytes": 368637,
+  "contentType": "image/jpeg"
+ },
+ {
+  "url": "https://www.dnsricmpatna.org/BBA/DetailsofAdvertisment14-08-26.pdf",
+  "fetchedAt": "2026-09-25T11:28:33.837Z",
+  "sha256": "9996c0901ce2b30c2c32e7df9ce907a694d4c8c08b9dbc19f3413c1d1bd3b62c",
+  "bytes": 594124,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.dnsricmpatna.org/BBA/ApplicationForm14-08-26.pdf",
+  "fetchedAt": "2026-09-25T11:28:34.844Z",
+  "sha256": "0fb5f56092db5edb88841028889192914c9f26c8bd97c7707172e9706f9d2c29",
+  "bytes": 614157,
+  "contentType": "application/pdf"
+ }
+]

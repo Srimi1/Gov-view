@@ -1,0 +1,7 @@
+{
+  "url": "https://apsc.nic.in/",
+  "attemptedAt": "2026-09-24T20:35:05.090Z",
+  "error": "fetch failed",
+  "cause": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "systemTrustEnabled": true
+}

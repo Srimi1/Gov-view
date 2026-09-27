@@ -1,0 +1,20 @@
+{
+  "recordedAt": "2026-09-24T20:49:39.544735+00:00",
+  "officialPortalIdentification": "Retained apsc-home.html links to https://apscrecruitment.in/.",
+  "publicEndpointDiscovery": "Retained public application JavaScript, AdvertisementService methods whatsNew and getApplyData, plus public server base URL. Only public GET endpoints were queried; no account or applicant endpoints used.",
+  "observations": [
+    {
+      "url": "https://apscrecruitment.in/server/api/Advertisement/WhatsNew",
+      "outcome": "HTTP success with success:true, unAuthorizedRequest:false and empty result array. Body and evidence retained in apsc-whatsnew.json and apsc-whatsnew-evidence.json."
+    },
+    {
+      "url": "https://apscrecruitment.in/server/api/Advertisement/ActiveExaminationList",
+      "outcome": "Polite fetch exhausted retries with HTTP 500. No successful body retained."
+    },
+    {
+      "url": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+      "outcome": "Node certificate-chain validation failed, including with system trust enabled. Standard curl HEAD with certificate verification returned HTTP 401; no authentication or challenge bypass attempted."
+    }
+  ],
+  "interpretation": "These observations do not establish that Assam or Andhra Pradesh have no current opportunities. Their collection coverage remains unresolved."
+}

@@ -1,0 +1,336 @@
+{
+  "sourceId": "in-gj-recruitment",
+  "collectedAt": "2026-09-24T23:02:56.031Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "GPSC advertisement 42/2026-27",
+      "programme": "Marine Engineer, Class I",
+      "status": "uncertain",
+      "statusNote": "Application window appears in official dashboard and bilingual notice; founder review pending.",
+      "scopeLabel": "Gujarat Maritime Board special recruitment drive; selected applicant becomes board employee, not Gujarat Government employee",
+      "outcome": "One Marine Engineer, Class I board post; Specific Learning Disability (SLD), 40–100%, one reserved post. Shared bilingual PDF covers two separately applied posts.",
+      "qualifications": "Bachelor's in Marine or Mechanical Engineering; Marine Engineer Officer Class I competency certificate; at least 5 years after first competency certificate, including one year as Chief or Second Engineer on a foreign-going ship. Basic computer knowledge and adequate Gujarati or Hindi (or both). Foreign degrees require validity/equivalency evidence (bilingual detailed notice pages 10–12).",
+      "citizenshipRule": "Detailed advertisement states no national citizenship test. Foreign university degrees and experience may be considered with equivalency proof, but that does not establish permission for a foreign citizen to apply, sit selection, or take appointment; verify recruitment rules and authority decision.",
+      "residenceRule": "No general Gujarat domicile requirement identified for the unreserved vacancy; Gujarat-origin reservation and fee benefits are distinct from application eligibility. Founder must confirm against recruitment rules.",
+      "selectionStages": [
+        "Objective preliminary test, generally Gujarati medium unless GPSC decides otherwise",
+        "Application/document scrutiny",
+        "Interview; preliminary test and interview each carry 50% weighted marks"
+      ],
+      "fee": "PwD applicants pay no application fee under detailed notice; other category/fee conditions require review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-08",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify specific disability category and Specific Learning Disability (SLD), 40–100%, one reserved post evidence; this is a PwD-only special recruitment drive (English detailed notice page 9)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify national citizenship/appointment permission from the scanned recruitment rules; foreign-degree equivalency alone does not prove it (detailed notice pages 12 and recruitment-rules PDF)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Marine/Mechanical Engineering degree, Class I competency certificate, 5 years after first certificate, post qualification shipboard experience, and advertised age 21–42 with all experience/relaxation exceptions at 8 October 2026 (detailed notice pages 10–11)."
+          },
+          {
+            "stage": "selection",
+            "text": "Preliminary test is generally in Gujarati unless GPSC decides otherwise; confirm actual medium before examination. No formal language-proficiency level is printed (page 12)."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify adequate Gujarati or Hindi (or both), computer knowledge, foreign-degree equivalency where applicable, and board appointment conditions (pages 9–12)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Preliminary test generally Gandhinagar/Ahmedabad; actual venue not yet published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://gpsc-ojas.gujarat.gov.in/AdvtList.aspx?type=lCxUjNjnTp8=",
+      "changes": [],
+      "id": "gpsc-maritime-42-2026-27",
+      "sourceId": "in-gj-recruitment",
+      "title": "Marine Engineer, Class I",
+      "authority": "Gujarat Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GJ"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Dashboard and bilingual detailed notice: applications 24 September 2026 at 14:00 through 8 October 2026 at 23:59. Asia/Kolkata is local Gujarat time; notice prints no timezone label."
+      },
+      "salary": "Pay Matrix Level 12 (₹78,800–₹2,09,200)",
+      "sources": [
+        {
+          "id": "in-gj-recruitment:60ccc4183089",
+          "title": "GPSC advertisement dashboard",
+          "authority": "Gujarat Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+          "sha256": "a70c3f592e32182c3e6f28f85b9724f5748e6dc92980dc3c1fb3f082351e996a",
+          "lastSuccessfulFetchAt": "2026-09-24T23:02:58.541Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:9f8522090a19",
+          "title": "GPSC 42/2026-27 detail",
+          "authority": "Gujarat Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2370&tab=Advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2370&tab=Advertisement",
+          "sha256": "dba7d6942ecb210dfaf7551587d2aa9f32168c59f311be550038a10fc9611ee6",
+          "lastSuccessfulFetchAt": "2026-09-24T23:02:58.762Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:7f1febdf11ab",
+          "title": "GPSC 42/2026-27 detailed",
+          "authority": "Gujarat Public Service Commission",
+          "language": "Gujarati/English",
+          "format": "PDF",
+          "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-42-2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-42-2026.pdf",
+          "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+          "lastSuccessfulFetchAt": "2026-09-24T23:02:59.891Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:33858e9bd592",
+          "title": "GPSC 42/2026-27 recruitment-rules",
+          "authority": "Gujarat Public Service Commission",
+          "language": "Gujarati",
+          "format": "PDF",
+          "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-42-2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-42-2026.pdf",
+          "sha256": "7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce",
+          "lastSuccessfulFetchAt": "2026-09-24T23:03:00.839Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "GPSC advertisement 43/2026-27",
+      "programme": "Engineer Surveyor, Class I",
+      "status": "uncertain",
+      "statusNote": "Application window appears in official dashboard and bilingual notice; founder review pending.",
+      "scopeLabel": "Gujarat Maritime Board special recruitment drive; selected applicant becomes board employee, not Gujarat Government employee",
+      "outcome": "One Engineer Surveyor, Class I board post; Low Vision (LV), 40–70%, one reserved post. Shared bilingual PDF covers two separately applied posts.",
+      "qualifications": "Bachelor's in Marine or Mechanical Engineering; Marine Engineer Officer Class I competency certificate; at least 8 years after first competency certificate, including four years as Chief or Second Engineer on a foreign-going ship. Basic computer knowledge and adequate Gujarati or Hindi (or both). Foreign degrees require validity/equivalency evidence (bilingual detailed notice pages 10–12).",
+      "citizenshipRule": "Detailed advertisement states no national citizenship test. Foreign university degrees and experience may be considered with equivalency proof, but that does not establish permission for a foreign citizen to apply, sit selection, or take appointment; verify recruitment rules and authority decision.",
+      "residenceRule": "No general Gujarat domicile requirement identified for the unreserved vacancy; Gujarat-origin reservation and fee benefits are distinct from application eligibility. Founder must confirm against recruitment rules.",
+      "selectionStages": [
+        "Objective preliminary test, generally Gujarati medium unless GPSC decides otherwise",
+        "Application/document scrutiny",
+        "Interview; preliminary test and interview each carry 50% weighted marks"
+      ],
+      "fee": "PwD applicants pay no application fee under detailed notice; other category/fee conditions require review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-08",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify specific disability category and Low Vision (LV), 40–70%, one reserved post evidence; this is a PwD-only special recruitment drive (English detailed notice page 9)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify national citizenship/appointment permission from the scanned recruitment rules; foreign-degree equivalency alone does not prove it (detailed notice pages 12 and recruitment-rules PDF)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Marine/Mechanical Engineering degree, Class I competency certificate, 8 years after first certificate, post qualification shipboard experience, and advertised age 21–45 with all experience/relaxation exceptions at 8 October 2026 (detailed notice pages 10–11)."
+          },
+          {
+            "stage": "selection",
+            "text": "Preliminary test is generally in Gujarati unless GPSC decides otherwise; confirm actual medium before examination. No formal language-proficiency level is printed (page 12)."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify adequate Gujarati or Hindi (or both), computer knowledge, foreign-degree equivalency where applicable, and board appointment conditions (pages 9–12)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Preliminary test generally Gandhinagar/Ahmedabad; actual venue not yet published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://gpsc-ojas.gujarat.gov.in/AdvtList.aspx?type=lCxUjNjnTp8=",
+      "changes": [],
+      "id": "gpsc-maritime-43-2026-27",
+      "sourceId": "in-gj-recruitment",
+      "title": "Engineer Surveyor, Class I",
+      "authority": "Gujarat Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GJ"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-24",
+        "closesOn": "2026-10-08",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Dashboard and bilingual detailed notice: applications 24 September 2026 at 14:00 through 8 October 2026 at 23:59. Asia/Kolkata is local Gujarat time; notice prints no timezone label."
+      },
+      "salary": "Pay Matrix Level 13 (₹1,23,100–₹2,15,900)",
+      "sources": [
+        {
+          "id": "in-gj-recruitment:60ccc4183089",
+          "title": "GPSC advertisement dashboard",
+          "authority": "Gujarat Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+          "sha256": "a70c3f592e32182c3e6f28f85b9724f5748e6dc92980dc3c1fb3f082351e996a",
+          "lastSuccessfulFetchAt": "2026-09-24T23:02:58.541Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:f6debbd58505",
+          "title": "GPSC 43/2026-27 detail",
+          "authority": "Gujarat Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2371&tab=Advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2371&tab=Advertisement",
+          "sha256": "3d09cd0cf361626fcf27a36a357469ff104d167eafa3fd2d4e68d2358ae2d94a",
+          "lastSuccessfulFetchAt": "2026-09-24T23:03:01.777Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:f393c8999959",
+          "title": "GPSC 43/2026-27 detailed",
+          "authority": "Gujarat Public Service Commission",
+          "language": "Gujarati/English",
+          "format": "PDF",
+          "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-43-2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-43-2026.pdf",
+          "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+          "lastSuccessfulFetchAt": "2026-09-24T23:03:02.880Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-gj-recruitment:5d3ce4d2d381",
+          "title": "GPSC 43/2026-27 recruitment-rules",
+          "authority": "Gujarat Public Service Commission",
+          "language": "Gujarati",
+          "format": "PDF",
+          "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-43-2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-43-2026.pdf",
+          "sha256": "9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e",
+          "lastSuccessfulFetchAt": "2026-09-24T23:03:03.873Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+      "fetchedAt": "2026-09-24T23:02:58.541Z",
+      "sha256": "a70c3f592e32182c3e6f28f85b9724f5748e6dc92980dc3c1fb3f082351e996a",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 694890
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2370&tab=Advertisement",
+      "fetchedAt": "2026-09-24T23:02:58.762Z",
+      "sha256": "dba7d6942ecb210dfaf7551587d2aa9f32168c59f311be550038a10fc9611ee6",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 148195
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-42-2026.pdf",
+      "fetchedAt": "2026-09-24T23:02:59.891Z",
+      "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+      "contentType": "application/pdf",
+      "bytes": 774932
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-42-2026.pdf",
+      "fetchedAt": "2026-09-24T23:03:00.839Z",
+      "sha256": "7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce",
+      "contentType": "application/pdf",
+      "bytes": 1484488
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2371&tab=Advertisement",
+      "fetchedAt": "2026-09-24T23:03:01.777Z",
+      "sha256": "3d09cd0cf361626fcf27a36a357469ff104d167eafa3fd2d4e68d2358ae2d94a",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 148112
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-43-2026.pdf",
+      "fetchedAt": "2026-09-24T23:03:02.880Z",
+      "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+      "contentType": "application/pdf",
+      "bytes": 774932
+    },
+    {
+      "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-43-2026.pdf",
+      "fetchedAt": "2026-09-24T23:03:03.873Z",
+      "sha256": "9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e",
+      "contentType": "application/pdf",
+      "bytes": 1656990
+    }
+  ],
+  "warnings": [
+    "Only GPSC maritime advertisements 42 and 43/2026-27 are staged; other Gujarat advertisements and authorities remain gaps.",
+    "These are separate application numbers and one post each, though their detailed-document URLs have identical PDF bytes; no duplicate cycle is created from the shared document.",
+    "Special drive requires specific disability type/range per post. National citizenship and appointment eligibility for foreign citizens are not stated in the detailed PDF; scanned recruitment rules need founder review.",
+    "Adequate Gujarati or Hindi is required, and preliminary test is generally Gujarati medium unless GPSC decides otherwise. No formal language level or automatic equivalence is inferred.",
+    "Actual examination venue is not announced; Gandhinagar/Ahmedabad in the notice is general practice, not an exam pin."
+  ],
+  "approvalRevisions": {
+    "gpsc-maritime-42-2026-27": {
+      "evidenceRevision": "ba89e30c647ef29c0344444038e115f30c6eeea90c1791860cc518058cc10fb4",
+      "recordRevision": "5589e99f8fb66c8d86df5e1a247947755269fb3eb7a9112bab6ef888234d619f"
+    },
+    "gpsc-maritime-43-2026-27": {
+      "evidenceRevision": "109c4d5a94f515c271f358b6f111903b89f3632e276fef9988c52672916f9610",
+      "recordRevision": "7c3388d98e4d6116d1954e28da6c864946ccba806cb33cf58c7d0f7480f58b4b"
+    }
+  }
+}

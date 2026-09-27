@@ -1,0 +1,1713 @@
+{
+  "sourceId": "in-dl-ignou-nonteaching-2026",
+  "collectedAt": "2026-09-25T13:00:36.968Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 1",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "2 vacancies for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in Learning Management System installation, configuration, administration and online assessment. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 1 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 1: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 1 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-1",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — LMS — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 2",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "2 vacancies for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in enterprise networks, hyperconverged infrastructure and mini cloud management. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 2 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 2: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 2 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-2",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — Networking — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 3",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in 2D/3D animation, multimedia, motion graphics, visual effects and video editing. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 3 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 3: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 3 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-3",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — Animator — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 4",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in game design and development, interactive multimedia, 2D/3D assets and testing. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 4 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 4: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 4 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-4",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — Game Designer — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 5",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in virtual/augmented reality applications and immersive learning content. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 5 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 5: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 5 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-5",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — VR/AR Application Development — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 6",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Assistant, pay Level 8. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 3 years of post-qualification work in AI/ML application development, data analytics and deployment. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 6 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 3,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 6: 3 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 6 specialty, 37-year ordinary upper age limit or documented relaxation, recognized education/55% and 3 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-6",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Assistant — Artificial Intelligence — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 8; advertisement also prints pre-revised ₹9,300–34,800 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 7",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Manager, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 5 years of post-qualification work in Learning Management System installation, configuration, administration and online assessment. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 7 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 5,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 7: 5 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 7 specialty, 42-year ordinary upper age limit or documented relaxation, recognized education/55% and 5 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-7",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Manager — LMS — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 8",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Manager, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 5 years of post-qualification work in enterprise networks, hyperconverged infrastructure and mini cloud management. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 8 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 5,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 8: 5 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 8 specialty, 42-year ordinary upper age limit or documented relaxation, recognized education/55% and 5 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-8",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Manager — Networking — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 9",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Manager, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 5 years of post-qualification work in virtual/augmented reality applications and immersive learning content. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 9 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 5,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 9: 5 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 9 specialty, 42-year ordinary upper age limit or documented relaxation, recognized education/55% and 5 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-9",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Manager — VR/AR Application Development — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 10",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Technical Manager, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 5 years of post-qualification work in AI/ML application development, data analytics and deployment. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 10 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 5,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 10: 5 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 10 specialty, 42-year ordinary upper age limit or documented relaxation, recognized education/55% and 5 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-10",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Technical Manager — Artificial Intelligence — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 11",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Assistant Director, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 10 years of post-qualification work in Learning Management System administration and large-scale online education, with additional software and integration knowledge. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 11 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 10,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 11: 10 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 11 specialty, 48-year ordinary upper age limit or documented relaxation, recognized education/55% and 10 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-11",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Assistant Director — LMS — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "69/2026/Admn. · post 12",
+      "programme": "IGNOU non-teaching recruitment 2026",
+      "status": "upcoming",
+      "statusNote": "Original career row and exact 12-page advertisement retained. First connector output, form identity and any later amendments need founder review.",
+      "scopeLabel": "IGNOU recruitment; appointment may be at headquarters or regional centres across India. New Delhi mailing address is not a test venue or residence rule.",
+      "outcome": "1 vacancy for Assistant Director, pay Level 10. This first advertised round uses direct recruitment; tenure or permanent status is not stated in the notice.",
+      "qualifications": "Recognized B.E./B.Tech. in CS/IT, M.Sc. in CS/IT, or MCA with at least 55% or equivalent grade, plus at least 10 years of post-qualification work in enterprise networking, cloud and media-delivery infrastructure. Exact specialty duties, desirable certificates and document proof vary by post in advertisement pages 1–9. Qualification result must be declared by online closing date.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, qualifying pre-1962 Tibetan refugees, and specified Indian-origin migrants may follow narrow routes only with a Government of India eligibility certificate. A person needing that certificate may sit examination before it is issued, but cannot receive an appointment offer until issue. Nationality alone does not establish a refugee or migration route.",
+      "residenceRule": "No state domicile is specified in the advertisement. Posting may be at IGNOU headquarters or any regional centre; New Delhi is the hard-copy receipt address, not a residence rule.",
+      "selectionStages": [
+        "Separate online application for each chosen post and online fee",
+        "Signed printout and self-attested documents must reach IGNOU by 2026-11-12",
+        "Shortlisting against post-specific education and experience",
+        "Possible written/CBT, skill test and/or interview; syllabus and centres to be announced if a test is held",
+        "Original-document and eligibility-certificate verification before appointment"
+      ],
+      "fee": "Online: ₹1,000 for UR/OBC(NCL)/EWS; ₹500 for SC/ST/PwBD/ex-servicemen/women, plus applicable bank charges. Fee is non-refundable. Reservation and fee eligibility need individual review.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-11-02",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "conditionalReason": "Nepal or Bhutan subjects have a conditional route. Government of India eligibility certificate is required before appointment offer; confirm personal status and document timing with IGNOU.",
+          "uncertain": [
+            "CN",
+            "PK",
+            "MM",
+            "LK",
+            "KE",
+            "UG",
+            "TZ",
+            "ZM",
+            "MW",
+            "CD",
+            "ET",
+            "VN"
+          ],
+          "uncertainReason": "The notice permits only specified pre-1962 Tibetan refugees or Indian-origin migrants from listed countries, with a Government of India eligibility certificate. Nationality alone cannot establish this route; ask IGNOU to verify your circumstances.",
+          "evidence": "IGNOU advertisement 69/2026/Admn. page 9, nationality/citizenship section 7: Indian citizens; Nepal/Bhutan subjects and specified Tibetan refugees or Indian-origin migrants only with Government of India eligibility certificate. Examination admission can precede certificate; appointment offer cannot."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Computer Applications"
+          ],
+          "finalYearAllowed": false,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 12 and instruction 5: listed CS/IT degree or MCA, 55% and declared result by online close."
+        },
+        "experience": {
+          "minYears": 10,
+          "evidence": "IGNOU advertisement 69/2026/Admn., post 12: 10 post-qualification years in the named specialty; instruction 13."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm post 12 specialty, 48-year ordinary upper age limit or documented relaxation, recognized education/55% and 10 qualifying years. Confirm any conditional nationality route and certificate with IGNOU. Online form and signed hard copy have separate deadlines."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents and any written/CBT, skill-test or interview requirements. Exam paper language and centres are not fixed yet; no standardized language level is published."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection, posting and service conditions. Any required Government of India eligibility certificate must be issued before appointment offer."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Test centre not published; nationwide posting possibility is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ignou-69-2026-post-12",
+      "sourceId": "in-dl-ignou-nonteaching-2026",
+      "title": "Assistant Director — Networking — IGNOU",
+      "authority": "Indira Gandhi National Open University",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-10-03",
+        "closesOn": "2026-11-02",
+        "cutoffLocalTime": "23:59:59",
+        "cutoffInclusive": true,
+        "officialTimeZone": null,
+        "precision": "second",
+        "note": "Advertisement page 1: online applications 2026-10-03 through 2026-11-02 at 23:59:59. No governing timezone is named. Page 12 separately requires signed printout and self-attested documents by 2026-11-12; that later receipt date does not reopen online applications."
+      },
+      "languageNote": "Advertisement page 12 says any recruitment test may be in English only or English and Hindi; English version controls differences. It gives no formal proficiency level or language certificate for these posts.",
+      "salary": "7th CPC pay Level 10; advertisement also prints pre-revised ₹15,600–39,100 scale.",
+      "sources": [
+        {
+          "id": "in-dl-ignou-nonteaching-2026:ac8071e66fd1",
+          "title": "IGNOU official career register, non-teaching row",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/announcement/Career?nav=5",
+          "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:38.259Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-ignou-nonteaching-2026:0dc59d489170",
+          "title": "IGNOU advertisement 69/2026/Admn., 12 pages",
+          "authority": "Indira Gandhi National Open University",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+          "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+          "lastSuccessfulFetchAt": "2026-09-25T13:00:39.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+      "fetchedAt": "2026-09-25T13:00:38.259Z",
+      "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 209297
+    },
+    {
+      "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+      "fetchedAt": "2026-09-25T13:00:39.430Z",
+      "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+      "contentType": "application/pdf",
+      "bytes": 600372
+    }
+  ],
+  "warnings": [
+    "Twelve separate post choices cover fourteen vacancies; vacancies do not multiply application-cycle counts.",
+    "Online close is 2 November 23:59:59 without a named official timezone; 12 November is a separate hard-copy receipt deadline.",
+    "Nepal/Bhutan and refugee/migrant routes need an issued Government of India eligibility certificate; candidate nationality alone cannot prove migration or refugee status.",
+    "No formal Hindi/English proficiency level is published. Possible test-paper language is not a proficiency requirement.",
+    "This exact-document connector does not cover IGNOU teaching, deputation or other career rows. Founder review and later-correction checks remain required."
+  ],
+  "approvalRevisions": {
+    "ignou-69-2026-post-1": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "05c42111293551085a90b4d5976ba088e11a3c539cff8985c783475f40e7f544"
+    },
+    "ignou-69-2026-post-2": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "7b1a4dd8f5ee0cb6d661b310955a84f126b69a9e89086396611958c67f686a1f"
+    },
+    "ignou-69-2026-post-3": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "992a53faaf1f77a71951b14ce63f4f80661b858e0eb42036fd977da28c3051d3"
+    },
+    "ignou-69-2026-post-4": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "e8ba6a63f733785b9fd3f583703f4be195c9e73f7a51710869271f70631ccb0d"
+    },
+    "ignou-69-2026-post-5": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "01184b8c236856d32a6cc26800df666cdb6be8d7801cd288b77f6cc1426791cd"
+    },
+    "ignou-69-2026-post-6": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "b66cf9021aa681e8cc858618cfde7ff9c853acf1bd331afa82b5696e0cb2feb5"
+    },
+    "ignou-69-2026-post-7": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "1ce7d5d3ad91c99b412ad594a3c69de047d4a0b9f5dbfbfee06f32ef3637b8d9"
+    },
+    "ignou-69-2026-post-8": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "38e3cfb8e32a02a65f434da447312105558470e5064fcebf3664288ec842d3f1"
+    },
+    "ignou-69-2026-post-9": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "5401f099b8ec9f7ef2448fdad90c1185ab4c859746e9e0c5b240dbdaa3566d8a"
+    },
+    "ignou-69-2026-post-10": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "e75b844f88cc1fe9c759b86879201aacd83228163325823cb0d8ca2b0eb747b2"
+    },
+    "ignou-69-2026-post-11": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "850759c89d1329680fbd1a65ff71ca6856f8e8402ff56472bb375b30e8a71a73"
+    },
+    "ignou-69-2026-post-12": {
+      "evidenceRevision": "57d1650ed344959c39048f76659876c0c1288671a590a07f04560569129921ea",
+      "recordRevision": "389adb3f07d72477b513bbd68884f608961cf6e381bc550072c933fb92166033"
+    }
+  }
+}

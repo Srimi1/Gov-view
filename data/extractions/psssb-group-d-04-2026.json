@@ -1,0 +1,32 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-pb-sssb",
+  "cycleId": "punjab-sssb-group-d-04-2026",
+  "indexUrl": "https://sssb.punjab.gov.in/vacancy-group-d/",
+  "detailUrl": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+  "amendmentsUrl": "https://sssb.punjab.gov.in/amendments/?key=group-d&value=1789&parid=1787",
+  "documents": [
+    { "key": "original", "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf", "sha256": "21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e", "title": "Original Group D advertisement 04/2026", "language": "Punjabi and English" },
+    { "key": "august", "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/08/42026New_merged.pdf", "sha256": "32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f", "title": "24 August reopening and vacancy corrigendum", "language": "Punjabi" },
+    { "key": "septemberPunjabi", "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/ਸ਼ੁੱਧੀ-ਪੱਤਰ-ਗਰੁੱਪ-ਡੀ.pdf", "sha256": "9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531", "title": "4 September vacancy and deadline corrigendum", "language": "Punjabi" },
+    { "key": "septemberFinal", "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf", "sha256": "44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da", "title": "17 September final vacancy and deadline corrigendum", "language": "Punjabi and English tables" },
+    { "key": "correction", "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf", "sha256": "c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7", "title": "23 September existing-application correction notice", "language": "Punjabi" }
+  ],
+  "originalOpensOn": "2026-02-27",
+  "originalClosesOn": "2026-03-20",
+  "reopenedOn": "2026-08-25",
+  "finalClosesOn": "2026-09-21",
+  "correctionOpensOn": "2026-09-24",
+  "correctionClosesOn": "2026-09-27",
+  "correctionCutoffLocalTime": "17:00",
+  "vacancies": 2098,
+  "ageAsOn": "2026-01-01",
+  "evidenceNotes": [
+    "17 September signed corrigendum page 1 extends application and fee deadline from 17 to 21 September 2026 and raises combined vacancies to 2,098. The HTML vacancy detail retains an older 14 September row and is not the latest amendment.",
+    "23 September public notice page 1 separately says applications closed 21 September and opens correction portal 24-27 September through 17:00 for existing forms only; this is not a new application period.",
+    "Original advertisement page 3 quotes matriculation with Punjabi as a subject, with specified education exceptions for blind, riot/terror affected, and sweeper appointments. Page 4 quotes a mandatory Matric-equivalent Punjabi qualifying test at minimum 50 percent for final merit; no CEFR equivalence is given.",
+    "Original advertisement page 2 says every category must present a Punjab domicile/residence certificate issued within five years at counselling, in its reservation section. Whether a foreign national can apply or receive appointment is unstated. Founder must verify exact implications for unreserved and overseas candidates with the authority.",
+    "Original advertisement page 4 gives general age 18-37 on 1 January 2026 with multiple exceptions. Structured rule uses only unambiguous minimum 18; upper-age and category exceptions require manual review.",
+    "One advertisement and common merit list form one application cycle. Multiple department/post rows and venues do not multiply cycle count. No exam venue is published."
+  ]
+}

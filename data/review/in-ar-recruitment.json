@@ -1,0 +1,297 @@
+{
+  "sourceId": "in-ar-recruitment",
+  "collectedAt": "2026-09-24T23:36:33.313Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 5/2026",
+      "programme": "Arunachal Pradesh Public Service Combined Competitive Examination 2026",
+      "status": "open",
+      "statusNote": "Scanned advertisement transcribed and exact bytes retained; founder review pending. Notification register checked for later APPSCCE 2026 notices.",
+      "scopeLabel": "One application for 135 posts across 13 service/post families; prelim centre names do not multiply opportunity count",
+      "outcome": "135 Group A/B posts, including Arunachal Pradesh Civil Service, Police Service, Child Development Project Officer, District Officers, Labour Officer, Transport posts, Inspectors and Assistant Section Officers. Appointment remains subject to department checks.",
+      "qualifications": "Graduate degree from a UGC-recognized university or government-declared equivalent. Result-awaiting candidates may enter provisionally but must show proof of passing before the interview. General age 21–35 on 20 October 2026, with APST, PwBD and service relaxations requiring individual review.",
+      "citizenshipRule": "Indian citizenship required for application (advertisement pages 1 and 4). Foreign citizens do not meet the published criterion, even if they meet language or qualification criteria.",
+      "residenceRule": "Valid Arunachal Pradesh Permanent Residence Certificate and Arunachal Pradesh Scheduled Tribe certificate/indigenous status required (advertisement pages 1, 4 and 10). Living in the state alone is insufficient.",
+      "selectionStages": [
+        "Preliminary examination: two objective papers, planned for 6 December 2026",
+        "Main written examination: seven merit papers plus compulsory English qualifying paper",
+        "Interview/viva voce and original-document verification",
+        "Police Service applicants: physical and medical standards",
+        "Appointing department: medical, character, document and recruitment-rule verification"
+      ],
+      "fee": "₹200 online; persons with disabilities exempt (advertisement page 10).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-20",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 5/2026, pages 1 and 4: applicants must be citizens of India."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "finalYearAllowed": true,
+          "evidence": "Advertisement 5/2026, page 3: graduate degree or equivalent; result-awaiting candidates admitted provisionally, with proof required before interview."
+        },
+        "age": {
+          "min": 21,
+          "evidence": "Advertisement 5/2026, page 4: age at least 21 on 20 October 2026; upper limit 35 has APST, PwBD and service relaxations requiring manual review."
+        },
+        "languages": [
+          {
+            "language": "mul",
+            "requirement": "Must speak any eligible indigenous tribal language of Arunachal Pradesh and know local indigenous tribes. Separate 26 August 2026 government notification governs the test mechanism; no CEFR or numerical level stated here.",
+            "stage": "apply",
+            "evidence": "Advertisement 5/2026, page 4, mandatory eligibility criterion (3).",
+            "sourceUrl": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf"
+          },
+          {
+            "language": "en",
+            "requirement": "Preliminary question papers are in English; compulsory English paper in Main examination requires 33% of 300 marks. No CEFR level stated.",
+            "stage": "selection",
+            "evidence": "Advertisement 5/2026, pages 6–7.",
+            "sourceUrl": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify valid Arunachal Permanent Residence Certificate and APST certificate, not just current address (advertisement pages 4 and 10)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify ability to speak an eligible indigenous tribal language of Arunachal and working knowledge of local tribes; language-test mechanism is in separate 26 August 2026 government notification, not yet reviewed (advertisement page 4). No formal proficiency level given."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age upper limit, APST/PwBD/service relaxations and recognized or equivalent graduate qualification (advertisement pages 3–4)."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm English qualifying paper and any indigenous-language test, original degree before interview, plus police physical/medical rules where relevant (advertisement pages 3–6)."
+          },
+          {
+            "stage": "outcome",
+            "text": "Appointing department verifies medical fitness, character, original certificates and post-specific recruitment rules before appointment (advertisement page 11)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Itanagar; exact venue allocated by APPSC",
+          "city": "Itanagar",
+          "latitude": 27.0869,
+          "longitude": 93.6099,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Naharlagun; exact venue allocated by APPSC",
+          "city": "Naharlagun",
+          "latitude": 27.1047,
+          "longitude": 93.6952,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Nirjuli; exact venue allocated by APPSC (Nirjuli; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Bomdila; exact venue allocated by APPSC (Bomdila; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Ziro; exact venue allocated by APPSC (Ziro; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Daporijo; exact venue allocated by APPSC (Daporijo; location not matched)"
+        },
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Seppa; exact venue allocated by APPSC",
+          "city": "Seppa",
+          "latitude": 27.3617,
+          "longitude": 93.0399,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Pasighat; exact venue allocated by APPSC",
+          "city": "Pasighat",
+          "latitude": 28.0663,
+          "longitude": 95.3268,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Yingkiong; exact venue allocated by APPSC (Yingkiong; location not matched)"
+        },
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Tezu; exact venue allocated by APPSC",
+          "city": "Tezu",
+          "latitude": 27.9126,
+          "longitude": 96.1288,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "published",
+          "name": "Published preliminary examination centre: Aalo; exact venue allocated by APPSC",
+          "city": "Aalo",
+          "latitude": 28.2163,
+          "longitude": 94.8539,
+          "precision": "city",
+          "subdivision": "IN-AR"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Basar; exact venue allocated by APPSC (Basar; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Khonsa; exact venue allocated by APPSC (Khonsa; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Changlang; exact venue allocated by APPSC (Changlang; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Roing; exact venue allocated by APPSC (Roing; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Doimukh; exact venue allocated by APPSC (Doimukh; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Yachuli; exact venue allocated by APPSC (Yachuli; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Tawang; exact venue allocated by APPSC (Tawang; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Namsai; exact venue allocated by APPSC (Namsai; location not matched)"
+        },
+        {
+          "kind": "unknown",
+          "name": "Published preliminary examination centre: Likhabali; exact venue allocated by APPSC (Likhabali; location not matched)"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://appsc.gov.in/",
+      "changes": [],
+      "id": "arunachal-psc-2026-05-appscce",
+      "sourceId": "in-ar-recruitment",
+      "title": "Arunachal Pradesh Public Service Combined Competitive Examination 2026",
+      "authority": "Arunachal Pradesh Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-AR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-16",
+        "closesOn": "2026-10-20",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Advertisement 5/2026, page 3: link active from 17:00 on 16 September and closes before 17:00 on 20 October 2026. Page 11 repeats 17:00 cutoff. Notice does not print timezone; Asia/Kolkata is local Arunachal time."
+      },
+      "sources": [
+        {
+          "id": "in-ar-recruitment:99a53111061b",
+          "title": "APPSC advertisement register",
+          "authority": "Arunachal Pradesh Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://appsc.gov.in/Index/sub_page/doc2195/Advertisements",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://appsc.gov.in/Index/sub_page/doc2195/Advertisements",
+          "sha256": "0b93ace16896541e5305396b461073ee2538ebcbd7a522af593c4fcbf97b6bc9",
+          "lastSuccessfulFetchAt": "2026-09-24T23:36:43.895Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ar-recruitment:ef22cc4ebfd1",
+          "title": "APPSC notification register",
+          "authority": "Arunachal Pradesh Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://appsc.gov.in/Index/sub_page/doc12233/Notifications",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://appsc.gov.in/Index/sub_page/doc12233/Notifications",
+          "sha256": "b0e4cd27c1ce26ed3ca04636feccf3dc0cdf23a6c8ef14cec2520124b0e81ae5",
+          "lastSuccessfulFetchAt": "2026-09-24T23:36:49.213Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ar-recruitment:4cda7434bfae",
+          "title": "APPSCCE advertisement 5/2026",
+          "authority": "Arunachal Pradesh Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf",
+          "sha256": "801e254599b1c7127693d35b2e8626a0c1c38c2633eea56db5da08bceb690d31",
+          "lastSuccessfulFetchAt": "2026-09-24T23:36:53.345Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://appsc.gov.in/Index/sub_page/doc2195/Advertisements",
+      "fetchedAt": "2026-09-24T23:36:43.895Z",
+      "sha256": "0b93ace16896541e5305396b461073ee2538ebcbd7a522af593c4fcbf97b6bc9",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 104703
+    },
+    {
+      "url": "https://appsc.gov.in/Index/sub_page/doc12233/Notifications",
+      "fetchedAt": "2026-09-24T23:36:49.213Z",
+      "sha256": "b0e4cd27c1ce26ed3ca04636feccf3dc0cdf23a6c8ef14cec2520124b0e81ae5",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 385306
+    },
+    {
+      "url": "https://appsc.gov.in/upload/RECINS001/APPSCCE_2026_ADVERTISEMENT.pdf",
+      "fetchedAt": "2026-09-24T23:36:53.345Z",
+      "sha256": "801e254599b1c7127693d35b2e8626a0c1c38c2633eea56db5da08bceb690d31",
+      "contentType": "application/pdf",
+      "bytes": 5053461
+    }
+  ],
+  "warnings": [
+    "One combined application covers 135 posts across 13 service/post families; 19 listed examination-centre entries, including combined Naharlagun/Nirjuli, are venue geography only.",
+    "Foreign citizens fail the explicit Indian-citizenship criterion. PRC and APST certification are separate mandatory criteria; residence address alone cannot establish them.",
+    "Indigenous-language speaking criterion and English qualifying paper are published; no CEFR level. Separate government language-test notification and all age relaxations need founder review.",
+    "Scanned notice needs founder visual review. Other APPSC advertisements, departments and local authorities remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "arunachal-psc-2026-05-appscce": {
+      "evidenceRevision": "71743b2c70a8e35aa1e06baa576971c9a1819bdc9ceae428b31e24419ea9bee8",
+      "recordRevision": "58472f7025679f95bee2c05e0fb087fab1d6f7917ccf49f468426f9785be8039"
+    }
+  }
+}

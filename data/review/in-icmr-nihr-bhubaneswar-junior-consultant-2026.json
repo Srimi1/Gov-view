@@ -1,0 +1,225 @@
+{
+  "sourceId": "in-icmr-nihr-bhubaneswar-junior-consultant-2026",
+  "collectedAt": "2026-09-25T16:22:48.633Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "ICMR-NIHRBB/Estt-Proj-Rect/189/2026-27, 22 September 2026 walk-in",
+      "programme": "ICMR-NIHR DRISTI Junior Consultant (Medical)",
+      "status": "upcoming",
+      "statusNote": "22 September English/Hindi notice and institute career row retained. Walk-in begins 29 September 2026 at 10:30; last arrival time is unstated. The age table says 'Max. Age Limit 40 to 50 Years' without category mapping; founder review required.",
+      "scopeLabel": "One September 2026 DRISTI Bharat Tribal Health Observatory contract interview. Earlier May/June NIHR postings reuse the advertisement number but are separate intakes.",
+      "outcome": "1 temporary Junior Consultant (Medical) position, ₹80,000 monthly consolidated. Vacancy count may vary; no right to regular absorption.",
+      "qualifications": "MBBS, BDS, BVSc or equivalent relevant degree plus at least six years of post-qualification experience and proven specialty competence. Notice's 'Max. Age Limit 40 to 50 Years' lacks a category mapping; age relaxation follows ICMR guidelines and needs review.",
+      "citizenshipRule": "English/Hindi notices do not state nationality or foreign-citizen eligibility. A foreign medical degree and professional registration, if applicable, need separate authority confirmation before an international applicant relies on this route.",
+      "residenceRule": "No domicile or residence requirement is stated. Bhubaneswar is interview and work location, not an applicant-residence rule.",
+      "selectionStages": [
+        "Attend walk-in with prescribed form, photo, educational and post-qualification experience documents",
+        "Original-document verification and shortlist based on qualification and experience",
+        "Possible written test or assignment if institute requires it",
+        "Interview and temporary contract selection"
+      ],
+      "fee": "No application fee stated in retained notices; confirm with institute.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-29",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality and work authorization, professional qualification/equivalence, six years after degree, ambiguous age range and ICMR relaxation, and exclusion of regular government organization employees."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify prescribed form, original documents, arrival process, any optional written test/assignment language and later institute amendment."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify medical credential recognition, final contract terms and ₹80,000 consolidated pay; no regular appointment is promised."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published-address",
+          "name": "Annex Building, ICMR-NIHR, Chandrasekharpur, Bhubaneswar, Odisha 751023",
+          "city": "Bhubaneswar",
+          "subdivision": "IN-OR"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076083_dristienglishadvt.pdf",
+      "changes": [],
+      "id": "icmr-nihr-bhubaneswar-junior-consultant-medical-sep-2026",
+      "sourceId": "in-icmr-nihr-bhubaneswar-junior-consultant-2026",
+      "title": "Junior Consultant (Medical) — ICMR-NIHR Bhubaneswar",
+      "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-OR"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-29",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Attend the 29 September 2026 walk-in with prescribed application and original documents. 10:30 is interview start, not a stated last acceptance time. No online opening, closing clock time or official timezone is printed."
+      },
+      "languageNote": "No mandatory language or formal proficiency level is stated in retained notice. Bilingual publication does not itself require Hindi or English fluency; interview and any optional written-test language need authority confirmation.",
+      "salary": "₹80,000 monthly consolidated.",
+      "workLocations": [
+        "ICMR-NIHR, Bhubaneswar, Odisha"
+      ],
+      "sources": [
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:58fb368a0686",
+          "title": "ICMR national employment index, NIHR September role",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.icmr.gov.in/employment-opportunities",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/employment-opportunities",
+          "sha256": "32306b91f3c1a95376c5d1193394317c5ef178b64fa2fb9cd1bbfc48a004108f",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:50.437Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:66f78bafeebe",
+          "title": "NIHR Bhubaneswar career register",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.rmrcbbsr.gov.in/career/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.rmrcbbsr.gov.in/career/",
+          "sha256": "cc30c3e46da0bf5130d1992d7a0a321472972f1301baf73276869124b72c7fab",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:52.638Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:e4d112c32ced",
+          "title": "NIHR September Junior Consultant detail",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.rmrcbbsr.gov.in/careers/advertisement-for-the-post-junior-consultant-medical/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.rmrcbbsr.gov.in/careers/advertisement-for-the-post-junior-consultant-medical/",
+          "sha256": "bdc080eb0af173b831417b6df3827acacf47fdc8377bc49c40d8015b07495c3a",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:53.507Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:e21f79674024",
+          "title": "NIHR Bhubaneswar 22 September English advertisement and application form",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076083_dristienglishadvt.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076083_dristienglishadvt.pdf",
+          "sha256": "dc0d4dff2d21a9490278bfa48fe9c1244fe2c2962b2a8a390c9fa0cba8d83a8c",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:54.443Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:bb15727e0d68",
+          "title": "NIHR Bhubaneswar 22 September Hindi advertisement and application form",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076088_dristihindiadvt.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076088_dristihindiadvt.pdf",
+          "sha256": "754d8d8893ef76a5b37499fe58487b6ea7da602d084196d0a10471c803b59216",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:55.252Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nihr-bhubaneswar-junior-consultant-2026:257d5fce7afb",
+          "title": "NIHR institute-hosted Hindi advertisement",
+          "authority": "ICMR National Institute of Health Research, Bhubaneswar",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://www.rmrcbbsr.gov.in/wp-content/uploads/2026/09/DRISTI-ADVT-2.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.rmrcbbsr.gov.in/wp-content/uploads/2026/09/DRISTI-ADVT-2.pdf",
+          "sha256": "fcd37778de6096bef2f1b42fa3e50a22c21a50c9515f64b58b8d128b4563f5be",
+          "lastSuccessfulFetchAt": "2026-09-25T16:22:58.927Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.icmr.gov.in/employment-opportunities",
+      "fetchedAt": "2026-09-25T16:22:50.437Z",
+      "sha256": "32306b91f3c1a95376c5d1193394317c5ef178b64fa2fb9cd1bbfc48a004108f",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 128834
+    },
+    {
+      "url": "https://www.rmrcbbsr.gov.in/career/",
+      "fetchedAt": "2026-09-25T16:22:52.638Z",
+      "sha256": "cc30c3e46da0bf5130d1992d7a0a321472972f1301baf73276869124b72c7fab",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 144560
+    },
+    {
+      "url": "https://www.rmrcbbsr.gov.in/careers/advertisement-for-the-post-junior-consultant-medical/",
+      "fetchedAt": "2026-09-25T16:22:53.507Z",
+      "sha256": "bdc080eb0af173b831417b6df3827acacf47fdc8377bc49c40d8015b07495c3a",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 48410
+    },
+    {
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076083_dristienglishadvt.pdf",
+      "fetchedAt": "2026-09-25T16:22:54.443Z",
+      "sha256": "dc0d4dff2d21a9490278bfa48fe9c1244fe2c2962b2a8a390c9fa0cba8d83a8c",
+      "contentType": "application/pdf",
+      "bytes": 980817
+    },
+    {
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076088_dristihindiadvt.pdf",
+      "fetchedAt": "2026-09-25T16:22:55.252Z",
+      "sha256": "754d8d8893ef76a5b37499fe58487b6ea7da602d084196d0a10471c803b59216",
+      "contentType": "application/pdf",
+      "bytes": 1649537
+    },
+    {
+      "url": "https://www.rmrcbbsr.gov.in/wp-content/uploads/2026/09/DRISTI-ADVT-2.pdf",
+      "fetchedAt": "2026-09-25T16:22:58.927Z",
+      "sha256": "fcd37778de6096bef2f1b42fa3e50a22c21a50c9515f64b58b8d128b4563f5be",
+      "contentType": "application/pdf",
+      "bytes": 2626320
+    }
+  ],
+  "warnings": [
+    "One September Junior Consultant (Medical) walk-in; May/June postings reuse advertisement number 189/2026-27 and are not this application cycle.",
+    "10:30 is interview start, not application cutoff. No last arrival time or official timezone is printed.",
+    "The notice's maximum-age cell says 40 to 50 years without category mapping; do not calculate an age match before founder clarification.",
+    "Nationality, foreign-medical-degree recognition and exam/interview language are unstated. Bilingual notice does not establish a language level.",
+    "Published street address has no verified coordinates and has no map pin.",
+    "Other NIHR and ICMR opportunities remain outside this exact-document pilot."
+  ],
+  "approvalRevisions": {
+    "icmr-nihr-bhubaneswar-junior-consultant-medical-sep-2026": {
+      "evidenceRevision": "feb4a85a18ab379f513fda72e740343736fa52b0890b554aaacdad1ff1bd49d8",
+      "recordRevision": "20605f05a122b47c0a997ee89927a985a719324c19bc4ca669dc0a1c78fa55fd"
+    }
+  }
+}

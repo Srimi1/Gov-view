@@ -1,0 +1,2459 @@
+{
+  "sourceId": "in-dl-recruitment",
+  "collectedAt": "2026-09-24T21:02:29.873Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 21/26",
+      "programme": "Junior Scientific Assistant (Biology)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Biology)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 21/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-21-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Biology)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 21/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 22/26",
+      "programme": "Junior Scientific Assistant (Ballistics)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Ballistics)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 22/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-22-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Ballistics)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 22/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 23/26",
+      "programme": "Junior Scientific Assistant (Chemistry)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Chemistry)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 23/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-23-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Chemistry)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 23/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 24/26",
+      "programme": "Junior Scientific Assistant (Lie-Detection)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Lie-Detection)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 24/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-24-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Lie-Detection)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 24/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 25/26",
+      "programme": "Junior Scientific Assistant (Documents)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Documents)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 25/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-25-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Documents)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 25/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 26/26",
+      "programme": "Junior Scientific Assistant (HRD/QC)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (HRD/QC)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 26/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-26-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (HRD/QC)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 26/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 27/26",
+      "programme": "Junior Scientific Assistant (Photo)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Photo)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 27/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-27-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Photo)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 27/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 28/26",
+      "programme": "Junior Scientific Assistant (Cyber Forensic)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending. 22 July 2026: advertised total vacancies 81 revised to 78; remaining advertisement unchanged.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Cyber Forensic)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 28/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [
+        {
+          "at": "2026-07-22",
+          "kind": "updated",
+          "summary": "22 July 2026: advertised total vacancies 81 revised to 78; remaining advertisement unchanged"
+        }
+      ],
+      "id": "dsssb-2026-28-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Cyber Forensic)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 28/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:a345343643cf",
+          "title": "Corrigendum for 28/26: 22 July 2026: advertised total vacancies 81 revised to 78; remaining advertisement unchanged",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_28_26.pdf",
+          "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.463Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.463Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 29/26",
+      "programme": "Junior Scientific Assistant (Crime Scene/District Mobile Forensic Unit)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Crime Scene/District Mobile Forensic Unit)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 29/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-29-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Crime Scene/District Mobile Forensic Unit)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 29/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 30/26",
+      "programme": "Junior Scientific Assistant (Finger Print)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Finger Print)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 30/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-30-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Finger Print)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 30/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 31/26",
+      "programme": "Junior Scientific Assistant (Physics)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Junior Scientific Assistant (Physics)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 31/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-31-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Junior Scientific Assistant (Physics)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 31/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 32/26",
+      "programme": "Technical Assistant (Hindi)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Technical Assistant (Hindi)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 32/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "hi",
+            "stage": "apply",
+            "requirement": "Technical Assistant (Hindi) has several alternative Hindi/English degree and translation qualifications. The alternatives, including a translation diploma/certificate or government translation experience, require individual review. No CEFR-equivalent level is specified.",
+            "evidence": "Advertisement 03/2026, post code 32/26, printed pages 13–14.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-32-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Technical Assistant (Hindi)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 32/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 33/26",
+      "programme": "Assistant Archivist Grade-I",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending. 15 June 2026: category distribution revised; total vacancies remains 4; remaining advertisement unchanged.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Assistant Archivist Grade-I",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 33/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [
+        {
+          "at": "2026-06-15",
+          "kind": "updated",
+          "summary": "15 June 2026: category distribution revised; total vacancies remains 4; remaining advertisement unchanged"
+        }
+      ],
+      "id": "dsssb-2026-33-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Assistant Archivist Grade-I",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 33/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:326b28b7a0a7",
+          "title": "Corrigendum for 33/26: 15 June 2026: category distribution revised; total vacancies remains 4; remaining advertisement unchanged",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf",
+          "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.398Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.398Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 34/26",
+      "programme": "I.T. Assistant Grade-A",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to I.T. Assistant Grade-A",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 34/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-34-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "I.T. Assistant Grade-A",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 34/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 35/26",
+      "programme": "Fitter Grade-II",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Fitter Grade-II",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 35/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-35-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Fitter Grade-II",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 35/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 36/26",
+      "programme": "Lift Operator",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Lift Operator",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 36/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-36-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Lift Operator",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 36/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 37/26",
+      "programme": "Assistant Operator cum Mechanic (A/C)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Assistant Operator cum Mechanic (A/C)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 37/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-37-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Assistant Operator cum Mechanic (A/C)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 37/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 38/26",
+      "programme": "Sub Station Apprentice",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Sub Station Apprentice",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 38/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-38-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Sub Station Apprentice",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 38/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 39/26",
+      "programme": "Data Processing Assistant Grade A",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Data Processing Assistant Grade A",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 39/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-39-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Data Processing Assistant Grade A",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 39/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 40/26",
+      "programme": "Data Entry Operator Grade B",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Data Entry Operator Grade B",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 40/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-40-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Data Entry Operator Grade B",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 40/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 41/26",
+      "programme": "Trained Graduate Teacher (Computer Science)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Trained Graduate Teacher (Computer Science)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 41/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-41-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Trained Graduate Teacher (Computer Science)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 41/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 42/26",
+      "programme": "Domestic Science Teacher",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Domestic Science Teacher",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 42/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-42-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Domestic Science Teacher",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 42/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 43/26",
+      "programme": "Trained Graduate Teacher (Special Education Teacher)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Trained Graduate Teacher (Special Education Teacher)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 43/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-43-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Trained Graduate Teacher (Special Education Teacher)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 43/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 44/26",
+      "programme": "Special Educator (Primary)",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Special Educator (Primary)",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 44/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-44-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Special Educator (Primary)",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 44/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "03/2026 · 45/26",
+      "programme": "Electrical Overseer / Sub-Inspector",
+      "status": "closed",
+      "statusNote": "Official application window read from exact advertisement; founder review pending.",
+      "scopeLabel": "Delhi government or local body recruitment; applicant residence conditions must be checked for this post",
+      "outcome": "Appointment to Electrical Overseer / Sub-Inspector",
+      "qualifications": "Post-specific essential qualifications, experience and age limits appear in advertisement 03/2026 under post code 45/26; full alternatives require founder review.",
+      "citizenshipRule": "Indian citizenship required by advertisement 03/2026 eligibility criterion 1(i). Other conditions still require post-specific review.",
+      "residenceRule": "Delhi hiring scope does not establish applicant domicile. Any post-specific residence or reservation rules require review.",
+      "selectionStages": [
+        "DSSSB examination scheme depends on post code; Hindi and English comprehension are tested without a published standardized language level."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-15",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Advertisement 03/2026, eligibility criterion 1(i), printed page 27: candidate must be a citizen of India. Rule applies to all 25 post codes in this advertisement."
+        },
+        "languages": [
+          {
+            "language": "hi",
+            "stage": "selection",
+            "requirement": "Hindi language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          },
+          {
+            "language": "en",
+            "stage": "selection",
+            "requirement": "English language and comprehension questions form part of the advertised examination scheme. No CEFR or other standardized proficiency level is stated; question/mark allocation varies by post-code scheme.",
+            "evidence": "Advertisement 03/2026, examination schemes on printed pages 28–30; exact post-code scheme needs founder review.",
+            "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://dsssbonline.nic.in/",
+      "changes": [],
+      "id": "dsssb-2026-45-26",
+      "sourceId": "in-dl-recruitment",
+      "title": "Electrical Overseer / Sub-Inspector",
+      "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-DL"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-16",
+        "closesOn": "2026-07-15",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "precision": "minute",
+        "note": "Opening time 12:00 noon IST. Age and qualifications assessed as of application closing date. Each post code requires its own application."
+      },
+      "sources": [
+        {
+          "id": "in-dl-recruitment:f09cf833ecb3",
+          "title": "DSSSB official vacancy and corrigendum archive",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+          "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:31.367Z",
+          "lastValidatedAt": "2026-09-24T21:02:31.367Z",
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-dl-recruitment:e3664601ed80",
+          "title": "Advertisement 03/2026: 45/26",
+          "authority": "Delhi Subordinate Services Selection Board — Vacancies",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+          "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+          "lastSuccessfulFetchAt": "2026-09-24T21:02:32.745Z",
+          "lastValidatedAt": "2026-09-24T21:02:32.745Z",
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+      "fetchedAt": "2026-09-24T21:02:31.367Z",
+      "sha256": "f09cf833ecb33b49c816bcaa361c3934e7e49c8a8cb0d9a7ba7d434461677dda",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 69135
+    },
+    {
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "fetchedAt": "2026-09-24T21:02:32.745Z",
+      "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+      "contentType": "application/pdf",
+      "bytes": 1520732
+    },
+    {
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_28_26.pdf",
+      "fetchedAt": "2026-09-24T21:02:32.463Z",
+      "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5",
+      "contentType": "application/pdf",
+      "bytes": 192609
+    },
+    {
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf",
+      "fetchedAt": "2026-09-24T21:02:32.398Z",
+      "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40",
+      "contentType": "application/pdf",
+      "bytes": 205824
+    }
+  ],
+  "warnings": [
+    "Draft-only snapshot of DSSSB advertisement 03/2026. Archive also lists 01/2026, 02/2026 and other notices not extracted; Delhi recruitment coverage is incomplete.",
+    "Scanned corrigenda for 28/26 and 33/26 were visually read and need founder confirmation. Critical dates/nationality/language apply only while all three official PDF hashes match. Post-specific qualification, age, residence and fee checks remain pending."
+  ]
+}

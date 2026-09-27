@@ -1,0 +1,356 @@
+{
+  "sourceId": "in-tn-recruitment",
+  "collectedAt": "2026-09-26T21:01:35.338Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "8/2026",
+      "programme": "Combined Technical Services Examination (Interview Posts)",
+      "status": "open",
+      "statusNote": "Official application dates extracted; notice and eligibility review pending.",
+      "scopeLabel": "Tamil Nadu recruitment; applicant domicile must be checked separately",
+      "outcome": "Appointment to one of the posts covered by this recruitment examination",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility needs verification against the notification and TNPSC Instructions to Applicants.",
+      "residenceRule": "Residence and domicile conditions have not been extracted; state hiring scope does not establish eligibility.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "languages": [
+          {
+            "language": "ta",
+            "stage": "apply",
+            "requirement": "Tamil knowledge must meet the notification’s education or TNPSC language-test conditions. Accepted evidence includes study with Tamil as a language, specified Tamil-medium education, or the TNPSC Second Class Language Test (Full Test). Evidence is requested with the application. Clause 4.4.3 allows some appointees without uploaded evidence to pass that test within two years of appointment, but excludes posts 1695, 1694, 3799 and 3833 from that provision. Confirm the chosen post and applicable exception. No CEFR/JLPT equivalence is specified.",
+            "evidence": "Notification 8/2026, clauses 4.4.1–4.4.3, printed pages 15–16. Alternatives and post exceptions require manual verification.",
+            "sourceUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+            "certificateRequired": true
+          },
+          {
+            "language": "ta",
+            "stage": "selection",
+            "requirement": "Paper I Part A is a Tamil eligibility test at SSLC standard: 100 questions, 150 marks. At least 40% (60 marks) is required before other listed papers/parts are evaluated. Candidates claiming the disability exemption must declare it in the application and upload the prescribed certificate. This is a notice-specific examination requirement, not a CEFR or JLPT level.",
+            "evidence": "Notification 8/2026, examination scheme on printed pages 19–21, clauses 6.3 and 6.5, and Annexure III on printed page 52.",
+            "sourceUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+      "changes": [],
+      "id": "tnpsc-2026-8",
+      "sourceId": "in-tn-recruitment",
+      "title": "Combined Technical Services Examination (Interview Posts)",
+      "authority": "Tamil Nadu Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-07",
+        "closesOn": "2026-10-06",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Notified 2026-08-31. Fee-payment deadline: 2026-10-06; this is separate from the application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-tn-recruitment:6e1ecec8764b",
+          "title": "Application table: 8/2026",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:36.687Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tn-recruitment:b8d944e66bf2",
+          "title": "Exam dashboard: 8/2026",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=cf52b42c-7e4d-4d72-a8bf-77adf8242159",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=cf52b42c-7e4d-4d72-a8bf-77adf8242159",
+          "sha256": "f72786780c960a025fff8b682f6d34021af7378e59f171088c645808b95f26af",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:37.827Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-tn-recruitment:99c9d7e8b25f",
+          "title": "Notification 8/2026: language clauses 4.4 and 6.5",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+          "sha256": "d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:40.585Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "7/2026",
+      "programme": "Combined Civil Services Examination - II (Group II and IIA Services)",
+      "status": "uncertain",
+      "statusNote": "Source conflict or failed document check; founder review required.",
+      "scopeLabel": "Tamil Nadu recruitment; applicant domicile must be checked separately",
+      "outcome": "Appointment to one of the posts covered by this recruitment examination",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility needs verification against the notification and TNPSC Instructions to Applicants.",
+      "residenceRule": "Residence and domicile conditions have not been extracted; state hiring scope does not establish eligibility.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+      "changes": [],
+      "id": "tnpsc-2026-7",
+      "sourceId": "in-tn-recruitment",
+      "title": "Combined Civil Services Examination - II (Group II and IIA Services)",
+      "authority": "Tamil Nadu Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-11",
+        "closesOn": "2026-09-09",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Notified 2026-08-11. Fee-payment deadline: 2026-09-15; this is separate from the application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-tn-recruitment:d6a74705bce9",
+          "title": "Application table: 7/2026",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:36.687Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "6/2026",
+      "programme": "Combined Technical Services Examination (Diploma / ITI Level)",
+      "status": "uncertain",
+      "statusNote": "Source conflict or failed document check; founder review required.",
+      "scopeLabel": "Tamil Nadu recruitment; applicant domicile must be checked separately",
+      "outcome": "Appointment to one of the posts covered by this recruitment examination",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility needs verification against the notification and TNPSC Instructions to Applicants.",
+      "residenceRule": "Residence and domicile conditions have not been extracted; state hiring scope does not establish eligibility.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+      "changes": [],
+      "id": "tnpsc-2026-6",
+      "sourceId": "in-tn-recruitment",
+      "title": "Combined Technical Services Examination (Diploma / ITI Level)",
+      "authority": "Tamil Nadu Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-07-17",
+        "closesOn": "2026-08-15",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Notified 2026-07-07. Fee-payment deadline: 2026-08-21; this is separate from the application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-tn-recruitment:1f8e53afbc38",
+          "title": "Application table: 6/2026",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:36.687Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "5/2026",
+      "programme": "Combined Civil Services Examination – I (Group I Services)",
+      "status": "uncertain",
+      "statusNote": "Source conflict or failed document check; founder review required.",
+      "scopeLabel": "Tamil Nadu recruitment; applicant domicile must be checked separately",
+      "outcome": "Appointment to one of the posts covered by this recruitment examination",
+      "qualifications": "See the official notice.",
+      "citizenshipRule": "International applicant eligibility needs verification against the notification and TNPSC Instructions to Applicants.",
+      "residenceRule": "Residence and domicile conditions have not been extracted; state hiring scope does not establish eligibility.",
+      "selectionStages": [],
+      "fee": "See the official notice.",
+      "rules": null,
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+      "changes": [],
+      "id": "tnpsc-2026-5",
+      "sourceId": "in-tn-recruitment",
+      "title": "Combined Civil Services Examination – I (Group I Services)",
+      "authority": "Tamil Nadu Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-TN"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-30",
+        "closesOn": "2026-07-29",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Notified 2026-06-23. Fee-payment deadline: 2026-08-04; this is separate from the application deadline."
+      },
+      "sources": [
+        {
+          "id": "in-tn-recruitment:7b922ce5adac",
+          "title": "Application table: 5/2026",
+          "authority": "Tamil Nadu Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+          "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+          "lastSuccessfulFetchAt": "2026-09-26T21:01:36.687Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://apply.tnpscexams.in/notification?app_id=UElZMDAwMDAwMQ%3D%3D",
+      "fetchedAt": "2026-09-26T21:01:36.687Z",
+      "sha256": "b902cd9d35335a6a82a3c715d0dc117216aeae6a8084d0aa6b2fa9fc1ffc89a9",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 224135
+    },
+    {
+      "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=cf52b42c-7e4d-4d72-a8bf-77adf8242159",
+      "fetchedAt": "2026-09-26T21:01:37.827Z",
+      "sha256": "f72786780c960a025fff8b682f6d34021af7378e59f171088c645808b95f26af",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 12383
+    },
+    {
+      "url": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+      "fetchedAt": "2026-09-26T21:01:40.585Z",
+      "sha256": "d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182",
+      "contentType": "application/pdf",
+      "bytes": 2290003
+    },
+    {
+      "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=89113de0-6a0e-4d47-a409-c84fb04ef33e",
+      "fetchedAt": "2026-09-26T21:01:40.705Z",
+      "sha256": "db962538269f7b1198d7e0bdb7df7266a1852b6b1fd96d6ee010ecdb00863453",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 14190
+    },
+    {
+      "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=ea45cb0a-2d35-4b46-a38d-f05d6ee0965b",
+      "fetchedAt": "2026-09-26T21:01:41.716Z",
+      "sha256": "b080076a4a90b5261c6c8ba9453c91468e1eccb5e6fa4da3cf217b482904ae9e",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 15045
+    },
+    {
+      "url": "https://tnpsc.gov.in/web/examdashboard/index.aspx?notid=33aa5415-6205-4ae9-842e-212d62d088f1",
+      "fetchedAt": "2026-09-26T21:01:42.769Z",
+      "sha256": "21e4fde1a1f1ff7d41f53e9e918529689f7f20eef763fa042a52219dee723642",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 21265
+    }
+  ],
+  "warnings": [
+    "Draft connector: notice-specific post qualifications and international eligibility require review. Closed cycles retained for 60 days; portal coverage only.",
+    "tnpsc-2026-7: TNPSC portal and dashboard dates conflict or cannot be read",
+    "tnpsc-2026-6: TNPSC portal and dashboard dates conflict or cannot be read",
+    "tnpsc-2026-5: TNPSC portal and dashboard dates conflict or cannot be read"
+  ],
+  "approvalRevisions": {
+    "tnpsc-2026-8": {
+      "evidenceRevision": "43e563360421f7ebc40f5ac1fb941d9e8ec09b25edfa4b46b39e59b00ac6f7e9",
+      "recordRevision": "52bd8a425ca6e26d41b8a0b2a993f6c6e5169ed84a435a9c01063d98369c0d14"
+    },
+    "tnpsc-2026-7": {
+      "evidenceRevision": "83d51d8ee7da432e71a4c66b6c7673d6c8d4dedb8eb1bc749ad2df500ba8f175",
+      "recordRevision": "57c62b51251087cc892bc2296a087a369c41cd4dbdb64dbd4fb747860a65b00a"
+    },
+    "tnpsc-2026-6": {
+      "evidenceRevision": "cee7bbcab792e5a339434648fd424bed52d2b40b394b672180b537299a47e9e1",
+      "recordRevision": "a75b41d7ab352a3df7e4bd0f987d47a613eacb95fcd4ccb532978731d413efad"
+    },
+    "tnpsc-2026-5": {
+      "evidenceRevision": "4d367ff7494a682465ac7e0c3ca6906a039297962f9adbe7083318d1c6f68467",
+      "recordRevision": "822c85d1e1a83c481d923938bf3d804599c4b54a0d2b9f3462ed69e1471bd06b"
+    }
+  }
+}

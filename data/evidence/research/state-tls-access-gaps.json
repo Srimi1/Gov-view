@@ -1,0 +1,18 @@
+{
+  "observations": [
+    {
+      "sourceId": "in-wb-recruitment",
+      "url": "https://psc.wb.gov.in/",
+      "checkedAt": "2026-09-24T20:35:06.276Z",
+      "error": "fetch failed",
+      "cause": "ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED"
+    },
+    {
+      "sourceId": "in-hp-recruitment",
+      "url": "https://hppsc.hp.gov.in/",
+      "checkedAt": "2026-09-24T20:35:06.551Z",
+      "error": "fetch failed",
+      "cause": "ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED"
+    }
+  ]
+}

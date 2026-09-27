@@ -1,0 +1,10 @@
+{
+  "label": "portal",
+  "status": "retained-research-response",
+  "url": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger",
+  "fetchedAt": "2026-09-26T20:33:00.966Z",
+  "sha256": "2b6fb11b677e3903d3da6e32b2faed6e0cd4be4a351f94d4cb52b6b117557ee5",
+  "contentType": "text/html; charset=utf-8",
+  "bytes": 89797,
+  "requestedUrl": "https://skatteankestyrelsen.dk/job-og-karriere/ledige-stillinger"
+}

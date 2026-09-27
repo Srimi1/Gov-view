@@ -1,0 +1,65 @@
+{
+  "advertisementsUrl": "https://jkssb.nic.in/Advertisement.html",
+  "whatsNewUrl": "https://jkssb.nic.in/Whatsnew.html",
+  "homepageUrl": "https://jkssb.nic.in/",
+  "applicationUrl": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
+  "advertisementUrl": "https://jkssb.nic.in/Pdf/Advertisement_08OF2026_04082026.pdf",
+  "advertisementSha256": "99ffb1cf841c791aa41e37716ed4e20129b701a413777fd2849eb7b812bd7151",
+  "instructionsUrl": "https://jkssb.nic.in/Pdf/notice_09092026.pdf",
+  "instructionsSha256": "09e84904bb0e99eadf5f92ccddf71353fbbfe5eba6f786c2596e5009c3e74af5",
+  "noticeNumber": "08 of 2026",
+  "noticeDate": "2026-08-04",
+  "instructionsDate": "2026-09-09",
+  "opensOn": "2026-09-10",
+  "closesOn": "2026-10-09",
+  "cutoffLocalTime": "23:59",
+  "officialTimeZone": "Asia/Kolkata",
+  "advertisedPosts": 518,
+  "ageAsOn": "2026-01-01",
+  "groups": [
+    {
+      "id": "horticulture-technician-grade-iv",
+      "title": "Horticulture Technician Grade IV",
+      "salary": "SL-2 ₹15,900–₹50,400",
+      "qualification": "10+2 with one year Basic Horticulture training passed",
+      "minEducation": "higher-secondary",
+      "instructionPage": 3,
+      "advertisementPages": [15, 16, 17, 18],
+      "rows": [
+        { "item": 105, "district": "Srinagar", "vacancies": 3 },
+        { "item": 106, "district": "Budgam", "vacancies": 4 },
+        { "item": 107, "district": "Shopian", "vacancies": 3 },
+        { "item": 108, "district": "Kulgam", "vacancies": 5 },
+        { "item": 109, "district": "Ganderbal", "vacancies": 4 },
+        { "item": 110, "district": "Pulwama", "vacancies": 4 },
+        { "item": 111, "district": "Anantnag", "vacancies": 8 },
+        { "item": 112, "district": "Rajouri", "vacancies": 1 },
+        { "item": 113, "district": "Poonch", "vacancies": 3 },
+        { "item": 114, "district": "Bandipora", "vacancies": 2 },
+        { "item": 115, "district": "Baramulla", "vacancies": 6 },
+        { "item": 116, "district": "Kupwara", "vacancies": 2 }
+      ]
+    },
+    {
+      "id": "junior-pharmacist",
+      "title": "Junior Pharmacist",
+      "salary": "Level 4 ₹25,500–₹81,100",
+      "qualification": "Minimum 10+2 with Science, with a degree or diploma in Pharmacy from a recognized institute",
+      "minEducation": "higher-secondary",
+      "instructionPage": 3,
+      "advertisementPages": [19, 20, 21],
+      "rows": [
+        { "item": 119, "district": "Budgam", "vacancies": 27 },
+        { "item": 120, "district": "Srinagar", "vacancies": 6 },
+        { "item": 121, "district": "Ganderbal", "vacancies": 11 },
+        { "item": 122, "district": "Pulwama", "vacancies": 40 },
+        { "item": 123, "district": "Shopian", "vacancies": 4 },
+        { "item": 124, "district": "Kulgam", "vacancies": 34 },
+        { "item": 125, "district": "Anantnag", "vacancies": 20 },
+        { "item": 126, "district": "Kupwara", "vacancies": 29 },
+        { "item": 127, "district": "Baramulla", "vacancies": 36 },
+        { "item": 128, "district": "Bandipora", "vacancies": 4 }
+      ]
+    }
+  ]
+}

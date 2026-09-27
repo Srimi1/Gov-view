@@ -1,0 +1,10 @@
+{
+  "label": "portal",
+  "status": "retained-research-response",
+  "url": "https://werkenvoor.be/nl",
+  "fetchedAt": "2026-09-26T20:33:00.588Z",
+  "sha256": "0f3e6e701499d590aa99e9c9cb91f217352c6d540bda59763583c6846236710c",
+  "contentType": "text/html; charset=UTF-8",
+  "bytes": 131337,
+  "requestedUrl": "https://werkenvoor.be/nl"
+}

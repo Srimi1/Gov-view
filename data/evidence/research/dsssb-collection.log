@@ -1,0 +1,9 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-dl-recruitment
+
+
+▸ in-dl-recruitment (Delhi Subordinate Services Selection Board — Vacancies)
+  ⚠ Draft-only snapshot of DSSSB advertisement 03/2026. Archive also lists 01/2026, 02/2026 and other notices not extracted; Delhi recruitment coverage is incomplete.
+  ⚠ Scanned corrigenda for 28/26 and 33/26 were visually read and need founder confirmation. Critical dates/nationality/language apply only while all three official PDF hashes match. Post-specific qualification, age, residence and fee checks remain pending.
+  25 draft records saved for review; no publication

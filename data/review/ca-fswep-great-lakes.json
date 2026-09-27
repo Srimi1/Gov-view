@@ -1,0 +1,108 @@
+{
+  "sourceId": "ca-fswep-great-lakes",
+  "collectedAt": "2026-09-25T07:22:13.551Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Summer 2027 · GC Jobs poster 2042",
+      "programme": "Federal Student Work Experience Program — Great Lakes fisheries",
+      "status": "open",
+      "statusNote": "Canada.ca lists this specialized student programme and 28 October 2026 deadline. GC Jobs poster and exact cutoff timezone could not be collected; founder review pending.",
+      "scopeLabel": "Federal student work programme in the Great Lakes area. Exact work sites are not printed on the checked Canada.ca card.",
+      "outcome": "Potential full-time summer student assignment with Fisheries and Oceans Canada, 2027-04-26 to 2027-09-03; applying to the inventory does not guarantee a placement.",
+      "qualifications": "General FSWEP criteria: full-time student at an accredited secondary or post-secondary institution; minimum age for the province or territory of work; return to full-time studies next term, unless a final-year applicant has prior FSWEP, Co-op/Internship or Research Affiliate Program employment. Programme-specific study, work permit and security requirements need the linked GC Jobs poster.",
+      "citizenshipRule": "Canada.ca gives preference to Canadian citizens and permanent residents meeting job requirements. It does not state that every foreign citizen may apply, enter selection or be appointed to this specific programme. Confirm GC Jobs poster, work authorization and selection rules.",
+      "residenceRule": "The checked card states no applicant residence restriction. Great Lakes area describes the programme's work region, not a domicile eligibility rule.",
+      "selectionStages": [
+        "Submit specialized FSWEP application through GC Jobs",
+        "Possible inventory match and agency screening",
+        "Test or interview if invited",
+        "Security and employment eligibility checks",
+        "Summer 2027 work assignment if selected"
+      ],
+      "fee": "No fee stated on the checked Canada.ca FSWEP card; verify the linked job poster.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify full-time accredited student status, provincial/territorial minimum work age, return-to-study or final-year prior-programme exception, and exact poster-specific application conditions. Foreign-citizen permission is unresolved."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm programme-specific education, language, security and work-authorization rules in GC Jobs poster 2042; Canada.ca gives Canadian citizens and permanent residents preference."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm legal work authorization, any security screening and agency appointment criteria. Inventory application does not guarantee employment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Great Lakes area; exact work sites and selection venues not published on checked card"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://emploisfp-psjobs.cfp-psc.gc.ca/srs-sre/page01.html?poster=2042&lang=en",
+      "changes": [],
+      "id": "ca-fswep-great-lakes-student-2027",
+      "sourceId": "ca-fswep-great-lakes",
+      "title": "Great Lakes Area Summer Fisheries Student Program — 2027",
+      "authority": "Public Service Commission of Canada / Fisheries and Oceans Canada",
+      "pathway": "recruitment",
+      "jurisdictionCode": "CA",
+      "jurisdictionName": "Canada",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-28",
+        "officialTimeZone": null,
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Official Canada.ca FSWEP card prints 28 October 2026 only. It gives neither an application opening date nor a governing cutoff time or timezone."
+      },
+      "languageNote": "The checked Canada.ca card states no language test, bilingual requirement or proficiency level for this programme. Verify the linked GC Jobs poster before judging English/French or other language eligibility.",
+      "sources": [
+        {
+          "id": "ca-fswep-great-lakes:92ad13f352d3",
+          "title": "Canada.ca Federal Student Work Experience Program — Great Lakes 2027 card",
+          "authority": "Public Service Commission of Canada / Fisheries and Oceans Canada",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+          "sha256": "2da847ecd89038f2aa4fbb187bfbc4edfa2d27b262c561ec0d466f3213514301",
+          "lastSuccessfulFetchAt": "2026-09-25T07:22:17.480Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html",
+      "fetchedAt": "2026-09-25T07:22:17.480Z",
+      "sha256": "2da847ecd89038f2aa4fbb187bfbc4edfa2d27b262c561ec0d466f3213514301",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 37849
+    }
+  ],
+  "warnings": [
+    "GC Jobs poster 2042 did not respond to this collector; programme-specific conditions and cutoff timezone need founder review.",
+    "Canada.ca's citizen/permanent-resident preference is not a blanket ban on foreign applicants and does not establish work authorization.",
+    "Other FSWEP specialized programmes and the year-round student inventory remain source coverage gaps."
+  ],
+  "approvalRevisions": {
+    "ca-fswep-great-lakes-student-2027": {
+      "evidenceRevision": "b609ed0aa9ada14b4c25a983903ef600121fa31ac5450b009bcf1d5a89db2aaa",
+      "recordRevision": "41021b8432adadaa77ab71e9bf26ebfae33354a0d799c781447400747a37f519"
+    }
+  }
+}

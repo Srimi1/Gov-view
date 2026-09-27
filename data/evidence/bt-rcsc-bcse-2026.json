@@ -1,0 +1,44 @@
+[
+ {
+  "url": "https://rcsc.gov.bt/2026/06/announcement-for-bhutan-civil-service-examination-bcse-2026/",
+  "fetchedAt": "2026-09-25T15:40:45.012Z",
+  "sha256": "82a35d5f001460e1ba0eb3c6d86cab24260782b804b51135403dd274ad435c0b",
+  "bytes": 482158,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://rcsc.gov.bt/2026/06/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-education-service/",
+  "fetchedAt": "2026-09-25T15:40:45.827Z",
+  "sha256": "24638dfeaa7e7d5f4161d2d74188ea636e4955eb39fc7743208a0cb506f9d553",
+  "bytes": 482297,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://rcsc.gov.bt/2026/08/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-educationservice/",
+  "fetchedAt": "2026-09-25T15:40:46.824Z",
+  "sha256": "aa8ad77c48fb9c8fef91e019a728e62d6cf60b2979915fa2f5c7970391a2aa22",
+  "bytes": 482349,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/BCSE-2026-Announcement.docx-1.pdf",
+  "fetchedAt": "2026-09-25T15:40:58.194Z",
+  "sha256": "30992031cd914f54ef40720f98aa357c263fc435e2f187a2cf734647017d33e8",
+  "bytes": 3141353,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/LETTER-HEAD-NEW.docx.pdf",
+  "fetchedAt": "2026-09-25T15:40:49.439Z",
+  "sha256": "c0a1602e36e99747a16d5a811ad382e3945bd3f6c385272378f16e3ec2687d2f",
+  "bytes": 285597,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://rcsc.gov.bt/wp-content/uploads/2026/08/Reprioritised-Vacancies-for-BCSE-2026-August-21-2026-1.pdf",
+  "fetchedAt": "2026-09-25T15:40:50.430Z",
+  "sha256": "58b191aa2e20df2def6310527a801dcd8abc82167b623d148629cce479030cb0",
+  "bytes": 192904,
+  "contentType": "application/pdf"
+ }
+]

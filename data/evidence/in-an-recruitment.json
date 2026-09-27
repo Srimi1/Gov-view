@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://erecruitment.andamannicobar.gov.in/",
+  "fetchedAt": "2026-09-26T21:07:51.650Z",
+  "sha256": "e781cfd872b63fe08f7f00d5e67a0bec4b9ef35d6dbff736d1e6a86e783c48dd",
+  "bytes": 143124,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf",
+  "fetchedAt": "2026-09-26T21:07:53.801Z",
+  "sha256": "8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d",
+  "bytes": 3975093,
+  "contentType": "application/pdf"
+ }
+]

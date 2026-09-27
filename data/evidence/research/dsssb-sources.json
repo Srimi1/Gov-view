@@ -1,0 +1,40 @@
+{
+  "capturedAt": "2026-09-24T20:59:36.788424+00:00",
+  "records": [
+    {
+      "file": "data/evidence/research/dsssb-vacancies.html",
+      "url": "https://dsssb.delhi.gov.in/dsssb-vacancies",
+      "sha256": "c57c0e11fb53dcc29cd05b09e4d71dd4f9bbaf9c3604cf64c1ea64e07756fe28",
+      "bytes": 69135
+    },
+    {
+      "file": "data/evidence/research/dsssb-03-2026.pdf",
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt-03-2026.pdf",
+      "sha256": "e3664601ed802eb2686ff682f713c3089fc10d2af6d04749bc58f94d8df373c3",
+      "bytes": 1520732
+    },
+    {
+      "file": "data/evidence/research/dsssb-03-2026.txt",
+      "url": null,
+      "sha256": "fb4e1e710a791c803f5940bb9636c7333927e7d924c62f03e80b9417820dbc98",
+      "bytes": 148920
+    },
+    {
+      "file": "data/evidence/research/dsssb-28-26-corrigendum.pdf",
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_28_26.pdf",
+      "sha256": "a345343643cf1e8ad04d546ba9ca2adefc631dff160d27a7d9521d936d196cb5",
+      "bytes": 192609
+    },
+    {
+      "file": "data/evidence/research/dsssb-33-26-corrigendum.pdf",
+      "url": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/corrigendum_33_26.pdf",
+      "sha256": "326b28b7a0a7ef0138d33eb9c3b49cb6d3257c87f73a07e5f22019311d56ba40",
+      "bytes": 205824
+    }
+  ],
+  "notes": [
+    "03/2026 main advertisement includes 25 post codes and an Indian citizenship clause.",
+    "Post codes 28/26 and 33/26 have scanned vacancy-count corrigenda; visual reading, not PDF text extraction.",
+    "Archive has older 01/2026 and 02/2026 notices not yet extracted; Delhi coverage incomplete."
+  ]
+}

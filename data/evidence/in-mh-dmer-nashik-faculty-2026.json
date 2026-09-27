@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://dmer.maharashtra.gov.in/english/home-news-content/",
+  "fetchedAt": "2026-09-25T11:28:24.265Z",
+  "sha256": "369c47fd7123ba8e33e1fbda22ea964e24ff500fe1dac23aa967e9124c22fc27",
+  "bytes": 435194,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://dmer.maharashtra.gov.in/wp-content/uploads/2026/09/%E0%A4%9C%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%A4-04-%E0%A4%B6%E0%A4%BE%E0%A4%B5%E0%A5%88%E0%A4%AE-%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%95.pdf",
+  "fetchedAt": "2026-09-25T11:28:25.965Z",
+  "sha256": "510c8e4a2b462f948f5e5af2168c9e007b64cdd2bff0bec1952489a8047de726",
+  "bytes": 4561949,
+  "contentType": "application/octet-stream"
+ }
+]

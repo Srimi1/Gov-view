@@ -1,0 +1,290 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta charset="utf-8" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><title>
+	TNPSC
+</title>
+    <!-- Favicons -->
+    <link rel="icon" href="../theme/assets/img/tnpsc_32x32.png" sizes="32x32" /><link rel="icon" href="../theme/assets/img/tnpsc_192x192.png" sizes="192x192" /><link rel="apple-touch-icon" href="../theme/assets/img/tnpsc_180x180.png" /><meta name="description" /><meta name="keywords" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.gstatic.com" rel="preconnect" /><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+    <!-- Vendor CSS Files -->
+    <link href="../theme/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" /><link href="../theme/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Template Main CSS File -->
+    <link href="../theme/assets/css/style.css" rel="stylesheet" />
+     
+	<style>
+        
+        body
+        {            
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .card
+        {
+            /* transition: transform 0.3s ease-in-out; */
+            cursor: pointer;
+        }
+        .card-new
+        {
+            border-top: 3px solid #F44336;
+        }
+        /* .card:hover {
+            transform: scale(1.05);
+        } */
+        
+        .bi
+        {
+            position: relative;
+            font-size: 24px;
+        }
+        
+            header
+        {
+            background-color: #fff;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center; /* Centers the content horizontally */
+            border-bottom: 1px solid #ddd;
+            margin-bottom: 10px;
+        }
+        .header-content
+        {
+            display: flex;
+            align-items: left;
+        }
+        .header-logo img
+        {
+            max-height: 80px; /* Adjust logo size */
+            margin-right: 10px; /* Space between logo and text */
+        }
+        .header-text
+        {
+            vertical-align: top;
+            text-align: left;
+        }
+        .header-line1
+        {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        .header-line2
+        {
+            font-size: 24px;
+            margin: 5px 0;
+            color: #555;
+            font-weight: bold;
+        }
+        .header-line3
+        {
+            font-size: 15px;
+            margin: 5px 0;
+            color: #555;
+            font-weight: bold;
+        }
+        
+        .footer1 {
+            background-color: #fff;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        
+        .container {
+            
+            margin: 10px auto;
+            padding: 0 10px;
+        }
+
+        .section {
+            padding: 20px;
+            background-color: #fff;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        
+        .content {
+            flex: 1; /* Allows the content to take up remaining space */
+            padding: 0px 10px;
+        }
+        
+    </style>
+</head>
+<body class="toggle-sidebar">
+    
+    <!-- ======= Header ======= -->
+  
+   <header>
+        <div class="header-content">
+            <div class="header-logo">
+                <img src="/web/theme/assets/img/tnpsc_logo.jpg" alt="Logo" />
+            </div>
+            <div class="header-text">
+                <div class="header-line1">தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம்</div>
+                <div class="header-line2">TAMIL NADU PUBLIC SERVICE COMMISSION</div>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- End Header -->
+    <div class="content">
+        <div class="container">
+            <form method="post" action="./index.aspx?notid=ea45cb0a-2d35-4b46-a38d-f05d6ee0965b" id="form1" autocomplete="off" enctype="multipart/form-data">
+<input type="hidden" name="__CSRF_TOKEN" id="__CSRF_TOKEN" value="odBPwy6lF3etI8VhD8jvvQuEPSQKNfgaC//MrIjqFD0=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="XpII4VXJVAfVCAokfgNCWEe5WyYgvsbMVIuO+9UbDJFqS+/I2BwjBqbgwIypVUxa9Ut0ZgCNJk06HQw7o7Oi6aUHgSchjmL10R1J23IC280sTHhEZ2pEu6AZK9OxWbWFDv026BHgLlCp8jb10wAjT3ZSr7r86UEC8iFkE68inN64lTlEeEmQbJoJcIXc2kuZr5YUQ+PpxVysRvN8/tVG3hK2xw2mJZV+qUR3dsyRH0a9O72L75fS6h7TLerpBRTOkLftdU8nPmyh/EgIuwQtI46VGT0+S0iAJKSA89bJV9pNUunHuFkJPbjSibCphnJiTGXLmvu+jShB36YYn50Uvq3Ue2uOxyswzSAdKIBQDnwqspBeLcPe6G8ZOKGynnEuM5toKcH7lWn1UIEsl0/77IEg6XZe/ilZsSS9IjsHHwjv0GvzGX+P8m8KT9UqpprH+KgzbhwEidaeuDonaxHfPvLI8teFC90ooYWjUTqxv5W9LLZ6ToJFB9TxamnGC25XduNWWXKd2UIkfPGllJpsWyLv6rPmzDIN9braNdNz4p7CHoWTgXwgSccOp1poR3ApIQYP1Sg4imAItwNPXaKhD1yEtwiBhB/942eA5y0MMIYp0UA+hhjfRMEl08uGYulFiwh4qlCtlHoc7/i1TACRatxYiVl5s9TDyDAW/pDmqMWyU4h41xl1QNY1JoZd8s+F1uw72aWoseEwf9uxBMAyna+FKvJYVhCSqAu1EyjjSoXgJNrnmdmTTT6eGQp0wLGev8z4m/EUmZs7lj1QATE38GF/o/PjSs7XXrdhCKM+o2jezFzo6KkteCOmVKOfkGGarOxX8QZRztS99OOJi+muNrAmMHJuo6PCIfFWqmcbBAqtmbuPIz7p0ISdaENHhSFaCRoiovMdBg6fTMYQiJno0A2FfYUpWvgESr7RVW52nLkmDzkINpwMHuGtu4pw/tGFdI8YtasJlSeu9FyhWC9SwFoOgUb+ye4l0V+qP8sE9IHxKP+1v7XHEhis770G2B81R8b59OzCaiNQy8HXqJlH97flbdUCqUBk2XFuyYpqQA8rNuuvoNlkapxU8cVGek5mBDqIy3psgOYaozknISLvcaCuEHIZZP0Axalr4bhtMeZOcnbd87bLNykD6+dNXzSDJts0PgoFXXmwdLWNPEvG0thUHQfnRgy/uCQznxHaxgR68BzLb4KiYB+hYuYraHRGMmDxVZbpRUEAn7P64/AKU244Ln8y/w82aZ3dxwKJthlrfM8t2VodReHFphjQZf4RpiQenz5MXApwx/EetZDDfMgyYGrNP50vbO/M/Bn67yqMPInrznhkOVDe6fwnWlDcDmO8XkY8+b8nEzpR1VhpmbVFOrylCAio16wXe3/lgbfvhktvKR2wwszqurUwx1LUQg0tnsHdAZwlnDTTQNV8VY7VuunfZar7Qt36BWuKNnn+KoEb8lmj8ViS+n4EbEuIi+QXjRF1FmLtvhcTXOFQxfbkoZCHU2JC/c0CeHZAuBL+CtSHWCXAYT6DJS2euq3fvbH1cZmOrOxu+ZicduTry9eOIK0Rnpvsq7sMceNiMjPnGNg4Zl8TtINMhzRfz2kPE6Xvb8qfX1bU+vp9jlFs8ucQVmFLv9K01RNVITRDc3bweuQK5eO9yi8TVIzqQk2/gZh44OuJixQ8q6JPTuBUAObL/ecH2Kntc133BLEhST3PAgcVcroSJabKXekAxvmpaj50XC0g6RyXi2VQwMTmC/wIehfIdyP0NZWycH7AOgvv7Ws7DNN5cPuzFcNdknUolQXLQ1Ypc2IA3MUWFNBTaX2rqhNY6AJ2y6rJP5RjTPvl3/Ew31LtqvwQ4kGp6OvCWr3dprvnjJPQmW1eXPBKaRLPkW27tcR+usSDSbdpufx9CNI/UMxMB2thcYKJNePuwKWjHyjgD4QWAXp5lv1NocE5NhilFx+WRF66E2ioU4xv5hFfL24MTvQ/VSnq2rn0bNHa1Z2CTXTCYwB9AcCPLnVdYfZ45wZYMr6+Kl7OUqWjQUmcO3cC9JG73MitY2w34eWjyyOa7RV6m1ul0rv3oGm8a9cCrrDYB++IDlMDoGYBjiD9" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C82A4DB7" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="AGucBbw+hf1IzU4oqO5QRYylw8gW86lVzdzGsuw3o2EnLl2IrDhpKhuiJijo/mr4/VEIVHVyQ8MSnKNRa8xvtfqQPgU/FLadHciRhZHZdjwNx2KiX3WR6b3tu1YCp5Nkdn51fhtkjzjFjLT44lE3A0dag9o=" />
+                <div class="pagetitle"  style="display: flex; justify-content: space-between; align-items: center;">
+                <h1>Exam Dashboard</h1>
+
+
+                    <!-- change here -->
+               <div class="text-right"> 
+    Year :
+    <select name="ddlYear" id="ddlYear" class="form-select" style="display: inline; width: auto;">
+	<option selected="selected" value="2026">2026</option>
+	<option value="2025">2025</option>
+
+</select>
+    <a href="https://tnpsc.gov.in/English/Examdashboard.aspx" target="_blank" class="btn btn-primary">Archives</a>
+    <a href="https://tnpsc.gov.in/home.aspx" class="btn btn-warning">Home Page</a>
+    <a href="indextamil.aspx" class="btn btn-success">தமிழ்</a>
+    <input type="submit" name="btnBack" value="Back" onclick="window.location.href=&#39;index.aspx&#39;; return false;" id="btnBack" class="btn btn-secondary" />
+</div>
+
+                     <!-- change here -->
+                      
+            </div>             
+ 
+                	
+
+
+                <div id="pnlExamInfo">
+	
+                    
+                    <div class="card exam">
+                       <div class="card-body">
+                         <h5 class="card-title">COMBINED TECHNICAL SERVICES EXAMINATION  (DIPLOMA / ITI LEVEL) - 06/2026 </h5>              
+                         <table class="table table-bordered">
+                           <thead>
+                             <tr> 
+                               <th scope="col" style="width: 15%; text-align: center; vertical-align: top;">Document Category</th>
+                               <th scope="col" style="width: 65%; text-align: center; vertical-align: top;">Document Title</th>
+                               <th scope="col" style="width: 10%; text-align: center; vertical-align: top;">Link</th>
+                               <th scope="col" style="width: 10%; text-align: center; vertical-align: top;">Date of upload</th>
+                             </tr>
+                           </thead>
+                           <tbody>                           
+                                                      
+                                 
+                                     <tr>                    
+                                        <td style="font-weight:bold">Notification</td>
+                                        <td style="font-weight:bold">Notification No. 06/2026</td>
+                                        <td style="text-align:center">
+                                            <a class="btn btn-sm btn-outline-primary" target="_blank" href="https://tnpsc.gov.in/document/english/CTS - Diploma-(English).pdf"><i class="bi bi-download"></i> View</a>
+                                        </td>
+                                        <td>07-07-2026</td>
+                                     </tr>
+                                     
+                                 
+                                     <tr>                    
+                                        <td style="font-weight:bold">Press Release</td>
+                                        <td style="font-weight:bold">Press release regarding the publication of notification to the posts in Combined Technical Services Examination (Diploma/ITI Level) (Notification No.06/2026).</td>
+                                        <td style="text-align:center">
+                                            <a class="btn btn-sm btn-outline-primary" target="_blank" href="https://tnpsc.gov.in/Document/PressEnglish/Press%20Release%2007.07.2026.pdf"><i class="bi bi-download"></i> View</a>
+                                        </td>
+                                        <td>07-07-2026</td>
+                                     </tr>
+                                     
+                                 
+                                     <tr>                    
+                                        <td style="font-weight:bold">Apply Online</td>
+                                        <td style="font-weight:bold">Date of commencement of receiving application : 17.07.2026 <br/>
+                           Last date and time for submission of online application : 15.08.2026 11.59 PM</td>
+                                        <td style="text-align:center">
+                                            <a class="btn btn-sm btn-outline-danger" target="_blank" href="https://apply.tnpscexams.in/secure?app_id=UElZMDAwMDAwMQ=="><i class="bi bi-box-arrow-up-right"></i> Open</a>
+                                        </td>
+                                        <td>17-07-2026</td>
+                                     </tr>
+                                     
+                                 
+                                     <tr>                    
+                                        <td style="font-weight:bold">Addendum</td>
+                                        <td style="font-weight:bold">Addendum for Notification No.06/2026 (ADDENDUM (6A/2026) </td>
+                                        <td style="text-align:center">
+                                            <a class="btn btn-sm btn-outline-primary" target="_blank" href="https://tnpsc.gov.in/Document/english/Addendum 6A_2026-ENGLISH.pdf"><i class="bi bi-download"></i> View</a>
+                                        </td>
+                                        <td>18-09-2026</td>
+                                     </tr>
+                                     
+                                                             
+                                 	
+                            </tbody>
+                            </table>
+                        </div>
+                    </div>
+                
+</div>
+
+            </form>
+        </div>
+    </div>
+    
+     
+
+    <!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <!-- End Footer -->
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+        class="bi bi-arrow-up-short"></i></a>
+    <!-- Vendor JS Files -->
+    <script src='/web/theme/assets/vendor/jquery/jquery-1.11.1.min.js'
+        type="text/javascript"></script>
+    <script src='/web/theme/assets/vendor/jquery/jquery-ui.min.js'
+        type="text/javascript"></script>
+    <script src='/web/theme/assets/vendor/jquery/form-validation.js'
+        type="text/javascript"></script>
+    <script type="text/javascript" src='/web/theme/assets/vendor/bootstrap/js/bootstrap.bundle.min.js'></script>
+    
+    <script type="text/javascript">
+
+        window.addEventListener("pageshow", function (event) {
+            var historyTraversal = event.persisted ||
+                (typeof window.performance != "undefined" &&
+                    window.performance.navigation.type === 2);
+            if (historyTraversal) {
+                // Handle page restore.
+                window.location.reload();
+            }
+        });
+
+        document.querySelectorAll(".toggle-btn").forEach(btn => {
+            btn.addEventListener("click", function () {
+                let detailsRow = this.closest("tr").nextElementSibling;
+                let icon = this.querySelector("i");
+                // detailsRow.style.display = detailsRow.style.display === "table-row" ? "none" : "table-row";
+
+                if (detailsRow.style.display === "table-row") {
+                    detailsRow.style.display = "none";
+                    icon.classList.remove("bi-chevron-up");
+                    icon.classList.add("bi-chevron-down");
+                } else {
+                    detailsRow.style.display = "table-row";
+                    icon.classList.remove("bi-chevron-down");
+                    icon.classList.add("bi-chevron-up");
+                }
+
+
+            });
+        });
+
+    </script>
+</body>
+</html>

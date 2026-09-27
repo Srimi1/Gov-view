@@ -1,0 +1,688 @@
+
+
+<!DOCTYPE html>
+<html ng-app="MultilingualApp">
+<head id="ctl00_Head1" lang="en"><meta charset="utf-8" /><script src="/Scripts/modernizr-2.5.3.js"></script>
+<meta http-equiv="CACHE-CONTROL" content="no-store, no-cache, must-revalidate" /><meta http-equiv="PRAGMA" content="no-store, no-cache, must-revalidate" /><meta http-equiv="cache-control" content="no-cache" /><meta http-equiv="expires" content="0" /><meta http-equiv="pragma" content="no-cache" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no" /><meta name="description" /><meta name="author" /><link rel="apple-touch-icon" href="../Assets/image/favicon/apple-touch-icon.png" /><link rel="icon" href="../Assets/image/favicon/favicon.png" /><title>
+	All Notifications
+</title>
+    
+    <!-- Custom styles for this template -->
+    <link href="../Assets/css/base.css" rel="stylesheet" media="all" /><link href="../Assets/css/base-responsive.css" rel="stylesheet" media="all" /><link href="../Assets/css/grid.css" rel="stylesheet" media="all" /><link href="../Assets/css/font.css" rel="stylesheet" media="all" /><link href="../Assets/css/flexslider.css" rel="stylesheet" media="all" /><link href="../Assets/css/print.css" rel="stylesheet" media="print" />
+    <!-- Theme styles for this template -->
+    <link href="../theme/css/site.css" rel="stylesheet" media="all" /><link href="../theme/css/site-responsive.css" rel="stylesheet" media="all" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../Assets/css/custom_style.css" /><link rel="stylesheet" href="../Assets/css/custom_responsive.css" /><link rel="stylesheet" href="../Assets/css/bootstrap.min.css" /><link href="../Assets/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="../Assets/css/google_fonts.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="../Assets/css/font-awesome.min.css" />
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="../Assets/css/owl.carousel.min.css" /><link rel="stylesheet" href="../Assets/css/scuba-blue.css" /><link href="../Assets/css/bootstrap-modalpopup.css" rel="stylesheet" /><link href="../Assets/css/Loader.css" rel="stylesheet" /><link href="../Assets/css/Error_Pop.css" rel="stylesheet" /><link href="../Assets/css/custom_responsive.css" rel="stylesheet" /><link href="../Assets/css/theme_css.css" rel="stylesheet" /><link id="ctl00_theme_css" rel="stylesheet" href="#" />
+
+
+     <style>
+        
+
+        @media screen and (max-width: 970px) {
+  #Img_logo {
+    display: none;
+  }
+        
+
+       
+}
+        @media screen and (min-width: 992px) {
+  #nav {
+    display:inline-block !important;
+  }
+   /*#for_mobile {
+   display: none;
+  }*/
+}
+    </style>
+
+
+    <script type="text/javascript">
+        window.onload = function () { Clear(); }
+        function Clear() {
+            var Backlen = history.length;
+            if (Backlen > 0) history.go(-Backlen);
+        }
+    </script>
+    <script type="text/javascript">
+        if (window.history.forward(1) != null)
+            window.history.forward(1);
+    </script>
+    <div id="LoaderBody" class="LoaderBody">
+        <br />
+        <br />
+        <div id="preloader" class="multi-spinner-container">
+            <div class="multi-spinner">
+                <div class="multi-spinner">
+                    <div class="multi-spinner">
+                        <div class="multi-spinner">
+                            <div class="multi-spinner">
+                                <div class="multi-spinner">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+    </div>
+
+<link href="/WebResource.axd?d=UT1Cj7SEzX8U-GEgOjD-q2D4_pi_ZGeMpmAK_uXvUmZ0Wk9HdRbzcADdyTpj8rGZc1z52hY2xtgLIJEfib9K9UsU4CQ531YcHdXePFGg-unNYP1JRVYQufKMVcZolpzzyiJdaA2&amp;t=636452157040000000" type="text/css" rel="stylesheet" /></head>
+<body ng-controller="MultilingualController">
+    <div id="page">
+        <form name="aspnetForm" method="post" action="./Notifications.aspx" id="aspnetForm" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/bundles/MsAjaxJs?v=J4joXQqg80Lks57qbGfUAfRLic3bXKGafmR6wE4CFtc1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="../Scripts/jquery-3.5.1.js" type="text/javascript"></script>
+<script src="../Scripts/jquery-ui-1.12.1.js" type="text/javascript"></script>
+<script src="../Assets/js/popper.min.js" type="text/javascript"></script>
+<script src="../Assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../Assets/js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="../Assets/js/jquery.flexslider.js" type="text/javascript"></script>
+<script src="../Assets/js/custom.js" type="text/javascript"></script>
+<script src="../Assets/js/easyResponsiveTabs.js" type="text/javascript"></script>
+<script src="../Assets/js/swithcer.js" type="text/javascript"></script>
+<script src="../Assets/js/Loader.js" type="text/javascript"></script>
+<script src="../Assets/js/Web_Plugin.js" type="text/javascript"></script>
+<script src="../Assets/js/Theme_Setting.js" type="text/javascript"></script>
+<script src="../Assets/js/bootstrap-datepicker.js" type="text/javascript"></script>
+<script src="../Assets/js/inputmask.js" type="text/javascript"></script>
+<script src="../Assets/js/Angular/angular.min.js" type="text/javascript"></script>
+<script src="../Assets/js/Angular/angular-resource.min.js" type="text/javascript"></script>
+<script src="../Assets/js/Angular/angular-ui-router.min.js" type="text/javascript"></script>
+<script src="../Assets/js/Angular/angular-translate.js" type="text/javascript"></script>
+<script src="../Assets/js/Angular/angular-translate-loader-partial.min.js" type="text/javascript"></script>
+<script src="../App/app.js" type="text/javascript"></script>
+<script src="/bundles/WebFormsJs?v=q9E9g87bUDaS624mcBuZsBaM8xn2E5zd-f4FCdIk2cA1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pVdHczR8HTv0TYtXLibFoAn2sdJ2X21vzlRWiJGMdaOyxz-Ms9oV684ESCpURLu5s9nOS3WNgpg-bByaQdWsR_vFHuWbCKiQXeQPaUrK7KYbLNpbgYdWwOZeWhNtQDD8UwGNUg2&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-qISl4-OkT-7X02E4Fisr2MXa01zdWB61IpPhcJNzSPpwlegEOvjkHt5KOwF4Vw9bfYJOpQaRrRlA82wx8GKBLi2AxmFK1Fvi2xhVUguJMkx2Re90&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LpGQnoKUSgO3ODsBUs8GfSkEtOyR8QAVIuJdvhE-M3WpdYWDSY--kpVd8uPPEweyvP8FV4rQF8-_XinTYF92KWdXSzXsCjyMk3D4mwoGjApgJFX-0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=iC2sD0Al8A6ZX4AVmUco0e31Pw3_CsFQsZMd_MrW67aaHVi9CH6OE75bwAC4siP0OxyXOHN16ua8lJHCx-Bmvt1pZdC8PestF78r1dWxs-Jb2tLo0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rFItVvyVSHru2mWi6oVDARfXeTne-i0D8hQfNq2yGoiXvvG4OwE8VChHdR0ChZ0mE4YvTRVVJc-Sw-nK0tb2z4RCnKYRpcUFoWgsCjLb0ZsQ1QU00&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VXG5HWKmJ5VfT6XbkUxKRsfYpJiNHw0kfaU7Srayw68RaFVkq5IN78XUox7zEFt9A_GIq83coNXythIuH6nPkMhYEGYP6RJys2te9MjEANMOpJMg0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=UOhNCrWepwbJqlILLLhLzcFEyfBkYaiqDE9d0eEJaazOZ4XW9AIJB68fYh8QlpqZXo4n-Nh93baDOnB0MnNBA7HxHXljI2Iz44Gp7lJp6wo97sdp0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5Ptu7TR6eeUMpbV-tOSG6rTsIhuSK8rTaiBoBWIAV77Vf7raG3pfEyqG-cRtPHnYCz6eUd5Z9OVZ6OyqhrSy9sKpFD4ygny1cRS2IkPc_plJAzxR0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yq2dglGiX2GonGqAbqjStlUp0iUSNLzUXOMFsmVX42rj71PHUoCSs4B6UD-2zLnEnz9De9Gi2IK5XckhM-frB5MxPTgyeX5QDwR1sJ2o0PwiblHa0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=q85rlLsZEVu9loex9kzISFzV8kYX8OG4LQVNaw4tHJJW-iTTjxHKhFORAPKjXHlR7CnY4XUWXJc1tvXE2UcwVmVBOpha4dFScOJstBPdO4huBXC20&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9fVK6SOzqud8-CG5DRcWdT6KYleUHrJpWOu-0KnVMcCqi4NdWC0EQN-Kl4i0Y8IZrSrx7Yw8wBuAZdfBDLUUfoyyr0crizh9rGI75kYJ7nnrKzFg0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=FJYGXcD0D1IU18YZcc5S5ScdbUP9blqagK0hD4Of4-Vki9sVUD4u2E_tztVnAgTiyiJSBURDB-y5L2m_KQ9hiEZcVdIET0wEq2KmbBE9fOAXsVk_0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qTnPOILsJCPbmGgsgyJ0e5Rz5wJ_IVEwhzfr-KLGrd9KHpuuYZuWpcZ3BZvsIawBY2OoH6n4L_-Q0hoacDcfDm98tzIzvlcTHY-fazP1qkj7deWp0&amp;t=27679117" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EB3DD895" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="7BcJyuZXcgVnqz+ibKfimZLq90/NZg5IIFFWyFXmT3pe3f6V+YifjQib9Ol3+AsLpVkIV6/VvBrkHkZ/YgVUofLqteRFftXTm5kaZJpfsvhnli4KmPwBxY5S87yR52x2/KfImmbywCuqdgqZlzcQPxOY2ootvhlIN5UhgHqmnF2OqNd4NXlemRBRjIMoEOy9FsfmurW0d8f6+qIXpprk7m434CZxx5s4xdr13vYXRk0/rWGT1/RyfuxNJaPOWRqwGjVJavsXBZj9zX2VMYJ6ZENLT/Q=" />
+            
+
+            <div class="wrapper common-wrapper">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 common-container">
+                    <div class="hidden-xs col-sm-4 col-md-3 col-lg-3 padd_l_r common-left clearfix">
+                        <ul>
+                            <li class="gov-india" style="display:none;">
+                                <a title="{{'GOI_F_HM' | translate }}, {{'GOI_F_HM' | translate }}" href="http://india.gov.in" class="dark_color" target="_blank" 
+                                    style="border-right: 1px solid white;" onclick="return confirm('You are being redirected to an external website. Please note that UPPSC, Prayagraj cannot be held responsible for external websites content & privacy policies.');">
+                                    <span> भारत सरकार </span> GOVERNMENT OF INDIA
+                                </a>
+                            </li>
+                            <li class="ministry" style="display:none;">
+                                <a class="dark_color" title="{{'GOU_HM' | translate }}, {{'GOI_F_HM' | translate }}" href="http://up.gov.in/" target="_blank" onclick="return confirm('You are being redirected to an external website. Please note that UPPSC, Prayagraj cannot be held responsible for external websites content & privacy policies.');">
+                                    <span> उत्तर प्रदेश </span> Uttar Pradesh
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 padd_l_r common-right clearfix">
+                        <ul id="header-nav">
+                            <li class="ico-color ico-skip">
+                                <span class="dark_color clock">
+                                    <span id="clockDisplay"></span>
+                                </span>
+                            </li>
+                            <li class="ico-color ico-skip">
+                                <a href="https://www.nic.in/" class="text-center" title="{{'NICGOV_HM' | translate }}" style="width: 100px;" target="_blank">
+                                    <img id="ctl00_Image5" title="{{&#39;NICLOGO_HM&#39; | translate }}" alt="{{&#39;NICLOGO_HM&#39; | translate }}" src="" border="0" />
+                                </a>
+                            </li>
+                            <li class="ico-accessibility setting">
+                                <a title="Color Setting" class="dark_color" id="A5" data-toggle="collapse" href="#siteSettings" role="button" aria-expanded="false" aria-controls="collapseExample">
+                                    <i class="color_setting_btn fa fa-cog" aria-hidden="true"></i><span title="{{'Setting_HM' | translate }}">{{'Setting_HM' | translate }} </span>
+                                </a>
+                            </li>
+                            <li>
+                                
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="wrapper common-wrapper">
+                <div class="site-settings section section-standout collapsed collapse" role="alert" id="siteSettings">
+                    <div class="container p-y">
+                        <div class="btn-group btn-group-justified-sm contrast_setting" role="group" aria-label="contrastMode">
+                            <div class="btn-group">
+                                <button type="button" data-id="sierra" class="btn btn-primary no-border ng-binding" title="{{'Normal_HM' | translate }}">{{'Normal_HM' | translate }}</button>
+                            </div>
+                            <div class="btn-group">
+                                <button type="button" data-id="mono" class="btn btn-primary no-border ng-binding" title="{{'HIGHCONT_HM' | translate }}">{{'HIGHCONT_HM' | translate }}</button>
+                            </div>
+                        </div>
+                        <div class="btn-group" role="group" aria-label="textSizeMode">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-primary no-border resetTextSize ng-binding" title="{{'RESET_HM' | translate }}">{{'RESET_HM' | translate }}</button>
+                            </div>
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-primary no-border increaseTextSize">
+                                    <span class="hidden-xs ng-binding">
+                                        <span class="fa fa-plus" aria-hidden="true"></span>{{'INFS_HM' | translate }}
+                                    </span>
+                                    <span class="visible-xs">{{'FONT_HM' | translate }} 
+                                        <span class="sr-only">{{'IN_HM' | translate }}</span><span class="fa fa-plus font-size-sm" aria-hidden="true">
+                                        </span>
+                                    </span>
+                                </button>
+                            </div>
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-primary no-border decreaseTextSize">
+                                    <span class="hidden-xs ng-binding">
+                                        <span class="fa fa-minus" aria-hidden="true"></span>{{'DNFS_HM' | translate }}
+                                    </span>
+                                    <span class="visible-xs">{{'FONT_HM' | translate }}
+                                        <span class="sr-only">{{'DE_HM' | translate }}</span>
+                                        <span class="fa fa-minus font-size-sm" aria-hidden="true"></span>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                        <div id="ctl00_Div_theme_mngt" class="btn-group theme_color_setting" role="group" aria-label="textSizeMode"><div class='btn-group eureka' title='Eureka'><i class='fa fa-square' data-id='eureka' data-color='#3E4B4D'></i></div><div class='btn-group mono' title='Mono'><i class='fa fa-square' data-id='mono' data-color='#545351'></i></div><div class='btn-group oceanside' title='Ocean Side'><i class='fa fa-square' data-id='oceanside' data-color='#046B99'></i></div><div class='btn-group orangecounty' title='Orange County'><i class='fa fa-square' data-id='orangecounty' data-color='#A15801'></i></div><div class='btn-group sacramento' title='Sacramento'><i class='fa fa-square' data-id='sacramento' data-color='#153554'></i></div><div class='btn-group santabarbara' title='Santa Barbara'><i class='fa fa-square' data-id='santabarbara' data-color='#60617d'></i></div><div class='btn-group sierra' title='Sierra'><i class='fa fa-square' data-id='sierra' data-color='#447766'></i></div><div class='btn-group trinity' title='Trinity'><i class='fa fa-square' data-id='trinity' data-color='#446A7C'></i></div></div>
+                        <button type="button" class="close" data-toggle="collapse" data-target="#siteSettings" aria-expanded="false"
+                            aria-controls="siteSettings" aria-label="Close">
+                            <span aria-hidden="true">&times;</span></button>
+                    </div>
+                </div>
+            </div>
+
+            <section id="scroll_Header" class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1 col-lg-10 col-lg-offset-1_update col-lg-10_update wrapper">
+                <div id="scroll_Header_2">
+                    <div class="wrapper header-wrapper">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 logoNavRow" style="border: 1px solid #E1E1E1;">
+                            <div class="cf">
+                                <div class="col-xs-3 col-sm-3 col-md-2 col-lg-2 padd_l_r">
+                                    <h1 id="logo">
+                                        <a href="#" class="header_top_heading" title="{{'Heading1_HM' | translate }}" rel="home">
+                                            <img id="ctl00_Img_head_logo" title="{{&#39;Heading1_HM&#39; | translate }}" alt="{{&#39;Heading1_HM&#39; | translate }}" src="https://uppsc.up.nic.in/Assets/image/theme/psc_sierra.png" border="0" />
+                                        </a>
+                                    </h1>
+                                </div>
+                                <div class="col-xs-9 col-sm-9 col-md-8 col-lg-8 padd_l_r ">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r">
+                                        <div class="nationInfo">
+                                            <div id="header_Above_text" class="strongText dark_color" title="{{'Heading1_HM' | translate }}">
+                                                {{'Heading1_HM' | translate }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="hidden-xs hidden-sm col-md-12 col-lg-12 padd_l_r">
+                                        <div class="nationInfo_2 dark_color">
+                                            <span id="header_below_text" title="{{'Heading2_HM' | translate }}">{{'Heading2_HM' | translate }}</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                 <div class="col-xs-3 col-sm-3 col-md-2 col-lg-2 padd_l_r">
+                                    <h1 id="Img_logo" style="margin-top:1px;">
+                                        <a href="#" class="header_top_heading" title="{{'Heading1_HM' | translate }}" rel="home">
+                                            <img id="ctl00_Img_head_logo_right" title="{{&#39;Heading1_HM&#39; | translate }}" alt="{{&#39;Heading1_HM&#39; | translate }}" src="https://uppsc.up.nic.in/Assets/image/theme/Satyanishtha/Logo_sierra.jpg" border="0" />
+                                        </a>
+                                    </h1>
+                                </div>
+
+                                <div class="col-xs-12 col-sm-12 padd_l_r hidden-md hidden-lg">
+                                    <div class="col-xs-11 col-sm-11 padd_l_r">
+                                        <div class="nationInfo_2 text-centre">
+                                            <span id="Span1" title="{{'Heading2_HM' | translate }}">{{'Heading2_HM' | translate }}</span>
+                                        </div>
+                                    </div>
+                                   
+                                </div>
+
+                                <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center Uppsc_logo_cls">
+                                    <img id="ctl00_Uppsc_logo" alt="{{&#39;UPPSC_HM&#39; | translate }}" title="{{&#39;UPPSC_HM&#39; | translate }}" src="../Assets/image/UPPSC.png" border="0" style="display: none;" />
+                                </div>
+                                <div class="headerLeft">
+                                </div>
+                                <!--.headerLeft-->
+                                <div class="headerRight">
+                                    <div class="hrTopLinks">
+                                        <div class="frontmessage">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/.header-wrapper-->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r">
+                    <div class="panel text-left custom_site_map">
+                        <i class="fa fa-home">&nbsp;</i>
+                        <span id="ctl00_SiteMapPath1" title="Uttar Pradesh Public Service Commission :- Website Navigation Bar"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=rKN1opQVoh180LaGjXZZkHSahFiurrDjwB3MOmzZ5KQUDtBCbnLXUEhRk26AJ0RC_PYQow2&amp;t=638901969720898773" width="0" height="0" border="0" /></a><span><a href="/Home">Home Page</a></span><span> &gt; </span><span>Notifications/Advertisements</span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+                    </div>
+                </div>
+            </section>
+
+            
+
+    <style>
+        .btn-OTR {
+            /*color: #fff;
+    background-color: #0B0B45;*/
+            color: black;
+            background-color: lightgray;
+            border-color: #fff;
+        }
+
+        .btn-Fresh {
+            color: #333;
+            background-color: #fff;
+            border-color: #333;
+        }
+
+        .custom_table {
+            color: white !important;
+        }
+
+        .Model_Preview {
+            padding-top: 10px !important;
+            top: 10px !important;
+        }
+    </style>
+
+
+    <script type="text/javascript">
+
+        function showpage1() {
+            debugger;
+            var mydiv = $('#poppage');
+            mydiv.dialog({
+                autoOpen: false, modal: true, title: 'My cool other page', width: '50%',
+                position: { my: 'top', at: 'top+150' }
+            });
+            // Open the dialog
+            mydiv.dialog('open');
+        }
+
+
+
+    </script>
+
+    <link href="../Assets/css/stylish_control.css" rel="stylesheet" />
+    <div id="ctl00_MainContent_UpdatePanel1">
+	
+            <div id="bg">
+                <section class="wrapper banner-wrapper">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1 col-lg-10 col-lg-offset-1_update col-lg-10_update">
+
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r boxSecond min_height">
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 panel panel-heading">
+                                <h1 class="page-header-new text-left">
+                                    <span id="ctl00_MainContent_lbl_GridCaption">Advertisement applicable for online submission only (Notification appearing light grey colour is based on OTR process)</span>
+                                    <a id="ctl00_MainContent_HyperLink3" class="btn btn-danger pull-right" href="../Default.aspx"><b>
+                                        << Go to Home
+                                    </b></a>
+
+
+                                    <a id="ctl00_MainContent_HyperLink4" class="btn btn-OTR pull-right" href="javascript:void();"><b>
+                                       Notification Based On OTR <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                                    </b></a>
+
+                                    
+
+                                </h1>
+                                <div class="text-center">
+
+                                    
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r table-responsive">
+                                    <div class="bg-danger text-center">
+                                        <span id="ctl00_MainContent_lbl_msg" class="Error_msg_page"></span>
+                                    </div>
+                                    <div>
+		<table class="table table-bordered" cellspacing="0" rules="all" border="1" id="ctl00_MainContent_GridView1" width="100%" style="width: 100%">
+			<tr class="bg-primary" align="left">
+				<th scope="col">Mode of Recruitment</th><th scope="col">Examination Name</th><th scope="col">
+                                                    
+                                                </th><th scope="col">Advt. Number <br/> Date</th><th scope="col">Application Filling<br/> Start Date</th><th scope="col">Application Filling</br>Last Date</th><th scope="col">Fee Deposition</br>Last Date</th><th scope="col">Last Date of </br>Fee Reconciliation</th><th scope="col">Modification </br>Start Date</br>Last Date</th><th scope="col">&nbsp;</th><th scope="col">&nbsp;</th><th scope="col">&nbsp;</th>
+			</tr><tr bgcolor="LightGrey">
+				<td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_Mode" title="Mode of Recruitment">Direct</span>
+                                                </font></td><td><font color="Black">
+                                                    
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_Exam_Name" title="Examination Name">Direct Recruitment</span>
+                                                    
+                                                </font></td><td><font color="Black">
+                                                    
+                                                    
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_Adv_number" title="Advertisement Number">D-6/E-1/2025</span>
+                                                    <strong><span style="font-size: 14pt">,</span></strong><br />
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_adv_date" title="Advertisement Date">21/09/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_Gazette_Date" title="Online Application Form Filling Process Start Date">21/09/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_ApplicationFormRegistration_LastDate" title="Online Application Form Filling Process Last Date">21/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_ApplicationFormFeeDeposition_LastDate" title="Required Fee Deposition Last Date">21/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_ApplicationFormSubmission_LastDate" title="Last Date of Fee Reconciliation under Onilne Application">28/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_ApplicationFormModification_StartDate" title="Start Date of Modification in submitted Application Form">21/09/2026</span><br />
+                                                    <span id="ctl00_MainContent_GridView1_ctl02_Lbl_ApplicationFormModification_LastDate" title="Last Date of Modification in submitted Application Form">28/10/2026</span>
+                                                </font></td><td><font color="Black"><a class="btn btn-warning" href="../OuterPages/UserHelp.aspx?ID=558" target="_self">User Instructions</a></font></td><td><font color="Black"><a class="btn btn-info" href="../OuterPages/View_Advertisement.aspx?ID=558&amp;flag=E" target="_New">View Advertisement</a></font></td><td><font color="Black"><a class="btn btn-success" href="javascript:__doPostBack(&#39;ctl00$MainContent$GridView1&#39;,&#39;Select$0&#39;)"><font color="Black">Apply</font></a></font></td>
+			</tr><tr bgcolor="LightGrey">
+				<td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_Mode" title="Mode of Recruitment">Direct</span>
+                                                </font></td><td><font color="Black">
+                                                    
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_Exam_Name" title="Examination Name">Direct Recruitment</span>
+                                                    
+                                                </font></td><td><font color="Black">
+                                                    
+                                                    
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_Adv_number" title="Advertisement Number">D-2/E-1/2026</span>
+                                                    <strong><span style="font-size: 14pt">,</span></strong><br />
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_adv_date" title="Advertisement Date">14/09/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_Gazette_Date" title="Online Application Form Filling Process Start Date">14/09/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_ApplicationFormRegistration_LastDate" title="Online Application Form Filling Process Last Date">14/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_ApplicationFormFeeDeposition_LastDate" title="Required Fee Deposition Last Date">14/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_ApplicationFormSubmission_LastDate" title="Last Date of Fee Reconciliation under Onilne Application">21/10/2026</span>
+                                                </font></td><td><font color="Black">
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_ApplicationFormModification_StartDate" title="Start Date of Modification in submitted Application Form">14/09/2026</span><br />
+                                                    <span id="ctl00_MainContent_GridView1_ctl03_Lbl_ApplicationFormModification_LastDate" title="Last Date of Modification in submitted Application Form">21/10/2026</span>
+                                                </font></td><td><font color="Black"><a class="btn btn-warning" href="../OuterPages/UserHelp.aspx?ID=560" target="_self">User Instructions</a></font></td><td><font color="Black"><a class="btn btn-info" href="../OuterPages/View_Advertisement.aspx?ID=560&amp;flag=E" target="_New">View Advertisement</a></font></td><td><font color="Black"><a class="btn btn-success" href="javascript:__doPostBack(&#39;ctl00$MainContent$GridView1&#39;,&#39;Select$1&#39;)"><font color="Black">Apply</font></a></font></td>
+			</tr>
+		</table>
+	</div>
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r text-center">
+
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r">
+                                        <link href="../Assets/css/blinker.css" rel="stylesheet" />
+                                        <p class="text-center alert alert-danger">
+                                            <b style="color: red;" class="blink_me">Applicant's OTR number is the only regsitration number for submitting application form against any post published by the Commission. Kindly login in to 'Candidate Dashboard' to know the details regarding Application Form, Examination, Interview etc...</b>
+                                        </p>
+                                    </div>
+
+
+                                    
+                                    
+                                    
+                                </div>
+
+                                <div class="panel panel-heading text-center">
+                                    
+                                </div>
+
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r table-responsive">
+                                    <div>
+
+	</div>
+                                </div>
+
+                                <br />
+                                <input type="hidden" name="ctl00$MainContent$HDF_cutofage_Date" id="ctl00_MainContent_HDF_cutofage_Date" />
+                                <input type="hidden" name="ctl00$MainContent$previousval" id="ctl00_MainContent_previousval" value="-1" />
+                                <input type="hidden" name="ctl00$MainContent$previousvalisotr" id="ctl00_MainContent_previousvalisotr" value="No" />
+                                
+                            </div>
+
+                        </div>
+
+                    </div>
+                </section>
+            </div>
+
+
+            <input type="hidden" name="ctl00$MainContent$hpl_Detail" id="ctl00_MainContent_hpl_Detail" />
+            <!-- ModalPopupExtender -->
+            
+
+            <div id="ctl00_MainContent_PNL_DIV_Affirmation" class="modalPopup" align="center" style="display: none">
+		
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                    </div>
+                    <div class="panel-body">
+                        <iframe id="ctl00_MainContent_Iframe1" width="1400" height="500"></iframe>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12 padd_l_r bg-danger">
+
+                        <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12 form-group">
+
+                            <input type="submit" name="ctl00$MainContent$btnClose" value="Close" id="ctl00_MainContent_btnClose" class="btn btn-danger" />
+                        </div>
+                    </div>
+
+                </div>
+            
+	</div>
+
+
+
+
+
+            <input type="submit" name="ctl00$MainContent$Button1" value="Filter" id="ctl00_MainContent_Button1" class="btn btn-warning" style="display: none;" />
+            <!-- ModalPopupExtender -->
+            
+
+            <div id="ctl00_MainContent_panel_popup" class="Model_Preview" align="center" style="display: none; min-width: 50%; max-width: 70%; height: 50%; padding-top: 10px">
+		
+
+                <div id="ctl00_MainContent_UpdatePanel8">
+			
+
+
+
+
+
+
+                        <div id="Div1">
+                            <section class="wrapper banner-wrapper">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1 col-lg-10 col-lg-offset-1_update col-lg-10_update">
+                                    <div id="ctl00_MainContent_UpdatePanel2">
+				
+
+
+
+
+
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r boxSecond min_height" style="background-color: #7c6868">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r panel panel-info" style="margin-left: 13px; width: 97%;">
+                                                    <h1 class="page-header-new text-center">
+                                                        <span>View Advertisement Details </span>
+                                                        <button onclick="__doPostBack('ctl00$MainContent$btn_close_model','')" id="ctl00_MainContent_btn_close_model" class="close pull-right" style="opacity: 1; margin-top: 1px;">
+                                                            <span aria-hidden="true" style="font-size: 30px; color: red; opacity: 1;">&times;</span>
+                                                        </button>
+                                                    </h1>
+                                                    <div class="text-center">
+                                                        
+                                                    </div>
+
+
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="height: 600px; overflow-y: scroll;">
+
+                                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r panel panel-info">
+                                                        <div class="panel-heading">
+                                                            <span id="ctl00_MainContent_lbl_deptName" class="lbl_css"><b></b></span><br />
+                                                            <span id="ctl00_MainContent_lbl_postname" class="lbl_css"></span><br />
+
+                                                        </div>
+
+                                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+
+                                                            <div id="ctl00_MainContent_postdiv" class="col-md-12">
+                                                                <span id="ctl00_MainContent_lbl_totalpost" class="lbl_css"><font color="Green"></font></span>
+                                                            </div>
+
+
+
+
+                                                        </div>
+
+                                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 bg-info">
+                                                            
+
+                                                            
+                                                        </div>
+
+
+                                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r panel-body">
+
+                                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 table-responsive">
+                                                                
+                                                                <br />
+
+                                                                <a id="ctl00_MainContent_A_Post_BifurcationLink" title="Click here to view Complete Vacancy details of each Subject/Post under various Departments" class="btn btn-sm btn-success"> Post/Vacancy Bifurcation Details </a>
+
+
+                                                                
+                                                                <div>
+
+				</div>
+                                                                <div>
+
+				</div>
+                                                                <div>
+
+				</div>
+                                                            </div>
+
+                                                            
+
+
+                                                            <div class="table table-responsive">
+                                                                
+                                                            </div>
+
+
+
+                                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="background-color: #f3f3f3;">
+                                                                    <span id="ctl00_MainContent_Label1"><b><font color="Red">Note :-</font></b></span>
+                                                                    <br />
+                                                                    <span id="ctl00_MainContent_lbl_Note" class="lbl_css"><b><i></i></b></span>
+                                                                    <span id="ctl00_MainContent_Label3" class="lbl_css"><font color="Red"></font></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+			</div>
+                                </div>
+                            </section>
+                        </div>
+
+
+
+
+
+                    
+		</div>
+
+            
+	</div>
+
+
+
+
+
+        
+</div>
+
+
+            <div class="popup" id="ErrorBox" style="display: none;">
+                <div class="close ns-close" id="Error_close" style="opacity: 1"></div>
+                <h3 class="ErrorMsg"></h3>
+            </div>
+            <footer class="footer-section section no-padding-bottom footer-wrapper">
+                <div class="wrapper bottom-wrapper">
+                    <div class="container footer-container padd_l_r">
+                        <div class="bottom-right">
+                            <div class="region region-footer-thirdcolumn">
+                                <nav id='block-menu-menu-secondary-menu' class='block block-menu' role='navigation'><div class='content'><ul class='menu clearfix'><li class='leaf'> <a href='https://uppsc.up.nic.in/Home' title='{{'Home_HM' | translate }}'>{{'Home_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/tnc.aspx' title='{{'TNC_HM' | translate }}'>{{'TNC_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/PrivacyPolicy.aspx' title='{{'PP_HM' | translate }}'>{{'PP_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/hlp.aspx' title='{{'HLP_HM' | translate }}'>{{'HLP_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/CopyrightPolicy.aspx' title='{{'CP_HM' | translate }}'>{{'CP_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/ScreenAccess.aspx' title='{{'SCA_HM' | translate }}'>{{'SCA_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/Disclaimer.aspx' title='{{'DIS_HM' | translate }}'>{{'DIS_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/RTI.aspx' title='{{'RTI_HM' | translate }}'>{{'RTI_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/SiteMap.aspx' title='{{'SiteMap_HM' | translate }}'>{{'SiteMap_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/FooterPages/Tenders' title='{{'Tenders_HM' | translate }}'>{{'Tenders_HM' | translate }}</a></li><li class='leaf'> <a href='https://uppsc.up.nic.in/PublicPages/Contus.aspx' title='{{'ContactUs_HM' | translate }}'>{{'ContactUs_HM' | translate }}</a></li></ul></div></nav>
+                                
+                                <div id="block-common-utils-developed-by-block" class="block block-common-utils">
+                                    <div class="content developed">
+                                        <div id="block-block-25">
+                                            <div class="content">
+                                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 padd_l_r" style="margin-bottom: 5px;">
+                                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 padd_l_r">
+                                                        <a href="http://www.nic.in" target="_blank" title="{{'NICLOGO_HM' | translate }}" style="text-decoration: none;" onclick="return confirm('You are being redirected to an external website. Please note that UPPSC, Prayagraj cannot be held responsible for external websites content & privacy policies.');">
+                                                            <span>
+                                                                <img id="ctl00_Img1" title="{{&#39;NICLOGO_HM&#39; | translate }}" alt="{{&#39;NICLOGO_HM&#39; | translate }}" src="../Assets/image/nic_logo.png" border="0" />
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 padd_l_r">
+                                                    </div>
+                                                </div>
+                                                <p class="text-justify">
+                                                    <span>&copy; {{'FooterNote_HM' | translate }} :- <b>online[dot]uppsc[at]nic[dot]in </b>
+                                                    </span>
+                                                </p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","cancelControlID":"ctl00_MainContent_btnClose","dropShadow":true,"dynamicServicePath":"/CandidatePages/Notifications.aspx","id":"ctl00_MainContent_MPE_Affirmation","popupControlID":"ctl00_MainContent_PNL_DIV_Affirmation"}, null, null, $get("ctl00_MainContent_hpl_Detail"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/CandidatePages/Notifications.aspx","id":"ctl00_MainContent_ModalPopupExtender2","popupControlID":"ctl00_MainContent_panel_popup"}, null, null, $get("ctl00_MainContent_Button1"));
+});
+//]]>
+</script>
+</form>
+    </div>
+</body>
+</html>

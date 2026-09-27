@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://ddd.gov.in/notice-category/recruitments/?sortby=end_date",
+  "fetchedAt": "2026-09-25T00:22:33.302Z",
+  "sha256": "192e2405d967c184dccb0c1b1e93c9399f7a7a95378714f53c76c985afdf7352",
+  "bytes": 100415,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151067779559.pdf",
+  "fetchedAt": "2026-09-25T00:22:34.390Z",
+  "sha256": "b4d7fd232888b994a56bd8533fe700bcca4ff14e072b625544fd956ef5d575dd",
+  "bytes": 608156,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/20260923187262113.pdf",
+  "fetchedAt": "2026-09-25T00:22:35.550Z",
+  "sha256": "7c9064a03fdfc86ceaa52b41fbfc004b1c7443bf9118991a0c14c031760b900b",
+  "bytes": 3080419,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609222113125409.pdf",
+  "fetchedAt": "2026-09-25T00:22:36.379Z",
+  "sha256": "3f25f3839e759bcd4b8d10de9a3873913c1cd447487edc93b29f4604a1cba9a0",
+  "bytes": 584843,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://cdnbbsr.s3waas.gov.in/s371e09b16e21f7b6919bbfc43f6a5b2f0/uploads/2026/09/202609151431689579.pdf",
+  "fetchedAt": "2026-09-25T00:22:37.368Z",
+  "sha256": "5edf564f6205a6ebced25fd12670e87ed96dfa1f1fa9c40335ae1d32a3b760c9",
+  "bytes": 539656,
+  "contentType": "application/pdf"
+ }
+]

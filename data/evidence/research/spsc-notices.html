@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="MaterialDesign/css/bootstrap.css">
+    <link rel="stylesheet" href="MaterialDesign/css/mdb.css">
+    <link rel="stylesheet" href="MaterialDesign/css/style.css">
+    <link rel="stylesheet" href="MaterialDesign/css/newsTicker.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="MaterialDesign/css/all.min.css">
+    <link rel="stylesheet" href="MaterialDesign/css/fontawesome.min.css">
+    <title>Notices of SPSC</title>
+</head>
+
+<style type="text/css">
+
+.pdf{
+border-radius: 5px;
+color: rgb(237, 241, 210);
+float: right;
+margin-top: 2px;}
+
+.table tr td {
+color: #424344;
+font-size: 16px;}
+
+.tagble ul{
+font-weight: bold;}
+
+.main_page h6{
+font-weight: bold;}
+
+.searchbtn{ 
+background-color: #6e7072; 
+color: white;
+margin-top: -8px;
+margin-right: 0px;
+height: 38px;}
+
+#BtnScrollTop {
+display: none;
+position: fixed;
+bottom: 20px;
+right: 30px;
+z-index: 99;
+font-size: 18px;
+border: none;
+outline: none;
+background-color: #2B4865;
+color: white;
+cursor: pointer;
+padding: 5px;
+border-radius: 4px;
+font-size: 15px;
+}
+
+#BtnScrollTop:hover {
+background-color: #555;}
+
+.badge{
+font-size: 13px;
+font-weight: normal;
+border-radius: 5px;
+background-color: #435B66;
+padding: 6px 20px;}
+          
+
+
+/*---------------------------------------------------------------------------------css for medium and small Divices----------------------------*/
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+  
+/* .main_page {font-size: 13px;}
+
+.TopHeader h5 {font-size: 15px;}
+
+.TopHeader h6 {font-size: 12px;}
+
+.table tr td {color: #424344;
+              font-size: 13px;}
+
+.main_page h6 {font-size: 13px;}
+              font-size: 13px;} 
+
+.searchbtn {font-size: 12px;}
+
+.input-group-text {font-size: 13px;}
+} */
+
+/*---------------------------------------------------------------------------------css for Extra small Divices----------------------------*/
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+  .main_page {font-size: 13px;}
+
+.TopHeader h5 {font-size: 15px;}
+
+.TopHeader h6 {font-size: 12px;}
+
+.table tr td {color: #424344;
+              font-size: 13px;}
+
+.main_page h6 {font-size: 13px;}
+              font-size: 13px;} 
+
+.searchbtn {font-size: 12px;}
+
+.input-group-text {font-size: 13px;}
+
+ol{margin-left: -25px;}
+ } }
+
+  /*---------------------------------------------------------------------------------css for small Divices----------------------------*/
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) { }
+
+/*---------------------------------------------------------------------------------css for Medium Divices----------------------------*/
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) { }
+/*---------------------------------------------------------------------------------css for Large devices----------------------------*/
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+</style>
+
+  <button onclick="topFunction()" id="BtnScrollTop" title="Go to top">Top</i></button>
+  <!---------------------------------------------------------------------Start of Header------------------------------------------------->
+  <div class="row">
+  <div class="col-12 col-sm-12 col-md-10 TopHeader">
+  <div class="media">
+  <img src="img/Gov_of_Sikkim.jpg" width="98" height="98" class="img-fluid d-none d-sm-none d-md-block" alt="Responsive img">
+  <div class="media-body header">
+  <h5 class="mt-4"><u>Sikkim Public Service Commission</u></h5>
+  <h6>M. G Marg, Gangtok, East Sikkim</h6>
+  </div>
+  </div></div>
+  <div class="col-12 col-sm-12 col-md-2 mt-3"><img src="img/AZAM.jpg" width="120" height="120" class="img-fluid d-none d-sm-none d-md-block float-right" alt="Responsive img"></div>
+  </div>
+  </div>
+  </div><!----End of Header Container-->
+  <!---------------------------------------------------------------------Start of Navbar------------------------------------------------->
+  <nav class="navbar shadow-md navbar-expand-md navbar-light bg-lightnavbar sticky-top pb-1">
+  <div class="container">
+  <a class="navbar-brand py-2 d-block d-sm-block d-md-none" href="#">
+  <h6 class="text-center"></h6></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+      
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav ml-auto">
+  <li class="nav-item active">
+  <a class="nav-link" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home <span class="sr-only">(current)</span></a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="History.html"><i class="fa fa-book-reader" aria-hidden="true"></i> About Us</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="RTI.html"><i class="fa fa-award" aria-hidden="true"></i> R.T.I</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Image_Gallery.html"><i class="fa fa-image" aria-hidden="true"></i> Photo Gallery</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Contact_Us.html"><i class="fa fa-phone-square" aria-hidden="true"></i> Contact Us</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Apply_Online.html" target="_self"><i class="fa fa-globe" aria-hidden="true"></i> Apply Online</a>  </li>
+  </ul>
+  </div>
+  </div><!----End of Nav Container-->
+  </nav>
+
+  <div class="container main_page shadow-lg">
+  <div class="row">
+  <!---------------------------------------------------------------------Start of Scrolling Message------------------------------------------------->  
+  <div class="col-12">
+  <div class="alert alert-primary p-1 my-2 shadow-none alert_scroll">
+  <marquee scrolldelay="80">
+  The Commission appeals to all the concerned to rely only on the informations advertised in local news paper through I.P.R Department and published in 
+  official website of S.P.S.C. The candidates are also requested to kindly go through rejection list published in the website irrrespective of 
+  <span style="font-weight: bold">Eligibility / Rejection.</span>
+  </marquee>  
+  </div>
+  </div>
+
+  <!----------------------------------------------------------Start of Menu----------------------------------------> 
+  <div class="col-12 col-sm-12 col-md-4 mb-2 Menu">
+  <div class="card box menu"> 
+  <div class="card-header py-2">Content</div>
+  <ul class="list-group list-group-flush px-3 pt-2 box">
+  <li class="list-group-item pl-1"><a href="Advertisement.html"><i class="fab fa-accusoft"></i> Advertisements</li></a>
+  <li class="list-group-item pl-1"><a href="Notices.html"><i class="fab fa-accusoft" aria-hidden="true"></i> Notices</li></a>
+  <li class="list-group-item pl-1"><a href="Result.html" target="new"><i class="fab fa-accusoft" aria-hidden="true"></i> Results</li></a>       
+  </ul>    
+  </div>
+  </div>
+  <!----------------------------------------------------------Start of PDF----------------------------------------> 
+  <div class="col-12 col-sm-12 col-md-8 d-none d-sm-none d-md-block mb-2">
+  <div class="card box">
+  <div class="card-header text-center">Latest Advertisements Issued By the Commission.</div>
+  <div class="card-body">Adobe Acrobat Reader is necessary. Kindly download and install Acrobat Reader to view the listed files below.<br><br>
+  <!--<button type="button" class="btn btn-sm btn-warning p-2 pdf">Download Acrobat Reader></i></button>--></div>
+  </div>
+  </div>
+  
+  <!----------------------------------------------------------Start of Filter for Table---------------------------------------->
+  <div class="col-12 col-sm-12 mb-2 mt-3">
+  <div class="row no-gutters">
+  <div class="col-12 col-sm-12 col-md-6 text-right pt-2">
+  <!--<h6>Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></h6>-->
+  <button type="button" class="btn pt-2 pb-2 searchbtn">Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></button></div>
+  <div class="col-12 col-sm-12 col-md-6"><input class="form-control" style="border-radius: 0 0 0 0 ;" id="myInput" type="text" placeholder="Search.."></div>
+  </div>
+  </div>
+
+  <!--<div class="col-12 col-sm-12 mb-2 mt-3">
+  <div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon3">Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+  </div>
+  </div>-->
+  
+  <!----------------------------------------------------------Start of Table---------------------------------------->
+ 
+  <div class="col-12 col-sm-12 mb-2 Table">
+  <div class="card box shadow-none border border-light p-2">
+  <div class="card-header text-center">Latest Notices Issued By the Commission. 
+  
+  </div>
+  <table class="table table-striped table-hover mt-2">
+  <thead class="text-center">
+  <tr>
+  <th>Notices issued by the Commission</th>
+  <th>Dated</th>
+  </tr>
+  </thead>
+  <tbody id="myTable">
+<tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/JE_Civil_Scribe_Notice.pdf" target="_blank">
+    Notice regarding availing the facility of Scribe for PwBD candidates to the posts for Junior Engineer (Civil) under Roads & Bridges Department</a>
+    </td>  
+    <td class="dates align-middle">11/09/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/JE_Civil_Written_Notice.pdf" target="_blank">
+    Notice regarding Written Examination to the posts for Junior Engineer (Civil) under Roads & Bridges Department</a><br>
+    <a href="" style="color: #555;"><small> To view your application status, click the button shown to log in to RPA 2.0</small></a>&nbsp &nbsp
+    <a href="https://164.100.250.80/spsc/login.htm" target="new">
+    <span class="badge badge-pill">Login</span></a>
+    </td>  
+    <td class="dates align-middle">08/09/2026</td></tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Under_Secretary_BPL_PWD_Scrutiny_Notice_07_08_2026.pdf" target="_blank">
+    Notice for scrutiny of documents to the post of under Secretaty under the categories of Persons with Benchmark Disabilities (PwBD) and Below Poverty Line (BPL)</a>
+    </td>  
+    <td class="dates align-middle">07/08/2026</td></tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Notice for Sub Inspector, Excise (Preliminary Written Examination) 2026.pdf" target="_blank">
+    Notice for Sub Inspector Excise (Preliminary Written Examination) 2026</a>
+    </td>  
+    <td class="dates align-middle">31/07/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Extension_Notice_Online Application_Accounts_Clert_Jail_Warder_27_07_2026.pdf" target="_blank">
+    Notice regarding Extension of date for Submission of Online Application for the posts of Accounts Clerk and Jail Warder</a>
+    </td>  
+    <td class="dates align-middle">27/07/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Veterinary_Officer_Viva_Notice_21_07_2026.pdf" target="_blank">
+    Notice regarding Viva Voce/ Interview for the post of Veterinary Officer under Animal Husbandry & Veterinary Services Department, Government of Sikkim</a>
+    </td>  
+    <td class="dates align-middle">21/07/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Veterinary_Officer_Scrutiny_Notice_09_07_2026.pdf" target="_blank">
+    Notice regarding scrutiny of documents of the candidates for the post of Veterinary Officer under Animal Husbandry & Veterinary Services Department, Government of Sikkim</a>
+    </td>  
+    <td class="dates align-middle">09/07/2026</td></tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Engineer_Electrical_Rejection_Notice_30_06_2026.pdf" target="_blank">
+    Notice regarding rejection of candidates with reference to the post of Assistant Engineer (Electrical), under Sikkim State (Civil, Elect. & Mech) Engineering Service, Government of Sikkim</a>
+    </td>  
+    <td class="dates align-middle">30/06/2026</td></tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Engineer_Electrical_Scrutiny&Viva_NOtice_18_06_2026.pdf" target="_blank">
+    Notice regarding Scrutiny of documents and Viva-Voce/ Interview to the post of Assistant Engineer (Electrical), under Sikkim State (Civil, Elect. & Mech) Engineering Service, Government of Sikkim</a>
+    </td>  
+    <td class="dates align-middle">18/06/2026</td></tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Scribe for US 2026.pdf" target="_blank">
+    Notice regarding availing facility of Scribe for State Civil Service (Preliminary) Examination 2026</a>
+    </td>  
+    <td class="dates align-middle">24/04/2026</td></tr>
+
+     <tr>
+    <td class="pl-4">
+    <a href= "Notices/Scrutiny_Notice_Category_Wise_BO_FG_10_04_2026.pdf" target="_blank">
+    Notice regarding scrutiny of documents under the category of Sports Persons & Artisans of Excellence, BPL, 
+    Paramilitary Forces & Assam Rifles and Ex Servicemen for the post of Block Officer & Forest Guard.</a>
+    </td>  
+    <td class="dates align-middle">24/03/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Scrtiny_Notice_07_04_2026.pdf" target="_blank">
+    Notice regarding candidates declared ineligible during document scrutiny, along with the list of candidates shortlisted next 
+    in line of merit for scrutiny of documents/Viva Voce for the posts of Under Secretary and Accounts Officer.</a>
+    </td>  
+    <td class="dates align-middle">24/03/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Preliminary Written Examination for US 2026.pdf" target="_blank">
+    Notice regarding Preliminary Written Examination for the post of Under Secretary  </a>
+    </td>  
+    <td class="dates align-middle">24/03/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Viva_&_Scrutiny_Notice_19_03_2026.pdf" target="_blank">
+    Notice regarding scrutiny of documents and Viva-Voce/ Interview to the post of Under Secretary and Accounts Officer </a>
+    </td>  
+    <td class="dates align-middle">19/02/2026</td></tr>
+
+  <tr>
+  <td class="pl-4"><a href="Notices/Under_Secretary_2026_Written_Examination_23_02_2026.pdf">Notice regarding Preliminary Written Examination  to the 
+  posts for Under Secretary under Sikkim State Civil Servises</a><br><br>
+
+  <ol>
+  <li class="mb-1"><a href="Notices/Under_Secretary_2026_Examination_Rules_23_02_2026.pdf" target="new">Notification for Under Secretary under Sikkim State Civil Servises Examination Rules, 2026</a></li>
+  <li class="mb-1"><a href="Notices/Under_Secretary_2026_Plan_of_Examination_23_02_2026.pdf" target="new">Appendix-I for Under Secretary under Sikkim State Civil Servises Examination Rules, 2026 (Plan of Examination)</a></li>  
+  <li><a href="Notices/Under_Secretary_2026_Schemes_&_Syllabus_23_02_2026.pdf" target="new">Appendix-II & III for Under Secretary under Sikkim State Civil Servises (Scheme and Syllabus for the examination)</a></li>  
+  </ol>
+  </td>
+  <td class="dates align-middle">23/02/2026</td></tr>
+  </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/AE Electrical use of scientific Calulator 19_02_2026.pdf" target="_blank">
+    Notice regarding Written Examination to the post of Assistant Engineer (Electrical) under Sikkim State Electrical Servies.</a>
+    </td>  
+    <td class="dates align-middle">19/02/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/BO_FG_Availing_Scribe_07_02_2026.pdf" target="_blank">
+    Notice regarding Availing the facility of Scribe by Persons with Benchmark Disabilities to the Post of Block Officer and Forest Guard Examination, 2026</a>
+    </td>  
+    <td class="dates align-middle">07/02/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Rejection List _FG.pdf" target="_blank">
+     Notice regarding rejection of candidates under Ex Servicemen and Paramilitary Force & Assam Rifle category for the post of Forest Guard under Forest and Environment Department. .</a>
+    </td>  
+    <td class="dates align-middle">31/01/2026</td></tr>
+
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Date of Extension for US SI LI.pdf" target="_blank">
+    Notice regarding Extension of date for Submission of Online Application form for the posts of Under Secretary, Sub-Inspector (Excise) and Labour Inspector .</a>
+    </td>  
+    <td class="dates align-middle">31/01/2026</td></tr>
+
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Engg_Electrical_Written_Exam_Notice_05_01_2025.pdf" target="_blank">
+    Notice regarding Written Examination to the post of Assistant Engineer (Electrical) under Sikkim State Electrical Servies.</a>
+    </td>  
+    <td class="dates align-middle">05/01/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Block_Officer_Written_Exam_Notice_05_01_2025.pdf" target="_blank">
+    Notice regarding Written Examination to the post of Block Officer under Forest and Environment Department</a>
+    </td>  
+    <td class="dates align-middle">05/01/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Forest_Guard_Written_Exam_Notice_05_01_2025.pdf" target="_blank">
+    Notice regarding Written Examination to the post of Forest Guard under Forest and Environment Department</a>
+    </td>  
+    <td class="dates align-middle">05/01/2026</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/J_E_CIvil_Extension_for_Filling_Forms_05_12_2025.pdf" target="_blank">
+    Notice regarding extension for submission of application for the Post of Junior Engineer (Civil) </a>
+    <div class="" ><small style="text-align: center;">Advertisement No. 07/SPSC/EXAM/2024 Issued Date:  09/12/2024</small></div><hr>
+    <a href="http://164.100.250.80/spsc" target="new">
+    <span class="badge badge-pill">Click to Apply</span></a>
+    </td>  
+    <td class="dates align-middle">05/12/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/A_E_Electrical_Extension_for_Filling_Forms_05_12_2025.pdf" target="_blank">
+    Notice regarding extension for submission of application for the Post of Assistant Engineer (Electrical) </a>
+    <div class="" ><small style="text-align: center;">Advertisement No. 02/SPSC/EXAM/2024 Issued Date: 03/07/2024</small></div><hr>
+    <a href="https://sso.sikkim.gov.in/account/login" target="new">
+    <span class="badge badge-pill">Click to Apply</span></a>
+    </td>  
+    <td class="dates align-middle">05/12/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Notice_Registration_RPA_3.0_05_12_2025.pdf" target="_blank">
+    <b>Important Information for all prospective candidates regarding the upgraded Recruitment Process Application (RPA) 3.0 </b></a><br></td>  
+    <td class="dates align-middle">05/12/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Inspector_Police_Scrutiny_Notice_26_11_2025.pdf" target="_blank">
+    Notice for Scrutiny of Document to the post of Sub Inspector under Sikkim Police.</a><br></td>  
+    <td class="dates align-middle">26/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Co_Inspector_Co_Auditor_Scrutiny_Notice_19_11_2025.pdf" target="_blank">
+    Notice for Scrutiny of Document to the post of Cooperative Inspector and Cooperative Auditor under Cooperation Department.</a><br></td>  
+    <td class="dates align-middle">19/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Veterinary_Officer_Viva_Notice_13_11_2025.pdf" target="_blank">
+    Notice for Viva-Voce/ Interview to the post of Veterinary Officer under Sikkim State Veterinary Services</a><br></td>  
+    <td class="dates align-middle">13/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Town_Planner_Viva_Notice_13_11_2025.pdf" target="_blank">
+    Notice for Viva-Voce/ Interview to the post of Assistant Town Planner under Sikkim State Town & Country Planning Services.</a><br></td>  
+    <td class="dates align-middle">13/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Co_Inspector_Auditor_Scrutiny_Notice_12_11_2025.pdf" target="_blank">
+    Notice for Scrutiny of Documents to the post of Cooperative Inspector and Cooperative Auditor under Cooperation Department.</a><br></td>  
+    <td class="dates align-middle">12/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Town_Planner_Scrutiny_Notice_03_11_2025.pdf" target="_blank">
+    Notice for Scrutiny of Documents to the post of Assistant Town Planner under Sikkim State Town & Country Planning Services</a><br></td>  
+    <td class="dates align-middle">03/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Veterinary Officer_Scrutiny_Notice_03_11_2025.pdf" target="_blank">
+    Notice for Scrutiny of Documents to the post of Veterinary Officer under Sikkim State Veterinary Services</a><br></td>  
+    <td class="dates align-middle">03/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Inspector_SIkkim_Police_Inservice_Notice_01_11_2025.pdf" target="_blank">
+    Notice for In Service Candidates for the post of Sub Inspector (Sikkim Police)</a><br></td>  
+    <td class="dates align-middle">01/11/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Block_Officer_Forest_Guard_Examnation_Calendar_28_10_2025.pdf" target="_blank">
+    Notice regarding tentative Examination Calendar for the post of Block Office and Forest Guard under Forest & Environment Department</a><br></td>  
+    <td class="dates align-middle">28/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combine_Examination_2025_Availing_Scribe_28_10_2025.pdf" target="_blank">
+    Notice regarding Availing the facility of Scribe by Persons with Benchmark Disabilities to the Post of Sikkim Service 
+    (Combined Recruitment) Mains Examination, 2025</a><br></td>  
+    <td class="dates align-middle">28/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Inspector_Mains_Notice_17_10_2025.pdf" target="_blank">
+    Notice for Sub Inspector (Police) Mains Written Examination</a><br></td>  
+    <td class="dates align-middle">17/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_PET_Notice_08_10_2025.pdf" target="_blank">
+    Notice for Physical Endurance Test (PET) to the post of Sub Inspector (Police)</a><br></td>  
+    <td class="dates align-middle">08/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_Notice_Mains_Examination_07_10_2025.pdf" target="_blank">
+    Notice for Sub Inspector (Police) Mains Written Examination</a><br></td>  
+    <td class="dates align-middle">07/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Notice_Mains_Examination_07_10_2025.pdf" target="_blank">
+    Notice for Sikkim Services (Combined Recruitment) Mains Written Examination 2025</a><br></td>  
+    <td class="dates align-middle">07/10/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_PET_Notice_26_09_2025.pdf" target="_blank">
+    Sub Inspector (Police) Preliminary Examination result cum Physical Endurance Test Notice</a><br></td>  
+    <td class="dates align-middle">26/09/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/JE MECH SCRUTINY FOR SPAE ESM PFAR.pdf"new">
+    Notice for candidates applying under the category SPAE, ESM & PFAR </a><br></td>  
+    <td class="dates align-middle">23/09/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Notice for BPL and PWD Scrutiny Combine Exam.pdf"new">
+    Notice for BPL & PwBD candidates appearing for Sikkim Services (Combined Recruitment) Mains Written Examination </a><br></td>  
+    <td class="dates align-middle">20/09/2025</td></tr>
+
+<tr>
+    <td class="pl-4">
+    <a href= "Notices/Notice for SI Scrutiny.pdf" target="new">
+    Notice for SPAE & ESM candidates applying for the post of Sub-Inspector, Sikkim Police </a><br></td>  
+    <td class="dates align-middle">20/09/2025</td></tr>
+
+<tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined 2025 Prelims Notice.pdf" target="new">
+    Notice for Sikkim Services (Combined Recruitment) Preliminary Written Examination </a><br></td>  
+    <td class="dates align-middle">05/09/2025</td></tr>
+
+<tr>
+    <td class="pl-4">
+    <a href= "Notices/AE Electrical_postponed.pdf" target="new">
+    Notice regarding postponement of Written Examination for the post of Assistant Engineer (Electrical)</a><br></td>  
+    <td class="dates align-middle">05/09/2025</td></tr>
+
+     <tr>
+    <td class="pl-4">
+    <a href= "Notices/AE Electrical use of scientific Calulator.pdf" target="new">
+    Notice for use of Scientific Calculator for Paper II (Mains) for the post of Assistant Engineer (Electrical)</a><br></td>  
+    <td class="dates align-middle">02/09/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_PED_Written_M_Exam_Notice_28_08_2025.pdf" target="new">
+    Notice regarding tentative calendar for Physical Efficency Test (PET) and Written Main Examination 
+    to the post of Sub-Inspector, Sikkim Police </a><br></td>  
+    <td class="dates align-middle">28/08/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Insp_Preliminary_Exam_14_08_2025.pdf" target="new">
+    Notice regarding the Preliminary Examinaton to the posts of Sub Inspector (Sikkim Police)</a><br></td>  
+    <td class="dates align-middle">14/08/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Notice_WrittenExam_AE_E_VO_ATP_10_08_2025.pdf" target="new">
+    Notice regarding the written examinaton to the posts of Assistant Engineer(Electrical), Veterinary Officer, Assistant Town Planner</a><br></td>  
+    <td class="dates align-middle">13/08/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Advisory_31_07_2025.pdf" target="new">
+    Advisory for candidates appearing for Sikkim Services (Combined Recruitment) Preliminary Examination,2025</a><br></td>  
+    <td class="dates align-middle">23/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Professor_Bed_Coll_Notice_23_07_2025.pdf" target="new">
+    Addendum to the post of Assistant Professors in Government B.Ed College, Soreng</a><br></td>  
+    <td class="dates align-middle">23/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combine_Examination_2025_Availing_Scribe_09_07_2025.pdf" target="new">
+    Notice regarding Availing the facility of Scribe by Persons with Benchmark Disabilities to the Post of Sikkim Service (Combined Recruitment) Preliminary Examination, 2025</a><br></td>  
+    <td class="dates align-middle">08/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Storekeeper_Written_Exam_01_07_2025.pdf" target="new">
+    Notice regarding written Examination to the post Laboratory Assistant and Storekeeper</a><br></td>  
+    <td class="dates align-middle">01/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Jr_Engineer_Calculator_Notice_01_07_2025.pdf" target="new">
+    Notice regarding use of calculator(s) to the post of Junior Engineer (Mechanical)</a><br></td>  
+    <td class="dates align-middle">01/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combine_Exam_2025_Prelliminary_Written_Exam_01_07_2025.pdf" target="new">
+    Notice regarding Preliminary Examination for the post Under Secretary and Accounts Officer</a><br></td>  
+    <td class="dates align-middle">01/07/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/CI_CA_Written_Exam_Commerce_30_06_2025.pdf" target="new">
+    Notice for the post of Cooperative Inspector & Auditor (Commerce Subject)</a><br></td>  
+    <td class="dates align-middle">30/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/CI_CA_Use_of_Calculator_27_06_2025.pdf" target="new">
+    Notice regarding use of calculator(s) to the post of Cooperative Inspector & Auditor</a><br></td>  
+    <td class="dates align-middle">27/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/CI_CA_Use_of_Calculator.pdf" target="new">
+    Notice regarding use of calculator(s) to the post of Cooperative Inspector & Auditor</a><br></td>  
+    <td class="dates align-middle">26/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Librarian_Viva_Voce_Notice_25_06_2025.pdf" target="new">
+    Notice regarding Viva Voce to the post of Librarian</a><br></td>  
+    <td class="dates align-middle">25/06/2025</td></tr>
+ 
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Professor_CD_PT_20_06_2025.pdf" target="new">
+    Notice regarding Classroom Demonstration and Personality Test to the post of Assistant Professor of Higher Nyingma Studies(SHEDA) </a><br></td>  
+    <td class="dates align-middle">20/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Librarian Govt College Notice for Scrutiny and Viva 2025.pdf" target="new">
+    Notice regarding Scrutiny of documents and Viva-Voce Interview for the post of Librarian, Sikkim Government College </a><br></td>  
+    <td class="dates align-middle">18/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/JE Mechanical notice for Written Examination 2025.pdf" target="new">
+    Notice regarding Written Examination for the post of Junior Engineer (Mechanical) 2025 </a><br></td>  
+    <td class="dates align-middle">16/06/2025</td></tr>
+    
+ <tr>
+    <td class="pl-4">
+    <a href= "Notices/AE MECHANICAL NOTICE FOR VIVA AND SCRUTINY 2025.pdf" target="new">
+    Notice regarding Scrutiny of Documents and Viva-Voce / Interview for the post of Assistant Engineer (Mechanical) </a><br></td>  
+    <td class="dates align-middle">16/06/2025</td></tr>
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_Age_Notice_12_06_2025.pdf" target="new">
+    Notice regarding recruitment to the post of Sub Inspector, Sikkim Police </a><br></td>  
+    <td class="dates align-middle">12/06/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Librarian_Viva_Notice_30_05_2025.pdf" target="new">
+    Notice regarding postponed date of Viva Voce/ Interview to the post of Librarian </a><br></td>  
+    <td class="dates align-middle">30/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Librarian_Viva_Notice_26_05_2025.pdf" target="new">
+    Notice regarding postponed date of Viva Voce/ Interview to the post of Librarian </a><br></td>  
+    <td class="dates align-middle">26/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/SI_Police_On_hold_Notice_26_05_2025.pdf" target="new">
+    Notice to the post of Sub Inspector under Sikkim Police.</a><br></td>  
+    <td class="dates align-middle">26/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Coo_Inspector_Auditor_Written_Notice_19_05_2025.pdf" target="new">
+    Notice regarding written examination to the post of Cooperative Inspector and Cooperative Audiotor under Cooperation Department.</a><br></td>  
+    <td class="dates align-middle">19/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant Professor_Govt_Coll_ Withdrawn_Notice.pdf" target="new">
+    Notice to the post of Assistant Professor, Government Colleges</a><br></td>  
+    <td class="dates align-middle">13/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Librarian _Pharmacy_COl_Scrutiny_Viva_Notice_09_05_2025.pdf" target="new">
+    Notice regarding scrutiny of documents and Viva Voce/Interview to the post of Librarian, Sikkim Government Pharmacy College.</a><br></td>  
+    <td class="dates align-middle">09/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Block_Officer_FOrest_Guard_Ex_Serviceman_Notice.pdf" target="new">
+    Notice for Ex-Serviceman/PFAR applying for the post of Block Officer and Forest Guard.</a><br></td>  
+    <td class="dates align-middle">09/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Statistical Inspector_Written_Exam_08_05_2025.pdf" target="new">
+    Notice regarding written examination to the post of Statistical Inspector under the Directorate of Economics, Statistics, Monitoring and 
+    Evaluation, Government of Sikkim.</a><br></td>  
+    <td class="dates align-middle">08/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Lab_Assistant_Exise_Written_Exam_08_05_2025.pdf" target="new">
+    Notice regarding written examination to the post of Laboratory Assistant under Excise Department</a><br></td>  
+    <td class="dates align-middle">08/05/2025</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href="Notices/US_AO_Notice_01_05_2025.pdf" target="new">Notice regarding Examination Rules, Scheme and Syllabus and Tentative Calendar for direct recruitment of Under Secretary and Accounts Officer</a><br><br>
+    <ol>
+    <li class=""><a href="Notices/US_AO_Notification_01_05_2025.pdf" target="new">Examination Rules</a></li>
+    <li class=""><a href="Notices/US_AO_Plan_of_Examination_01_05_2025.pdf" target="new">Plan of Examination</a></li>
+    <li class=""><a href="Notices/US_AO_Plan_of_Scheme_and_Syllabus_01_05_2025.pdf" target="new">Scheme and Syllabus</a></li>
+    <li class=""><a href="Notices/US_AO_Examination_Calender_01_05_2025.pdf" target="new">Examination Calendar</a></li>
+    
+    </ol>
+    <td class="dates align-middle">01/05/2025</td>
+    </td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Health_Educator_Notice_17_04_2025.pdf" target="new">
+    Notice in continuation to Notice No. 02/EXAM/SPSC/2025 dated: 17/04/2025 (Health Educator)</a><br></td>  
+    <td class="dates align-middle">17/04/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Extension_of_Application_01_04_2025.pdf" target="new">
+      Notice regarding Extension of date for submission of application for Under Secretary under Sikkim State Civil Services and 
+      Accounts Officer under Sikkim State Finance and Accounts Services</a><br></td>  
+    <td class="dates align-middle">01/04/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Principal_Gov_Col_Law_SHEDA_01_04_2025.pdf" target="new">
+    Notice to the post of Principal, Government Colleges, Law Colleges and SHEDA</a><br></td>  
+    <td class="dates align-middle">01/04/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/GDMO_Scrutiny_Notice_01_04_2025.pdf" target="new">
+    Notice regarding scrutiny of documents, Viva-Voce/Interview to the post of General Duty Medical Office (GDMO) Jr. Grade</a><br></td>  
+    <td class="dates align-middle">01/04/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sheda_Asssistant_Professor_WrittenExam_21_03_2025.pdf" target="new">
+    Notice regarding written examination for the post of Assistant Professor (SHEDA)</a><br></td>  
+    <td class="dates align-middle">21/03/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Statistical_Insp_Notice_17_03_2025.pdf" target="new">
+    Notice for the post of Statistical Inspector under the Directorate of Economics, Statistics, Monitoring and Evaluation, Government of Sikkim.</a><hr>
+    <a href="https://sso.sikkim.gov.in/account/login" target="new">
+      <span class="badge badge-pill">Click to Apply</span></a></td>  
+    <td class="dates align-middle">17/03/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/A.E_MechanicalEngg_Calculator_09_08_2023.pdf" target="new">
+      Notice regarding use of calculator for Mains Written Examination for Assistant Engineer (Mechanical)</a><br></td>  
+    <td class="dates align-middle">11/03/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Engineer_Written_Exam_18_02_2025.pdf" target="new">
+    Notice regarding written examination to the post of Assistant Engineer (Mechanical) under Sikkim State (Civil, Elect. & Mech.) Service</a><br></td>  
+    <td class="dates align-middle">18/02/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Paramedical_Dental_Hy_Radiotherapy_04_02_2025.pdf" target="new">
+    Notice for Viva/ Personality Test to the post of Radiotherapy Technician and Denltal Hygienist</a><br></td>  
+    <td class="dates align-middle">04/02/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_Age_Notice_18_01_2025.pdf" target="new">
+    Notice to the post of Under Secretary and Accounts Officer</a><br></td>  
+    <td class="dates align-middle">18/01/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/GDMO_WrittenExamination_09_01_2025.pdf" target="new">
+    Notice regarding written examination to the post of General Duty Medical Officer (GDMO)</a><br></td>  
+    <td class="dates align-middle">09/01/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Engineer_Revised_Syllabus_09_01_2025.pdf" target="new">
+    Notice regarding the revised syllabus to the post of Assistant Engineer (Mechanical)</a><br></td>  
+    <td class="dates align-middle">09/01/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Engineer_Addendum_07_01_2025.pdf" target="new">
+    ADDENDUM to the post of Assistant Engineer (Electrical)</a><br></td>  
+    <td class="dates align-middle">07/01/2025</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Various_Paramedical_Written_Exam_19_12_2024.pdf" target="new">
+    Notice regarding written examination to the various post of paramedical under Sikkim State Subordinate 
+    Allied and Healthcare Services, under Health and Family Welfare</a><br></td>  
+    <td class="dates align-middle">19/12/2024</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Health_Educator_Written_Exam_19_12_2024.pdf" target="new">
+    Notice regarding written examination to the post of Health Educator under Sikkim State Subordinate Allied and Healthcare Service, 
+    Health and Family Welfare Department</a><br></td>  
+    <td class="dates align-middle">19/12/2024</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Architect_Scrutiny_Notice_29_11_2024.pdf" target="new">
+    Notice regarding scrutiny of documents to the post of Assistant Architect under Sikkim State Architect Service</a><br></td>  
+    <td class="dates align-middle">29/11/2024</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Fire_Officer_Written_Examinarion_08_11_2024.pdf" target="new">
+    Notice regarding Written (Mains) examination to the post of Sub-Fire Officer under Sikkim Fire and Emergency Service  </a><br></td>  
+    <td class="dates align-middle">08/11/2024</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Cancelled candidates for viva_combined exam.pdf" target="new">
+    Notice regarding Cancellation of Candidature of Candidates for Viva-Voce for Sikkim Services (Combined Recruitment) Examination, 2022  </a><br></td>  
+    <td class="dates align-middle">04/11/2024</td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Recruitment_Notice_18_10_2024.pdf" target="new">
+    Notice for Sikkim Services (Combined Recruitment) Examination, 2022  </a><br></td>  
+    <td class="dates align-middle">18/10/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Recruitment_Scrutiny&Viva_Notice_07_10_2024.pdf" target="new">
+    Notice regarding Scrutiny of documents and Viva-Voce for Sikkim Services (Combined Recruitment) Examination, 2022  </a><br></td>  
+    <td class="dates align-middle">07/10/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Paramedical_Eligible List_20_09_2024.pdf" target="new">
+    Notice regarding eligible candidates for written examination for various paramedical posts under 
+    Sikkim State Subordinate Allied and Healthcare Services, under Health and Family Welfare Department. </a><br></td>  
+    <td class="dates align-middle">20/09/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Exam_DSP_PET_Noticee.pdf" target="new">
+    Notice regarding Physical Endurance Test (PET) for the post of Deputy Superintendent of Police (DSP) </a><br></td>  
+    <td class="dates align-middle">13/09/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Photographer_Corrigendum_10_09_2024.pdf" target="new">
+    Notice to the post of Photographer </a><br></td>  
+    <td class="dates align-middle">09/09/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Practical_Viva_Scrutiny photographer2024.pdf" target="new">
+    Notice for Practical Examinaton, Viva-Voce and Scrutiny for the post of Photographer </a><br></td>  
+    <td class="dates align-middle">09/09/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Architect Venue_Notice_02_09_2024.pdf" target="new">
+    Notice to the Post of Assistant Architect under Sikkim State Architect Service</a><br></td>  
+    <td class="dates align-middle">02/09/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Professor_SHEDA_ Scrutiny_29_08_2024.pdf" target="new">
+    Notice regarding Scrutiny of documents to the post of Assistant Professor, Sikkim Institute of Higher Nyingma Studies (SHEDA)</a><br></td>  
+    <td class="dates align-middle">29/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Health_Educator_Notice_29_08_2024.pdf" target="new">
+    Notice to the post of Health Educator under Health and Family Welfare Department</a><br></td>  
+    <td class="dates align-middle">29/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Architect _WrittenExam_28_08_2024.pdf" target="new">
+    Notice regarding Written Examination to the post of Assistant Architect under Sikkim State Architect Service</a><br></td>  
+    <td class="dates align-middle">28/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Professor_SHEDA_Librarian_Notice_06_08_2024.pdf" target="new">
+    Notice to the post of Assistant Professor (SHEDA) and College Librarian (varous colleges).</a><br></td>  
+    <td class="dates align-middle">06/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Photographer_WrittenExam_03_08_2024.pdf" target="new">
+    Notice regarding written examination to the post of Photographer under Information & Public Relations Department</a><br></td>  
+    <td class="dates align-middle">03/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/PET_Sub_Fire_Officer_02_08_2024.pdf" target="new">
+    Notice regarding Physical Endurance cum Physical Efficiency Test (PET) for the post of Sub Fire Officer under Sikkim Fire & Emergency Services</a><br></td>  
+    <td class="dates align-middle">02/08/2024</td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Jr. specialist Viva Notice_02_08_2024.pdf" target="new">
+    Notice regarding Viva Voce/Personality Test for Junior Specialist under Specialist Wing of Sikkim State Health Service</a><br></td>  
+    <td class="dates align-middle">02/08/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Field_Asst_&_LiveStock_Scrutiny Notice_22_07_2024.pdf" target="new">
+    Notice to the  post Field Assistant and Stockman/ Livestock.</a><br>  
+    <td class="dates align-middle">22/07/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Jr_Specialist_Viva_Notice_17_07_2024.pdf" target="new">
+    Notice regarding Written Examination/ Viva Voce to the  post Junior Specialist under Specialist Wing of Sikkim State Health Service.</a><br>  
+    <td class="dates align-middle">17/07/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/ADO_WDO_HDO_Viva_Notice_26_06_2024.pdf" target="new"> Notice regarding Viva Voce/ Personality Test 
+    and scrutiny to the post of ADO/HDO/WDO under Sikkim State Agriculture Service.</a><br>  
+    <td class="dates align-middle">26/06/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Geogolist_Viva_Notice_26_06_2024.pdf" target="new"> Notice regarding Viva Voce/ Personality Test 
+    for the post of Assistant Geologist under Sikkim State Mines & Geology Services.</a><br>  
+    <td class="dates align-middle">26/06/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Health_Educator_Scrutiny_20_06_2024.pdf" target="new"> Notice regarding scrutiny of documents to 
+    the post of Health Educator under Health and Family Welfare Department </a><br>  
+    <td class="dates align-middle">20/06/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sub_Fire_Officer_Written_05_06_2024.pdf" target="new"> Notice regarding written examination for the 
+    post of Sub Fire Officer under Sikkim Fire & Emergency Services,GoS </a><br>  
+    <td class="dates align-middle">05/06/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Jr_Specialist_Scrutiny_30_05_2024.pdf" target="new"> Notice regarding scrutiny of documents for
+     Post of Junior Specialist under Specialist Wing of Sikkim State Health Service </a><br>  
+    <td class="dates align-middle">30/05/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Paramediacal_Scrutiny_30_05_2024.pdf" target="new"> Notice regarding scrutiny of documents for
+    various Paramedical Posts in Sikkim State Subordinate Allied and Healthcare Services, under Health and Family Welfare Department.</a><br>  
+    <td class="dates align-middle">30/05/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assisant_Geologist_Written_Exam_13_03_2024.pdf" target="new"> Notice regarding Written Examination for the 
+    post of Assistant Geologist under Mines and Geologist Service</a><br>  
+    <td class="dates align-middle">29/02/2024</td>
+    </tr>
+
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Professor_scrutiny_29_02_2024.pdf" target="new"> Notice regarding scrutiny 
+    of documents to the post of Assistant Professor/a><br>  
+    <td class="dates align-middle">29/02/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Assistant_Professor_Scrutiny_Notice_23_02_2024.pdf" target="new">Notice regarding scrutiny of credentials 
+    to the post of Assistant Professors</a><br>  
+    <td class="dates align-middle">23/02/2024</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Written_Examination_Mains_Calculator_29_01_2024.pdf" target="new">Notice regarding use of calculator 
+    for Mains Written Examination for Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    <td class="dates align-middle">04/01/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/ADO_HDO_WDO_Written_Exam_04_01_2024.pdf" target="new">Notice for Written Examination for ADO/HDO/WDO 
+    Examination under Sikkim State Agriculture Services</a><br>
+    <td class="dates align-middle">04/01/2023</td>
+    </tr>
+   
+      <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Written_Examination_Mains_29_12_2023.pdf" target="new">Notice for Mains Written 
+    Examination for Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    <td class="dates align-middle">29/12/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Written Exam for Field Assistant_28_12_2023.pdf" target="new">Notice regarding Written 
+    Examination to the post of Field Assistant</a><br>
+    <td class="dates align-middle">28/12/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Asst_Proffesor_Scrutiny_04_12_2023.pdf" target="new">Notice regarding scrutiny of Probationary 
+    Assistant Professor.</a><br>
+    <td class="dates align-middle">04/12/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Sheda_Abeyance_Notice_10_19_2023.pdf" target="new">Notice to the post of  Assistant Professors'
+    (SHEDA) under Education Department and College Librarians under Education Department, Government of Sikkim </a><br>
+    <td class="dates align-middle">18/10/2023</td>
+    </tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Exam_Written Exam_PostponedNotice_06_10_2023.pdf" target="new">Notice regarding postponement 
+    of Sikkim Service (Combined Recruitment) Mains Exams, 2023.</a><br>
+    <td class="dates align-middle">06/10/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_DSP_Extension_AdmitCard_22_09_2023.pdf" target="new">Notice regarding Extension of Download 
+    of Admit Card for Sikkim Services (Combined Recruitment) Examination, 2022. for Mains Written Examination</a><br>
+    <small>The link for download of Admit Card shall be re-opened w.e.f 25/09/2023 to 13/10/2023 (midnight)</small>
+    <!--<hr class="my-3">
+    <a href="http://164.100.149.196/spsc/printadmitcard.htm" target="new"> <span class="badge badge-pill">Download Admit Card</span></a>-->
+    <td class="dates align-middle">22/09/2023</td>
+    </td>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/US_AO_DSP_Extension_AdmitCard_05_09_2023.pdf" target="new">Notice regarding Extension of Download of Admit Card for 
+    Sikkim Services (Combined Recruitment) Examination, 2022. for Mains Written Examination</a><br>
+    <small>The Last date for download of Admit Card is till 12/09/2023 (midnight)</small><hr class="my-3">
+    <a href="http://164.100.149.196/spsc/printadmitcard.htm" target="new"> <span class="badge badge-pill">Download Admit Card</span></a>
+    <td class="dates align-middle">05/09/2023</td>
+    </td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/CombineExam_Notice_for_availingScribe_03_08_2023.pdf" target="new">Notice regarding Availing the facility of 
+    Scribe by Persons with Benchmark Disabilities Post of Sikkim Service (Combined Recruitment) Mains Examination, 2022</a><br>
+    <td class="dates align-middle">02/08/2023</td>
+    </td></tr>
+
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined Exam Date.pdf" target="new">Notice regarding Reschedule of Mains Written Examination Date for 
+    Sikkim Services (Combined Recruitment) Examination, 2022.</a><br>
+    <td class="dates align-middle">20/07/2023</td>
+    </td></tr>
+    
+    <tr>
+    <td class="pl-4">
+    <a href= "Notices/Combined_Examination_Written Exam_17_07_2023.pdf" target="new">Notice regarding Mains Written Examination 
+    and Download of Admit Card for Sikkim Services (Combined Recruitment) Examination, 2022.</a><br>
+    <td class="dates align-middle">17/07/2023</td>
+    </td></tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Combined_Examination_Extension_Dates-II_Subject_12-06-2023.pdf" target="new">Notice 
+    regarding Extension of Date for submission of Optional Subject for the Mains Examination for Combined Recuitment 
+    Examination 2022</a><br>
+    <!---<a href="Combined_Exams_Optional_Subject.html" target="new">
+    <span class="badge badge-pill p-2 bg-primary mt-2">Click to Submit</span></a><br>--->
+    <small class="text-danger"><b>(Note: Date for submission of Optional Subject is extended till 26/06/2023</b></small>
+    <td class="dates align-middle">12/06/2023</td>
+    </td>
+    
+    <tr>
+    <td class="pl-4"><a href="Notices/Combined_Examination_Extension_Dates_Subject_30_05_2023.pdf" target="new">Notice 
+    regarding Extension of Date for submission of Optional Subject for the Mains Examination for Combined Recuitment 
+    Examination 2022</a><br>
+    <!---<a href="Combined_Exams_Optional_Subject.html" target="new">
+    <span class="badge badge-pill p-2 bg-primary mt-2">Click to Submit</span></a><br>--->
+    <small class="text-danger"><b>(Note: Date for submission of Optional Subject is extended till 05th June 2023 (12:00 PM))</b></small>
+    <td class="dates align-middle">09/05/2023</td>
+    </td></tr>
+    
+    <td class="pl-4"><a href="Notices/Combined_Examination_Preference_Notice_04_05_2023.pdf" target="new">Notice regarding 
+    choice of Mains Subject for Combined Recuitment Examination 2022</a><br>
+    <!----<button type="button" class="btn btn-primary btn-sm px-2 py-1" onclick="fireSweetAlert()">Click to Submit</button>
+    <a href="Combined_Exams_Optional_Subject.html" target="new">
+    <span class="badge badge-pill p-2 bg-primary mt-2">Click to Submit</span></a>---></div>
+    </td>
+    <td class="dates align-middle">04/05/2023</td>
+    </tr></div>
+
+    <tr>
+    <td class="pl-4"><a href="#" target="new">Revised Answer Key for the Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    <ol class="mt-3">
+    <li><a href="Notices/Combined_Examination_Prilims_Revised_Answerkey_Paper_I_21_01_23.pdf" target="new">Paper-I (General Studies)</a></li>
+    <li><a href="Notices/Combined_Examination_Prilims_Revised_Answerkey_Paper_II_21_01_23.pdf" target="new">Paper-II (Aptitude)</a></li>           
+    </ol>
+    </td>    
+    <td class="dates align-middle align-middle">21/01/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Combined_Examination_prilims_answerkey_17_01_23.pdf" target="new">Answerkeys to  
+    paper-I and Paper-II of Sikkim Services (Combined Recruitment) 
+    Preliminary Examination, 2022</a><br>
+    </td>
+    <td class="dates align-middle">17/01/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Combined_Exam_Notice_for_availingScribe_10_01_23.pdf" target="new">Notice regarding 
+    Availing the facility of Scribe by Persons with Benchmark Disabilities  for the upcoming Sikkim Services 
+    (Combined Recruitment) Examination, 2022</a><br>
+    </td>
+    <td class="dates align-middle">10/01/2023</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Combined_Exam_Notice_AdmitCardDownload_07_01_23.pdf" target="new">Notice for the 
+    Preliminary Examination and Download of Admit Card for Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    </td>
+    <td class="dates align-middle">07/01/2023</td>
+    </tr>
+
+     
+    <tr>
+    <td class="pl-4"><a href="Notices/LDC_ARS_Notice_Revised_RejectionList_02_11_2022.pdf" target="new">Notice regarding Final 
+    Rejection List for the Post of Lower Division Clerk & Assistant Revenue Surveyor-cum-Chainman</a><br>
+    <ol class="mt-3">
+    <li><a href="Notices/ARS_FinalRejection_List_22_11_2022.pdf" target="new">Final Rejection List to the post of Assistant Revenue Surveyor-cum-Chainman. .</a></li>
+    <li><a href="Notices/LDC_FinalRejection_List_22_11_2022.pdf" target="new">Final Rejection List to the post of Lower Division Clerk </a></li>           
+    </ol>
+    </td>
+            
+    </td>
+    <td class="dates align-middle align-middle">22/11/2022</td>
+    </tr>
+          
+    <tr>
+    <td class="pl-4"><a href="Notices/Combinned_US_AO_DSP_Last _Date_Extensionn.pdf" target="new">Notice regarding Extension 
+    of date for submission of application for Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    </td>
+    <td class="dates align-middle">14/11/2022</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Combinned_US_AO_DSP_Written_Exam_03_11_2022.pdf" target="new">Notice regarding Important 
+    Dates in respect of Sikkim Services (Combined Recruitment) Examination, 2022</a><br>
+    </td>
+    <td class="dates align-middle">03/11/2022</td>
+    </tr>
+  
+    <td class="pl-4"><a href="Notices/Combinned_US_AO_DSP_Addendum_17_10_2022.pdf" target="new">ADDENDUM for Sikkim Services (Combined Recruitment) 
+    Examination, 2022 for recruitment to the posts of Under Secretary, Deputy Superintendent of Police and Accounts Officer to the Advertisement No.
+    11/SPSC/EXAM/2022 Dated 29/09/2022</a><br>
+    </td>
+    <td class="dates align-middle">17/10/2022</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/Scrutiny_MedicalStoresOperator_08_07_21.pdf" target="new">Notice regardig scrutiny of documents to 
+    the post of Medical Stores Inspector.</a></td>
+    <td class="dates">08-07-2021</td>
+    </tr>
+
+    <tr>
+    <td class="pl-4"><a href="Notices/MedicalStoresInsp_Rev_Rej_List_08_07_21.pdf" target="new">Revised Rejection List to the post of 
+    Medical Stores Inspector</a></td>
+    <td class="dates">08-07-2021</td>
+    </t>
+
+    <tr>
+    <td class="pl-4"><p><a href="Notices/Rej_List_Medial_Store_Insp.pdf" target="new">Rejection list to the post of Medical Stores 
+    Inspector</a><br />
+    <span style="color:maroon;">Grievance period for the said post is from 1st March 2021 to 08th March 2021</span>
+    </td>
+    <td class="dates">01/03/2021</td>
+    </tr>  
+          
+  </tbody>
+  </table>        
+  </div>      
+  </div><!-------End of Row Div-----> 
+
+  <div class="col-12 col-sm-12 bg-dark copy_right"><p class="text-center my-2">
+  Copyright © Sikkim Public Service Commission. All rights reserved.</p></div>
+  </div><!---end of Main Container---->
+
+
+<!----------------------------------------------------------Java Script Section-------------------->
+<script src="MaterialDesign/js/jquery.js"></script>
+<script src="MaterialDesign/js/popper.js"></script>
+<script src="MaterialDesign/js/bootstrap.js"></script>
+<script src="MaterialDesign/js/mdb.js"></script>
+
+
+<!--------script for Search Details-------->
+<script>
+$(document).ready(function(){
+$("#myInput").on("keyup", function() {
+var value = $(this).val().toLowerCase();
+$("#myTable tr").filter(function() {
+$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)});
+});
+});
+</script>
+<!--------------------------- Script to return page to the top ----------------------------->
+<script>
+// Get the button
+let mybutton = document.getElementById("BtnScrollTop");
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+mybutton.style.display = "block";} 
+else {
+mybutton.style.display = "none";}
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0;}
+</script>
+
+<!-- Include Bootstrap JS and your custom script -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Show the modal on page load
+    window.addEventListener('load', function() {
+      var myModal = new bootstrap.Modal(document.getElementById('myModal'));
+      myModal.show();
+    });
+  </script>
+
+</body>
+</html>

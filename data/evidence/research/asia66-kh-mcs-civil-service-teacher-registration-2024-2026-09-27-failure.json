@@ -1,0 +1,10 @@
+{
+  "sourceId": "kh-mcs-civil-service",
+  "label": "teacher-registration-2024",
+  "url": "https://www.mcs.gov.kh/%E1%9E%82%E1%9E%8E%E1%9F%88%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%9A%E1%9F%80%E1%9E%94%E1%9E%85%E1%9F%86%E1%9E%80%E1%9E%B6%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A1%E1%9E%84-2/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-kh-mcs-civil-service-teacher-registration-2024-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T22:59:37.244Z",
+  "error": "robots.txt unreachable at https://www.mcs.gov.kh: fetch failed"
+}

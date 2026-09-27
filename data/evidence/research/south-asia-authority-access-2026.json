@@ -1,0 +1,42 @@
+{
+  "capturedOn": "2026-09-25",
+  "status": "authority-links-only",
+  "sources": [
+    {
+      "country": "NP",
+      "url": "https://psc.gov.np/category/notice-advertisement",
+      "file": "np-psc-advertisements-2026.html",
+      "sha256": "0894065a74247bc4a8568dd81d188e386f9abe60d61bc95059b68aee388485b3",
+      "collectionFinding": "Polite fetch succeeded, but HTML is a 2,801-byte client application shell without notice rows. No Bikram Sambat conversion or applicant field is claimed."
+    },
+    {
+      "country": "BD",
+      "url": "https://bpsc.gov.bd/",
+      "file": "bd-bpsc-home-2026.html",
+      "sha256": "17a6cd0fdb90d67961c489cc1140c897a488d6802cbd6944541d3752fc425e4d",
+      "collectionFinding": "Polite fetch succeeded. Official Bangla homepage lists exam and notice sections; notice-level extraction pending."
+    },
+    {
+      "country": "PK",
+      "url": "https://fpsc.gov.pk/",
+      "file": null,
+      "sha256": null,
+      "collectionFinding": "Official FPSC site identified in browser research, but project collector could not reach robots.txt. No automated fetch or applicant claims."
+    },
+    {
+      "country": "LK",
+      "url": "https://psc.gov.lk/",
+      "file": "lk-psc-home-2026.html",
+      "sha256": "54d88eadd081cdf966f9db8f37e6a7ac1a41d630886b73cea4f986abccd08206",
+      "collectionFinding": "Polite fetch succeeded. Central PSC announcements identified; specific cycles and separate Government Gazette remain to review."
+    },
+    {
+      "country": "MV",
+      "url": "https://csc.gov.mv/Announcement/ViewAnnouncements?SearchType=1",
+      "file": "mv-csc-announcements-2026.html",
+      "sha256": "472768ff54bb5a99670644243ad28b225c02bc205cdea05f94577b96540b1965",
+      "collectionFinding": "Polite fetch succeeded. Dhivehi announcements need classification and document review before any cycle is imported."
+    }
+  ],
+  "claimLimit": "Authority links only; no reviewed-empty or verified job listing status."
+}

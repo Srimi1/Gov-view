@@ -1,0 +1,128 @@
+{
+  "observedOn": "2026-09-25",
+  "sourceUrl": "https://ncs.gov.in/devPortalList",
+  "sourceSha256": "d167a4c5d966af471150f2e508fb996c9ee94b428fed2bcc765e7f64a0cf0e98",
+  "description": "NCS Government Portals directory. These links are discovery leads, not verified recruitment feeds or opportunity coverage.",
+  "leads": [
+    {
+      "index": 1,
+      "authorityOrState": "Chattisgarh",
+      "portalUrl": "https://erojgar.cg.gov.in/LandingSite/en/Home.aspx",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 2,
+      "authorityOrState": "Delhi",
+      "portalUrl": "https://onlineemploymentportal.delhi.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 3,
+      "authorityOrState": "Gujarat",
+      "portalUrl": "https://anubandham.gujarat.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 4,
+      "authorityOrState": "Haryana",
+      "portalUrl": "https://www.hrex.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 5,
+      "authorityOrState": "Himachal Pradesh",
+      "portalUrl": "https://eemis.hp.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 6,
+      "authorityOrState": "Jammu and Kashmir",
+      "portalUrl": "https://jakemp.nic.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 7,
+      "authorityOrState": "Jharkhand",
+      "portalUrl": "http://recruitment.jharkhand.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 8,
+      "authorityOrState": "Karnataka",
+      "portalUrl": "https://itiemp.karnataka.gov.in/13/employment-wing/en",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 9,
+      "authorityOrState": "Kerala",
+      "portalUrl": "https://www.employment.kerala.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 10,
+      "authorityOrState": "Madhya Pradesh",
+      "portalUrl": "https://mprojgar.gov.in/home",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 11,
+      "authorityOrState": "Maharashtra",
+      "portalUrl": "https://rojgar.mahaswayam.gov.in/#/home/index",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 12,
+      "authorityOrState": "Odisha",
+      "portalUrl": "https://empmission.odisha.gov.in/Exchange/Entry.jsp",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 13,
+      "authorityOrState": "Punjab",
+      "portalUrl": "https://www.pgrkam.com/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 14,
+      "authorityOrState": "Rajasthan",
+      "portalUrl": "https://rajemployment.rajasthan.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 15,
+      "authorityOrState": "Tamil Nadu",
+      "portalUrl": "https://tnvelaivaaippu.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 16,
+      "authorityOrState": "Uttar Pradesh",
+      "portalUrl": "http://sewayojan.up.nic.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 17,
+      "authorityOrState": "West Bengal",
+      "portalUrl": "https://employmentbankwb.gov.in/index.php",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 18,
+      "authorityOrState": "Employment News",
+      "portalUrl": "https://employmentnews.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 19,
+      "authorityOrState": "Ministry of Skill Development and Entrepreneurship",
+      "portalUrl": "https://www.msde.gov.in/",
+      "status": "discovery-lead-only"
+    },
+    {
+      "index": 20,
+      "authorityOrState": "Skill India Portal",
+      "portalUrl": "https://www.skillindiadigital.gov.in/home",
+      "status": "discovery-lead-only"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "reviewedOn": "2026-09-25",
+  "sourceId": "in-jh-jjb-cwc-2026",
+  "publicationDecision": "founder-review-pending",
+  "discoveredFrom": "https://ncs.gov.in/devPortalList",
+  "officialEvidence": [
+    {
+      "url": "https://recruitment.jharkhand.gov.in/",
+      "file": "jharkhand-recruitment-home-2026-09-25.html",
+      "sha256": "9b264a6bacedfeef81962d92ee723030d040215dab6f6349b71c520c3c592b7c",
+      "finding": "Current recruitment section separately links notification 2979 at 10 October 2026 11:59 PM and notification 3062 at 15 October 2026 11:59 PM."
+    },
+    {
+      "url": "https://recruitment.jharkhand.gov.in/Home/fileDownload/198",
+      "file": "jharkhand-jjb-file-198.pdf",
+      "sha256": "2e72ddd7e8bb169636be45de6990c1c4de71fb53dbfa4e5d26a068801c1442d2",
+      "finding": "Ten-page scanned English notification 2979 invites one JJB-only application cycle for six tentative honorary social-worker positions, ₹2,000 per sitting, three-year term. Page 4 closes 10 October; Annexure A lists Giridih, Hazaribag, Pakur and Saraikela-Kharsawan."
+    },
+    {
+      "url": "https://recruitment.jharkhand.gov.in/Home/fileDownload/199",
+      "file": "jharkhand-jjb-cwc-file-199.pdf",
+      "sha256": "5708c6080bcf03539495cb718d945752935f94313a5e958ae760b0d0b988e2a6",
+      "finding": "Ten-page scanned English notification 3062 invites one district-specific application with JJB/CWC preference, four JJB and seven CWC tentative honorary openings, ₹2,000 per sitting and three-year term. Page 4 closes 15 October; Annexure A lists JJB vacancies in Dumka, Lohardaga, Sahibganj and Simdega, disjoint from notification 2979."
+    }
+  ],
+  "cycleIdentity": "Two independent notification numbers, closing dates and district-disjoint JJB vacancy lists. Notification 3062 permits JJB/CWC preferences within one district application, so those role families do not inflate cycle count.",
+  "internationalApplicantAssessment": "Neither notice states a nationality permission rule. Forms ask nationality and interview instructions ask for Aadhaar, which do not establish whether foreign citizens can apply or receive appointment. All stages need authority verification.",
+  "languageAssessment": "Form asks for other languages known, if any. Neither notice prints a mandatory language or formal proficiency level; English document language is not converted into a requirement.",
+  "datePrecision": "Portal prints 23:59 for both deadlines; PDF page 4 prints only closing date. Official governing timezone and opening date are not stated.",
+  "roleType": "Honorary public appointment with sitting allowance; not salaried government employment.",
+  "excludedNotice": {
+    "url": "https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/25-09-2026/25092026112505957DEOGHAR.PDF",
+    "file": "jharkhand-deoghar-homeguard-01-2026.pdf",
+    "sha256": "7b1d548bb90428877d9aea602fa31b2ca7129f5c554da483cdcd427935946bb8",
+    "reason": "Deoghar Home Guard advertisement 01/2026 page 1 expressly calls service volunteer membership paid only per duty day and says it is neither daily government employment nor a livelihood avenue. Excluded from government-job cycle counts."
+  },
+  "access": "Portal and three PDFs responded publicly. Portal robots.txt returned HTTP 404, so no disallow rules were served.",
+  "reviewNeeds": "Founder resolves notification 2979 date/annexure mismatch, exact nationality and appointment rules, district form identity, eligibility alternatives and later amendments before approval."
+}

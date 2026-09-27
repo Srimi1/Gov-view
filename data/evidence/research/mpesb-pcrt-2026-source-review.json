@@ -1,0 +1,38 @@
+{
+  "reviewedOn": "2026-09-25",
+  "sourceId": "in-mp-esb-police-gd",
+  "cycleId": "mpesb-police-constable-gd-2026",
+  "publicationDecision": "founder-review-pending",
+  "officialEvidence": [
+    {
+      "url": "https://esb.mp.gov.in/home_n.html",
+      "file": "mpesb-home-2026-09-25.html",
+      "sha256": "4959757fe320bebd5f28bd8d613fcc86eae65864868ad0d5db92593059467c2e",
+      "finding": "Police Constable GD 2026 row links online form, original rulebook and revised first page."
+    },
+    {
+      "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+      "file": "mpesb-forms-2026-09-25.html",
+      "sha256": "15dc5b13828d557383713bfc69daa3635f9561e15f8048bbf0b2014680f1b220",
+      "finding": "One Police Constable GD application row gives 22 September to 6 October 2026 and official form target."
+    },
+    {
+      "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_GD_2026_RuleBook_09092026.pdf",
+      "file": "mpesb-pcrt-2026-rulebook.pdf",
+      "sha256": "7fd74dc392bf829bc491c538c6e5284aa10b2c160eb8a755f514c4fac10848a8",
+      "finding": "Hindi rulebook section 3(i) requires Indian citizenship. Written test is Hindi multiple choice. 11 October is correction deadline, not a new application deadline."
+    },
+    {
+      "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_2026_Rulebook_Revised_Page_01_15092026.pdf",
+      "file": "mpesb-pcrt-2026-revised-page.pdf",
+      "sha256": "db7a6b0ac80cb4c5c4a1c3d76f0f5b05b0f83cf5812aba789f205edd02aad45e",
+      "finding": "Scanned revised first page, visually reviewed. Application dates unchanged; category fees and Madhya Pradesh domicile fee concession require founder transcription review."
+    }
+  ],
+  "internationalApplicantAssessment": "Indian citizenship is expressly required for application; a foreign citizen without Indian citizenship does not match. An Indian citizen still needs age, qualifications, physical and document checks.",
+  "languageAssessment": "Hindi is the written examination medium; no formal Hindi proficiency level or certificate was found in the checked notice sections.",
+  "datePrecision": "New applications close 2026-10-06. Official cutoff clock time and timezone were not printed in the checked notices; do not invent either.",
+  "venueAssessment": "No venue pin assigned from Madhya Pradesh hiring jurisdiction. Exam and physical-test venue remain unknown in the draft.",
+  "access": "Both official HTML pages and both PDFs responded. MPESB and MPOnline robots.txt returned HTTP 404. Existing MPPSC source remains blocked by robots policy.",
+  "coverageLimit": "One MPESB intake only. Other MPESB notices, MPPSC recruitment and all other Madhya Pradesh authorities remain independent coverage work."
+}

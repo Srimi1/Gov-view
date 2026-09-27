@@ -1,0 +1,787 @@
+                        Rolling Advertisement No. L-10/25-26
+                               Areas of Specialization
+
+Sr.   Academic Unit           Areas of Specialization
+No.
+
+1     Aerospace Engineering   Application of AI/ML and numerical techniques to aerospace
+                              and related multi-physics systems.
+
+                              Computational or mathematical methods with a focus on
+                              digital twin development for aerospace systems.
+
+                              Aerospace systems design and space engineering.
+
+                              Experimental aerodynamics.
+
+                              Structural health monitoring, experimental mechanics and/or
+                              modelling of high-temperature materials, NDE wave
+                              propagation, and damage detection in aircraft structural
+                              materials.
+
+                              The following themes in the context of aerospace propulsion
+                              systems: sustainability, electric or more-electric systems,
+                              heat transfer, engine health monitoring, experimental
+                              high-speed      combustion,     space    propulsion,    and
+                              liquid/cryo/semi-cryo engines.
+
+                              Navigation, guidance and control, flight mechanics, and
+                              estimation techniques for aerospace vehicles and systems.
+
+2     Biosciences &           (1) Medical Instrumentation
+      Bioengineering          (2) Medical Signal & Medical Image Processing
+                              (3) Physiological Systems Modelling
+                              (4) Data Science for Biomedical Engineering
+                              (5) Development of Microscopy Tools and Systems
+                              (6) Vertebrate Animal Biology (Development, Neurobiology,
+                              Regeneration, Aging, Disease models etc.).
+                              (7) Genomics/Lipidomics/Metabolomics
+                              (8) Synthetic Biology
+                              (9) Plant Biology
+                              (10) Single Molecule Techniques
+                              (11) Bioinformatics
+                              (12) Cell & Gene Therapy
+
+3     Chemical Engineering    Candidates with at least one degree in chemical engineering
+                              (undergraduate, postgraduate, or doctoral) will be
+                              considered under all six broad research areas of chemical
+                              engineering (see below).
+
+                              Candidates without a formal degree in Chemical
+                              Engineering will be considered only under exceptional
+                              circumstances, and only if their primary research aligns with
+                              one of the specific sub-areas (a, b, etc.) within the six broad
+                              research domains of the Chemical Engineering Department.
+                              In addition, such candidates must demonstrate the
+Sr.   Academic Unit   Areas of Specialization
+No.
+
+                      capability to teach at least one of the following
+                      undergraduate        courses:        Chemical        Engineering
+                      Thermodynamics,        Chemical       Reaction       Engineering,
+                      Introduction to Transport Phenomena, and Introduction to
+                      Numerical Analysis as listed on the department website
+                      (https://www.che.iitb.ac.in/old/sites/default/files/basicpagefile
+                      s/UG%20Curriculum_2023%20_merged-1.pdf )
+
+                         1. Biotechnology and Biosystems Engineering
+                                a. Synthetic biology
+                                b. Cell and gene therapy; drug delivery
+                         2. Catalysis and Reaction Engineering
+                                a. Experimental catalysis
+                                b. Membrane synthesis and technologies
+                                c. Battery material development and scale-up
+                         3. Soft Matter
+                                a. Sustainable materials and the circular
+                                   economy of materials
+                                b. Aerosol reaction engineering and aerosol
+                                   nanomaterials
+                         4. Process Systems and Controls Engineering
+                                a. Process       Systems      Engineering    for
+                                   Sustainability
+                                b. AI/ML in process design and operations
+                         5. Complex Flows
+                                a. Experimental fluid and granular mechanics
+                                b. Mathematical methods and computational
+                                   algorithms for complex fluid flows
+                         6. Thermodynamics and Molecular Simulations
+                                a. Quantum simulation of reactions on quantum
+                                   computers
+                                b. Charge transfer theory
+                                c. Molecular Modelling for Sustainability
+
+4     Chemistry       (a) Metalloenzymes.
+                      (b) Main group inorganic chemistry.
+                      (c) Synthesis of new organometallic compounds and their
+                      applications
+                      (d) Total synthesis (or isolation) of natural products with a
+                      focus on drug discovery.
+                      (e) Asymmetric synthesis and catalysis
+                      (f) Data-driven (AI/ML) synthetic organic chemistry with a
+                      focus on catalysis/drug discovery.
+                      (g) Synthetic polymer chemistry with a focus on
+                      sustainability.
+                      (h) Biosynthesis/Sustainability / Biocatalysis / Synthetic
+                      Biology bearing translational potentials.
+                      (i) Advanced spectroscopy and microscopy techniques with
+                      focus on any of the following:
+                      Multidimensional spectroscopy/ microscopy; Scanning
+                      tunnelling spectroscopy and Single-molecule electronics;
+                      Plasmonics,      Surface-plasmon       resonance     imaging,
+Sr.   Academic Unit       Areas of Specialization
+No.
+
+                          Near-field scanning optical microscopy and Tip-enhanced
+                          (IR/Raman) microscopy/ spectroscopy; interferometric
+                          scattering microscopy, Chiro-optical and CPL imaging,
+                          Super-resolution fluorescence imaging and nanoscopy.
+                          (j) Multi-modal, time resolved spectroscopy/microscopy (not
+                          limited to) to probe reaction intermediates/products/
+                          mechanisms at solid-liquid and solid-gas interfaces
+                          (heterogeneous catalysis and electrochemical reactions).
+                          (k) Cryogenic electron microscopy in biological/materials
+                          science.
+
+                          *Exceptional candidates in all fields will be considered.
+
+5     Civil Engineering   1] CE1 (Transportation System Engineering):
+                          (1-i) Pavement materials, analysis, design and maintenance
+                          (1-ii) Transit planning and operations
+                          (1-iii) Air Transportation Planning and Operations
+                          (1-iv) Transportation Economics and Finance*
+                          (1-v) Advanced technologies in Transportation such as
+                          shared mobility, Connected and Autonomous vehicles#
+
+                          *For the “Transportation Economics and Finance” area,
+                          candidates with 4-year UG degree in Economics,
+                          Mechanical, Electrical/ Electronics, Operations Research,
+                          and PG in the fields of Transportation Economics and
+                          Financing, Transportation logistics and supply chain and
+                          Transportation policy are also eligible to apply.
+
+                          #For “Advanced technologies in Transportation” area, 4-year
+                          UG degree in Mechanical, Electrical/Electronics, and PG in
+                          the field of advanced technologies in transportation are also
+                          eligible to apply.
+
+                          2] CE2 (Geotechnical Engineering):
+                          (2-i) Rock Engineering;
+                          (2-ii) Centrifuge modelling of Geotechnical structures;
+                          (2-iii) Environmental Geotechnology;
+                          (2-iv) Soft Ground Engineering.
+
+                          3] CE3 (Water Resources Engineering):
+                          (3-i) River Engineering;
+                          (3-ii) Groundwater Hydrology;
+                          (3-iii) Computational fluid dynamics in water resources
+                          engineering;
+                          (3-iv) Experimental hydraulics;
+                          (3-v) Instrumentation in water resources engineering; and
+                          (3-vi) Environmental fluid dynamics
+
+                          4] CE4 (Structural Engineering):
+                          (4-i) Structural Performance under Natural and Man-made
+                          Hazards;
+                          (4-ii) Mechanics of Advanced Materials;
+Sr.   Academic Unit        Areas of Specialization
+No.
+
+                           (4-iii) Computational Mechanics;
+                           (4-iv) Steel and Composite Structures; and
+                           (4-v) Digitalization and Automation in Structural Engineering
+
+                           5] CE5 (Ocean Engineering):
+                           (5-i) Ocean & Wave Modelling;
+                           (5-ii) Physical Oceanography;
+                           (5-iii) Offshore Engineering*;
+                           (5-iv) Maritime Engineering*
+
+                           *For “Offshore Engineering” and "Maritime Engineering"
+                           area, 4-year UG degree in Mechanical, Aerospace, Marine
+                           Engineering, Naval Architecture, and Ocean Engineering
+                           are also eligible to apply.
+
+                           6] CE6 (Remote Sensing):
+                           (6-i) Photogrammetry
+                           (6-ii) Remote Sensing applications in atmospheric sciences
+                           or oceanography
+                           (6-iii) Geodesy
+                           (6-iv) GeoAI, Geocomputation, Geographic information
+                           science*
+                           (6-v) LiDAR Surveying*
+
+                           *For the research areas "GeoAI, Geocomputation,
+                           Geographic information science", and "LiDAR Surveying"
+                           candidates with 4 year UG degree in Geoinformatics/
+                           Electrical/Electronics engineering are also eligible to apply.
+
+                           7] CE7 (Construction Technology and Management):
+                           (7-i) Construction Robotics
+                           (7-ii) Computational modelling/simulation of concrete
+                           behaviour (Hydration, Durability)
+                           (7-iii) Fracture Mechanics of Concrete
+
+                           In addition to the above, following areas of specialization are
+                           also invited
+                           (8-i) Urban Planning#
+                           (8-ii) Urban Informatics#
+                           (8-iii) Building Physics#
+                           # For the research area “Urban Planning,” “Urban
+                           Informatics” and “Building Physics”, Bachelors in
+                           Architecture are also eligible to apply.
+
+6     Computer Science &   Applicants with expertise in all areas in computer science
+      Engineering          and engineering, including but not limited to Natural
+                           Language     Processing, Quantum Computing, High
+                           Performance Computing, Human Computer Interaction, and
+                           Computational Biology and Bioinformatics are welcome.
+
+                           Exceptional candidates      from related areas are also
+                           encouraged to apply.
+Sr.   Academic Unit            Areas of Specialization
+No.
+
+7     Earth Sciences              1.  Groundwater Hydrogeology
+                                  2.  Engineering Geology
+                                  3.  Structural Geology
+                                  4.  Mineral Exploration/Mining Geology
+                                  5.  Computational Geosciences
+                                  6.  Quantitative Geomorphology
+                                  7.  Planetary Geosciences
+                                  8.  Quantitative Seismic Interpretation/Seismic
+                                      Reservoir Characterization
+                                  9. Petrophysics related to petroleum exploration
+                                  10. Geophysical Modeling
+                                  11. Geophysical Signal Processing
+                                  12. Sustainable mining
+
+8     Economics                Development   Economics,        International    Economics,
+                               Macroeconomics, Monetary         Economics,     and Public
+                               Economics.
+
+9     Electrical Engineering   1. Communication Theory, Systems and Networks:
+                               Millimeter-Wave/Microwave Circuits, Systems & Antennas,
+                               Communication        Systems       Hardware,     Optical
+                               Communication, Quantum Communication, Information
+                               Theory, Cryptography; Multimedia Signal Processing;
+                               Machine Learning and Big Data.
+
+                               2. Theoretical and computational methods in the area of
+                               control    including      Computational/numerical   methods:
+                               Nonlinear, optimal and robust control, Optimization and
+                               semidefinite programming, Complex networks/systems,
+                               Adaptive control, Game theory, Model Predictive control,
+                               Stochastic/uncertain systems, Randomized algorithms,
+                               System      identification/estimation,  Intelligent systems,
+                               biologically-inspired methods, evolutionary computing, Fault
+                               detection, identification and fault-tolerant systems, Hybrid
+                               and switched systems, Distributed, decentralized and multi-
+                               agent systems
+
+                               3. Power Electronics & Power Systems
+
+                               4. Analog, Digital, Mixed-signal and RF Integrated Circuit &
+                               System     Design,     Biomedical    circuit  &    systems,
+                               Neuromorphic circuits, In-memory and near-memory
+                               computing
+
+                               5. Digital System Design, Test and Manufacturing:
+                               System-on Chip, DFM, Computer Architecture & Hardware,
+                               Algorithm-to-Chip Level Design, Computer-Aided-Design
+                               (CAD) in VLSI
+
+                               6. Semiconductor Devices and Technology: Fabrication,
+                               Characterization,    Packaging,   and      Reliability;
+                               Optoelectronics (Sensors); Quantum Technologies and
+Sr.   Academic Unit           Areas of Specialization
+No.
+
+                              Applications;        Power      Semiconductor        Devices;
+                              Bioelectronic/Biomimetic Devices, Energy Conversion and
+                              Storage; Oxide Electronics and MEMS/NEMS, Bio and
+                              flexible electronics, logic memory AI, Photovoltaics
+
+                              Exceptional candidates from other areas of Electrical
+                              Engineering will also be considered.
+
+10    Energy Science and      (1) Solar-thermal energy systems
+      Engineering
+                              Essential Qualifications: (a) Bachelor’s and Master’s
+                              Degree in Mechanical or Energy Engineering; (b) Ph.D. in
+                              area related to solar-thermal energy systems.
+
+                              Desirable: Combination of experimental and modeling
+                              experience is preferred, with emphasis on concentrated
+                              solar thermal applications.
+
+                              2. Energy Policy
+
+                              Essential Qualifications: (a) Bachelor’s and Master’s
+                              Degree in Science or Engineering or Economics; (b) Ph.D.
+                              in area related to Energy Policy with emphasis on energy
+                              supply, demand and consumption; energy scenarios
+                              modeling; and technology assessment and forecasting at
+                              the national level.
+
+                              Desirable: Experience in energy scenarios modeling and
+                              technology assessment and forecasting; Publications in
+                              journals related to energy and energy policy.
+
+                              3. Recycling of materials
+
+                              Essential Qualifications: (a) Bachelor’s and Master’s
+                              Degree in Mechanical or Energy or Chemical or Materials
+                              and Metallurgical Engineering; (b) Ph.D. in area related to
+                              recycling    of   materials    from    end-of-life   energy
+                              systems-batteries, solar PV panels, wind turbine blades, etc.
+                              with focus on experiments.
+
+                              Desirable: Work related to systems level.
+
+                              Exceptional candidates in all areas relevant to the academic
+                              unit will also be considered.
+
+11    Environmental Science   Outstanding candidates in all areas of environmental
+      and Engineering         science and engineering are encouraged to apply.
+                              Preference will be given to applicants who have
+                              demonstrated research and teaching expertise in the areas
+                              listed below:
+
+                                 ●   Advanced Water and Wastewater Treatment for
+Sr.   Academic Unit            Areas of Specialization
+No.
+
+                                      Emerging Contaminants.
+                                  ●   Air Pollution: Atmospheric Modelling; Multi-Pollutant
+                                      Exposure, Toxicology.
+                                  ●   Climate Technology & Greenhouse Gas Mitigation.
+                                  ●   Critical Minerals Recovery from Waste.
+                                  ●   Environmental Data Analytics: Using AI/ML and/or
+                                      Remote Sensing and GIS.
+                                  ●   Environmental        Ecology:       Climate-Resilient
+                                      Ecosystems and Biodiversity.
+                                  ●   Environmental Microbiology.
+                                  ●   Environmental Noise Pollution, Acoustics and
+                                      Control.
+                                  ●   Environmental Sustainability and Circular Economy.
+                                  ●   Environmental Systems Modelling: Contaminant
+                                      Fate and Transport.
+
+12    Industrial Engineering   1. Industrial Engineering: Operations planning &
+      and Operations           scheduling, Inventory control, Facility & work systems
+      Research (IEOR)          design, Quality, Reliability, Safety, in Industrial and/ or
+                               Service systems.
+
+                               2. Digital Enterprise & Automation: Digitalisation & Digital
+                               Twinning, Industrial IoT, Edge computing, Cyber-Physical
+                               systems, Blockchain, Security, Robotics.
+
+                               3. Data Science: Artificial Intelligence, Machine Learning,
+                               Reinforcement     Learning,    Change     point   detection,
+                               Computational Data Science, Human-AI interaction, Deep
+                               Learning, Large language models, Generative AI.
+
+                               4. IEOR Applications to areas such as Transportation &
+                               Mobility, Logistics, Supply Chain, Healthcare, Finance,
+                               Energy, Sustainability, Public Sector Organizations,
+                               Defence.
+
+                               5. Operations Research: Optimisation, Stochastic
+                               processes, Stochastic control, Game theory, Simulation,
+                               System dynamics, Approximation & randomized algorithms,
+                               Meta-heuristics, Network science, Quantum Computing.
+
+                               Candidates with exceptional credentials in any area of IE
+                               and OR, in addition to the above specific areas, may be
+                               considered.
+
+                               Desirable:
+                               ● For Area 1, UG and/or PG degree in Industrial
+                               Engineering or equivalent is desirable.
+                               ● For Area 2, Experience in using, installing and/or
+                               maintaining relevant equipment, sensors, etc. with adequate
+                               exposure to experimentation, numerical modelling and
+                               computations is desirable.
+Sr.   Academic Unit            Areas of Specialization
+No.
+
+13    Mathematics              The Mathematics department is seeking strong applications
+                               across all areas of Mathematics. However, the following two
+                               are the focus areas where the department actively
+                               encourages applications:
+
+                               • Statistics (both theoretical and applied)
+                               • Combinatorics
+
+14    Mechanical Engineering   (1) AI/ML and Computational Engineering: (1-i)
+                               Development of AI/ML Techniques-based Computational
+                               Methodology       for     Thermo-fluids   engineering;     (1-ii)
+                               Data-Driven Constitutive modeling of Cells, Tissues, and
+                               Organs; and (1-iii) Digital Manufacturing (system simulation,
+                               digital threads, digital twins, and manufacturing analytics).
+
+                               (2) Biomechanical Engineering: (2-i) Biomedical flows,
+                               (2-ii) Bio-heat transfer; (2-iii) Kinematics and dynamics of
+                               human/animal locomotion; and (2-iv) 3D-Organ Printing.
+
+                               (3) Heat Transfer, Combustion and Energy Systems: (3-i)
+                               Refrigeration, Air-conditioning, Cryogenics, and heat pumps;
+                               (3-ii) Thermal Management of EV batteries and data
+                               centers; (3-iii) Hydrogen combustion; (3-iv) Radiative heat
+                               transfer for defense and space applications; and (3-v)
+                               Nuclear Engineering, Neutronics and Radiation Detection.
+
+                               (4) Manufacturing Processes, Systems & Automation:
+                               (4-i) Metal Casting (low-pressure and high-pressure die
+                               casting); (4-ii) Manufacturing Systems, Operation modeling
+                               and analysis; (4-iii) Manufacturing Automation and Control;
+                               (4-iv) Polymer processing; (4-v) Machine health monitoring
+                               and prognostics; (4-vi) Semiconductor fabrication and
+                               metrology; and (4-vii) Optical and biomedical device
+                               fabrication.
+
+                               (5) Materials Modeling and Characterization: (5-i)
+                               Advanced experimental in-situ mechanics (high temperature
+                               materials, short time scales and high spatial resolution);
+                               (5-ii) Reliability, mechanics and failure of integrated circuits
+                               and data storage devices; and (5-iii) Advanced
+                               Non-Destructive       Evaluation   (Infrared     thermography,
+                               Non-Linear Ultrasonics, Tomography, TeraHz radio wave
+                               imaging)
+
+                               (6) Micro/Nano Science and Engineering: (6-i)
+                               Experimental Transport Phenomena of Complex Fluids; and
+                               (6-ii) Non-Equilibrium Thermodynamics.
+
+                               (7) Robotics, Dynamics, and Control: (7-i) Multi-agent
+                               robotic systems; and (7-ii) Engineering Acoustics and
+                               industrial noise control.
+Sr.   Academic Unit             Areas of Specialization
+No.
+
+                                (8) Solid and Fluid Mechanics: (8-i) Tribology; and (8-ii)
+                                Fluid dynamics for Wind and Hydro Energy Applications.
+
+                                In addition to the above specific areas, applications from
+                                candidates possessing exceptional credentials in other
+                                areas are also welcome.
+
+15    Metallurgical             (1) Battery Materials (preferably experimentalists), with
+      Engineering & Materials   special emphasis on Solid-State Batteries.
+      Science                   (2) Multiferroic Materials and Devices.
+                                (3) Semiconductor Materials: Thin films Processing and
+                                Devices.
+                                (4) Manufacturing (materials joining, additive manufacturing,
+                                casting, forming)
+                                (5) Physical Metallurgy (preferably experimentalists)
+                                (6) Glass/Ceramics Process Engineering
+                                (7) Extraction and processing of non-ferrous metals,
+                                preferably critical metals.
+
+                                In addition to the above specific areas, applications from
+                                candidates with consistent exceptional academic records
+                                and outstanding research records in other areas (relevant to
+                                the Department’s research and teaching interests) are also
+                                welcome.
+
+16    Physics                   ACG:
+                                Galaxy evolution and high-energy astrophysics
+
+                                Condensed Matter Physics (Experimental):
+                                   1. Core/demonstrated expertise in single crystal
+                                      and/or epitaxial growth
+                                   2. Core/demonstrated expertise in emergent areas
+                                      of superconductivity/quantum              magnetism/
+                                      spintronics/ topological systems (materials and
+                                      devices)
+                                   3. Core/demonstrated expertise in Time-resolved
+                                      experiments to study different ultrafast processes in
+                                      materials.
+
+                                Condensed Matter Physics (Theory):
+                                   1. Development and application of machine learning in
+                                      quantum condensed matter
+                                   2. DFT+DMFT approach to strongly correlated
+                                      systems
+                                   3. Quantum many body physics using artificial
+                                      quantum platforms
+                                   4. Analytical approaches to topics such as
+                                      non-equilibrium quantum dynamics, topological and
+                                      interacting systems.
+Sr.   Academic Unit             Areas of Specialization
+No.
+
+                                High-energy Physics (Experimental):
+                                   1. Heavy ion/p-A/p-p collisions at collider energies:
+                                      Hardware development
+                                   2. Experimental low-energy nuclear physics
+
+                                High-energy Physics (Theory):
+                                   1. Astro-particle physics
+                                   2. Beyond Standard model and collider physics
+                                   3. Perturbative and non-perturbative QCD
+                                   4. String theory and mathematical aspects of quantum
+                                      field theory
+
+                                Optics/Photonics:
+                                   1. Experimental ion trap/cold atom physics
+                                   2. Experimental quantum optics
+                                   3. Experimental/Theoretical       strong-field         and
+                                       attosecond physics
+
+                                Quantum Information (Theory):
+                                Fundamental theoretical research in quantum information
+                                theory with applications in quantum algorithms, quantum
+                                communication, quantum sensing, quantum error
+                                correction, and light-based quantum technologies
+
+                                Soft-matter Physics:
+
+                                Experimental soft matter physics and physics of
+                                biological systems:
+                                    1. Experimental soft matter physics, active matter
+                                       physics and the physics of biological systems:
+                                       Equilibrium and non-equilibrium phenomena in
+                                       complex fluids
+                                    2. Study of self-assembly in soft matter systems and
+                                       collective behavior, using techniques such as light
+                                       microscopy, AFM, electron microscopy, optical
+                                       tweezers, X-ray scattering
+
+                                Theoretical statistical physics with a focus on
+                                analytical techniques:
+                                   1. Analytical theories of model systems in and out of
+                                       equilibrium.
+                                   2. Coarse-grained statistical field theories of non-
+                                       equilibrium/active systems
+                                   3. Stochastic             thermodynamics         and
+                                       information-theoretic approaches to biological
+                                       systems
+
+17    Ashank Desai Centre for   The Centre is looking for candidates in areas of Public
+      Policy Studies            Policy with particular background in:
+
+                                (1) Digital Societies and Governance
+                                (2) Social Policy (with Special Focus on Health)
+Sr.   Academic Unit            Areas of Specialization
+No.
+
+                               (3) Urban Policy
+                               (4) Technology and Policy
+                               (5) Water, Sanitation, Energy and Climate Change
+                               (6) Industrial and Economic Policy
+
+18    Centre for Climate       (1) Climate Impacts and Adaptions: Climate and Health
+      Studies                  (2) Climate Mitigation and Policy: Mitigation and
+                               Development Pathways, National and Sub-National Policies
+
+                               In addition, outstanding applications in any area of climate
+                               studies will be considered.
+
+19    Centre for Defence          (1) AI/ML application for Cyber Defence
+      Technology Innovations      (2) Computer Vision application for intelligence,
+      and Strategies (CDTIS)          surveillance, target acquisition, and reconnaissance
+                                  (3) Reliability Modelling and Maintenance optimization
+                                      of equipment (experience with military equipment
+                                      preferred)
+                                  (4) Human reliability assessment
+                                  (5) Digital Twins and Digital Twin platforms for military
+                                      applications
+                                  (6) Intelligent unmanned vehicles
+                                  (7) National and International Security Scenarios and
+                                      Trends
+                                  (8) Strategic Technology Diplomacy & International
+                                      Cooperation
+                                  (9) Civil-Military Strategic Technology Capacity Building
+
+20    Centre for Educational   Development      of    technology    enhanced     learning
+      Technology               environments for various purposes; Discipline based
+                               education research, in engineering, sciences or computing
+                               disciplines; Learning sciences and cognition; Learner
+                               modeling using educational data analytics; Teacher use of
+                               educational technology; Assessment and evaluation;
+                               Technology for foundational literacy and numeracy; Social
+                               justice research in the context of technology enhanced
+                               learning.
+
+                               Experience with using technology tools for building
+                               interventions and carrying out research studies is essential.
+
+21    Centre for Machine       Data Sciences; Machine Learning; Artificial Intelligence;
+      Intelligence and Data    Statistics; Knowledge Representation, Machine Learning
+      Science (C-MinDS)        theory; Generative and Agentic AI, Data and information
+                               systems; AI/ML in Text, Speech, and Natural Language
+                               Processing; Computer Vision; Robotics and Autonomous
+                               Systems; Systems and Computational issues in AI/ML/DS;
+                               AI/ML/DS in Science and Engineering application areas
+                               including Finance, Health, Sustainability, Transportation,
+                               Mechanics, Industry. Social choice, Game theory, Multiagent
+                               systems; AI and Society, Policies, Trust, Ethics; Any other
+                               significant AI/ML area.
+Sr.   Academic Unit          Areas of Specialization
+No.
+
+22    Centre for             Advanced Packaging
+      Semiconductor
+      Technologies (SemiX)      ●   Heterogeneous Integration, 2.5D/3D Packaging -
+                                    Design (Mechanical/Thermal) and fabrication.
+                                ●   Materials and Process Technologies for Backside
+                                    Power and Signal Delivery.
+                                ●   Materials and Process Technologies for Advanced
+                                    Packaging (2.5D/3D/ Chiplet).
+                                ●   Advanced      Substrates      with fine-pitch RDLs
+                                    (Multilayer organic, Glass panel).
+                                ●   Thermal      heat    dissipation in semiconductor
+                                    packaging (1st level packaging)
+
+                             Semiconductor Manufacturing
+
+                                ●   Electronic Design Automation
+                                ●   Wafer Fab Equipment Development
+                                ●   Semiconductor Metrology
+                                ●   Semiconductor Test & Quality Control
+                                ●   Process control and manufacturing yield
+
+                             Semiconductors for Display
+
+                                ●   Materials, Processes, and Devices for LED Displays
+
+                             Semiconductors for High Performance              Computing
+                             (HPC, including AI and quantum hardware)
+
+                                ●   Logic & Memory: Materials including silicon ingots
+                                    and wafers, Process and Device Technology
+                                ●   Digital & AMS Design, Microprocessor, AI
+                                    Accelerators
+                                ●   Neuromorphic Engineering
+                                ●   Materials, Processes, Devices for Quantum
+                                    Technologies
+                                ●   Computing Systems, Architecture and Algorithms
+                                ●   Computing Systems Design and Packaging
+
+                             Power Semiconductors
+
+                                ●   Materials, Processes, Devices and Modules for
+                                    Power Management
+                                ●   Thermal conductive substrates for high-power
+                                    applications
+                                ●   Power Management IC Design
+                                ●   Power Semiconductor Packaging
+
+                             Semiconductors for High-speed Communications
+
+                                ●   Wireline and Optical Circuits
+                                ●   Materials, Processes, Devices and Packaging for RF
+                                    and Terahertz Electronics
+Sr.   Academic Unit            Areas of Specialization
+No.
+
+                                  ●   Materials, Processes, Devices and Packaging for
+                                      Photonics
+
+                               Semiconductors for Sensing
+
+                                  ●   Materials, Processes and Devices for Sensors,
+                                      including, MEMS, PiezoMEMS, Optical MEMS
+                                  ●   Sensor Circuit and System Design, including
+                                      CMOS-MEMS Co-integration, MEMS and Sensor
+                                      Packaging
+
+                               Outstanding candidates with expertise in other areas of
+                               semiconductor engineering are also encouraged to apply.
+
+23    Centre for Systems and   Core areas of dynamical systems and control, autonomous
+      Control Engineering      systems, robotics, distributed control, quantum control,
+                               learning, and data sciences. Emerging areas of control and
+                               decision sciences interacting with classical and quantum
+                               information,     inference    theory,    complex   systems,
+                               high-dimensional phenomena, networking and security,
+                               model approximation, communication, signal processing,
+                               flexible structures and systems biology.
+
+                               Candidates with strong foundational and/or translational
+                               research in the above mentioned core and emerging areas
+                               applied to autonomous vehicles, vision, robotics, aerial and
+                               space technology, quantum systems, defense technology
+                               and fintech are welcome to apply.
+
+24    Centre for Technology    Science and Technology applications towards sustainable
+      Alternatives for Rural   development using concepts in the following thematic areas:
+      Areas (C-TARA)
+                               (1) Public Policy and Governance
+                               (2) Development, Technology, and Society
+                               (3) Technology, Development, and Dissemination
+                               (4) Agriculture and Food Technology
+                               (5) Ecology and Livelihoods
+                               (6) Inclusive Design, Innovation and Entrepreneurship in the
+                               Rural Context.
+
+25    Centre for Traditional      ●   Indian Mathematics and Astronomy
+      Indian Knowledge and        ●   Linguistics and Language Technology
+      Skills (CTIKS)              ●   Yoga and Wellness Science
+                                  ●   Ancient Water Management Systems
+                                  ●   Conservation of Heritage Structures
+                                  ●   Indian Financial and Business Models
+                                  ●   Traditional Indian Skills
+
+26    Centre of Studies in     (1) Computer Vision (CV) with focus on Satellite data
+      Resources Engineering    processing.
+      (CSRE)                   (2) Microwave remote sensing
+                               (3) Geospatial Applications in Hydrology, Hydroinformatics
+Sr.   Academic Unit              Areas of Specialization
+No.
+
+                                 and water resources
+                                 (4) Geo AI with application to earth system sciences
+                                 (5) Geospatial Data Science
+                                 (6) Atmospheric Science
+                                 (7) Urban Remote Sensing
+                                 (8) Lithosphere study and mineral resources
+                                 (9) Photogrammetry, GNSS, GPS, LiDAR, Surveying and
+                                 Geodesy
+                                 (10) Agro-informatics and precision agriculture
+                                 (11) Oceanography, Coastal and Marine studies
+                                 (12) Natural Hazards and Disaster Management
+                                 (13) Forestry and Ecology
+
+27    Koita Centre for Digital   (1) AI ML and Large Language Models for Healthcare and
+      Health (KCDH)              biomedical informatics.
+                                 (2) Computational aspects of biomedical science and
+                                 engineering, Multi-omics.
+                                 (3) Healthcare devices, Physiological Monitoring and
+                                 biomedical signal analysis.
+                                 (4) Data driven healthcare policy study, and health
+                                 economics.
+                                 (5) Quantitative Public Health, disease modelling and
+                                 epidemiology.
+
+28    Motilal Oswal Centre for   (1) Market Microstructure.
+      Capital Markets            (2) Asset Pricing, and Portfolio Management.
+                                 (3) Financial Data Science, and AI in Banking, Financial
+                                 Markets, and Insurance.
+                                 (4) Financial Engineering, and Risk Management.
+                                 (5) Banking, Fintech, Crypto Assets, Digital Finance.
+                                 (6) Green and Sustainable Finance, ESG Investing.
+                                 (7) Fixed Income, Currency, and Commodity Markets.
+                                 (8) Governance and Regulation of Financial Institutions and
+                                 Markets.
+                                 (9) Financial Inclusion and Market Access.
+                                 (10) Global and Emerging Financial Markets.
+                                 (11) Algorithmic Finance.
+                                 (12) Financial Stability and Systemic Risk.
+                                 (13) Computational Finance.
+                                 (14) LLMs in Finance.
+                                 (15) Alternative Investments
+
+29    Desai Sethi School of         (1) Technology entrepreneurship: product design,
+      Entrepreneurship                  development,      innovation,    IP    management,
+                                        technology licensing.
+                                    (2) Business models for startups; leadership & team
+                                        building for new ventures.
+                                    (3) Innovation, incubation, entrepreneurship ecosystem,
+                                        commercialization, policy, education, corporate
+                                        entrepreneurship.
+                                    (4) Process      of  innovation    & entrepreneurship,
+                                        sustainability, energy transitions, climate change,
+Sr.   Academic Unit          Areas of Specialization
+No.
+
+                                    entrepreneurship in MSMEs.
+
+30    IDC School of Design   Industrial Design, Mobility & Vehicle Design, 3D Animation,
+                             Interaction Design, Game Design, Service Design.
+
+31    Shailesh J. Mehta      (1) Accounting and Finance
+      School of Management   (2) Human Resources Management
+                             (3) Information Systems/Technology
+                             (4) Marketing Management
+                             (5) Operations Management
+                             (6) Organizational Behaviour
+                             (7) Strategic Management
+                             (8) Technology/Innovation Management
+                             (9) Competitiveness
+                             (10) Applications of AI and Data Science in Management
+
+                             (Mere fulfilment of eligibility criteria doesn’t entitle a
+                             candidate to be shortlisted)
+

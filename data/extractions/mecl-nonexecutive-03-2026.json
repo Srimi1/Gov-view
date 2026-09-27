@@ -1,0 +1,32 @@
+{
+  "indexUrl": "https://mecl.co.in/Careers.aspx",
+  "advertisementUrl": "https://mecl.co.in/writereaddata/meclpdf/Final_Advt_03R26.pdf",
+  "advertisementSha256": "e19d6e5f7912cc18b87ef5b786dee13db1c5ccec43b2798f74f9c07ec89df805",
+  "instructionsUrl": "https://mecl.co.in/writereaddata/meclpdf/Important_Instructions_for_Online_Examination.pdf",
+  "instructionsSha256": "51019c9c49e4a978e3ae854e8edbeb07d71d37ea92bf19e9a4d1b7c5711892c8",
+  "applicationUrl": "https://ibpsreg.ibps.in/mecljul26/",
+  "noticeNumber": "03/Rectt./2026",
+  "opensOn": "2026-09-12",
+  "closesOn": "2026-10-11",
+  "asOn": "2026-09-01",
+  "officialTimeZone": "Asia/Kolkata",
+  "reviewNote": "Provisional reading of official 18-page advertisement Table I and 10-page exam instructions. First connector output, reservation rows and post-specific qualifications require founder review; no closing clock hour is printed.",
+  "posts": [
+    { "code": 1, "title": "Accountant", "grade": "W-7", "vacancies": 6, "minEducation": "bachelor", "page": 1, "qualifications": "Graduate and CA/ICWA Intermediate pass; three years of relevant accounts experience after that Intermediate qualification. Basic computer and SAP-FICO proficiency are desirable. All six vacancies are backlog/reserved." },
+    { "code": 2, "title": "Technician (Survey)", "grade": "W-4", "vacancies": 12, "minEducation": "diploma", "page": 1, "qualifications": "ITI in Survey or Diploma in Survey. One year of post-qualification survey experience is desirable, not mandatory. Six fresh and six backlog posts." },
+    { "code": 3, "title": "Technician (Sampling)", "grade": "W-4", "vacancies": 7, "minEducation": "bachelor", "page": 2, "qualifications": "B.Sc.; one year of post-qualification Drill Core or Mine Sampling experience is desirable. Six fresh and one backlog post." },
+    { "code": 4, "title": "Technician (Laboratory)", "grade": "W-4", "vacancies": 2, "minEducation": "bachelor", "page": 2, "qualifications": "B.Sc. in Chemistry, Physics or Geology. One year of relevant laboratory experience is desirable. Both posts are backlog and marked for ex-servicemen." },
+    { "code": 5, "title": "Assistant (Materials)", "grade": "W-4", "vacancies": 16, "minEducation": "bachelor", "page": 2, "qualifications": "Graduate with Mathematics or B.Com.; approved/recognized course and degree. No mandatory experience. Basic computer and SAP-MM skills are desirable. Six fresh and ten backlog posts." },
+    { "code": 6, "title": "Assistant (Accounts)", "grade": "W-4", "vacancies": 10, "minEducation": "bachelor", "page": 2, "qualifications": "B.Com. from approved/recognized course. No mandatory experience. Basic computer and SAP-FICO skills are desirable. Five fresh and five backlog posts." },
+    { "code": 7, "title": "Stenographer (English)", "grade": "W-4", "vacancies": 4, "minEducation": "bachelor", "page": 3, "qualifications": "Graduate in any stream plus English shorthand certificate at 80 words per minute. Basic computer skill is desirable. All four vacancies are backlog; verify category and ex-serviceman/PwD allocation." },
+    { "code": 8, "title": "Assistant (Hindi)", "grade": "W-4", "vacancies": 1, "minEducation": "bachelor", "page": 3, "qualifications": "Graduate with Hindi and English as subjects, or degree in English plus an equivalent examination in Advanced Hindi. Basic computer proficiency with Hindi is desirable. One SC backlog vacancy." },
+    { "code": 9, "title": "Electrician", "grade": "W-4", "vacancies": 7, "minEducation": "diploma", "page": 3, "qualifications": "ITI or Diploma in Electrical, valid Wireman certificate, and one year of post-certificate electrical work experience. Six fresh and one backlog post; medical colour/night-vision check applies." },
+    { "code": 10, "title": "Machinist", "grade": "W-4", "vacancies": 2, "minEducation": "diploma", "page": 4, "qualifications": "ITI in Turner/Machinist/Grinder/Miller trade or specified mechanical/manufacturing/production/tool-and-die Diploma, plus one year of relevant machine-shop experience. Both posts are ST backlog; medical colour/night-vision check applies." },
+    { "code": 11, "title": "Technician (Drilling)", "grade": "W-4", "vacancies": 12, "minEducation": "diploma", "page": 4, "qualifications": "Specified mechanic/fitter ITI or Drilling/Mechanical Engineering Diploma, valid HMV licence, and one year of qualifying drilling or rig-maintenance experience after ITI where applicable. All twelve posts are backlog/reserved for ex-servicemen; medical vision check applies." },
+    { "code": 12, "title": "Mechanic", "grade": "W-4", "vacancies": 1, "minEducation": "diploma", "page": 6, "qualifications": "Specified Diesel/Motor Mechanic/Fitter ITI or mechanical/automobile/production/manufacturing Diploma, valid HMV licence, and one year relevant post-qualification mechanic experience. Apprenticeship may count under notice conditions. One OBC-NCL backlog post; medical vision check applies." },
+    { "code": 13, "title": "Mechanic-cum-Operator (Drilling)", "grade": "W-4", "vacancies": 30, "minEducation": "diploma", "page": 7, "qualifications": "Specified earth-moving/diesel/motor mechanic/fitter ITI or Mechanical/Automobile/Drilling Engineering Diploma, plus one year of relevant post-ITI mechanic, fitter or drilling experience. Apprenticeship may count under notice conditions. Twenty-four fresh and six backlog posts; medical vision check applies." },
+    { "code": 14, "title": "Junior Driver", "grade": "W-3", "vacancies": 6, "minEducation": "secondary", "page": 8, "qualifications": "10th pass, valid LMV and HMV licences, and one year combined light/heavy vehicle driving experience. Five fresh and one backlog post; medical vision check applies." },
+    { "code": 15, "title": "Assistant (IT)", "grade": "W-4", "vacancies": 3, "minEducation": "bachelor", "page": 8, "qualifications": "Listed computer-related bachelor's degree, or any graduation plus one-year post-graduation or PG Diploma in IT/Computer Science/Computer Applications from recognized institution. No mandatory experience. Three fresh posts." },
+    { "code": 16, "title": "Assistant (HR)", "grade": "W-4", "vacancies": 3, "minEducation": "bachelor", "page": 9, "qualifications": "BA, B.Com., B.Sc., BBA, BBM or BSW from approved/recognized institution. No mandatory experience. Basic computer and SAP-HCM proficiency are desirable. Two fresh and one backlog post." }
+  ]
+}

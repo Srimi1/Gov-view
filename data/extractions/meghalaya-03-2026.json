@@ -1,0 +1,37 @@
+{
+  "reviewStatus": "pending",
+  "advertisement": "03/2026",
+  "documents": [
+    {
+      "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+      "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+      "role": "original advertisement"
+    },
+    {
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+      "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+      "role": "Fishery Officer age corrigendum"
+    },
+    {
+      "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+      "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+      "role": "Junior Football Coach qualification addendum and deadline extension"
+    }
+  ],
+  "applicationOpensOn": null,
+  "originalClosesOn": "2026-06-25",
+  "coachExtendedClosesOn": "2026-06-30",
+  "cutoffLocalTime": "17:00",
+  "ageAsOn": "2026-01-01",
+  "posts": [
+    { "code": "01", "title": "Fishery Officer", "vacancies": 11, "payLevel": 12 },
+    { "code": "02", "title": "Junior Football Coach", "vacancies": 2, "payLevel": 11 }
+  ],
+  "notes": [
+    "Original seven-page advertisement and both corrections are scanned PDFs, transcribed visually; founder confirmation required.",
+    "Original notice gives 25 June 2026 at 17:00 for applications. The 24 June addendum, written for post code 02, extends online applications to 30 June at 17:00. Whether that extension covered post code 01 is not explicit; its historical exact cutoff needs review. Both dates have passed as of 25 September 2026.",
+    "No formal English proficiency framework is stated. General English is a scored screening-test subject, 50 marks for each post; Coach test is labelled Class XII Level.",
+    "Five published examination-centre cities may change with candidate volume. Pins use city-centre precision, not exact venue locations.",
+    "Indian citizenship is explicit; Meghalaya permanent residence affects the SC/ST fee discount and some relaxations, not a stated blanket application ban."
+  ]
+}

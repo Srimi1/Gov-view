@@ -1,0 +1,130 @@
+{
+  "sourceId": "in-ap-recruitment",
+  "collectedAt": "2026-09-24T21:27:57.355Z",
+  "reviewStatus": "pending",
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 16/2026",
+      "programme": "Forest Range Officers in A.P. Forest Service",
+      "status": "upcoming",
+      "statusNote": "Brief notice announces future application window. Detailed notice is due by 16 October; founder review pending.",
+      "scopeLabel": "Andhra Pradesh Forest Service recruitment; applicant residence and local status need detailed-notice review",
+      "outcome": "Forest Range Officer appointment (4 provisional vacancies; number may change)",
+      "qualifications": "Brief notice page 1 lists bachelor's degrees in named science, engineering and related fields or equivalent qualifications. Full qualification and physical requirements await detailed notice.",
+      "citizenshipRule": "International applicant eligibility is not established by the brief notice. Await detailed notification and service rules.",
+      "residenceRule": "Andhra Pradesh hiring scope does not establish an applicant domicile rule. Await detailed notification.",
+      "selectionStages": [
+        "Single-level online computer-based recruitment test; no screening test stated in brief notice.",
+        "English and Telugu each have a qualifying test at SSC Standard; no CEFR level is stated.",
+        "Walking test and Medical Board examination arranged by the Forest Department for eligible candidates at the stated 1:3 ratio; detailed physical standards await the detailed notice.",
+        "Computer Proficiency Test is a separate qualifying test for eligible candidates at the stated 1:3 ratio."
+      ],
+      "fee": "See the official notice.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "languages": [
+          {
+            "language": "en",
+            "requirement": "General English qualifying test, 50 marks, SSC Standard; must qualify separately.",
+            "stage": "selection",
+            "evidence": "Brief Notification 16/2026, annexure, written-examination scheme and qualifying-test syllabus (pages 3–4).",
+            "sourceUrl": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf"
+          },
+          {
+            "language": "te",
+            "requirement": "General Telugu qualifying test, 50 marks, SSC Standard; must qualify separately.",
+            "stage": "selection",
+            "evidence": "Brief Notification 16/2026, annexure, written-examination scheme and qualifying-test syllabus (pages 3–4).",
+            "sourceUrl": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf"
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Venue not announced"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "andhra-psc-2026-16-forest-range-officers",
+      "sourceId": "in-ap-recruitment",
+      "title": "Forest Range Officers in A.P. Forest Service",
+      "authority": "Andhra Pradesh Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-AP"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-10-16",
+        "closesOn": "2026-11-05",
+        "cutoffLocalTime": "23:59",
+        "officialTimeZone": null,
+        "precision": "minute",
+        "note": "Dates and clock from original brief notice, page 1; governing timezone is not established. Detailed notification may revise conditions and must be checked before opening."
+      },
+      "sources": [
+        {
+          "id": "in-ap-recruitment:354c7410a3d5",
+          "title": "Recruitment notifications index",
+          "authority": "Andhra Pradesh Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+          "sha256": "354c7410a3d5a7810c58a99e5b48f3761b16b8f7b9053b2736b1654c92890586",
+          "lastSuccessfulFetchAt": "2026-09-24T21:28:00.690Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications"
+        },
+        {
+          "id": "in-ap-recruitment:3ba990d74b6c",
+          "title": "Brief Notification 16/2026 and examination scheme",
+          "authority": "Andhra Pradesh Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+          "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+          "lastSuccessfulFetchAt": "2026-09-24T21:28:02.065Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://portal-psc.ap.gov.in/HomePages/RecruitmentNotifications",
+      "fetchedAt": "2026-09-24T21:28:00.690Z",
+      "sha256": "354c7410a3d5a7810c58a99e5b48f3761b16b8f7b9053b2736b1654c92890586",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 56554
+    },
+    {
+      "url": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+      "fetchedAt": "2026-09-24T21:28:02.065Z",
+      "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+      "contentType": "application/pdf",
+      "bytes": 391434
+    }
+  ],
+  "warnings": [
+    "Index contains 20 numbered 2026 notices; this document-bound pilot stages only 16/2026. Remaining notices and departments remain gaps.",
+    "Detailed notice is due by 16 October 2026. Nationality, residence, age and physical eligibility are unverified; passing the language test alone does not establish eligibility."
+  ],
+  "approvalRevisions": {
+    "andhra-psc-2026-16-forest-range-officers": {
+      "evidenceRevision": "c358abcd6805dffdfd314dab45bd8bfc4b261f83cc0843a006c7722509d3c65a",
+      "recordRevision": "0a23242d814ba5f72f6b2307a1fb5d7f79da6da79a6e99ba921c60efc856ecf3"
+    }
+  },
+  "researchAmendedAt": "2026-09-27T02:14:08.404Z"
+}

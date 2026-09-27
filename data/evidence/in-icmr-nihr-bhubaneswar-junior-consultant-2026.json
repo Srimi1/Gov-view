@@ -1,0 +1,44 @@
+[
+ {
+  "url": "https://www.icmr.gov.in/employment-opportunities",
+  "fetchedAt": "2026-09-25T16:22:50.437Z",
+  "sha256": "32306b91f3c1a95376c5d1193394317c5ef178b64fa2fb9cd1bbfc48a004108f",
+  "bytes": 128834,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.rmrcbbsr.gov.in/career/",
+  "fetchedAt": "2026-09-25T16:22:52.638Z",
+  "sha256": "cc30c3e46da0bf5130d1992d7a0a321472972f1301baf73276869124b72c7fab",
+  "bytes": 144560,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.rmrcbbsr.gov.in/careers/advertisement-for-the-post-junior-consultant-medical/",
+  "fetchedAt": "2026-09-25T16:22:53.507Z",
+  "sha256": "bdc080eb0af173b831417b6df3827acacf47fdc8377bc49c40d8015b07495c3a",
+  "bytes": 48410,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076083_dristienglishadvt.pdf",
+  "fetchedAt": "2026-09-25T16:22:54.443Z",
+  "sha256": "dc0d4dff2d21a9490278bfa48fe9c1244fe2c2962b2a8a390c9fa0cba8d83a8c",
+  "bytes": 980817,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790076088_dristihindiadvt.pdf",
+  "fetchedAt": "2026-09-25T16:22:55.252Z",
+  "sha256": "754d8d8893ef76a5b37499fe58487b6ea7da602d084196d0a10471c803b59216",
+  "bytes": 1649537,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.rmrcbbsr.gov.in/wp-content/uploads/2026/09/DRISTI-ADVT-2.pdf",
+  "fetchedAt": "2026-09-25T16:22:58.927Z",
+  "sha256": "fcd37778de6096bef2f1b42fa3e50a22c21a50c9515f64b58b8d128b4563f5be",
+  "bytes": 2626320,
+  "contentType": "application/pdf"
+ }
+]

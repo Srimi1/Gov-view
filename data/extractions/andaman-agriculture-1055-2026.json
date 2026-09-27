@@ -1,0 +1,26 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-an-recruitment",
+  "cycleId": "andaman-agriculture-group-b-c-2026",
+  "indexUrl": "https://erecruitment.andamannicobar.gov.in/",
+  "noticeUrl": "https://erecruitment.andamannicobar.gov.in/Notice.aspx",
+  "applicationUrl": "https://erecruitment.andamannicobar.gov.in/",
+  "document": {
+    "url": "https://erecruitment.andamannicobar.gov.in/Advertisement/1055_29a155c9-680d-4586-8924-8ab13996bba7.pdf",
+    "sha256": "8d17d3bf423527e9ea9d2dfe25ee708f26e0be61439d0aefff8a25a757df865d",
+    "pages": 15,
+    "localFile": "data/evidence/research/andaman-agriculture-1055-2026.pdf"
+  },
+  "noticeDate": "2026-09-21",
+  "opensOn": "2026-09-24",
+  "closesOn": "2026-10-23",
+  "vacancies": 10,
+  "postCodes": ["1/26", "2/26", "3/26"],
+  "evidenceNotes": [
+    "Official live portal shows this Agriculture notice as its only ongoing advertisement, with 24 September to 23 October 2026 dates. Scanned vacancy notice page 2 adds opening 12:00 noon and says closing 12:00 Midnight, without an unambiguous end-of-day clock interpretation; no precise cutoff is asserted.",
+    "Scanned notice page 1 lists one Agriculture Officer, two Agriculture Engineering Assistant and seven Agriculture Assistant vacancies. Page 2 permits one or more post preferences but mentions appropriate links for respective posts; founder must confirm whether these are separate application cycles.",
+    "Page 4 eligibility clause 3(i) explicitly requires Indian citizenship. Local ST/OBC reservation rules on page 1 do not create a general domicile ban for unreserved consideration.",
+    "Page 5 lists post-specific degrees, including master's for Officer, Agriculture Engineering degree plus soil/water training for Engineering Assistant, and agriculture/horticulture bachelor's for Assistant. Hindi literacy is desirable only for Assistant. Pages 6-7 say CBT paper is English/Hindi and includes English Language questions without published CEFR or other standardized level.",
+    "Page 6 identifies South Andaman as CBT region but no exact centre. Page 9 bases selection on CBT merit, post preference and certificate verification."
+  ]
+}

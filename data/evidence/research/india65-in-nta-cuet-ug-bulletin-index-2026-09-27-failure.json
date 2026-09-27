@@ -1,0 +1,10 @@
+{
+  "sourceId": "in-nta-cuet-ug",
+  "label": "bulletin-index",
+  "url": "https://cuet.nta.nic.in/information-bulletin/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/india65-in-nta-cuet-ug-bulletin-index-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T22:49:13.203Z",
+  "error": "robots.txt unreachable at https://cuet.nta.nic.in: fetch failed"
+}

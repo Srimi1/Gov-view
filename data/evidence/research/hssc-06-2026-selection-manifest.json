@@ -1,0 +1,29 @@
+{
+  "researchOnly": true,
+  "sourceId": "in-hr-hssc",
+  "notice": "HSSC Group-C advertisement 06/2026 subsequent physical-screening notices",
+  "documents": [
+    {
+      "publishedOn": "2026-07-22",
+      "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-8af999770001/publicNotice",
+      "file": "hssc-06-2026-pst-22-jul.pdf",
+      "sha256": "13c5751738b875c6228bc8dd27df3ba8400e0af085794e0b42de60d4a1fb1945",
+      "scope": "Physical-screening schedule and candidate-level results; no application extension"
+    },
+    {
+      "publishedOn": "2026-07-24",
+      "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-947d2e820009/publicNotice",
+      "file": "hssc-06-2026-pst-24-jul.pdf",
+      "sha256": "a197fd891af9b52dee951f6e94e6b889da96fcb5bdb9610e4ee2a079bcaa198e",
+      "scope": "Female absentee physical-screening opportunity; no application extension"
+    },
+    {
+      "publishedOn": "2026-08-03",
+      "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-c66664700018/publicNotice",
+      "file": "hssc-06-2026-pst-03-aug.pdf",
+      "sha256": "bb207aece31c200ae4b0b0fc20bf293a5bf855738e9656083a93c712fbd71e02",
+      "scope": "Male absentee physical-screening opportunity; no application extension"
+    }
+  ],
+  "handling": "Research archive only. Connector links official notices but does not extract candidate registration numbers, assert published venues, or change the closed application window."
+}

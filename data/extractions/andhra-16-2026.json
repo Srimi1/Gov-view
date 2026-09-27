@@ -1,0 +1,21 @@
+{
+  "reviewStatus": "pending",
+  "notification": "16/2026",
+  "documentUrl": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Range_Officer_162026.pdf",
+  "sha256": "3ba990d74b6c7c8be24064241e24a62fa3b8fa30f8b4a407580add291c9ac7c8",
+  "post": "Forest Range Officers in A.P. Forest Service",
+  "provisionalVacancies": 4,
+  "opensOn": "2026-10-16",
+  "closesOn": "2026-11-05",
+  "cutoffLocalTime": "23:59",
+  "detailedNoticeDueOnOrBefore": "2026-10-16",
+  "evidencePages": {
+    "windowQualificationsAndDetailedNotice": [1, 2],
+    "qualifyingLanguages": [3, 4]
+  },
+  "notes": [
+    "Brief notice only. Detailed notification is promised on or before 16 October 2026 and must be reviewed before this can be marked open.",
+    "English and Telugu are separate qualifying tests at SSC Standard; this is not a CEFR level.",
+    "Nationality, domicile, age, physical standards and full qualifications require detailed-notice review."
+  ]
+}

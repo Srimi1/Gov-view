@@ -1,0 +1,52 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "researchedOn": "2026-09-25",
+  "authority": "Nuclear Fuel Complex, Department of Atomic Energy",
+  "pathway": "vocational",
+  "officialIndex": {
+    "url": "https://www.nfc.gov.in/recruitment.html",
+    "retainedPath": "data/evidence/research/nfc-recruitment-index-2026.html",
+    "researchSnapshotSha256": "e975108ef465bc7ea804fe7ddf0232741d9aa966b05cdac80e211ffb85313de2"
+  },
+  "officialNotice": {
+    "url": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/nfc-r-III-1082026.pdf",
+    "retainedPath": "data/evidence/research/nfc-iti-apprenticeship-2026.pdf",
+    "sha256": "6ab8df414fc7f0c485d78375f8471a8c802edffb0b8bfcf8a6ad3cfa60a9bf29",
+    "pages": 10,
+    "language": "Hindi and English"
+  },
+  "access": "NFC recruitment page and PDF returned 200. robots.txt returned 404, with no published restrictions at that path. Collector uses its ordinary throttling and original TLS validation.",
+  "findings": [
+    {
+      "field": "pathwayAndOutcome",
+      "value": "One-year ITI apprenticeship training; National Apprenticeship Certificate only after completed training and passed DGT trade test; no right to NFC employment",
+      "evidence": "Notice pages 1–3, opening, General Instructions 1–2 and 6"
+    },
+    {
+      "field": "applicationWindow",
+      "value": "Last receipt date 16 September 2026; opening date and cutoff clock time unstated",
+      "evidence": "Notice page 2, Application Procedure 3–4"
+    },
+    {
+      "field": "count",
+      "value": "432 tentative places in 15 positive-vacancy trades; Stenographer (English) shows zero places; one application intake",
+      "evidence": "Notice page 1, trade table"
+    },
+    {
+      "field": "nationality",
+      "value": "No citizenship condition stated. NAPS registration and Aadhaar-address police verification are required at different stages; foreign-national permission needs authority confirmation",
+      "evidence": "Notice pages 2 and 4, Application Procedure 1 and General Instructions 15–16"
+    },
+    {
+      "field": "language",
+      "value": "Bilingual notice, no stated general proficiency scale or certificate for available trades",
+      "evidence": "Notice pages 1–5; Stenographer (English) zero-place row on page 1"
+    },
+    {
+      "field": "ageAndQualifications",
+      "value": "Age 18–25 on 16 September, OBC to 28, SC/ST to 30; class 10 and trade ITI; prior/current Apprenticeship Act training and postgraduates excluded",
+      "evidence": "Notice pages 1–3, trade table and General Instructions 4–5, 9"
+    }
+  ],
+  "coverageLimit": "Only ITI 2026–27 intake is extracted. Separate diploma/graduate apprenticeship, NFC direct jobs, later amendments, NAPS foreign-national access and full trade-specific qualifications remain gaps."
+}

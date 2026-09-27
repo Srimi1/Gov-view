@@ -1,0 +1,14 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-ga-gssc
+
+
+▸ in-ga-gssc (Goa Staff Selection Commission — Group C recruitment)
+  4 draft records saved for review; no publication
+  ⚠ Historical unnumbered notice requires manual cycle identity: Advertisement dated 15.01.2024
+  ⚠ Historical unnumbered notice requires manual cycle identity: Advertisement dated 29.12.2023
+  ⚠ Draft connector: advertisement groups with activity in the last 180 days only. Only document-bound post extractions can become draft cycles; other groups require review. No complete Goa coverage claim.
+  ⚠ PwD application fee conflict: advertisement 3/2026 page 11 says Nil; general instructions section 3 lists INR 50/100 by pay level. Founder must resolve before publication.
+  ⚠ Supplementary note 21/09/2026 changes LDC/Recovery Clerk total from 204 to 203 and UR total from 111 to 110. Original brief notice had tentative counts; it is not authoritative for final totals.
+  ⚠ Supplementary note replaces scheme 5.1: CBT-II shortlisting is 15 times for posts 1 and 3, 5 times for posts 2 and 4.
+  ⚠ Advertisement 3/2026, scheme clause 4.1, printed page 15, and general instructions section 1(c) require separate application for each post. Departments and vacancies within one post do not multiply application cycles.

@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+  "fetchedAt": "2026-09-24T21:53:01.847Z",
+  "sha256": "fd4019aabf8275e3990956b109551c560f6ca11155c8052a903749efccba29c7",
+  "bytes": 1452367,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+  "fetchedAt": "2026-09-24T21:53:02.762Z",
+  "sha256": "8a79acda99c4707616ae2971523f6e30ea20a0dbfa333e528bb7e96879e4474e",
+  "bytes": 1430703,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+  "fetchedAt": "2026-09-24T21:53:03.465Z",
+  "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c",
+  "bytes": 895209,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf",
+  "fetchedAt": "2026-09-24T21:53:04.418Z",
+  "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b",
+  "bytes": 672462,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf",
+  "fetchedAt": "2026-09-24T21:53:05.387Z",
+  "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769",
+  "bytes": 677080,
+  "contentType": "application/pdf"
+ }
+]

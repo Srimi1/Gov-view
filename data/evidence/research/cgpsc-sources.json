@@ -1,0 +1,28 @@
+{
+  "capturedAt": "2026-09-24T21:09:50.391173+00:00",
+  "records": [
+    {
+      "file": "data/evidence/research/cgpsc-advertisements.html",
+      "url": "https://psc.cg.gov.in/Advertisement.php",
+      "sha256": "fa84f1c1137f1c3be76212dc4c7048bcb0798812c3db105225429e0756a29237",
+      "bytes": 27630
+    },
+    {
+      "file": "data/evidence/research/cgpsc-05-2026.pdf",
+      "url": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
+      "sha256": "f4d11ad117523813004541cf434c162c303978805577f534c24da82694eefd6a",
+      "bytes": 2833316
+    },
+    {
+      "file": "data/evidence/research/cgpsc-05-2026.txt",
+      "url": null,
+      "sha256": "a0fe6552a9da7b172f791232b6763849004905ea8a9ca015a3658151ecb2e00c",
+      "bytes": 157897
+    }
+  ],
+  "notes": [
+    "Hindi PDF extraction loses glyphs; critical fields were checked visually against original pages.",
+    "Original notice 05/2026 has two separately applied posts and closes 9 October 2026 at 23:59.",
+    "Only this advertisement has a document-bound draft extraction; other archive entries remain collection gaps."
+  ]
+}

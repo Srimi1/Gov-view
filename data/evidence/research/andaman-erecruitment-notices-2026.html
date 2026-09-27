@@ -1,0 +1,1326 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Common Recruitment - A&amp;N Administration</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* ============================================================
+           GIGW 3.0 — GOVERNMENT OF INDIA DESIGN SYSTEM
+        ============================================================ */
+        :root {
+            --saffron:       #FF6600;
+            --saffron-light: #FFF3EB;
+            --saffron-dark:  #CC5200;
+            --navy:          #003580;
+            --navy-dark:     #002060;
+            --navy-light:    #EAF0FB;
+            --india-green:   #138808;
+            --green-light:   #E8F5E8;
+            --white:         #FFFFFF;
+            --off-white:     #F4F6FA;
+            --gray-50:       #F8F9FC;
+            --gray-100:      #F0F2F6;
+            --gray-200:      #E2E6EE;
+            --gray-400:      #9BAABB;
+            --gray-600:      #57697E;
+            --text-primary:  #1A2438;
+            --text-secondary:#4A5770;
+            --border:        #D4DCE9;
+
+            --a11y-h:    38px;
+            --header-h:  70px;
+
+            --shadow-sm: 0 1px 4px rgba(0,0,0,.07);
+            --shadow-md: 0 4px 18px rgba(0,53,128,.12);
+            --radius:    5px;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        html { font-size: 17px; scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            color: var(--text-primary);
+            background: var(--white);
+            padding-top: calc(var(--a11y-h) + 4px + var(--header-h));
+            line-height: 1.7;
+        }
+
+        /* ============================================================
+           ACCESSIBILITY TOOLBAR
+        ============================================================ */
+        #a11y-bar {
+            position: fixed;
+            top: 0; left: 0; right: 0;
+            height: var(--a11y-h);
+            background: var(--navy-dark);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            font-size: 12px;
+            color: rgba(255,255,255,.55);
+            z-index: 1300;
+            border-bottom: 2px solid var(--saffron);
+        }
+        .a11y-left  { display: flex; align-items: center; gap: 12px; }
+        .a11y-right { display: flex; align-items: center; gap: 6px; }
+        .skip-link {
+            color: var(--saffron);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 12px;
+        }
+        .skip-link:focus { outline: 2px solid var(--saffron); outline-offset: 2px; }
+        .a11y-lang a {
+            color: rgba(255,255,255,.5);
+            text-decoration: none;
+            padding: 1px 5px;
+            font-size: 12px;
+        }
+        .a11y-lang a.active, .a11y-lang a:hover { color: var(--saffron); }
+        .a11y-lang .pipe { opacity: .25; }
+        .a11y-btn {
+            background: rgba(255,255,255,.07);
+            border: 1px solid rgba(255,255,255,.12);
+            color: rgba(255,255,255,.6);
+            cursor: pointer;
+            padding: 2px 9px;
+            border-radius: 3px;
+            font-size: 12px;
+            font-family: inherit;
+            line-height: 1.6;
+            transition: all .18s;
+        }
+        .a11y-btn:hover, .a11y-btn.active { background: var(--saffron); color: #fff; border-color: var(--saffron); }
+        .a11y-links { display: flex; gap: 12px; }
+        .a11y-links a { color: rgba(255,255,255,.35); font-size: 12px; text-decoration: none; }
+        .a11y-links a:hover { color: var(--saffron); }
+
+        .topbar-email {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            color: rgba(255,255,255,.65);
+            font-size: 12px;
+        }
+        .topbar-email i { color: rgba(255,255,255,.5); font-size: 13px; }
+        .topbar-email a {
+            color: rgba(255,255,255,.75);
+            text-decoration: none;
+            transition: color .18s;
+        }
+        .topbar-email a:hover { color: var(--saffron); }
+
+        /* ============================================================
+           TRICOLOR STRIPE
+        ============================================================ */
+        #tricolor {
+            position: fixed;
+            top: var(--a11y-h);
+            left: 0; right: 0;
+            height: 4px;
+            display: flex;
+            z-index: 1250;
+        }
+        #tricolor .t { flex: 1; }
+        #tricolor .t1 { background: #FF9933; }
+        #tricolor .t2 { background: #FFFFFF; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+        #tricolor .t3 { background: #138808; }
+
+        /* ============================================================
+           HEADER
+        ============================================================ */
+        #header {
+            position: fixed;
+            top: calc(var(--a11y-h) + 4px);
+            left: 0; right: 0;
+            height: var(--header-h);
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+            box-shadow: var(--shadow-sm);
+            z-index: 1100;
+        }
+        #header .container {
+            display: flex;
+            align-items: center;
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 20px;
+            height: 100%;
+            gap: 16px;
+        }
+
+        #header h4 { margin: 0; line-height: 1; flex-shrink: 0; }
+        #header h4 a { text-decoration: none; display: flex; align-items: center; gap: 12px; }
+        #header h4 a img { height: 50px; width: auto; object-fit: contain; }
+        .header-brand-text { line-height: 1.25; }
+        .header-brand-text .gov-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: .7px;
+            color: var(--gray-600);
+        }
+        .header-brand-text .site-name {
+            font-family: 'Noto Serif', serif;
+            font-size: 17px;
+            font-weight: 700;
+            color: var(--navy);
+        }
+        .header-brand-text .dept-name {
+            font-size: 12px;
+            color: var(--saffron);
+            font-weight: 600;
+        }
+
+        /* ============================================================
+           NAVBAR
+        ============================================================ */
+        #navbar {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+        }
+        #navbar ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 2px;
+            margin: 0; padding: 0;
+        }
+        #navbar ul li a.nav-link {
+            font-size: 14.5px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 7px 13px;
+            border-radius: var(--radius);
+            letter-spacing: .15px;
+            transition: all .18s;
+            position: relative;
+            white-space: nowrap;
+            display: block;
+        }
+        #navbar ul li a.nav-link:hover,
+        #navbar ul li a.nav-link.active {
+            color: var(--navy);
+            background: var(--navy-light);
+        }
+        #navbar ul li a.nav-link.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1px; left: 20%; right: 20%;
+            height: 2px;
+            background: var(--saffron);
+            border-radius: 2px;
+        }
+
+        /* ── Mobile Candidate Corner li — hidden on desktop ── */
+        .mobile-candidate-corner { display: none; }
+
+        /* ── HAMBURGER BUTTON ── */
+        .mobile-nav-toggle {
+            display: none;
+            background: none;
+            border: 2px solid var(--navy);
+            color: var(--navy);
+            font-size: 22px;
+            cursor: pointer;
+            border-radius: var(--radius);
+            width: 40px;
+            height: 40px;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            transition: all .18s;
+            margin-left: 8px;
+        }
+        .mobile-nav-toggle:hover {
+            background: var(--navy);
+            color: #fff;
+        }
+
+        /* Candidate Corner CTA — desktop */
+        .appointment-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            background: var(--saffron);
+            color: #fff !important;
+            font-size: 13.5px;
+            font-weight: 700;
+            padding: 8px 16px;
+            border-radius: var(--radius);
+            text-decoration: none;
+            white-space: nowrap;
+            transition: all .2s;
+            letter-spacing: .2px;
+            flex-shrink: 0;
+            border: 2px solid var(--saffron);
+        }
+        .appointment-btn:hover {
+            background: var(--saffron-dark);
+            border-color: var(--saffron-dark);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 14px rgba(255,102,0,.3);
+        }
+        .appointment-btn::before {
+            content: '\F4B1';
+            font-family: 'bootstrap-icons';
+            font-size: 15px;
+        }
+
+        /* ============================================================
+           MAIN
+        ============================================================ */
+        #main {
+            min-height: calc(100vh - var(--a11y-h) - 4px - var(--header-h) - 110px);
+            background: var(--off-white);
+        }
+        #services { padding: 28px 28px 60px; }
+        #services .container,
+        #services .container[style],
+        #services form#form1 > .container {
+            max-width: 100% !important;
+            width: 100% !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        #services form#form1 > .container {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            box-shadow: var(--shadow-sm);
+            padding: 28px 30px !important;
+        }
+
+        /* ============================================================
+           FOOTER
+        ============================================================ */
+        #footer {
+            background: var(--navy-dark);
+            color: rgba(255,255,255,.55);
+            border-top: 3px solid var(--saffron);
+            padding: 0;
+        }
+        #footer .container { max-width: 1280px; margin: 0 auto; padding: 0 20px; }
+        #footer .container.d-md-flex { padding: 24px 20px; }
+        #footer .credits {
+            font-size: 13.5px;
+            color: rgba(255,255,255,.5);
+            line-height: 2;
+        }
+        #footer .credits a { color: var(--saffron); text-decoration: none; font-weight: 600; }
+        #footer .credits a:hover { text-decoration: underline; }
+        #footer .credits span[class^="bi-browser"] {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-right: 10px;
+            font-size: 12.5px;
+            color: rgba(255,255,255,.4);
+        }
+        .footer-links { display: flex; gap: 14px; flex-wrap: wrap; }
+        .footer-links a { color: rgba(255,255,255,.3); text-decoration: none; font-size: 12px; }
+        .footer-links a:hover { color: var(--saffron); }
+        #footer .credits .asp-label { color: rgba(255,255,255,.65); }
+
+        /* ============================================================
+           BACK TO TOP
+        ============================================================ */
+        .back-to-top {
+            position: fixed;
+            bottom: 24px; right: 22px;
+            width: 40px; height: 40px;
+            background: var(--navy);
+            color: #fff;
+            border-radius: 50%;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0,53,128,.35);
+            z-index: 999;
+            transition: background .2s, transform .2s;
+            border: 2px solid rgba(255,255,255,.15);
+        }
+        .back-to-top:hover { background: var(--saffron); transform: translateY(-2px); }
+        .back-to-top i { font-size: 22px; }
+
+        /* ============================================================
+           HIGH CONTRAST
+        ============================================================ */
+        body.hc-mode {
+            --white:          #000000;
+            --off-white:      #0d0d0d;
+            --navy-light:     #001430;
+            --gray-100:       #141414;
+            --border:         #444;
+            --text-primary:   #ffffff;
+            --text-secondary: #dddddd;
+        }
+
+        /* ============================================================
+           MOBILE NAV
+        ============================================================ */
+        @media (max-width: 992px) {
+
+            #header .container {
+                flex-wrap: nowrap;
+                gap: 8px;
+                justify-content: space-between;
+            }
+
+            #header h4 {
+                flex: 1 1 auto;
+                min-width: 0;
+                margin-right: 0 !important;
+            }
+
+            /* Hide desktop Candidate Corner button on mobile */
+            .appointment-btn {
+                display: none !important;
+            }
+
+            .mobile-nav-toggle {
+                display: inline-flex !important;
+                flex-shrink: 0;
+                margin-left: auto;
+            }
+
+            #navbar {
+                position: static;
+                margin-left: 0;
+                order: 3;
+            }
+
+            #navbar ul {
+                display: none;
+                flex-direction: column;
+                align-items: stretch;
+                position: fixed;
+                top: calc(var(--a11y-h) + 4px + var(--header-h));
+                left: 0;
+                right: 0;
+                width: 100vw;
+                background: var(--white);
+                border-bottom: 3px solid var(--saffron);
+                padding: 8px 0 14px;
+                box-shadow: var(--shadow-md);
+                z-index: 1050;
+                overflow-y: auto;
+                max-height: calc(100vh - var(--a11y-h) - 4px - var(--header-h));
+            }
+
+            #navbar ul.open { display: flex; }
+
+            #navbar ul li { width: 100%; }
+
+            #navbar ul li a.nav-link {
+                display: block;
+                width: 100%;
+                padding: 15px 24px;
+                font-size: 16px;
+                font-weight: 600;
+                border-bottom: 1px solid var(--gray-100);
+                border-radius: 0;
+                white-space: normal;
+                color: var(--text-primary);
+            }
+
+            #navbar ul li:last-child a.nav-link { border-bottom: none; }
+
+            #navbar ul li a.nav-link.active::after { display: none; }
+            #navbar ul li a.nav-link.active {
+                color: var(--navy);
+                background: var(--navy-light);
+                border-left: 4px solid var(--saffron);
+                padding-left: 20px;
+            }
+
+            /* ── REAL Candidate Corner item — visible only on mobile ── */
+            .mobile-candidate-corner {
+                display: block !important;
+                padding: 10px 16px 4px;
+            }
+
+            .mobile-candidate-corner a {
+                display: flex !important;
+                align-items: center;
+                justify-content: center;
+                gap: 8px;
+                background: var(--saffron) !important;
+                color: #fff !important;
+                font-size: 15px !important;
+                font-weight: 700 !important;
+                padding: 13px 20px !important;
+                border-radius: var(--radius) !important;
+                text-decoration: none !important;
+                border-bottom: none !important;
+                border-left: none !important;
+                transition: background .2s;
+                width: 100%;
+            }
+
+            .mobile-candidate-corner a:hover {
+                background: var(--saffron-dark) !important;
+            }
+
+            /* Override last-child border since candidate corner is last */
+            .mobile-candidate-corner a.nav-link { border-bottom: none !important; }
+        }
+
+        @media (max-width: 576px) {
+            #header h4 .header-brand-text .gov-label,
+            #header h4 .header-brand-text .dept-name { display: none; }
+
+            #header h4 .header-brand-text .site-name {
+                font-size: 15px;
+            }
+
+            #services { padding: 16px 12px 40px; }
+        }
+
+        @media print {
+            #a11y-bar, #tricolor, #header, #footer { display: none !important; }
+            body { padding-top: 0 !important; }
+        }
+
+    </style>
+
+    
+
+</head>
+
+<body>
+
+    <!-- ACCESSIBILITY TOOLBAR -->
+    <div id="a11y-bar" role="navigation" aria-label="Accessibility Options">
+        <div class="a11y-left">
+            <a class="skip-link" href="#main">Skip to Main Content</a>
+        </div>
+        <div class="a11y-right">
+            <div class="topbar-email d-flex align-items-center">
+                <i class="bi bi-envelope"></i>
+                <a href="mailto:sovtech.and@nic.in">sovtech[dot]and[at]nic[dot]in</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- TRICOLOR STRIPE -->
+    <div id="tricolor" aria-hidden="true">
+        <div class="t t1"></div>
+        <div class="t t2"></div>
+        <div class="t t3"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+            <h4 class="me-auto">
+                <a href="Index.aspx">
+                    <img src="assets/img/llogo.png" style="height:50px" alt="A&N Administration Logo" />
+                    <div class="header-brand-text">
+                        <div class="site-name">eRecruitment Portal</div>
+                        <div class="dept-name">Andaman &amp; Nicobar Administration</div>
+                    </div>
+                </a>
+            </h4>
+
+            <nav id="navbar" class="navbar order-last order-lg-0" role="navigation" aria-label="Main Navigation">
+                <ul id="navbar-ul">
+                    <li><a class="nav-link scrollto active" href="Index.aspx">Home</a></li>
+                    <li><a class="nav-link scrollto" href="Notice.aspx">Notice</a></li>
+                    <li><a class="nav-link scrollto" href="CSignin.aspx">Apply</a></li>
+                    <li><a class="nav-link scrollto" href="CSignin.aspx">Admit Card</a></li>
+                    <li><a class="nav-link scrollto" href="AnswerKey.aspx">Answer Key</a></li>
+                    <li><a class="nav-link scrollto" href="Result.aspx">Result</a></li>
+                    <li><a class="nav-link scrollto" href="ASignin.aspx">Admin Corner</a></li>
+
+                    <!-- ✅ REAL clickable Candidate Corner — only shown on mobile via CSS -->
+                    <li class="mobile-candidate-corner">
+                        <a href="CSignin.aspx" class="nav-link">
+                            <i class="bi bi-person-circle"></i> Candidate Corner
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Desktop Candidate Corner button -->
+            <a href="CSignin.aspx" class="appointment-btn scrollto">Candidate Corner</a>
+
+            <!-- Hamburger — rightmost -->
+            <button class="mobile-nav-toggle" id="mobileNavToggle"
+                    aria-label="Toggle navigation menu"
+                    aria-expanded="false"
+                    aria-controls="navbar-ul">
+                <i class="bi bi-list"></i>
+            </button>
+
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <main id="main">
+        <section id="services" class="services">
+            <form method="post" action="./Notice.aspx" id="form1" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="970C11B2" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+                <div class="container" style="max-width: max-content">
+                    
+        <section id="services" class="doctors" style="max-width:fit-content">
+            <div class="row" style="padding-top: 30pt; padding-bottom: 30pt">
+                <div class="col-12">
+
+                        <h5>Notification/Announcement</h5>
+                        <hr>
+                        <div id="ContentPlaceHolder2_pnl">
+	
+
+                            <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1">
+		<tr bgcolor="#1C5E55">
+			<td><font color="White"><b>Department</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">&nbsp;</font></td><td><font color="#333333">
+                                    
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Agriculture</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_1">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Merit List of Candidates who appeared for Skill Test conducted by Department of Information Technology Andaman Nicobar Administration on 14-03-2026</font></td><td><font color="#333333"> 25-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/112_a31f1520-cfef-4890-9704-185c0ad78195.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Eligible list for the post of Secretarial Assistant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</font></td><td><font color="#333333"> 19-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/75_b45247db-1b85-4b97-880e-68f81d2d12e6.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333"> Schedule for conduct of Trade Test for various post under  PM  Rashtriya Krishi Vikas Yojana (PM-RKVY)</font></td><td><font color="#333333"> 17-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/71_e5cb2b01-029d-4ed1-b20e-dc4989980bb6.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">Eligible list for the post of Accountant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</font></td><td><font color="#333333"> 17-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/72_9b4112d2-3e92-4db2-bc7c-46bab2868286.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">In-Eligible list for the post of Accountant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</font></td><td><font color="#333333"> 17-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/73_146c3c13-91b3-4b79-beaa-fcac889a88fd.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">In-Eligible list for the post of Secretarial Assistant under the PM-Rashtriya Krishi Vikas Yojana (PM-RKVY)</font></td><td><font color="#333333"> 17-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/74_8b23d6d4-a14e-4d07-9499-4638f8fb04ec.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_1_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Circuit Bench of Calcutta High Court at Port Blair</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_2">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Download Admit Card for the Post of Stenographer/PA (Reserved for Scheduled Caste Category)</font></td><td><font color="#333333"> 28-07-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/115_636492d8-a7bd-4696-beb4-3843b721151c.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Marks obtained by the candidates in the selection test held on 03.10.2023 for the post of Stenographer/P.A in the establishment of the Circuit Bench of Calcutta High Court at Port Blair</font></td><td><font color="#333333"> 19-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/22_fc4a4aa0-d95c-4855-87bc-7e6b14cd6295.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">List of eligible, provisionally eligible, and ineligible candidates for the post of Stenographer/P.A. in Circuit Bench of Calcutta High Court at Port Blair</font></td><td><font color="#333333"> 31-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice13.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_2_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Department of Fisheries</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_3">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Merit Wise List of Candidates for Documents Verification for the post of Fisheries Inspector and Assistant Fisheries Development Officer</font></td><td><font color="#333333"> 26-12-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_3_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/35_e98201af-5fad-498a-82b8-d841db2534e7.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_3_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Department of Rural Development and PRIs</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_4">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Select list and panel/wait list for recruitment to the posts of Extension 
+Officer and Panchayat Secretary in the Department of Rural Development and PRIs</font></td><td><font color="#333333"> 01-09-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_4_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice15.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_4_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Directorate of Economics & Statistics</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_5">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Press Note lists of  Provisionally Eligible and Ineligible candidates for the post of Junior  Investigator (DES & AH) </font></td><td><font color="#333333"> 26-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/76_97ef495c-4ba2-4232-9e54-8e6e832d1134.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Provisionally Ineligible candidates for the post of Junior Investigator ( AH)</font></td><td><font color="#333333"> 26-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/77_befb3a96-7e2a-41de-ab1e-f8df8c6030fd.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Provisionally Ineligible candidates for the post of Junior Investigator ( DES)</font></td><td><font color="#333333"> 26-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/78_c462b357-4eee-4588-8177-6e4c3c550863.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">Provisionally Eligible candidates for the post of Junior Investigator (AH)</font></td><td><font color="#333333"> 26-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/eligible%20candidates%20for%20the%20post%20of%20Junior%20Investigator%20(%20DES).pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">Provisionally Eligible candidates for the post of Junior Investigator ( DES)</font></td><td><font color="#333333"> 26-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/eligible%20candidates%20for%20the%20post%20of%20Junior%20Investigator%20(%20AH).pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">Press Note - list of Provisionally Eligible & Ineligible candidates for inviting claims/objections from the candidates who have applied for the post of Senior Investigator/ Assistant Statistical Officer</font></td><td><font color="#333333"> 14-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/68_f44ac8fa-3412-4838-b7b7-399b823446bf.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">List of Provisionally Eligible & Ineligible candidates  for the post of Senior Investigator/ Assistant Statistical Officer</font></td><td><font color="#333333"> 14-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/69_1562b45e-d174-4005-a80c-df969ec14448.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">8</font></td><td><font color="#333333">List of Ineligible candidates for the post of Senior Investigator/ Assistant Statistical Officer</font></td><td><font color="#333333"> 14-02-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_7" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/70_2996eb51-2b7a-44b5-a6bc-3da69cf76775.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_7" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">9</font></td><td><font color="#333333">Notice regarding uploading the provisional list of candidates for document verification for the post of Senior Investigator / Assistant Statistical Officer </font></td><td><font color="#333333"> 13-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_8" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/49_c4f339fb-87a0-46e0-ab97-263e589709eb.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_8" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">10</font></td><td><font color="#333333">List of candidates for document verification for the post of Senior Investigator / Assistant Statistical Officer </font></td><td><font color="#333333"> 13-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_9" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/47_6e8ee1a3-dd35-4159-9e51-43818fe56b67.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_9" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">11</font></td><td><font color="#333333">Notice regarding uploading the provisional list of candidates for document verification for the post of Junior Investigator of Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</font></td><td><font color="#333333"> 13-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_10" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/50_9ddbcc7a-9b49-4cd2-a48b-30d290e9a5dc.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_10" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">12</font></td><td><font color="#333333">List of candidates for document verification for the post of Junior Investigator of Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</font></td><td><font color="#333333"> 13-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_11" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/48_cc543478-f9ba-40ab-864f-2353484ce37a.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_11" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">13</font></td><td><font color="#333333">Notice regarding uploading of subject wise marks of candidate for the post of Senior Investigator/Assistant Statistical Officer</font></td><td><font color="#333333"> 11-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_12" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/45_00ad774c-5c90-4ee2-8a3e-730205b0c659.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_12" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">14</font></td><td><font color="#333333">Notice regarding uploading of subject wise marks of candidate for the post of Junior Investigator in Directorate of Economics & Statistics and Directorate of Animal Husbandry & Veterinary Services</font></td><td><font color="#333333"> 11-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_13" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/46_b5824c18-3292-4d0e-a2d0-95bd934f4172.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_13" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">15</font></td><td><font color="#333333">Press note regarding statement of marks secured by candidates in Computer Based Test conducted for the post of Junior Investigator in Directorate of Economics & Statistics </font></td><td><font color="#333333"> 29-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_14" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/30_b866271c-9609-4cf1-8d20-6ec15f39ee52.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_14" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">16</font></td><td><font color="#333333">Press note regarding statement of marks secured by candidates in Computer Based Test conducted for the post of Senior Investigator in Directorate of Economics & Statistics </font></td><td><font color="#333333"> 29-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_15" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/31_3f15b91f-ea2e-43d9-b225-0dbc4bc94e87.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_15" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">17</font></td><td><font color="#333333">The Answer Keys for the Computer Based Test (CBT) re-conducted on  22.9.2023 for recruitment to the post of Senior Investigator /Assistant  Statistical Officer (Group-B, Non-Gazetted) of Directorate of Economics &  Statistics </font></td><td><font color="#333333"> 20-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_16" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/23_22e703da-555e-401e-b635-cbb006edcf08.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_16" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">18</font></td><td><font color="#333333">List of candidates who have applied during 2020 for the post of Senior Investigator/ Assistant Statistical officer vide vacancy notice dated 30/09/2020 (uploaded in website on 01/10/2020) and provisionally shortlisted have been allotted new Registration number</font></td><td><font color="#333333"> 07-07-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_HyperLink1_17" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice4.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_5_Image1_17" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Directorate of Health Services</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_6">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">List of Selected/Provisionally Selected candidates and Waitlisted candidates for the post of Pharmacist Grade III under A&N Health Department</font></td><td><font color="#333333"> 26-10-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/54_4dd100dc-b526-4fbc-b393-8a98e06d1089.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">List of Shortlisted candidates for Document Verification and related notice to the post of Pharmacist Grade III under AN Health Department</font></td><td><font color="#333333"> 21-10-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/53_52983b06-8730-4d5a-955b-772105b8de01.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Press Note of Answer keys for the post of Pharmacist Grade III</font></td><td><font color="#333333"> 15-05-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/51_48f04d83-433c-41cb-b3b3-cc116182e3ce.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">List of candidates who applied in the year 2018,2019 and 2024 for the post of Pharmacist Grade III under the Health Department</font></td><td><font color="#333333"> 22-02-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/43_43ed84d7-6b7f-4d4d-8c01-7bba36acaedc.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">The Merit List, Selection List and Wait List for the post of Health Educator under Health Department</font></td><td><font color="#333333"> 07-02-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/42_92eb7b13-5f7e-4b5d-a497-22b61e2e06a7.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">The Merit List, Selection List and Wait List for the post of Nursing Officer under Health Department</font></td><td><font color="#333333"> 31-01-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/40_4c3c8155-09d9-4644-a3e5-29189f1c20ab.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">Merit List, Selection List and Wait List for the post of ANM, Health Worker(Male) and Junior Radiographer cum-Receptionist under Health Department </font></td><td><font color="#333333"> 11-01-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/36_db3c2fc5-b755-4cce-b669-3b003c0b3c3c.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">8</font></td><td><font color="#333333">Corrigendum related to the vacancy notice dated 10.01.2024 for the post of Pharmacist Grade III under A&N Health Department</font></td><td><font color="#333333"> 11-01-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_7" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/37_a3f1ba04-0442-453a-bd32-6a3be12dc491.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_7" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">9</font></td><td><font color="#333333">Clarifications with respect to the answer key for the Computer Based Test held from 11.07.2023 to 15.07.2023 for the post of Nursing Officer under DHS</font></td><td><font color="#333333"> 13-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_8" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/27_951b10ef-fab9-49d6-9f27-539d37dcabb5.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_8" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">10</font></td><td><font color="#333333">List of provisionally shortlisted candidates for document verification for the posts of ANM (DHS/AAJVS), Health Educator, Jr. Radiographer-cum-Receptionist and Health Worker Male</font></td><td><font color="#333333"> 30-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_9" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/26_369f0f4c-4e3d-41fa-b276-75d64896d5f8.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_9" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">11</font></td><td><font color="#333333">Clarification to claims and objections received against the Answer keys for the CBT held from 11.07.2023 to 15.07.2023</font></td><td><font color="#333333"> 26-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_10" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/25_e4577c0d-5027-447a-a1aa-1fce7f735131.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_10" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">12</font></td><td><font color="#333333">Notice for Claims and objections of the Written Examination for the Post of ANM and  Jr. Radiographer-cum- Receptionist</font></td><td><font color="#333333"> 04-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_11" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/19_b623b21c-3a7a-4587-9b1a-d1522bac84fb.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_11" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">13</font></td><td><font color="#333333">List of eligible candidates for the various posts in the Directorate of Health Services and AAJVS</font></td><td><font color="#333333"> 04-07-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_HyperLink1_12" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice1.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_6_Image1_12" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Directorate of Industries</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_7">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Memorandum disposal of grievance for the post of Industries Promotion Officer</font></td><td><font color="#333333"> 08-03-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_7_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/44_e740054a-9bbe-4986-8ffc-f8657c65d4d8.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_7_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Merit list and Select list for recruitment to the post of Librarian (Group C) of Directorate of Industries, Port Blair</font></td><td><font color="#333333"> 19-01-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_7_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/39_b0b0fa37-f704-497c-8c2e-7dd4ef549527.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_7_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Directorate of Labour, Employment & Training</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_8">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Notice for Claims and objection along with Question Paper & Answer Key of the Written Examination for the Post of Labour Inspector, Department of Labour, A&N Administration held on 19-08-2023 at Andaman Law College, Port Blair</font></td><td><font color="#333333"> 31-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_8_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice12.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_8_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Notice regarding document verification for the post of Labour Inspector</font></td><td><font color="#333333"> 24-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_8_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice9.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_8_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Directorate of Social Welfare</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_9">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Revised Shortlisted and Non-Shortlisted list for the post of Mukhya Sevika in Directorate of Social Welfare</font></td><td><font color="#333333"> 24-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_9_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice10.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_9_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Shortlisted and Non-Shortlisted list for the post of Mukhya Sevika (Three
+days, i.e. 15.08.2023 & 17.08.2023 for inviting claims and objection)</font></td><td><font color="#333333"> 14-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_9_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice7.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_9_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Dr. B.R. Ambedkar Institute of Technology</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_10">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Notice regarding the written test/CBT for the post of Lab Technician (Civil/Mechanical/ECE/HM) and Instructor (Civil/Mech) of DBRAIT on 15.05.2025</font></td><td><font color="#333333"> 20-05-2025</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/66_d6dc4cad-3b82-4cf1-9d78-ac8b099f7a4d.docx" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Cancellation of Examination for the Post of Instructor (Electrical) under ST Category Scheduled on 15th May 2025</font></td><td><font color="#333333"> 09-05-2025</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/65_14bc77c5-6b81-4133-bf75-18fb8fbb34b6.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">List of eligible candidates for trade test for the post of Physical Training Instructor scheduled on 30/01/2025</font></td><td><font color="#333333"> 24-01-2025</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/63_69c622a8-5823-4f77-9786-d6fa9eb5b8f3.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">List of eligible candidates for the post of Heavy Vehicle Driver for the skill test scheduled on 22/01/2025</font></td><td><font color="#333333"> 22-01-2025</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/62_5ca2db01-5be3-4ffd-8b4b-d2a65313033c.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">Press release regarding recruitment of Group-C post of Pharmacist in the  establishment Dr B.R. Ambedkar Institute of Technology</font></td><td><font color="#333333"> 18-01-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/38_31afc24b-30eb-4a74-bccc-ea52a237ed6b.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">Rescheduling of CBT for the group-C post 'Pharmacist' in DBRAIT</font></td><td><font color="#333333"> 08-12-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/34_9bb8bd38-fc33-4e09-9abb-eb4c577aefaf.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">Final shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT</font></td><td><font color="#333333"> 30-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/32_980a37cf-275d-4ee2-a0e4-76f0dde48e68.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">8</font></td><td><font color="#333333">Schedule of skilltest - Lab Technician (Science) and Instructor (Mechanical Workshop)</font></td><td><font color="#333333"> 26-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_7" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/24_eb002730-a8f3-4408-8fbb-9fd67b1496d6.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_7" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">9</font></td><td><font color="#333333">Eligible candidate for skill test scheduled on 01/11/2023  for the post of Lab Technician (Hotel Management) and Lab Technician (Computer)  on contract basis</font></td><td><font color="#333333"> 17-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_8" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/21_20fbac92-3326-4fd6-8253-6095ccb08760.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_8" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">10</font></td><td><font color="#333333">List of candidates eligible for the skill test of the post Lab Technician(Science) and Instructor(Mechanical Workshop) in DBRAIT</font></td><td><font color="#333333"> 07-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_9" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/21_5ec75981-5b58-4266-b354-42444ba70a19.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_9" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">11</font></td><td><font color="#333333">Shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT </font></td><td><font color="#333333"> 03-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_10" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/17_a80612f5-8fed-4123-bba1-e450a6a0ebd7.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_10" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">12</font></td><td><font color="#333333">Non-shortlisted candidates for vacancy of the Group-C post 'Pharmacist' in DBRAIT</font></td><td><font color="#333333"> 03-10-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_11" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/18_4b536b6b-4695-41a3-a028-e81ebb4f5dda.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_11" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">13</font></td><td><font color="#333333">Shortlisted and Non-Shortlisted list for the post of Lab Technician (Hotel Management) and Lab Technician (Computer)</font></td><td><font color="#333333"> 24-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_12" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice8.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_12" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">14</font></td><td><font color="#333333">List of not shortlisted candidates for the post of Instructor(Mechanical Workshop) in Dr. B. R. Ambedkar Institute of Technology</font></td><td><font color="#333333"> 06-07-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_13" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice3.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_13" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">15</font></td><td><font color="#333333">List of not shortlisted candidates for the post of Lab Technician (Science) in Dr. B. R. Ambedkar Institute of Technology</font></td><td><font color="#333333"> 06-07-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_HyperLink1_14" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice2.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_10_Image1_14" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Electricity Department</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_11">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Revised list of shortlisted candidates for verification of documents / testimonial for the post of JE (Electricity Department), JE(E&M) (PBMC), Foreman (PMB) & Inspector of Factories (Labour Department)</font></td><td><font color="#333333"> 04-09-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice16.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">List of shortlisted candidates for verification of documents / testimonial for the post of JE (Electricity Department), JE(E&M) (PBMC), Foreman (PMB) & Inspector of Factories  (Labour Department)</font></td><td><font color="#333333"> 30-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice11.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Response for Claims & Objections of the candidates against the examination held for the recruitment of Junior Engineers (E & M) in June 2023</font></td><td><font color="#333333"> 14-08-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice5.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_11_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Environment & Forests</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_12">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Press release for recruitment of various Group C industrial post under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/82_d5b791e0-faf2-4f25-a47a-855c71079392.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Provisionally Eligible candidates for the post of  Assistant carpenter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/83_e56cd595-0f18-4b34-b50c-f2e525f85197.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of  Assistant carpenter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/84_db660773-3d90-498e-9645-d678d26da421.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">Provisionally eligible candidates for the post of  Assistant fitter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/85_c861a3b9-f4bc-44fa-b898-d99ae535ce2e.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of  Assistant fitter under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/86_70b8267a-67b2-40aa-ba36-079cceb469a1.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">Provisionally eligible candidates for the post of  Engine driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/87_95800367-2d97-4be9-b432-650b127cee77.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of Crane driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/88_368a2a1f-8df9-4b34-bec3-005e25a8a733.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">8</font></td><td><font color="#333333">Provisionally Eligible candidates for the post of Welder under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_7" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/89_88b85877-cd39-4760-b577-760f3f8dcc02.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_7" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">9</font></td><td><font color="#333333">Provisionally In-ligible candidates for the post of Welder under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_8" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/90_df6dc785-d703-4298-9c81-b2a239e70320.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_8" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">10</font></td><td><font color="#333333">Provisionally In-ligible candidates for the post of Engine driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_9" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/91_f011027f-97f0-485f-a651-ec19b933bbf3.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_9" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">11</font></td><td><font color="#333333">Provisionally eligible candidates for the post of fitter  under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_10" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/92_d3ec7b39-3f78-4bc1-8f1e-64a063ba8496.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_10" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">12</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of fitter  under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_11" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/93_820764c2-3e34-4611-be3d-cc9a609f14c1.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_11" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">13</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of Mason under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_12" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/94_90f9ee95-3296-43e8-ab70-ea25c73d1b28.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_12" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">14</font></td><td><font color="#333333">Provisionally eligible candidates for the post of Mason under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_13" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/95_853aade7-dbf7-41bf-a1bd-d23160966451.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_13" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">15</font></td><td><font color="#333333">Provisionally eligible candidates for the post of Oilman under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_14" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/96_846132f5-d636-4924-b071-c0bdc89e17d7.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_14" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">16</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of Oilman under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_15" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/97_8fb31d33-251e-4c4a-b174-53f72795fc82.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_15" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">17</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of Turner under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_16" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/98_63b1a0a5-4e37-4fb1-8259-942c2799973f.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_16" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">18</font></td><td><font color="#333333">Provisionally eligible candidates for the post of Turner under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_17" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/99_e765e4e0-1d8e-4547-8b35-18f74c18a3d1.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_17" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">19</font></td><td><font color="#333333">Provisionally eligible candidates for the post of Winch driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_18" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/100_7cabeb7a-4b4e-4366-8646-8bf8d2e4806d.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_18" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">20</font></td><td><font color="#333333">Provisionally In-eligible candidates for the post of Winch driver under Mill Division, Chatham, Department of Environment & Forests, Andaman & Nicobar Administration.</font></td><td><font color="#333333"> 17-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_HyperLink1_19" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/101_52957f66-bdb6-423b-a51f-201399af2457.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_12_Image1_19" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">FOREST</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_13">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Merit Result/Selection List for the Group C Post of (Industrial) Mazdoor in Middle Andaman Forest Division</font></td><td><font color="#333333"> 05-02-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_13_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/41_c6002ce7-f89f-43b4-bce1-189916e43c73.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_13_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">MGNREGA, South Andaman District</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_14">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Press note regarding the personal interview for the Post of Assistant Engineer MGNREGA, C.D Block Little Andaman under South Andaman District </font></td><td><font color="#333333"> 06-05-2025</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_14_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/64_fbe80dee-4dc3-4385-9622-d2f8e1ad2f29.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_14_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Office of the Commissioner Food Safety</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_15">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Syllabus for the the post of food safety officer, A & N Adminstration</font></td><td><font color="#333333"> 13-03-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_15_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/81_a4a9f192-a736-4760-a0ad-14f7a90395cd.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_15_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Revised answer key for the post of Food Safety Officer. </font></td><td><font color="#333333"> 16-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_15_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/28_ced8ba7b-fe77-4a2b-adc6-465cea60eec6.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_15_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Police</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_16">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Press Note – Corrigendum and Issue of Admit Card for PM&ET (ANI Police Recruitment 2024–2026)</font></td><td><font color="#333333"> 29-07-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/116_0cf8caa5-c6c1-44ad-a29f-c74fe89b792e.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Press Release-Revision of Vacancies  & Extension of Online Application Submission Date – A&N Police Recruitment 2026</font></td><td><font color="#333333"> 19-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/111_875d5de8-1f35-44bf-b52a-851014ec79fe.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</font></td><td><font color="#333333"> 09-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/110_b2f74ce7-b6b7-42d3-8283-f544c348582d.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</font></td><td><font color="#333333"> 26-05-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/105_36255c39-9bd3-49ab-b8cc-670d20d363dd.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">Press release for Extension of Online Application Submission Date – A&N Police Recruitment 2026</font></td><td><font color="#333333"> 14-05-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/104_de45fb41-b311-40a8-a9f1-7bf6eda3f55e.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">Press release for various category of Group B(NG) and Group C posts in Andaman and Nicobar Police Department.</font></td><td><font color="#333333"> 12-05-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/103_01284841-0531-4981-8c23-a5499bd596a9.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">Recruitment for various Group-(NG) and Group - C post in Andaman and Nicobar Police -2026</font></td><td><font color="#333333"> 25-04-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/102_a02bfeec-825a-41cb-b657-876a7422c42b.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_16_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">Port Blair Municipal Council</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_17">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Clarification to claims & objections of the candidates against the examination held on 04.09.2023 for the posts of Junior Engineer (Civil)</font></td><td><font color="#333333"> 17-11-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_17_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/29_d0239e68-b3e9-42ca-836c-34b9e28e0966.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_17_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="#E3EAEB">
+			<td><font color="#333333">Secretariat</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_18">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333">Revised Common Syllabus for Combined Graduate Level Examination for the posts of Junior Engineer in the Electricity Department and Junior Engineer (E&M) in APWD</font></td><td><font color="#333333"> 24-09-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/118_fe13cffe-6aec-4875-8742-9089cc9397fe.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">Press Note-Correction window for CHSL and matric level Examination </font></td><td><font color="#333333"> 31-08-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/117_77a15eb8-13ba-4012-bf20-d5d3be420868.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">3</font></td><td><font color="#333333">Extension of Last Date for Submission of Online Applications for Matric and Higher Secondary Level Posts</font></td><td><font color="#333333"> 20-07-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_2" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/114_4be28db3-a235-45d0-83ae-1618688696b4.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_2" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">4</font></td><td><font color="#333333">Due to scheduled maintenance activity, the e-recruitment Application will be temporarily unavailable on 27 June 2026 from 3:30 PM to 5:00 PM.</font></td><td><font color="#333333"> 27-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_3" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/113_bd96f5aa-ee2e-4f37-968f-02d6e363b5c3.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_3" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">5</font></td><td><font color="#333333">Press Note-Combined Higher Secondary Level Recruitment Examination (CHSLRE) 2026,Andaman & Nicobar Administration</font></td><td><font color="#333333"> 05-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_4" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/108_5f61dec1-c025-40f9-8cfa-3099684618cd.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_4" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">6</font></td><td><font color="#333333">Annexure – Combined Higher Secondary Level Recruitment Examination 2026, Andaman & Nicobar Administration</font></td><td><font color="#333333"> 05-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_5" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/109_cec1d971-54bc-470a-befa-43187519a9b4.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_5" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">7</font></td><td><font color="#333333">Press Note – Common Matriculation Level Recruitment Examination 2026, Andaman & Nicobar Administration</font></td><td><font color="#333333"> 04-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_6" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/106_4369a554-77d8-4062-8b65-87114f3c4127.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_6" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">8</font></td><td><font color="#333333">Press Note – Annexure- Common Matriculation Level Recruitment Examination 2026, Andaman & Nicobar Administration</font></td><td><font color="#333333"> 04-06-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_7" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/107_f6275225-0bdc-46c0-ac4a-9938745e0a59.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_7" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">9</font></td><td><font color="#333333">Syllabus for recruitment to various Group ‘B’ (Non-Gazetted) and Group ‘C’ posts under the Common Graduate Level (CGL) Examination</font></td><td><font color="#333333"> 02-01-2026</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_HyperLink1_8" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/67_f0581b64-b355-4fa9-8b20-3d4776112e35.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_18_Image1_8" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr><tr bgcolor="White">
+			<td><font color="#333333">SOVTECH</font></td><td><font color="#333333">
+                                    <table class="table table-bordered" cellspacing="0" cellpadding="4" id="ContentPlaceHolder2_DataGrid1_DataGrid2_19">
+				<tr bgcolor="#507CD1">
+					<td><font color="White"><b>#</b></font></td><td><font color="White"><b>Subject</b></font></td><td><font color="White"><b>Uploaded Date</b></font></td><td><font color="White"><b>&nbsp;</b></font></td>
+				</tr><tr bgcolor="#EFF3FB">
+					<td><font color="#333333">1</font></td><td><font color="#333333"> Eligible and ineligible candidates for vacancies in various posts in SOVTECH </font></td><td><font color="#333333"> 04-07-2024</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_19_HyperLink1_0" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/52_ffa74b93-8c5c-4d6b-996d-baf96ff60a25.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_19_Image1_0" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr><tr bgcolor="White">
+					<td><font color="#333333">2</font></td><td><font color="#333333">List of eligible candidates for the post of Programmer (min 2 years experience) and Programmer (Fresher) in SOVTECH</font></td><td><font color="#333333"> 01-09-2023</font></td><td align="center"><font color="#333333">
+                                                    <a id="ContentPlaceHolder2_DataGrid1_DataGrid2_19_HyperLink1_1" title="View" onclick="window.open(this.href,&#39;popupwindow&#39;,&#39;width=600,height=600,scrollbars,resizable&#39;); return false;" href="Notice/Notice14.pdf" target="_blank" style="font-weight: bold; font-family: Verdana; color: #0066CC"><img id="ContentPlaceHolder2_DataGrid1_DataGrid2_19_Image1_1" src="JS/pdfimage.jpg" width="50" /></a>
+                                                </font></td>
+				</tr>
+			</table>
+                                </font></td>
+		</tr>
+	</table>
+                        
+</div>
+
+                </div>
+            </div>
+        </section>
+
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+<footer id="footer" role="contentinfo">
+        <div class="container d-md-flex py-4">
+            <div class="me-md-auto text-center text-md-start">
+                <div class="credits">
+                    Designed by <a href="https://sovtech.andaman.gov.in/">SOVTECH</a>
+                    &nbsp;|&nbsp; Andaman &amp; Nicobar Administration
+                    <br />
+                    Site Counter:&nbsp;<span id="lblcounter" class="asp-label">05191434</span>
+                    &nbsp;|&nbsp; Last Modified:&nbsp;<span id="lbllast" class="asp-label">06 Mar, 2026</span>
+                    <br />
+                    Supports:&nbsp;
+                    <span class="bi-browser-firefox">Firefox 121.0+</span>
+                    <span class="bi-browser-chrome">Google Chrome 120.0+</span>
+                    <span class="bi-browser-safari">Safari 17.0+</span>
+                    <span class="bi-browser-edge">Edge 120.0+</span>
+                </div>
+            </div>
+            <div class="ms-md-auto text-center text-md-end mt-3 mt-md-0 d-flex align-items-center justify-content-center justify-content-md-end">
+                <a href="https://guidelines.india.gov.in/" target="_blank" rel="noopener noreferrer" title="Guidelines for Indian Government Websites - External website that opens in a new window">
+                    <img src="Assests/gigw.jpg" alt="Guidelines for Indian Government Websites Logo" style="height: 45px; width: auto; border: 1px solid rgba(255,255,255,0.15); border-radius: 4px;" />
+                </a>
+                
+                    <img src="Assests/w3c.jpg" alt="W3C" style="height: 45px; width: auto; border: 1px solid rgba(255,255,255,0.15); border-radius: 4px;" />
+                
+            </div>
+        </div>
+    </footer>
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"
+       title="Back to Top" aria-label="Back to top">
+        <i class="bi bi-arrow-up-short"></i>
+    </a>
+
+    <!-- VENDOR JS -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <script>
+        /* ── Mobile nav toggle ── */
+        var mobileToggle = document.getElementById('mobileNavToggle');
+        var navbarUl = document.getElementById('navbar-ul');
+        var toggleIcon = mobileToggle ? mobileToggle.querySelector('i') : null;
+
+        if (mobileToggle && navbarUl) {
+            mobileToggle.addEventListener('click', function () {
+                var isOpen = navbarUl.classList.toggle('open');
+                mobileToggle.setAttribute('aria-expanded', isOpen);
+                if (toggleIcon) {
+                    toggleIcon.className = isOpen ? 'bi bi-x-lg' : 'bi bi-list';
+                }
+            });
+        }
+
+        /* ── Close mobile nav when any link is clicked (including Candidate Corner) ── */
+        document.querySelectorAll('#navbar-ul a').forEach(function (a) {
+            a.addEventListener('click', function () {
+                navbarUl.classList.remove('open');
+                mobileToggle.setAttribute('aria-expanded', 'false');
+                if (toggleIcon) toggleIcon.className = 'bi bi-list';
+            });
+        });
+
+        /* ── Close mobile nav when clicking outside ── */
+        document.addEventListener('click', function (e) {
+            if (navbarUl && navbarUl.classList.contains('open')) {
+                if (!navbarUl.contains(e.target) && !mobileToggle.contains(e.target)) {
+                    navbarUl.classList.remove('open');
+                    mobileToggle.setAttribute('aria-expanded', 'false');
+                    if (toggleIcon) toggleIcon.className = 'bi bi-list';
+                }
+            }
+        });
+
+        /* ── Active nav link based on current page ── */
+        var currentPage = window.location.pathname.split('/').pop() || 'Index.aspx';
+        document.querySelectorAll('#navbar-ul a.nav-link').forEach(function (a) {
+            if (a.getAttribute('href') === currentPage) {
+                document.querySelectorAll('#navbar-ul a.nav-link').forEach(function (x) {
+                    x.classList.remove('active');
+                });
+                a.classList.add('active');
+            }
+        });
+
+        /* ── Accessibility: Font size ── */
+        var btnFontSm = document.getElementById('btnFontSm');
+        var btnFontDef = document.getElementById('btnFontDef');
+        var btnFontLg = document.getElementById('btnFontLg');
+        if (btnFontSm) btnFontSm.addEventListener('click', function () { document.documentElement.style.fontSize = '15px'; });
+        if (btnFontDef) btnFontDef.addEventListener('click', function () { document.documentElement.style.fontSize = '17px'; });
+        if (btnFontLg) btnFontLg.addEventListener('click', function () { document.documentElement.style.fontSize = '20px'; });
+
+        /* ── Accessibility: High Contrast ── */
+        var hcBtn = document.getElementById('btnHC');
+        if (hcBtn) {
+            hcBtn.addEventListener('click', function () {
+                document.body.classList.toggle('hc-mode');
+                hcBtn.classList.toggle('active');
+            });
+        }
+
+        /* ── Back to top ── */
+        var btt = document.querySelector('.back-to-top');
+        window.addEventListener('scroll', function () {
+            if (btt) btt.style.display = window.scrollY > 300 ? 'flex' : 'none';
+        });
+        if (btt) btt.style.display = 'none';
+    </script>
+
+</body>
+</html>

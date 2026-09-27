@@ -1,0 +1,10 @@
+{
+  "sourceId": "la-nuol-public-admissions",
+  "label": "entrance-portal",
+  "url": "https://entrance.nuol.edu.la/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-la-nuol-public-admissions-entrance-portal-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T22:59:26.690Z",
+  "error": "robots.txt unreachable at https://entrance.nuol.edu.la: robots.txt returned non-text content"
+}

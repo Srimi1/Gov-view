@@ -1,0 +1,68 @@
+[
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-main",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/newpage_50884.html"
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guideline-index",
+    "format": "HTML",
+    "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-undergraduate.html"
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "national-skills-system",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/ability_skill/ginoukentei/index.html"
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "foreign-trainee-system",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/shokugyounouryoku/ability_skill/ginoukentei/kisokyu.html"
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "foreign-graduate-procedures",
+    "format": "HTML",
+    "url": "https://www.mhlw.go.jp/stf/newpage_56664.html"
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-criteria-table",
+    "format": "image",
+    "url": "https://www.mhlw.go.jp/content/10800000/001448827.png"
+  },
+  {
+    "sourceId": "jp-mhlw-foreign-medical-licensing",
+    "label": "recognition-amendment",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/topics/2012/05/dl/tp0525-01_09.pdf"
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guidelines-en",
+    "format": "PDF",
+    "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_E.pdf"
+  },
+  {
+    "sourceId": "jp-mext-undergraduate-embassy",
+    "label": "2027-guidelines-ja",
+    "format": "PDF",
+    "url": "https://www.studyinjapan.go.jp/en/_mt/2026/04/2027_Guidelines_Undergraduate_J.pdf"
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "trainee-overview-2021",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/content/000765976.pdf"
+  },
+  {
+    "sourceId": "jp-mhlw-skills-certification",
+    "label": "trainee-notes-current-link",
+    "format": "PDF",
+    "url": "https://www.mhlw.go.jp/content/001078400.pdf"
+  }
+]

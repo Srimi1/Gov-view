@@ -1,0 +1,333 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 86,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-ntpc-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-ntpc-careers",
+        "name": "NTPC Limited recruitment",
+        "country": "IN",
+        "authority": "NTPC Limited",
+        "homepage": "https://careers.ntpc.co.in/recruitment/",
+        "discoveredFrom": "https://ntpc.co.in/node/266",
+        "notes": "NTPC Limited employer recruitment is separate from RRB NTPC exams. Assistant Officer (Corporate Communication) 12/26 lists applications 21 September–5 October 2026, with cutoff hour/timezone unknown. Original advertisement unread; international-applicant permission, qualifications, tenure and language level need verification. English/Hindi document versions do not establish proficiency. Results, corrections and explicit administrative closures share the archive; old Open labels do not establish current intake.",
+        "accessGap": "Reader returned 403 for recruitment portal; ordinary browser rendered index. Advertisement 12/26 PDF frame blocked by Chrome and reader could not access embedded document. Exact originals/amendments, nationality, language, tenure, inventory and permitted collection remain unaccepted. No state scopes inferred from project footprint.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://ntpc.co.in/node/266",
+          "type": "official-employer-referral",
+          "observationMethod": "web-reader",
+          "summary": "Employer recruitment index links directly to careers.ntpc.co.in; archive includes current and historical advertisements.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://careers.ntpc.co.in/recruitment/",
+          "type": "public-recruitment-index",
+          "observationMethod": "ordinary-browser",
+          "sampleId": "12/26",
+          "summary": "Assistant Officer (Corporate Communication), application dates 21 September–5 October 2026, date precision only; cutoff hour and governing timezone unknown. English/Hindi detailed advertisements linked, original unread. Separate 3/26 selection explicitly closed for administrative reasons on 29 April; do not infer cancellation from page disappearance. Older rows labeled Open have past deadlines; labels alone do not establish active intake.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-dependent",
+        "value": null,
+        "note": "Index explicitly labels some other advertisements fixed term. Assistant Officer 12/26 tenure unknown; do not transfer other editions' terms."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "No original 12/26 nationality rule read. Secondary Indian-national claims are not accepted evidence. Age, residence, qualifications and nationality remain separate."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "namedLanguage": null,
+        "standardizedLevel": null,
+        "note": "English and Hindi advertisement versions are document languages; no verified applicant proficiency or examination-medium rule for 12/26."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "bm-public-service-careers",
+      "country": "BM",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "bm-public-service-careers",
+        "name": "Bermuda Public Service careers",
+        "country": "BM",
+        "authority": "Government of Bermuda — Public Service recruitment",
+        "homepage": "https://govtcareers.gov.bm/",
+        "discoveredFrom": "https://www.gov.bm/careers-public-service",
+        "notes": "Sample Crown Counsel DHR04040 is permanent and closes 7 October 2026; current portal labels cutoff 19:00 Bermuda time/AST. Commonwealth-jurisdiction barrister/attorney qualification plus Bermuda Bar eligibility is required; professional qualification is not citizenship permission. Foreign-applicant work rights and experience wording need review. Verbal/written communication is qualitative, with no named language or formal level. BM remains separate from UK-country sources.",
+        "accessGap": "Reader portal/details unavailable; ordinary browser rendered listings and Crown Counsel detail after initial navigation abort. Full inventory, overseas-applicant permissions, immigration, professional eligibility and collection terms require review. General private-sector job board and historical police recruitment are separate scopes.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.bm/careers-public-service",
+          "type": "government-referral",
+          "observationMethod": "web-reader",
+          "summary": "Public-service page updated 25 May 2026 directs current recruitment to govtcareers.gov.bm.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://govtcareers.gov.bm/",
+          "type": "public-recruitment-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Twelve displayed search results across two pages, not accepted distinct-cycle total. Current external portal specifies 19:00 Bermuda time, labelled AST/Atlantic Standard Time, on stated closing date. IANA zone mapping not normalized or accepted; do not silently replace printed zone with inferred daylight-saving rules.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://govtcareers.gov.bm/details.html?jobId=6931&jobTitle=CROWN%20COUNSEL",
+          "type": "public-vacancy-detail",
+          "observationMethod": "ordinary-browser",
+          "sampleId": "DHR04040 / jobId 6931",
+          "summary": "Crown Counsel, Attorney General's Chambers, permanent, closes 7 October 2026. Commonwealth-jurisdiction legal qualification plus Bermuda Bar eligibility required; five years' experience wording refers to qualifying to practise in Bermuda and needs interpretation. Qualitative verbal/written skills; no formal level. Nationality and work-right permission unknown.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.bm/files/media-library/20260413/18c8db29-your_guide_to_careers_in_public_service.pdf",
+          "type": "general-careers-guide",
+          "observationMethod": "web-reader",
+          "summary": "General career examples target Bermudians and describe education/skills, not current vacancy-specific foreign-citizen permissions. Scholarship sections are separate admission pathways; original bytes not retained.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-specific",
+        "value": "permanent",
+        "note": "Crown Counsel DHR04040 explicitly Permanent; do not extrapolate across public service."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "Sample accepts qualifying barrister/attorney credentials from a Commonwealth jurisdiction, subject to Bermuda Bar eligibility. This is not a citizenship rule or proof of work permission."
+      },
+      "languageAssessment": {
+        "status": "qualitative-only",
+        "namedLanguage": null,
+        "standardizedLevel": null,
+        "note": "Crown Counsel requires strong oral/written communication and clear legal drafting; no named language or CEFR/IELTS threshold stated."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "ky-civil-service-careers",
+      "country": "KY",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "ky-civil-service-careers",
+        "name": "Cayman Islands Civil Service careers",
+        "country": "KY",
+        "authority": "Cayman Islands Government — Civil Service",
+        "homepage": "https://careers.gov.ky/application/login/login.aspx?ReturnUrl=%2F",
+        "discoveredFrom": "https://www.chrc.gov.ky/employment",
+        "notes": "Official overseas FAQ describes a civil-service route without a visa/work permit to apply and residency through employment agreement during employment; role criteria and applicable appointment conditions still need verification. This does not establish permission for every role or separate SAGC employers. Communications Officer 2026-593 closes 29 September 2026, hour/timezone unknown. Full-Time is schedule, not permanent tenure; job description and formal language level unreviewed. Public listings need no account. KY separate from UK-country sources.",
+        "accessGap": "Current sample detail uses session-driven page with no unique permalink; requisition ID must identify evidence. Communications Officer job-description attachment not opened or retained. Role qualifications, nationality preferences, tenure, formal language and applicable appointment/residency conditions require review; FAQ does not establish eligibility for every post or SAGC employer.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.chrc.gov.ky/employment",
+          "type": "government-agency-referral",
+          "observationMethod": "web-search-index",
+          "summary": "Cayman Islands Constitutional Human Rights Commission employment page refers government recruitment to careers.gov.ky. Primary .gov.ky portal independently identifies Cayman Islands Government Civil Service.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://careers.gov.ky/application/login/login.aspx?ReturnUrl=%2F",
+          "type": "public-listing-and-session-detail",
+          "observationMethod": "web-reader-and-ordinary-browser",
+          "sampleId": "2026-593",
+          "summary": "Communications Officer, Ministry of Youth, Sports, Culture and Heritage, Grand Cayman; Full-Time; closes 29 September 2026, hour/timezone unknown. Public detail describes operational/creative communications support. Job Description is a separate attachment, not inspected. Identical job titles with different requisition IDs/employers must not be merged automatically. Work location is not an examination venue.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://careers.gov.ky/application/custom/English/index.html",
+          "type": "official-overseas-applicant-faq",
+          "observationMethod": "web-reader",
+          "summary": "Overseas FAQ gives civil-service visa/work-permit and employment-agreement residency guidance. Fixed-term renewals discretionary. Separate application needed for each advertised role; SAGC jobs separate. Neither FAQ nor sample clears personalized application, selection or appointment.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "value": null,
+        "note": "Communications Officer 2026-593 index says Full-Time, which only establishes schedule; tenure unknown."
+      },
+      "internationalApplicantAssessment": {
+        "status": "conditional-general-route",
+        "note": "Official overseas FAQ states civil servants need no visa/work permit to apply and employment agreement confers residency during employment, including eligible accompanying dependents. Scope limited to civil-service employment; role criteria and current appointment conditions remain unverified."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "namedLanguage": null,
+        "standardizedLevel": null,
+        "note": "Communications duties and English interface do not establish a formal language requirement; job-description original unreviewed."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "vg-public-service-careers",
+      "country": "VG",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "vg-public-service-careers",
+        "name": "British Virgin Islands Public Service careers",
+        "country": "VG",
+        "authority": "Government of the Virgin Islands — Department of Human Resources",
+        "homepage": "https://govvg.taleo.net/careersection/gbvijoblistext/joblist.ftl?lang=en&portal=101430233",
+        "discoveredFrom": "https://gov.vg/service-details/government-employment-opportunities",
+        "notes": "Government HR prioritizes citizens/legal residents; non-residents may apply for specialist skills unavailable locally only where notice permits. Teacher Grade IV (English) 42075 has no explicit non-resident permission; degree, teaching certificate and five-year classroom experience remain independent. Full-time is schedule, not tenure. English teaching subject and qualitative communication do not establish a formal level. List/detail closing dates differ; timezone unresolved. VG is British Virgin Islands, separate from VI and UK-country records.",
+        "accessGap": "Reader Taleo page rendered placeholders; ordinary browser displayed jobs/detail. Teacher 42075 list/detail posting and closing dates differ; displayed times have no confirmed governing zone. Session detail lacks unique URL, so requisition ID needed. Sample has no explicit non-resident permission. Tenure, originals, complete inventory and collection terms unaccepted.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://gov.vg/service-details/government-employment-opportunities",
+          "type": "government-hr-guidance-and-referral",
+          "observationMethod": "web-reader",
+          "summary": "Official service page links hosted public-service portal; prioritizes citizens/legal residents and allows specified specialist non-resident routes when notice permits. Internal vacancies for serving officers and statutory agencies are separate.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://govvg.taleo.net/careersection/gbvijoblistext/joblist.ftl?lang=en&portal=101430233",
+          "type": "public-recruitment-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Portal displayed 25 jobs, not accepted distinct-cycle total. Teacher Grade IV (English), requisition 42075, list posting 23 September and closing 7 October 2026. Ordinary-browser detail instead displays posting 24 September 02:03:35 and closing 8 October 09:29:00; display/timezone interpretation unresolved, no accepted deadline instant.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://govvg.taleo.net/careersection/gbvijoblistext/jobdetail.ftl",
+          "type": "session-dependent-public-vacancy-detail",
+          "observationMethod": "ordinary-browser",
+          "sampleId": "42075",
+          "summary": "Teacher Grade IV (English), Tortola, secondary education, Full-time. Education/related degree, teaching certificate and five years' classroom experience; qualitative communication. Job title does not establish formal English level. Non-resident permission and tenure unknown. URL alone does not restore specific requisition; identity depends on 42075.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "value": null,
+        "note": "Teacher Grade IV (English) 42075 Full-time schedule, permanent/fixed-term tenure unknown."
+      },
+      "internationalApplicantAssessment": {
+        "status": "conditional-general-route",
+        "note": "Government guidance prioritizes citizens/legal residents. Non-residents may apply for specialist skills unavailable locally only where notice indicates permission. Teacher 42075 notice inspected contains no such explicit permission; nationality, residence and qualifications cannot substitute for one another."
+      },
+      "languageAssessment": {
+        "status": "qualitative-only",
+        "namedLanguage": null,
+        "standardizedLevel": null,
+        "note": "Teacher 42075 English is subject title; excellent oral/written communication qualitative, no CEFR/IELTS threshold verified."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

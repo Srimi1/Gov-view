@@ -1,0 +1,320 @@
+{
+  "sourceId": "in-mz-recruitment",
+  "collectedAt": "2026-09-24T21:53:00.015Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 26/2026-27",
+      "programme": "Peon (PE)",
+      "status": "uncertain",
+      "statusNote": "Official notice lists future application deadline. Opening date and live form status require founder review.",
+      "scopeLabel": "Mizoram Public Service Commission direct recruitment; nationality and domicile conditions require service-rule review",
+      "outcome": "Peon (PE) appointment (3 posts; one position reserved for a person with benchmark disability)",
+      "qualifications": "Class VIII certificate or above from a recognized institution (advertisement page 1).",
+      "citizenshipRule": "Nationality and international-applicant permission are not stated in the retained advertisement or language notice. Verify the cited recruitment rules before deciding whether a foreign citizen may apply.",
+      "residenceRule": "Mizoram hiring scope does not establish an applicant domicile rule. Verify the cited recruitment rules and any reservation conditions.",
+      "selectionStages": [
+        "Direct Recruitment Examination; examination syllabus is linked in the advertisement. Exact stages and examination venue require review.",
+        "Mizo Language Proficiency qualifying test unless stated Class-X/MIL exemption applies."
+      ],
+      "fee": "Persons with disabilities are exempt from application fees; general fee amount is not stated in the retained notice (advertisement page 4).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-01",
+        "languages": [
+          {
+            "language": "lus",
+            "requirement": "Pass government-prescribed Mizo Language Proficiency qualifying test; exempt if Mizo was studied at Class X or above in Mizoram or as MIL outside Mizoram. Numerical pass mark and CEFR level not stated in these notices.",
+            "stage": "selection",
+            "evidence": "Advertisement 26/2026-27, Mizo Language Proficiency clause; MPSC 13 June 2024 qualifying-test notification, page 1.",
+            "sourceUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality, any residence rules and age 18–35 on 1 August 2026 with applicable SC/ST or government-notified relaxations (advertisement pages 1–2)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify recognized Class VIII certificate and required document uploads by application deadline (pages 1–2)."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Mizo qualifying-test result or Class-X/MIL exemption and documentary evidence; notice gives no numerical pass mark (advertisement and 2024 notification)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination venue not published in retained advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://mpsconline.mizoram.gov.in/",
+      "changes": [],
+      "id": "mizoram-psc-2026-26-peon",
+      "sourceId": "in-mz-recruitment",
+      "title": "Peon (PE)",
+      "authority": "Mizoram Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MZ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-13",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Advertisement 26/2026-27, page 1, says applications can be submitted until 4:00 PM. It does not print a timezone; Asia/Kolkata is local Aizawl time. Archive notification date does not establish opening date."
+      },
+      "salary": "Pay Matrix Level 1 (advertisement page 1).",
+      "sources": [
+        {
+          "id": "in-mz-recruitment:7dbd3a9fc98f",
+          "title": "MPSC 2026-27 advertisement archive",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+          "sha256": "fd4019aabf8275e3990956b109551c560f6ca11155c8052a903749efccba29c7",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:01.847Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:f56421cb8cce",
+          "title": "MPSC corrigendum/addendum register",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+          "sha256": "8a79acda99c4707616ae2971523f6e30ea20a0dbfa333e528bb7e96879e4474e",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:02.762Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:dde3649730c4",
+          "title": "Advertisement 26/2026-27: Peon (PE)",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf",
+          "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:04.418Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:ddad59dc55cf",
+          "title": "Mizo Language Proficiency qualifying-test notification, 2024",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+          "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:03.465Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 25/2026-27",
+      "programme": "Lower Division Clerk (LDC)",
+      "status": "uncertain",
+      "statusNote": "Official notice lists future application deadline. Opening date and live form status require founder review.",
+      "scopeLabel": "Mizoram Public Service Commission direct recruitment; nationality and domicile conditions require service-rule review",
+      "outcome": "Lower Division Clerk (LDC) appointment (4 posts)",
+      "qualifications": "Higher Secondary School Leaving Certificate, recognized Diploma/Certificate Course in Computer Application, typing speed 30 words per minute and prescribed computer proficiency (advertisement pages 1–2).",
+      "citizenshipRule": "Nationality and international-applicant permission are not stated in the retained advertisement or language notice. Verify the cited recruitment rules before deciding whether a foreign citizen may apply.",
+      "residenceRule": "Mizoram hiring scope does not establish an applicant domicile rule. Verify the cited recruitment rules and any reservation conditions.",
+      "selectionStages": [
+        "Direct Recruitment Examination; examination syllabus is linked in the advertisement. Exact stages and examination venue require review.",
+        "Mizo Language Proficiency qualifying test unless stated Class-X/MIL exemption applies."
+      ],
+      "fee": "Persons with disabilities are exempt from application fees; general fee amount is not stated in the retained notice (advertisement page 4).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-01",
+        "languages": [
+          {
+            "language": "lus",
+            "requirement": "Pass government-prescribed Mizo Language Proficiency qualifying test; exempt if Mizo was studied at Class X or above in Mizoram or as MIL outside Mizoram. Numerical pass mark and CEFR level not stated in these notices.",
+            "stage": "selection",
+            "evidence": "Advertisement 25/2026-27, Mizo Language Proficiency clause; MPSC 13 June 2024 qualifying-test notification, page 1.",
+            "sourceUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality, any residence rules and age 18–35 on 1 August 2026 with applicable SC/ST or government-notified relaxations (advertisement pages 1–2)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify HSSLC, computer-application certificate, 30 wpm typing, computer proficiency and required uploads by application deadline (pages 1–3)."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Mizo qualifying-test result or Class-X/MIL exemption and documentary evidence; notice gives no numerical pass mark (advertisement and 2024 notification)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination venue not published in retained advertisement"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://mpsconline.mizoram.gov.in/",
+      "changes": [],
+      "id": "mizoram-psc-2026-25-ldc",
+      "sourceId": "in-mz-recruitment",
+      "title": "Lower Division Clerk (LDC)",
+      "authority": "Mizoram Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MZ"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-12",
+        "cutoffLocalTime": "16:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Advertisement 25/2026-27, page 1, says applications can be submitted until 4:00 PM. It does not print a timezone; Asia/Kolkata is local Aizawl time. Archive notification date does not establish opening date."
+      },
+      "salary": "Pay Matrix Level 4 (advertisement page 1).",
+      "sources": [
+        {
+          "id": "in-mz-recruitment:7dbd3a9fc98f",
+          "title": "MPSC 2026-27 advertisement archive",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+          "sha256": "fd4019aabf8275e3990956b109551c560f6ca11155c8052a903749efccba29c7",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:01.847Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:f56421cb8cce",
+          "title": "MPSC corrigendum/addendum register",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+          "sha256": "8a79acda99c4707616ae2971523f6e30ea20a0dbfa333e528bb7e96879e4474e",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:02.762Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:a7854e38ea0b",
+          "title": "Advertisement 25/2026-27: Lower Division Clerk (LDC)",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf",
+          "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:05.387Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-mz-recruitment:ddad59dc55cf",
+          "title": "Mizo Language Proficiency qualifying-test notification, 2024",
+          "authority": "Mizoram Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+          "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c",
+          "lastSuccessfulFetchAt": "2026-09-24T21:53:03.465Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://mpsc.mizoram.gov.in/page/advertisement-2026-2027",
+      "fetchedAt": "2026-09-24T21:53:01.847Z",
+      "sha256": "fd4019aabf8275e3990956b109551c560f6ca11155c8052a903749efccba29c7",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1452367
+    },
+    {
+      "url": "https://mpsc.mizoram.gov.in/page/corrigendumaddendum",
+      "fetchedAt": "2026-09-24T21:53:02.762Z",
+      "sha256": "8a79acda99c4707616ae2971523f6e30ea20a0dbfa333e528bb7e96879e4474e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1430703
+    },
+    {
+      "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2024/07/52ea207563543b0339fa1815438dadbb/notification-mizo-language-proficiency-qualifying-test-for-all-direct-recruitment-examinations.pdf",
+      "fetchedAt": "2026-09-24T21:53:03.465Z",
+      "sha256": "84116ed127e1079925fb88b19fd8a94114f4e564e87aedb48b96bc87537d6c7c",
+      "contentType": "application/pdf",
+      "bytes": 895209
+    },
+    {
+      "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/a9a8a87b7b07a57b38320c2d4cc679e8/advertisement-no26-of-2026-27-peon-under-mpsc.pdf",
+      "fetchedAt": "2026-09-24T21:53:04.418Z",
+      "sha256": "24d49c402f66923a6417411d36ce668d651d24a8ff5c310db79bd2f831117c4b",
+      "contentType": "application/pdf",
+      "bytes": 672462
+    },
+    {
+      "url": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/09/17dca86bb7be076440b21bddde555703/advertisement-no25-of-2026-27-lower-divisional-clerkldc-under-mpsc.pdf",
+      "fetchedAt": "2026-09-24T21:53:05.387Z",
+      "sha256": "f1f333c7328f910c8012bcabc345f66c63675cc23a9dc1f9c5d3ad2417c64769",
+      "contentType": "application/pdf",
+      "bytes": 677080
+    }
+  ],
+  "warnings": [
+    "Only two current MPSC post advertisements are document-bound in this pilot; other Mizoram notices and authorities remain gaps.",
+    "Neither advertisement states nationality, domicile, application opening date or a numerical Mizo test pass mark. International eligibility and live form status require founder review.",
+    "The general fee amount, detailed exam stages and venues are not established by these PDFs."
+  ],
+  "approvalRevisions": {
+    "mizoram-psc-2026-26-peon": {
+      "evidenceRevision": "1555cbc7d4b5a7995acb174f22ba1e9288063e0196b3f5f5666740df1c70eea7",
+      "recordRevision": "aa307117212f86ca63eadaa3aed51950ad87f92d2ba36dd44e7877718ec5f7ce"
+    },
+    "mizoram-psc-2026-25-ldc": {
+      "evidenceRevision": "cabf970649351a0947857b40de1c7a0d1c69c4ae8fb6fbc757472577498b1cad",
+      "recordRevision": "9aade6c485b09b36d5d76d0ff9aa618f157180ba95e6527ef61ba572a8c01c6c"
+    }
+  }
+}

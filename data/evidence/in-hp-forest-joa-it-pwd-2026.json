@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://hpforest.gov.in/recruitments",
+  "fetchedAt": "2026-09-25T15:30:22.385Z",
+  "sha256": "b3fe65590624e4d915e9af260d3ab149a8102d668e615365a0dfb7caba0c4765",
+  "bytes": 162220,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://hpforest.gov.in/storage/files/1/pdf/Recreuitment/JOA%20IT%20PWD.pdf",
+  "fetchedAt": "2026-09-25T15:30:25.012Z",
+  "sha256": "0328e194ae8c610800703642233bb5f37052bbdc409660b8151524e850fb33ce",
+  "bytes": 1476903,
+  "contentType": "application/pdf"
+ }
+]

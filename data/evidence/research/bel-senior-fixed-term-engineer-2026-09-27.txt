@@ -1,0 +1,480 @@
+                             BHARAT ELECTRONICS LIMITED
+                            Jalahalli Post, Bengaluru - 560013
+              (A Government of India Enterprise under the Ministry of Defence)
+
+Advertisement No. BGEM/2627/09/01                    Date of Release of Advertisement: 09.09.2026
+
+Bharat Electronics Limited, a Navratna Company and India’s premier Professional Electronics
+company under the Ministry of Defence, requires professionals for the post of Senior
+Engineer on Fixed Term Basis (for a period of 5 years) for its Export Manufacturing - SBU in
+Bangalore Complex.
+
+                                                                                 Upper age Experience
+ Post                     No of                   Post /                                               Location of
+           Discipline               Domain                 Reservation Pay Scale limit as on   as on
+ Code                     Post                    Grade                                                  Posting
+                                                                                 01.08.2026 01.08.2026
+                                  Database and
+                                                                                             04 Years
+EMCS01 Computer Science    5        Software
+                                                                                               Post
+                                  Development
+                                                               UR - 5                       Qualificatio
+                                   Embedded       Senior                  Rs 50000 -
+                                                            OBC (NCL) - 4                        n
+EMEC02     Electronics     5         System      Engineer                  3% - Rs 35 Years              Bangalore
+                                                               SC - 2                       Experience
+                                  Development     / E - III                 160000
+                                                               ST - 1                         in the
+                                    3D Visual
+                                                                                             relevant
+EMCS03 Computer Science    2        Software
+                                                                                               field
+                                  Development
+
+PAY & ALLOWANCES: Selected candidates will be inducted in the pay scale of Rs 50000 - 3%
+- Rs 160000. In addition to Basic Pay, other allowance like Dearness Allowance, House Rent
+Allowance, Conveyance Allowance, Perquisites at the rate of 35% on annual basic pay,
+Performance related Pay, reimbursement of medical expenses, Group Insurance, PF,
+Pension, Gratuity(if applicable) etc. as per Company rules will be a part of remuneration
+package.
+
+TENURE OF ENGAGEMENT FOR FIXED TERM ENGINEER:
+The tenure of engagement shall be for a period of 05 years, extendable by 02 years, the
+tenure of engagement shall be reviewed for extension solely based on individual
+performance and project requirements on completion of 05 years.
+
+UPPER AGE LIMIT:
+          Category                                    Upper Age Limit as on 01.08.2026
+             UR                                                   35 Years
+
+RELAXATION OF UPPER AGE LIMIT:
+ S No                         Category                                                  Age Relexation
+   1  Other Backward Classes (Non-Creamy Layer)                                            3 Years
+   2  Scheduled Caste/Scheduled Tribe                                                      5 Years
+      Persons with Benchmark Disability (PwBD) having minimum
+   3                                                                                        10 Years
+      40% disability
+                                                                                     As per Government
+  4      Ex - Servicemen
+                                                                                         guidelines
+
+The upper age limit specified is applicable to General Category candidates. The EWS / Caste
+/ Disability Certificate should be strictly in the format available on the BEL website failing
+
+                                                                                                    Page 1 of 9
+which, candidates will be considered under General category, provided they are otherwise
+meeting all criteria stipulated for General Candidates.
+
+For Candidates belonging to Persons with Disability (PwBD) category having minimum 40%
+disability will get 10 (ten) years relaxation in addition to the relaxation applicable to
+SC/ST/OBC(NCL) mentioned above. Relaxation will be extended as per Government
+guidelines in respect of Ex - Servicemen.
+
+EDUCATIONAL QUALIFICATION:
+Full Time B E / B Tech / BSc Engineering (4 Years Course) from AICTE approved Colleges /
+Institutions or a recognized University.
+
+              Electronics/ Electronics & Communication/ Electronics & Telecommunication/
+Electronics   Telecommunication/ Communication / Electronics & Instrumentation/ Electrical &
+              Electronics
+ Computer Computer Science / Computer Science & Engineering / Computer Science
+  Science     Engineering / Information Technology/ Information Science & Engineering
+Minimum Percentage of Marks in BE / B Tech / BSc Engineering (4 Years Course)
+General / OBC / EWS                           60 %
+SC / ST / PwBD                                50 %
+Method of conversion of CGPA to percentage has to be indicated in the application form
+Applicants whose discipline/ specialisation mentioned in their Degree Certificates do not tally
+with the discipline/ specialisation prescribed in the advertisement will not be considered for
+selections.
+
+POST QUALIFICATION EXPERIENCE (as on 01.08.2026):
+Should have minimum 04 Years of post qualification experience. Candidates should have
+worked in / possess expertise in the areas specified below.
+
+A. DATABASE & SOFTWARE DEVELOPMENT:
+
+Role : Database Admin
+Experience & Knowledge in
+    Should possess Microsoft SQL Certification
+    Database Architecture Design
+    Database Objects Management and Maintenance
+    ETL Development Processes
+    Dashboard Development
+    Data Analysis Strategies Data Governance
+    Performance Optimization and Tuning
+    Business Intelligence Predictive Analytics
+    Statistical Analysis Methods
+    Data Visualization
+    MSSQL, ORACLE SQL, Postgresql and PL/SQL development
+    HTML and CSS.
+
+Role : Full Stack Java Developer
+Experience & Knowledge in
+    Java Developer with React UI knowledge for both Web Based Application and
+        Standalone application
+
+                                                                                 Page 2 of 9
+      Java Web based Applications
+      Interface Programming with various hardware such as serial port, CROs, verniers, etc
+      DTOs, database handling and programming.
+      Predictions and data analysing methodologies
+      APIs integration with REACT UI
+      Version control
+      Full Stack Development
+
+Role : REACT UI Developer
+Experience & Knowledge in
+    React UI based Web based Applications
+    Plugins Interface Programming with various hardware such as serial port, etc
+    Java API integration.
+    UI and Dashboard development
+    Version control
+    C# programming
+
+B. EMBEDDED SYSTEM DEVELOPMENT:
+
+Role : Medical Electronics System Development
+Experience & Knowledge in
+    Digital / Analog circuit designs, Development, testing and Integration.
+    Embedded Software and firmware development
+    Embedded control systems hardware and software development for 32bit or high
+       speed micro controller (Communication protocols like UART, SPI, I2C, RS232, RS485,
+       Ethernet)
+    Medical Electronics devices Design, development, qualification and documentation
+    Medical standards ISO 13485, IEC60601-1, IEC 60601-1-2, CDSCO requirements, FDA,
+       CE and regulatory requirements
+    EMI/EMC tests and design for its compliance.
+    Power supply designs: DC- DC converters (Buck/Boost/LDOs).
+    Testing, Integration, Qualification, Clinical trials to ensure product safety and efficacy
+    Coordination with Cross functional teams
+
+Roles: Embedded System Development & Design For EVM Related Products
+Experience & Knowledge in
+    Hardware design and development of 32 bit or above high-speed micro-
+       controllers/microprocessors-based designs
+    Comprehension of Embedded Hardware Architectures and peripherals
+    Familiarity with hardware testing tools and methodologies
+    Understanding of sensor technologies, actuators, and relay control circuits
+    Problem-solving and circuit troubleshooting skills
+    High-speed embedded design
+    Various protocols including RS232, RS485, SPI, USB, CAN, ZigBee, Wi-Fi, BLE
+    High speed microcontroller/microprocessor Hardware platforms from different
+       OEMs
+    Embedded C and/or Python for microcontroller programming.
+    Manufacturing Processes, International Electrotechnical Commission (IEC) standards
+       applicable for EMI/EMC and ESS
+    Vibration, bump, shock and drop test
+
+                                                                                     Page 3 of 9
+      Analog and power supply design and development
+      Generation of schematics, High-speed PCB Layout design
+      Embedded Firmware development
+      Working with Arduino, Raspberry Pi or similar development boards.
+      Design documentation and generation of production documents Product
+       qualification
+
+C. 3D VISUAL SOFTWARE DEVELOPMENT:
+
+Roles: 3D Visual Software Developer
+Experience & Knowledge in
+    Unity3D and/or Unreal Engine with C# scripting
+    Photoshop
+    Illustrator
+    After Effects and Exposure to Virtual Reality environment
+    3D Programming
+
+Note 1: Teaching/Academic/Apprenticeship/ Research work will not be considered as
+relevant post qualification industrial experience, experience in banking and financial
+institutions, non-profit organisations and internship placements which are a part of
+academic curriculum will not be considered as experience. Work experience prior to
+completion of BE/B.Tech/ BSc Engineering (4 Years Course) will also not qualify as post
+qualification experience. Candidates possessing Industrial experience only need to apply.
+
+Note 2: The Trainee Engineers, Project Engineers, Fixed Term Engineers who are currently
+working in BEL prior intimation shall be given to the respective HR Department of the
+Unit/SBU/CSG where the engineer is working and the same shall be produced at the time of
+written test / interview. Lateral application for the same post is not permitted i.e., Fixed
+Term Engineers in E-III Grade who are presently working in any of the Unit of BEL is not
+eligible to apply. If applied, the application will be summarily rejected without assigning any
+reasons.
+
+Note 3: The candidates should be willing to travel extensively across the country based on
+the project requirement. Candidates may be posted anywhere in India at any point of time.
+Hence, candidates who are desirous of applying should be willing to relocate based on the
+project requirement across India.
+
+METHOD OF SELECTION:
+1. The candidates meeting the qualifying criteria and whose online applications have been
+   accepted will be provisionally shortlisted for the Written Test.
+
+2. Candidates who meet the qualifying criteria and whose online applications are accepted
+   will be sent an SMS and e-mail. They are required to log on to the BEL website and enter
+   their credentials to access and download their Call Letter for Written Test.
+
+3. Candidates are required to print the call letter and comply with the instructions
+   indicated therein. Please note that call letters will not be sent through e-mail or through
+   conventional mail.
+
+
+
+
+                                                                                     Page 4 of 9
+4. Selection will be through a Written Test for candidates who meet the eligibility criteria
+   followed by an Interview, only for those candidates who qualify in the Written Test.
+   Candidates will be shortlisted for interview in the order of merit in the ratio 1:7.
+
+5. The assessment weightage will be 85% and 15% for written test and Interview
+   respectively. The eligible candidates will be required to appear for written test for 85
+   marks.
+
+6. Obtaining minimum qualifying marks in the written test does not confer any right or
+   claim by the candidate for being shortlisted for the interview, as the same is related to
+   number of positions, reservation position, marks scored and subject to meeting the
+   eligibility criteria. Candidates passing the written test will be shortlisted for Personal
+   Interview based on the performance in the written test in the ratio of 1:7. The results of
+   the written test will be made available in our website www.bel-india.in. Candidates are
+   advised to visit the website for updates.
+
+7. The date of written test and interview shall be intimated by SMS and E Mail to the
+   shortlisted candidates.
+
+8. The Written Test will be at Bengaluru only.
+
+HOW TO APPLY:
+1. Candidates are advised to carefully read the full advertisement for details of eligibility
+   criteria and selection modalities before applying.
+
+2. Candidates who are fulfilling the eligibility criteria and desirous of applying for the above
+   posts are required to apply online through the link
+
+        https://jobapply.in/BEL2026JALAHALLIEXPORT
+
+   provided against the advertisement Recruitment of Senior Engineers (E-III) for Export
+   Manufacturing – SBU.
+
+3. Online Link for Registration will be available from 09.09.2026 to 29.09.2026. The
+   Candidates who have NOT registered online will not be allowed to appear for the
+   selection process
+
+  S No                                       Activity                                  Date
+          Commencement of On - Line registration of application by
+    1                                                                               09.09.2026
+          candidates
+          Last date for On - Line registration & submission of application by
+    2                                                                               29.09.2026
+          candidates
+
+4. Candidates are required to fill the necessary fields in the online application form by
+   accessing the URL Link provided on the website, pay the requisite fees (if applicable) and
+   submit the application form. After completing the online registration, the candidates are
+   required to print the filled in application form.
+
+5. Only one application should be submitted by a candidate for any particular post. In case
+   of multiple applications for one post by any candidate only the latest valid (completed)
+
+                                                                                      Page 5 of 9
+   application of that candidate will be considered and retained as final application and the
+   Application Fee & other charges paid for the other multiple application(s) will stand
+   forfeited.
+
+6. Candidates are required to read all the instructions given in the advertisement and enter
+   all information correctly in the online application forms and verify the same before
+   submission, as changes shall not be permitted after submission.
+
+7. Kindly note that the Written Test / Interview for all the job codes will be conducted on
+   the same day. Therefore candidates are requested to choose to apply only for one job
+   code.
+
+PAYMENT OF APPLICATION FEE:
+1. General / EWS / OBC candidates are required to remit an amount of Rs. 472/ (Rs 400 +
+   18% GST) towards application fee through SBI Collect (through online mode). SC/ ST /
+   PWD and Ex Servicemen candidates are exempted from payment of application fee.
+2. Candidates are requested to read the details and screenshots for making the payment
+   which is provided in the advertisement. Candidates may make the payment by clicking
+   on the link provided in the advertisement.
+
+    https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=14842
+
+3. Candidates have to mention the “SBI Collect Reference Number.” generated after
+   making payment, in the Application Form.
+4. Candidates may go through all instructions and eligibility criteria carefully before
+   remitting Application Fee and submitting the application. Fee once paid will not be
+   refunded by the Company / Bank to candidates.
+5. Candidates may take note that no cheque, DD or cash will be accepted towards payment
+   of application fee.
+6. While paying application fees through SBI collect, candidates should ensure that they
+   mention the same mobile number and email id in SBI collect as has been mentioned by
+   them in the application form.
+
+INSTRUCTION FOR MAKING PAYMENT:
+1. Go to www.onlinesbi.com and select:- State Bank Collect
+2. Accept Terms and Conditions and click on “Proceed”
+3. Select state of Corporation/ Institution: - All India
+4. Select type of Corporation/ Institution: - PSU – Public Sector Undertaking and Click on
+   “Go” option.
+5. Select PSU - Public Sector Undertaking: - Bharat Electronics Limited and Click on
+   “Submit” button.
+6. Select Payment category: - “Recruitment for the Post of Senior Engineer - E- III - Fixed
+   Term Engineer For Export Manufacturing - SBU”
+7. Complete the payment as explained above
+8. Save & take a print / screenshot of the payment receipt and attach it with the
+   application form
+
+DOCUMENTS TO BE UPLOADED BY CANDIDATES WHILE SUBMITTING ONLINE
+APPLICATION:
+1. Recent colour passport size photograph.
+2. SSLC / SSC / 10th Standard marks card (as proof of Date of Birth)
+
+                                                                                   Page 6 of 9
+3. Final Consolidated Degree Marks Sheet
+4. Final Degree / Provisional Degree certificate of relevant qualification
+5. Proof of norms for SGPA/CGPA/DGPA/OGPA or letter grade/document for
+    percentage/class issued by university/Institution/College.
+6. Caste/Tribe/Community/Disability/Economic Weaker Section status Certificate in case of
+    candidates belonging to SC/ST/OBC/PwBD/EWS respectively. Candidates claiming
+    reservation under any of the above categories are required to submit the certificate in
+    the prescribed format. The formats of various certificates are provided as link to the
+    advertisement. Candidates belonging to OBC category should produce the Certificate
+    issued on or after 01.09.2025 and for EWS Certificate should be issued for the year
+    2025-26 on or after 01.06.2025.
+7. For persons with Benchmark Disability (PwBD): Disability should not be less than 40% for
+    the PwBD candidates. A person, who wants to avail the benefit of relaxation, will have to
+    submit a Disability Certificate issued by a Competent Authority.
+8. Facility of Scribe will be permitted to Persons with Benchmark Disabilities (PwBD) as
+    defined under Section 2(r) of the RPwD Act 2016. Candidates have to arrange scribes of
+    their own at their own expenses.
+9. The provision of scribe will be permitted only on production of certificate from the Chief
+    Medical Officer / Civil Surgeon / Medical Superintendent of a Government Health Care
+    Institution to the effect that the person concerned has physical limitation to write and scribe
+    is essential to appear for Written Test on his/her behalf. Certificate should be in the format
+    available on the BEL website.
+10. The qualification of the scribe intended to be used by the candidate should be one step
+    below the qualification of the candidate taking examination and the candidate should
+    submit details of the scribe as per proforma available on the BEL website which is to be
+    attested by a Gazetted officer. The candidate is required to carry/produce the
+    signed/attested proforma, while appearing for the written test.
+11. Post-qualification experience certificate(s) from previous / current employer. Where
+    current employment certificate is not produced the offer of current employment, last
+    three months payslip and employee ID proof should be compulsorily attached
+12. Candidates if working in PSUs / Govt. organizations should compulsorily submit ‘No
+    Objection Certificate’ at the time of interview
+13. Identity Proof (Aaadhar card / PAN Card/ Driving License / Voter ID)
+14. A detailed write up on the post qualification experience specifying job role /
+    responsibilities and areas worked in
+15. SBI Challan for having remitted the application fee
+
+Candidates are required to enter all information correctly in the application form as changes
+shall not be permitted after submission of the application form.
+
+Application sent through E-Mail / any other channel will not be considered.
+
+GENERAL INSTRUCTIONS:
+1. Only Indian Nationals are eligible to apply.
+
+
+
+                                                                                         Page 7 of 9
+2. The number of posts indicated above may increase or decrease depending upon the
+    Company’s actual requirement at the time of selection .
+3. Candidate should possess Experience certificates / Documents issued by the previous
+    and present employer clearly indicating period of employment and post held.
+4. The Cutoff date for deciding the maximum permissible Age and Post Qualification
+    Experience is 01.08.2026. In order to compute post qualification, work experience, the
+    period of work experience starting from the month immediately succeeding the month
+    of final examination in which candidate acquire the essential educational qualification
+    shall be considered.
+5. Mere applying does not guarantee the adequacy of the candidature for being considered
+    for the selection process.
+6. The decision of the Selection Committee with respect to professional post-qualification
+    experience will be final.
+7. Work experience indicated without supporting documents will not be considered and is
+    liable to be rejected / cancelled without any prior intimation.
+8. Applicants should have sound health. No relaxation in health standard is allowed.
+    Appointment of selected candidates will be subject to submitting medical fitness
+    certificate from a Medical Officer not below the rank of Civil Surgeon / Assistant Surgeon
+    at the time of joining.
+9. Request for change of mailing address / E-mail ID / Category / Degree as declared in the
+    application form will not be entertained.
+10. Candidates employed in Central / State Government department, Central / State PSUs or
+    Semi-Government Organization must produce No Objection Certificate (NOC) at the
+    time of Interview. In case, the candidate fails to produce NOC from his / her present
+    employer at the time of Interview, his / her candidature will not be entertained.
+11. Candidates are required to possess at least one valid e-mail id and mobile number,
+    which is to be entered in the application form.
+12. Information pertaining to written test for the posts will be sent by e-mail to the email ID
+    / mobile number furnished by the candidates in the application.
+13. The Company shall not be responsible for any loss of email sent due to invalid / wrong
+    email ID or mobile number provided by the candidate.
+14. All future correspondence with candidates shall be done through e-mail / SMS only. BEL
+    will not be responsible for bouncing of any e-mail / messages sent to the candidate.
+15. The E-mail ID and Mobile Number entered by the candidate in his/her Online Application
+    Form must remain valid for at least next one year from the date of filling application.
+16. Application Number, password and all other important communication will be sent on
+    the same registered e-mail ID & Mobile No. (Please ensure that email sent to the
+    mailbox of registered E-mail ID is not redirected to junk/Spam Folder).
+17. There will be no separate communication to any candidates on their non-selection at
+    any stage. There is no provision for re-checking/re-evaluation of Answer Sheets.
+18. Canvassing in any form will result in disqualification.
+19. In the event any applicant has litigated with his/ her employer in the past the same
+    should be clearly mentioned in brief.
+20. Merely fulfilling the minimum requirement of qualification and experience will not vest
+    any right on the candidates to be called for the Interview/Written Test. BEL’s decision
+    shall be final in this regard.
+21. BEL reserves the right to debar/disqualify any candidate at any stage of the selection
+    process for any reason whatsoever
+
+
+
+
+                                                                                     Page 8 of 9
+22. BEL reserves the right to cancel / restrict / enlarge / modify or alter the recruitment or
+    selection process, if need so arises, without issuing any further notice or assigning any
+    reason thereafter.
+23. Short listing of candidates will be carried out purely based on the information declared
+    by candidates in the application form. If at any further stage of recruitment / selection
+    process or after joining, it is found that candidates have declared false information w.r.t.
+    their credentials, BEL reserves the right to debar / reject them at any stage of selection.
+24. The candidature is also liable for rejection at any stage if BEL comes across any
+    evidence/knowledge that the qualification, experience and any other particulars
+    indicated in the application / other forms / formats are not recognized / false /
+    misleading and/or amounts to suppression of information/particulars which should have
+    been brought to the notice of BEL.
+25. Travelling Allowance (TA): Out station candidates called for interview will be reimbursed
+    to & fro rail fare of AC Chair Car / III Tier AC class by shortest route either from your
+    correspondence address or from actual place of departure whichever is less, on
+    production of tickets/supporting documentary proofs in respect of onward journey.
+26. Any revision, clarification, addendum, corrigendum, time extension etc. to the above
+    advertisement will be hosted on “Careers” section of BEL website: www.bel-india.in only
+    and no separate notification shall be issued in the press. Candidates are requested to
+    visit the website regularly to keep themselves updated.
+27. The advertisement is made available in bilingual (English and Hindi). In case of any
+    misinterpretation of the advertisement, the English version available in BEL website is to
+    be referred and that is final.
+28. Any resulting dispute arising out of this advertisement including the recruitment process
+    shall be subject to the sole jurisdiction of the Courts situated at Bengaluru.
+
+BEL has a robust and transparent recruitment process where the selection criteria is purely
+based on merit of the candidate. BEL does not demand or charge any fee or request for
+money deposited at any stage of the recruitment process other than the application fee
+mentioned in this advertisement. We urge job seekers not to be misled by any
+communication made by fraudsters purporting to be representatives of our company and
+demanding payment in lieu of employment in BEL. The company is not liable for any loss
+that may ensue from such fraudulent actions.
+
+BEL reserves its right to take legal action including criminal action against such fraudsters.
+
+For Further details or clarification, the candidates may mail us to hrem@bel.co.in
+Telephone Number: 080 - 22197716
+Please note that no other form / mode of communication will be entertained.
+
+                                                                                        Deputy General Manager
+                                                                                                  Human Resources
+                                                                                    Export Manufacturing - SBU
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                                                                                             Page 9 of 9
+

@@ -1,0 +1,56 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "researchedOn": "2026-09-25",
+  "authority": "National Board of Examinations in Medical Sciences",
+  "pathway": "recruitment",
+  "jobType": "medical officer deputation, not open-entry recruitment",
+  "officialIndex": {
+    "url": "https://natboard.edu.in/vacancy.php",
+    "retainedPath": "data/evidence/research/nbems-vacancy-index-2026.html",
+    "researchSnapshotSha256": "a00b175ae64087b2c307de6f0b9fb42f14f57b4d7c40fb695bd4730ccfb2b9e5"
+  },
+  "officialNotices": [
+    {
+      "language": "English",
+      "url": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+      "retainedPath": "data/evidence/research/nbems-executive-director-2026-en.pdf",
+      "sha256": "738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488",
+      "pages": 6
+    },
+    {
+      "language": "Hindi",
+      "url": "https://natboard.edu.in/viewNotice.php?NBE=SnBOMlBnbGJ6VXZBOEZjNUd4aFN3QT09",
+      "retainedPath": "data/evidence/research/nbems-executive-director-2026-hi.pdf",
+      "sha256": "641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa",
+      "pages": 6
+    }
+  ],
+  "findings": [
+    {
+      "field": "jobTypeAndCount",
+      "value": "One Executive Director post on medical-officer deputation, initially three years extendable to five",
+      "evidence": "English notice page 1, paragraph 2 and page 2, paragraphs 3–4"
+    },
+    {
+      "field": "applicationWindow",
+      "value": "Postal receipt closing date 30 October 2026, no stated cutoff hour or application-opening date",
+      "evidence": "English notice page 2, paragraphs 3 and 5"
+    },
+    {
+      "field": "qualifications",
+      "value": "Medical/Surgery/Public Health postgraduate degree, 20 years standing, postgraduate teaching and leadership experience, age at most 55; employer forwarding and clearance",
+      "evidence": "English notice pages 1–2, qualification table, notes a–f and paragraphs 3, 5–6"
+    },
+    {
+      "field": "internationalApplicants",
+      "value": "No explicit citizenship rule. Existing medical service and employer forwarding are required; foreign-national access cannot be inferred",
+      "evidence": "English notice page 2, notes a–f and paragraphs 5–6"
+    },
+    {
+      "field": "language",
+      "value": "English and Hindi versions supplied; neither prints a formal proficiency level or certificate",
+      "evidence": "English and Hindi notice text and application annexures"
+    }
+  ],
+  "coverageLimit": "Only this Executive Director notice extracted. Separate NBEMS direct recruitment vacancies, research associate hiring and later amendments remain gaps."
+}

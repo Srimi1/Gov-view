@@ -1,0 +1,380 @@
+{
+  "sourceId": "in-hr-hssc",
+  "collectedAt": "2026-09-25T02:22:28.783Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "HSSC advertisement 05/2026, extended 3 July 2026",
+      "programme": "Haryana Group-D Common Eligibility Test",
+      "status": "closed",
+      "statusNote": "Application close extended to 5 July 2026 at 23:59. Separate fee and correction periods do not reopen applications. Founder review pending.",
+      "scopeLabel": "Haryana Group-D CET registration; post details published separately, so vacancy count is unknown",
+      "outcome": "CET score for eligible Haryana Group-D recruitment; qualifying does not by itself award a job or licence",
+      "qualifications": "CET policy page 40: Matric with Hindi or Sanskrit as a subject, Hindi at a higher standard, or the Group-D Employees Act route. Chapter 2 page 3 gives narrower wording for most posts; founder must reconcile exceptions. No formal language level is published.",
+      "citizenshipRule": "CET policy page 40 permits Indian citizens and Nepal/Bhutan subjects; Nepal/Bhutan subjects need a Government-issued eligibility certificate. Other nationalities cannot enter this CET under the published policy. Final post appointment rules require separate review.",
+      "residenceRule": "Original PDF page 4 reserves Haryana category benefits for bona fide Haryana residents. Non-resident Indian applicants compete for general posts; no universal Haryana domicile requirement is asserted.",
+      "selectionStages": [
+        "One-time registration and online CET application",
+        "Offline bilingual Hindi/English Group-D CET; examination date and centre announced separately",
+        "CET merit and post-specific willingness/consent",
+        "Post-specific document verification and appointment checks"
+      ],
+      "fee": "CET processing fee depends on category, Haryana residence and identity number; policy page 41 sets a ₹1,000 standard rate with percentage concessions. Some earlier CET applicants need not pay again. Confirm individual amount on official portal.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-05",
+        "age": {
+          "min": 18,
+          "evidence": "Original advertisement page 4: at least 18 on registration closing date. Upper limit 42 has category and service relaxations that require manual review."
+        },
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "stage": "selection",
+          "evidence": "CET policy in original advertisement appendix B, PDF page 40: Indian citizen; Nepal/Bhutan subjects only with Government eligibility certificate; no other categories listed for CET entry. Policy addresses CET entry, not registration form access."
+        },
+        "languages": [
+          {
+            "language": "hi-or-sa",
+            "stage": "apply",
+            "requirement": "Matric subject in Hindi or Sanskrit, Hindi at a higher standard, or eligibility under Haryana Group-D Employees Act; no CEFR or numerical proficiency level.",
+            "evidence": "Original advertisement chapter 2 page 3 and CET policy appendix B page 40.",
+            "sourceUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm whether non-Indian candidates can submit the registration form; the cited policy explicitly governs CET entry and does not separately settle form access."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm Matric qualification and Hindi/Sanskrit alternative under CET policy versus chapter 2; check original documents and any statutory exception."
+          },
+          {
+            "stage": "apply",
+            "text": "Check upper age limit 42 and any Haryana-government relaxation; fee and identity-document route vary."
+          },
+          {
+            "stage": "selection",
+            "text": "For Nepal/Bhutan subjects, verify Government-issued eligibility certificate before CET entry. Exam centre and date were not published in the retained notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Review separate Group-D post notice, job-specific eligibility and foreign-national appointment rules before treating CET qualification as job eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "CET examination centre to be shown on admit card; HSSC office is not an exam venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://onetimeregn.haryana.gov.in/",
+      "changes": [
+        {
+          "at": "2026-07-03",
+          "kind": "extended",
+          "summary": "Online application close moved from 2026-07-03 to 2026-07-05 at 23:59 Haryana time; fee close 2026-07-08, edit close 2026-07-11."
+        }
+      ],
+      "id": "hssc-cet-group-d-05-2026",
+      "sourceId": "in-hr-hssc",
+      "title": "Haryana Group-D Common Eligibility Test 2026",
+      "authority": "Haryana Staff Selection Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-HR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-19",
+        "closesOn": "2026-07-05",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "cutoffInclusive": true,
+        "precision": "minute",
+        "note": "Original PDF page 1 opens registration 19 June and closes 3 July at 11:59 PM; 3 July extension page 1 moves online application close to 5 July at 11:59 PM. Asia/Kolkata is the Haryana local timezone."
+      },
+      "sources": [
+        {
+          "id": "in-hr-hssc:e182856db912",
+          "title": "HSSC advertisement register",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://hssc.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/advertisement",
+          "sha256": "003cbd88f25e64fe41e926144adf479a46ce9c46742a314b45eeec81e74429fc",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:29.992Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:19896ba3498e",
+          "title": "HSSC Group-D CET original advertisement 05/2026",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements",
+          "sha256": "570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:32.700Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:9d5d62c9b103",
+          "title": "HSSC Group-D CET application deadline extension",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements",
+          "sha256": "93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:32.934Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "HSSC advertisement 06/2026; two groups, four post categories",
+      "programme": "Haryana Group-C prison recruitment after CET Phase-I",
+      "status": "closed",
+      "statusNote": "Online applications closed 30 June 2026 at 23:59. Correction period and later physical-screening notices do not reopen applications. Founder must confirm form grouping before approval.",
+      "scopeLabel": "1,238 Haryana Prison Department vacancies across two examination groups and four post categories; one provisional advertisement-level application cycle",
+      "outcome": "Selection for Assistant Superintendent Jail (male or female) or Warder (male or female) posts, subject to role preference, physical standards, verification and appointment rules",
+      "qualifications": "Appendix A pages 19–21: Assistant Superintendent Jail categories 1–2 need graduation and general age 21–27; Warder categories 3–4 need 10+2 and general age 18–25. All require Hindi or Sanskrit as a subject in Matric or Higher Education; no formal proficiency level. Physical height, chest, screening and age relaxations differ by category.",
+      "citizenshipRule": "Only candidates qualified in Group-C CET advertisement 01/2025 may apply (chapter 1). CET policy in appendix D page 30 permits Indian citizens and Nepal/Bhutan subjects with Government eligibility certificate to enter CET. Other nationalities cannot meet that CET-entry condition under published policy. Prison appointment permission needs post-specific review.",
+      "residenceRule": "Chapter 6 page 4: Haryana residence is required for specified reservation benefits. Other Indian state/UT candidates may compete for general category posts; no blanket Haryana domicile bar is asserted.",
+      "selectionStages": [
+        "Group-C CET 01/2025 qualification prerequisite and online application with post preferences",
+        "Physical Measurement Test, then qualifying Physical Screening Test for relevant prison posts",
+        "Bilingual Hindi/English written or skill exam and post-specific merit list",
+        "Document scrutiny and Prison Department appointment checks"
+      ],
+      "fee": "Original advertisement page 1 states no fee for applying against any advertised post.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-06-30",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "conditional": [
+            "NP",
+            "BT"
+          ],
+          "stage": "selection",
+          "evidence": "Original advertisement chapter 1 page 2 requires Group-C CET 01/2025 qualification. Its appendix D CET policy page 30 permits Indian citizens or Nepal/Bhutan subjects with a Government eligibility certificate to enter CET. Registration form access and prison appointment are not separately established."
+        },
+        "languages": [
+          {
+            "language": "hi-or-sa",
+            "stage": "apply",
+            "requirement": "Hindi or Sanskrit as one subject in Matric or Higher Education for each of four post categories; no CEFR or numerical level.",
+            "evidence": "Original advertisement appendix A PDF pages 19–21, categories 1–4.",
+            "sourceUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements"
+          }
+        ],
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Group-C CET 01/2025 qualification, role preference and whether groups require separate application forms. Foreign registration form access is not separately stated."
+          },
+          {
+            "stage": "apply",
+            "text": "Apply role-specific graduation versus 10+2, age 21–27 versus 18–25, Hindi/Sanskrit academic subject and all claimed relaxations; one combined draft cannot determine an individual post match."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Nepal/Bhutan Government eligibility certificate, physical measurement/screening standards, CET marks and later admit-card instructions for the chosen post."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify Prison Department service rules, documents and foreign-national appointment eligibility for the chosen category."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Physical-screening and examination venues are on candidate admit cards; commission office is not a test venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://adv062026.hryssc.com/",
+      "changes": [],
+      "id": "hssc-prison-group-c-06-2026",
+      "sourceId": "in-hr-hssc",
+      "title": "Haryana prison Group-C recruitment 2026",
+      "authority": "Haryana Staff Selection Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-HR"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-06-24",
+        "closesOn": "2026-06-30",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": "23:59",
+        "cutoffInclusive": true,
+        "precision": "minute",
+        "note": "Original advertisement page 1 and chapter 1 page 2: online applications 24–30 June 2026 until 11:59 PM. Correction/edit window ends 2026-07-02; it is not an application extension. Asia/Kolkata is Haryana local interpretation."
+      },
+      "sources": [
+        {
+          "id": "in-hr-hssc:e182856db912",
+          "title": "HSSC advertisement register",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://hssc.gov.in/advertisement",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/advertisement",
+          "sha256": "003cbd88f25e64fe41e926144adf479a46ce9c46742a314b45eeec81e74429fc",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:29.992Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:63013ae9303f",
+          "title": "HSSC Group-C prison advertisement 06/2026",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements",
+          "sha256": "9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:34.225Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:c1f49654aef9",
+          "title": "HSSC public-notice register",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://hssc.gov.in/publicNotice",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hssc.gov.in/publicNotice",
+          "sha256": "e404fff3d17f19850d976664648b2f36550efb9d6a1ecec0b1b7dc1d8495a154",
+          "lastSuccessfulFetchAt": "2026-09-25T02:22:30.988Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:6c08a7f99866",
+          "title": "HSSC 06/2026 PST schedule notice 2026-07-22",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-8af999770001/publicNotice",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:735fb609ad03",
+          "title": "HSSC 06/2026 Female absentee PST notice 2026-07-24",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-947d2e820009/publicNotice",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-hr-hssc:d9656edf7c5e",
+          "title": "HSSC 06/2026 Male absentee PST notice 2026-08-03",
+          "authority": "Haryana Staff Selection Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-c66664700018/publicNotice",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://hssc.gov.in/advertisement",
+      "fetchedAt": "2026-09-25T02:22:29.992Z",
+      "sha256": "003cbd88f25e64fe41e926144adf479a46ce9c46742a314b45eeec81e74429fc",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 18647
+    },
+    {
+      "url": "https://hssc.gov.in/publicNotice",
+      "fetchedAt": "2026-09-25T02:22:30.988Z",
+      "sha256": "e404fff3d17f19850d976664648b2f36550efb9d6a1ecec0b1b7dc1d8495a154",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 22575
+    },
+    {
+      "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements",
+      "fetchedAt": "2026-09-25T02:22:32.700Z",
+      "sha256": "570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9",
+      "contentType": "application/pdf",
+      "bytes": 8079720
+    },
+    {
+      "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements",
+      "fetchedAt": "2026-09-25T02:22:32.934Z",
+      "sha256": "93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540",
+      "contentType": "application/pdf",
+      "bytes": 414760
+    },
+    {
+      "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements",
+      "fetchedAt": "2026-09-25T02:22:34.225Z",
+      "sha256": "9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616",
+      "contentType": "application/pdf",
+      "bytes": 4686871
+    }
+  ],
+  "warnings": [
+    "Only HSSC advertisements 05/2026 and 06/2026 are extracted; other HSSC advertisements and later amendments remain coverage gaps.",
+    "One CET registration cycle is counted; separately published Group-D posts and examination centres are unknown.",
+    "Indian citizens may enter CET; Nepal/Bhutan subjects need a Government eligibility certificate; other foreign nationalities are excluded by the published CET policy. Post appointment conditions remain unresolved.",
+    "Chapter 2 and policy appendix use different Hindi/Sanskrit qualification wording. Founder must reconcile exceptions; no formal language proficiency level is asserted.",
+    "Group-C advertisement 06/2026 has four prison post categories in two examination groups. One application cycle is provisional until founder checks whether each group needs a separate form; role-specific age, degrees and physical standards must be assessed individually.",
+    "Later 06/2026 physical-screening notices were linked from the official public-notice register; they are selection updates, not application extensions. Candidate-level lists and venues are not extracted.",
+    "HPSC is a separate Haryana authority with robots.txt disallowing automated collection."
+  ],
+  "approvalRevisions": {
+    "hssc-cet-group-d-05-2026": {
+      "evidenceRevision": "9f779edb47e92b245527cbbed9310b0cdd39fefc18e6cf062aef09dcc5aa3280",
+      "recordRevision": "3e49d49af6482b1c28ea11be4fc370def2b31f0de4badec4959185a42274cbee"
+    },
+    "hssc-prison-group-c-06-2026": {
+      "evidenceRevision": "f99c3cce74ea07ca138f4e0b9e85934f29f7cc6ccd1068d1e9a9c78ad9e995be",
+      "recordRevision": "dbc91419e6adb6b4a5576a55199276e14670b3a5d9b3ebd7efa908b32144e414"
+    }
+  }
+}

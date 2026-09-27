@@ -1,0 +1,303 @@
+[
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/ActiveJobsAdverts.aspx",
+  "fetchedAt": "2026-09-25T17:20:15.296Z",
+  "sha256": "d9570402c3acffab0a96098a0b168b8ac4531c6eaad257034127ed7eef0ec790",
+  "bytes": 70844,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=D111%2F2026",
+  "fetchedAt": "2026-09-25T17:20:15.950Z",
+  "sha256": "af047e5d963e3dce81dc9b7481d9dd572199f2a2372ec0ef571002cb80c6bd20",
+  "bytes": 35558,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=147%2F2026",
+  "fetchedAt": "2026-09-25T17:20:16.625Z",
+  "sha256": "5eac27e5662a99a5e5bc373833b80fb49b8ad8d3864567d163c7bbb1ac793449",
+  "bytes": 39746,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=148%2F2026",
+  "fetchedAt": "2026-09-25T17:20:17.633Z",
+  "sha256": "549dc7cb26bae05ce3910b3846c8be02db289a2359ee479951f064046c47ed9f",
+  "bytes": 45534,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=149%2F2026",
+  "fetchedAt": "2026-09-25T17:20:18.624Z",
+  "sha256": "f1adf66b4e75a5f36a7dc4bbc820efa2a030ed06599298f28dfdcb40d8a4be3f",
+  "bytes": 43882,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=150%2F2026",
+  "fetchedAt": "2026-09-25T17:20:19.631Z",
+  "sha256": "bf9b0ee9016f68e2e0dc7433e23343663a6adda69b2ab22d27678a8d18f3e512",
+  "bytes": 43213,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=151%2F2026",
+  "fetchedAt": "2026-09-25T17:20:20.632Z",
+  "sha256": "c0377e4df450f3dbcc79de5826a88fafa5e846a3f5b41b7fa5b123b5915adea1",
+  "bytes": 40745,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=152%2F2026",
+  "fetchedAt": "2026-09-25T17:20:21.631Z",
+  "sha256": "de71e8594b17efb3ebffaeb6d13a20febac55e674f8bac561b151d34652bfd17",
+  "bytes": 38279,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=153%2F2026",
+  "fetchedAt": "2026-09-25T17:20:22.632Z",
+  "sha256": "1407eb586ef643f2a5b3b8526621b5f53b6e1c705379a2c6a141628d6cb63fba",
+  "bytes": 37894,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=154%2F2026",
+  "fetchedAt": "2026-09-25T17:20:23.632Z",
+  "sha256": "96adf0ff8fe61273aeb62157a3c44179318799f7ed4e4725f7555e8acc0cc545",
+  "bytes": 36564,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=155%2F2026",
+  "fetchedAt": "2026-09-25T17:20:24.632Z",
+  "sha256": "7eb4c16c92f2a7bb74e348f1bdd24b817c19a6ffb3130b05ba084a055c943483",
+  "bytes": 38177,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=156%2F2026",
+  "fetchedAt": "2026-09-25T17:20:25.633Z",
+  "sha256": "9e863f3301f798f27353a7e4734b4a76a3db42d7d31c308b51a19c1ab0e36c6e",
+  "bytes": 36516,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=157%2F2026",
+  "fetchedAt": "2026-09-25T17:20:26.631Z",
+  "sha256": "d5d331dd38f7aaf6ff8b269c16d381ebdda36e04a93f08dd2e1c017bf50c1547",
+  "bytes": 38540,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=158%2F2026",
+  "fetchedAt": "2026-09-25T17:20:27.632Z",
+  "sha256": "0d1ff4e1abf27d1b3104105bccd8d984cf17ba54ba5efbe5ecea5a232e94ea56",
+  "bytes": 40646,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=159%2F2026",
+  "fetchedAt": "2026-09-25T17:20:28.632Z",
+  "sha256": "4dd5b924c44bf2a4111da7a264f2e52895c2bddb73c1bca640aa3496bf02940d",
+  "bytes": 37550,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=160%2F2026",
+  "fetchedAt": "2026-09-25T17:20:29.630Z",
+  "sha256": "309892c6f9a9a55350d16fd84062d39b09ec83a93a38507779fe26f75816b472",
+  "bytes": 36141,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=161%2F2026",
+  "fetchedAt": "2026-09-25T17:20:30.635Z",
+  "sha256": "8392cc243937d7ba5c498938cc8f36a302beed213b9763cb3e1a6783ebc4f5a1",
+  "bytes": 38207,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=162%2F2026",
+  "fetchedAt": "2026-09-25T17:20:31.633Z",
+  "sha256": "e3c0b4a3d49251f0b9f2961c956db3631924795809be3fad766ea58f082ef424",
+  "bytes": 36097,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=163%2F2026",
+  "fetchedAt": "2026-09-25T17:20:32.636Z",
+  "sha256": "3ec76294b02c40463bc2037c4cbdfa510729c9aee9941092c541f18144ad7abb",
+  "bytes": 46686,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=164%2F2026",
+  "fetchedAt": "2026-09-25T17:20:33.635Z",
+  "sha256": "499f6d9155538c24d9053d9cc8b8ba30a0025b1bb3b6b2e8b233501d090ac53d",
+  "bytes": 35167,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=165%2F2026",
+  "fetchedAt": "2026-09-25T17:20:34.636Z",
+  "sha256": "43989bce4c47f78e3467377ffef0c226437efd2465a959731bfa74d3ae55ce39",
+  "bytes": 35729,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=166%2F2026",
+  "fetchedAt": "2026-09-25T17:20:35.633Z",
+  "sha256": "4f6d5618cd2f09efff3838958c287105bd40f4670695224fcb619b38c7a07359",
+  "bytes": 37285,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=167%2F2026",
+  "fetchedAt": "2026-09-25T17:20:36.641Z",
+  "sha256": "755b449e6ba7f587472d336be8851a1d3462e029879d73a1afb1a5f079cfe9b2",
+  "bytes": 59437,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=168%2F2026",
+  "fetchedAt": "2026-09-25T17:20:37.636Z",
+  "sha256": "6765ecbb4bbe51bb54f27cd9ace2b451fffa125a23ef8de1a6a5ccb7609d488f",
+  "bytes": 100005,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=169%2F2026",
+  "fetchedAt": "2026-09-25T17:20:38.635Z",
+  "sha256": "0f9317fc433c4ec88cb6e2d119eafe955142c37d0642c7762e9f0cdf31638b83",
+  "bytes": 92878,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=170%2F2026",
+  "fetchedAt": "2026-09-25T17:20:39.637Z",
+  "sha256": "556c6edd5c61d50c96cf9b488475bdf23c089c3594d35ab70f074da64736dd35",
+  "bytes": 95535,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=171%2F2026",
+  "fetchedAt": "2026-09-25T17:20:40.637Z",
+  "sha256": "73f346bceff3c49c9792776559e9bd585ee6c7d3d2be27fed2a459ac8e41f951",
+  "bytes": 87671,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=172%2F2026",
+  "fetchedAt": "2026-09-25T17:20:41.634Z",
+  "sha256": "b29111ec3c32fffc3d18b7b005c45be78ab223547cf7767fcc2fbc38ee19ca63",
+  "bytes": 36318,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=173%2F2026",
+  "fetchedAt": "2026-09-25T17:20:42.633Z",
+  "sha256": "c5fd8612279cb2b48d3e6026a9fa20f9efce39d96a4b4eaa147700df226bb46e",
+  "bytes": 34700,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=174%2F2026",
+  "fetchedAt": "2026-09-25T17:20:43.641Z",
+  "sha256": "3bc7f0fc412c01dc9ffbfe6204a993c3517770fbeb929b4652a34447ab0ee744",
+  "bytes": 34467,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=175%2F2026",
+  "fetchedAt": "2026-09-25T17:20:44.634Z",
+  "sha256": "7e21f9f146ffa5b6fab298008e95884f2b4db8f8c33a6730fb93ecceab0f9bb1",
+  "bytes": 34817,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=176%2F2026",
+  "fetchedAt": "2026-09-25T17:20:45.632Z",
+  "sha256": "09d33f813c344e636ad6a5cb5ec7ad0d33cf8c01e6e8b2594b6708b35324992e",
+  "bytes": 34820,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=177%2F2026",
+  "fetchedAt": "2026-09-25T17:20:46.626Z",
+  "sha256": "f35063279bb18275e61fd4dfad2424168b9609ef8a8088437e69845101c8c1fb",
+  "bytes": 35001,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=178%2F2026",
+  "fetchedAt": "2026-09-25T17:20:47.629Z",
+  "sha256": "1ac09dc12402e3171f70248feb54036805c38a38a5b3569f20f78966523f2feb",
+  "bytes": 35356,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=179%2F2026",
+  "fetchedAt": "2026-09-25T17:20:48.634Z",
+  "sha256": "fea3d452a56e7ad5bb2a789a8b285a9973016675a039bf83be4ffed5afe73275",
+  "bytes": 34540,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=180%2F2026",
+  "fetchedAt": "2026-09-25T17:20:49.632Z",
+  "sha256": "7598c0007cafef7960017ca8a1df7bbaf69f01f1e061b5243b3d80e47cd5be7e",
+  "bytes": 35969,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=181%2F2026",
+  "fetchedAt": "2026-09-25T17:20:50.634Z",
+  "sha256": "9365631374d10a4cfa006ebd6ff866ed1689b4314aca3fcdba7fed2d8915ec00",
+  "bytes": 35515,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=182%2F2026",
+  "fetchedAt": "2026-09-25T17:20:51.638Z",
+  "sha256": "7506174a2b4c1e303d4af6975052a1034cf21ea0e0ee18af1ff609571f320d2a",
+  "bytes": 35053,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=183%2F2026",
+  "fetchedAt": "2026-09-25T17:20:52.641Z",
+  "sha256": "1b1bda9de5484526b7bda0a51948cabe7dabc10b1b64a27bff30e2e8eb11a702",
+  "bytes": 35266,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=184%2F2026",
+  "fetchedAt": "2026-09-25T17:20:53.642Z",
+  "sha256": "1f93f4dd42869be219e28d080feee13153851f44c06460167df92db86c1b7c2d",
+  "bytes": 36295,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=185%2F2026",
+  "fetchedAt": "2026-09-25T17:20:54.638Z",
+  "sha256": "ee253612cc410b3b477f4b2ef01c52d9e94fe186f03f2c826ea3c9333ca76020",
+  "bytes": 34102,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=186%2F2026",
+  "fetchedAt": "2026-09-25T17:20:55.640Z",
+  "sha256": "5994374aa93d2ba53eabc82117a887d19986349484917f315747d6a35f49558b",
+  "bytes": 34494,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://pscims.publicservice.go.ke/jobs/AdvertDetailsExt.aspx?kpage=ActiveAdverts.aspx&kpx=187%2F2026",
+  "fetchedAt": "2026-09-25T17:20:56.633Z",
+  "sha256": "44fde47abf039d5408e3a2da429f06a63aba340fc9da3750ab8309b7733eeec6",
+  "bytes": 35574,
+  "contentType": "text/html; charset=utf-8"
+ }
+]

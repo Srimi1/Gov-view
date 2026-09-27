@@ -1,0 +1,227 @@
+{
+  "researchedOn": "2026-09-27",
+  "dateTimezone": "Asia/Kolkata",
+  "purpose": "Official entry-point discovery only; retained research responses do not establish connector freshness, current application cycles or audited jurisdiction coverage.",
+  "sources": [
+    {
+      "sourceId": "ie-publicjobs",
+      "jurisdiction": "IE",
+      "entryPoint": "https://www.publicjobs.ie/en/",
+      "officialIdentityReference": "https://www.gov.ie/en/publicjobs/",
+      "scopeAndFindings": "Official homepage links a public Tal.net job board. Captured board contains publicjobs, external recruiter and State Boards categories, including jobs outside Ireland; raw search results are not distinct verified Irish public recruitment cycles.",
+      "unresolvedGaps": "No adapter built. Verify government employer, hiring jurisdiction, application-cycle identity and original competition booklet. Private/community employers, EU and Northern Ireland entries, state-board appointments and repeats need separate scope review. Nationality, residence, appointment type, qualification and role-specific English/Irish language requirements remain unverified.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/ie-publicjobs-home-2026-09-27.html",
+          "metadataPath": "data/evidence/research/ie-publicjobs-home-2026-09-27-evidence.json",
+          "url": "https://www.publicjobs.ie/en/",
+          "fetchedAt": "2026-09-26T19:36:55.478Z",
+          "sha256": "b6682688d27e33388c3ccaa2d999a2cbd5fa5eb658d390c625a97847d16cd20f",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 76864
+        },
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/ie-publicjobs-job-search-2026-09-27.html",
+          "metadataPath": "data/evidence/research/ie-publicjobs-job-search-2026-09-27-evidence.json",
+          "url": "https://publicjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-423dd989250d/candidate/jobboard/vacancy/3/adv/",
+          "fetchedAt": "2026-09-26T19:39:42.168Z",
+          "sha256": "4b2ec0e4f39241ad9ff595615b4f52338e688c1190e2905d7a906d05e1a58e7d",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 281940
+        },
+        {
+          "status": "failed-research-attempt",
+          "metadataPath": "data/evidence/research/ie-publicjobs-government-ref-2026-09-27-failure.json",
+          "url": "https://www.gov.ie/en/publicjobs/",
+          "attemptedAt": "2026-09-26T19:39:41.351Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.gov.ie"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "nl-werken-voor-nederland",
+      "jurisdiction": "NL",
+      "entryPoint": "https://www.werkenvoornederland.nl/vacatures?type=vacature",
+      "officialIdentityReference": "https://www.rijksoverheid.nl/service/vacatures",
+      "scopeAndFindings": "Rijksoverheid vacancy guidance links this national government employer portal. Public search HTML and referring government page retained; no vacancy records extracted.",
+      "unresolvedGaps": "No adapter built. Search/detail rendering and original Dutch notices need validation before collection. Municipalities, provinces and other public employers need separate sources; Caribbean and separately administered jurisdictions are not automatically covered. Nationality, residence, appointment type and language proficiency remain unverified.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/nl-state-vacancies-2026-09-27.html",
+          "metadataPath": "data/evidence/research/nl-state-vacancies-2026-09-27-evidence.json",
+          "url": "https://www.werkenvoornederland.nl/vacatures?type=vacature",
+          "fetchedAt": "2026-09-26T19:36:53.908Z",
+          "sha256": "5846b82c59bfd7f4bad8c187c24b42882ac3bc818f46b0fe201ff62497fe24a0",
+          "contentType": "text/html;charset=UTF-8",
+          "bytes": 604103
+        },
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/nl-government-vacancy-ref-2026-09-27.html",
+          "metadataPath": "data/evidence/research/nl-government-vacancy-ref-2026-09-27-evidence.json",
+          "url": "https://www.rijksoverheid.nl/service/vacatures",
+          "fetchedAt": "2026-09-26T19:39:41.104Z",
+          "sha256": "9c91444f986a45bb3691abf9373f2ff9bfd7049ed75b7dc87925eec4995d3a2e",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 256228
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "fi-valtiolle",
+      "jurisdiction": "FI",
+      "entryPoint": "https://valtiolle.fi/en/latest-jobs/",
+      "officialIdentityReference": "https://valtiolle.fi/en/applying/how-to-apply/",
+      "scopeAndFindings": "Official state recruitment service covers posts, employment and internships. Retained English search HTML contains client configuration; no job records extracted. Interface language does not establish applicant language proficiency.",
+      "unresolvedGaps": "No adapter built. Validate permitted search and detail collection across Finnish, Swedish and English editions; English pages must not stand for complete coverage. Other public employers and separately administered Aland require research. Nationality, residence, appointment type and language levels remain unverified.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/fi-valtiolle-latest-2026-09-27.html",
+          "metadataPath": "data/evidence/research/fi-valtiolle-latest-2026-09-27-evidence.json",
+          "url": "https://valtiolle.fi/en/latest-jobs/",
+          "fetchedAt": "2026-09-26T19:36:55.301Z",
+          "sha256": "3c0fe15eaefd45fd3f7d545b2b493d49b44e3aa297bde2f1bddd9deac82ab75c",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 220563
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "no-ministries-recruitment",
+      "jurisdiction": "NO",
+      "entryPoint": "https://www.regjeringen.no/no/aktuelt/jobb-i-departementene/id3087969/",
+      "officialIdentityReference": "https://www.regjeringen.no/",
+      "scopeAndFindings": "Government career entry links ministry recruitment through Jobbnorge. Older cached vacancy lists are not current-job evidence; no notices collected.",
+      "unresolvedGaps": "No adapter built. Government robots.txt returned HTTP 403; collector stopped and failure evidence is retained. Confirm permitted access and official-employer notices on linked recruitment system. Other state, county and municipal employers and separately administered areas remain gaps. Applicant nationality, residence, job type and language requirements are unverified.",
+      "artifacts": [
+        {
+          "status": "failed-research-attempt",
+          "metadataPath": "data/evidence/research/no-ministries-careers-2026-09-27-failure.json",
+          "url": "https://www.regjeringen.no/no/aktuelt/jobb-i-departementene/id3087969/",
+          "attemptedAt": "2026-09-26T19:36:53.313Z",
+          "error": "robots.txt unavailable (HTTP 403) at https://www.regjeringen.no"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "pt-bep-public-employment",
+      "jurisdiction": "PT",
+      "entryPoint": "https://www.bep.gov.pt/default.aspx",
+      "officialIdentityReference": "https://www.bep.gov.pt/docs/Guia_do_candidato_PRR_DGAEP.pdf",
+      "scopeAndFindings": "Official public employment exchange identified through its government domain and candidate guide. Browser request redirected to government SGU authentication; no job data obtained.",
+      "unresolvedGaps": "No adapter built. Collector could not retrieve robots.txt; attempted request failed. Authentication redirect and permitted public access need resolution without bypassing access controls. Original Portuguese notices, regional/local authorities, applicant nationality, residence, appointment type and language rules remain unverified.",
+      "artifacts": [
+        {
+          "status": "failed-research-attempt",
+          "metadataPath": "data/evidence/research/pt-bep-home-2026-09-27-failure.json",
+          "url": "https://www.bep.gov.pt/default.aspx",
+          "attemptedAt": "2026-09-26T19:38:47.668Z",
+          "error": "robots.txt unreachable at https://www.bep.gov.pt: fetch failed"
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "ch-federal-jobs",
+      "jurisdiction": "CH",
+      "entryPoint": "https://jobs.admin.ch/?lang=en",
+      "officialIdentityReference": "https://jobs.admin.ch/",
+      "scopeAndFindings": "Official federal jobs portal HTML retained. Response is a JavaScript shell with no extracted vacancy records. Federal scope does not imply canton or commune coverage.",
+      "unresolvedGaps": "No adapter built. Identify permitted public search/detail access and original German, French, Italian or Romansh notices. Canton and commune authorities need separate sources. Nationality, residence, appointment type and language levels remain unverified; English interface is not a job language criterion.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/ch-federal-jobs-2026-09-27.html",
+          "metadataPath": "data/evidence/research/ch-federal-jobs-2026-09-27-evidence.json",
+          "url": "https://jobs.admin.ch/?lang=en",
+          "fetchedAt": "2026-09-26T19:38:38.680Z",
+          "sha256": "1225c11da16c48da046fa1ec3cb07ec5c993d30ea091d45ea534d865a3926acc",
+          "contentType": "text/html;charset=UTF-8",
+          "bytes": 2208
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "at-bund-jobboerse",
+      "jurisdiction": "AT",
+      "entryPoint": "https://bund.jobboerse.gv.at/sap/bc/jobs/",
+      "officialIdentityReference": "https://www.jobboerse.gv.at/arbeiten-im-bund/",
+      "scopeAndFindings": "Official federal guidance links public job search, apprenticeships and administrative internships. Guidance HTML and linked SAP search shell retained; no vacancies extracted.",
+      "unresolvedGaps": "No adapter built. Validate permitted SAP search/detail access and distinguish publicly open from internal-only vacancies. Federal source does not cover all Land or municipal employers. Original German notices, nationality/residence, appointment type and language proficiency remain unverified.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/at-jobboerse-guidance-2026-09-27.html",
+          "metadataPath": "data/evidence/research/at-jobboerse-guidance-2026-09-27-evidence.json",
+          "url": "https://www.jobboerse.gv.at/arbeiten-im-bund/",
+          "fetchedAt": "2026-09-26T19:38:39.323Z",
+          "sha256": "51622e401c2e9dd121444e08b26b219bfe3426dfd1602950ad7fe79483e079b8",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 63710
+        },
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/at-bund-job-search-2026-09-27.html",
+          "metadataPath": "data/evidence/research/at-bund-job-search-2026-09-27-evidence.json",
+          "url": "https://bund.jobboerse.gv.at/sap/bc/jobs/",
+          "fetchedAt": "2026-09-26T19:39:42.415Z",
+          "sha256": "5f031530c7ede0f75b1c1b49b45d154ac7eeda42d72f3e1486e8f5fea20a5b16",
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 1746
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    },
+    {
+      "sourceId": "se-arbetsgivarverket-recruitment",
+      "jurisdiction": "SE",
+      "entryPoint": "https://www.arbetsgivarverket.se/om-oss/jobba-hos-oss/lediga-jobb",
+      "officialIdentityReference": "https://www.arbetsgivarverket.se/",
+      "scopeAndFindings": "Official agency own-jobs page retained. Links include external recruitment providers; this source covers one government agency, not a nationwide vacancy portal.",
+      "unresolvedGaps": "No adapter built. Verify each linked notice's employing authority and employment arrangement before treating it as public recruitment. Recruitment-provider listings are not automatically official government jobs. Other state, regional and municipal employers remain unresearched. Original Swedish notices, nationality, residence, job type and language levels remain unverified.",
+      "artifacts": [
+        {
+          "status": "retained-research-response",
+          "bodyPath": "data/evidence/research/se-arbetsgivarverket-jobs-2026-09-27.html",
+          "metadataPath": "data/evidence/research/se-arbetsgivarverket-jobs-2026-09-27-evidence.json",
+          "url": "https://www.arbetsgivarverket.se/om-oss/jobba-hos-oss/lediga-jobb",
+          "fetchedAt": "2026-09-26T19:38:38.441Z",
+          "sha256": "106f7ff25a21c78dc5fdcc2f388817870eeb5661b4ad48f50be0abbd67bd175f",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 71139
+        }
+      ],
+      "applicationCyclesExtracted": 0,
+      "eligibilityVerified": false,
+      "languageLevelsVerified": false
+    }
+  ],
+  "registrySourcesAdded": 8,
+  "retainedHtmlResponses": 9,
+  "failedResearchAttempts": 3,
+  "applicationCyclesExtracted": 0,
+  "approvedRecords": 0
+}

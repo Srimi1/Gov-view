@@ -1,0 +1,230 @@
+[
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "authority-jobs",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/recruit/7.html",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-vacancies-authority-jobs-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.csb.gov.hk/english/recruit/7.html",
+      "fetchedAt": "2026-09-26T21:21:22.417Z",
+      "sha256": "6fb078e63b799310a93702dc3e7256e00d5998213d45855586e5c7738e5f0196",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 5185
+    }
+  },
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "vacancy-board",
+    "format": "HTML",
+    "url": "https://csboa1.csb.gov.hk/csboa/joa/JVE_001_search.action",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-vacancies-vacancy-board-2026-09-27.html",
+    "evidence": {
+      "url": "https://csboa1.csb.gov.hk/csboa/joa/JVE_001_search.action",
+      "fetchedAt": "2026-09-26T21:21:24.605Z",
+      "sha256": "15c6217f780035bb99fe175118e113f212d1f6c4452f9b7e042735426ca517dd",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 363780
+    }
+  },
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "appointment-requirements",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/admin/appoint/35.html",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-vacancies-appointment-requirements-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.csb.gov.hk/english/admin/appoint/35.html",
+      "fetchedAt": "2026-09-26T21:21:23.045Z",
+      "sha256": "f60c1824e6c27c0681d10f111e483f609a119601909a41dc76cd2d1c4c315830",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 7560
+    }
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "examination-info",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/recruit/cre/949.html",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-cre-blnst-examination-info-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.csb.gov.hk/english/recruit/cre/949.html",
+      "fetchedAt": "2026-09-26T21:21:23.909Z",
+      "sha256": "ecaddd09b01b652f03e58dc7b101b99c2921c7c4a692280b2dfef1cf59a4d657",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 35483
+    }
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "current-applicant-notes",
+    "format": "PDF",
+    "url": "https://www.csb.gov.hk/english/recruit/cre/files/NA_Eng.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-cre-blnst-current-applicant-notes-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://www.csb.gov.hk/english/recruit/cre/files/NA_Eng.pdf",
+      "fetchedAt": "2026-09-26T21:21:25.087Z",
+      "sha256": "711873282fca1f0c9883bcc5afacb05c055a239e1acebf40a11026fbd2053195",
+      "contentType": "application/pdf",
+      "bytes": 189738
+    }
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "bilingual-applicant-notes",
+    "format": "HTML",
+    "url": "https://csboa1.csb.gov.hk/csboa/cre/CRE_4_notes.action",
+    "status": "retained",
+    "path": "data/evidence/research/world60-hk-csb-cre-blnst-bilingual-applicant-notes-2026-09-27.html",
+    "evidence": {
+      "url": "https://csboa1.csb.gov.hk/csboa/cre/CRE_4_notes.action",
+      "fetchedAt": "2026-09-26T21:21:25.488Z",
+      "sha256": "7ade9a1006795a7b151fce4fc30deb8a2d64fa5ea7180648bc316d222df80b2d",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 41622
+    }
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "authority-referral",
+    "format": "HTML",
+    "url": "https://www.safp.gov.mo/pt/services/exam",
+    "status": "failed",
+    "failurePath": "data/evidence/research/world60-mo-safp-public-competitions-authority-referral-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:21:23.907Z",
+    "error": "robots.txt unreachable at https://www.safp.gov.mo: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "competitions-portal",
+    "format": "HTML",
+    "url": "https://concurso-uni.safp.gov.mo/",
+    "status": "failed",
+    "failurePath": "data/evidence/research/world60-mo-safp-public-competitions-competitions-portal-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:21:21.558Z",
+    "error": "robots.txt unreachable at https://concurso-uni.safp.gov.mo: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "government-english-referral",
+    "format": "HTML",
+    "url": "https://www.gov.mo/en/announcements/recruitment/",
+    "status": "retained",
+    "path": "data/evidence/research/world60-mo-safp-public-competitions-government-english-referral-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.gov.mo/en/announcements/recruitment/",
+      "fetchedAt": "2026-09-26T21:21:22.985Z",
+      "sha256": "6c2a8528f9a1801a5e3b2de40a95f156143c512bd070e2b1df43ea6a01c68a5d",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 67781
+    }
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "government-referral",
+    "format": "HTML",
+    "url": "https://www.dubai.ae/living/jobs-employment/government-job-vacancies",
+    "status": "failed",
+    "failurePath": "data/evidence/research/world60-ae-dubai-careers-government-referral-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:21:21.445Z",
+    "error": "robots.txt unavailable (HTTP 403) at https://www.dubai.ae"
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "federal-government-directory",
+    "format": "HTML",
+    "url": "https://u.ae/en/resources/government-jobs",
+    "status": "retained",
+    "path": "data/evidence/research/world60-ae-dubai-careers-federal-government-directory-2026-09-27.html",
+    "evidence": {
+      "url": "https://u.ae/en/resources/government-jobs",
+      "fetchedAt": "2026-09-26T21:21:26.260Z",
+      "sha256": "a19851af1d2a741b80fe523f43f5e480c2b7aeccb68154d96f8a3f39e646a30e",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 54546
+    }
+  },
+  {
+    "sourceId": "qa-cgb-kawader",
+    "label": "registration-service",
+    "format": "HTML",
+    "url": "https://www.sharek.gov.qa/en/articles/civil-service-and-government-development-bureau/registration-on-the-kawader-platform-for-job-seekers/679a47d26798e422f45abc74",
+    "status": "retained",
+    "path": "data/evidence/research/world60-qa-cgb-kawader-registration-service-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.sharek.gov.qa/en/articles/civil-service-and-government-development-bureau/registration-on-the-kawader-platform-for-job-seekers/679a47d26798e422f45abc74",
+      "fetchedAt": "2026-09-26T21:21:22.506Z",
+      "sha256": "b02a173dbfa45d25afbb9aa40509ab424590b7598f1f79d525cee60eebdf6efe",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 253433
+    }
+  },
+  {
+    "sourceId": "sa-hrdf-jadarat",
+    "label": "individual-service",
+    "format": "HTML",
+    "url": "https://www.hrdf.org.sa/en/products-and-services/programs/individuals/other/jadarat/",
+    "status": "failed",
+    "failurePath": "data/evidence/research/world60-sa-hrdf-jadarat-individual-service-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T21:21:30.768Z",
+    "error": "robots.txt unreachable at https://www.hrdf.org.sa: fetch failed"
+  },
+  {
+    "sourceId": "sa-hrdf-jadarat",
+    "label": "applicant-conditions",
+    "format": "HTML",
+    "url": "https://www.hrdf.org.sa/en/products-and-services/programs/individuals/other/jadarat/apply",
+    "status": "not-attempted",
+    "reason": "robots.txt unreachable at https://www.hrdf.org.sa: fetch failed"
+  },
+  {
+    "sourceId": "om-government-jobs",
+    "label": "government-service",
+    "format": "HTML",
+    "url": "https://gov.om/w/apply-for-vacant-government-positions",
+    "status": "retained",
+    "path": "data/evidence/research/world60-om-government-jobs-government-service-2026-09-27.html",
+    "evidence": {
+      "url": "https://gov.om/w/apply-for-vacant-government-positions",
+      "fetchedAt": "2026-09-26T21:21:24.244Z",
+      "sha256": "27f17c9534ff01e08348f1ad05f7523a9dbf347fdda7ac49161591bd310ac314",
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 246383
+    }
+  },
+  {
+    "sourceId": "om-government-jobs",
+    "label": "ministry-referral",
+    "format": "HTML",
+    "url": "https://mol.gov.om/manpoweralleservices",
+    "status": "retained",
+    "path": "data/evidence/research/world60-om-government-jobs-ministry-referral-2026-09-27.html",
+    "evidence": {
+      "url": "https://mol.gov.om/manpoweralleservices",
+      "fetchedAt": "2026-09-26T21:21:23.731Z",
+      "sha256": "009a76836a32367dfa45bcf7546740ffe06506c42b4d4c9889daf37f20a5aaf0",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 383645
+    }
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "careers-portal",
+    "format": "HTML",
+    "url": "https://dubaicareers.ae/en/pages/default.aspx",
+    "status": "retained",
+    "path": "data/evidence/research/world60-ae-dubai-careers-careers-portal-2026-09-27.html",
+    "evidence": {
+      "url": "https://dubaicareers.ae/en/pages/default.aspx",
+      "fetchedAt": "2026-09-26T21:26:34.578Z",
+      "sha256": "ba46ef0249e4bab6c2ff86e9803247abb4c81fd9402371f592fa1d1ba6d153da",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 121279
+    }
+  }
+]

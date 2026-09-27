@@ -1,0 +1,10 @@
+{
+  "sourceId": "ec-encuentraempleo-public-contests",
+  "label": "selection-authority",
+  "url": "https://selecciondepersonal.trabajo.gob.ec/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/latam67-ec-encuentraempleo-public-contests-selection-authority-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:19:31.650Z",
+  "error": "robots.txt unreachable at https://selecciondepersonal.trabajo.gob.ec: fetch failed"
+}

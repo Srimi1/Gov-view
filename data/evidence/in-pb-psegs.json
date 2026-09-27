@@ -1,0 +1,44 @@
+[
+ {
+  "url": "https://punjab.gov.in/recruitments/",
+  "fetchedAt": "2026-09-25T02:35:40.592Z",
+  "sha256": "ed3199a764ae06163a0da1d8e91716a43f4ddb9b52ab51383d2e123221ca929b",
+  "bytes": 170535,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://dit.punjab.gov.in/",
+  "fetchedAt": "2026-09-25T02:35:40.612Z",
+  "sha256": "39d0ad44bf92680933716d3f59e84857af0a0aa5c03e9174ce34ffda243e5fe7",
+  "bytes": 149434,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://punjab.gov.in/wp-content/uploads/2026/09/Detailed-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "fetchedAt": "2026-09-25T02:35:43.636Z",
+  "sha256": "e05e8f4387785b62aca11b1c4d42e409f905593a9b5f01cc060160fba870ffaa",
+  "bytes": 355744,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://dit.punjab.gov.in/wp-content/uploads/2026/09/Detailed-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "fetchedAt": "2026-09-25T02:35:43.445Z",
+  "sha256": "e05e8f4387785b62aca11b1c4d42e409f905593a9b5f01cc060160fba870ffaa",
+  "bytes": 355744,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://punjab.gov.in/wp-content/uploads/2026/09/Newspaper-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "fetchedAt": "2026-09-25T02:35:44.429Z",
+  "sha256": "e2a248d0db4aecbaecdfeb004ed2e5a5f869baabccd900605680ac1fe995ef6e",
+  "bytes": 197889,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://dit.punjab.gov.in/wp-content/uploads/2026/09/Newspaper-Advertisement-for-the-position-of-DGM-Technical-Cyber-Security.pdf",
+  "fetchedAt": "2026-09-25T02:35:44.263Z",
+  "sha256": "e2a248d0db4aecbaecdfeb004ed2e5a5f869baabccd900605680ac1fe995ef6e",
+  "bytes": 197889,
+  "contentType": "application/pdf"
+ }
+]

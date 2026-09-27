@@ -1,0 +1,29 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-hr-hssc",
+  "cycleId": "hssc-cet-group-d-05-2026",
+  "indexUrl": "https://hssc.gov.in/advertisement",
+  "originalUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements",
+  "originalSha256": "570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9",
+  "originalPages": 99,
+  "extensionUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements",
+  "extensionSha256": "93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540",
+  "extensionPages": 1,
+  "opensOn": "2026-06-19",
+  "originalClosesOn": "2026-07-03",
+  "closesOn": "2026-07-05",
+  "cutoffLocalTime": "23:59",
+  "extensionPublishedOn": "2026-07-03",
+  "feeClosesOn": "2026-07-08",
+  "correctionClosesOn": "2026-07-11",
+  "applicationUrl": "https://onetimeregn.haryana.gov.in/",
+  "evidenceNotes": [
+    "HSSC advertisement register contains distinct 18 June 2026 original 05/2026 and 3 July 2026 Group-D closing-date extension rows. Original 99-page PDF and one-page extension are retained with exact SHA-256 hashes.",
+    "Original PDF page 1 opens registration 19 June and closes 3 July 2026 at 11:59 PM. Extension page 1 closes online applications 5 July 2026 at 11:59 PM, fees 8 July, and correction 11 July. Fee and correction dates are not application dates.",
+    "Original PDF page 3 says detailed Group-D posts will be published separately. This is one CET registration cycle; no vacancy total or exam centre is asserted.",
+    "CET policy in original PDF page 40 permits Indian citizens and Nepal/Bhutan subjects, with a Government eligibility certificate required for Nepal/Bhutan. This establishes entry to CET; final job appointment conditions remain post-specific.",
+    "CET policy page 40 says Matric with Hindi or Sanskrit as a subject, Hindi as a higher-standard subject, or a route under the Haryana Group-D Employees Act. Chapter 2 page 3 states narrower Hindi/Sanskrit wording for most Group-D posts. Founder must reconcile the exception before publication. No CEFR level is printed.",
+    "Original PDF page 4 sets age 18–42 on registration close, with government relaxations; only the unambiguous minimum age is machine checked. Page 4 limits Haryana reservation benefits to bona fide residents, not all general-category applications.",
+    "Only advertisement 05/2026 and its extension are extracted. Advertisement 06/2026 and other HSSC notices remain coverage gaps. HPSC is a separate authority whose robots.txt blocks automated collection."
+  ]
+}

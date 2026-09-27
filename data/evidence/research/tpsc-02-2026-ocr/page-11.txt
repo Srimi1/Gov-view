@@ -1,0 +1,59 @@
+Tripura Gazette, Extraordinary Issue, February 25, 2026 A. D.
+
+random signals through LTI systems, amplitude modulation and demodulation,
+angle modulation and demodulation, spectra of AM and FM, Super heterodyne
+receivers, circuits for analog communications, Information theory, entropy, mutual
+information and channel capacity theorem, Digital communications, PCM, DPCM,
+digital modulation schemes, amplitude, phase and frequency shift keying (ASK,
+PSK, FSK), QAM, MAP and ML decoding, matched filter receiver, calculation of
+bandwidth, SNR and BER for digital modulation; Fundamentals of error correction,
+Hamming codes; Timing and frequency synchronization, inter- symbol interference
+and its mitigation; Basics of TDMA, FDMA and CDMA
+
+Section 5: Data Structures and Programming
+Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs.
+Programming in C, C++, Java, Recursion.
+
+Section 6: Algorithms
+Searching, sorting, hashing. Asymptotic worst-case time and space complexity.
+Algorithm design techniques: greedy, dynamic programming and divide and
+conquer. Graph traversals, minimum spanning trees, shortest paths
+
+Section 7: Compiler Design
+Lexical analysis, parsing, syntax-directed wanslation. Runtime environments.
+Intermediate code generation. Local optimization, Data flow analyses: constant
+propagation, liveness analysis, common subexpression elimination.
+
+Section 8: Operating System
+System calls, processes, threads, inter process communication, concurrency and
+synchronization.
+Deadlock. CPU and V/O scheduling. Memory management and virtual memory. File
+systems.
+
+Section 9: Databases
+ER- model. Relational model: relational algebra, tuple calculus, SQL. Integrity
+constraints, normal forms. File organization, indexing (e.g, B and B+ trees).
+Transactions and concurrency control.
+
+Section 10: Information Systems and Software Engineering:
+Information gathering, requirement and feasibility analysis, data flow diagrams,
+process specifications, input/output design, process life cycle, planning and
+managing the project, design, coding, testing, Implementation, maintenance.
+
+Section 11: Computer Networks
+
+Concept of layering: OSI and TCP/IP Protocol Stacks; Basics of packet, circuit and
+virtual circuit-switching; Data link layer: framing, error detection, Medium Access
+Control, Ethernet bridging; Routing protocols: shortest path, flooding, distance
+vector and link state routing; Fragmentation and IP addressing, IPv4, CIDR
+notation, Basics of IP support protocols (ARP, DHCP, ICMP), Network Address
+Translation (NAT); Transport layer: flow control and congestion control, UDP,
+TCP, sockets; Application layer protocols: DNS, SMTP, HTTP, FTP, Email.
+
+Section 12: Web Technologies:
+HTMLS, CSS3, XML, basic concept of client-server computing, web server, proxy
+server, web application development, MVC Architecture, web services, frontend
+technologies.
+
+21
+

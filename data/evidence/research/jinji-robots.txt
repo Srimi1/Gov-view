@@ -1,0 +1,8 @@
+## Example (# is comment out)
+##  User Agent : ALL
+##  BlockURL   : /useless_file.html,/junk/other_useless_file.html,/calendar/*
+#
+#User-agent: *
+#Disallow: /useless_file.html
+#Disallow: /junk/other_useless_file.html
+#Disallow: /calendar/

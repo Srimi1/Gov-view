@@ -1,0 +1,104 @@
+[
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "authority-jobs",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/recruit/7.html"
+  },
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "vacancy-board",
+    "format": "HTML",
+    "url": "https://csboa1.csb.gov.hk/csboa/joa/JVE_001_search.action"
+  },
+  {
+    "sourceId": "hk-csb-vacancies",
+    "label": "appointment-requirements",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/admin/appoint/35.html"
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "examination-info",
+    "format": "HTML",
+    "url": "https://www.csb.gov.hk/english/recruit/cre/949.html"
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "current-applicant-notes",
+    "format": "PDF",
+    "url": "https://www.csb.gov.hk/english/recruit/cre/files/NA_Eng.pdf"
+  },
+  {
+    "sourceId": "hk-csb-cre-blnst",
+    "label": "bilingual-applicant-notes",
+    "format": "HTML",
+    "url": "https://csboa1.csb.gov.hk/csboa/cre/CRE_4_notes.action"
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "authority-referral",
+    "format": "HTML",
+    "url": "https://www.safp.gov.mo/pt/services/exam"
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "competitions-portal",
+    "format": "HTML",
+    "url": "https://concurso-uni.safp.gov.mo/"
+  },
+  {
+    "sourceId": "mo-safp-public-competitions",
+    "label": "government-english-referral",
+    "format": "HTML",
+    "url": "https://www.gov.mo/en/announcements/recruitment/"
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "government-referral",
+    "format": "HTML",
+    "url": "https://www.dubai.ae/living/jobs-employment/government-job-vacancies"
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "federal-government-directory",
+    "format": "HTML",
+    "url": "https://u.ae/en/resources/government-jobs"
+  },
+  {
+    "sourceId": "qa-cgb-kawader",
+    "label": "registration-service",
+    "format": "HTML",
+    "url": "https://www.sharek.gov.qa/en/articles/civil-service-and-government-development-bureau/registration-on-the-kawader-platform-for-job-seekers/679a47d26798e422f45abc74"
+  },
+  {
+    "sourceId": "sa-hrdf-jadarat",
+    "label": "individual-service",
+    "format": "HTML",
+    "url": "https://www.hrdf.org.sa/en/products-and-services/programs/individuals/other/jadarat/"
+  },
+  {
+    "sourceId": "sa-hrdf-jadarat",
+    "label": "applicant-conditions",
+    "format": "HTML",
+    "url": "https://www.hrdf.org.sa/en/products-and-services/programs/individuals/other/jadarat/apply"
+  },
+  {
+    "sourceId": "om-government-jobs",
+    "label": "government-service",
+    "format": "HTML",
+    "url": "https://gov.om/w/apply-for-vacant-government-positions"
+  },
+  {
+    "sourceId": "om-government-jobs",
+    "label": "ministry-referral",
+    "format": "HTML",
+    "url": "https://mol.gov.om/manpoweralleservices"
+  },
+  {
+    "sourceId": "ae-dubai-careers",
+    "label": "careers-portal",
+    "format": "HTML",
+    "url": "https://dubaicareers.ae/en/pages/default.aspx"
+  }
+]

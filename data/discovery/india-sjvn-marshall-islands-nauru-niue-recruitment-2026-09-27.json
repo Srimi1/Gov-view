@@ -1,0 +1,392 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 85,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-sjvn-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-sjvn-careers",
+        "name": "India — SJVN official careers",
+        "country": "IN",
+        "authority": "SJVN Limited — Government of India and Government of Himachal Pradesh joint venture",
+        "homepage": "https://www.sjvn.nic.in/en/current-job",
+        "discoveredFrom": "https://www.sjvn.nic.in/en",
+        "notes": "Public-sector energy employer; current-job search index mixes applications and selection updates. Sample advertisement 123/2025 requires Indian nationality and Arunachal Pradesh domicile. Cook trainee has one-year training before regularisation; Assistant has one-year probation. Written-test medium English and Hindi, not CEFR proficiency. Original closes 30 September 2025; indexed row shows 19 November 2026, unresolved. Qualifications, age and experience remain independent. No personalized eligibility assessed.",
+        "accessGap": "Current directory reader timed out; browser certificate-name error stopped navigation, not bypassed. Seven-page original reader accessible, unretained. Current amendments and exact date/status require reconciliation; generic 2026 online-only recruitment advisory differs from sample hard-copy/Bank Draft instructions. Complete employer/subsidiary and other-pathway inventory unverified. No adapter or accepted cycle; no subdivision tags inferred from project footprint.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.sjvn.nic.in/en/current-job",
+          "label": "Official careers directory",
+          "sourceLanguage": "English",
+          "readerStatus": "search index lead available; direct reader timeout and browser net::ERR_CERT_COMMON_NAME_INVALID; no bypass",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://sjvn.nic.in/sites/default/files/2026-03/DetailedAdvertisementforWorkmeninArunachalPradeshProjects.pdf",
+          "label": "Advertisement 123/2025",
+          "sourceLanguage": "English",
+          "readerStatus": "seven-page PDF reader accessible; sections 2.2, 6.4, 12, 13 and 14.1 read; index deadline conflict unresolved",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.sjvn.nic.in/en/node/17",
+          "label": "April 2026 recruitment advisory",
+          "sourceLanguage": "English",
+          "readerStatus": "reader/search accessible; generic online-only guidance not substituted for exact notice",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Sample distinguishes Cook training followed by regularisation and Assistant probation; unrelated executive/apprenticeship updates require separate notices.",
+      "internationalApplicantAssessment": "Sample 123/2025 excludes non-Indian nationals and separately requires Arunachal domicile; this does not establish employer-wide nationality policy.",
+      "languageAssessment": "Sample written-test medium English/Hindi; English questions and typing speed do not establish CEFR/IELTS level.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mh-psc-public-service-jobs",
+      "country": "MH",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mh-psc-public-service-jobs",
+        "name": "Marshall Islands — Public Service Commission jobs",
+        "country": "MH",
+        "authority": "Republic of the Marshall Islands — Public Service Commission",
+        "homepage": "https://www.pscrmi.net/all-jobs",
+        "discoveredFrom": "https://mof.gov.mh/category/job-vacancies/page/2/",
+        "notes": "Finance Ministry refers applicants to PSC; PSC invites citizens and non-citizens to seek public-service employment. Homepage recent posts include Until Filled labels. Sample RMI-093-26 opens 13 May 2026 with no fixed deadline; linked PDF title Digital Communications and Platform Officer differs from homepage Communications and Platform label. Notice requests outstanding written/verbal English communication, without standardized level. Work location Majuro is not exam venue; tenure unknown.",
+        "accessGap": "PSC homepage and linked three-page PDF reader accessible; All Jobs initial read later timed out, complete pagination unverified. Non-citizen invitation is not confirmed notice-specific immigration/work permission. Appointment tenure, title discrepancy, amendments, current until-filled status and separate public entities need review. DIDA section empty statement is not countrywide absence. No raw original, adapter or accepted cycle.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://mof.gov.mh/category/job-vacancies/page/2/",
+          "label": "Government Finance Ministry PSC referral",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; official referral to non-government-domain PSC established",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.pscrmi.net/",
+          "label": "PSC identity, non-citizen invitation and recent vacancies",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; published categories are not appointment tenure",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.pscrmi.net/all-jobs",
+          "label": "PSC All Jobs",
+          "sourceLanguage": "English",
+          "readerStatus": "initial reader accessible; follow-up timeout; full inventory not reconciled",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://71a4288c-d198-490b-9c57-08aea3c274a6.usrfiles.com/ugd/8fb30e_9353514f55c440149df43c6c55ad5be1.pdf",
+          "label": "Digital Communications and Platform Officer RMI-093-26",
+          "sourceLanguage": "English",
+          "readerStatus": "three-page reader accessible; opening, until-filled, desirable qualifications and language read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Sample digital public-service role; permanent/temporary tenure unestablished.",
+      "internationalApplicantAssessment": "PSC explicitly invites non-citizens; role-specific application, selection and appointment/work-right conditions still require review.",
+      "languageAssessment": "Sample requires outstanding verbal/written English communication, qualitative; no CEFR or test-score mapping.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "nr-hr-government-jobs",
+      "country": "NR",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "nr-hr-government-jobs",
+        "name": "Nauru — Human Resources public-service jobs",
+        "country": "NR",
+        "authority": "Republic of Nauru — Department of Human Resources, Chief Secretary Department",
+        "homepage": "https://nauruhr.gov.nr/job/",
+        "discoveredFrom": "https://nauruhr.gov.nr/",
+        "notes": "Official HR archive reports ten jobs across five pages; sampled Certified Nurse deadline is 22 September 2023 at 17:00, timezone unspecified. Old visible post is not current opening. HR services says local recruitment is handled here, expatriates through separate Chief Secretary unit. Nurse description mentions one-year graduate internship but also completed graduate year/clinical experience requirements; sequencing and appointment tenure need clarification. Nauru Health Practitioners Registration Board registration required; no named language threshold.",
+        "accessGap": "Reader-accessible government domain, services and sample HTML. Five-page archive and current Gazette notices not reconciled; HR unit responsibility pages differ; Finance referral supplies an expatriate teacher notice, but complete expatriate registry remains unresolved. Local scope does not define nationality or imply foreign-citizen blanket ban. Historical intern/experience wording, licensing, work rights and current recruitment need review. No raw originals, adapter or accepted cycle.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://nauruhr.gov.nr/",
+          "label": "Official Department of Human Resources homepage",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nauruhr.gov.nr/our-services/",
+          "label": "Local and expatriate recruitment responsibilities",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; distinct Chief Secretary expatriate unit identified",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nauruhr.gov.nr/job/",
+          "label": "Government HR jobs archive",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; ten-job total, old dates and five-page pagination observed",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nauruhr.gov.nr/job/certified-nurse/",
+          "label": "Historical Certified Nurse notice",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; deadline 22 September 2023 17:00, local registration and graduate-year wording read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nauruhr.gov.nr/recruitment-unit/",
+          "label": "Recruitment-unit local and expatriate procedures",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; unit responsibilities differ from Our Services, needs reconciliation; visa processing distinct from invitation",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Historical nurse graduate-intern description; tenure and prior-graduate-year requirement unresolved.",
+      "internationalApplicantAssessment": "Local and expatriate recruitment use different units. Sample nationality unstated; foreign applicants require separate route and licensing/work-right evidence.",
+      "languageAssessment": "Historical nurse notice specifies communication skills without named language or formal level.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "nu-psc-government-vacancies",
+      "country": "NU",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "nu-psc-government-vacancies",
+        "name": "Niue — Public Service Commission vacancies",
+        "country": "NU",
+        "authority": "Government of Niue — Niue Public Service Commission",
+        "homepage": "https://www.gov.nu/vacancies",
+        "discoveredFrom": "https://www.gov.nu/vacancies",
+        "notes": "Current PSC page retains already-past September deadlines; Secretary for Justice reopening closes 24 September 2026 at 15:30, timezone unconfirmed on checked page. Original job description page 1 sets two-year service; page 5 lists desirable strong communication in Vagahau Niue and English, without standardized level. Degree and senior leadership remain independent. Homepage asks at least two references while linked checklist asks three; conflict unresolved. Niue remains separate jurisdiction from New Zealand.",
+        "accessGap": "HTML reader/browser accessible; reader original PDF inaccessible and checklist timeout, ordinary browser rendered both. Job-description pages 1,5,8,10,11 inspected; rest not fully reviewed, page 11 blank. Checklist recommends English supporting documents, not applicant test score. Nationality, immigration, appointment conditions, timezone, amendments and reference conflict require review; past visible roles do not prove no current recruitment. No raw originals/adapter/accepted cycle.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.nu/vacancies",
+          "label": "Official PSC vacancies and reopening",
+          "sourceLanguage": "English",
+          "readerStatus": "reader and browser accessible; current attachment href verified after expansion; past September deadlines",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.nu/media/pages/vacancies/38dae6e24e-1790018836/2026-jd-secretary-for-justice.pdf",
+          "label": "Secretary for Justice original job description",
+          "sourceLanguage": "English",
+          "readerStatus": "reader inaccessible; browser navigation timeout then rendered eleven-page PDF; pages 1,5,8,10,11 inspected; page 11 blank",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.nu/media/pages/vacancies/cf2f6f88ae-1764013155/checklist-for-job-applicants_-1.pdf",
+          "label": "Current linked application checklist",
+          "sourceLanguage": "English",
+          "readerStatus": "reader timeout; browser navigation timeout then one-page PDF rendered/read; three-reference conflict retained",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Secretary for Justice original page 1 specifies two-year term, pending full review.",
+      "internationalApplicantAssessment": "Checked pages do not settle nationality or work/immigration permission; external NZ-hosted health advert remains Niue role, not NZ-country eligibility.",
+      "languageAssessment": "Secretary original page 5: desirable strong Vagahau Niue/English communication, no CEFR. Checklist recommends English documents; separate from proficiency.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "nr-finance-expatriate-recruitment",
+      "country": "NR",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "nr-finance-expatriate-recruitment",
+        "name": "Nauru — Finance Department public expatriate recruitment",
+        "country": "NR",
+        "authority": "Republic of Nauru — Department of Finance publishing Chief Secretary and Education recruitment",
+        "homepage": "https://naurufinance.info/",
+        "discoveredFrom": "https://nauruhr.gov.nr/recruitment-unit/",
+        "notes": "Government HR links official Finance website. Its September Teacher Degree notice invites suitably qualified expatriates for twenty two-year Education contracts, closing 9 September 2026 at unspecified close of business. Bachelor of Education or higher and five years teaching experience required; foreign invitation cannot override these conditions. Teaching registration copies accompany application; successful applicants provide medical/police evidence. Communication criteria qualitative, no named language score. Notice is historical closed, not current application.",
+        "accessGap": "Finance homepage/news and linked role reader accessible. Current Vacancies section explicitly empty; this scoped section does not prove all Nauru recruitment checked empty. Complete expatriate authority/notice inventory, current amendments, immigration/work-right approval, licensing recognition and cutoff hour/timezone remain unresolved. HR recruitment-unit and Our Services responsibility wording differs; visa processing occurs separately from application. No raw originals, adapter or reviewed cycle.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://nauruhr.gov.nr/recruitment-unit/",
+          "label": "Government HR referral to Finance",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; relevant official external link verifies .info identity",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://naurufinance.info/",
+          "label": "Official Finance homepage and recruitment news",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; government identity and September teacher news links read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://naurufinance.info/2026/09/02/teacher-degree/",
+          "label": "Expatriate Teacher Degree September 2026",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; two-year contract, expatriate invitation, qualifications, registration, and already-past close of business read",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://naurufinance.info/current-vacancies/",
+          "label": "Finance current-vacancies section",
+          "sourceLanguage": "English",
+          "readerStatus": "reader accessible; scoped no-current-vacancies statement, not national checked-empty coverage",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": "Sample Teacher Degree specifies two-year expatriate contract, not permanent appointment.",
+      "internationalApplicantAssessment": "Sample expressly invites expatriates; selection, professional registration and work/visa approval remain independent and unverified for individuals.",
+      "languageAssessment": "Sample has strong communication criteria without named language or standardized level.",
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

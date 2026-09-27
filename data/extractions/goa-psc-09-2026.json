@@ -1,0 +1,76 @@
+{
+  "advertisementsUrl": "https://gpsc.goa.gov.in/advertisements/",
+  "advertisementUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+  "advertisementSha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+  "instructionsUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+  "instructionsSha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+  "applicationUrl": "https://cbes.goa.gov.in/",
+  "publishedOn": "2026-09-11",
+  "directClosesOn": "2026-09-25",
+  "transferClosesOn": "2026-10-25",
+  "posts": [
+    {
+      "key": "medical-officer-transfer",
+      "title": "Medical Officer — Inspectorate of Prisons (transfer on deputation)",
+      "mode": "transfer",
+      "vacancies": 2,
+      "pay": "Pay Matrix Level 10",
+      "qualifications": "Official holding an analogous post under Directorate of Health Services or Goa Medical College.",
+      "language": "No post-specific language requirement stated in advertisement."
+    },
+    {
+      "key": "assistant-engineer-electrical-transfer",
+      "title": "Assistant Engineer (Electrical) — Goa Dental College (transfer on deputation)",
+      "mode": "transfer",
+      "vacancies": 1,
+      "pay": "Pay Matrix Level 7",
+      "qualifications": "Officer of Central or State Government holding an analogous regular post, or three years' regular service in the specified pay scale or equivalent; Electrical Engineering degree or equivalent and three years' maintenance/repair experience with dental machinery and equipment.",
+      "language": "No post-specific language requirement stated in advertisement."
+    },
+    {
+      "key": "assistant-professor-radio-diagnosis-transfer",
+      "title": "Assistant Professor, Radio Diagnosis — Goa Medical College (transfer on deputation)",
+      "mode": "transfer",
+      "vacancies": 5,
+      "pay": "Pay Matrix Level 11",
+      "qualifications": "Officer under Central, State or Union Territory government holding an analogous post. Deputation ordinarily does not exceed three years.",
+      "language": "No post-specific language requirement stated in advertisement."
+    },
+    {
+      "key": "lecturer-general-medicine",
+      "title": "Lecturer in General Medicine — Goa Medical College",
+      "mode": "direct",
+      "vacancies": 5,
+      "pay": "Pay Matrix Level 11",
+      "qualifications": "Recognised medical qualification under the cited Indian Medical Council Act schedules; recognised postgraduate degree or equivalent in General Medicine; at least three years in relevant senior residency/registrar/tutor/demonstrator role after postgraduate degree; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation.",
+      "language": "Konkani essential; general instructions assess at least working knowledge at interview. Government may relax this for professional-college posts on Commission recommendation where suitable Konkani-speaking candidates are unavailable. Marathi desirable."
+    },
+    {
+      "key": "dietician",
+      "title": "Dietician — Directorate of Health Services",
+      "mode": "direct",
+      "vacancies": 1,
+      "pay": "Pay Matrix Level 6",
+      "qualifications": "Degree in Home Science from recognised university or equivalent; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Dietetics/nutrition qualifications, hospital experience and Marathi are desirable.",
+      "language": "Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable."
+    },
+    {
+      "key": "scientific-assistant-toxicology",
+      "title": "Scientific Assistant, Toxicology, Chemistry and Narcotics — Forensic Science Laboratory",
+      "mode": "direct",
+      "vacancies": 1,
+      "pay": "Pay Matrix Level 6",
+      "qualifications": "Second-class Master's in Science from recognised university, specialising in Chemistry or Forensic Science; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Computer literacy and Marathi are desirable.",
+      "language": "Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable."
+    },
+    {
+      "key": "scientific-assistant-biology",
+      "title": "Scientific Assistant, Biology and Serology — Forensic Science Laboratory",
+      "mode": "direct",
+      "vacancies": 1,
+      "pay": "Pay Matrix Level 6",
+      "qualifications": "Second-class Master's in Science from recognised university, specialising in Zoology, Forensic Science, Microbiology, Genetics or Biotechnology; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Computer literacy and Marathi are desirable.",
+      "language": "Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable."
+    }
+  ]
+}

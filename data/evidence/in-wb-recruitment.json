@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://psc.wb.gov.in/",
+  "fetchedAt": "2026-09-25T02:53:11.288Z",
+  "sha256": "e36d72c8278b71638e3f0fe3ce4e7b3eb0804d9980d84dc3776aea674da68416",
+  "bytes": 157097,
+  "contentType": "text/html;charset=ISO-8859-1"
+ },
+ {
+  "url": "https://psc.wb.gov.in/notification_announcement.jsp",
+  "fetchedAt": "2026-09-25T02:53:14.541Z",
+  "sha256": "eb4db3aaeaeffb071f1e325f55f3215d520e486ff093cad42626ea84d30c7cfb",
+  "bytes": 1363947,
+  "contentType": "text/html;charset=ISO-8859-1"
+ },
+ {
+  "url": "https://psc.wb.gov.in/Download?param1=Ad_20260513181624_05_2026_ADVT.pdf&param2=advertisement",
+  "fetchedAt": "2026-09-25T02:53:19.901Z",
+  "sha256": "5cd1afa0a2c09a5432729a94ec7fd08a99dd81f9838075709daee8a47367caf7",
+  "bytes": 608378,
+  "contentType": "APPLICATION/PDF;charset=UTF-8"
+ },
+ {
+  "url": "https://psc.wb.gov.in/Download?param1=An_20260515195434_Notice_for_extension_of_Online_Application_date.pdf&param2=advertisement",
+  "fetchedAt": "2026-09-25T02:53:19.672Z",
+  "sha256": "ee29f64b6c4b81a6fd11d76fab08596af2057b5a57177966c6ac82e7d3c64a3b",
+  "bytes": 87560,
+  "contentType": "APPLICATION/PDF;charset=UTF-8"
+ },
+ {
+  "url": "https://psc.wb.gov.in/Download?param1=An_20260413115222_Indicative_Advt_05-2026.pdf&param2=advertisement",
+  "fetchedAt": "2026-09-25T02:53:21.142Z",
+  "sha256": "48fe88dffd0fabbd268b4412f7263eb378d7e2128abfa7662ba959830f003710",
+  "bytes": 220272,
+  "contentType": "APPLICATION/PDF;charset=UTF-8"
+ }
+]

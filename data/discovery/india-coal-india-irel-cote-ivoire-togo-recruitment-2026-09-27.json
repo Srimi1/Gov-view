@@ -1,0 +1,332 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 90,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-coal-india-jobs",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-coal-india-jobs",
+        "name": "Coal India Limited (CIL) jobs",
+        "country": "IN",
+        "authority": "Coal India Limited — Ministry of Coal, Government of India",
+        "homepage": "https://www.coalindia.in/career-cil/jobs-coal-india/",
+        "discoveredFrom": "https://www.coalindia.in/career-cil/",
+        "notes": "Coal India index mixes management-trainee GATE/CBT intakes, contract advisors and medical admission/selection notices. Original CBT 03/2026 restricts applications to Indian nationals; recognized foreign degrees do not waive citizenship. One-year training/probation precedes confirmed E-1 officer service. Closed original window 12 May 10:00–11 June 18:00, timezone unstated; later notices unreviewed. Bilingual Hindi/English test with General English; Rajbhasha Hindi role requires specific Hindi/English academic qualifications, not CEFR. GATE-2027 and GATE-2025 are separate routes, not editions to merge. Subsidiary operations do not establish state collection scope or venues.",
+        "accessGap": "Reader employer page 403; browser career hub/jobs index rendered after non-binding public notice. Index displayed 187 entries, not 187 distinct current cycles; first 20 inspected, full inventory/amendments pending. Hosted original referred by employer homepage; raw bytes unretained. GATE notices, current eligibility, international exceptions, timezone and collection policy require review.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.coalindia.in/career-cil/",
+          "type": "official-employer-referral",
+          "observationMethod": "ordinary-browser",
+          "summary": "Career hub separates jobs, departmental recruitment, results, medical norms and internships. Public notice refers jobs index.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.coalindia.in/career-cil/jobs-coal-india/",
+          "type": "official-jobs-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "First page mixed GATE intakes, CBT, fixed-tenure/advisor contracts and medical admission notices; 187 index entries not accepted distinct cycles.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://d3u7ubx0okog7j.cloudfront.net/documents/Advertisement_03_2026_dated_05.05.2026.pdf",
+          "type": "original-sample-notice",
+          "observationMethod": "official-reader",
+          "summary": "CBT 03/2026: Indian-national restriction, independent degree/age/document/fitness gates, provisional CBT entry; Hindi/English papers, General English and Rajbhasha academic qualification. Application window ended June; original tenure training/probation to confirmed officer, not one-year fixed term.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-specific",
+        "note": "CBT sample one-year training/probation followed by confirmed officer service; separate IICM/Advisor contract titles do not transfer.",
+        "value": "training/probation followed by confirmed service"
+      },
+      "internationalApplicantAssessment": {
+        "status": "sample-restricted-indian-nationals",
+        "note": "CBT 03/2026 General Instructions 11(a): only Indian nationals. Foreign-degree recognition separate; no portal-wide restriction inferred."
+      },
+      "languageAssessment": {
+        "status": "sample-language-content",
+        "note": "CBT Hindi/English, English version governs discrepancy; General English component. Rajbhasha role Hindi MA/graduate Hindi-English qualification; no CEFR level.",
+        "namedLanguage": [
+          "Hindi",
+          "English"
+        ],
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "in-irel-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-irel-careers",
+        "name": "IREL (India) Limited careers",
+        "country": "IN",
+        "authority": "IREL (India) Limited",
+        "homepage": "https://irel.co.in/careers",
+        "discoveredFrom": "https://irel.co.in/careers",
+        "notes": "IREL official career index separates regular executive recruitment CO/HRM/35/2026, board appointments and apprenticeships. Chairman/Managing Director index deadline 8 October date-only; original unread. Regular executive row closed 17 August; corrigendum separately linked. Chavara apprenticeship extended date 10 April 2026 is not a permanent job or current open intake. Nationality, residence, tenure and language need specific originals. English/Hindi interface is not applicant proficiency. Operating units are not exam locations or state collection scopes.",
+        "accessGap": "Reader careers index readable, about-us reader navigation only. Current CMD original reader PDF has no extracted text and browser viewer blank after navigation timeout. Government ownership/DAE identity, original nationality/language, exact cutoff/timezone, terms, full inventory and amendments require direct official identity/original review before acceptance.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://irel.co.in/careers",
+          "type": "official-careers-index",
+          "observationMethod": "official-reader",
+          "summary": "Current CMD index 10 September–8 October, regular executive title with closed August date, apprenticeship rows/extensions and separate originals.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://irel.co.in/documents/20126/167125/IREL-ADVT-JD%2B(1)_merged_removed.pdf/fe452790-56a9-3775-116e-b49dd3c4043b?t=1789036518054",
+          "type": "unread-current-original",
+          "observationMethod": "reader-no-text-and-browser-blank-viewer",
+          "summary": "Current CMD five-page original linked by employer; critical rules unread. No original eligibility accepted.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://dae.gov.in/public-sector-units/",
+          "type": "official-parent-identity-index",
+          "observationMethod": "primary-government-search-index",
+          "summary": "DAE public-sector-units primary index identifies IREL (India) Limited. Direct reader request timed out; current ownership percentage and recruitment conditions are not accepted from indexed identity. Direct official identity/original review remains pending.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "index-title-only",
+        "note": "CO/HRM/35/2026 explicitly regular executive recruitment; does not establish CMD duration or apprenticeship appointment.",
+        "value": "regular"
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "Sample CMD nationality/residence unread; old recruitment restrictions or overseas trade links cannot transfer."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "English/Hindi interface not language criterion; current formal requirements unknown.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "ci-public-service-competitions",
+      "country": "CI",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "ci-public-service-competitions",
+        "name": "Côte d’Ivoire public-service administrative competitions",
+        "country": "CI",
+        "authority": "Ministère de la Fonction Publique et de la Modernisation de l’Administration",
+        "homepage": "https://www.fonctionpublique.gouv.ci/",
+        "discoveredFrom": "https://www.fonctionpublique.gouv.ci/",
+        "notes": "Official ministry homepage refers 2026 administrative competition order and unified GUCA portal. Current homepage also shows results and medical visit relaunch; these are not new application windows. Indexed original Article 3 names Ivorian nationality, civic/integration criteria and grade-specific age rules; foreign diploma equivalence separate. Original reader text empty/browser pages blank, so index-derived translation remains unaccepted. Registration dates come from opening communiqués, not general order. French interface does not establish formal proficiency level.",
+        "accessGap": "Reader homepage zero text/redirected home unavailable; browser rendered official recruitment/referral section. Order indexed text and three-page PDF detected, but direct reader/browser pages unread. Nationality/age translation, full originals/communqués, exact deadlines, tenure, formal language and permitted collection pending. GUCA external host referral verified, no account creation or access to personal results.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.fonctionpublique.gouv.ci/index.php/front-page/navigator/accueil",
+          "type": "official-referral-page",
+          "observationMethod": "ordinary-browser",
+          "summary": "Official 2026 competition order, GUCA registration/candidate space referrals; distinct results/medical visit notices.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.fonctionpublique.gouv.ci/assets/css/ARRETE_OUVERTURE_CONCOURS_ADMINISTRATIFS_26.pdf",
+          "type": "unread-original-with-indexed-extract",
+          "observationMethod": "official-primary-search-index-reader-no-text-browser-blank",
+          "summary": "Indexed Article 3 nationality/age and Article 5 dates via opening communiqués; direct three-page original unread, translation unaccepted.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "Administrative direct/recruitment/professional competitions have distinct routes; general order does not establish role tenure.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "indexed-rule-awaiting-original-review",
+        "note": "Official search index Article 3 states Ivorian nationality; direct original currently unread, no accepted foreign eligibility result. Foreign-degree equivalence not citizenship waiver."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "French ministry/order language is not formal proficiency criterion.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "tg-public-service-recruitment-notices",
+      "country": "TG",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "tg-public-service-recruitment-notices",
+        "name": "Togo public-service recruitment notices",
+        "country": "TG",
+        "authority": "Ministère de la Fonction Publique, du Travail et du Dialogue Social",
+        "homepage": "https://www.fonctionpublique.gouv.tg/actualites",
+        "discoveredFrom": "https://www.fonctionpublique.gouv.tg/",
+        "notes": "Official ministry indexed notices cover teachers, forestry/environment and ENA internal/external admission. Teacher initial 2026 order indexed 11 April examination, later official 15 April announcement says 18 April and September results; annual session and later revisions must reconcile, not duplicate cycles. Direct old PDF URL now returns HTML under-construction page; migrated ministry browser index currently empty content, not verified no opportunities. Nationality, appointment tenure and formal language unknown; young Togolese in news report is not accepted legal nationality restriction.",
+        "accessGap": "Primary indexed current/historical notice content differs from direct migrated HTML. Browser current index shows ministry shell without announcements; earlier PDF now HTML construction, exact originals unavailable. Current notice inventory, redirects/migration, teacher date revision, original nationality/language/tenure and collection terms pending. Named candidate lists not opened or retained.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.fonctionpublique.gouv.tg/actualites",
+          "type": "official-ministry-index",
+          "observationMethod": "official-primary-search-index-and-ordinary-browser",
+          "summary": "Indexed September teacher results and ENA/forestry notices; direct browser shell lacks current announcement content, not verified empty inventory.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://fonctionpublique.gouv.tg/actualites/concours-national-de-recrutement-de-fonctionnaires-enseignants-annee-2026",
+          "type": "indexed-original-opening-referral",
+          "observationMethod": "official-primary-search-index-direct-reader-mismatch",
+          "summary": "Teacher opening indexed initial 11 April 2026; direct current page returns ministry shell.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://fonctionpublique.gouv.tg/actualites/candidats-au-cnrfe-consultez-les-listes-et-la-repartition-par-centre",
+          "type": "later-indexed-selection-announcement",
+          "observationMethod": "official-primary-search-index",
+          "summary": "15 April official announcement says examinations 18 April; listed centers not accepted venue coordinates, attachment with names unreviewed.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://fonctionpublique.gouv.tg/wp-content/uploads/2025/12/Arrete-portant-ouverture-du-CNRFE-session-2026.pdf",
+          "type": "original-url-now-html",
+          "observationMethod": "official-reader",
+          "summary": "Old indexed PDF URL now HTML construction placeholder; cannot serve as original PDF or establish cancellation.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs verification",
+        "note": "Fonctionnaire recruitment and ENA admission separate; original appointment tenure unread.",
+        "value": null
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs verification",
+        "note": "No accepted current original nationality/residence. Historical health recruitment and national-news descriptions cannot transfer."
+      },
+      "languageAssessment": {
+        "status": "needs verification",
+        "note": "French UI/notices do not establish examination medium, named proficiency or standardized level.",
+        "namedLanguage": null,
+        "standardizedLevel": null
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

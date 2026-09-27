@@ -1,0 +1,116 @@
+[
+  {
+    "sourceId": "in-hr-recruitment",
+    "label": "primary-entry",
+    "url": "https://hpsc.gov.in/en-us/Instructions",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-hp-recruitment",
+    "label": "primary-entry",
+    "url": "https://hppsc.hp.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-mp-recruitment",
+    "label": "primary-entry",
+    "url": "https://mppsc.mp.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-mh-recruitment",
+    "label": "primary-entry",
+    "url": "https://mpsc.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "primary-entry",
+    "url": "https://www.ppsc.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "primary-entry",
+    "url": "https://recruitment.py.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-tg-recruitment",
+    "label": "primary-entry",
+    "url": "https://www.tgpsc.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-la-recruitment",
+    "label": "primary-entry",
+    "url": "https://ladakh.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-ld-recruitment",
+    "label": "primary-entry",
+    "url": "https://lakshadweep.gov.in/notice_category/recruitment/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "open-advertisements",
+    "url": "https://www.ppsc.gov.in/index.aspx?page=27&tabid=48&tablinkid=27&tablinkyes=1",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-pb-recruitment",
+    "label": "senior-assistant-transfer-notice",
+    "url": "https://www.ppsc.gov.in/index.aspx?page=2788&tabid=10&tablinkid=6827",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist",
+    "url": "https://recruitment.py.gov.in/recruitment/cltcp20263/steps-to-apply-and-instructions-to-applicants",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector",
+    "url": "https://recruitment.py.gov.in/recruitment/cgl2026025/steps-to-apply-and-instructions-to-applicants",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-tg-recruitment",
+    "label": "new-notice-home",
+    "url": "https://websitenew.tgpsc.gov.in/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-la-recruitment",
+    "label": "recruitment-corner",
+    "url": "https://ladakh.gov.in/recruitment-corner/",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist-notification",
+    "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/show-notification",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector-notification",
+    "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/show-notification",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "civil-specialist-notice",
+    "url": "https://recruitment.py.gov.in/recruitment/CLTCP20263/RenderNotification",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-py-recruitment",
+    "label": "police-sub-inspector-notice",
+    "url": "https://recruitment.py.gov.in/recruitment/CGL2026025/RenderNotification",
+    "format": "PDF"
+  }
+]

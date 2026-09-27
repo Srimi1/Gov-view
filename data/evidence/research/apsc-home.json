@@ -1,0 +1,8 @@
+{
+  "url": "https://apsc.nic.in/",
+  "fetchedAt": "2026-09-24T20:36:09.104Z",
+  "sha256": "3eba191eb15102702660542c61a369a5204ad828a85d15e7671d5ec54ecc4d6c",
+  "bytes": 39611,
+  "contentType": "text/html",
+  "transport": "System curl with default certificate verification; robots.txt returned HTTP 404"
+}

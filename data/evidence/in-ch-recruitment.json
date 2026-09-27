@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://chandigarh.gov.in/public-notice",
+  "fetchedAt": "2026-09-24T23:55:58.779Z",
+  "sha256": "8c8c4e6bd1e4f418ba1f7a3dbc3df0272a1470d1be8a63735836b02462f6c225",
+  "bytes": 71250,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://chandigarh.gov.in/cadmin//uploads/1790090575_8638fb02d8c9539f7600.pdf",
+  "fetchedAt": "2026-09-24T23:56:00.969Z",
+  "sha256": "c50bfdc76b1d553a25de6ba7b5ca422825fc6a586b19a274ec91c2681b809ab1",
+  "bytes": 614343,
+  "contentType": "application/pdf"
+ }
+]

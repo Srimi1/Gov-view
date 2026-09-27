@@ -1,0 +1,9 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-ct-recruitment
+
+
+▸ in-ct-recruitment (Chhattisgarh Public Service Commission)
+  ⚠ Draft connector covers only advertisement 05/2026. Other 2026 advertisements and departments remain coverage gaps.
+  ⚠ Hindi applicant categories and post-specific qualifications, age, residence and language conditions require founder review. Bilingual question-paper medium is not a proficiency threshold.
+  2 draft records saved for review; no publication

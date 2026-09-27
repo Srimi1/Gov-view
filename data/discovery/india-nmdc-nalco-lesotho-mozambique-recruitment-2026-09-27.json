@@ -1,0 +1,455 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 94,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-nmdc-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-nmdc-careers",
+        "name": "NMDC Limited careers",
+        "country": "IN",
+        "authority": "NMDC Limited — Ministry of Steel, Government of India",
+        "homepage": "https://www.nmdc.co.in/careers",
+        "discoveredFrom": "https://www.nmdc.co.in/",
+        "notes": "Official Navratna PSU index mixes regular executives, contractual engineering, medical hiring, overseas ICVL role, admissions, results and other-employer PESB leads. Historical Employment 02/2026 original has six roles/posts; role count is not cycle count. Only Indian nationals clause 9.25 is sample-specific. Age, recognized qualifications, professional mining certificates, experience, grade and fitness remain independent. Original filing 18 February 10:00–10 March 23:45, timezone unstated, closed historical; eligibility cutoff does not automatically move on extension. Tokisud posting is not examination venue.",
+        "accessGap": "Current September medical and August ICVL originals unread; appointment duration, nationality, language and complete inventory unresolved. Historical English/Hindi original and all amendments need human acceptance. National footprint does not assign subdivision coverage. Overseas Mozambique posting is not Mozambique government recruitment or foreign-citizen permission. NMDC Group UAE and NMDC Steel are separate entities. Permitted collection and exact originals pending.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.nmdc.co.in/careers",
+          "type": "official-employer-careers-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Ministry of Steel identity and mixed notices/results/admissions. Footer update is not successful collector fetch.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.nmdc.co.in/cms-admin/Upload/Career_Documents/2800531cd1e54d6b9102ef18f28e74ff_20260218201053704.pdf",
+          "type": "historical-original-sample",
+          "observationMethod": "official-reader",
+          "summary": "Employment 02/2026 dated 18 February; twelve pages, English/Hindi copies. Indian nationals only, independent qualifications/experience/age and original verification. Filing closed 10 March 23:45, no zone.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.nmdc.co.in/cms-admin/Upload/Career_Documents/28ea4c84a45c44cf8add519cd122c2e7_20260902155609408.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-timeout",
+          "summary": "September NMDC Apollo medical index lead; criteria/tenure unknown.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.nmdc.co.in/cms-admin/Upload/Career_Documents/7974b09549e641b4b7e4453dce4eb61f_20260825121844355.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "index-only-unopened",
+          "summary": "August MD/CEO ICVL Mozambique index label; overseas project does not establish foreign eligibility.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-index-label",
+        "value": "regular executive recruitment",
+        "note": "02/2026 employer index labels regular; original compensation/selection does not establish permanent tenure or probation for all NMDC roles. Other indexed routes contractual or medical, terms unreviewed."
+      },
+      "internationalApplicantAssessment": {
+        "status": "sample-restricted-indian-nationals",
+        "note": "Historical 02/2026 original clause 9.25 restricts to Indian nationals. Foreign-citizen route not established for that sample; citizenship match cannot waive age, recognized qualification, license, experience or fitness. No portal-wide decision."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "Clause 9.13 requires translations into English/Hindi for certificates in other languages; clause 9.24 English version prevails. Document language is not proficiency. No formal language level established."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "in-nalco-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-nalco-careers",
+        "name": "National Aluminium Company Limited (NALCO) careers",
+        "country": "IN",
+        "authority": "National Aluminium Company Limited — Government of India enterprise",
+        "homepage": "https://nalcoindia.com/Career/",
+        "discoveredFrom": "https://nalcoindia.com/",
+        "notes": "Government enterprise employer index refers mudira.nalcoindia.co.in recruitment portal. Mixed current/closed medical, non-executive, graduate engineer, land retainer, contractual and foundation routes require separation. Main versus portal date conflicts: 10250414 closes 11 August 2026 versus 2025; 12240214 closes 30 January 2026 versus 2025; NRPY closing 19:30 versus 17:30. No silent repair. 10260213 original extension dated 9 June moves application/payment/document last date to 17 June 2026 23:55, timezone unstated; one revision, not new cycle. Handout states English/Hindi test medium and English content, not named proficiency level.",
+        "accessGap": "Medical/non-executive original advertisements inaccessible; medical ordinary-browser PDF blank after navigation timeout. Nationality, residence, recognized qualification, age, exact terms and current deadlines need original/amendment review. Hindi handout reader timed out; English handout is selection instructions, not full eligibility. Table conflicts require reconciliation; employer index freshness is not collector health. KABIL and foundation entity scopes and permitted access need review.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://nalcoindia.com/Career/",
+          "type": "official-employer-referral-and-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Government enterprise header, recruitment portal referral, mixed appointment routes; main/portal dates conflict.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://mudira.nalcoindia.co.in/rec_portal/default.aspx",
+          "type": "official-recruitment-index",
+          "observationMethod": "official-reader",
+          "summary": "Linked portal readable; separate calls, results and handouts. Current openings labels include closed cycles.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://mudira.nalcoindia.co.in/iorms/Uploaded_Data/Notices/Notice_639166886990221096_Addendum.pdf",
+          "type": "historical-original-extension",
+          "observationMethod": "official-reader",
+          "summary": "9 June 2026 addendum for 10260213 extends to 17 June 23:55; other terms unchanged, zone unknown.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://mudira.nalcoindia.co.in/rec_portal/Information_Handout_English_10260213.pdf",
+          "type": "official-selection-handout",
+          "observationMethod": "official-reader",
+          "summary": "Six-page handout: 100 questions/120 minutes, English/Hindi medium, English section, allocated physical venue; ID passport does not establish nationality permission.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://mudira.nalcoindia.co.in/rec_portal/Information_Handout_Hindi_10260213.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-timeout",
+          "summary": "Hindi counterpart not read; not separate cycle.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nalcoindia.com/wp-content/uploads/2026/08/639202303340126639_V1-Detailed-Advertisement-1.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-502-browser-timeout-blank",
+          "summary": "Current medical detailed original unread; no criteria inferred.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://nalcoindia.com/wp-content/uploads/2026/08/639144655968105605_Final-Adv-10260213-14-May2026.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-502",
+          "summary": "Non-executive full advertisement inaccessible; handout/extension do not replace eligibility original.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "mixed-index-labels",
+        "value": "regular recruitment leads; contractual and retainer roles; foundation roles",
+        "note": "No common permanence, probation or duration established. Vacancy-specific originals unread."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "No explicit readable notice-specific citizenship clause established. Passport as accepted photo ID and overseas activity do not permit foreign applicants. Other PSU nationality clauses cannot transfer."
+      },
+      "languageAssessment": {
+        "status": "sample-selection-language",
+        "namedLanguage": [
+          "English",
+          "Hindi"
+        ],
+        "standardizedLevel": null,
+        "note": "10260213 official English handout describes English/Hindi medium and English section/sample questions. No CEFR or standardized certificate requirement established. Computer test at allocated physical venue is not home-based online examination."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "ls-government-jobs",
+      "country": "LS",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "ls-government-jobs",
+        "name": "Lesotho government jobs",
+        "country": "LS",
+        "authority": "Government of Lesotho — official jobs directory",
+        "homepage": "https://www.gov.ls/jobs/",
+        "discoveredFrom": "https://www.gov.ls/",
+        "notes": "Official jobs page first ten entries of two pages mixes Permanent Secretaries, judicial vacancies ZIP, PSC circulars, internal/external notices, revisions, motor vehicle policy consultation and blank GP103 first-appointment form. Ten rows are not ten recruitment cycles. Permanent Secretary is job title, not tenure guarantee. Detail lists published/updated 7 September 2026, file count one, 1.10 MB; publication metadata is not application opening. Embedded viewer shows 34 pages but original content unread.",
+        "accessGap": "Full originals and second index page unreviewed. Permanent Secretaries linked WordPress attachment reader inaccessible; embedded viewer headings do not establish deadline/eligibility. Judicial ZIP unsupported original gap. Complete ministry/local inventory, nationality, language, exact appointment type, amendments and collection acceptance pending. English/Sesotho interface is not employment proficiency; no checked-empty claim.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.ls/jobs/",
+          "type": "official-mixed-jobs-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "First ten entries of two pages rendered after timeout; separate actual calls from policy, forms and amendments.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.ls/download/permanent-secretaries-vacant-posts-07-09-2026/",
+          "type": "official-notice-detail",
+          "observationMethod": "ordinary-browser",
+          "summary": "7 September publication/update metadata and embedded 34-page viewer headings only; original text not read.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.ls/download/permanent-secretaries-vacant-posts-07-09-2026/?ind=0&filename=GS-OPM-CIRCULAR-NO-5-OF-2026_260903_213713.pdf&wpdmdl=23405&refresh=6ab8be1c9a9d31790492188&open=1",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-inaccessible",
+          "summary": "Official attachment target observed in viewer referral; no eligibility/deadline accepted and no download retained.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.ls/download/public-announcement-of-judicial-vacancies-in-the-high-court-of-the-kingdom-of-lesotho/",
+          "type": "linked-detail-unread",
+          "observationMethod": "reader-timeout",
+          "summary": "Index judicial ZIP lead; full notice criteria not read.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs-verification",
+        "value": null,
+        "note": "Permanent Secretary title, GP103 form and administrative classifications do not establish appointment tenure."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "Index and unread originals do not establish foreign-citizen eligibility; judicial roles cannot inherit assumed Commonwealth routes."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "English/Sesotho interface does not establish required language or formal level. Notice-specific originals and translation acceptance pending."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "ls-psc-recruitment",
+      "country": "LS",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "ls-psc-recruitment",
+        "name": "Lesotho Public Service Commission recruitment",
+        "country": "LS",
+        "authority": "Lesotho Public Service Commission",
+        "homepage": "https://psc.gov.ls/",
+        "discoveredFrom": "https://www.gov.ls/public-service-commission/",
+        "notes": "Official government authority page and indexed Commission home identify constitutional appointment/confirmation/separation mandate. Indexed vacancies navigation does not establish current notices, deadlines or criteria. Direct ordinary-browser homepage stopped on revoked certificate. No security bypass. Official government jobs directory is separate discovery route, not assumed mirrored inventory.",
+        "accessGap": "ERR_CERT_REVOKED on ordinary-browser PSC homepage; reader inaccessible. Current vacancy route/referral, exact originals, lawful collection, nationality, language, appointment tenure and complete authority inventory pending. Indexed zero/loading text is not verified empty coverage. No collector health or fetch timestamp from reader observations.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.ls/public-service-commission/",
+          "type": "official-authority-description",
+          "observationMethod": "primary-indexed-reader",
+          "summary": "Government indexed description of constitutional PSC appointment powers; direct reader timed out.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://psc.gov.ls/",
+          "type": "official-authority-access-gap",
+          "observationMethod": "primary-indexed-reader-and-ordinary-browser-error",
+          "summary": "Indexed official Commission identity; browser ERR_CERT_REVOKED, stopped without bypass. No current notice read.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs-verification",
+        "value": null,
+        "note": "Appointment/confirmation mandate does not establish tenure of individual role."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "Commission mandate and vacancy navigation contain no accepted notice-specific foreign-applicant rules."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "No readable current notice language criteria. Interface language cannot establish standardized proficiency."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mz-iam-concursos",
+      "country": "MZ",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mz-iam-concursos",
+        "name": "Mozambique Institute of Almonds (IAM) recruitment and competitions",
+        "country": "MZ",
+        "authority": "Instituto de Amêndoas de Moçambique, IP",
+        "homepage": "https://iam.gov.mz/index.php/informacao/concursos/",
+        "discoveredFrom": "https://iam.gov.mz/",
+        "notes": "Official concursos index mixes fiscal recruitment, national cashew strategy, audits and firm/goods procurement. Concurso is not always recruitment. Readable 2026 fiscal detail: 2 July order, 103 fixed-term inspectors across provincial delegations for cashew commercialization monitoring. Vacancy count is not application-cycle count. Filing period thirty days from notice publication; WordPress create/update 23 July cannot establish official publication/start or absolute deadline. Portuguese evidence needs human translation acceptance.",
+        "accessGap": "Linked 455.21 KB original download route returns detail HTML to reader; original terms unread. Relative filing period, exact publication, amendments/current status, contract duration, nationality, residence, age, qualifications and language remain unverified. National central government/ministry/local inventory incomplete. Provincial delegations are posting scope, not published examination pins; permitted collection pending.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://iam.gov.mz/index.php/informacao/concursos/",
+          "type": "official-mixed-competition-index",
+          "observationMethod": "official-reader",
+          "summary": "Institute official index mixes recruitment with audits, strategy and procurement.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://iam.gov.mz/index.php/download/concurso-de-vagas-para-fiscais-iam-2026/",
+          "type": "official-recruitment-detail",
+          "observationMethod": "official-reader",
+          "summary": "2 July order; fixed-term 103 inspectors; relative thirty-day filing. Page metadata 23 July is not accepted notice publication; download action reader returns same HTML, original unread.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "sample-html-fixed-term",
+        "value": "fixed-term fiscal recruitment",
+        "note": "2026 HTML labels fixed-term 103 inspectors; duration and employment terms not established without original. Other concursos are procurement."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "Readable summary does not establish notice-specific citizenship or residence permission. No generalized foreign-applicant inference from government/Portuguese evidence."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "Portuguese notice language does not establish required proficiency or standardized level; translated eligibility not accepted."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

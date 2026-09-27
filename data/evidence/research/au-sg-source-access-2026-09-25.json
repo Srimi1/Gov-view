@@ -1,0 +1,26 @@
+{
+  "checkedOn": "2026-09-25",
+  "australia": {
+    "sourceId": "au-apsjobs",
+    "officialGazetteExplanation": "https://www.apsc.gov.au/working-aps/information-aps-employment/guidance-and-information-recruitment/public-service-gazette-requirements",
+    "jobSearchUrl": "https://www.apsjobs.gov.au/s/job-search",
+    "retainedJobSearch": "apsjobs-search-2026-09-25.html",
+    "retainedJobSearchSha256": "1ddea7dac28fa62ab264b5cc4f6969d54fee4b055e9f7d58e8f14e6dfea7a358",
+    "retainedSitemap": "apsjobs-sitemap-2026-09-25.xml",
+    "retainedSitemapSha256": "1117ee6a9627d365b495e41a86d45be7d789559eaeb6c75877462de26195a2b1",
+    "finding": "robots.txt allows the job-search route, but the server HTML did not contain vacancy rows; the official sitemap listed site content maps, not individual jobs. No listing was staged."
+  },
+  "singapore": {
+    "sourceId": "sg-careers-gov",
+    "jobsUrl": "https://jobs.careers.gov.sg/",
+    "retainedHomepage": "sg-careers-jobs-2026-09-25.html",
+    "retainedHomepageSha256": "d716d03791c98fcd0c961a9e9522f5e78adfbb504b5e5a32cf40cd536f88ef45",
+    "retainedSitemap": "sg-careers-sitemap-2026-09-25.xml",
+    "retainedSitemapSha256": "b58d7a506bf0b2075a76ff3592005fca8b55af39ccdfb6748987fd91a0d0f55d",
+    "sampleVacancyUrl": "https://jobs.careers.gov.sg/jobs/hrp/16960146/005056a3-53e2-1fd0-badd-e94e933df3e0",
+    "sampleResponse": "HTTP 403 Forbidden",
+    "retainedSampleResponse": "sg-careers-sample-job-2026-09-25.html",
+    "retainedSampleResponseSha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+    "finding": "The public sitemap exposed vacancy URLs but the sampled detail page returned 403. The site's robots.txt disallows /api/, so no API route was used. No listing was staged."
+  }
+}

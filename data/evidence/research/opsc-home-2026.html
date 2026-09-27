@@ -1,0 +1,423 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><meta charset="UTF-8" /><title>
+	Odisha Public Service Commission|OPSC
+</title><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="google-site-verification" content="gN9rYTpylq-GmFFe4CpW4UxFzqk2gU9xrt7be0iAAeE" /><link rel="icon" href="favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="css/frontend-style.css" type="text/css" /><link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+
+<!--<script type='text/javascript' src='../../js/responsive-modernizr.js'></script>-->
+
+<script type="text/javascript" src="../../js/jquery-latest.min.js"></script>
+<script type="text/javascript" src="../../js/jquery-ui.min.js"></script>
+<script type='text/javascript' src="../../js/jquery.cookie.js"></script>
+<!--for login hashing -->
+<script src="../../js/SHA1.js" defer="defer"></script>
+
+<!--Own Jquery Effects-->
+<script src="../../js/myeffects.js" defer="defer"></script>      
+
+
+<script type='text/javascript' src='../../datatable/jquery.dataTables.min.js'></script>
+<script type='text/javascript' src='../../datatable/dataTables.buttons.min.js'></script>
+<script type='text/javascript' src='../../datatable/buttons.flash.min.js'></script>
+<script type='text/javascript' src='../../datatable/jszip.min.js'></script>
+<script type='text/javascript' src='../../datatable/pdfmake.min.js'></script>
+<script type='text/javascript' src='../../datatable/vfs_fonts.js'></script>
+<script type='text/javascript' src='../../datatable/buttons.html5.min.js'></script>
+<script type='text/javascript' src='../../datatable/buttons.print.min.js'></script>
+
+
+<script lang="javascript" type="text/javascript" defer="defer">
+function noBack() { window.history.forward() }
+noBack();
+window.inhibited_load = noBack;
+window.onpageshow = function (evt) { if (evt.persisted) noBack() }
+window.inhibited_unload = function () { void (0) }
+
+</script>
+<script lang="javascript" type="text/javascript" defer="defer">window.history.forward(1);</script>
+
+<script defer="defer">
+function On_Sametab() {
+    document.forms[0].target = "_self";
+}
+function On_Newtab() {
+    document.forms[0].target = "_blank";
+    
+}
+function stopKey(evt) {
+    var evt = (evt) ? evt : ((event) ? event : null);
+    var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+    if (((evt.keyCode == 8) && (node.type != "text") && (node.type != "textarea") && (node.type != "password")) || evt.keyCode == 13)
+    { return false; }
+}
+</script>
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="EXPIRES" content="0" />  
+<noscript><meta http-equiv="REFRESH" content="5; url=NoJavascript.aspx" /></noscript>
+<script>
+    function pageLoad() {
+
+        $(':input[type=password]').each(function () {
+            $(this).wrap("<div class='passwordboxx'></div>");
+            $(this).after("<div class='toggle_password'><i class='fa fa-eye' aria-hidden='true'></i></div>");
+        });
+
+        $('.toggle_password').mousedown(function () {
+            $(this).siblings(':input[type=password]').attr('type', 'text');
+        });
+        $('.toggle_password').mouseup(function () {
+            $(this).siblings(':input[type=text]').attr('type', 'password');
+        });
+
+        $('table.table_dynamic').DataTable({
+            fixedHeader: true,
+            dom: 'Bfrtip',
+            buttons: [
+                    'copy', 'excel', 'print'
+            ]
+        });
+
+    }
+</script>
+<script>
+    $(document).ready(function () {
+        var body_class = $.cookie("body_class");
+        if (body_class) {
+            chooseStyle(body_class);
+        }
+        else { chooseStyle('theme5'); }
+
+    });
+
+    function chooseStyle(color) {
+        //alert("color=" + color);
+        $("body").removeAttr('class');
+        $("body").addClass(color);
+        $.cookie("body_class", color, { path: '/' });
+    }
+
+</script>
+
+
+</head>
+<body ondrag="false" onkeydown="return stopKey(event)" class=""> 
+<div class="loader"></div>
+<form method="post" action="./Default.aspx" id="form1" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=jvGjI0CzajgbCZ8gc6UGLFVYFXenIO41osddhIdImqikeEe6DjK_0GqPvNkpkPtHupDL2CYkmWv-CNuHd5Cy0JGf_Ixb7vrsyVffrZMNzSD355wXY4tlO9LFRT0e9-0_BlrOMR6H1v-0O6ieJ0BEyaHZWkYzTBa5vbNpHQL3rYo1&amp;t=ffffffffa580202a" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2C2CF080" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<header>
+
+<div class="topper">
+<div class="aligner">
+    
+	<div class="main_content"><a href="#data" style="display:inline-block;">Skip to Main Content</a> | <a href="../Pages/screen-reader-access.aspx" style="display:inline-block;">Screen Reader</a></div>
+    <div class="option_panel">
+        <div class="languages">
+            <span id="lang"><span id="lbl_lang">Select Language :  </span></span>
+            <div class="language-wrapper">
+            <label><select name="ctl00$drp_lang" id="drp_lang" title="Select Language. " class="custom-selectt" onclick="On_Sametab();">
+	<option selected="selected" value="1">ENGLISH</option>
+
+</select></label>
+            </div>
+        <div class="clr"></div>   	
+        </div>
+        
+        <div class="font-resizer">
+            
+            <ul>
+                <li><a role="link" title="Decrease font size" id="minus">A<sup>-</sup></a></li>
+                <li><a role="link" title="Normal font size" id="normal">A<sup> </sup></a></li>
+                <li><a role="link" title="Increase font size" id="plus">A<sup>+</sup></a></li>
+            </ul>
+        <div class="clr"></div>
+        </div>
+        
+        <div class="color_chooser">
+            <ul>
+                <li><span id="lbl_color">Select Color: : </span></li>
+                <li id="colorBlue"><a href="javascript:chooseStyle('theme1')"><div class="themebox1 patch"><span class="hide">Violet</span></div></a></li>
+                <li><a href="javascript:chooseStyle('theme2')"><div class="themebox2 patch"><span class="hide">Green</span></div></a></li>
+                <li><a href="javascript:chooseStyle('theme3')"><div class="themebox3 patch"><span class="hide">Gray</span></div></a></li>
+                <li><a href="javascript:chooseStyle('theme4')"><div class="themebox4 patch"><span class="hide">Reddish</span></div></a></li>
+                <li><a href="javascript:chooseStyle('theme5')"><div class="themebox5 patch"><span class="hide">Blue</span></div></a></li>
+            </ul>
+        <div class="clr"></div>
+        </div>
+        
+    <div class="clr"></div>
+    </div>
+<div class="clr"></div>
+</div>
+</div>
+
+
+
+<div class="myheader internal_header">
+<div class="aligner">
+		<div class="logo_holder">
+        	<div class="logo_icon"><a href="../../Default.aspx"><img id="img_logo" alt="logo" src="../../images/govtlogo-trans_opsc.PNG" alt="logo" /></a></div>
+            <div class="organization_name">
+            	<h1><span id="lbl_ofc_name">Odisha Public Service Commission</span></h1>
+                
+                <span style="display:none;"><h3><span id="lbl_ofc_abbr">(OPSC)</span> <span id="lbl_govt_odisha"></span></h3></span>
+            </div>
+        <div class="clr"></div>   
+        </div>
+		<div class="navigation"><i class="fa fa-bars" aria-hidden="true"></i></div>
+		
+		<div class="year_logo" style="float:right;padding:7px 0 7px 20px;"><img src="../../images/75years_opsc-logo.png" alt="75 Year Logo of OPSC"/></div>
+		<!--
+		<div class="vision_logo" style="float:right;padding:7px 0 7px 20px;"><a href="https://vision.odisha.gov.in/" target="_blank"><img src="../../images/vision-odisha.png" alt="Vision Odisha Logo"/></a></div>
+		-->
+        <div class="header_nav">
+			
+            <div class="user_option">
+        	    <ul>
+            	    <li style="display:none;"><a href="../Pages/Login.aspx" onclick="On_Sametab()"><i class="fa fa-lock"></i> <span id="lbl_login">Login</span></a></li>
+                   
+                    <li><a href="https://opscechayan.in/" target="_blank"><i class="fa fa-user-plus"></i> <span id="lbl_reg">Apply Online</span></a></li>
+                </ul>
+            <div class="clr"></div>
+            </div>
+        <div class="clr"></div>
+        </div>
+
+<div class="clr"></div>
+</div>
+</div> 
+</header>
+
+
+<div class="the_container">
+<div class="aligner">
+    <div class="left_sidebar">
+        <div class="chairmanbox"  style="display:none">
+            <h2><span id="lbl_chairman_msg">Chairman&#39;s Message</span> </h2>
+            <div style="text-align:center;padding:15px 0;"><a href="../Pages/View_Content.aspx?id=hxNBmXlWSxyOo+elxg/fdQ=="><img id="img_chairman" alt="Thumbnail of OPSC Chairman Brigadier Laxmi Charan Patnaik (Retd.)" src="Media/images/chairman.jpg" alt="Chairman&#39;s Image" /></a></div>
+            <div style="text-align:right;font-size:13.5px;"><span id="lbl_chairman_part1">Brigadier Laxmi Charan Patnaik (Retd.),</span>
+                <br><span class="theme_color"><span id="lbl_chairman_part2">Hon&#39;ble Chairman</span></span>
+            </div>
+        </div>
+        <div id="div_l_menu" class="left_menuholder themenuholder">
+            
+        <ul><li><a href="../Pages/View_Content.aspx?id=2UwI/bnoe0Bk6sAjqEVqwQ==" target="_self"><span></span><span>Vision & Mission</span></a></li><li><a href="../Pages/View_Content.aspx?id=zqgWslpNeByhDG0TU53nHw==" target="_self"><span></span><span>Role and Functions</span></a></li><li><a href="../Pages/View_Content.aspx?id=iX15FIimS2kdSaubf20GkA==" target="_self"><span></span><span>Organization </span></a></li><li><a href="../Pages/View_Content.aspx?id=I0jx/qnIfpDzp3A4zF0pIA==" target="_self"><span></span><span>History </span></a></li><li><a href="../Pages/View_Content.aspx?id=ZJj9IBSdU7Y1yw0WvPyFPw==" target="_self"><span></span><span>Commission & Incumbency Chart</span></a></li><li><a href="../Pages/View_Content.aspx?id=QGSYOhVycdG8MB9e3LwfNw==" target="_self"><span></span><span>OPSC Manuals</span></a></li><li><a href="../Pages/View_Content.aspx?id=DsC2EFZDHOOapk1zszxW4g==" target="_self"><span></span><span>Annual Reports</span></a></li><li><a href="../Pages/View_Content.aspx?id=RiFLvYbyp07MVRoKL3JIZQ==" target="_self"><span></span><span>Reforms </span></a></li><li><a href="../Pages/View_Content.aspx?id=76rzs1T2iPxQRYQOERbtOw==" target="_self"><span></span><span>Tender & Quotations</span></a></li><li><a href="../Pages/View_Content.aspx?id=C9b2YKMBT/uqqeRzU3B22A==" target="_self"><span></span><span>RTI Orders</span></a></li><li><a href="../Pages/View_Content.aspx?id=nkxtdUj0BOe7IxfrqxC4zg==" target="_self"><span></span><span>Disclosure under RTI</span></a></li><li><a href="../Pages/View_Content.aspx?id=cQWKEqBEZS/tGyyfGEmUmQ==" target="_self"><span></span><span>Gallery</span></a></li><li><a href="../Pages/View_Content.aspx?id=ceZ+Ypzg+98CELADuFd1+A==" target="_blank"><span></span><span>Promotion & Disciplinary Concurrence</span></a></li></ul></div>
+    </div>
+    <div class="the_content">    
+    <script type="text/javascript" src="../../js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" defer="defer">
+        $(function () {blinkeffect('#flashtext');}) 
+        function blinkeffect(selector) {$(selector).fadeOut('slow', function () { $(this).fadeIn('slow', function () {blinkeffect(this);});}); }
+        
+        function Set_Target() { document.forms[0].target = "_blank"; }
+        function Set_Target_Same() {document.forms[0].target = "_self";} 
+    </script>  
+<style>
+    .getattention {-webkit-animation: attention 0.5s linear 0.5s infinite alternate;animation: attention 0.5s linear 0.5s infinite alternate;}
+    .getattention a{color:#f00;}
+    @-webkit-keyframes attention { 0%   {background:#e4b942} 100% {background:#b6ff00}}
+    @keyframes attention { 0%   {background:#e4b942} 100% {background:#b6ff00}}
+</style> 
+          
+    
+ 
+<style>
+    .slider{}
+    .slider div{width:100% !important;}
+    .floating_contact{ cursor:pointer; position:fixed;top:40%; right:-225px; display:flex; z-index:999;
+     -webkit-transition: all 0.5s ease;-moz-transition: all 0.5s ease;-ms-transition: all 0.5s ease;-o-transition: all 0.5s ease;transition: all 0.5s ease;
+    }
+    .floating_contact:hover{right:0;}
+    .switch{color:#FFF; padding:5px;font-size:18px; font-weight:bold; text-align:center; width:30px;-webkit-animation: help 0.5s linear 0.5s infinite alternate;animation: help 0.5s linear 0.5s infinite alternate;}
+    @-webkit-keyframes help { 0%   {background:#000} 50% {background:#f00} 100% {background:#000}}
+    @keyframes help { 0%   {background:#000} 50% {background:#f00} 100% {background:#000}}
+    .switch i{ font-size:22px;}
+    .the_contact{ background:#FFF; padding:5px; text-align:center; width:225px;}
+    .searchbox{ background:#FFF; position:absolute;right:0;top:5px;width:300px; }
+        .searchbox input[type="text"]{padding:5px 5px 5px 30px;border-radius:15px; height:auto !important; font-size:90%;}
+        .searchbox:after{content:"\f002";font:normal 17px FontAwesome; position:absolute;left:8px;top:5px;color:#898989;}
+
+        .fake_btn{position:absolute;right:0;top:0; background:#000;color:#FFF;padding:7px 12px 6px 10px;font-size:80%; font-weight:bold; border-radius:0 15px 15px 0; cursor:pointer;}
+        .fake_btn:hover{background:#d05026;}
+
+        @media screen and (max-width:600px) {
+            .searchbox{position:relative;width:100%;margin:0 0 30px 0; }
+        }
+</style>
+
+ 
+<div id="banners" class="bannerholder" style="padding:0;" >
+<div class="banner_overlay">
+    <div id="generic_masterpage1_div_Banner" class="slider"> 
+    <div><img title="Lok Seva Ayog Bhavan" src="Media/banner/Thumbnail_opsc-front.png" alt="Lok Seva Ayog Bhavan" /></div><div><img title="80th Independence  Day Celebration at OPSC" src="Media/banner/Thumbnail_15th-aug-2026.jpg" alt="80th Independence  Day Celebration at OPSC" /></div><div><img title="80th Independence Day Celebration at OPSC" src="Media/banner/Thumbnail_15-aug-2026.jpg" alt="80th Independence Day Celebration at OPSC" /></div><div><img title="77th Republic Day Celebration at OPSC" src="Media/banner/Thumbnail_opsc-banner-15aug2.jpg" alt="77th Republic Day Celebration at OPSC" /></div><div><img title="77th Republic Day Celebration at OPSC" src="Media/banner/Thumbnail_opsc-banner-15aug.jpg" alt="77th Republic Day Celebration at OPSC" /></div><div><img title="As a reform process, candidates called for interview are choosing the Interview Board through draw of lots just prior to the interview in presence of senior officials." src="Media/banner/Thumbnail_banner-25-03-2026.jpg" alt="As a reform process, candidates called for interview are choosing the Interview Board through draw of lots just prior to the interview in presence of senior officials." /></div><div><img title="Hon&amp;#39;ble Chairman of OPSC presenting the Annual Report 2024-25 to Hon&amp;#39;ble Governor, Odisha - 26.08.2025" src="Media/banner/Thumbnail_opsc-annual-report-2025.jpg" alt="Hon&amp;#39;ble Chairman of OPSC presenting the Annual Report 2024-25 to Hon&amp;#39;ble Governor, Odisha - 26.08.2025" /></div><div><img title="Hon&amp;#39;ble Chairman of OPSC presenting the Annual Report 2024-25 to Hon&amp;#39;ble Governor, Odisha -26.08.2025" src="Media/banner/Thumbnail_opsc-annual-report-2025-v2.jpg" alt="Hon&amp;#39;ble Chairman of OPSC presenting the Annual Report 2024-25 to Hon&amp;#39;ble Governor, Odisha -26.08.2025" /></div><div><img title="Hon&amp;#39;ble Chairman, OPSC attended the UPSC Centenary Celebration Preparatory Online Meeting chaired by Dr. Ajay Kumar, Chairman, UPSC- 02.09.2025" src="Media/banner/Thumbnail_vc-banner.jpg" alt="Hon&amp;#39;ble Chairman, OPSC attended the UPSC Centenary Celebration Preparatory Online Meeting chaired by Dr. Ajay Kumar, Chairman, UPSC- 02.09.2025" /></div><div><img title="79th Independence Day Celebration" src="Media/banner/Thumbnail_15-aug-2025.jpg" alt="79th Independence Day Celebration" /></div><div><img title="Oath Taking Ceremony of Shri Manoj Kumar Mohanty, IAS(Retd.) as Hon&amp;#39;ble Member, OPSC - 14.07.2025" src="Media/banner/Thumbnail_MANOJ-MOHANTY-OATH.jpg" alt="Oath Taking Ceremony of Shri Manoj Kumar Mohanty, IAS(Retd.) as Hon&amp;#39;ble Member, OPSC - 14.07.2025" /></div><div><img title="Oath Taking Ceremony of Shri Udaya Narayan Das, IAS(Retd.) as Hon&amp;#39;ble Member, OPSC - 31.05.2025" src="Media/banner/Thumbnail_Oath-Ceremony-Udaya-Narayan.jpg" alt="Oath Taking Ceremony of Shri Udaya Narayan Das, IAS(Retd.) as Hon&amp;#39;ble Member, OPSC - 31.05.2025" /></div><div><img title="Oath Taking Ceremony of Prof.(Dr.) Mihir Prasad Mishra as Hon&amp;#39;ble Member of OPSC - 23.05.2025" src="Media/banner/Thumbnail_banner-mihir-mishra.jpg" alt="Oath Taking Ceremony of Prof.(Dr.) Mihir Prasad Mishra as Hon&amp;#39;ble Member of OPSC - 23.05.2025" /></div><div><img title="Shri Arun Kumar Sarangi, Hon&amp;#39;ble Chairman, OPSC called on Hon&amp;#39;ble Governor of Odisha dt. 04.11.2024" src="Media/banner/Thumbnail_chairman-governor.jpg" alt="Shri Arun Kumar Sarangi, Hon&amp;#39;ble Chairman, OPSC called on Hon&amp;#39;ble Governor of Odisha dt. 04.11.2024" /></div><div><img title="Oath Taking Ceremony of Shri Arun Kumar Sarangi, IPS (Retd.) as Hon&amp;#39;ble Chairman of Odisha Public Service Commission on 08.10.2024" src="Media/banner/Thumbnail_sarangi-swearing.jpg" alt="Oath Taking Ceremony of Shri Arun Kumar Sarangi, IPS (Retd.) as Hon&amp;#39;ble Chairman of Odisha Public Service Commission on 08.10.2024" /></div><div><img title="Guard of Honour to Hon&amp;#39;ble Chairman of Odisha Public Service Commission Shri Arun Kumar Sarangi, IPS (Retd.) - 08.10.2024" src="Media/banner/Thumbnail_Guard-of-Honour.jpg" alt="Guard of Honour to Hon&amp;#39;ble Chairman of Odisha Public Service Commission Shri Arun Kumar Sarangi, IPS (Retd.) - 08.10.2024" /></div></div>
+</div>
+<div class="clr"></div>
+</div>  
+
+<div class="latest_news" style="display:none;">
+    <div class="block_heading2">Recommended Candidates up to December 2023</div>
+    <div class="news_content2">
+        <marquee >
+
+ Assistant Agriculture Officer – 261, Assistant Director in OS & ES Cadre – 15, Assistant Director of Handicrafts – 3, Assistant Professor (Broad Speciality)-142 ((E.N.T.) Oto-Rhino Laryngology - 2, Anaesthesiology - 13, Anatomy – 2, Community Medicine – 12, F.M. & T. – 4, General Medicine – 19, General Surgery – 17, Microbiology – 11, O & G – 9, Orthopedic Surgery – 6, Paediatrics – 6, Pathology – 20, Pharmacology – 3, Physiology – 3, Psychiatry – 5, Radio Diagnosis – 5, Skin & V.D. – 2, T.B. & C.D. - 3), Assistant Professor (Dentistry)-7 (Prosthodontics – 1, Oral Pathology & Microbiology – 1, Orthodontics – 2, Oral  & Maxillofacial Surgery – 1, Oral Medicine & Radiology - 2), Assistant Professor in Conservative Dentistry – 2, Assistant Professor (Stage-I) – 219 (Botany – 47, Commerce – 30, Education – 20, English  - 41, Odia – 25, Zoology  - 56), Assistant Professor (Super Speciality), Group-A in 8 disciplines – 10, Assistant Section Officer, Group-B  - 787, Civil Judges in Odisha Judicial Service-2022 – 55, Dental Surgeon – 81, Insurance Medical Officer – 69, Medical Officer – 2392, OCS-2021 – 432, Odisha Education Service Officer, Group-B – 160, Odisha Information Service (SDIPRO, OIS-II) – 19, Post Graduate Teacher – 206 (Commerce – 26, Indian Music – 1, Physics – 25, Telgu – 1, Botany – 9, Chemistry – 17, English – 21, English – 43, Mathematics – 20, Odia – 27, Physics - 16), Public Prosecutor, Spl. Drive recruitment for SC & ST Candidates – 6 , Total - 4866
+
+		</marquee>
+    </div>
+<div class="clr"></div>
+</div>
+
+
+     <div id="generic_masterpage1_div_latest_notice" class="latest_news">
+    <div class="block_heading">Latest Notice</div>
+    <div class="news_content">
+        <span id="generic_masterpage1_div_latest_notice_content" class="usha">OPSC follows a robust, transparent and merit based process in all the recruitments. Any assurance for selection by unscrupulous elements should not only be ignored, but be brought to our notice for remedial       measures. Please inform to the following number 0671-2304090 &  0671-2301107 and  email id : opsc@od.gov.in</span>
+    </div>
+<div class="clr"></div>
+</div>
+
+
+    <style>
+        .latest_news{display:flex;margin:15px 0;border:1px solid #fb5e03; text-align:left;}
+        .block_heading{background:red;color:#FFF;font-weight:bold;width:117px;padding:7px;}
+        .news_content{float:right;width:calc(100% - 118px);padding:4px;color:red}
+		
+		.block_heading2{background:#000;color:yellow;font-weight:bold;width:225px;float:left;padding:7px;}
+        .news_content2{float:right;width:calc(100% - 226px);padding:4px;color:#000;}
+		
+    </style>
+
+    <div class="ihide"><span id="generic_masterpage1_lbl_disp_lang">1</span>
+<span id="generic_masterpage1_lbl_domain">opsc.gov.in</span><span id="generic_masterpage1_lbl_server_type">SERVER</span>
+<span id="generic_masterpage1_lbl_lang">1</span> 
+    </div>
+    <div id="data"></div>
+
+<div id="generic_masterpage1_div_data" style="position:relative;">
+   <div style="position:relative;"> <h1><span id="generic_masterpage1_lbl_heading">What's New</span> </h1></div>
+        <div id="generic_masterpage1_div_search" class="searchbox">
+            <input name="ctl00$generic_masterpage1$txt_Search" type="text" maxlength="15" id="generic_masterpage1_txt_Search" placeholder="Search by keyword" />
+            <div class="fake_btn">Search</div>
+        </div>
+    <div id='div_all_data' runat='server' class='job_listing hide_header' style="display:block"><ul><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>24</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Odisha Civil Services 2025 (Advt. No. 05 of 2025-26) - Notice for use of Scribe in the Main Written Examination</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl15&#39;,&#39;&#39;)">View Pdf</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>24</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Veterinary Assistant Surgeon/ Additional Veterinary Assistant Surgeon (Advt. No. 04 of 2026-27) - 3rd Corrigendum Notice</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl29&#39;,&#39;&#39;)">View Pdf</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>22</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Professor (Chemistry) (Advt. No. 35 of 2023-24) - Objection / Suggestion to Questions / Answers Invitation Notice</span></span class='content_title'><span class='content_extra'><span class="newflash">Link shall be available till 03.10.2026</span></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl44&#39;,&#39;&#39;)">View Pdf</a><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl45&#39;,&#39;&#39;)">Submit Objection / Suggestion</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>22</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Fisheries Officers (Special Drive) (Advt. No. 05 of 2026-27) - Download Admission Certificate &amp; Instructions for Written Examination</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl59&#39;,&#39;&#39;)">Download Admission Certificate</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>22</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Public Prosecutor (Advt. No. 09 of 2026-27) - 2nd Corrigendum notice to Advertisement for Recruitment to the Posts</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl73&#39;,&#39;&#39;)">View Pdf</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>21</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Professor (Mathematics) (Advt. No. 35 of 2023-24) - Objection / Suggestion to Questions / Answers Invitation Notice</span></span class='content_title'><span class='content_extra'><span class="newflash">Link shall be available till 01.10.2026</span></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl88&#39;,&#39;&#39;)">View Pdf</a><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl89&#39;,&#39;&#39;)">Submit Objection / Suggestion</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>21</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Professor (Physics) (Advt. No. 35 of 2023-24) - Objection / Suggestion to Questions / Answers Invitation Notice</span></span class='content_title'><span class='content_extra'><span class="newflash">Link shall be available till 01.10.2026</span></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl104&#39;,&#39;&#39;)">View Pdf</a><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl105&#39;,&#39;&#39;)">Submit Objection / Suggestion</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>21</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Professor (Broad Speciality) (Radiation Oncology) (Advt. No. 01 of 2026-27) - Document Verification Notice</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl119&#39;,&#39;&#39;)">View Pdf</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>21</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Horticulture Officer (Advt. No. 06 of 2026-27) - Download Admission Certificate &amp; Instructions for Written Examination</span></span class='content_title'><span class='content_extra'></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl133&#39;,&#39;&#39;)">Download Admission Certificate</a></div class='listing_action'></li><li><div class='listing_date newflash'><div class='datebox'><h2><span class='month'>19</span class='month'></h2><span class='Date'>Sep</span class='Date'><span> - </span><span class='year'>2026</span class='year'></div class='datebox'></div class='listing_date newflash'><div class='listing_content'><span class='content_title'><span>Assistant Professor (Management) (Advt. No. 35 of 2023-24) - Objection / Suggestion to Questions / Answers Invitation Notice</span></span class='content_title'><span class='content_extra'><span class="newflash">Link shall be available till 29.09.2026</span></span class='content_extra'></div class='listing_content'><div class='listing_action'><a onclick="return Set_Target();" class="button_pdf" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl148&#39;,&#39;&#39;)">View Pdf</a><a onclick="return Set_Target();" class="the_link" href="javascript:__doPostBack(&#39;ctl00$generic_masterpage1$ctl149&#39;,&#39;&#39;)">Submit Objection / Suggestion</a></div class='listing_action'></li></ul></div id='div_all_data' runat='server' class='job_listing hide_header'></div>  
+      <div id="generic_masterpage1_div_load" style="text-align:center;">
+        <input type="submit" name="ctl00$generic_masterpage1$btn_load" value="Load More" id="generic_masterpage1_btn_load" class="button_update" />
+    </div>
+<div class="clr"></div> 
+
+
+
+<!-- The Modal
+<div id="popup_notice" class="modalbox">
+	<div class="modal-content">
+		<div id="close_pop" class="close">&times;</div>
+		<div class="pop_content">
+		<p>It has come to the notice of the Hon’ble Commission that some fake advertisements for recruitments in the name of OPSC along with links for deposit of application fees are available in social media. This may mislead innocent candidates, who can fall into trap of the fraud. </p>
+		<p>All the candidates are therefore, informed that the Govt. in GA & PG Department vide order No. 9897/Gen, dt. 11.04.2022, has exempted fees for all categories of candidates and there is no provision in e-Chayan (online application portal) of OPSC for accepting the same. Hence, the candidates are advised not to follow such misleading advertisements published in social media.</p>
+		<div style="display:block;text-align:right;clear:both;padding:10px 0;"><div style="display:inline-block;text-align:center;">-Sd/-<br/>Secretary(I/C)</div></div>
+		</div>
+	</div>
+</div>
+ -->
+<style>
+.modalbox { position: fixed;z-index:99;padding-top: 100px;left: 0;top: 0;width: 100%;height: 100%;overflow: auto;background: rgba(0,0,0,0.6);}
+.modal-content {background-color: #fefefe;margin: auto;padding: 20px;border: 1px solid #888;max-width:600px;color:red;position:relative;}
+.close {color: #aaaaaa;text-align:right;font-size: 28px;font-weight: bold;}
+.close:hover,.close:focus {color: #000;text-decoration: none;cursor: pointer;}
+</style>
+
+<script>
+/*
+jQuery(document).ready(function(){
+	$("#close_pop").click(function () {
+                $("#popup_notice").hide();
+
+      });
+});
+*/
+</script>
+
+<script>
+	$(function () { 
+		$('.slider').bxSlider({ mode: 'fade', autoHover: true, touchEnabled: false, captions: true, speed: 800, pause: 8000, auto: true, controls: false });
+	});
+	
+</script>
+	
+	
+
+</div>
+    <div class="right_sidebar"> 
+        <div class="right_menuholder themenuholder">
+            <h2><span id="lbl_can_corner">CANDIDATE&#39;S CORNER</span></h2>
+              <div id="div_r_menu"><ul><li><a href="../Pages/View_Content.aspx?id=Flf28ea9ughQKmx9C02/sw==" target="_self"><span><i class="fa fa-home" aria-hidden="true"></i></span><span>Home</span></a></li><li><a href="../Pages/View_Content.aspx?id=MeNGKau42B9VX4Nn6oZfXA==" target="_self"><span><i class="fa fa-newspaper-o" aria-hidden="true"></i></span><span>Advertisements</span></a></li><li><a href="../Pages/View_Content.aspx?id=iQvy8ONZ1XeCyxFZaY2SfA==" target="_self"><span><i class="fa fa-bell" aria-hidden="true"></i></span><span>Notifications</span></a></li><li><a href="../Pages/View_Content.aspx?id=8zxSBRLoU4YlFzqaEDuEzw==" target="_self"><span><i class="fa fa-user-times" aria-hidden="true"></i></span><span>Rejection Notice</span></a></li><li Class="flash_menu"><a href="../Pages/View_Content.aspx?id=VO/uz97buK3DBoFIVkTEOw==" target="_self"><span><i class="fa fa-file-pdf-o" aria-hidden="true"></i></span><span>Download Admission Certificate</span></a></li><li><a href="../Pages/View_Content.aspx?id=8ucZZ0qxTEidPUFJsbJ1Eg==" target="_self"><span><i class="fa fa-id-card" aria-hidden="true"></i></span><span>Results</span></a></li><li><a href="../Pages/View_Content.aspx?id=jWDzPJrrf4pbXjUrVhA7Hg==" target="_self"><span><i class="fa fa-eye" aria-hidden="true"></i></span><span>Transparency & Objectivity</span></a></li><li><a href="../Pages/View_Content.aspx?id=YKexCPR49yZO+vEFwWPfqw==" target="_self"><span><i class="fa fa-eye" aria-hidden="true"></i></span><span>Important Orders</span></a></li><li><a href="../Pages/View_Content.aspx?id=N5n/48rKoj1sNGZtqat51w==" target="_self"><span><i class="fa fa-calendar" aria-hidden="true"></i></span><span>Recruitment Calendar</span></a></li><li><a href="../Pages/View_Content.aspx?id=5b9HSNplj2JDUafP+k7rrg==" target="_self"><span><i class="fa fa-file-pdf-o" aria-hidden="true"></i></span><span>Examination Syllabus</span></a></li><li><a href="../Pages/View_Content.aspx?id=p/5qRxj7CZtpXYhZHF7BXQ==" target="_self"><span><i class="fa fa-file-text-o" aria-hidden="true"></i></span><span>Previous Question Papers</span></a></li><li><a href="../Pages/View_Content.aspx?id=M4ZLp2jMx/L7RLr5Gfi2Eg==" target="_self"><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span><span>Attestation & Bio Data Form</span></a></li><li><a href="../Pages/View_Content.aspx?id=i9KklT7VC9I9ILDYRGFMIw==" target="_blank"><span><i class="fa fa-question"></i></span><span>Query Management</span></a></li><li><a href="../Pages/View_Content.aspx?id=QNq9RPdGiV4tuXUju8+X2g==" target="_self"><span><i class="fa fa-question-circle-o" aria-hidden="true"></i></span><span>FAQ</span></a></li><li><a href="../Pages/View_Content.aspx?id=0N53d1i7tfJf7KwRwKDmrQ==" target="_self"><span><i class="fa fa-info-circle" aria-hidden="true"></i></span><span>Guidelines</span></a></li><li><a href="../Pages/View_Content.aspx?id=pTtU/G7hEmVXGcUkAiuZ7w==" target="_self"><span><i class="fa fa-gavel" aria-hidden="true"></i></span><span>Compendium of Rules</span></a></li><li><a href="../Pages/View_Content.aspx?id=KzBCsCQK20H291Qnco6XQQ==" target="_self"><span><i class="fa fa-lock" aria-hidden="true"></i></span><span>Admin Login</span></a></li></ul></div>           
+        </div>
+    </div>
+<div class="clr"></div>
+</div>
+</div>
+
+<footer class="myfooter" id="contact">
+    <div class="footer_info">
+    <div class="aligner">
+        <div class="footercontact">
+            <h2><span id="lbl_reach_us">Reach Us</span></h2>
+	        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3737.6134318985355!2d85.87130781546233!3d20.481064586297542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a191273cfc71613%3A0xb98b6c8d72125a65!2sOdisha+Public+Service+Commission!5e0!3m2!1sen!2sin!4v1555048979184!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        <div class="footermenu">
+            <h2><span id="lbl_inform">Information</span></h2>
+            <div id="div_lower_menu"><ul><li><a href="../Pages/View_Content.aspx?id=Hl1zF3imowonTNo3ETp2cA==" target="_self"><span></span><span>Privacy Policy</span></a></li><li><a href="../Pages/View_Content.aspx?id=wmpmoV8VNcfB9LTvZnxjTQ==" target="_self"><span></span><span>Usage Terms & Conditions</span></a></li></ul></div> 
+        </div>
+         <div class="support_box">
+    	    <h2><span id="lbl_hd_assistance">Happy to Assist !</span></h2>
+            <div class="supportbox">
+        	    
+                <h4><span id="lbl_adm_asst">For Administrative Assistance call on</span></h4>
+                <h2><span id="lbl_adm_phone">0671 - 2305611</span></h2>
+                <h4>or email us on <img src="../../images/email_opsc.png" alt="Administrative email"/></h4>
+
+                <h4><span id="lbl_tech_asst">For Technical Assistance call on</span></h4>
+                <h2><span id="lbl_telphone">0671 - 2304707, 2304141</span></h2>
+                <h4>or email us on <img src="../../images/support_opsc.png" alt="support email"/></h4>
+                <span id="lbl_tech_hour">between 10 AM to 5.30 PM on official days</span>
+            <div class="clr"></div>
+            </div>
+        <div class="clr"></div>
+        </div>
+    </div>
+    </div>
+    <div class="footer_bottom">
+        <div class="best_viewed"><span id="lbl_best_view">Site best viewed in I.E 9 or above, Mozilla 22.0 or above, Google Chrome 30.0 or above.</span></div>   
+        <div class="clr"></div>
+        <div class="copyright"><span id="lbl_copyright">All rights of this portal are vested with the Odisha Public Service Commission.</span></div>
+    </div>
+</footer>
+
+<div class="ihide"><span id="lbl_disp_lang">1</span> This is the official Website of  Odisha Public Service Commission (OPSC), a Public Sector Undertaking of the State Government of Odisha under the Ministry of General & Administration</div>
+
+
+<div class="backtotop" id="back-to-top"><i class="fa fa-chevron-circle-up"></i></div>
+</form>  
+
+<style>
+
+    .flash_menu{}
+    .flash_menu a span{ position:relative;}
+    .flash_menu a span:nth-child(2)::before { display:inline-block;content:''; background:url("../../images/new_icon.gif") no-repeat center ; background-size:auto 100%; height:10px; width:23px; position:absolute;top:-7px;}
+    /*@media screen and (max-width:700px) {
+        .flash_menu a span:nth-child(2)::before{display:none;}
+    }*/
+    .flash_menu a{-webkit-animation: flash_ani 0.5s linear 0.5s infinite alternate;  animation: flash_ani 0.5s linear 0.5s infinite alternate;}
+@-webkit-keyframes flash_ani{
+    0%   {color:#dd00ff;}
+    100% {color:#ff0000;}
+}
+</style>
+                
+</body>
+</html>

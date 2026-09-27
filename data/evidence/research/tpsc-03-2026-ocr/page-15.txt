@@ -1,0 +1,88 @@
+\s
+
+Different types of instruments:
+
+Voltmeter, ammeter, multimeter, energy-meter.
+Multi-range ammeter and voltmeter
+
+Methods of measuring diff. Electrical quantities
+1-phase Induction type energy meter.
+
+Errors adjustments
+
+Phantom loading
+
+Testing of energy meters.
+
+Classifications of resistances
+
+Description of Meggar.
+
+Measurement of capacitance:
+
+Magnetic measurements:
+
+Instrument Transformers:
+
+cT
+
+PT or VT
+Diff. Types of faults
+
+3.. CIRCUIT THEORY
+
+NETWORKS & A.C. FUNDAMENTALS
+Single-phase A.C Circuits:
+
+R-L-C Series Circuit:
+
+Parallel Circuit:
+
+RESONANCE & SELECTIVITY
+
+SERIES RESONANCE,
+PARALLEL RESONANCE: \
+
+TRANSIENTS (FOR ELECTRICAL ENGINEERING ‘oNLY) .
+
+Steady State &Transient Response.
+POLYPHASE CIRCUITS:
+
+COUPLED CIRCUITS:
+
+LAPLACE TRANSFORMATIONS:
+
+FILTERS:
+
+LAPLACE TRANSFORMATIONS
+
+4. ELECTRICAL MEASUREMENT & CONTROL
+
+Measurement of Power/Energy & Industrial Metering:
+
+Digital energy-meter
+
+Operation & Utility of Tri-vector meter.
+
+Digital frequency meter
+
+(i) Mech. Resonance type (ii) Electrical resonance type Frequency meter Power
+manager.
+
+Synchroscope:
+
+Phase-sequence meter
+
+Digital multimeter
+
+C.R.0.—block diagram representation & operation, applications
+Use of dual trace oscilloscope.
+
+Function generator—
+
+Frequency Counter—
+
+Elements of Servomechanism:
+
+Super Motor— :
+

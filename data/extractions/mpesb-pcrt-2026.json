@@ -1,0 +1,14 @@
+{
+  "homeUrl": "https://esb.mp.gov.in/home_n.html",
+  "formsUrl": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+  "rulebookUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_GD_2026_RuleBook_09092026.pdf",
+  "rulebookSha256": "7fd74dc392bf829bc491c538c6e5284aa10b2c160eb8a755f514c4fac10848a8",
+  "revisedUrl": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_2026_Rulebook_Revised_Page_01_15092026.pdf",
+  "revisedSha256": "db7a6b0ac80cb4c5c4a1c3d76f0f5b05b0f83cf5812aba789f205edd02aad45e",
+  "applicationUrl": "https://esb.mponline.gov.in/Portal/Examinations/ESB/notifications.aspx?langid=en-US&id=90",
+  "title": "Police Constable (General Duty) Recruitment Test 2026",
+  "opensOn": "2026-09-22",
+  "closesOn": "2026-10-06",
+  "correctionClosesOn": "2026-10-11",
+  "examStartsOn": "2026-11-19"
+}

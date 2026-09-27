@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<title>UPSC</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<link rel="stylesheet" href="css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" href="css/fullcalendar.css" />
+<link rel="stylesheet" href="css/colorpicker.css" />
+<link rel="stylesheet" href="css/datepicker.css" />
+<link rel="stylesheet" href="css/uniform.css" />
+<link rel="stylesheet" href="css/select2.css">
+<link rel="stylesheet" href="css/maruti-style.css" />
+<link rel="stylesheet" href="css/maruti-media.css" class="skin-color" />
+<style>
+    img.azadi{
+        width: 120px;
+        height: 80px;
+    }
+ </style>
+<noscript>
+        <meta http-equiv="refresh" runat="server" id="mtaJSCheck" content="0;nojs.php" />
+</noscript>
+<script type="text/javascript" >
+   function preventBack(){window.history.forward();}
+    setTimeout("preventBack()", 0);
+    window.onunload=function(){null};
+</script>
+
+</head>
+<body >
+<div id="hello">
+<style type="text/css">
+	header.upsc-header{
+		display: flex;
+		background: linear-gradient(90deg, rgba(254,254,255,1) 0%, rgba(182 205 245) 100%);
+        width: 100%;
+        
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    }
+    @media(max-width: 500px){        
+        .left-container .site-title {
+            font-size: 16px;
+        }
+    }
+	.left-container{
+	    background: url(./images/upsc_logo.png) no-repeat 3px 0;
+		background-size: 80px 85px;
+	    float: left;
+        width: 100%;
+	    font-size: 155%;
+	    line-height: 90%;
+	    min-height: 72px;
+	    padding: 15px 0 0 90px;
+	    text-transform: uppercase;
+	    margin-top: 16px;
+	    margin-left: 1%;
+	}
+    .right-container{
+       
+        float: right;
+        text-transform: uppercase;
+        margin-top: 16px;
+	}
+	.left-container .site-title {
+	    line-height: 1.2;
+	    color: #111;
+	    text-decoration: none;
+	    font-size:24.8px;
+		font-weight:600;
+		font-family: "Lucida Console", "Courier New", monospace;
+	}
+	.left-container .site-title strong {
+	    font-weight: 600;
+	    display: inline-block;
+	    font-size: 100%;
+	}
+	.left-container .site-title span {
+		display: block;
+	}
+	.lang {
+		margin-top: 2%;
+ 	 	margin-left: 50%;
+	}
+
+
+
+.float-right{
+	float:right;
+	margin-right: 2%;
+	margin-top: 0.3%;
+}
+
+
+.btn {
+  box-sizing: border-box;
+  appearance: none;
+  background-color: #fd1919ad;
+  border: 2px solid $red;
+  border-radius: 0.6em;
+  color: $red;
+  cursor: pointer;
+
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+
+
+  text-decoration: none;
+  text-align: center;
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    outline: 0;
+  }
+}
+
+
+.first {
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+  &:hover {
+    box-shadow: 0 0 40px 40px $red inset;
+  }
+}
+
+
+.topMenuBar {
+    background: #e47f18;
+    border-bottom: 1px solid #ebebeb;
+	padding: 10px 0px 0px 65px;
+}
+.topmenupart {
+    padding: 5px 5px;
+    color: rgb(27, 27, 27);
+    position: relative;
+}
+
+.topmenupart .menulist ul {
+    padding-left: 0px;
+    padding-top: 3px;
+    margin-bottom: 0px;
+    list-style-type: none;
+    display: inline-block;
+}
+.pull-right {
+    float: right!important;
+}
+
+.forzoominoutFonts a {
+    display: inline-block;
+    cursor: pointer;
+    color: #fff;
+    font: 14px/24px 'Roboto', sans-serif !important;
+        margin: 4px 0px 1px;
+    padding: 0px 5px;
+    background: transparent;
+    width: 25px;
+    height: 24px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.accordion .widget-box {
+	width: 90%;
+    margin-top: 20px;
+	margin-left: 15px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+label{
+	display:inline;
+}
+.color-blue{
+	color:blue;
+}
+
+
+.btn-success-2 {
+    color: #251c1c;
+    margin-bottom: 1%;
+    padding-left: 1%;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+    background-color: #5bb75b;
+    *background-color: #51a351;
+    background-image: -moz-linear-gradient(top,#62c462,#51a351);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#62c462),to(#51a351));
+    background-image: -webkit-linear-gradient(top,#62c462,#51a351);
+    background-image: -o-linear-gradient(top,#62c462,#51a351);
+    background-image: linear-gradient(to bottom,#62c462,#51a351);
+    background-repeat: repeat-x;
+    border-color: #51a351 #51a351 #387038;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462',endColorstr='#ff51a351',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+
+ .form-horizontal .control-label {
+
+    text-align: left;
+    p
+    adding-left: 2%;
+ }
+ @media print{
+    /* img.azadi{
+  	width: 150px; 
+	height: 130px;
+    } */
+ }
+</style>
+<header class="topMenuBar">
+	<div class="container">
+		<div class="row">
+			<div class="topmenupart">
+			<nav class="menulist">
+			<div class="langchangeDpdn pull-left">	
+								</div>
+				<div class="langchangeDpdn pull-right">	
+					
+								</div>
+				
+			</nav>
+			</div>
+		</div>
+	</div>
+</header>
+<header class="upsc-header topbar">
+	<div class="left-container"> 
+		<div class="site-title">
+			<strong>संघ  लोक  सेवा  आयोग</strong>
+			<span>UNION PUBLIC SERVICE COMMISSION</span>            
+		</div>
+	</div>
+    <img src="./images/upsc_centenary.png" width= "150px;" height= "100px;" !important alt="" style="float:right; display:inline;padding-top:10px;">
+</header><div id="sidebar">
+<ul>
+	<li><a href="logout.php"><i class="icon icon-home"></i> <span><b>Home</b></span></a></li>
+	<li class="active"><a href="logout.php"><i class="icon icon-print"></i> <span><b>Login</b></span></a> </li>
+	<li class="active"><a href="instr_otr.php"><i class="icon icon-globe"></i> <span><b>Instructions for OTR</b></span></a> </li>
+	<!-- <li><a href="candidate/faq.php"><i class="icon icon-fullscreen"></i> <span><b></b></a></span></a></li> -->
+	<!--<li><a href="candidate/FAQs.pdf" target="_blank"><i class="icon icon-fullscreen"></i> <span><b></b></a></span></a></li>-->
+	<li class="active"><a href="candidate/contact.php"><i class="icon icon-book"></i> <span><b>Contact Us</b></span></a> </li>
+	<li class="active"><a href="forotrpass.php"><i class="icon icon-book"></i> <span><b>Forgot Password</b></span></a> </li>
+	<li class="active"><i class="icon icon-book"></i> <span><b>V:112</b></span> </li>
+	
+</ul>
+</div>
+<div id="content">
+  <div id="content-header"></div>
+<div id="content">
+
+ <div style="text-align:center;"><font color="blue"  size="4px"><u><b>This portal is only to preview application forms filled/submitted on or before 25/03/2025.</u></b></font></div></br>
+   
+    <div style="text-align:center;"><font color="blue"  size="4px"><u><b>New Registration for NDA-II & CDS-II 2025 and for all future UPSC examinations,</br> Please visit the URL - https://upsconline.nic.in</u></b></font></div>
+
+<div class="container-fluid">
+  <div class="row-fluid">
+      <div class="span3">
+        <div class="widget-box">
+          <div class="widget-title"> <span class="icon"> <i class="icon-align-justify"></i> </span>
+            <h5 style="color: green;">Steps for Applicants</h5>
+		   </div>
+			<div class="widget-content nopadding">
+				<div class="accordion" id="collapse-group">
+					<div class="accordion-group widget-box">
+					  <div class="accordion-heading">
+						<div class="widget-title"> <a data-parent="#collapse-group" href="#collapseGOne" data-toggle="collapse" class="collapsed"> <span class="icon"><i class="icon-chevron-right"></i></span>
+						  <h5 class="color-title">Registration</h5>
+						  </a> </div>
+					  </div>
+            <div class="accordion-body collapse" id="collapseGOne" style="height: 0px;">
+						<div class="widget-content"><font color="blue">Applicant can submit his/her following details:</font><ul>
+							<li style="padding-top:5px; padding-bottom:2px">Name and Verify Name</li>
+							<li style="padding-bottom:2px">Full Name, if any</li>
+							<li style="padding-bottom:2px">Gender and Verify Gender</li>
+							<li style="padding-bottom:2px">Date of Birth and Verify Date of Birth</li>
+							<li style="padding-bottom:2px">Father's Name and Verify & Father's Name</li>
+							<li style="padding-bottom:2px">Mother's Name and Verify & Mother's Name</li>
+							<li style="padding-bottom:2px">Minority Status</li>
+							<li style="padding-bottom:2px">Valid Mobile Number (to be used as Login ID)</li>
+							<li style="padding-bottom:2px">Alternate Mobile Number, if any</li>
+							<li style="padding-bottom:2px">Valid Email ID (to be used as Login ID)</li>
+							<li style="padding-bottom:2px">Alternate Email ID, if any</li>
+							<li style="padding-bottom:2px">Board Examination Roll No (Class X)</li>
+							<li style="padding-bottom:2px">Security Questions</li>
+						</ul>
+						</div>
+					  </div>
+					</div>
+					<div class="accordion-group widget-box">
+					  <div class="accordion-heading">
+						<div class="widget-title"> <a data-parent="#collapse-group" href="#collapseGTwo" data-toggle="collapse" class="collapsed"> <span class="icon"><i class="icon-chevron-right"></i></span>
+						  <h5 class="color-title">Already Registered</h5>
+						  </a> </div>
+					  </div>
+					  <div class="accordion-body collapse" id="collapseGTwo" style="height: 0px;">
+						<div class="widget-content"><font color="blue">Applicant can login his/her account using registered Email ID / Mobile Number as Login ID through OTP or OTR ID through Password:</font><ul>
+							<li style="padding-top:5px; padding-bottom:2px">Through OTP </li>
+							<li style="padding-bottom:2px">Login ID as (Email ID / Mobile Number)</li>
+							<li style="padding-bottom:2px">Through Password</li>
+							<li style="padding-bottom:2px">OTP (Six numeric digit)</li>
+							<li style="padding-bottom:2px">Login ID as One Time Registration ID (OTR ID)</li>
+							<li style="padding-bottom:2px">Password</li>
+						</ul> </div>
+					  </div>
+					</div>
+					<div class="accordion-group widget-box">
+					  <div class="accordion-heading">
+						<div class="widget-title"> <a data-parent="#collapse-group" href="#collapseGThree" data-toggle="collapse" class="collapsed"> <span class="icon"><i class="icon-chevron-right"></i></span>
+						  <h5 class="color-title">Verification</h5>
+						  </a> </div>
+					  </div>
+					  <div class="accordion-body collapse" id="collapseGThree" style="height: 0px;">
+						<div class="widget-content"><font color="blue">An applicant needs to verify his/her details which he/she gave during the One Time Registration:</font><ul>
+							<li style="padding-top:5px; padding-bottom:2px">Name</li>
+							<li style="padding-bottom:2px">Full Name</li>
+							<li style="padding-bottom:2px">Gender - (if you want to change, you can edit the Gender at the time of verification)</li>
+							<li style="padding-bottom:2px">Date of Birth</li>
+							<li style="padding-bottom:2px">Father's Name</li>
+							<li style="padding-bottom:2px">Mother's Name</li>
+							<li style="padding-bottom:2px">Minority - (if you want to change, you can edit the Minority status at the time of verification)</li>
+							<li style="padding-bottom:2px">Mobile</li>
+							<li style="padding-bottom:2px">Alternate Mobile - (if you want to change, you can edit the Alternate Mobile at the time of verification)</li>
+							<li style="padding-bottom:2px">Email ID</li>
+							<li style="padding-bottom:2px">Alternate Email ID - (if you want to change, you can edit the Alternate Email ID at the time of verification)</li>
+							<li style="padding-bottom:2px">Board Examination Roll No (Class X)</li>
+							<li style="padding-bottom:2px">Set New Password</li>
+						</ul>
+					   </div>
+					  </div>
+					</div>
+
+					<div class="accordion-group widget-box">
+						  <div class="accordion-heading">
+							<div class="widget-title"> <a data-parent="#collapse-group" href="#collapseGfour" data-toggle="collapse" class="collapsed"> <span class="icon"><i class="icon-chevron-right"></i></span>
+							  <h5 class="color-title">Dashboard</h5>
+							  </a> </div>
+						  </div>
+					<div class="accordion-body collapse" id="collapseGfour" style="height: 0px;">
+						<div class="widget-content"><font color="blue">Applicant can also view his/her application status of every steps on dashboard: </font><ul>						
+							<li style="padding-bottom:2px">Personal Details</li>
+							<li style="padding-bottom:2px">Apply to<b> Active Notification</b></li>
+							<li style="padding-bottom:2px">Check Application Submission Status</li>
+						</ul> 
+						</div>
+					</div>
+				</div>
+			</div>
+          </div>
+        </div>
+      </div>
+
+	<div class="span5">
+		<div class="widget-box">
+		<div class="widget-title"> <span class="icon"> <i class="icon-align-justify"></i> </span>
+
+			<h5>Already Registered</h5>
+				<div class="float-right">
+					<a class="btn btn-primary" href="registration.php" >New Registration</a>
+				</div>
+			</div>
+		<div class="widget-content nopadding">
+            <form action="index.php" name="form1" method="post" class="form-horizontal" autocomplete="off">
+				<input type="hidden" id="token" name="token" value="hb8ba9w73uo0cws8ckw08wcgo0s0000" autocomplete="off" />
+				<input type="hidden" id="browser_name" name="browser_name" autocomplete="off" />
+				<input type="hidden" id="version" name="version" autocomplete="off" />
+				<input type="hidden" id="nav_appname" name="nav_appname" autocomplete="off" />
+				<input type="hidden" id="nav_useragent" name="nav_useragent" autocomplete="off" />
+			  <div class="control-group">
+                <label class="control-label label-inline">&nbsp;&nbsp;&nbsp;&nbsp;Select Mode for Login</label>
+				<div class="controls">
+									<label>
+                    <div class="radio" id="uniform-undefined">
+						<span class="">
+							<input type="radio" name="radios" id="email" style="opacity: 0;" checked onchange="checkModeForLogin();" value="1" autocomplete="off">
+						</span>
+					</div>
+                  Email ID</label>
+												 <label>
+                    <div class="radio" id="uniform-undefined"><span class=""><input type="radio" name="radios" id="mobile" style="opacity: 0;" onchange="checkModeForLogin();" value="2" autocomplete="off"></span></div>
+                    Mobile Number</label>
+												  <label>
+                    <div class="radio" id="uniform-undefined"><span class="checked"><input type="radio" name="radios" id="user_id" style="opacity: 0;" onchange="checkModeForLogin();" value="3" autocomplete="off" ></span></div>
+                  OTR ID</label>
+				                  </div>
+              </div>
+						<div class="control-group 
+						">
+							
+							
+																	<label class="control-label" id="loginContent_label">&nbsp;&nbsp;&nbsp;&nbsp;Email ID</label>
+									<div class="controls">
+									<input type="text" class="span11" placeholder="Email ID" name="email_id" id="loginContent" autocomplete="off" required maxlength="100"/>
+																<div></div>
+							</div>
+						</div>
+              <div class="control-group 
+              					">
+                <label class="control-label">&nbsp;&nbsp;&nbsp;&nbsp;Enter OTP / Password</label>
+                <div class="controls">
+									<input type="password" class="span7" placeholder="OTP" name="password" id="password" autocomplete="off" required maxlength="6" />
+					<a class="btn btn-info opt_button" id="opt_button" onclick="generate_otp();">Get OTP</a>
+				         
+                  <div>
+                  		
+                  </div>
+					<span class="help-inline" id="otp_message_box" style="color:red;display:none;" >An OTP is sent for Login. If you do not receive the OTP please send it again after <span id="timer"></span> sec.</span>
+					<progress value="0" max="30" id="progressBar" style="display:none;"></progress>
+                </div>
+              </div>
+              <div class="control-group">
+                <label class="control-label"></label>
+                <div class="controls">
+                    <img src="scripts/captcha.php?rand=108230149" id='captchaimg'>
+                    <br>
+                     Can't read the image? Click<a href='javascript: refreshCaptcha();'> here</a> to refresh                </div>
+              </div>
+              <div class="control-group">
+                <label class="control-label">&nbsp;&nbsp;&nbsp;&nbsp;Verification Code</label>
+                <div class="controls">
+                  <input type="text"  class="span11" placeholder="Verification Code" id="captcha_code" name="captcha_code" autocomplete="off" required maxlength="6" />
+				  <input type="hidden" name="login" value="0">
+                </div>
+              </div>
+              <div class="form-actions">
+                <input type="button" class="btn btn-success" name="submitbtn" id="submitbtn" onclick="login_validation();" value="Login">
+              </div>
+            </form>
+          </div>
+        </div>
+		<div class="sticky-red" style="background: mistyrose;padding: 10px;border-radius: 5px;border: 3px solid #d71f1f99;font-size: 1rem;font-weight: 600;">
+			<p>
+				Registered candidates who lost all the above three login credentials and are unable to login may refer to Para-C of the <a href="./notice_for_candidates.pdf" target="_blank">Notice.</a>
+			</p>
+		</div>
+      </div>
+		<div class="span4">
+			<div class="widget-box">
+				<div class="widget-title"> <span class="icon"> <i class="icon-align-justify"></i> </span>
+					<h5 style="color: green;">One Time Registration Benefits:</h5>
+				</div>
+				<div class="widget-content nopadding">
+					<ul class="list_style">
+						 <li style="padding-bottom:5px;padding-top:5px;"><span class="en">Applicant needs to fill personal details only once.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">Applicant needs to upload document, if required.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">OTR Information is digitally available anytime anywhere.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">OTR Information get automatically populated while applying under any Commission's Notification.</span></li>             
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="span4">
+			<div class="widget-box">
+				<div class="widget-title"> <span class="icon"> <i class="icon-align-justify"></i> </span>
+					<h5 style="color: green;">How to apply for Online Application? </h5>
+				</div>
+				<div class="widget-content nopadding">
+					<ul class="list_style">
+						 <li style="padding-bottom:5px;padding-top:5px;"><span class="en">Candidate has to register himself/ herself on OTR (One Time Registration) portal by Clicking the <a href='registration.php'><font color='blue'><b>New Registration</b></font></a> button.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">After registration, he/she has to login (by Email ID/ Mobile Number/ OTR ID) to verify the already registered OTR application.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">Go to the <b>Latest Notification</b> tab in the OTR application.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">Apply for desirable Examination.</span></li>
+						 <li style="padding-bottom:5px;"><span class="en">Candidate can check active examination Notification (in English and Hindi) on URL: <a href='https://www.upsc.gov.in' target='_blank'><font color='blue'> https://www.upsc.gov.in </font></a></span></li> 	
+						<li style="padding-bottom:5px;"><span class="en">V:112</span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+    </div>
+  </div>
+<p class="my-4 d-none d-sm-none d-md-block text-center"><img src="images/footer.gif" style="margin-bottom:0.5cm"></p>
+</div>
+<script src="js/excanvas.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.ui.custom.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap-colorpicker.js"></script>
+<script src="js/bootstrap-datepicker.js"></script>
+<script src="js/jquery.uniform.js"></script>
+<script src="js/jquery.flot.min.js"></script>
+<script src="js/jquery.flot.resize.min.js"></script>
+<script src="js/jquery.peity.min.js"></script>
+<script src="js/fullcalendar.min.js"></script>
+<script src="js/maruti.js"></script>
+<script src="js/maruti.form_common.js"></script>
+<script src="js/maruti.dashboard.js"></script>
+<script src="js/maruti.chat.js"></script>
+<script type="text/javascript" src="js/jsbn.js"></script>
+<script type="text/javascript" src="js/prng4.js"></script>
+<script type="text/javascript" src="js/rng.js"></script>
+<script type="text/javascript" src="js/rsa.js"></script>
+<script type="text/javascript" src="js/brower_detail.js"></script>
+ 
+<script type="text/javascript">
+function validation_change_password(){
+	let password_format=/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[#$@!%&^*?])[A-Za-z\d#$@!%&^*?]{8,30}$/;
+	if($('#old_pass').val()==''){
+		alert('Please enter your old password.');
+		$('#old_pass').focus();
+		return false;
+	}
+	
+	if($('#new_pass').val()==''){
+		alert('Please enter your new password.');
+		$('#new_pass').focus();
+		return false;
+	}else if(!password_format.test($('#new_pass').val())){
+		alert('New Password must follow the rules.');
+		$('#new_pass').val('');
+		$('#new_pass').focus();
+		return false;
+	}else if($('#conf_pass').val()==''){
+		alert('Please enter your confirm password.');
+		$('#conf_pass').focus();
+		return false;
+	}else if(!password_format.test($('#conf_pass').val())){
+		alert('Confirm Password must follow the rules.');
+		$('#conf_pass').val('');
+		$('#conf_pass').focus();
+		return false;
+	}else if($('#conf_pass').val()!=$('#new_pass').val()){
+		alert('New password and Confirm password must match each other');
+		$('#conf_pass').val('');
+		$('#new_pass').val('');
+		$('#new_pass').focus();
+		return false;
+	}else{
+	var rsa = new RSAKey();
+	rsa.setPublic('8461592da3ef6a05913d5dc2cadc8c8bc9126d2ca170aee55140686461c8d7d5b4a1857c2ff681c1e4752c9bac1d833283a6843d061a312cb3b07d555b7789f9', '010001');
+	$('#old_pass').val(rsa.encrypt($('#old_pass').val()+$('#token').val()));
+	$('#new_pass').val(rsa.encrypt($('#new_pass').val()+$('#token').val()));
+	$('#conf_pass').val(rsa.encrypt($('#conf_pass').val()+$('#token').val()));
+	
+	
+	}
+
+
+}
+
+$("#old_pass").keyup(function(e){
+	if(e.keyCode === 32){
+        alert('Spaces are not allowed.');
+		$("#old_pass").val($("#old_pass").val().replace(/\s/g,''));
+	}
+});
+
+$("#new_pass").keyup(function(e){
+	if(e.keyCode == 32){
+		alert('Spaces are not allowed.');
+		$("#new_pass").val($("#new_pass").val().replace(/\s/g,''));
+    }
+});
+
+$("#conf_pass").keyup(function(e){
+	if(e.keyCode == 32){
+		alert('Spaces are not allowed.');
+		$("#conf_pass").val($("#conf_pass").val().replace(/\s/g,''));
+    }
+});
+
+function check_password_condition(characters){
+	let special_char = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/;
+	let numeric_digit= /^\d+$/;
+	let upperCaseChar= /^[A-Z]+$/;
+	let lowerCaseChar=/^[a-z]+$/;
+
+	let special_char_bool = 0;
+	let numeric_digit_bool= 0;
+	let upperCaseChar_bool= 0;
+	let lowerCaseChar_bool=0;
+	let length_bool=0;
+
+	let i=0;
+	let character='';
+	if(characters.length!=0){
+		while (i <= characters.length){
+			character = characters.charAt(i);
+			if(upperCaseChar.test(character)) {
+				upperCaseChar_bool=1;
+			}else if(lowerCaseChar.test(character)){
+				lowerCaseChar_bool=1;
+			}else if(special_char.test(character)){
+				special_char_bool=1;
+			}else if(numeric_digit.test(character)){
+				numeric_digit_bool=1;
+			}
+			i++;
+		}
+	}
+	//test if boolean value is set or not
+	if(upperCaseChar_bool==1) {
+		$("#pass_ucase").show();
+	}else{
+		$("#pass_ucase").hide();
+	}
+
+	if(lowerCaseChar_bool==1){
+		$("#pass_lcase").show();
+	}else{
+		$("#pass_lcase").hide();
+	}
+
+	if(special_char_bool==1){
+		$("#pass_special").show();
+	}else{
+		$("#pass_special").hide();
+	}
+
+	if(numeric_digit_bool==1){
+		$("#pass_num").show();
+	}else{
+		$("#pass_num").hide();
+	}
+
+	if(characters.length>=8){
+		$("#pass_length").show();
+	}else{
+		$("#pass_length").hide();
+	}
+
+
+	
+}
+function codespeedy(){
+		
+		var print_div = document.getElementById("hello");
+		var print_area = window.open();
+		print_area.document.write('<style>@media print {table, td, th {border: 1px solid black;}table {width: 100%;border-collapse: collapse;} .background {background-size: 700px 100px;background-image:url(images/upsc_background.jpg);}}</style>'+print_div.innerHTML);
+		print_area.document.close();
+		print_area.focus();
+		print_area.print();
+		print_area.close();
+		
+		}
+//function to prevent copy paste event	
+ $('body').bind('copy paste',function(e) {
+    e.preventDefault(); return false; 
+});
+
+
+//function to check the data of email,phone number and class x marks exist or not
+function checkDataExist(id,value){
+	if($("#"+id).val()!=''){
+		$.ajax({
+			url: "checkDataExistance.php",
+			type: "POST",
+			data: {'id' : id,'value':value, 'token' : 'hb8ba9w73uo0cws8ckw08wcgo0s0000'},
+			cache: false,
+			success: function(html){
+				if(html !=0){
+					if(id=='mobile_num'){
+						alert('This Mobile Number already exist in the system. Please use another Mobile Number for registration.');
+						$("#"+id).val("");
+					}else if(id=='email_id'){
+						alert('This Email ID already exist in the system. Please use another Email ID for registration.');
+						$("#"+id).val("");
+					}					
+				}
+			}
+		});
+	}
+} 
+//function to check the data of email,phone number and class x marks exist or not
+function checkDataExist1(id,value){
+	if($("#"+id).val()!=''){
+		$.ajax({
+			url: "upcheckDataExistance.php",
+			type: "POST",
+			data: {'id' : id,'value':value, 'token' : 'hb8ba9w73uo0cws8ckw08wcgo0s0000'},
+			cache: false,
+			success: function(html){
+				if(html ==0){
+					if(id=='mobile_num'){
+						alert('This Mobile Number already exist in the system. Please use another Mobile Number for registration.');
+						$("#"+id).val("");
+					}else if(id=='email_id'){
+						alert('This Email ID already exist in the system. Please use another Email ID for registration.');
+						$("#"+id).val("");
+					}				
+				}
+			}
+		});
+	}
+}
+//function to check the data of email,phone number not exist
+function checkDataOTRIDExistance(id,value){
+	
+		if($("#"+id).val()!=''){
+		$.ajax({
+			url: "checkDataOTRIDExist.php",
+			type: "POST",
+			data: {'id' : id,'value':value, 'token' : 'hb8ba9w73uo0cws8ckw08wcgo0s0000'},
+			cache: false,
+			success: function(html){
+				if(html !=1){
+					if(id=='otr_id'){
+						//alert('If you are already registered, the Password will be sent to your registered Email ID or Mobile Number.');
+						//$("#"+id).val("");
+					}
+				}
+			}
+		});
+	}	
+}
+//age function to calculate age
+function getAge(dateString){
+	var from = dateString.split("/");
+	var birthdateTimeStamp = new Date(from[2], from[1]-1, from[0]);
+	var cur = new Date();
+	var diff = cur - birthdateTimeStamp;
+	var currentAge = Math.floor(diff/31557600000);
+	return currentAge;
+}
+
+
+//hide instruction bar on blur event from input boxes
+function hideNote(value){
+	if(value=='name'){
+		$("#tab1").hide();
+	}else if(value=='dob'){
+		$("#tab2").hide();
+	}else if(value=='father_name'){
+		$("#tab3").hide();
+	}else if(value=='mother_name'){
+		$("#tab4").hide();
+	}else if(value=='email_id'){
+		$("#tab5").hide();
+	}else if(value=='name_ver'){
+		$("#tab1").hide();
+	}else if(value=='dob_ver'){
+		$("#tab2").hide();
+	}else if(value=='father_name_ver'){
+		$("#tab3").hide();
+	}
+}
+//show instruction bar on focus event on input boxes
+function ShowNote(value){
+	if(value=='name'){
+		$("#tab1").show();
+	}else if(value=='dob'){
+		$("#tab2").show();
+	}else if(value=='father_name'){
+		$("#tab3").show();
+	}else if(value=='mother_name'){
+		$("#tab4").show();
+	}else if(value=='email_id'){
+		$("#tab5").show();
+	}else if(value=='name_ver'){
+		$("#tab1").show();
+	}else if(value=='dob_ver'){
+		$("#tab2").show();
+	}else if(value=='father_name_ver'){
+		$("#tab3").show();
+	}
+}
+
+//validation of one time verification page for all checkboxes
+function validation_verification(){
+	let password_format=/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[#$@!%&^*?])[A-Za-z\d#$@!%&^*?]{8,30}$/;
+	if($('#password').val() == ''){
+		alert('Please enter your new password.');
+		$('#password').focus();
+		return false;
+	}else if(!password_format.test($('#password').val())){
+		alert('New Password must follow the rules.');
+		$('#password').val('');
+		$('#password').focus();
+		return false;
+	}else if($('#password').val().length < 8  && $('#password').val().length > 20){
+		alert('The New Password should be between 8 to 20 alphanumeric characters.');
+		$('#password').val('');
+		$('#password').focus();
+		return false;
+	}else if($('#conf_pass').val() == ''){
+		alert('Please enter your confirm password.');
+		$('#conf_pass').focus();
+		return false;
+	}else if(!password_format.test($('#conf_pass').val())){
+		alert('Confirm Password must follow the rules.');
+		$('#conf_pass').val('');
+		$('#conf_pass').focus();
+		return false;
+	}else if($('#conf_pass').val()!=$('#password').val()){
+		alert('New password and Confirm password must match each other');
+		$('#conf_pass').val('');
+		$('#password').val('');
+		$('#password').focus();
+		return false;
+	}else if($('#conf_pass').val().length < 8  && $('#conf_pass').val().length > 20){
+		alert('The New Password should be between 8 to 20 alphanumeric characters.');
+		$('#conf_pass').val('');
+		$('#conf_pass').focus();
+		return false;
+	}else{
+		var rsa = new RSAKey();
+		rsa.setPublic('8461592da3ef6a05913d5dc2cadc8c8bc9126d2ca170aee55140686461c8d7d5b4a1857c2ff681c1e4752c9bac1d833283a6843d061a312cb3b07d555b7789f9', '010001');
+		$('#password').val(rsa.encrypt($('#password').val()+$('#token').val()));
+		$('#conf_pass').val(rsa.encrypt($('#conf_pass').val()+$('#token').val()));	
+	}
+}
+//validation for oneTimeLoginVerification page
+function changeBoxEnableDisable(id){
+	var els = document.getElementById(id);
+	 if (els.checked) {
+			$("#"+$("#"+id).attr("data-input-v")).hide();
+			$("#"+$("#"+id).attr("data-input-i")).show();
+			$("#"+$("#"+id).attr("data-input")).removeAttr('disabled');
+			$("#"+$("#"+id).attr("data-input-a")).show();
+			$("#"+$("#"+id).attr("data-input")).removeAttr('disabled');
+			document.getElementById('minority_option').disabled=false;
+			
+		}else{
+			$("#"+$("#"+id).attr("data-input-v")).show();
+			$("#"+$("#"+id).attr("data-input-i")).hide();
+			$("#"+$("#"+id).attr("data-input")).attr('disabled','disabled');
+			$("#"+$("#"+id).attr("data-input-a")).hide();
+			$("#"+$("#"+id).attr("data-input")).attr('disabled','disabled');
+	 }
+}
+
+
+//validation for login page
+ function validation_login(){
+	var email_test = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	var only_number = /^[0-9]+$/;
+	if($('input[name="radios"]:checked').val()){
+		if($('input[name="radios"]:checked').val()==1){
+			//check for email validation
+			if($('#loginContent').val()==''){
+				alert('Please provide email for login');
+				return false;
+			}else if(!email_test.test($('#loginContent').val())){
+				alert('Please provide a valid email for login');
+				return false;
+			}
+		}else if($('input[name="radios"]:checked').val()==2){
+			//check for phone number validation
+			if($('#loginContent').val()==''){
+				alert('Please provide mobile number for login');
+				return false;
+			}else if(!only_number.test($('#loginContent').val())){
+				alert('Please provide a valid mobile number for login');
+				return false;
+			}else if($('#loginContent').val().length!=10){
+				alert('Please provide a valid length of mobile number for login');
+				return false;
+			}
+		}else if($('input[name="radios"]:checked').val()==3){
+			//check for uid validations 
+			
+			if($('#loginContent').val()==''){
+				alert('Please provide uid for login');
+				return false;
+			}else if(!only_number.test($('#loginContent').val())){
+				alert('Please provide a valid uid for login');
+				return false;
+			}else if($('#loginContent').val().length!=15){
+				//alert($('#loginContent').val().length);
+				alert('Please provide a valid length of uid for login');
+				return false;
+			}
+			
+		}else{
+			
+		}
+			
+	}else{
+		alert('Please select the mode for login');
+		return false;
+	}
+	
+	var rsa = new RSAKey();
+	rsa.setPublic('8461592da3ef6a05913d5dc2cadc8c8bc9126d2ca170aee55140686461c8d7d5b4a1857c2ff681c1e4752c9bac1d833283a6843d061a312cb3b07d555b7789f9', '010001');
+	document.getElementById('loginContent').value=rsa.encrypt(document.getElementById('loginContent').value+document.getElementById('token').value);
+	document.getElementById('password').value=rsa.encrypt(document.getElementById('password').value+document.getElementById('token').value);
+}
+
+
+
+ function generate_otp_mobile(token,uid){
+	$("#opt_button_mobile").attr("disabled", "disabled");
+	$("#opt_button_mobile").hide();
+	$("#otp_message_box_mobile").show();
+	$("#progressBar_mobile").show();
+			
+			let timeleft = 229;
+			let downloadTimer = setInterval(function(){
+			if(timeleft <= 0){
+				clearInterval(downloadTimer);
+			}
+			document.getElementById("progressBar_mobile").value = 300 - timeleft;
+			document.getElementById("timer_mobile").innerHTML = timeleft;
+			
+			timeleft -= 1;
+		}, 1000);
+		
+		setTimeout(function() {
+			$("#opt_button_mobile").removeAttr("disabled");
+			$("#opt_button_mobile").show();
+			$("#otp_message_box_mobile").hide();
+			$("#progressBar_mobile").hide();	 
+        }, 300000);
+		
+		$.ajax({
+			url: "otp_generator_phone.php",
+			type: "POST",
+			data: {'token' : token,'uid':uid},
+			cache: false,
+			success: function(html){
+			}
+		}); 
+}
+
+function generate_otp_email(token,uid){
+	$("#opt_button_email").attr("disabled", "disabled");
+	$("#opt_button_email").hide();
+	$("#otp_message_box_email").show();
+	$("#progressBar_email").show();
+			
+	let timeleft = 229;
+	let downloadTimer = setInterval(function(){
+			if(timeleft <= 0){
+				clearInterval(downloadTimer);
+			}
+			document.getElementById("progressBar_email").value = 300 - timeleft;
+			document.getElementById("timer_email").innerHTML = timeleft;
+			
+			timeleft -= 1;
+		}, 1000);
+		
+		setTimeout(function() {
+			$("#opt_button_email").removeAttr("disabled");
+			$("#opt_button_email").show();
+			$("#otp_message_box_email").hide();
+			$("#progressBar_email").hide(); 
+        }, 300000);
+		$.ajax({
+			url: "otp_generator_email.php",
+			type: "POST",
+			data: {'token' : token ,'uid':uid},
+			cache: false,
+			success: function(html){
+			}
+		}); 
+}
+
+function generate_otp(){
+	if($('#loginContent').val()==''){
+		 alert('Please provide correct data for login.');
+		 return false;
+	 }else{
+			$("#opt_button").attr("disabled", "disabled");
+			$("#opt_button").hide();
+			$("#otp_message_box").show();
+			$("#progressBar").show();
+				
+			let timeleft = 229;
+			let downloadTimer = setInterval(function(){
+			if(timeleft <= 0){
+				clearInterval(downloadTimer);
+			}
+			document.getElementById("progressBar").value = 300 - timeleft;
+			document.getElementById("timer").innerHTML = timeleft;
+			
+			timeleft -= 1;
+		}, 1000);
+		
+		setTimeout(function() {
+			$("#opt_button").removeAttr("disabled");
+			$("#opt_button").show();
+			$("#otp_message_box").hide();
+			$("#progressBar").hide(); 
+        }, 300000);
+		
+		$.ajax({
+			url: "otp_generator.php",
+			type: "POST",
+			data: {'token' : 'hb8ba9w73uo0cws8ckw08wcgo0s0000', 'mode_login':$('input[name="radios"]:checked').val(),'uid':$('#loginContent').val(),'id':$('#loginContent').attr("name")},
+			cache: false,
+			success: function(html){
+				if(html==1){
+					alert('Email ID/Mobile number does not exist. Please register yourself');
+					$("#opt_button").removeAttr("disabled");
+					$("#opt_button").show();
+					$("#otp_message_box").hide();
+					$("#progressBar").hide();
+					
+					
+				}
+			}
+		});
+	 }
+}
+//$('select option:selected').prop('disabled', true);
+  // This function is called from the pop-up menus to transfer to
+  // a different page. Ignore if the value returned is a null string:
+  function goPage (newURL) {
+	// if url is empty, skip the menu dividers and reset the menu selection to default
+      if (newURL != "") {
+	// if url is "-", it is this page -- reset the menu:
+          if (newURL == "-" ) {
+              resetMenu();
+          }
+          // else, send page to designated URL
+          else {
+            document.location.href = newURL;
+          }
+      }
+  }
+
+// resets the menu selection upon entry to this page:
+function resetMenu() {
+   document.gomenu.selector.selectedIndex = 2;
+}
+</script>
+
+<script>
+function changeLang(){
+ document.getElementById('form_lang').submit();
+}
+function checkModeForLogin(){
+            if(document.getElementById('email').checked) {
+				document.getElementById('loginContent_label').innerHTML="&nbsp;&nbsp;&nbsp;&nbsp;Email ID";
+				document.getElementById('loginContent').name="email_id";
+				document.getElementById('loginContent').value="";
+				document.getElementById('password').value="";
+				document.getElementById('captcha_code').value="";
+				document.getElementById('loginContent').placeholder="Email ID";
+				document.getElementById('password').placeholder="OTP";
+				$("#opt_button").removeAttr("disabled");
+				$("#opt_button").show();
+				$("#loginContent").attr('maxlength','100');
+				$("#password").attr('maxlength','6');
+            }else if(document.getElementById('mobile').checked) {
+				document.getElementById('loginContent_label').innerHTML="&nbsp;&nbsp;&nbsp;&nbsp;Mobile Number";
+				document.getElementById('loginContent').name="mobile_num";
+				document.getElementById('loginContent').value="";
+				document.getElementById('password').value="";
+				document.getElementById('captcha_code').value="";
+				document.getElementById('loginContent').placeholder="Mobile Number";
+				document.getElementById('password').placeholder="OTP";
+				$("#opt_button").removeAttr("disabled");
+				$("#opt_button").show();
+				$("#loginContent").attr('maxlength','10');
+				$("#password").attr('maxlength','6');
+            }else if(document.getElementById('user_id').checked) {
+				document.getElementById('loginContent_label').innerHTML="&nbsp;&nbsp;&nbsp;&nbsp;OTR ID";
+				document.getElementById('loginContent').name="user_id";
+				document.getElementById('loginContent').value="";
+				document.getElementById('password').value="";
+				document.getElementById('captcha_code').value="";
+				document.getElementById('loginContent').placeholder="OTR ID";
+				document.getElementById('password').placeholder="Password";
+				$("#opt_button").attr("disabled", "disabled");
+				$("#opt_button").hide();
+				$("#loginContent").attr('maxlength','15');
+				$("#password").attr('maxlength','20');
+				
+				
+            }
+            else {
+
+            }
+        }
+
+</script>
+<script type='text/javascript'>
+<!--remove red marked error on key press-------------------------------->
+$(this).on('keypress change', function (event) {
+	if($(document.activeElement).attr("data-id")!=null){
+		document.getElementById($(document.activeElement).attr("data-id")).className ='control-group';
+		document.getElementById($(document.activeElement).attr("data-element")).innerHTML ='';
+	}
+});
+
+
+
+$('#name').on('keypress', function (event) {
+	var regex = new RegExp(/^[A-Za-z\b ]+$/);
+	  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+		if (!regex.test(key)) {
+			alert('Please use alphabets a-z only.');
+			event.preventDefault();
+			return false;
+		}
+});
+
+$('#name_ver').on('keypress', function (event) {
+	var regex = new RegExp(/^[A-Za-z\b ]+$/);
+	var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use alphabets a-z only.');
+		event.preventDefault();
+		return false;
+    }
+});
+$('#father_name').on('keypress', function (event) {
+  var regex = new RegExp(/^[A-Za-z\b ]+$/);
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use alphabets a-z only.');
+		event.preventDefault();
+		return false;
+    }
+});
+
+$('#father_name_ver').on('keypress', function (event) {
+  var regex = new RegExp(/^[A-Za-z\b ]+$/);
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use alphabets a-z only.');
+		event.preventDefault();
+		return false;
+    }
+});
+
+$('#mother_name').on('keypress', function (event) {
+  var regex = new RegExp(/^[A-Za-z\b ]+$/);
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use alphabets a-z only.');
+		event.preventDefault();
+		return false;
+    }
+});
+
+$('#mother_name_ver').on('keypress', function (event) {
+  var regex = new RegExp(/^[A-Za-z\b ]+$/);
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use alphabets a-z only.');
+		event.preventDefault();
+		return false;
+    }
+});
+$('#mobile_num').on('keypress', function (event) {
+  var regex = new RegExp(/^[0-9]$/);;
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use number 0-9 only.');
+		event.preventDefault();
+		return false;
+    }
+});
+$('#alt_mobile_num').on('keypress', function (event) {
+  var regex = new RegExp(/^[0-9]$/);;
+  var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
+    if (!regex.test(key)) {
+		alert('Please use number 0-9 only.');
+		event.preventDefault();
+		return false;
+    }
+});
+
+
+  function refreshCaptcha(){
+  	var img = document.images['captchaimg'];
+  	img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
+  }
+
+  function findCommonElements(arr1, arr2) {
+    return arr1.some(item => arr2.includes(item))
+}
+function isEmail(str){
+    var regex = /^[-_.a-z0-9]+@(([-_a-z0-9]+\.)+(ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cs|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|in|info|int|io|iq|ir|is|it|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mil|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nt|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)|(([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])\.){3}([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5]))$/i;
+    return regex.test(str);
+}
+
+function validation_registration(){//alert("case1");
+	/* validation on name field */
+	var special_character = /^[A-Za-z ]+$/;
+	var notAllowedWord=['NAME','TEST','FATHER','MOTHER'];
+	/* validation on gender */
+	var allowed_gender_value= ['1','2','3'];
+	var allowed_minority_status= ['1','0'];
+	var only_number = /^[0-9]+$/;
+	var email_test = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	var  aphanumeric= /^[A-Za-z0-9]+$/;
+	var allowed_minority_value= ['1','2','3','4','5','6'];
+	var dateString = document.getElementById('dob').value;
+	var string_search = dateString.search("/");
+	var from = dateString.split("/");
+	var birthdateTimeStamp = new Date(from[2], from[1]-1, from[0]);
+	if(document.getElementById('name').value==''){
+		document.getElementById('i1').className ='control-group error';
+		document.getElementById('a1').innerHTML ='<span class="help-inline">Please enter your name</span>';
+		document.getElementById("name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length > 30){
+		document.getElementById('i1').className ='control-group error';
+		document.getElementById('a1').innerHTML ='<span class="help-inline">Please enter your name in 100 characters only.</span>';
+		document.getElementById("name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length < 4){
+		//alert('here');
+		document.getElementById('i1').className ='control-group error';
+		document.getElementById('a1').innerHTML ='<span class="help-inline">Name of candidate cannot be less than 4 characters.</span>';
+		document.getElementById("name").focus();
+		return false;
+	}else if(!special_character.test(document.getElementById("name").value)){
+		document.getElementById('i1').className ='control-group error';
+		document.getElementById('a1').innerHTML ='<span class="help-inline">Special characters are not allowed in name field</span>';
+		document.getElementById("name").focus();
+		return false;
+	}else if(findCommonElements(notAllowedWord, (document.getElementById("name").value.toLocaleUpperCase()).split(" "))){
+		document.getElementById('i1').className ='control-group error';
+		document.getElementById('a1').innerHTML ='<span class="help-inline">Please enter correct name.</span>';
+		document.getElementById("name").focus();
+		return false;
+	}else if(document.getElementById('name').value.toUpperCase().trim() != document.getElementById('name_ver').value.toUpperCase().trim()){
+		document.getElementById('iv1').className ='control-group color-blue error';
+		document.getElementById('av1').innerHTML ='<span class="help-inline">Name field and verify name field are not matching.</span>';
+		document.getElementById("name_ver").focus();
+		return false;
+	}
+	//full name validation
+	else if(document.getElementById('name').value.length > 29 && document.getElementById('full_name').value.trim() ==''){
+		document.getElementById('i0').className ='control-group error';
+		document.getElementById('a0').innerHTML ='<span class="help-inline">Please enter change your name</span>';
+		document.getElementById("full_name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length > 29 && document.getElementById('full_name').value.length > 100){
+		document.getElementById('i0').className ='control-group error';
+		document.getElementById('a0').innerHTML ='<span class="help-inline">Please enter your change name in 100 characters only.</span>';
+		document.getElementById("full_name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length > 29 && document.getElementById('full_name').value.length < 29){
+		document.getElementById('i0').className ='control-group error';
+		document.getElementById('a0').innerHTML ='<span class="help-inline">The Change Name of candidate cannot be less than 100 characters.</span>';
+		document.getElementById("full_name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length > 29 && !special_character.test(document.getElementById("full_name").value.trim())){
+		document.getElementById('i0').className ='control-group error';
+		document.getElementById('a0').innerHTML ='<span class="help-inline">Special characters are not allowed in change name field</span>';
+		document.getElementById("full_name").focus();
+		return false;
+	}else if(document.getElementById('name').value.length > 29 && findCommonElements(notAllowedWord, (document.getElementById("full_name").value.toLocaleUpperCase().trim()).split(" "))){
+		document.getElementById('i0').className ='control-group error';
+		document.getElementById('a0').innerHTML ='<span class="help-inline">Please enter correct name.</span>';
+		document.getElementById("full_name").focus();
+		return false;
+	}//gender validation
+	else if(document.getElementById('gender').value==''){
+		document.getElementById('i2').className ='control-group error';
+		document.getElementById('a2').innerHTML ='<span class="help-inline">Please select your gender</span>';
+		document.getElementById("gender").focus();
+		return false;
+	}else if(!allowed_gender_value.includes(document.getElementById('gender').value)){
+		document.getElementById('i2').className ='control-group error';
+		document.getElementById('a2').innerHTML ='<span class="help-inline">Please select gender from given values</span>';
+		document.getElementById("gender").focus();
+		return false;
+	}else if(document.getElementById('gender_ver').value==''){
+		document.getElementById('iv2').className ='control-group error';
+		document.getElementById('av2').innerHTML ='<span class="help-inline">Please select your verify gender</span>';
+		document.getElementById("gender_ver").focus();
+		return false;
+	}else if(document.getElementById('gender').value != document.getElementById('gender_ver').value){
+		document.getElementById('iv2').className ='control-group color-blue error';
+		document.getElementById('av2').innerHTML ='<span class="help-inline">Gender field and verify Gender field are not matching.</span>';
+		document.getElementById("gender_ver").focus();
+		return false;
+	}
+	/* date of birth validation */
+	else if(document.getElementById('dob').value == ''){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Please give your date of birth as recorded in the matriculation/secondary school certificate.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(string_search == '-1'){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Please give your date of birth as recorded in the matriculation/secondary school certificate.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(birthdateTimeStamp == 'Invalid Date'){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Please give your date of birth as recorded in the matriculation/secondary school certificate.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(document.getElementById('dob').value != '' && document.getElementById('dob').value.length != 10){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Please give your date of birth as recorded in the matriculation/secondary school certificate.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(getAge(document.getElementById('dob').value) < 14){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Your date of birth is not valid.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(getAge(document.getElementById('dob').value) >= 60){
+		document.getElementById('i3').className ='control-group error';
+		document.getElementById('a3').innerHTML ='<span class="help-inline">Your date of birth is not valid.</span>';
+		document.getElementById("dob").focus();
+		return false;
+	}else if(getAge(document.getElementById('dob_ver').value) < 14){
+		document.getElementById('iv3').className ='control-group error';
+		document.getElementById('av3').innerHTML ='<span class="help-inline">Your date of birth is not valid.</span>';
+		document.getElementById("dob_ver").focus();
+		return false;
+	}else if(getAge(document.getElementById('dob_ver').value) >= 60){
+		document.getElementById('iv3').className ='control-group error';
+		document.getElementById('av3').innerHTML ='<span class="help-inline">Your date of birth is not valid.</span>';
+		document.getElementById("dob_ver").focus();
+		return false;
+	}else if(document.getElementById('dob').value != document.getElementById('dob_ver').value){
+		document.getElementById('iv3').className ='control-group color-blue error';
+		document.getElementById('av3').innerHTML ='<span class="help-inline">DOB field and verify DOB field are not matching.</span>';
+		document.getElementById("dob_ver").focus();
+		return false;
+	}
+	/* father name validation */
+	else if(document.getElementById('father_name').value==''){
+		document.getElementById('i4').className ='control-group error';
+		document.getElementById('a4').innerHTML ='<span class="help-inline">Please enter your father name</span>';
+		document.getElementById("father_name").focus();
+		return false;
+	}else if(document.getElementById('father_name').value.length > 30){
+		document.getElementById('i4').className ='control-group error';
+		document.getElementById('a4').innerHTML ='<span class="help-inline">Please enter father name in 100 characters only.</span>';
+		document.getElementById("father_name").focus();
+		return false;
+	}else if(!special_character.test(document.getElementById("father_name").value)){
+		document.getElementById('i4').className ='control-group error';
+		document.getElementById('a4').innerHTML ='<span class="help-inline">Special characters are not allowed in father name field.</span>';
+		document.getElementById("father_name").focus();
+		return false;
+	}else if(document.getElementById('father_name').value.toUpperCase().trim() != document.getElementById('father_name_ver').value.toUpperCase().trim()){
+		document.getElementById('iv4').className ='control-group error';
+		document.getElementById('av4').innerHTML ='<span class="help-inline">Father name field and Verify father name field are not matching.</span>';
+		document.getElementById("father_name_ver").focus();
+		return false;
+	}else if(document.getElementById('father_name').value.toUpperCase().trim() == document.getElementById('name').value.toUpperCase().trim()){
+		document.getElementById('iv4').className ='control-group color-blue error';
+		document.getElementById('av4').innerHTML ='<span class="help-inline">Father name field and Candidate name field cannot match.</span>';
+		document.getElementById("father_name_ver").focus();
+		return false;
+	}
+	/* mother name validation */
+	else if(document.getElementById('mother_name').value==''){
+		document.getElementById('i5').className ='control-group error';
+		document.getElementById('a5').innerHTML ='<span class="help-inline">Please enter your mother name</span>';
+		document.getElementById("mother_name").focus();
+		return false;
+	}else if(document.getElementById('mother_name').value.length > 30){
+		document.getElementById('i5').className ='control-group error';
+		document.getElementById('a5').innerHTML ='<span class="help-inline">Please enter mother name in 100 characters only.</span>';
+		document.getElementById("mother_name").focus();
+		return false;
+	}else if(!special_character.test(document.getElementById("mother_name").value)){
+		document.getElementById('i5').className ='control-group error';
+		document.getElementById('a5').innerHTML ='<span class="help-inline">Special characters are not allowed in mother name field.</span>';
+		document.getElementById("mother_name").focus();
+		return false;
+	}else if(document.getElementById('mother_name').value.toUpperCase().trim() == document.getElementById('name').value.toUpperCase().trim()){
+		document.getElementById('i5').className ='control-group error';
+		document.getElementById('a5').innerHTML ='<span class="help-inline">Mother name cannot match with candidate name.</span>';
+		document.getElementById("mother_name").focus();
+		return false;
+	}else if(document.getElementById('mother_name').value.toUpperCase().trim() != document.getElementById('mother_name_ver').value.toUpperCase().trim()){
+		document.getElementById('ii5').className ='control-group color-blue error';
+		document.getElementById('aa5').innerHTML ='<span class="help-inline">Mother name field and Verify mother name field are not matching.</span>';
+		document.getElementById("mother_name_ver").focus();
+		return false;
+	}
+	/* validation for minority status */
+	else if(document.getElementById('minority_status').value==''){
+		document.getElementById('i7').className ='control-group error';
+		document.getElementById('a7').innerHTML ='<span class="help-inline">Please select your minority status. </span>';
+		document.getElementById("minority_status").focus();
+		return false;
+	}else if(!allowed_minority_status.includes(document.getElementById('minority_status').value)){
+		document.getElementById('i7').className ='control-group error';
+		document.getElementById('a7').innerHTML ='<span class="help-inline">Please select the correct value for minority status.</span>';
+		document.getElementById("minority_status").focus();
+		return false;
+	}else if(document.getElementById('minority_status').value=='1' && document.getElementById('minority_option').value==''){
+	/* validation for minority option */
+		document.getElementById('i8').className ='control-group error';
+		document.getElementById('a8').innerHTML ='<span class="help-inline">Please select your minority option. </span>';
+		document.getElementById("minority_option").focus();
+		return false;
+	}else if(document.getElementById('minority_status').value=='1' && !allowed_minority_value.includes(document.getElementById('minority_option').value)){
+		document.getElementById('i8').className ='control-group error';
+		document.getElementById('a8').innerHTML ='<span class="help-inline">Please select the correct value for minority option.</span>';
+		document.getElementById("minority_option").focus();
+		return false;
+	}
+	/* validation for mobile number */
+	else if(document.getElementById('mobile_num').value==''){
+		document.getElementById('i9').className ='control-group error';
+		document.getElementById('a9').innerHTML ='<span class="help-inline">Please enter your mobile number.</span>';
+		document.getElementById("mobile_num").focus();
+		return false;
+	}else if(document.getElementById('mobile_num').value.length > 10){
+		document.getElementById('i9').className ='control-group error';
+		document.getElementById('a9').innerHTML ='<span class="help-inline">Only 10 digits are allowed for mobile number.</span>';
+		document.getElementById("mobile_num").focus();
+		return false;
+	}else if(!only_number.test(document.getElementById("mobile_num").value)){
+		document.getElementById('i9').className ='control-group error';
+		document.getElementById('a9').innerHTML ='<span class="help-inline">Only digit 0-9 is allowed for mobile number field.</span>';
+		document.getElementById("mobile_num").focus();
+		return false;
+	}else if(document.getElementById('mobile_num').value.substr(0,1) == 0){
+		document.getElementById('i9').className ='control-group error';
+		document.getElementById('a9').innerHTML ='<span class="help-inline">Mobile number is not valid.</span>';
+		document.getElementById("mobile_num").focus();
+		return false;
+	}
+	/* validation for alternate mobile number */
+	else if(document.getElementById('alt_mobile_num').value!='' && document.getElementById('alt_mobile_num').value.length > 10){
+		document.getElementById('i11').className ='control-group error';
+		document.getElementById('a11').innerHTML ='<span class="help-inline">Only 10 digits are allowed for alternate mobile number.</span>';
+		document.getElementById("alt_mobile_num").focus();
+		return false;
+	}else if(document.getElementById('alt_mobile_num').value!='' && (!only_number.test(document.getElementById("alt_mobile_num").value))){
+		document.getElementById('i11').className ='control-group error';
+		document.getElementById('a11').innerHTML ='<span class="help-inline">Only digit 0-9 is allowed for alternate mobile number field.</span>';
+		document.getElementById("alt_mobile_num").focus();
+		return false;
+	}else if(document.getElementById('alt_mobile_num').value!='' && (document.getElementById("alt_mobile_num").value.trim()==document.getElementById("mobile_num").value.trim())){
+		document.getElementById('i11').className ='control-group error';
+		document.getElementById('a11').innerHTML ='<span class="help-inline">Mobile number and alternate mobile number cannot be same.</span>';
+		document.getElementById("alt_mobile_num").focus();
+		return false;
+	}
+	/* validation for email */
+	else if(document.getElementById('email_id').value==''){
+		document.getElementById('i12').className ='control-group error';
+		document.getElementById('a12').innerHTML ='<span class="help-inline">Please enter your email ID.</span>';
+		document.getElementById("email_id").focus();
+		return false;
+	}else if(document.getElementById('email_id').value!='' && !isEmail(document.getElementById("email_id").value)){
+		document.getElementById('i12').className ='control-group error';
+		document.getElementById('a12').innerHTML ='<span class="help-inline">Please provide a valid email ID.</span>';
+		document.getElementById("email_id").focus();
+		return false;
+	}
+	/* validation for alternate email */
+	else if(document.getElementById("alt_email_id").value!='' && (!email_test.test(document.getElementById("alt_email_id").value))){	
+		document.getElementById('i13').className ='control-group error';
+		document.getElementById('a13').innerHTML ='<span class="help-inline">Please provide a valid alternate email ID.</span>';
+		document.getElementById("alt_email_id").focus();
+		return false;
+	}else if(document.getElementById("alt_email_id").value!='' && (document.getElementById("alt_email_id").value.toUpperCase().trim()==document.getElementById("email_id").value.toUpperCase().trim())){
+		document.getElementById('i13').className ='control-group error';
+		document.getElementById('a13').innerHTML ='<span class="help-inline">Email id and alternate email id cannot be same.</span>';
+		document.getElementById("alt_email_id").focus();
+		return false;
+	}
+	/* class x roll number validation */
+	else if(document.getElementById('class_x_rollno').value==''){
+		document.getElementById('i14').className ='control-group error';
+		document.getElementById('a14').innerHTML ='<span class="help-inline">Please enter your class X roll number.</span>';
+		document.getElementById("class_x_rollno").focus();
+		return false;
+	}else if(!aphanumeric.test(document.getElementById("class_x_rollno").value)){
+		document.getElementById('i14').className ='control-group error';
+		document.getElementById('a14').innerHTML ='<span class="help-inline">Please enter your class X roll number without Special Characters. </span>';
+		document.getElementById("class_x_rollno").focus();
+		return false;
+	}else if(document.getElementById("class_x_rollno").value.trim().length > 20){
+		document.getElementById('i14').className ='control-group error';
+		document.getElementById('a14').innerHTML ='<span class="help-inline">Please enter your class X roll number without Special Characters. </span>';
+		document.getElementById("class_x_rollno").focus();
+		return false;
+	}else if(document.getElementById("secur_quest_sel").value == ''){
+		alert("Please select security question 1");
+		document.getElementById('i20').className ='control-group error';
+		document.getElementById("secur_quest_sel").focus();
+		return false;
+	}else if(document.getElementById("secur_quest").value == ''){
+		alert("Please enter security question 1 answer");
+		document.getElementById("secur_quest").focus();
+		return false;
+	}else if(document.getElementById("secur_quest1_sel").value == ''){
+		alert("Please select security question 2");
+		document.getElementById("secur_quest1_sel").focus();
+		return false;
+	}else if(document.getElementById("secur_quest_sel").value == document.getElementById("secur_quest1_sel").value){
+		alert("The security question 1 and security question 2 are not same in the dropdown of security question 2. ");
+		document.getElementById('i20').className ='control-group error';
+		document.getElementById("secur_quest1_sel").focus();
+		return false;
+	}else if(document.getElementById("secur_quest1_sel").value != '' && document.getElementById("secur_quest1").value == ''){
+		alert("Please enter security question 2 answer");
+		document.getElementById("secur_quest1").focus();
+		return false;
+	}
+	else if(document.getElementById("captcha_code").value == ''){
+		document.getElementById('i15').className ='control-group error';
+		document.getElementById('a15').innerHTML ='<span class="help-inline">Please Enter captcha value in the input box below.</span>';
+		document.getElementById("captcha_code").focus();
+		return false;
+	}else{submit = 1;}
+	if(submit == 1){
+		document.getElementById("post_data_reg").value=1; 
+		window.document.form1.submit();
+	}
+	else{return false;}
+}
+
+  function showHide(data){
+    if(data=='1'){
+      document.getElementById('i8').style.display='block';
+	  document.getElementById('minority_option').value='';
+      document.getElementById('minority_option').disabled=false;
+    }else{
+      document.getElementById('i8').style.display='none';
+      document.getElementById('minority_option').disabled=true;
+    }
+  }
+  function showchangeHide(data){
+	  //alert(data);
+    if(data=='1'){
+      document.getElementById('i0').style.display='block';
+	  document.getElementById('full_name').value='';
+    }else{
+      document.getElementById('i8').style.display='none';
+    }
+  }
+  
+  function showHideEdit(data){
+    if(data=='1'){
+      document.getElementById('i8').style.display='block';
+	  document.getElementById("minority_option").value = '';
+      document.getElementById('minority_option').style.display='block';
+	  document.getElementById("minority_option").required = true;
+    }else{
+      document.getElementById('i8').style.display='none';
+      document.getElementById('minority_option').style.display='none';
+	  document.getElementById("minority_option").required = false;
+    }
+  }
+
+  function showHideOneTimeVerification(data){
+    if(data=='1'){
+      document.getElementById('min_opt_dis').style.display='table-row';
+      document.getElementById('minority_option').disabled=false;
+	 }else{
+      document.getElementById('min_opt_dis').style.display='none';
+      document.getElementById('minority_option').disabled=true;
+	 
+    }
+  }
+  
+
+function mypopup(url,width,height)
+ {
+   width=window.screen.width;
+   height=window.screen.height;
+   var fullscreen = (document.all) ? "no" : "yes";
+   mywindow = window.open (url,"ranjeet","menubar=no,location=no,status=no,scrollbars=1,resizable=1,copyhistory=no,replace=false,toolbar=no,width="+width+",height="+height+",fullscreen=" + fullscreen);
+   mywindow.moveTo(0,0);
+   mywindow.focus();
+ } 
+function login_validation(){
+	if(document.getElementById('email').checked == true){
+		var email = document.getElementById('email');
+		var email_id = document.getElementById('loginContent');
+		var password = document.getElementById('password');
+	}else if(document.getElementById('mobile').checked == true){
+		var mobile = document.getElementById('mobile');
+		var mobile_num = document.getElementById('loginContent');
+		var password = document.getElementById('password');
+	}else if(document.getElementById('user_id').checked == true){
+		var user_id = document.getElementById('user_id');
+		var userid = document.getElementById('loginContent');
+		var password = document.getElementById('password');
+	}
+	var captcha_code = document.getElementById('captcha_code');
+	
+	if(document.getElementById('email').checked == true && email_id.value.trim() == ''){
+		alert("Registered Email ID cannot be blank.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if((document.getElementById('email').checked == true) && (email_id.value.trim() !='') && (!isEmail(email_id.value.trim()))){
+		alert("Please enter the valid registered Email ID.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if(document.getElementById('mobile').checked == true && (mobile_num.value.trim() == '')){
+		alert("Registered Mobile Number cannot be blank.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if((document.getElementById('mobile').checked == true) && (mobile_num.value.trim() !='') && (isNaN(mobile_num.value.trim()))){
+		alert("Please enter the only numeric registered mobile number.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if((document.getElementById('mobile').checked == true) && (mobile_num.value.trim() !='') && (mobile_num.value.length != 10)){
+		alert("Please enter the 10 digit of registered mobile number.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if(document.getElementById('user_id').checked == true && userid.value.trim() == ''){
+		alert("OTR-ID (One Time Registration ID) cannot be blank.");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if((document.getElementById('user_id').checked == true) && (userid.value.trim() !='') && (isNaN(userid.value.trim()))){
+		alert("Please enter the only numeric OTR-ID (One Time Registration ID).");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if((document.getElementById('user_id').checked == true) && (userid.value.trim() !='') && (userid.value.length != 15)){
+		alert("Please enter the 15 digit of OTR-ID (One Time Registration ID).");
+		document.getElementById("loginContent").focus();
+		return false;
+	}else if(document.getElementById('email').checked == true && (password.value == '')){
+		alert("Please enter the OTP.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('email').checked == true && (password.value.trim() == '')){
+		alert("Please enter the OTP.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('email').checked == true && (password.value.length != 6)){
+		alert("Please enter the OTP 6 digit.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('mobile').checked == true && (password.value == '')){
+		alert("Please enter the OTP.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('mobile').checked == true && (password.value.trim() == '')){
+		alert("Please enter the OTP.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('mobile').checked == true && (password.value.length != 6)){
+		alert("Please enter the OTP 6 digit.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('user_id').checked == true && (password.value == '')){
+		alert("Password cannot be blank.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('user_id').checked == true && (password.value.trim() == '')){
+		alert("Please enter the valid Password.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(document.getElementById('user_id').checked == true && (password.value.length < 8 || password.value.length > 20)){
+		alert("Please enter at least 8 alphanumeric characters of the password.");
+		document.getElementById("password").focus();
+		return false;
+	}else if(captcha_code.value == ''){
+		alert("Please enter the Verification Code.");
+		document.getElementById("captcha_code").focus();
+		return false;
+	}else if(captcha_code.value != '' && (captcha_code.value.length != 6)){
+		alert("Please enter six alphanumeric characters in the verification Code column .");
+		document.getElementById("captcha_code").focus();
+		return false;
+	}else{
+		submit = 1;}
+	
+	if(submit == 1){
+		//
+		var rsa = new RSAKey();
+		rsa.setPublic('8461592da3ef6a05913d5dc2cadc8c8bc9126d2ca170aee55140686461c8d7d5b4a1857c2ff681c1e4752c9bac1d833283a6843d061a312cb3b07d555b7789f9', '010001');
+		document.getElementById('loginContent').value=rsa.encrypt(document.getElementById('loginContent').value+document.getElementById('token').value);
+		document.getElementById('password').value=rsa.encrypt(document.getElementById('password').value+document.getElementById('token').value);
+		//
+		window.document.form1.submit();
+	}else{
+		return false;}		
+}  
+
+function update_profile_user(){
+
+	var name = document.getElementById('name');
+	var str_name =name.value.split(" ").join("");
+	var dob = document.getElementById('dob');
+	var gender = document.getElementById('gender');
+	var father_name = document.getElementById('father_name');
+	var mother_name = document.getElementById('mother_name');
+	var minority_status = document.getElementById('minority_status');
+	var email_id = document.getElementById('email_id');
+	var alt_email_disp = document.getElementById('alt_email_disp');
+	var mobile_num = document.getElementById('mobile_num');
+	var alt_mobile_disp = document.getElementById('alt_mobile_disp');
+
+	if(name.value.length < 30){
+		var full_name_disp = document.getElementById('full_name_disp');
+		if(full_name_disp.value == 1){
+			var full_name = document.getElementById('full_name');
+		}
+	}
+	if(minority_status.value == 1){
+		var minority_option = document.getElementById('minority_option');
+	}
+	if(alt_email_disp.value == 1){
+		var alt_email_id = document.getElementById('alt_email_id');
+	}
+	if(alt_mobile_disp.value == 1){
+		var alt_mobile_num = document.getElementById('alt_mobile_num');
+	}
+
+	if(name.value.trim() == ''){
+		alert("Please enter Candidate Name .")
+		document.getElementById("name").focus();
+		return false;
+	}else if(str_name.length <= 3){
+		alert("Candidate's Name cannot be less than 4 characters.");
+		name.focus();
+		return false;
+	}else if(full_name_disp.value == 1 && name.value.length < 30 && full_name.value.trim() == ''){
+		alert("Please enter Candidate Full Name");
+		name.focus();
+		return false;
+	}else if(full_name_disp.value == 1 && name.value.length < 30 && full_name.value.trim() != '' && full_name.value.length < name.value.length){
+		alert("Candidate Full Name can't less than candidate name.");
+		full_name.focus();
+		return false;
+	}else if(dob.value == ''){
+		alert("Please give your date of birth as recorded in the matriculation/secondary school certificate.")
+		document.getElementById("dob").focus();
+		return false;
+	}else if(gender.value == ''){
+		alert("Please select the gender option")
+		document.getElementById("gender").focus();
+		return false;
+	}else if(gender.value != '' && gender.value > 3){
+		alert("Please selected gender option is not valid")
+		document.getElementById("gender").focus();
+		return false;
+	}else if(father_name.value.trim() == ""){
+		alert("Candidate Father's Name cannot be blank.");
+		father_name.focus();
+		return false;
+	}else if(name.value.toUpperCase().replace(/\s/g, "") == father_name.value.toUpperCase().replace(/\s/g, "")){
+		alert("Candidate's Name and Father's Name should not be same.");
+		x.focus();
+		return false; 
+	}else if(mother_name.value.trim() == ""){
+		alert("Candidate Mother's Name cannot be blank.");
+		mother_name.focus();
+		return false;
+	}else if(name.value.toUpperCase().replace(/\s/g, "") == mother_name.value.toUpperCase().replace(/\s/g, "")){
+		alert("Candidate's Name and Mother's Name should not be same.");
+		mother_name.focus();
+		return false; 
+	}else if(minority_status.value == ''){
+		alert("Please select minority status option");
+		minority_status.focus();
+		return false; 
+	}else if(minority_status.value != '' && minority_status.value > 1){
+		alert("Please selected minority status option is not valid");
+		minority_status.focus();
+		return false;
+	}else if(minority_status.value == 1 && minority_option.value == ''){
+		alert("Please select minority option");
+		minority_option.focus();
+		return false;
+	}else if(minority_status.value == 1 && minority_option.value > 6){
+		alert("Please selected minority option is not valid");
+		minority_option.focus();
+		return false;
+	}else if(email_id.value.trim() == ''){
+		alert("Please enter the email-id.");
+		email_id.focus();
+		return false;
+	}else if(email_id.value.trim() != '' && (!isEmail(email_id.value.trim()))){
+		alert("Please enter the valid email-id.");
+		email_id.focus();
+		return false;
+	}else if(alt_email_disp.value == 1 && alt_email_id.value.trim() == ''){
+		alert("Please enter the valid email-id.");
+		alt_email_id.focus();
+		return false;
+	}else if(alt_email_disp.value == 1 && alt_email_id.value.trim() != '' && (!isEmail(alt_email_id.value.trim()))){
+		alert("Please enter the valid email-id.");
+		alt_email_id.focus();
+		return false;
+	}else if(mobile_num.value.trim() == ''){
+		alert("Please enter the mobile number.");
+		mobile_num.focus();
+		return false;
+	}else if(mobile_num.value.trim() != '' && mobile_num.value.length != 10){
+		alert("Please enter the 10 digit of mobile number.");
+		mobile_num.focus();
+		return false;
+	}else if(alt_mobile_disp.value == 1 && alt_mobile_num.value.trim() == ''){
+		alert("Please enter the alternate mobile number.");
+		alt_mobile_num.focus();
+		return false;
+	}else if(alt_mobile_disp.value == 1 && alt_mobile_num.value.trim() != '' && alt_mobile_num.value.length != 10){
+		alert("Please enter the 10 digit of alternate mobile number.");
+		alt_mobile_num.focus();
+		return false;
+	}else if(alt_email_disp.value == 1 && email_id.value == alt_email_id.value){
+		alert("Email-id and alternate email-id couldn't be same.");
+		alt_email_id.focus();
+		return false;
+	}else if(alt_mobile_disp.value == 1 && mobile_num.value == alt_mobile_num.value){
+		alert("Mobile number and alternate mobile number couldn't be same.");
+		alt_mobile_num.focus();
+		return false;
+	}else{
+		submit = 1;
+	}
+	
+	if(submit == 1){
+		window.document.form1.submit();
+	}else{
+		return false;
+	}	
+}
+</script>
+</div>
+</body>
+</html>

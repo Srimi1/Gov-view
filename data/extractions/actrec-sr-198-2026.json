@@ -1,0 +1,18 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-mh-actrec",
+  "advertisement": "TMC-ACTREC/ADVT/198/2026",
+  "indexUrl": "https://www.actrec.gov.in/jobs",
+  "pdfUrl": "https://www.actrec.gov.in/sites/default/files/2026-09/FINAL%20ADVT-%20Senior%20Resident%20%28Transfusion%20Medicine%29FINAL.pdf",
+  "applicationUrl": "https://webapps.actrec.gov.in/actjrfapp/frm_Registration.aspx",
+  "pdfSha256": "04d4e29a719956e0324608c35595dd88aeed67841d6ed2508dbf0697531f9294",
+  "indexFrom": "2026-09-24",
+  "closesOn": "2026-10-08",
+  "cutoffLocalTime": "17:30",
+  "evidenceNotes": [
+    "ACTREC jobs table identifies one TMC-ACTREC/ADVT/198/2026 Senior Resident row and links the PDF and registration portal. Its 24 September–8 October range does not explicitly label the opening date, so opensOn remains unknown.",
+    "Original two-page PDF page 1 invites Indian nationals for a non-permanent Senior Resident in Transfusion Medicine through 31 July 2027, with an MD or equivalent PG degree. Vacancy count is not printed.",
+    "PDF page 2 gives 8 October 2026 at 17:30 IST online application deadline and ₹100 application fee. The ₹133,623 caution deposit is paid at joining or deducted from salary; it is not an application fee.",
+    "No specific language proficiency requirement or level is printed. Index language and PDF language do not establish a mandatory English or Hindi level."
+  ]
+}

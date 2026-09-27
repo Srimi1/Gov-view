@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register — HME Ladakh</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HME Ladakh — Online Admission Portal</title>
+    <link rel="stylesheet" href="/assets/css/output.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<!-- Utility bar -->
+<div class="bg-[#0f2560] text-white/65 text-xs py-1.5">
+    <div class="max-w-[1200px] mx-auto px-6 flex items-center justify-between gap-4">
+        <span>Government of India &nbsp;|&nbsp; Administration of Union Territory of Ladakh</span>
+        <a href="/admin/login"
+           class="bg-[#1a3c8f] text-white text-[13px] font-bold px-3.5 py-1 rounded-sm
+                  flex items-center gap-1.5 hover:bg-[#1e4fa0] transition-colors">
+            Admin Login
+        </a>
+    </div>
+</div>
+
+<!-- Main nav -->
+<nav class="bg-white border-b border-[#dde1ec] sticky top-0 z-50 shadow-sm">
+    <div class="max-w-[1200px] mx-auto flex items-center justify-between">
+        <!-- Logo -->
+        <a href="/" class="flex items-center gap-3 flex-shrink-0">
+            <img src="/assets/images/logo_hme.png" alt="HME Ladakh" class="h-24 w-auto">
+        </a>
+        
+        <!-- Desktop nav -->
+        <div class="hidden lg:flex items-stretch">
+                        <a href="/"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Home            </a>
+                        <a href="/notification"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Notifications            </a>
+                        <a href="/contact"
+                        class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Helpline            </a>
+                        <a href="/usermanual"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                User Manual            </a>
+                        <a href="/guidelines"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Guideline            </a>
+                        <a href="/result"
+            target="_blank" rel="noopener noreferrer"            class="text-base font-semibold px-5 h-[68px] flex items-center border-b-[3px] transition-colors whitespace-nowrap
+                    text-gray-700 border-transparent hover:text-[#1a3c8f] hover:border-[#1a3c8f]">
+                Results 2024            </a>
+                    </div>
+
+        <div class="hidden lg:flex items-center gap-2 flex-shrink-0">
+            <a href="/register"
+               class="text-sm font-semibold text-[#1a3c8f] border border-[#1a3c8f] px-4 py-1.5
+                      rounded hover:bg-[#1a3c8f] hover:text-white transition-colors">
+                Register
+            </a>
+            <a href="/login"
+                class="text-sm font-semibold bg-[#1a3c8f] text-white px-4 py-1.5
+                      rounded hover:bg-[#152f7a] transition-colors">
+                Login
+            </a>
+        </div>
+
+        <button id="hamburgerBtn"
+                class="lg:hidden text-gray-700 hover:text-[#1a3c8f] p-2 rounded focus:outline-none relative w-10 h-10"
+                aria-label="Toggle menu">
+            <svg class="w-6 h-6 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path id="hamburgerOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M4 6h16M4 12h16M4 18h16"/>
+                <path class="hidden" id="hamburgerClose" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div> 
+
+    <!-- Mobile menu  -->
+    <div id="mobileMenu" class="lg:hidden border-t border-[#dde1ec] bg-white px-6 py-4 space-y-1 hidden">
+        <a href="/home" class="block py-2 text-sm font-semibold text-[#1a3c8f]">Home</a>
+        <a href="/notification" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Notifications</a>
+        <a href="/contact" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Helpline</a>
+        <a href="/guidelines" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Guideline</a>
+        <a href="/result" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">Results 2024</a>
+        <a href="/usermanual" target="_blank" class="block py-2 text-sm text-gray-700 hover:text-[#1a3c8f]">User Manual</a>
+
+        <div class="border-t border-gray-100 pt-3 mt-2 space-y-2">
+            <a href="/register"
+               class="block text-center border border-[#1a3c8f] text-[#1a3c8f] text-sm
+                      font-semibold py-2 rounded hover:bg-[#1a3c8f] hover:text-white transition-colors">
+                Register
+            </a>
+            <a href="/login"
+               class="block text-center bg-[#1a3c8f] text-white text-sm
+                      font-semibold py-2 rounded hover:bg-[#152f7a] transition-colors">
+                Login
+            </a>
+        </div>
+    </div>
+</nav>
+
+
+</body>
+</html>
+<main class="flex-1 flex items-center justify-center px-4 py-10">
+    <div class="w-full max-w-2xl">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
+
+            <div class="bg-[#1e4080] px-8 py-5">
+                <h1 class="text-white text-lg font-semibold tracking-wide">New Applicant Registration</h1>
+                <p class="text-blue-200 text-xs mt-0.5">
+                    Fields marked <span class="text-red-300">*</span> are mandatory
+                </p>
+            </div>
+
+            <div class="px-8 py-7">
+
+                
+                
+                
+                <!-- Form -->
+                <form method="POST" id="regForm" novalidate class="space-y-5">
+                    <input type="hidden" name="csrf_token"
+                           value="24a03d3b9844d9d24aac76882e9f05b32a35bd8f37dc34d481eef5e64930a7d6">
+
+                    <!-- Full Name -->
+                    <div>
+                        <label for="name" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Full Name <span class="text-red-500">*</span>
+                        </label>
+                        <input type="text" name="name" id="name"
+                               placeholder="Enter your full name"
+                               value=""
+                               maxlength="100" required autocomplete="name"
+                               class="w-full px-3 py-2.5 text-sm border border-gray-300 rounded
+                                      focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                      transition-colors bg-gray-50">
+                        <p id="nameMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Email -->
+                    <div>
+                        <label for="email" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Email Address <span class="text-red-500">*</span>
+                        </label>
+                        <div class="relative">
+                            <input type="email" name="email" id="email"
+                                   placeholder="Enter your email address"
+                                   value=""
+                                   maxlength="100" required autocomplete="email"
+                                   class="w-full px-3 py-2.5 pr-9 text-sm border border-gray-300 rounded
+                                          focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                          transition-colors bg-gray-50">
+                            <span id="emailIcon"
+                                  class="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none">
+                            </span>
+                        </div>
+                        <p id="emailMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Phone -->
+                    <div>
+                        <label for="phone" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Mobile Number <span class="text-red-500">*</span>
+                        </label>
+                        <div class="relative">
+                            <input type="tel" name="phone" id="phone"
+                                   placeholder="10-digit mobile number"
+                                   value=""
+                                   maxlength="10" required autocomplete="tel"
+                                   class="w-full px-3 py-2.5 pr-9 text-sm border border-gray-300 rounded
+                                          focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                          transition-colors bg-gray-50">
+                            <span id="phoneIcon"
+                                  class="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none">
+                            </span>
+                        </div>
+                        <p id="phoneMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Date of Birth -->
+                    <div>
+                        <label for="dob" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Date of Birth <span class="text-red-500">*</span>
+                        </label>
+                        <input type="date" name="dob" id="dob"
+                               value=""
+                               max="2009-09-25"
+                               min="1966-09-25"
+                               required
+                               class="w-full px-3 py-2.5 text-sm border border-gray-300 rounded
+                                      focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                      transition-colors bg-gray-50">
+                        <p id="dobMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Gender -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-600 mb-2">
+                            Gender <span class="text-red-500">*</span>
+                        </label>
+                        <div class="flex gap-6">
+                                                        <label class="flex items-center gap-2 text-sm text-gray-700 cursor-pointer">
+                                <input type="radio" name="gender" value="Male"
+                                                                              class="w-4 h-4 accent-[#1e4080]">
+                                Male                            </label>
+                                                        <label class="flex items-center gap-2 text-sm text-gray-700 cursor-pointer">
+                                <input type="radio" name="gender" value="Female"
+                                                                              class="w-4 h-4 accent-[#1e4080]">
+                                Female                            </label>
+                                                        <label class="flex items-center gap-2 text-sm text-gray-700 cursor-pointer">
+                                <input type="radio" name="gender" value="Other"
+                                                                              class="w-4 h-4 accent-[#1e4080]">
+                                Others                            </label>
+                                                    </div>
+                        <p id="genderMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Password -->
+                    <div>
+                        <label for="password" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Create Password <span class="text-red-500">*</span>
+                        </label>
+                        <div class="relative">
+                            <input type="password" name="password" id="password"
+                                   placeholder="Minimum 12 characters"
+                                   maxlength="72" required autocomplete="new-password"
+                                   data-pw-strength id="password"
+                                   class="w-full px-3 py-2.5 pr-9 text-sm border border-gray-300 rounded
+                                          focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                          transition-colors bg-gray-50">
+                            <button type="button" tabindex="-1" data-toggle-pw="password"
+                                    class="absolute right-3 top-1/2 -translate-y-1/2
+                                           text-gray-400 hover:text-gray-600">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7
+                 -1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+    </svg>                            </button>
+                        </div>
+                        <!-- Strength bar -->
+                        <div class="mt-1.5 h-1 bg-gray-200 rounded overflow-hidden">
+                            <div id="strengthBar" class="h-full rounded transition-all duration-300 w-0 bg-gray-200"></div>
+                        </div>
+                        <p id="strengthLabel" class="text-xs text-gray-400 mt-0.5 h-4"></p>
+                        <p id="passwordMsg" class="text-xs mt-1 h-4 hidden"></p>
+
+                        <!-- Password requirements -->
+                        <div class="mt-2 bg-gray-50 border border-gray-200 rounded-lg px-3 py-2.5">
+                            <p class="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1.5">Password must contain</p>
+                            <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-3 gap-y-1">
+                                <li data-req="length" class="flex items-center gap-1.5 text-xs text-gray-500">
+                                    <i class="fa-regular fa-circle text-[10px] text-gray-300" data-req-icon></i>
+                                    Minimum 12 characters
+                                </li>
+                                <li data-req="upper" class="flex items-center gap-1.5 text-xs text-gray-500">
+                                    <i class="fa-regular fa-circle text-[10px] text-gray-300" data-req-icon></i>
+                                    One uppercase letter
+                                </li>
+                                <li data-req="number" class="flex items-center gap-1.5 text-xs text-gray-500">
+                                    <i class="fa-regular fa-circle text-[10px] text-gray-300" data-req-icon></i>
+                                    One number
+                                </li>
+                                <li data-req="special" class="flex items-center gap-1.5 text-xs text-gray-500">
+                                    <i class="fa-regular fa-circle text-[10px] text-gray-300" data-req-icon></i>
+                                    One special character <span class="text-gray-400">(! @ # $ % ^ & *)</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Confirm Password -->
+                    <div>
+                        <label for="confirm_password"
+                               class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Confirm Password <span class="text-red-500">*</span>
+                        </label>
+                        <div class="relative">
+                            <input type="password" name="confirm_password" id="confirm_password" 
+                                   placeholder="Re-enter your password"
+                                   maxlength="72" required autocomplete="new-password"
+                                   class="w-full px-3 py-2.5 pr-9 text-sm border border-gray-300 rounded
+                                          focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                          transition-colors bg-gray-50">
+                            <button type="button" tabindex="-1" id="confirm_password" data-pw-match  data-toggle-pw="confirm_password"
+                                    class="absolute right-3 top-1/2 -translate-y-1/2
+                                           text-gray-400 hover:text-gray-600">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7
+                 -1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+    </svg>                            </button>
+                        </div>
+                        <p id="pwMatchMsg" class="text-xs mt-1 h-4"></p>
+                    </div>
+                    <!-- Captcha -->
+                    <div>
+                        <label for="captcha" class="block text-sm font-medium text-gray-600 mb-1.5">
+                            Enter the code shown below <span class="text-red-500">*</span>
+                        </label>
+                        <div class="flex items-center gap-3">
+                        <img id="captchaImg" src="/captcha" alt="captcha"
+                            class="border border-gray-300 rounded h-[50px] cursor-pointer"
+                            title="Click to refresh"
+                            data-refresh-captcha="captchaImg">
+                        <button type="button" data-refresh-captcha="captchaImg"
+                                class="text-xs text-[#1e4080] underline">
+                            Refresh
+                        </button>
+                    </div>
+                    <input type="text" name="captcha" id="captcha"
+                        placeholder="Enter the code above"
+                        maxlength="6" required autocomplete="off"
+                        class="mt-2 w-full px-3 py-2.5 text-sm border border-gray-300 rounded
+                                focus:ring-2 focus:ring-[#1e4080]/40 focus:border-[#1e4080]
+                                transition-colors bg-gray-50">
+                        <p id="captchaMsg" class="text-xs mt-1 hidden"></p>
+                    </div>
+
+                    <!-- Buttons -->
+                    <div class="flex gap-3 pt-1">
+                        <button type="submit" name="register" id="submitBtn"
+                                class="flex-1 bg-[#1e4080] hover:bg-[#1a3a6e] text-white text-sm
+                                       font-medium py-2.5 rounded transition-colors tracking-wide
+                                       flex items-center justify-center gap-2">
+                            <span id="submitLabel">Register</span>
+                        </button>
+                        <button type="reset" id="resetBtn"
+                                class="px-5 border border-gray-300 text-gray-600 hover:bg-gray-50
+                                       text-sm font-medium py-2.5 rounded transition-colors">
+                            Reset
+                        </button>
+                    </div>
+                </form>
+
+                <!-- Email verification notice -->
+                <div class="mt-6 flex gap-3 bg-blue-50 border border-blue-200 rounded
+                            px-4 py-3 text-xs text-blue-800">
+                    <svg class="w-4 h-4 text-blue-500 shrink-0 mt-0.5"
+                         fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7
+                                 a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                    </svg>
+                    <p>
+                        <strong>Email verification required.</strong>
+                        A verification link will be sent to your email. You must verify before
+                        you can log in. The link expires in 24 hours.
+                    </p>
+                </div>
+
+                <p class="text-center text-sm text-gray-500 mt-5">
+                    Already have an account?
+                    <a href="login" class="text-[#1e4080] font-medium hover:underline">
+                        Login here
+                    </a>
+                </p>
+
+            </div>
+        </div>
+        <p class="text-center text-xs text-gray-400 mt-5">
+            Administration of Union Territory of Ladakh &nbsp;·&nbsp; Official Portal
+        </p>
+    </div>
+</main>
+<link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">
+
+<footer class="bg-[#1a3a6e] text-[#c8d8f0] ">
+
+    <div class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+        <div>
+            <img src="/assets/images/footerlogo.png" alt="UT Ladakh Logo" class="h-24 mb-4 brightness-0 invert">
+            <p class="text-sm text-[#a8c0e0] leading-relaxed mb-5">
+                Official portal of Union Territory of Ladakh providing online services to citizens and businesses.
+            </p>
+            <div class="flex gap-2">
+                <a href="#" aria-label="Facebook"  class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="X Twitter" class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-x-twitter"></i></a>
+                <a href="#" aria-label="Instagram" class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-instagram"></i></a>
+                <a href="#" aria-label="YouTube"   class="w-8 h-8 flex items-center justify-center rounded border border-white/25 text-[#c8d8f0] text-sm hover:bg-white/10 hover:text-white transition-colors"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Quick Links</h4>
+            <ul class="space-y-2.5">
+                <li><a href="https://en.wikipedia.org/wiki/Ladakh" class="text-sm text-[#a8c0e0] hover:text-white transition-colors   ">About Ladakh</a></li>
+                <li><a href="https://ladakh.gov.in/directory/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Government Directory</a></li>
+                <li><a href="https://ladakh.gov.in/online-citizen-services/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Citizen Services</a></li>
+                <li><a href="https://rtionline.ladakh.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">RTI Portal</a></li>
+                <li><a href="https://tenders.ladakh.gov.in/nicgep/app" class="text-sm text-[#a8c0e0] hover:text-white transition-colors     ">Tenders</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Important Links</h4>
+            <ul class="space-y-2.5">
+                <li><a href="https://india.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">India.gov.in</a></li>
+                <li><a href="https://www.digitalindia.gov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Digital India</a></li>
+                <li><a href="https://www.mygov.in/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">MyGov</a></li>
+                <li><a href="https://indiadataportal.com/" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Data Portal</a></li>
+                <li><a href="#" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Accessibility Statement</a></li>
+                <li><a href="#" class="text-sm text-[#a8c0e0] hover:text-white transition-colors">Privacy Policy</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <h4 class="text-lg font-semibold tracking-widest text-white mb-4 pb-2 border-b border-white/10">Contact Us</h4>
+            <ul class="space-y-4">
+                <li class="flex items-start gap-3 text-sm text-[#a8c0e0]">
+                    <i class="fa-solid fa-location-dot text-white mt-0.5 text-sm shrink-0"></i>
+                    <span>Secretariat, Leh, Ladakh – 194101</span>
+                </li>
+                <li class="flex items-start gap-3 text-sm text-[#a8c0e0]">
+                    <i class="fa-solid fa-phone text-white mt-0.5 text-sm shrink-0"></i>
+                    <span>1982-415-869 (Toll Free)</span>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="border-t border-white/10">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-xs text-[#a8c0e0]">© 2025 Union Territory of Ladakh. All rights reserved.</p>
+            <div class="flex gap-5">
+                <a href="" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Terms of Use</a>
+                <a href="#" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Privacy Policy</a>
+                <a href="#" class="text-xs text-[#a8c0e0] hover:text-white transition-colors">Sitemap</a>
+            </div>
+        </div>
+    </div>
+
+    <div class=" py-2.5 px-6 flex items-center justify-center gap-2 text-lg text-[#8aaacf]">
+        Designed and Developed by
+        <strong class="text-[#c8d8f0] font-medium">National Informatics Centre</strong>
+        <img src="/assets/images/nic-logo.png" alt="NIC Logo" class="h-10 sm:h-20 object-contain">
+    </div>
+<script src="/assets/js/app.js"></script>
+
+</footer><script src="assets/js/register.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://sssb.punjab.gov.in/vacancy-group-d/",
+  "fetchedAt": "2026-09-25T02:45:36.994Z",
+  "sha256": "b39b1b72990df377c700b93b231951232330307ed589a3f9f58ce61d81c03833",
+  "bytes": 53808,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/vacancy/?key=vacancy_group_d&value=1787",
+  "fetchedAt": "2026-09-25T02:45:37.984Z",
+  "sha256": "3645c0b271691e41812dca63e47a525e84beb9710d2a004efce1a22f9ca847cf",
+  "bytes": 58127,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/amendments/?key=group-d&value=1789&parid=1787",
+  "fetchedAt": "2026-09-25T02:45:38.999Z",
+  "sha256": "1fd226533da38186023588beb8dcd5a6ac6daa0a8720f9efd5e99e0d3b09ef6b",
+  "bytes": 57222,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
+  "fetchedAt": "2026-09-25T02:45:47.261Z",
+  "sha256": "21673e2201bc6be5e69c9ef12f9fe51063f4918bb9eacd52fca74df31010d48e",
+  "bytes": 1330428,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/08/42026New_merged.pdf",
+  "fetchedAt": "2026-09-25T02:45:47.407Z",
+  "sha256": "32dabe1d907d42119a10451796a0612083d3098fcdfe83d356d85f0aa5a5e70f",
+  "bytes": 682559,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/ਸ਼ੁੱਧੀ-ਪੱਤਰ-ਗਰੁੱਪ-ਡੀ.pdf",
+  "fetchedAt": "2026-09-25T02:45:48.134Z",
+  "sha256": "9c52b7e43540d0776ec0799eebaa888f0c96e7ae085c8cc423c252362d536531",
+  "bytes": 517260,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/12345698_merged.pdf",
+  "fetchedAt": "2026-09-25T02:45:49.375Z",
+  "sha256": "44215e71e6c9fe66a62af1eee05816f9d26b1b530a83bb12562da2ab62c310da",
+  "bytes": 611640,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Regarding-Correction-Portal-of-Advt.-no.-04-of-2026-Group-D.pdf",
+  "fetchedAt": "2026-09-25T02:45:49.479Z",
+  "sha256": "c34cb278c55855744aa0a59d8ead01114e6cd303daf34ba2bd1d2288107f58a7",
+  "bytes": 205413,
+  "contentType": "application/pdf"
+ }
+]

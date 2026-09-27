@@ -1,0 +1,192 @@
+{
+  "sourceId": "in-ssc",
+  "collectedAt": "2026-09-25T13:12:46.946Z",
+  "reviewStatus": "pending",
+  "complete": true,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "2026",
+      "programme": "Multi-Tasking (Non-Technical) Staff & Havaldar (CBIC & CBN) Examination, 2026",
+      "status": "uncertain",
+      "statusNote": "Tentative SSC exam calendar entry. Application dates require the official examination notice.",
+      "scopeLabel": "SSC examination; appointing body and job locations require the examination notice.",
+      "outcome": "Recruitment through the named examination; posts and appointment conditions require the examination notice.",
+      "qualifications": "The calendar does not state applicant qualifications; check the examination notice.",
+      "citizenshipRule": "Calendar does not state nationality or foreign-citizen eligibility; check the examination notice.",
+      "residenceRule": "Calendar does not state residence requirements; check the examination notice.",
+      "selectionStages": [
+        "Calendar does not establish the full selection process; check the examination notice."
+      ],
+      "fee": "Calendar does not state application fee or exemptions; check the examination notice.",
+      "rules": {
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Tentative calendar alone cannot determine eligibility. Verify the examination notice for nationality, residence, age, qualifications, language, fee and application dates."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exam venue not given in the calendar"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ssc-multi-tasking-non-technical-staff-havaldar-cbic-2026-24fd18259b5f",
+      "legacyIds": [
+        "ssc-multi-tasking-non-technical-staff-havaldar-cbic-cbn-examinat"
+      ],
+      "title": "Multi-Tasking (Non-Technical) Staff & Havaldar (CBIC & CBN) Examination, 2026",
+      "authority": "Staff Selection Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Tentative calendar: applications 2026-06-30 to 2026-07-31. Exam planned for September – November 2026 (CBE)."
+      },
+      "languageNote": "Calendar does not establish any language proficiency requirement or level; check the examination notice.",
+      "sources": [
+        {
+          "id": "in-ssc:dbe54a9366a3",
+          "title": "SSC exam calendar entry",
+          "authority": "Staff Selection Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
+          "sha256": "ec77db4594d449c2fbaf40934f19bdab33212817f1d2669a076e90968826e655",
+          "lastSuccessfulFetchAt": "2026-09-25T13:12:48.099Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "itemSha256": "d4eae3311d0f2cc03df2987136042e3cf18c1f5715d736c3f9428889bab090da"
+        },
+        {
+          "id": "in-ssc:b3018394af24",
+          "title": "Examination notices (linked; not checked for this entry)",
+          "authority": "Staff Selection Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ssc.gov.in/",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "sourceId": "in-ssc"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "2027",
+      "programme": "Constables (GD) in Central Armed Police Forces (CAPFs), NIA, SSF and Rifleman (GD) in Assam Rifles Examination, 2027",
+      "status": "uncertain",
+      "statusNote": "Tentative SSC exam calendar entry. Application dates require the official examination notice.",
+      "scopeLabel": "SSC examination; appointing body and job locations require the examination notice.",
+      "outcome": "Recruitment through the named examination; posts and appointment conditions require the examination notice.",
+      "qualifications": "The calendar does not state applicant qualifications; check the examination notice.",
+      "citizenshipRule": "Calendar does not state nationality or foreign-citizen eligibility; check the examination notice.",
+      "residenceRule": "Calendar does not state residence requirements; check the examination notice.",
+      "selectionStages": [
+        "Calendar does not establish the full selection process; check the examination notice."
+      ],
+      "fee": "Calendar does not state application fee or exemptions; check the examination notice.",
+      "rules": {
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Tentative calendar alone cannot determine eligibility. Verify the examination notice for nationality, residence, age, qualifications, language, fee and application dates."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exam venue not given in the calendar"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": null,
+      "changes": [],
+      "id": "ssc-constables-gd-in-central-armed-police-forces-cap-2027-653fcbfcfd43",
+      "legacyIds": [
+        "ssc-constables-gd-in-central-armed-police-forces-capfs-nia-ssf-a"
+      ],
+      "title": "Constables (GD) in Central Armed Police Forces (CAPFs), NIA, SSF and Rifleman (GD) in Assam Rifles Examination, 2027",
+      "authority": "Staff Selection Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "unknown",
+        "note": "Tentative calendar: applications 2026-09-30 to 2026-10-31. Exam planned for January – March 2027 (CBE)."
+      },
+      "languageNote": "Calendar does not establish any language proficiency requirement or level; check the examination notice.",
+      "sources": [
+        {
+          "id": "in-ssc:dbe54a9366a3",
+          "title": "SSC exam calendar entry",
+          "authority": "Staff Selection Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
+          "sha256": "ec77db4594d449c2fbaf40934f19bdab33212817f1d2669a076e90968826e655",
+          "lastSuccessfulFetchAt": "2026-09-25T13:12:48.099Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review",
+          "itemSha256": "e226e21144b30c8b4b00736610606112fdef695e09497fed9af887407fd1d3c3"
+        },
+        {
+          "id": "in-ssc:b3018394af24",
+          "title": "Examination notices (linked; not checked for this entry)",
+          "authority": "Staff Selection Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ssc.gov.in/",
+          "fetchStatus": "linked",
+          "lastSuccessfulFetchAt": null,
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "sourceId": "in-ssc"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=DESC&isPaginationRequired=false&isAttachment=true&language=english&attributes=id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt",
+      "fetchedAt": "2026-09-25T13:12:48.099Z",
+      "sha256": "ec77db4594d449c2fbaf40934f19bdab33212817f1d2669a076e90968826e655",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 16875
+    }
+  ],
+  "warnings": [],
+  "approvalRevisions": {
+    "ssc-multi-tasking-non-technical-staff-havaldar-cbic-2026-24fd18259b5f": {
+      "evidenceRevision": "73cb9877cad7938e250650b4904b0f7fcc0169a0eb875c71d4190728b0fa308c",
+      "recordRevision": "f1451012aa7d1e6f92e51f519df6e9127e5bef620b7ec6edf6a8a6baabad5aa4"
+    },
+    "ssc-constables-gd-in-central-armed-police-forces-cap-2027-653fcbfcfd43": {
+      "evidenceRevision": "a001325849f4dddb679a62fbcffa079a6c3aec4337bea016d3a066b276101205",
+      "recordRevision": "b2742e151d97b83cc66abd7e515be7ea386fd35cf507e39f7d5b0fabd5a502cd"
+    }
+  }
+}

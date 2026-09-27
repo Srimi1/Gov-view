@@ -1,0 +1,10 @@
+{
+  "sourceId": "py-mef-paraguay-concursa",
+  "label": "public-portal",
+  "url": "https://www.paraguayconcursa.gov.py/",
+  "format": "HTML",
+  "status": "failed",
+  "path": "data/evidence/research/latam67-py-mef-paraguay-concursa-public-portal-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:19:31.651Z",
+  "error": "robots.txt unreachable at https://www.paraguayconcursa.gov.py: fetch failed"
+}

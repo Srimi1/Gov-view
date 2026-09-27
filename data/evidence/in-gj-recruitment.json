@@ -1,0 +1,51 @@
+[
+ {
+  "url": "https://gpsc.gujarat.gov.in/dashboard?stage=Advertisement",
+  "fetchedAt": "2026-09-24T23:02:58.541Z",
+  "sha256": "a70c3f592e32182c3e6f28f85b9724f5748e6dc92980dc3c1fb3f082351e996a",
+  "bytes": 694890,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2370&tab=Advertisement",
+  "fetchedAt": "2026-09-24T23:02:58.762Z",
+  "sha256": "dba7d6942ecb210dfaf7551587d2aa9f32168c59f311be550038a10fc9611ee6",
+  "bytes": 148195,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-42-2026.pdf",
+  "fetchedAt": "2026-09-24T23:02:59.891Z",
+  "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+  "bytes": 774932,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-42-2026.pdf",
+  "fetchedAt": "2026-09-24T23:03:00.839Z",
+  "sha256": "7f1574033e3a088a1ddc88efbd2ab7da444f90fad2a93dacac92027fe941f0ce",
+  "bytes": 1484488,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/AdvertisementDetail?no=2371&tab=Advertisement",
+  "fetchedAt": "2026-09-24T23:03:01.777Z",
+  "sha256": "3d09cd0cf361626fcf27a36a357469ff104d167eafa3fd2d4e68d2358ae2d94a",
+  "bytes": 148112,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/DA-43-2026.pdf",
+  "fetchedAt": "2026-09-24T23:03:02.880Z",
+  "sha256": "76d289e0ff12f8b8f0c0c32039e8049bacb4f0392ad5abaad507b031e9fd07b4",
+  "bytes": 774932,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://gpsc.gujarat.gov.in/Documents/AdvertismentDocument/RR-43-2026.pdf",
+  "fetchedAt": "2026-09-24T23:03:03.873Z",
+  "sha256": "9d781b8f6b7ad038f2b8d3339b2e4fe974554a8bd46966c3ccc5401a2b1fe52e",
+  "bytes": 1656990,
+  "contentType": "application/pdf"
+ }
+]

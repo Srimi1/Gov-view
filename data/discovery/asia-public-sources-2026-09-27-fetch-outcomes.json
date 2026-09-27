@@ -1,0 +1,257 @@
+[
+  {
+    "sourceId": "kh-nec-official-recruitment",
+    "label": "authority-home",
+    "url": "https://nec.gov.kh/english/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-kh-nec-official-recruitment-authority-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://nec.gov.kh/english/",
+      "fetchedAt": "2026-09-26T22:59:29.017Z",
+      "sha256": "a6cdf8cf5dd6454ad33bdfe3cf3cdff43eb994929f35eec39e4e893d567f8b05",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 51109
+    }
+  },
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "authority-home",
+    "url": "https://www.scs.gov.cn/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-cn-scs-national-exams-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.689Z",
+    "error": "robots.txt unreachable at https://www.scs.gov.cn: fetch failed"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "authority-home",
+    "url": "https://www.nuol.edu.la/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-la-nuol-public-admissions-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.690Z",
+    "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "english-admission",
+    "url": "https://www.nuol.edu.la/index.php/en/admission",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-la-nuol-public-admissions-english-admission-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:29.299Z",
+    "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed"
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "authority-referral",
+    "url": "https://www.csc.gov.mn/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-referral-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.csc.gov.mn/",
+      "fetchedAt": "2026-09-26T22:59:29.881Z",
+      "sha256": "c71fb81a75954753b09254d5ccc7d0f1ad7e3570908cad37d0a69354a097ac16",
+      "contentType": "text/html",
+      "bytes": 1208
+    }
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "entrance-portal",
+    "url": "https://entrance.nuol.edu.la/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-la-nuol-public-admissions-entrance-portal-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.690Z",
+    "error": "robots.txt unreachable at https://entrance.nuol.edu.la: robots.txt returned non-text content"
+  },
+  {
+    "sourceId": "kh-nec-official-recruitment",
+    "label": "contract-plan-2026",
+    "url": "https://nec.gov.kh/english/content/press-release-outcomes-national-election-committees-meeting-21st-july-2026",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-kh-nec-official-recruitment-contract-plan-2026-2026-09-27.html",
+    "evidence": {
+      "url": "https://nec.gov.kh/english/content/press-release-outcomes-national-election-committees-meeting-21st-july-2026",
+      "fetchedAt": "2026-09-26T22:59:30.004Z",
+      "sha256": "02eed41a4c5d1a0047ab7d2a3978a6c255f72bdb602d1419b4e6f065fc94f6dc",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 41326
+    }
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "selection-register",
+    "url": "https://se.csc.gov.mn/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-mn-csc-public-exams-selection-register-2026-09-27.html",
+    "evidence": {
+      "url": "https://se.csc.gov.mn/",
+      "fetchedAt": "2026-09-26T22:59:30.042Z",
+      "sha256": "a0b3b0680f751dd50152bc52737670964a63316b6f78b921c47e7b34e52cc957",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 31049
+    }
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "authority-news",
+    "url": "https://web.csc.gov.mn/home",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-news-2026-09-27.html",
+    "evidence": {
+      "url": "https://web.csc.gov.mn/home",
+      "fetchedAt": "2026-09-26T22:59:30.404Z",
+      "sha256": "8f9f46e4d27e7985e681f556236a61536a1684af77d01e34dfb0625ed2adf5d6",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 284539
+    }
+  },
+  {
+    "sourceId": "mn-csc-public-exams",
+    "label": "government-selection-referral",
+    "url": "https://www.gov.mn/news/n/4563",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-mn-csc-public-exams-government-selection-referral-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.gov.mn/news/n/4563",
+      "fetchedAt": "2026-09-26T22:59:30.437Z",
+      "sha256": "3bc356edd381067a6d800a1dba5b6c2d119a6e62b7e6db6faaaf2da35b7dd170",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 132072
+    }
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "admission-news",
+    "url": "https://www.nuol.edu.la/index.php/en/news?start=10",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-la-nuol-public-admissions-admission-news-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:29.645Z",
+    "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed"
+  },
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "government-2026-notice",
+    "url": "https://www.yuli.gov.cn/xjylx/c110928/202510/2b1de345f90143a99aa19e75adda2cc0.shtml",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/asia66-cn-scs-national-exams-government-2026-notice-2026-09-27.html",
+    "evidence": {
+      "url": "https://www.yuli.gov.cn/xjylx/c110928/202510/2b1de345f90143a99aa19e75adda2cc0.shtml",
+      "fetchedAt": "2026-09-26T22:59:31.048Z",
+      "sha256": "2593275e2e0b92759e037aeeffa317117bac2ee3b8a8197a69cc83c55748101a",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 108320
+    }
+  },
+  {
+    "sourceId": "kh-mcs-civil-service",
+    "label": "authority-home",
+    "url": "https://www.mcs.gov.kh/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-kh-mcs-civil-service-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.690Z",
+    "error": "robots.txt unreachable at https://www.mcs.gov.kh: fetch failed"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "authority-home",
+    "url": "https://sonv.laichau.gov.vn/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.690Z",
+    "error": "robots.txt unreachable at https://sonv.laichau.gov.vn: fetch failed"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "authority-home",
+    "url": "https://wwwc.moex.gov.tw/main/home/wfrmHome.aspx",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-tw-moex-national-exams-authority-home-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:26.690Z",
+    "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: The operation was aborted due to timeout"
+  },
+  {
+    "sourceId": "kh-mcs-civil-service",
+    "label": "teacher-registration-2024",
+    "url": "https://www.mcs.gov.kh/%E1%9E%82%E1%9E%8E%E1%9F%88%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%9A%E1%9F%80%E1%9E%94%E1%9E%85%E1%9F%86%E1%9E%80%E1%9E%B6%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A1%E1%9E%84-2/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-kh-mcs-civil-service-teacher-registration-2024-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:37.244Z",
+    "error": "robots.txt unreachable at https://www.mcs.gov.kh: fetch failed"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "round3-2026-plan",
+    "url": "https://sonv.laichau.gov.vn/Vanbanchitiet?did=28820",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-round3-2026-plan-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:37.245Z",
+    "error": "robots.txt unreachable at https://sonv.laichau.gov.vn: fetch failed"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "local-2026-detail",
+    "url": "https://wwwc.moex.gov.tw/main/exam/wFrmExamDetail.aspx?c=115190",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-tw-moex-national-exams-local-2026-detail-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:59:46.739Z",
+    "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: fetch failed"
+  },
+  {
+    "sourceId": "la-nuol-public-admissions",
+    "label": "chinese-teacher-2026-27-report",
+    "url": "https://www.nuol.edu.la/index.php/en/news/643-%E0%BA%AA%E0%BA%B0%E0%BA%96%E0%BA%B2%E0%BA%9A%E0%BA%B1%E0%BA%99%E0%BA%82%E0%BA%BB%E0%BA%87%E0%BA%88%E0%BA%B7-%E0%BA%88%E0%BA%B1%E0%BA%94%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%AA%E0%BA%AD%E0%BA%9A%E0%BB%80%E0%BA%AA%E0%BA%B1%E0%BA%87%E0%BA%84%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%A5%E0%BA%B7%E0%BA%AD%E0%BA%81%E0%BA%99%E0%BA%B1%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2%E0%BB%83%E0%BB%9D%E0%BB%88-%E0%BA%AA%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%84%E0%BA%B9%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2%E0%BA%88%E0%BA%B5%E0%BA%99-%E0%BA%9B%E0%BA%B0%E0%BA%88%E0%BA%B3%E0%BA%AA%E0%BA%BB%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2-2026-2027",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-la-nuol-public-admissions-chinese-teacher-2026-27-report-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T23:04:43.664Z",
+    "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed"
+  },
+  {
+    "sourceId": "vn-lai-chau-civil-service",
+    "label": "historical-may-2026-plan",
+    "url": "https://xathulum.laichau.gov.vn/upload/105515/20260520/document__11__0669d.pdf",
+    "format": "PDF",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-historical-may-2026-plan-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T23:04:43.664Z",
+    "error": "robots.txt unreachable at https://xathulum.laichau.gov.vn: fetch failed"
+  },
+  {
+    "sourceId": "cn-scs-national-exams",
+    "label": "annual-2026-portal",
+    "url": "https://bm.scs.gov.cn/kl2026",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-cn-scs-national-exams-annual-2026-portal-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T23:04:43.664Z",
+    "error": "robots.txt unreachable at https://bm.scs.gov.cn: fetch failed"
+  },
+  {
+    "sourceId": "tw-moex-national-exams",
+    "label": "high-general-2026-guide",
+    "url": "https://wwwc.moex.gov.tw/main/exam/FileHandler.ashx?File=3996&MCode=7730&PCode=5121&f=115&t=P",
+    "format": "PDF",
+    "status": "failed",
+    "path": "data/evidence/research/asia66-tw-moex-national-exams-high-general-2026-guide-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T23:04:43.659Z",
+    "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: fetch failed"
+  }
+]

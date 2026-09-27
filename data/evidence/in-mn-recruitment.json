@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://mpscmanipur.gov.in/whats_new.html",
+  "fetchedAt": "2026-09-24T21:35:39.542Z",
+  "sha256": "dc6e3333db618bb964339782475d1f4785a6a1fa7e69e1871d6065c82d79fcd4",
+  "bytes": 76437,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
+  "fetchedAt": "2026-09-24T21:35:40.598Z",
+  "sha256": "6acfe2a153f42587cb44a7fb2023a1681cb1927f19ba072ed85e7727ff29ad4f",
+  "bytes": 288556,
+  "contentType": "application/pdf"
+ }
+]

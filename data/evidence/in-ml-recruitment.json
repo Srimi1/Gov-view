@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://mpsc.meghalaya.gov.in/advertisements.html",
+  "fetchedAt": "2026-09-24T21:41:54.545Z",
+  "sha256": "f055aac47aa629a33c8ba12793ed0db328580af5fc38ad91441abb1f046242d3",
+  "bytes": 66848,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://mpsc.meghalaya.gov.in/advt/Advt25May2026.pdf",
+  "fetchedAt": "2026-09-24T21:41:58.583Z",
+  "sha256": "ede5944913f17fa11fb729c5b9d0dc17768fa2e716dcedd0baa7fce2e4294ab4",
+  "bytes": 621465,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mpsc.meghalaya.gov.in/notify/Notice03June2026a.pdf",
+  "fetchedAt": "2026-09-24T21:42:00.149Z",
+  "sha256": "08ad628187d382f5c7e5871bd24e7170deb2e2bd66e59e6956698bd6802e2e51",
+  "bytes": 112611,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://mpsc.meghalaya.gov.in/notify/Notice24June2026a.pdf",
+  "fetchedAt": "2026-09-24T21:42:01.391Z",
+  "sha256": "1ca69cec33e9ffff7a6132725a72861c0a0db45d2d13ab1e06fb2472b61aaf30",
+  "bytes": 185617,
+  "contentType": "application/pdf"
+ }
+]

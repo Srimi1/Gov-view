@@ -1,0 +1,33 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-la-hme-admission",
+  "cycleId": "ladakh-central-pool-mbbs-bds-2026-27",
+  "indexUrl": "https://ladakh.gov.in/document-category/notification/",
+  "portalUrl": "https://hme.ladakh.gov.in/",
+  "applicationUrl": "https://hme.ladakh.gov.in/register",
+  "notification": "758-DHSL/2026",
+  "academicYear": "2026-27",
+  "opensOn": "2026-09-23",
+  "closesOn": "2026-09-29",
+  "documents": [
+    {
+      "key": "application-notice",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/09/202609231438871085.pdf",
+      "sha256": "421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90",
+      "pages": 18,
+      "localFile": "data/evidence/research/ladakh-central-pool-758-2026.pdf"
+    },
+    {
+      "key": "portal-guidelines",
+      "url": "https://hme.ladakh.gov.in/uploads/notifications/notice_37e04513bc420bd9.pdf",
+      "sha256": "e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219",
+      "pages": 16,
+      "localFile": "data/evidence/research/ladakh-hme-guidelines-2026.pdf"
+    }
+  ],
+  "evidenceNotes": [
+    "Official application notice page 1 names 7 MBBS and 2 BDS seats; page 2 says online application within seven days of issue but its heading dates conflict (18 and 22 September). The linked official HME portal explicitly states 23 to 29 September 2026, without clock time.",
+    "Ladakh amended guidelines pages 15-16 of the application PDF require valid NEET 2026 and define Ladakh parent-residence or posted-employee child routes. Nationality is not specified in these Ladakh quota rules; foreign-national seats listed in general central-pool guidelines belong to a distinct ministry allocation.",
+    "No mandatory language proficiency level found in inspected notice or amended guidelines. College cities describe outcome, not exam venues."
+  ]
+}

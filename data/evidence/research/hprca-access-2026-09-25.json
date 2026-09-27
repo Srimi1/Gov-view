@@ -1,0 +1,10 @@
+{
+  "checkedOn": "2026-09-25",
+  "authority": "Himachal Pradesh Rajya Chayan Aayog",
+  "homepage": "https://hprca.hp.gov.in/",
+  "finding": "Official homepage advertises recruitment notices, exams and post codes, including 2026 material.",
+  "robotsUrl": "https://hprca.hp.gov.in/robots.txt",
+  "robotsResponse": "HTTP 200 Angular homepage HTML rather than a text/plain robots policy.",
+  "collectionDecision": "No automated connector was activated; a reliable permitted notice feed or clarified robots response is needed.",
+  "coverageLimit": "Existing Himachal Pradesh PSC entry remains blocked by TLS renegotiation. HPRCA is a separate authority and this access check does not claim its notices are covered."
+}

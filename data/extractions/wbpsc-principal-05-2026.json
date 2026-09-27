@@ -1,0 +1,29 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-wb-recruitment",
+  "cycleId": "wbpsc-principal-diet-05-2026",
+  "homeUrl": "https://psc.wb.gov.in/",
+  "announcementsUrl": "https://psc.wb.gov.in/notification_announcement.jsp",
+  "documents": [
+    { "key": "original", "url": "https://psc.wb.gov.in/Download?param1=Ad_20260513181624_05_2026_ADVT.pdf&param2=advertisement", "sha256": "5cd1afa0a2c09a5432729a94ec7fd08a99dd81f9838075709daee8a47367caf7", "title": "WBPSC Principal detailed advertisement 05/2026" },
+    { "key": "extension", "url": "https://psc.wb.gov.in/Download?param1=An_20260515195434_Notice_for_extension_of_Online_Application_date.pdf&param2=advertisement", "sha256": "ee29f64b6c4b81a6fd11d76fab08596af2057b5a57177966c6ac82e7d3c64a3b", "title": "14 May extension and edit window notice" },
+    { "key": "indicative", "url": "https://psc.wb.gov.in/Download?param1=An_20260413115222_Indicative_Advt_05-2026.pdf&param2=advertisement", "sha256": "48fe88dffd0fabbd268b4412f7263eb378d7e2128abfa7662ba959830f003710", "title": "Principal indicative advertisement" }
+  ],
+  "originalPlannedOpensOn": "2026-04-30",
+  "actualOpensOn": null,
+  "originalClosesOn": "2026-05-21",
+  "finalClosesOn": "2026-06-03",
+  "cutoffLocalTime": "15:00",
+  "editOpensOn": "2026-06-07",
+  "editClosesOn": "2026-06-12",
+  "vacancies": 12,
+  "ageAsOn": "2026-01-01",
+  "evidenceNotes": [
+    "Original detailed advertisement page 1 states 12 Principal positions in District Institute of Education and Training under West Bengal School Education Department, applications planned 30 April–21 May 2026 through 15:00.",
+    "Signed 14 May extension says applications did not begin 30 April due to technical glitches; actual opening date is not supplied. Application and fee deadline moved to 3 June at 15:00. Separate edit window moved to 7–12 June through 15:00 and is not a fresh application period.",
+    "Original PDF invites Indian citizens and others declared eligible by Government of India; no list of eligible foreign citizenship classes appears. Do not treat all non-Indian citizens as accepted or excluded.",
+    "Principal-specific qualifications require a regular two-year master's in school teaching subject with honours at graduation and 55%; M.Ed/M.Ed Elementary with 55%, or MA Education with 55% plus Primary/Elementary diploma/degree with 55%; five years teaching in Primary/Elementary Teachers' Training Institute; Bengali spoken/written and computer literacy. General Bengali rule includes Nepali mother tongue exception unless specifically mentioned; principal-specific Bengali clause requires founder/authority reconciliation. No CEFR level given.",
+    "Age limit is 42 on 1 January 2026, with state-specific SC/ST, OBC and disability exceptions. Model cannot safely apply those relaxations without category domicile proof, so upper age is a manual check rather than a blanket automatic rejection.",
+    "One advertised post type and application cycle covers 12 positions; homepage and announcement archive both retain notice links. No examination venue is published."
+  ]
+}

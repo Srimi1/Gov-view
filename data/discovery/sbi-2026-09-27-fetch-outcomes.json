@@ -1,0 +1,72 @@
+[
+  {
+    "label": "careers-home",
+    "format": "HTML",
+    "url": "https://sbi.bank.in/en/web/careers",
+    "status": "retained",
+    "path": "data/evidence/research/sbi-careers-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://sbi.bank.in/en/web/careers",
+      "fetchedAt": "2026-09-26T20:52:08.771Z",
+      "sha256": "3547a7ca4beace91d10862343d5f25bd9441947e09c83e6623f02b36c6685ee5",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 175994
+    }
+  },
+  {
+    "label": "current-openings",
+    "format": "HTML",
+    "url": "https://sbi.bank.in/web/careers/current-openings",
+    "status": "retained",
+    "path": "data/evidence/research/sbi-current-openings-2026-09-27.html",
+    "evidence": {
+      "url": "https://sbi.bank.in/web/careers/current-openings",
+      "fetchedAt": "2026-09-26T20:52:09.227Z",
+      "sha256": "8b2a8a9574d2acd23a36236354a6883b9047a70f0e63d160a9dbaf03518c03d6",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 342675
+    }
+  },
+  {
+    "label": "it-risk-sco22",
+    "format": "PDF",
+    "url": "https://sbi.bank.in/documents/77530/57941334/16092026_ADV_CRPD_SCO_2026_27_22.pdf/6285a84d-5171-c301-5817-fe41b4a83cad?t=1789538056721",
+    "status": "retained",
+    "path": "data/evidence/research/sbi-it-risk-sco22-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://sbi.bank.in/documents/77530/57941334/16092026_ADV_CRPD_SCO_2026_27_22.pdf/6285a84d-5171-c301-5817-fe41b4a83cad?t=1789538056721",
+      "fetchedAt": "2026-09-26T20:52:10.937Z",
+      "sha256": "17a83f20a6421919739f830d7f132017e88e096780db675c7027d03b4eadd5fd",
+      "contentType": "application/pdf",
+      "bytes": 864033
+    }
+  },
+  {
+    "label": "junior-associates17",
+    "format": "PDF",
+    "url": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf",
+    "status": "retained",
+    "path": "data/evidence/research/sbi-junior-associates17-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf",
+      "fetchedAt": "2026-09-26T20:52:11.439Z",
+      "sha256": "5018c4660bc945253f56e7b866d8b22114cdf3fff439311d05a67846f426508b",
+      "contentType": "application/pdf",
+      "bytes": 982223
+    }
+  },
+  {
+    "label": "trade-finance-sco15",
+    "format": "PDF",
+    "url": "https://sbi.bank.in/documents/77530/57941334/29082026_FINAL%2BADVT%2BTFO%2BIBG_SCO%2B15.pdf/222db64b-91da-cbe8-c439-9af6b1dd06b2?t=1787986916149",
+    "status": "retained",
+    "path": "data/evidence/research/sbi-trade-finance-sco15-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://sbi.bank.in/documents/77530/57941334/29082026_FINAL%2BADVT%2BTFO%2BIBG_SCO%2B15.pdf/222db64b-91da-cbe8-c439-9af6b1dd06b2?t=1787986916149",
+      "fetchedAt": "2026-09-26T20:52:12.444Z",
+      "sha256": "626f7f3cb7190507886c796dc3c287bad86ea19bb58dfdd6d95de20982c15f80",
+      "contentType": "application/pdf",
+      "bytes": 963213
+    }
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "observedDate": "2026-09-27",
+  "scope": "Official State Bank of India recruitment discovery; research only, no cycle imported or approval recorded.",
+  "source": {
+    "id": "in-sbi-careers",
+    "name": "State Bank of India — official recruitment and selection updates",
+    "country": "IN",
+    "authority": "State Bank of India, Central Recruitment & Promotion Department",
+    "homepage": "https://sbi.bank.in/web/careers/current-openings",
+    "connector": "none",
+    "cadenceHours": 1,
+    "licence": "Official public-sector bank discovery only. Collection terms, exact notice extraction and public reuse require review before connector acceptance or publication.",
+    "notes": "Official bank careers homepage links this current-openings register. It mixes applications, explicit extensions, exam call letters and results. Retained SCO 22 IT Risk contract notice, SCO 15 regular Trade Finance notice and Junior Associate 17 notice each restrict applications to Indian citizens. Junior Associate local-language assessment/education exemption is distinct from exam medium and has no CEFR level.",
+    "accessGap": "No connector, normalized cycle or accepted output. Complete notice inventory, linked Hindi originals, amendments, post-choice identity, exact qualifications, category/age exceptions, application-form rules, fees and timezone/cutoff require review. SCO 22 prohibits applications to both roles; SCO 15 permits both. SCO 15 official register explicitly extends closing to 28 September 2026 beyond original PDF 19 September. Junior Associate 17 filing closed 31 August; call-letter availability does not reopen applications. Research response timestamps do not update scheduled source health or validation; suggested posting cities do not establish examination venues.",
+    "discoveredFrom": "https://sbi.bank.in/en/web/careers",
+    "discoveredAt": "2026-09-27",
+    "reviewRequired": true,
+    "enabled": false
+  },
+  "evidence": [
+    {
+      "label": "careers-home",
+      "format": "HTML",
+      "url": "https://sbi.bank.in/en/web/careers",
+      "status": "retained",
+      "path": "data/evidence/research/sbi-careers-home-2026-09-27.html",
+      "evidence": {
+        "url": "https://sbi.bank.in/en/web/careers",
+        "fetchedAt": "2026-09-26T20:52:08.771Z",
+        "sha256": "3547a7ca4beace91d10862343d5f25bd9441947e09c83e6623f02b36c6685ee5",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 175994
+      }
+    },
+    {
+      "label": "current-openings",
+      "format": "HTML",
+      "url": "https://sbi.bank.in/web/careers/current-openings",
+      "status": "retained",
+      "path": "data/evidence/research/sbi-current-openings-2026-09-27.html",
+      "evidence": {
+        "url": "https://sbi.bank.in/web/careers/current-openings",
+        "fetchedAt": "2026-09-26T20:52:09.227Z",
+        "sha256": "8b2a8a9574d2acd23a36236354a6883b9047a70f0e63d160a9dbaf03518c03d6",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 342675
+      }
+    },
+    {
+      "label": "it-risk-sco22",
+      "format": "PDF",
+      "url": "https://sbi.bank.in/documents/77530/57941334/16092026_ADV_CRPD_SCO_2026_27_22.pdf/6285a84d-5171-c301-5817-fe41b4a83cad?t=1789538056721",
+      "status": "retained",
+      "path": "data/evidence/research/sbi-it-risk-sco22-2026-09-27.pdf",
+      "evidence": {
+        "url": "https://sbi.bank.in/documents/77530/57941334/16092026_ADV_CRPD_SCO_2026_27_22.pdf/6285a84d-5171-c301-5817-fe41b4a83cad?t=1789538056721",
+        "fetchedAt": "2026-09-26T20:52:10.937Z",
+        "sha256": "17a83f20a6421919739f830d7f132017e88e096780db675c7027d03b4eadd5fd",
+        "contentType": "application/pdf",
+        "bytes": 864033
+      }
+    },
+    {
+      "label": "junior-associates17",
+      "format": "PDF",
+      "url": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf",
+      "status": "retained",
+      "path": "data/evidence/research/sbi-junior-associates17-2026-09-27.pdf",
+      "evidence": {
+        "url": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf",
+        "fetchedAt": "2026-09-26T20:52:11.439Z",
+        "sha256": "5018c4660bc945253f56e7b866d8b22114cdf3fff439311d05a67846f426508b",
+        "contentType": "application/pdf",
+        "bytes": 982223
+      }
+    },
+    {
+      "label": "trade-finance-sco15",
+      "format": "PDF",
+      "url": "https://sbi.bank.in/documents/77530/57941334/29082026_FINAL%2BADVT%2BTFO%2BIBG_SCO%2B15.pdf/222db64b-91da-cbe8-c439-9af6b1dd06b2?t=1787986916149",
+      "status": "retained",
+      "path": "data/evidence/research/sbi-trade-finance-sco15-2026-09-27.pdf",
+      "evidence": {
+        "url": "https://sbi.bank.in/documents/77530/57941334/29082026_FINAL%2BADVT%2BTFO%2BIBG_SCO%2B15.pdf/222db64b-91da-cbe8-c439-9af6b1dd06b2?t=1787986916149",
+        "fetchedAt": "2026-09-26T20:52:12.444Z",
+        "sha256": "626f7f3cb7190507886c796dc3c287bad86ea19bb58dfdd6d95de20982c15f80",
+        "contentType": "application/pdf",
+        "bytes": 963213
+      }
+    }
+  ],
+  "observations": [
+    {
+      "document": "it-risk-sco22",
+      "advertisement": "CRPD/SCO/2026-27/22",
+      "appointmentKind": "contract",
+      "finding": "Indian-citizen applications; registration 16 September–6 October 2026, no printed cutoff time/timezone. Two exclusive IT Risk role choices, four provisional vacancies total; horizontal PwBD reservation does not add two more posts. Three-year term with up to two-year extension subject to review. Suggested Mumbai/Navi Mumbai posting is not an exam venue. No formal human-language proficiency framework found."
+    },
+    {
+      "document": "trade-finance-sco15",
+      "advertisement": "CRPD/SCO/2026-27/15",
+      "appointmentKind": "regular",
+      "finding": "Indian-citizen applications. Two grade choices permit applying to both. Original PDF 29 August–19 September; retained current register explicitly extends close to 28 September. Preserve both source revisions and extension evidence, not two cycles. No cutoff time/timezone or universal language level inferred. Mandatory IIBF Forex certification and preferred specialist credentials require role-specific review."
+    },
+    {
+      "document": "junior-associates17",
+      "advertisement": "CRPD/CR/2026-27/17",
+      "appointmentKind": "clerical cadre",
+      "finding": "Indian citizens; filing 11–31 August 2026 already closed. One state/UT and one opted local language. Reading/writing/speaking/understanding assessment after main examination, before joining; qualifying Class 10/12 study evidence may exempt testing. Exam medium is separate; no CEFR conversion. Current call letters do not reopen filing."
+    },
+    {
+      "document": "current-openings",
+      "finding": "Register includes multiple open and closed calls plus later selection stages. Its title is not proof every row accepts applications. National bank recruitment does not substitute for any state PSC or worldwide public-authority completeness."
+    }
+  ],
+  "unresolved": [
+    "Other advertisements, amendments and archives have not been extracted.",
+    "Linked Hindi originals and original application-form conditions not inspected; no profile, login or submission.",
+    "Foreigner who lacks required Indian citizenship does not match these inspected notices; do not generalize to every bank programme or nationality route.",
+    "Founder output acceptance, notice recall and critical-field pilot audit remain undone."
+  ],
+  "publication": {
+    "adapterPresent": false,
+    "enabled": false,
+    "importedCycles": 0,
+    "humanApprovalRecorded": false,
+    "sourceHealthUpdated": false
+  }
+}

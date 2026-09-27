@@ -1,0 +1,1642 @@
+
+
+
+    <!DOCTYPE html>
+<html lang = "en" >
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                    
+   
+<link rel="icon" href="images/gklogo.gif" type="image/ico"/>
+                        <title>PSCIMS</title>
+
+                        <link href="vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+                            <link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+                                <link href="vendors/nprogress/nprogress.css" rel="stylesheet">
+
+                                    <link href="vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+
+                                        <link href="vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+
+                                            <link href="vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
+
+                                            <link href="vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+                                                <link href="build/css/custom.min.css" rel="stylesheet">
+    <style type="text/css">
+        .auto-style3 {
+            color: #FF0000;
+        }
+    </style>
+    </head>
+    <body Class="nav-md">
+<div Class="container body">
+<div Class="main_container">
+<div Class="col-md-3 left_col">
+<div Class="left_col scroll-view">
+<div>
+                        
+ 
+    
+<html>
+<style type="text/css">
+    .auto-style2 {
+        color: #0000FF;
+    }
+</style>
+
+<body>
+
+    <div class="profile clearfix"></div>
+    <div style="height: 60px; width: 20px">
+    </div>
+    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+        <div class="menu_section">
+           
+
+            <h2 style="height: 20px"></h2>
+
+            
+
+
+
+            <ul class="nav side-menu">
+
+         
+
+                <li><a href="RegisterProfile.aspx" style="color: #FFFFFF"><i class="fa fa-sitemap"></i>Register/Signup <span class=""></span></a>
+
+
+                </li>
+                   <li><a href="loginPage.aspx" style="color: #FFFFFF"><i class="fa fa-sitemap"></i>Login <span class=""></span></a>
+
+
+                </li>
+
+                   <li><a href="loginPage.aspx" style="color: #FFFFFF"><i class="fa fa-sitemap"></i>Apply for Jobs/Internship<span class=""></span></a>
+
+                       
+                </li>
+
+                      <li><a href="https://pscims.publicservice.go.ke/puio/" style="color: #FFFFFF"><i class="fa fa-sitemap"></i>Apply for Public Universities and Independent Offices Jobs<span class=""></span></a>
+
+                       
+                </li>
+
+
+             
+
+
+                    
+
+
+            </ul>
+
+        </div>
+
+        
+    </div>
+</body>
+
+</html>
+
+
+</div>
+
+
+
+<div Class="sidebar-footer hidden-small">
+<a data-toggle="tooltip" data-placement="top" title="Settings">
+<span Class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+</a>
+<a data-toggle="tooltip" data-placement="top" title="FullScreen">
+<span Class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+</a>
+<a data-toggle="tooltip" data-placement="top" title="Lock">
+<span Class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+</a>
+<a data-toggle="tooltip" data-placement="top" title="Logout" href="/login.aspx">
+    
+<span Class="glyphicon glyphicon-off" aria-hidden="true"></span>
+</a>
+</div>
+
+</div>
+</div>
+
+    
+
+
+<html>
+    <style type="text/css">
+        .auto-style1 {
+            color: #FFFFFF;
+        }
+        .auto-style2 {
+            color: #FFFFFF;
+            font-size: medium;
+        }
+    </style>
+
+    <body>
+ 
+        <div class="top_nav">
+<div class="nav_menu" style="height:130px">
+<div class="nav toggle">
+<a id="menu_toggle"><i class="fa fa-bars"></i></a>
+</div>
+    <ul class=" navbar-right" style="height:25px;color:white;">
+           
+        </ul>
+    <nav class="nav navbar-nav">
+        
+     
+<ul class=" navbar-right">
+
+
+
+
+       <div class="row">
+
+        <div class="col-md-3 ">
+           <img src="images/PSCLogoCo.png" style="height:130px;width:250px; float: left;" alt="" >      
+        </div>
+                  
+        <div class="col-md-6 " style="font-size: xx-large; text-align: center">
+        
+            <h1 class="auto-style1" style="font-size: x-large"><span class="auto-style3">PUBLIC SERVICE COMMISSION</span><span class="auto-style4"> </span> 
+            </h1>
+             <div class="auto-style5">
+             <h9 class="auto-style1 style="text-align: center"><span class="style1">
+            <span class="auto-style2">A Citizen Centric Public Service</span></span>
+                 <span class="style2"></h9> <i> </i></span>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+<li role="presentation" class="nav-item dropdown open">
+
+
+
+
+
+
+
+</li>
+</ul>
+</nav>
+</div>
+</div>
+    </body>
+</html>
+
+
+
+    
+<div class="right_col" role="main">
+
+
+    <div class="x_content">
+                    <br />
+                    <form name="ctl00" method="post" action="./ActiveJobsAdverts.aspx" id="ctl00" class="form-label-left input_mask">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/jobs/ScriptResource.axd?d=IXNrfnWKyj8bRkc2KU65kVS86ekYY6IvjHSObsXUdAKWP26ehY5XFjuuurrnk3BmayQAxp40T0dRrwpQ7nwjmqi0Rxgy1AmQ_Yb0jJayf0y9qgI7ghEYWPYkQbgaw8QwLhHBxMdNnw9V2JdZzPS75-NXPWVrfjADfhGHkcxJTLW0IFB-x-cbitj51clBezc30&amp;t=13798092" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1C405E3D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACysj8DsWve/v7aLwsOdTV8ufoF3uyyiYeZN2kCKeNWshyjwgrqnSgByMRWvmRu28PX0DmNxKwAEb8eyGAl6QQuln7lvNqZfxjShWafX4Xh4CxJG89IxnlxoEbixUXjkUSn0otG2Pw+eotI7i+QhCEFcvaYZKbPFbw3nCQFH0qEZ+daJBbZD8MXot7npEjJKTVMWfpsStT4JRTnPOggRIudHaw29dMu21f3UNcjd/oI3iCdUEOMhIPVLyoJwut7+DzoHgOJF0QvBzJ2gb0U4K6DC2aMHWyct+QD5+Qj3F7h9Q8Np6PpLqQOM+D3BDfRgrVKe4otz2qCA4lrOlVElinMbr05mllLfFWCYYodEeryTkwefxxO8fmgZp70GSUw2mr0x4/pRu9cUOqvSgkS0XtNjbd+u9+qySPULRs9zYXFT4scsW9urqHQqLb7tViy08si0INSvzn7wO726aNEJr7Zjy3sa1O+ZS1642JUmUEyjSRyQ5VbZC6TWgcylupPQG+D2fyRNQE/jcl8UFL70efDKStX9+wf0ZmQIinri7Ujm2l3yyI3MjIbPhjUN8bNwj1VCNknro7u7XwM+tt1VQ2MOR/LhTJPRX5giK5SgxlmtAL+KlhnrIy3GNJWw4q0gD5mHMMd/LrnzYK7SuVf/8FXv1t0klfq8alaM3f9kowYPtYjQLYUJ8gBYnHSimsrQIroUcCRB/JmFrHXmQtCrAoQLdlZaNLj/vXcmLFrDDMMZXwoaDGTdXjr2iMaa27XjXptMRvqoaFVuSTK0jyWqlTq+ZsWFEx+I880vueLynmxPTaweEflqGNW98ia4/+m9fpN3aFYM/d7fHqU74TkJEOPIfJJeOiiBeAGrg/3uJpguGpWrwqpl2UxuGi4hOcZqeKgJ7vf7BlsW3MK0jJayFZToQKM71EXcnd4JyxfakSr2EsaMgYF2MYu/mafLuVXhaHStQcYWYPQQpVSI6gfgF5DL" />
+   
+                                                              
+
+                      <div class="form-group row">
+
+
+                         
+                          
+        
+                       <div  class="title_center" style="color:Green">
+                <h3 class="auto-style1">ACTIVE ADVERTS</h3>
+          
+              </div>
+                      </div>
+                                                                                                 
+
+                      <div class="ln_solid"></div>
+
+                        <div class="form-group row">
+
+                                 <strong>
+
+                                 
+                                 </strong>
+                            </div>
+
+                        
+                        <div class="form-group row" >
+                        <div class="col-md-12 col-sm-12 ">
+                            
+                             <fieldset style="border-color:brown"   >
+
+
+                                 
+         <table cellspacing="0" cellpadding="5" align="Left" rules="all" autosize="true" border="1" id="DataGrid2" width="1100" style="margin-top: 0px;">
+	<tr bgcolor="Gainsboro">
+		<td><font face="arial" color="Blue" size="2">##</font></td><td><font face="arial" color="Blue" size="2">Advert Number</font></td><td><font face="arial" color="Blue" size="2">Position</font></td><td><font face="arial" color="Blue" size="2">Job Scale</font></td><td><font face="arial" color="Blue" size="2">Ministry</font></td><td><font face="arial" color="Blue" size="2">Number of Vacancies</font></td><td><font face="arial" color="Blue" size="2">Years of Experience Required</font></td><td><font face="arial" color="Blue" size="2">Advert Category</font></td><td><font face="arial" color="Blue" size="2">Advert Date</font></td><td><font face="arial" color="Blue" size="2">Advert Close Date</font></td><td><font face="arial" color="Blue" size="2">&nbsp;</font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				D111/2026
+			</font></td><td><font face="arial" size="2">
+				Principal Labour Migration Officer 
+			</font></td><td><font face="arial" size="2">
+				CSG 8
+			</font></td><td><font face="arial" size="2">
+				State Department for Labour and Skills Development
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				14-09-2026
+			</font></td><td><font face="arial" size="2">
+				05-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl03_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl03$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				147/2026
+			</font></td><td><font face="arial" size="2">
+				Secretary Cabinet Affairs/Special Programmes 
+			</font></td><td><font face="arial" size="2">
+				CSG 4
+			</font></td><td><font face="arial" size="2">
+				State Department for Cabinet Affairs
+
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				18
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl04_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl04$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				148/2026
+			</font></td><td><font face="arial" size="2">
+				Director Cabinet Affairs/Special Programmes 
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				State Department for Cabinet Affairs
+
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl05_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl05$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				149/2026
+			</font></td><td><font face="arial" size="2">
+				Deputy Director Cabinet Affairs/Special Programmes
+			</font></td><td><font face="arial" size="2">
+				CSG 6
+			</font></td><td><font face="arial" size="2">
+				State Department for Cabinet Affairs
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl06_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl06$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				5
+			</font></td><td><font face="arial" size="2">
+				150/2026
+			</font></td><td><font face="arial" size="2">
+				Assistant Director Cabinet Affairs/Special Programmes 
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Cabinet Affairs
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl07_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl07$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				6
+			</font></td><td><font face="arial" size="2">
+				151/2026
+			</font></td><td><font face="arial" size="2">
+				Assistant Director - Probation
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Correctional Services
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl08_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl08$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				7
+			</font></td><td><font face="arial" size="2">
+				152/2026
+			</font></td><td><font face="arial" size="2">
+				Commissioner for Co-operative Development
+			</font></td><td><font face="arial" size="2">
+				CSG 4
+			</font></td><td><font face="arial" size="2">
+				State Department for Co-operatives
+
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl09_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl09$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				8
+			</font></td><td><font face="arial" size="2">
+				153/2026
+			</font></td><td><font face="arial" size="2">
+				DEPUTY DIRECTOR, MULTI-LATERAL ENVIRONMENTAL AGREEMENTS
+			</font></td><td><font face="arial" size="2">
+				CSG 6
+			</font></td><td><font face="arial" size="2">
+				State Department for Environment and Climate Change
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl10_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl10$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				9
+			</font></td><td><font face="arial" size="2">
+				154/2026
+			</font></td><td><font face="arial" size="2">
+				Deputy Director, Climate Change(Information & Knowledge)
+			</font></td><td><font face="arial" size="2">
+				CSG 6
+			</font></td><td><font face="arial" size="2">
+				State Department for Environment and Climate Change
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl11_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl11$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				10
+			</font></td><td><font face="arial" size="2">
+				155/2026
+			</font></td><td><font face="arial" size="2">
+				ASSISTANT DIRECTOR, CLIMATE CHANGE(MITIGATION) – GREENHOUSE GAS INVENTORIES
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Environment and Climate Change
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl12_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl12$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				11
+			</font></td><td><font face="arial" size="2">
+				156/2026
+			</font></td><td><font face="arial" size="2">
+				Secretary Forest Regulation
+			</font></td><td><font face="arial" size="2">
+				CSG 4
+			</font></td><td><font face="arial" size="2">
+				State Department for Forestry
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl13_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl13$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				157/2026
+			</font></td><td><font face="arial" size="2">
+				Director Forest Management & Conservation 
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				State Department for Forestry
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl14_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl14$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				13
+			</font></td><td><font face="arial" size="2">
+				158/2026
+			</font></td><td><font face="arial" size="2">
+				Director Forestry Policy Strategic Intiatives
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				State Department for Forestry
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl15_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl15$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				14
+			</font></td><td><font face="arial" size="2">
+				159/2026
+			</font></td><td><font face="arial" size="2">
+				Director, Gender 
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				State Department for Gender and Affirmative Action
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl16_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl16$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				160/2026
+			</font></td><td><font face="arial" size="2">
+				Assistant Director, Social Development
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Social Protection and Senior Citizens Affairs
+
+			</font></td><td><font face="arial" size="2">
+				146
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl17_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl17$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				16
+			</font></td><td><font face="arial" size="2">
+				161/2026
+			</font></td><td><font face="arial" size="2">
+				Secretary, Psychological Counselling and Wellness Services 
+			</font></td><td><font face="arial" size="2">
+				CSG 4
+			</font></td><td><font face="arial" size="2">
+				State Department for Public Service and Human Capital Development
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				18
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl18_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl18$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				17
+			</font></td><td><font face="arial" size="2">
+				162/2026
+			</font></td><td><font face="arial" size="2">
+				Assistant Director Human Resource Management & Developmentt
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Public Service and Human Capital Development
+			</font></td><td><font face="arial" size="2">
+				50
+			</font></td><td><font face="arial" size="2">
+				9
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl19_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl19$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				18
+			</font></td><td><font face="arial" size="2">
+				163/2026
+			</font></td><td><font face="arial" size="2">
+				Deputy Director/Senior Principal Superintending Geologist
+			</font></td><td><font face="arial" size="2">
+				CSG 6
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				11
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl20_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl20$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				19
+			</font></td><td><font face="arial" size="2">
+				164/2026
+			</font></td><td><font face="arial" size="2">
+				Chief Superintending Geologist 
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl21_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl21$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				20
+			</font></td><td><font face="arial" size="2">
+				165/2026
+			</font></td><td><font face="arial" size="2">
+				Chief Superintending Inspector of Mines 
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				17
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl22_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl22$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				21
+			</font></td><td><font face="arial" size="2">
+				166/2026
+			</font></td><td><font face="arial" size="2">
+				Director Government Clearing Services 
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				State Department for Shipping and Maritime Affairs
+
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl23_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl23$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				22
+			</font></td><td><font face="arial" size="2">
+				167/2026
+			</font></td><td><font face="arial" size="2">
+				Senior Deputy Solicitor General 
+			</font></td><td><font face="arial" size="2">
+				CSG 3
+			</font></td><td><font face="arial" size="2">
+				Office of Attorney General (State Department For Justice Human Rights and Constitutional Affairs)
+
+			</font></td><td><font face="arial" size="2">
+				6
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl24_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl24$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				23
+			</font></td><td><font face="arial" size="2">
+				168/2026
+			</font></td><td><font face="arial" size="2">
+				Deputy Solicitor General 
+			</font></td><td><font face="arial" size="2">
+				CSG 4
+			</font></td><td><font face="arial" size="2">
+				Office of Attorney General (State Department For Justice Human Rights and Constitutional Affairs)
+
+			</font></td><td><font face="arial" size="2">
+				19
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl25_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl25$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				24
+			</font></td><td><font face="arial" size="2">
+				169/2026
+			</font></td><td><font face="arial" size="2">
+				Chief State Counsel  
+			</font></td><td><font face="arial" size="2">
+				CSG 5
+			</font></td><td><font face="arial" size="2">
+				Office of Attorney General (State Department For Justice Human Rights and Constitutional Affairs)
+
+			</font></td><td><font face="arial" size="2">
+				91
+			</font></td><td><font face="arial" size="2">
+				12
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl26_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl26$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				25
+			</font></td><td><font face="arial" size="2">
+				170/2026
+			</font></td><td><font face="arial" size="2">
+				Deputy Chief State Counsel 
+			</font></td><td><font face="arial" size="2">
+				CSG 6
+			</font></td><td><font face="arial" size="2">
+				Office of Attorney General (State Department For Justice Human Rights and Constitutional Affairs)
+
+			</font></td><td><font face="arial" size="2">
+				257
+			</font></td><td><font face="arial" size="2">
+				9
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl27_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl27$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				26
+			</font></td><td><font face="arial" size="2">
+				171/2026
+			</font></td><td><font face="arial" size="2">
+				Principal State Counsel 
+			</font></td><td><font face="arial" size="2">
+				CSG 7
+			</font></td><td><font face="arial" size="2">
+				Office of Attorney General (State Department For Justice Human Rights and Constitutional Affairs)
+
+			</font></td><td><font face="arial" size="2">
+				145
+			</font></td><td><font face="arial" size="2">
+				6
+			</font></td><td><font face="arial" size="2">
+				For Serving Officers Only
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl28_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl28$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				27
+			</font></td><td><font face="arial" size="2">
+				172/2026
+			</font></td><td><font face="arial" size="2">
+				Programme Officer II
+			</font></td><td><font face="arial" size="2">
+				CSG 11
+			</font></td><td><font face="arial" size="2">
+				State Department for Cabinet Affairs
+
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl29_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl29$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				28
+			</font></td><td><font face="arial" size="2">
+				173/2026
+			</font></td><td><font face="arial" size="2">
+				Shipping and Maritime Officer [2]
+			</font></td><td><font face="arial" size="2">
+				CSG 11
+			</font></td><td><font face="arial" size="2">
+				State Department for Shipping and Maritime Affairs
+
+			</font></td><td><font face="arial" size="2">
+				10
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl30_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl30$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				29
+			</font></td><td><font face="arial" size="2">
+				174/2026
+			</font></td><td><font face="arial" size="2">
+				Geologist[2]
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl31_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl31$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				30
+			</font></td><td><font face="arial" size="2">
+				175/2026
+			</font></td><td><font face="arial" size="2">
+				Geophysicist II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl32_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl32$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				31
+			</font></td><td><font face="arial" size="2">
+				176/2026
+			</font></td><td><font face="arial" size="2">
+				Geo-Chemist II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl33_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl33$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				32
+			</font></td><td><font face="arial" size="2">
+				177/2026
+			</font></td><td><font face="arial" size="2">
+				Engineer[2]
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl34_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl34$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				33
+			</font></td><td><font face="arial" size="2">
+				178/2026
+			</font></td><td><font face="arial" size="2">
+				Petroleum Environmental Analyst II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl35_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl35$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				34
+			</font></td><td><font face="arial" size="2">
+				179/2026
+			</font></td><td><font face="arial" size="2">
+				Petroleum Economic Analyst II - AA- Scale -K
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl36_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl36$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				35
+			</font></td><td><font face="arial" size="2">
+				180/2026
+			</font></td><td><font face="arial" size="2">
+				Petroleum Audit And Risk Analyst II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				1
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl37_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl37$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				36
+			</font></td><td><font face="arial" size="2">
+				181/2026
+			</font></td><td><font face="arial" size="2">
+				Petroleum Social Development Analyst II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl38_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl38$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				37
+			</font></td><td><font face="arial" size="2">
+				182/2026
+			</font></td><td><font face="arial" size="2">
+				Petroleum Technologist III
+			</font></td><td><font face="arial" size="2">
+				CSG 12
+			</font></td><td><font face="arial" size="2">
+				State Department for Petroleum
+
+			</font></td><td><font face="arial" size="2">
+				5
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl39_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl39$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				38
+			</font></td><td><font face="arial" size="2">
+				183/2026
+			</font></td><td><font face="arial" size="2">
+				Metallurgist I
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl40_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl40$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				39
+			</font></td><td><font face="arial" size="2">
+				184/2026
+			</font></td><td><font face="arial" size="2">
+				Social Development Officer[2]
+			</font></td><td><font face="arial" size="2">
+				CSG 11
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				15
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl41_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl41$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				40
+			</font></td><td><font face="arial" size="2">
+				185/2026
+			</font></td><td><font face="arial" size="2">
+				Laboratory Technologist[3]
+			</font></td><td><font face="arial" size="2">
+				CSG 12
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				3
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl42_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl42$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				41
+			</font></td><td><font face="arial" size="2">
+				186/2026
+			</font></td><td><font face="arial" size="2">
+				Gemstone Cutter/Facetor
+			</font></td><td><font face="arial" size="2">
+				CSG 12
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				2
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl43_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl43$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td><font face="arial" size="2">
+				42
+			</font></td><td><font face="arial" size="2">
+				187/2026
+			</font></td><td><font face="arial" size="2">
+				Gemmologist II
+			</font></td><td><font face="arial" size="2">
+				CSG 10
+			</font></td><td><font face="arial" size="2">
+				State Department for Mining
+			</font></td><td><font face="arial" size="2">
+				4
+			</font></td><td><font face="arial" size="2">
+				0
+			</font></td><td><font face="arial" size="2">
+				Open
+			</font></td><td><font face="arial" size="2">
+				22-09-2026
+			</font></td><td><font face="arial" size="2">
+				13-10-2026
+			</font></td><td><font face="arial" size="2">
+			 &nbsp;&nbsp;
+
+                  <a id="DataGrid2_ctl44_LinkButton3" title="Advert Details" href="javascript:__doPostBack(&#39;DataGrid2$ctl44$LinkButton3&#39;,&#39;&#39;)">Advert Details</a>
+                   &nbsp;&nbsp;
+
+             
+              
+            </font></td>
+	</tr><tr>
+		<td colspan="11"><font face="arial" size="2"><span>&lt;</span>&nbsp;<span>&gt;</span></font></td>
+	</tr>
+</table>
+
+
+                                </fieldset>
+
+
+</div>
+                        
+
+                        </div>
+
+
+                             <div class="form-group row">
+
+                     
+
+                                             <div class="col-md-3 col-sm-3">                          
+                          <input type="submit" name="btnclear" value="Exit" id="btnclear" class="btn btn-success" />
+                                                     </div>
+
+
+                      </div>
+
+
+                    </form>
+                  </div>
+    
+    
+
+
+    
+  
+
+</div>
+
+
+ 
+<div >
+<html>
+    <body>
+        <footer>
+<div style="text-align:center" class="col-md-10 col-sm-10 "   >
+Copyright @ Public Service Commission- PSCIMS  2021
+</div>
+<div class="clearfix"></div>
+</footer>
+    </body>
+</html></div>
+
+
+</div>
+</div>
+
+<script src="vendors/jquery/dist/jquery.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+
+<script src="vendors/bootstrap/dist/js/bootstrap.bundle.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/fastclick/lib/fastclick.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/nprogress/nprogress.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/Chart.js/dist/Chart.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/gauge.js/dist/gauge.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/bootstrap-progressbar/bootstrap-progressbar.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/iCheck/icheck.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/skycons/skycons.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/Flot/jquery.flot.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/Flot/jquery.flot.pie.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/Flot/jquery.flot.time.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/Flot/jquery.flot.stack.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/Flot/jquery.flot.resize.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/flot.orderbars/js/jquery.flot.orderBars.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/flot-spline/js/jquery.flot.spline.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/flot.curvedlines/curvedLines.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/DateJS/build/date.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/jqvmap/dist/jquery.vmap.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/jqvmap/dist/maps/jquery.vmap.world.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/jqvmap/examples/js/jquery.vmap.sampledata.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="vendors/moment/min/moment.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="vendors/bootstrap-daterangepicker/daterangepicker.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+
+<script src="build/js/custom.min.js" type="c748e3694953262334f2fff5-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="c748e3694953262334f2fff5-|49" defer=""></script>
+</body>
+</html>

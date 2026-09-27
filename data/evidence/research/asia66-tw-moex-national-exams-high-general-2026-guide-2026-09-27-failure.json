@@ -1,0 +1,10 @@
+{
+  "sourceId": "tw-moex-national-exams",
+  "label": "high-general-2026-guide",
+  "url": "https://wwwc.moex.gov.tw/main/exam/FileHandler.ashx?File=3996&MCode=7730&PCode=5121&f=115&t=P",
+  "format": "PDF",
+  "status": "failed",
+  "path": "data/evidence/research/asia66-tw-moex-national-exams-high-general-2026-guide-2026-09-27-failure.json",
+  "attemptedAt": "2026-09-26T23:04:43.659Z",
+  "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: fetch failed"
+}

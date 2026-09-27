@@ -1,0 +1,161 @@
+{
+  "sourceId": "in-icmr-nithr-yp1-admin-2026",
+  "collectedAt": "2026-09-25T16:10:45.312Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Advertisement 05/2026-27, 21 September 2026",
+      "programme": "ICMR-NITHR Young Professional-I Administration",
+      "status": "upcoming",
+      "statusNote": "Official ICMR index and English/Hindi notices retained. Walk-in interview begins 6 October 2026 at 09:00. Notice gives no last arrival time. Age wording differs between summary ('Max.30') and Table A ('Less than 30'); founder review required.",
+      "scopeLabel": "One walk-in selection for a temporary administration contract at ICMR-NITHR, Jabalpur. Other posts under advertisement 05/2026-27 have separate role-specific notices and remain gaps.",
+      "outcome": "1 Young Professional-I (Admin) contract at ₹35,000 per month without HRA. Initial term one year, renewable one year at a time up to three years; no right to regular absorption.",
+      "qualifications": "Graduate in any discipline with at least 55% marks from a recognized university/college, plus at least one year of relevant post-qualification experience. Internships and training do not count. Notice gives conflicting boundary wording for age 30; any rule-based relaxation needs review.",
+      "citizenshipRule": "Neither retained notice states a nationality requirement or foreign-citizen route. An international applicant must verify eligibility with ICMR-NITHR before travel or application.",
+      "residenceRule": "No domicile or residence requirement is stated in retained notice. Jabalpur is interview and work location, not an applicant-residence rule.",
+      "selectionStages": [
+        "Bring filled application form and original qualification/experience documents to Jabalpur walk-in from 09:00 on 6 October",
+        "Original-document verification before interview participation",
+        "Walk-in interview and institute selection; contract engagement subject to ICMR Young Professional guidelines"
+      ],
+      "fee": "No application fee stated in retained English/Hindi notice; confirm with institute.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-06",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality route, age boundary ('Max.30' versus 'Less than 30') and any relaxation, graduate marks, one year post-qualification experience, form format and whether regular government/PSU service bars application."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify original documents, arrival procedure and any later update at ICMR-NITHR; 09:00 is interview start, not a confirmed last check-in time."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify citizenship/work authorization, one-year contract with possible extensions, no regular absorption, and final institute terms."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "published-address",
+          "name": "ICMR-NITHR, Nagpur Road, Dhanvantri Nagar, Garha, Jabalpur, Madhya Pradesh 482003",
+          "city": "Jabalpur",
+          "subdivision": "IN-MP"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_yps_eng.pdf",
+      "changes": [],
+      "id": "icmr-nithr-yp1-admin-2026",
+      "sourceId": "in-icmr-nithr-yp1-admin-2026",
+      "title": "Young Professional-I (Administration) — ICMR-NITHR",
+      "authority": "ICMR National Institute for Tribal Health Research, Jabalpur",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-MP"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-06",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Apply by attending the 6 October 2026 walk-in with completed application form and original documents. 09:00 is interview start, not a stated acceptance cutoff. No separate online application window, closing clock time or official timezone is printed."
+      },
+      "languageNote": "Strong writing skills in Hindi and English are listed as desirable, not essential. No CEFR or other formal proficiency level is stated; neither language is encoded as a mandatory deterministic rule.",
+      "salary": "₹35,000 monthly consolidated, no HRA.",
+      "workLocations": [
+        "ICMR-NITHR, Jabalpur, Madhya Pradesh"
+      ],
+      "sources": [
+        {
+          "id": "in-icmr-nithr-yp1-admin-2026:d4b4e2e004d1",
+          "title": "ICMR employment opportunities index: NITHR Young Professional-I (Admin)",
+          "authority": "Indian Council of Medical Research, Ministry of Health and Family Welfare",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.icmr.gov.in/employment-opportunities",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/employment-opportunities",
+          "sha256": "7b8187ce5065eb5fc130aa00bca924e864ca620ea22ebe3236c37711346d9cec",
+          "lastSuccessfulFetchAt": "2026-09-25T16:10:47.295Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nithr-yp1-admin-2026:5ce98af18ea0",
+          "title": "ICMR-NITHR advertisement 05/2026-27, Young Professional-I (Admin)",
+          "authority": "Indian Council of Medical Research, Ministry of Health and Family Welfare",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_yps_eng.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_yps_eng.pdf",
+          "sha256": "90f4b1a5ef1c231646888ea4651bf244df75f4142f19540f922298a7771a8885",
+          "lastSuccessfulFetchAt": "2026-09-25T16:10:47.980Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-icmr-nithr-yp1-admin-2026:6cadd0b68a03",
+          "title": "ICMR-NITHR Young Professional-I (Admin), Hindi notice",
+          "authority": "Indian Council of Medical Research, Ministry of Health and Family Welfare",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_ypshindi.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_ypshindi.pdf",
+          "sha256": "c232bc0999d94ea8761719331d6125b22568427e2f2d3f9c27fdd89ea8f07ec1",
+          "lastSuccessfulFetchAt": "2026-09-25T16:10:49.570Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "in-person"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.icmr.gov.in/employment-opportunities",
+      "fetchedAt": "2026-09-25T16:10:47.295Z",
+      "sha256": "7b8187ce5065eb5fc130aa00bca924e864ca620ea22ebe3236c37711346d9cec",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 128834
+    },
+    {
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_yps_eng.pdf",
+      "fetchedAt": "2026-09-25T16:10:47.980Z",
+      "sha256": "90f4b1a5ef1c231646888ea4651bf244df75f4142f19540f922298a7771a8885",
+      "contentType": "application/pdf",
+      "bytes": 381281
+    },
+    {
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_ypshindi.pdf",
+      "fetchedAt": "2026-09-25T16:10:49.570Z",
+      "sha256": "c232bc0999d94ea8761719331d6125b22568427e2f2d3f9c27fdd89ea8f07ec1",
+      "contentType": "application/pdf",
+      "bytes": 470617
+    }
+  ],
+  "warnings": [
+    "This is a walk-in on 6 October, not an online deadline. 09:00 is start time; no last arrival time or official timezone is specified.",
+    "Notice summary says Max.30 years while Table A says less than 30; age boundary and relaxation must be resolved before approval.",
+    "Hindi/English writing is desirable, without a formal level. Nationality and foreign-citizen eligibility are unstated.",
+    "NIRTH institutional vacancy page could not be checked by project collector because its robots.txt returned non-text content; later institute-only corrigenda remain a gap.",
+    "Published street address has no verified coordinates, so it is shown in details without a map pin.",
+    "Other role-specific notices sharing advertisement 05/2026-27 remain uncollected; this one role counts once."
+  ],
+  "approvalRevisions": {
+    "icmr-nithr-yp1-admin-2026": {
+      "evidenceRevision": "0b67007e34915ee1cd1b5d6c5726bc2134bcf42363e8a7c56bbf2604c03d4194",
+      "recordRevision": "be69c0e8267617ac7f6ed9d5be51d48040331ffd38fe06715da6c36b79e8b47c"
+    }
+  }
+}

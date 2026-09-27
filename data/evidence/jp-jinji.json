@@ -1,9 +1,16 @@
 [
  {
   "url": "https://www.jinji.go.jp/saiyo/siken/jyukennannnaiichiran.html",
-  "fetchedAt": "2026-09-24T17:08:02.312Z",
+  "fetchedAt": "2026-09-25T13:08:21.362Z",
   "sha256": "9e603a0e0605689d1d71ac8b8cef3b92f8e8e6724b597dc09692bbc0b904bffd",
   "bytes": 48126,
   "contentType": "text/html"
+ },
+ {
+  "url": "https://www.jinji.go.jp/content/900036094.pdf",
+  "fetchedAt": "2026-09-25T13:08:23.059Z",
+  "sha256": "743add69aa699f3126d2003c9f2e4b80534dbd32dc0f9b00a9b651dc2a13512e",
+  "bytes": 1622693,
+  "contentType": "application/pdf"
  }
 ]

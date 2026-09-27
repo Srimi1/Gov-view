@@ -1,0 +1,79 @@
+[
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=0",
+  "fetchedAt": "2026-09-24T20:48:51.703Z",
+  "sha256": "693df33f99bfe460d96f11be4a557ac79e90d8ccd4fdec07ba538ba8ad84309c",
+  "bytes": 69631,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=1",
+  "fetchedAt": "2026-09-24T20:48:52.439Z",
+  "sha256": "e13f2221925a61e9f942f5ee5d2fb78f5b772c54015de22d862e7865bb86e4d0",
+  "bytes": 70448,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=2",
+  "fetchedAt": "2026-09-24T20:48:53.482Z",
+  "sha256": "c3623af82b7ef9b6a8c05815211c4023a0a3f51f11b28b1cec31661c558d0280",
+  "bytes": 70540,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=3",
+  "fetchedAt": "2026-09-24T20:48:54.528Z",
+  "sha256": "35423263e45c44210d2c7caf9c0e162d1f90d7fc88c314ad274d3f031f6bbfc9",
+  "bytes": 72681,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=4",
+  "fetchedAt": "2026-09-24T20:48:55.356Z",
+  "sha256": "83a8e38dd0b6b3dbffee2543d44a32cbeb2ddc473697e4e781f910e341e32976",
+  "bytes": 70334,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=5",
+  "fetchedAt": "2026-09-24T20:48:56.316Z",
+  "sha256": "2a9d1d163642272857acd3ea901f7a7248db0d6c1b2ced3d893808c1321dc0cc",
+  "bytes": 70394,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/recruitment?page=6",
+  "fetchedAt": "2026-09-24T20:48:57.335Z",
+  "sha256": "1e1563cbc22d03fcbe4b5010946523a491811c938c2d71c0b572fb664bf5a582",
+  "bytes": 61107,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/28_2026.pdf",
+  "fetchedAt": "2026-09-24T20:49:00.360Z",
+  "sha256": "ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23",
+  "bytes": 395898,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/27_2026_0.pdf",
+  "fetchedAt": "2026-09-24T20:49:01.717Z",
+  "sha256": "fc014b8204cdf44e845011ab49375775c2e60aeb76982ab2e6f5e5bc5ec25f1e",
+  "bytes": 448276,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2026.pdf",
+  "fetchedAt": "2026-09-24T20:49:06.139Z",
+  "sha256": "5182d2694169aa10e7675696560b6dfdf021c94dfb9c92ecee8e68f55452965d",
+  "bytes": 709886,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/25_2026.pdf",
+  "fetchedAt": "2026-09-24T20:49:08.233Z",
+  "sha256": "8589b6c894c3bbebfcf6c26c473a2b614c0b21cd56e17d1857aa3db42265fd10",
+  "bytes": 697414,
+  "contentType": "application/pdf"
+ }
+]

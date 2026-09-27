@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://www.isro.gov.in/ViewAllOpportunities.html",
+  "fetchedAt": "2026-09-25T14:16:28.784Z",
+  "sha256": "3114be5c9534f46a2cd64134d2d661f4f02b15315454b8c7aefe8e8e46eaab8a",
+  "bytes": 167688,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.isro.gov.in/SACRecruitment21.html",
+  "fetchedAt": "2026-09-25T14:16:29.769Z",
+  "sha256": "47874f43cab41928944b28d0b06b0d35b952278b63cd501443645b19380566ff",
+  "bytes": 6147,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Sept/SAC_02_2026_dated_09092026.pdf",
+  "fetchedAt": "2026-09-25T14:16:31.240Z",
+  "sha256": "e62701a149048b6048a354e2ee10f0eabd53c1976638082074acfb1a4aca04c9",
+  "bytes": 1280652,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "cycleId": "tnpsc-2026-8",
+  "reviewStatus": "pending",
+  "documentUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+  "sha256": "d014bd2b20613c2a3f05acbcdbd83314c73be59582390c8d18912a77cda3e182",
+  "extractedAt": "2026-09-24T19:56:07.366Z",
+  "method": "Agent-assisted reading of retained PDF; founder review required before publication",
+  "rules": {
+    "complete": false,
+    "asOn": null,
+    "languages": [
+      {
+        "language": "ta",
+        "stage": "apply",
+        "requirement": "Tamil knowledge must meet the notification’s education or TNPSC language-test conditions. Accepted evidence includes study with Tamil as a language, specified Tamil-medium education, or the TNPSC Second Class Language Test (Full Test). Evidence is requested with the application. Clause 4.4.3 allows some appointees without uploaded evidence to pass that test within two years of appointment, but excludes posts 1695, 1694, 3799 and 3833 from that provision. Confirm the chosen post and applicable exception. No CEFR/JLPT equivalence is specified.",
+        "evidence": "Notification 8/2026, clauses 4.4.1–4.4.3, printed pages 15–16. Alternatives and post exceptions require manual verification.",
+        "sourceUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf",
+        "certificateRequired": true
+      },
+      {
+        "language": "ta",
+        "stage": "selection",
+        "requirement": "Paper I Part A is a Tamil eligibility test at SSLC standard: 100 questions, 150 marks. At least 40% (60 marks) is required before other listed papers/parts are evaluated. Candidates claiming the disability exemption must declare it in the application and upload the prescribed certificate. This is a notice-specific examination requirement, not a CEFR or JLPT level.",
+        "evidence": "Notification 8/2026, examination scheme on printed pages 19–21, clauses 6.3 and 6.5, and Annexure III on printed page 52.",
+        "sourceUrl": "https://tnpsc.gov.in/document/english/CTSE%20(Interview%20Posts)%20%20English.pdf"
+      }
+    ]
+  }
+}

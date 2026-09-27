@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://jkpsc.nic.in/Default.aspx",
+  "fetchedAt": "2026-09-25T15:56:18.732Z",
+  "sha256": "72c113fd0c65b5431f0f6abfaaec86d505a8c87cbdd7bd42b03e8781251e8875",
+  "bytes": 167236,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
+  "fetchedAt": "2026-09-25T15:56:21.919Z",
+  "sha256": "93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f",
+  "bytes": 4457815,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18028&type=n",
+  "fetchedAt": "2026-09-25T15:56:23.742Z",
+  "sha256": "2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469",
+  "bytes": 631586,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18039&type=n",
+  "fetchedAt": "2026-09-25T15:56:25.675Z",
+  "sha256": "e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2",
+  "bytes": 598991,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18041&type=n",
+  "fetchedAt": "2026-09-25T15:56:27.669Z",
+  "sha256": "86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259",
+  "bytes": 468993,
+  "contentType": "application/pdf"
+ }
+]

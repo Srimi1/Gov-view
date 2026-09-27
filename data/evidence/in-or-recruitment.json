@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://opsc.gov.in/Public/OPSC/Default.aspx",
+  "fetchedAt": "2026-09-24T22:16:32.659Z",
+  "sha256": "9497b122c0c83a3120cdc7f2b7209405adb040110582d33db7cbbd378604e04e",
+  "bytes": 42637,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://opsc.gov.in/Public/OPSC/Default.aspx",
+  "fetchedAt": "2026-09-24T22:16:39.673Z",
+  "sha256": "6fd057e3f361be611558e575c3e6ba391fce274a2986062d691b64f41fb046e8",
+  "bytes": 10735645,
+  "contentType": "Application/pdf"
+ }
+]

@@ -1,0 +1,222 @@
+{
+  "sourceId": "bt-rcsc-bcse-2026",
+  "collectedAt": "2026-09-25T15:40:40.997Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "BCSE 2026 registration",
+      "programme": "Bhutan Civil Service Examination",
+      "status": "closed",
+      "statusNote": "Official RCSC registration announcement, initial vacancies and later reprioritisation retained. Registration closed 7 July 2026; October Main Examination is a later selection stage, not a reopened application window. Founder review pending.",
+      "scopeLabel": "National Bhutan Civil Service Examination. Registration is one combined cycle; service categories and vacancies are later preferences, not separate registration counts.",
+      "outcome": "Original June announcement listed 711 provisional opportunities. August reprioritisation lists 742 vacancies: 65 Administration, 40 Finance, 427 Technical, 60 Education PGDE and 150 Education B.Ed. Allocation depends on examination results and later placement.",
+      "qualifications": "Generally a recognized full-time bachelor's degree of at least three years, with documented equivalent Shedra or validated two-year routes. Field requirements differ for Administration, Finance, Education, Technical and Dzongkha categories. Age normally up to 35 for registration; existing in-service civil servants up to 45 require exceptional approval. Verify each route before deciding eligibility.",
+      "citizenshipRule": "RCSC requires an original valid Bhutanese Citizenship Identity Card for document verification and Main Examination confirmation. No foreign-citizen alternative is in the retained announcement. Whether the registration form accepts a foreign national is not separately stated; foreign citizens cannot satisfy the published selection-stage document requirement.",
+      "residenceRule": "Announcement does not state a residence or domicile requirement. Exam and verification locations are not applicant-residence restrictions.",
+      "selectionStages": [
+        "Online BCSE registration and e-admit-card confirmation, 8 June–7 July 2026",
+        "Preliminary Examination unless an official professional exemption applies",
+        "Original Bhutanese Citizenship Identity Card and academic-document verification before Main Examination",
+        "Main Examination: written papers, academic achievement and viva voce; minimum 50% ME score plus rank and vacancies for placement",
+        "Medical certificate and negative drug test before appointment"
+      ],
+      "fee": "No registration fee stated in retained announcement. Nu. 5,000 administrative fee applies only to withdrawal after selection confirmation and before oath-taking; it is not an application fee.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "BT"
+          ],
+          "stage": "selection",
+          "evidence": "RCSC BCSE 2026 announcement, page 5, Section E: original valid Bhutanese Citizenship Identity Card required for Main Examination document verification."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check degree duration and recognition, service-specific field, age 35 or approved in-service exception up to 45, complete registration and e-admit card. No precise closing time is published."
+          },
+          {
+            "stage": "selection",
+            "text": "Check Bhutanese Citizenship Identity Card, PE pass or documented exemption, English/Dzongkha examination requirements, original degree documents and assigned venue."
+          },
+          {
+            "stage": "outcome",
+            "text": "Check ME minimum 50%, merit rank, reprioritised vacancy allocation, medical and drug-test certificates, and final appointment terms."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Individual PE/ME venue requires separately assigned official notice; country scope is not an exam pin"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://bcse.rcsc.gov.bt/Login",
+      "changes": [],
+      "id": "bt-rcsc-bcse-2026",
+      "sourceId": "bt-rcsc-bcse-2026",
+      "title": "Bhutan Civil Service Examination 2026",
+      "authority": "Royal Civil Service Commission, Bhutan",
+      "pathway": "recruitment",
+      "jurisdictionCode": "BT",
+      "jurisdictionName": "Bhutan",
+      "applicationWindow": {
+        "opensOn": "2026-06-08",
+        "closesOn": "2026-07-07",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "RCSC announcement page 1: BCSE online registration system open 8 June–7 July 2026. No closing clock time or official timezone is printed; later examination dates do not extend registration."
+      },
+      "languageNote": "Preliminary Examination tests English and Dzongkha communication. Main Examination written papers vary by service, including English/Dzongkha papers. Notice gives no CEFR or standardized language-proficiency level; PE-exempt professional routes need separate stage review.",
+      "sources": [
+        {
+          "id": "bt-rcsc-bcse-2026:452a4687d01e",
+          "title": "RCSC BCSE 2026 registration article",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rcsc.gov.bt/2026/06/announcement-for-bhutan-civil-service-examination-bcse-2026/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/2026/06/announcement-for-bhutan-civil-service-examination-bcse-2026/",
+          "sha256": "82a35d5f001460e1ba0eb3c6d86cab24260782b804b51135403dd274ad435c0b",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:45.012Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "bt-rcsc-bcse-2026:7b837b5aff27",
+          "title": "RCSC BCSE 2026 six-page examination announcement",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/BCSE-2026-Announcement.docx-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/wp-content/uploads/2026/06/BCSE-2026-Announcement.docx-1.pdf",
+          "sha256": "30992031cd914f54ef40720f98aa357c263fc435e2f187a2cf734647017d33e8",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:58.194Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "bt-rcsc-bcse-2026:33757da6dcb6",
+          "title": "RCSC initial vacancy article",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rcsc.gov.bt/2026/06/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-education-service/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/2026/06/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-education-service/",
+          "sha256": "24638dfeaa7e7d5f4161d2d74188ea636e4955eb39fc7743208a0cb506f9d553",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:45.827Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "bt-rcsc-bcse-2026:68f3fd5a77f7",
+          "title": "RCSC initial vacancy notice, 711 opportunities",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/LETTER-HEAD-NEW.docx.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/wp-content/uploads/2026/06/LETTER-HEAD-NEW.docx.pdf",
+          "sha256": "c0a1602e36e99747a16d5a811ad382e3945bd3f6c385272378f16e3ec2687d2f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:49.439Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "bt-rcsc-bcse-2026:0b7317199d43",
+          "title": "RCSC reprioritised vacancy article",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://rcsc.gov.bt/2026/08/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-educationservice/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/2026/08/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-educationservice/",
+          "sha256": "aa8ad77c48fb9c8fef91e019a728e62d6cf60b2979915fa2f5c7970391a2aa22",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:46.824Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "bt-rcsc-bcse-2026:f5dd798a309a",
+          "title": "RCSC reprioritised vacancy notice, 742 opportunities",
+          "authority": "Royal Civil Service Commission, Bhutan",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://rcsc.gov.bt/wp-content/uploads/2026/08/Reprioritised-Vacancies-for-BCSE-2026-August-21-2026-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://rcsc.gov.bt/wp-content/uploads/2026/08/Reprioritised-Vacancies-for-BCSE-2026-August-21-2026-1.pdf",
+          "sha256": "58b191aa2e20df2def6310527a801dcd8abc82167b623d148629cce479030cb0",
+          "lastSuccessfulFetchAt": "2026-09-25T15:40:50.430Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://rcsc.gov.bt/2026/06/announcement-for-bhutan-civil-service-examination-bcse-2026/",
+      "fetchedAt": "2026-09-25T15:40:45.012Z",
+      "sha256": "82a35d5f001460e1ba0eb3c6d86cab24260782b804b51135403dd274ad435c0b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 482158
+    },
+    {
+      "url": "https://rcsc.gov.bt/2026/06/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-education-service/",
+      "fetchedAt": "2026-09-25T15:40:45.827Z",
+      "sha256": "24638dfeaa7e7d5f4161d2d74188ea636e4955eb39fc7743208a0cb506f9d553",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 482297
+    },
+    {
+      "url": "https://rcsc.gov.bt/2026/08/bcse-2026-vacancy-announcement-for-administration-finance-technical-and-educationservice/",
+      "fetchedAt": "2026-09-25T15:40:46.824Z",
+      "sha256": "aa8ad77c48fb9c8fef91e019a728e62d6cf60b2979915fa2f5c7970391a2aa22",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 482349
+    },
+    {
+      "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/BCSE-2026-Announcement.docx-1.pdf",
+      "fetchedAt": "2026-09-25T15:40:58.194Z",
+      "sha256": "30992031cd914f54ef40720f98aa357c263fc435e2f187a2cf734647017d33e8",
+      "contentType": "application/pdf",
+      "bytes": 3141353
+    },
+    {
+      "url": "https://rcsc.gov.bt/wp-content/uploads/2026/06/LETTER-HEAD-NEW.docx.pdf",
+      "fetchedAt": "2026-09-25T15:40:49.439Z",
+      "sha256": "c0a1602e36e99747a16d5a811ad382e3945bd3f6c385272378f16e3ec2687d2f",
+      "contentType": "application/pdf",
+      "bytes": 285597
+    },
+    {
+      "url": "https://rcsc.gov.bt/wp-content/uploads/2026/08/Reprioritised-Vacancies-for-BCSE-2026-August-21-2026-1.pdf",
+      "fetchedAt": "2026-09-25T15:40:50.430Z",
+      "sha256": "58b191aa2e20df2def6310527a801dcd8abc82167b623d148629cce479030cb0",
+      "contentType": "application/pdf",
+      "bytes": 192904
+    }
+  ],
+  "warnings": [
+    "One closed BCSE registration cycle, not 742 applications. August vacancy count revises June count and does not reopen registration.",
+    "Original Bhutanese Citizenship Identity Card is required before Main Examination; registration-form behavior for foreign citizens is not established.",
+    "English and Dzongkha are tested in PE and service-dependent ME papers; no formal language proficiency level is published.",
+    "Professional PE exemptions, degree equivalence, age exception and specific vacancy preferences need founder review.",
+    "No exact registration closing clock time, official timezone or individual examination venue is encoded."
+  ],
+  "approvalRevisions": {
+    "bt-rcsc-bcse-2026": {
+      "evidenceRevision": "8a249f996c1dfc37f34a26d76e65aa52faf01370b1b3624279b000da2c70aa8f",
+      "recordRevision": "3972affc0dbb9b25f6501a679642f97119ee55fb475cfbd44da39e9a0a7cc5c6"
+    }
+  }
+}

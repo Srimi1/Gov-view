@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="MaterialDesign/css/bootstrap.css">
+    <link rel="stylesheet" href="MaterialDesign/css/mdb.css">
+    <link rel="stylesheet" href="MaterialDesign/css/style.css">
+    <link rel="stylesheet" href="MaterialDesign/css/newsTicker.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="MaterialDesign/css/all.min.css">
+    <link rel="stylesheet" href="MaterialDesign/css/fontawesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>Advertisements</title>
+</head>
+
+<style type="text/css">
+
+.pdf{
+border-radius: 5px;
+color: rgb(237, 241, 210);
+float: right;
+margin-top: 2px;}
+
+.table tr td {
+color: #424344;
+font-size: 16px;}
+
+.tagble ul{
+font-weight: bold;}
+
+.main_page h6{
+font-weight: bold;}
+
+.searchbtn{ 
+background-color: #6e7072; 
+color: white;
+margin-top: -8px;
+margin-right: 0px;
+height: 38px;}
+
+#BtnScrollTop {
+display: none;
+position: fixed;
+bottom: 20px;
+right: 30px;
+z-index: 99;
+font-size: 18px;
+border: none;
+outline: none;
+background-color: #2B4865;
+color: white;
+cursor: pointer;
+padding: 5px;
+border-radius: 4px;
+font-size: 15px;
+}
+
+#BtnScrollTop:hover {
+background-color: #555;}
+
+.badge{
+font-size: 13px;
+font-weight: normal;
+border-radius: 5px;
+background-color: #435B66;
+padding: 6px 20px;}
+          
+
+
+/*---------------------------------------------------------------------------------css for medium and small Divices----------------------------*/
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+  
+/* .main_page {font-size: 13px;}
+
+.TopHeader h5 {font-size: 15px;}
+
+.TopHeader h6 {font-size: 12px;}
+
+.table tr td {color: #424344;
+              font-size: 13px;}
+
+.main_page h6 {font-size: 13px;}
+              font-size: 13px;} 
+
+.searchbtn {font-size: 12px;}
+
+.input-group-text {font-size: 13px;}
+} */
+
+/*---------------------------------------------------------------------------------css for Extra small Divices----------------------------*/
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+  .main_page {font-size: 13px;}
+
+.TopHeader h5 {font-size: 15px;}
+
+.TopHeader h6 {font-size: 12px;}
+
+.table tr td {color: #424344;
+              font-size: 13px;}
+
+.main_page h6 {font-size: 13px;}
+              font-size: 13px;} 
+
+.searchbtn {font-size: 12px;}
+
+.input-group-text {font-size: 13px;}
+
+ol{margin-left: -25px;}
+ } }
+
+  /*---------------------------------------------------------------------------------css for small Divices----------------------------*/
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) { }
+
+/*---------------------------------------------------------------------------------css for Medium Divices----------------------------*/
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) { }
+/*---------------------------------------------------------------------------------css for Large devices----------------------------*/
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+</style>
+
+<body>
+  <div class="modal fade" id="myLargeModal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+  <div class="modal-content">
+  
+  <h5 class="text-center mt-5" style="text-decoration: underline;">Advisory for Candidates</h5><br>
+  <h6 class="text-center" style="margin-top: -20px; margin-bottom: 20px; color: #206161;">(Regarding Upgraded Version of Recruitment Process Application, RPA Version 3.0)</h6>
+ 
+  </div> 
+  <div class="card">
+  <div class="card-body">
+  <div class="modal-body border border-success">
+  <p class="mb-1">It is hereby informed for the information of all concerned that the Sikkim Public Service Commission (SPSC) is in the process of 
+  upgrading its online recruitment portal to the Recruitment Process Application (RPA) Version 3.0 accessible at spscrecruitment.sikkim.gov.in</p><br>
+
+  <ol>
+  <li style="text-align: justify; font-size: 15px; margin-bottom: 5px; color: #1D5B79;">In view of the upgraded system, all candidates intending to apply for 
+  posts advertised by the Commission, are required to complete a one-time registration (OTR) on the RPA 3.0 portal, by following the instructions 
+  and user guidelines made available therein.</li>
+  <li style="text-align: justify; font-size: 15px; margin-bottom: 5px; color: #1D5B79;"">In order to access and link their previous applications and records in 
+  the upgraded system, candidates who have previously registered in the earlier version of the SPSC recruitment portal are advised to use the same 
+  email ID that was used during their earlier registration. This will ensure seamless migration of data and avoid duplication of candidate profiles.</li>
+  <li style="text-align: justify; font-size: 15px; margin-bottom: 5px; color: #1D5B79;"">All applicants are requested to carefully read the instructions available 
+  on the portal and complete the one-time registration before proceeding to submit online applications for any recruitment advertised by the Commission.</li>
+  <li style="text-align: justify; font-size: 15px; margin-bottom: 5px; color: #1D5B79;"">Incase of any difficulty encountered during the registration process, 
+  candidates are advised to contact the office of the Commission or email the Commission at their official email ID.</li>
+  </ol>
+
+  <P>This issue with the approval of the competent authority.</P>
+  <p class="mb-1 text-right" style="font-size: 15px;">Sd/- <br>Joint Director (IT),<br> Sikkim Public Service Commission</p>
+  
+  <button type="button" class="btn btn-secondary px-3 py-1 text-capitalize float-right" data-bs-dismiss="modal">Close</button>
+  </div>
+  </div>
+  </div>
+</div></div></div>
+
+<body>
+
+  <button onclick="topFunction()" id="BtnScrollTop" title="Go to top">Top</i></button>
+  <!---------------------------------------------------------------------Start of Header------------------------------------------------->
+  <div class="row">
+  <div class="col-12 col-sm-12 col-md-10 TopHeader">
+  <div class="media">
+  <img src="img/Gov_of_Sikkim.jpg" width="98" height="98" class="img-fluid d-none d-sm-none d-md-block" alt="Responsive img">
+  <div class="media-body header">
+  <h5 class="mt-4"><u>Sikkim Public Service Commission</u></h5>
+  <h6>M.G. Marg, Gangtok, East Sikkim</h6>
+  </div>
+  </div></div>
+  <div class="col-12 col-sm-12 col-md-2 mt-3"><img src="img/AZAM.jpg" width="120" height="120" class="img-fluid d-none d-sm-none d-md-block float-right" alt="Responsive img"></div>
+  </div>
+  </div>
+  </div><!----End of Header Container-->
+  <!---------------------------------------------------------------------Start of Navbar------------------------------------------------->
+  <nav class="navbar shadow-md navbar-expand-md navbar-light bg-lightnavbar sticky-top pb-1">
+  <div class="container">
+  <a class="navbar-brand py-2 d-block d-sm-block d-md-none" href="#">
+  <h6 class="text-center"></h6></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+      
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav ml-auto">
+  <li class="nav-item active">
+  <a class="nav-link" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home <span class="sr-only">(current)</span></a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="History.html"><i class="fa fa-book-reader" aria-hidden="true"></i> About Us</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="RTI.html"><i class="fa fa-award" aria-hidden="true"></i> R.T.I</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Image_Gallery.html"><i class="fa fa-image" aria-hidden="true"></i> Photo Gallery</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Contact_Us.html"><i class="fa fa-phone-square" aria-hidden="true"></i> Contact Us</a>  </li>
+  <li class="nav-item">
+  <a class="nav-link" href="Apply_Online.html" target="_self"><i class="fa fa-globe" aria-hidden="true"></i> Apply Online</a>  </li>
+  </ul>
+  </div>
+  </div><!----End of Nav Container-->
+  </nav>
+
+  <div class="container main_page shadow-lg">
+  <div class="row">
+  <!---------------------------------------------------------------------Start of Scrolling Message------------------------------------------------->  
+  <div class="col-12">
+  <div class="alert alert-primary p-1 my-2 shadow-none alert_scroll">
+  <marquee scrolldelay="80">
+  The Commission appeals to all concerned to rely only on the informations advertised in local newspaper through I.P.R Department and published in 
+  the official website of S.P.S.C. The candidates are also requested to kindly go through rejection list published in the website irrespective of 
+  <span style="font-weight: bold">Eligibility / Rejection.</span>
+  </marquee>  
+  </div>
+  </div>
+
+  <!----------------------------------------------------------Start of Menu----------------------------------------> 
+  <div class="col-12 col-sm-12 col-md-4 mb-2 Menu">
+  <div class="card box menu"> 
+  <div class="card-header py-2">Content</div>
+  <ul class="list-group list-group-flush px-3 pt-2 box">
+  <li class="list-group-item pl-1"><a href="Advertisement.html"><i class="fab fa-accusoft"></i> Advertisements</li></a>
+  <li class="list-group-item pl-1"><a href="Notices.html"><i class="fab fa-accusoft" aria-hidden="true"></i> Notices</li></a>
+  <li class="list-group-item pl-1"><a href="Result.html" target="new"><i class="fab fa-accusoft" aria-hidden="true"></i> Results</li></a>       
+  </ul>    
+  </div>
+  </div>
+  <!----------------------------------------------------------Start of PDF----------------------------------------> 
+  <div class="col-12 col-sm-12 col-md-8 d-none d-sm-none d-md-block mb-2">
+  <div class="card box">
+  <div class="card-header text-center">Latest Advertisements Issued By the Commission.</div>
+  <div class="card-body">Adobe Acrobat Reader is necessary. Kindly download and install Acrobat Reader to view the listed files below.<br><br>
+  <!--<button type="button" class="btn btn-sm btn-warning p-2 pdf">Download Acrobat Reader></i></button>--></div>
+  </div>
+  </div>
+  
+  <!----------------------------------------------------------Start of Filter for Table---------------------------------------->
+  <div class="col-12 col-sm-12 mb-2 mt-3">
+  <div class="row no-gutters">
+  <div class="col-12 col-sm-12 col-md-6 text-right pt-2">
+  <!--<h6>Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></h6>-->
+  <button type="button" class="btn pt-2 pb-2 searchbtn">Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></button></div>
+  <div class="col-12 col-sm-12 col-md-6"><input class="form-control" style="border-radius: 0 0 0 0 ;" id="myInput" type="text" placeholder="Search.."></div>
+  </div>
+  </div>
+
+  <!--<div class="col-12 col-sm-12 mb-2 mt-3">
+  <div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon3">Enter the Search Details&nbsp&nbsp<i class="fas fa-search"></i></span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+  </div>
+  </div>-->
+  
+  <!----------------------------------------------------------Start of Table---------------------------------------->
+ 
+  <div class="col-12 col-sm-12 mb-2 Table">
+  <div class="card box shadow-none border border-light">
+  <div class="card-header text-center">Latest Advertisements Issued By the Commission. <br>
+  <small style="color: #fcfdff;">Applicants are advised to thoroughly review the advertisement to ascertain their Eligibility</small>
+  </div>
+  <table class="table table-striped table-hover">
+  <tbody id="myTable">
+
+  <!----------------------------------------------------------VLW---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for 69 (sixty nine) posts of Village Level Workers (VLW) under Agriculture and Horticulture Department, Government of Sikkim </a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 23/SPSC/EXAM/2026</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 09/07/2026</small></div>
+<ol>
+<li class=""><a href="Advertisements/Village_Level_Worker_Adv_09_07_2026.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Village_Level_Worker_Notification_09_07_2026.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Village_Level_Worker_Syllabus_09_07_2026.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Warder---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for 37 (Thirty Seven) posts of Warder, Sikkim State Jail under Home Department</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 22/SPSC/EXAM/2026</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 17/06/2026</small></div>
+<ol>
+<li class=""><a href="Advertisements/Warder_Ad_17_06_2026.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Warder_Notification_17_06_2026.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Warder_Syllabus_17_06_2026.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Accounts Clerck Jr. Stores Keeper---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for 50 (Fifty) posts of Accounts Clerck/ Junior StoreKeeper under Finance Department</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 21/SPSC/EXAM/2026</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 15/06/2026</small></div>
+<ol>
+<li class=""><a href="Advertisements/Accounts_Clerk_Jr_Storekeeper_Add_15_06_2026.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Accounts_Clerk_Jr_Storekeeper_Notification_15_06_2026.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Accounts_Clerk_Jr_Storekeeper_Syllabus_15_06_2026.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Sub Veterinary Officer ---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for 47 (Forty Seven) posts of Veterinary Officer in the Junior Grade of Sikkim State Animal Husbandry & Veterinary Science Service </a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 20/SPSC/EXAM/2026</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 14/05/2026</small></div>
+<ol>
+<li class=""><a href="Advertisements/VO Advertisement 2026.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/VO Notification 2026.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/VO Scheme & Syllabus 2026.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Sub Labour Inspector---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for 24 (twenty four) posts of Labour Inspector under the Sikkim State Labour Service Cadre under Labour Department</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 19/SPSC/EXAM/2025</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 11/12/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Labour_Inspector_Adv_11_12_2025.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Labour_Inspector_Notification_11_12_2025.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Labour_Inspector_Syllabus_11_12_2025.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Sub Inspector Excise---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 09 Posts of Sub Inspector Excise under Excise Department.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 18/SPSC/EXAM/2025</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 05/12/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Sub_Inspector_Excise_Adv_05_12_2025.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Sub_Inspector_Excise_Notification_05_12_2025.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Sub_Inspector_Excise_Schemes_Syllabus_05_12_2025.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://spscrecruitment.sikkim.gov.in/rpaonline/login" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Under Secretary---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for fillng up of 25 post of Under Secretary under Sikkim State Civil Services</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 17/SPSC/EXAM/2025</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 05/12/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Add_Undersecretary_05_12_2025.pdf" target="new">Advertisement</a></li><hr>
+<a href="http://spscrecruitment.sikkim.gov.in" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Assistant Professor BED Coll---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 03 Posts of Assistant Professor under Sikkim Government B.Ed College, Soreng.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 15/SPSC/EXAM/2025</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 21/07/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Assistant_Professor_Bed_Coll_Adv_21_07_2025.pdf" target="new">Advertisement</a></li><hr>
+
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Assistant Professor Education---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 61 Posts of Assistant Professor under Education Department.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 16/SPSC/EXAM/2025</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 21/07/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Assistant_Professor_Education_Deptt_Adv_21_07_2025.pdf" target="new">Advertisement</a></li><hr>
+</ol>
+</td>
+</tr>
+
+
+
+<!----------------------------------------------------------Block Officer---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 18 Posts of Block Officer under Forest and Environment Department</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 11/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 17/03/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Block_Officer_Add_18_03_2025.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Block_Officer_Notification_18_03_2025.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Block_Officer_Syllabus_18_03_2025.pdf" target="new">Scheme and Syllabus</a></li><hr>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Forest Guard---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 53 Posts of Forest Guard under Forest and Environment Department</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 12/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 17/03/2025</small></div>
+<ol>
+<li class=""><a href="Advertisements/Forest_Guard_Add_18_03_2025.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/Forest_Guard_Notification_18_03_2025.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/Forest_Guard_Syllabus_18_03_2025.pdf" target="new">Scheme and Syllabus</a></li><hr>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Under Secretary---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 22 Posts of Under Secretary under Sikkim State Civil Services</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 9/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 19/12/2024</small></div>
+<ol>
+<li class=""><a href="Advertisements/Under_Secretary_Add_19_12_2024.pdf" target="new">Advertisement</a></li><hr>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Accounts Officer---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 25 Posts of Accounts Officer under Sikkim State Finance and Accounts Services</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 10/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 19/12/2024</small></div>
+<ol>
+<li class=""><a href="Advertisements/Accounts_Officer_Add_19_12_2024.pdf" target="new">Advertisement</a></li><hr>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------J.E Civil---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 100 Posts of Junior Engineer (CIVIL) under Roads and Bridges Department, Government of Sikkim.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 07/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 09/12/2024</small></div>
+<ol>
+<li class=""><a href="Advertisements/JE_Civil_Add_09_12_2024.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/JE_Civil_Notification_09_12_2024.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/JE_Civil_Schemes_Syllabus_09_12_2024.pdf" target="new">Scheme and Syllabus</a></li><hr>
+<a href="https://164.100.250.80/spsc/login.htm" target="new">
+<span class="badge badge-pill">Click to Apply</span></a></div>
+</ol>
+</td>
+</tr>
+
+<!----------------------------------------------------------Assistant Engineer (Electrical)---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement for the Post of Assistant Engineer (Electrical) under Sikkim State Electrical Servies.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 02/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 03/07/2024</small></div>
+<ol>
+<li><a href="Advertisements/Assistant_Engg_Electrical_Add_03_07_2004.pdf" target="new">Advertisement</a></li>
+<li><a href="Advertisements/Assistant_Engg_Electrical_Notification_03_07_2004.pdf" target="new">Notification</a></li>
+<li><a href="Advertisements/Assistant_Engg_Electrical_Syllabus_03_07_2004.pdf" target="new">Scheme and Syllabus</a></li>
+</td>
+<td class="dates align-middle align-middle"></td>
+</tr>
+
+<!----------------------------------------------------------J.E Mechanical---------------------------------------->
+<tr>
+<td class="pl-4"><a href="">Advertisement to the 20 Posts of Junior Engineer (MECHANICAL) under Roads and Bridges Department, Government of Sikkim.</a><br>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 08/SPSC/EXAM/2024</small></div>
+<div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 09/12/2024</small></div>
+<ol>
+<li class=""><a href="Advertisements/JE_Mechanical_Add_09_12_2024.pdf" target="new">Advertisement</a></li>
+<li class=""><a href="Advertisements/JE_Mechanical_Notification_09_12_2024.pdf" target="new">Notification</a></li>
+<li class=""><a href="Advertisements/JE_Mechanical_Schemes_Syllabus_09_12_2024.pdf" target="new">Scheme and Syllabus</a></li><hr>
+</ol>
+</td>
+<td class="dates align-middle align-middle"></td>
+</tr>
+
+<!----------------------------------------------- Medical Stores Inspector---------------------------------------------------------------->
+       
+  <tr>
+  <td class="pl-4">
+  <a href="Advertisements/Add_MedicalStoresInspector_12_01_2021.pdf" target="new">Advertisement for the posts of Medical Stores 
+  Inspector in the Sikkim State Subordinate Allied and Healthcare Service under Health &amp; Family Welfare Department, Government of Sikkim </a><br>
+  <div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Advertisement No. 01/SPSC/EXAM/2021</small></div>
+  <div class="text-center" style="color: #1D5B79;"><small style="text-align: center;">Issued Date: 12/01/2021</small></div>
+  
+  <ol>
+  <li><a href="Advertisements/Add_MedicalStoresInspector_12_01_2021.pdf" target="new">Advertisement</a></li>
+  <li class="mt-1"><a href="Advertisements/Notification &amp; Syllabus/med store insp notification.pdf" target="new">Notification</a></li>
+  <li><a href="Advertisements/Notification &amp; Syllabus/med store insp syllabus.pdf" target="new">Schemes and Syllabus</a></li>
+  </ol></td>
+</tr>
+          
+</tbody>
+</table>        
+</div>      
+</div><!-------End of Row Div-----> 
+
+<div class="col-12 col-sm-12 bg-dark copy_right"><p class="text-center my-2">
+Copyright © Sikkim Public Service Commission. All rights reserved.</p></div>
+</div><!---end of Main Container---->
+
+
+<!----------------------------------------------------------Java Script Section-------------------->
+<script src="MaterialDesign/js/jquery.js"></script>
+<script src="MaterialDesign/js/popper.js"></script>
+<script src="MaterialDesign/js/bootstrap.js"></script>
+<script src="MaterialDesign/js/mdb.js"></script>
+
+
+<!--------script for Search Details-------->
+<script>
+$(document).ready(function(){
+$("#myInput").on("keyup", function() {
+var value = $(this).val().toLowerCase();
+$("#myTable tr").filter(function() {
+$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)});
+});
+});
+</script>
+<!--------------------------- Script to return page to the top ----------------------------->
+<script>
+// Get the button
+let mybutton = document.getElementById("BtnScrollTop");
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+mybutton.style.display = "block";} 
+else {
+mybutton.style.display = "none";}
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0;}
+</script>
+
+<!-- Include Bootstrap JS and your custom script -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Show the modal after page load
+  window.addEventListener('load', function () {
+    var myModal = new bootstrap.Modal(document.getElementById('myLargeModal'));
+    myModal.show();
+  });
+</script>
+
+</body>
+</html>

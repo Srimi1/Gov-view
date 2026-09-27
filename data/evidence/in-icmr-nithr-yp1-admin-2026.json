@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://www.icmr.gov.in/employment-opportunities",
+  "fetchedAt": "2026-09-25T16:10:47.295Z",
+  "sha256": "7b8187ce5065eb5fc130aa00bca924e864ca620ea22ebe3236c37711346d9cec",
+  "bytes": 128834,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_yps_eng.pdf",
+  "fetchedAt": "2026-09-25T16:10:47.980Z",
+  "sha256": "90f4b1a5ef1c231646888ea4651bf244df75f4142f19540f922298a7771a8885",
+  "bytes": 381281,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790224152_ypshindi.pdf",
+  "fetchedAt": "2026-09-25T16:10:49.570Z",
+  "sha256": "c232bc0999d94ea8761719331d6125b22568427e2f2d3f9c27fdd89ea8f07ec1",
+  "bytes": 470617,
+  "contentType": "application/pdf"
+ }
+]

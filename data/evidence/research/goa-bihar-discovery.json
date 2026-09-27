@@ -1,0 +1,13 @@
+{
+  "recordedAt": "2026-09-24T20:32:46.324546+00:00",
+  "observations": [
+    {
+      "url": "https://bpsc.bihar.gov.in/notification-category/advertisement/",
+      "outcome": "Polite fetch exhausted its retries with fetch failed; no response body retained. This is a transient collection failure, not evidence of no recruitment or a robots restriction."
+    },
+    {
+      "url": "https://gpsc.goa.gov.in/",
+      "outcome": "Official homepage fetched and retained. Advertisements render through a public table API; no PSC connector was implemented in this continuation. Staff Selection Commission is a distinct authority."
+    }
+  ]
+}

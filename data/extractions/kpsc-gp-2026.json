@@ -1,0 +1,55 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-ka-recruitment",
+  "cycleId": "karnataka-gazetted-probationers-2026-27",
+  "indexUrl": "https://kpsc.kar.nic.in/page1a.htm",
+  "applyPageUrl": "https://kpsc.kar.nic.in/applyonline.html",
+  "applicationUrl": "https://kpsconline.karnataka.gov.in/Login/Login",
+  "vacancies": 319,
+  "opensOn": "2026-08-01",
+  "originalClosesOn": "2026-08-31",
+  "closesOn": "2026-09-07",
+  "documents": [
+    {
+      "key": "main",
+      "url": "https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf",
+      "sha256": "fb0e0920b4f97954312b1abb954202658de18a842811bf05a6f3c229d2f16ae7",
+      "pages": 90,
+      "localFile": "data/evidence/research/kpsc-gp-2026-main.pdf"
+    },
+    {
+      "key": "extension",
+      "url": "https://kpsc.kar.nic.in/corrigendum%20notification%20GP-2026.pdf",
+      "sha256": "a9ed71da8e694e31218a3cdcca6c3964d0fdf9907c0c385d247adbaa0b4b8814",
+      "pages": 1,
+      "localFile": "data/evidence/research/kpsc-gp-2026-extension.pdf"
+    },
+    {
+      "key": "extension-pressnote",
+      "url": "https://kpsc.kar.nic.in/pressnote%20gp-2026.pdf",
+      "sha256": "c31a3c45c8bb4557a2054406ad4b681accf823fdab6480ddbaa68b8d6aa0ed20",
+      "pages": 1,
+      "localFile": "data/evidence/research/kpsc-gp-2026-pressnote.pdf"
+    },
+    {
+      "key": "age-amendment",
+      "url": "https://kpsc.kar.nic.in/Pressnote%20%20GP-2026-27%20HOSTED%20ON%2013-08-2026.pdf",
+      "sha256": "33002895050801561fbf9bae7d0bf8ef7999eb957d989d4d1b8959fc638ee95f",
+      "pages": 1,
+      "localFile": "data/evidence/research/kpsc-gp-2026-age.pdf"
+    },
+    {
+      "key": "schedule",
+      "url": "https://kpsc.kar.nic.in/Time%20Table%20GP%202026-27%20HOSTED%20ON%2031-07-2026.pdf",
+      "sha256": "431a18956e5b7e5dfb332d641520196b9c100d5bbeba0c86b9190d9fa6c12c96",
+      "pages": 1,
+      "localFile": "data/evidence/research/kpsc-gp-2026-schedule.pdf"
+    }
+  ],
+  "evidenceNotes": [
+    "KPSC's bilingual index states 319 Group A/B Gazetted Probationer posts for 2026-27 and a later extension to 7 September 2026. The original Kannada notice page 3 lists 1-31 August applications; the scanned corrigendum changes the closing date. No cutoff clock time was verified.",
+    "Original notice PDF pages 18-19 contain a bilingual main-exam scheme: separate Kannada and English qualifying papers, 150 marks each, at least 35% (52.5) in each; first-language SSLC standard. No CEFR level is published.",
+    "Main PDF is largely Kannada. Citizenship, residence, post-specific qualifications and age-amendment details have not been sufficiently verified for automated eligibility. International applicants need official/founder confirmation.",
+    "An older press-note page includes a no-extension announcement; the current top index lists a later formal corrigendum extending applications. Founder should confirm chronology and any subsequent updates before approval."
+  ]
+}

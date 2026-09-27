@@ -1,0 +1,338 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 75,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "territoryAccounting": "AS and MP use existing separate jurisdiction codes; not added again as US-country sources.",
+  "regionalScope": "Tokyo and Hokkaido regional authorities are labelled in text; Japan subdivision UI inventory does not yet exist.",
+  "storagePolicy": "No writes to data/evidence; cap and collection pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "jp-tokyo-metropolitan-recruitment",
+      "country": "JP",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "jp-tokyo-metropolitan-recruitment",
+        "name": "Japan — Tokyo Metropolitan Government staff recruitment",
+        "country": "JP",
+        "authority": "Tokyo Metropolitan Government — Personnel Commission",
+        "homepage": "https://www.saiyou2.metro.tokyo.lg.jp/pc/",
+        "discoveredFrom": "https://www.metro.tokyo.lg.jp/recruitment",
+        "notes": "Research only; Tokyo metropolitan scope. Current 2026 experienced-recruitment guide requires Japanese nationality, age and education-dependent work experience; overseas-residence FAQ does not override nationality. Administration, civil engineering, architecture, mechanical, electrical and ICT occupations. Third intake original window 24 September 10:00–4 November 15:00, 2026; timezone unestablished. Only one intake/occupation per year permitted. SPI3-G, documents and interviews are selection methods, not language levels. No formal Japanese threshold established. Other temporary, part-time and specialist routes need separate notices; tenure unverified.",
+        "accessGap": "Reader-only discovery; no retained original bytes, accepted connector, health timestamp or published cycle. Recruitment homepage reader returned 403 but ordinary browser rendered it. Current linked 26-page guide was readable; exact bytes, amendments and translation acceptance remain pending. General English nationality-relaxation overview cannot override this guide's Japanese-nationality requirement. Residence abroad is separate from citizenship. Qualification/experience tables, post conditions and appointment terms need review. No account, profile or application submitted.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "experienced metropolitan staff recruitment across six occupation groups; exact tenure unverified",
+      "internationalApplicantAssessment": "2026 experienced-recruitment guide requires Japanese nationality; overseas residence allowed only when all exam criteria met; other routes require separate evidence",
+      "languageAssessment": "SPI3-G and individual interviews stated; no formal Japanese proficiency level established",
+      "documents": [
+        {
+          "url": "https://www.metro.tokyo.lg.jp/recruitment",
+          "label": "Government referral to staff, digital and teacher recruitment",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.saiyou2.metro.tokyo.lg.jp/pc/",
+          "label": "Current official staff recruitment home",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-403; browser-accessible",
+          "observedNewsDate": "2026-09-24",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.saiyou2.metro.tokyo.lg.jp/pc/faq/",
+          "label": "Overseas residence FAQ, expanded in browser",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "browser-accessible",
+          "residenceAnswerDoesNotOverrideNationality": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.saiyou2.metro.tokyo.lg.jp/pc/selection/rw08/section-mid.html",
+          "label": "2026 experienced-recruitment schedule and occupations",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "browser-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.saiyou.metro.tokyo.lg.jp/documents/d/saiyou/mid_08annai",
+          "label": "2026 experienced-recruitment original guide",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible-pdf",
+          "publishedDate": "2026-04-23",
+          "readerPageCount": 26,
+          "observedApplicationOpening": "2026-09-24",
+          "observedOpeningClock": "10:00",
+          "observedApplicationClose": "2026-11-04",
+          "observedCutoffClock": "15:00",
+          "officialTimezone": null,
+          "deadlineAccepted": false,
+          "nationalityCriterionObserved": "Japanese nationality required, printed page 6",
+          "oneIntakeOccupationPerYear": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "jp-hokkaido-prefecture-recruitment",
+      "country": "JP",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "jp-hokkaido-prefecture-recruitment",
+        "name": "Japan — Hokkaido Prefecture staff recruitment",
+        "country": "JP",
+        "authority": "Hokkaido Government — Personnel Commission Appointment Division",
+        "homepage": "https://www.pref.hokkaido.lg.jp/hj/nny/index.html",
+        "discoveredFrom": "https://www.pref.hokkaido.lg.jp/hj/nny/index.html",
+        "notes": "Research only; prefectural recruitment, separate from national-government jobs in Hokkaido. Official page links outsourced Public Connect guidance. Selected 2026 disability/designated-disease recruitment notice excludes non-Japanese candidates; this cannot become a ban for every Hokkaido employment route. Applications closed 21 July; 27 September test is not a fresh application window. General/education/police administration and municipal school-office outcomes differ. Written general knowledge and individual interview; no formal Japanese level stated. Appointment tenure unverified.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Exact current general notices, originals, translations and amendments need review. Selected route has age and category-document conditions independent of nationality. Foreign-residence ID listed for result disclosure does not grant exam eligibility. Multiple test cities never inflate cycle counts. Public Connect identity is supported by official government referral; platform account creation not attempted. Do not infer venue pins or universal language threshold.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "selected closed notice includes prefectural administration and municipal school-office employment; tenure unknown",
+      "internationalApplicantAssessment": "selected 2026 disability/designated-disease recruitment notice explicitly excludes non-Japanese candidates; no all-route conclusion",
+      "languageAssessment": "general-knowledge written test and individual interview; no mandatory JLPT or CEFR threshold established",
+      "documents": [
+        {
+          "url": "https://www.pref.hokkaido.lg.jp/hj/nny/index.html",
+          "label": "Official Appointment Division and outsourced guide referral",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "examDayNotice": "2026-09-27",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://public-connect.jp/employer/76239/news/2742",
+          "label": "Government-linked 2026 recruitment overview",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "publishedDate": "2026-02-20",
+          "overviewNotIndividualNotice": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.pref.hokkaido.lg.jp/hj/nny/261314.html",
+          "label": "2026 disability/designated-disease selection text",
+          "sourceLanguage": "Japanese",
+          "readerStatus": "reader-accessible",
+          "observedApplicationOpening": "2026-06-15",
+          "observedApplicationClose": "2026-07-21",
+          "officialTimezone": null,
+          "observedCutoffClock": null,
+          "deadlineAccepted": false,
+          "nationalityCriterionObserved": "Non-Japanese candidates cannot enter this selection",
+          "notCurrentApplicationWindow": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "as-government-public-recruitment",
+      "country": "AS",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "as-government-public-recruitment",
+        "name": "American Samoa — Government job listings",
+        "country": "AS",
+        "authority": "American Samoa Government — Department of Human Resources and recruiting departments",
+        "homepage": "https://www.americansamoa.gov/jobs",
+        "discoveredFrom": "https://www.americansamoa.gov/",
+        "notes": "Research only. Official jobs page links Treasury, vocational rehabilitation, Public Health, Corrections and Medicaid notices plus government application form. Browser shows two Treasury entries absent from earlier search-reader excerpt; inventory incomplete. Counselor closing text is malformed 10/09/206, not repaired to 2026. Grade labels and annual salaries do not establish tenure. Individual originals, international-applicant criteria and language levels unverified. American Samoa is separate from independent Samoa and other US jurisdictions.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Exact linked PDFs and amendments require review; selected Public Health PDF unavailable to reader. Preserve malformed date/salary text and indexed/live inventory difference, rather than treating a search excerpt as complete coverage. Application instructions do not establish foreign-citizen permission, visa sponsorship or proficiency. No cutoff clock/timezone or exam venue inferred; no applicant information sent.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "government department job listings with grade/pay labels; permanent, temporary or contract terms unknown",
+      "internationalApplicantAssessment": "needs verification; no individual current original nationality or immigration requirement accepted",
+      "languageAssessment": "needs verification; English page language is not applicant proficiency evidence",
+      "documents": [
+        {
+          "url": "https://www.americansamoa.gov/",
+          "label": "Official government home and jobs referral",
+          "sourceLanguage": "English",
+          "readerStatus": "official-search-index-accessible",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.americansamoa.gov/jobs",
+          "label": "Official jobs index, browser inventory and malformed date",
+          "sourceLanguage": "English",
+          "readerStatus": "initial-reader-accessible; later-reader-error; browser-accessible",
+          "completeNoticeInventory": false,
+          "malformedDeadlineText": "10/09/206",
+          "malformedDeadlineAccepted": false,
+          "indexedLiveInventoryDisagreement": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.americansamoa.gov/_files/ugd/36d1c0_c3e928fbdb5c479a9ab195d44d93d6db.pdf",
+          "label": "Linked Public Health Screener I notice",
+          "sourceLanguage": "unverified",
+          "readerStatus": "reader-unavailable",
+          "individualNoticeRead": false,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mp-opm-public-recruitment",
+      "country": "MP",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mp-opm-public-recruitment",
+        "name": "Northern Mariana Islands — Office of Personnel Management vacancies",
+        "country": "MP",
+        "authority": "Commonwealth of the Northern Mariana Islands — Office of Personnel Management",
+        "homepage": "https://www.opm.cnmi.gov/vacancies.html",
+        "discoveredFrom": "https://www.opm.cnmi.gov/",
+        "notes": "Research only. Official OPM home and vacancy route identified through dated official search index. Current reader access fails and ordinary browser reports certificate-name mismatch. Closed 2025 Supply Specialist IV announcement is historical, not a 2026 intake. Its open-competitive/promotional eligible-list wording does not establish appointment tenure. Equal-opportunity wording cannot establish foreign-citizen permission or prohibition. Language level and current notice inventory unverified.",
+        "accessGap": "Reader-only discovery; no original bytes retained, accepted connector, health timestamp or published cycle. Browser certificate error was not bypassed or downgraded. Secure current portal access and exact notices remain gaps; old indexed records do not prove a complete/empty current inventory. Historical PDF has no extractable reader text and full visual reading did not complete. Citizenship/national status, residence/work permission, civil versus excepted service and language requirements need current original review. MP jurisdiction is CNMI, not India subdivision IN-MP.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "appointmentType": "historical eligible-list competition; current civil/excepted-service term unverified",
+      "internationalApplicantAssessment": "needs verification; equal-opportunity statement alone is not an eligibility rule",
+      "languageAssessment": "needs verification; English indexed text is not a mandatory level",
+      "documents": [
+        {
+          "url": "https://www.opm.cnmi.gov/",
+          "label": "Official central OPM identity",
+          "sourceLanguage": "English",
+          "readerStatus": "dated-official-search-index-only; direct-reader-error",
+          "indexCrawlAge": "seven months; not current fetch",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.opm.cnmi.gov/vacancies.html",
+          "label": "Official vacancy directory",
+          "sourceLanguage": "English",
+          "readerStatus": "dated-official-search-index-only; reader-error; browser-certificate-error",
+          "browserError": "net::ERR_CERT_COMMON_NAME_INVALID",
+          "certificateWarningBypassed": false,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://opm.cnmi.gov/assets/docs/vacancies/25-137.pdf",
+          "label": "Historical Supply Specialist IV announcement 25-137",
+          "sourceLanguage": "English indexed text",
+          "readerStatus": "official-search-index; PDF-reader-zero-lines; visual-read-incomplete",
+          "observedApplicationOpening": "2025-10-17",
+          "observedApplicationClose": "2025-10-31",
+          "deadlineAccepted": false,
+          "notCurrentOpportunity": true,
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

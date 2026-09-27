@@ -1,0 +1,28 @@
+{
+  "reviewStatus": "manual-research-only",
+  "checkedOn": "2026-09-25",
+  "officialIndex": "https://py.gov.in/recruitment",
+  "robotsStatus": "https://py.gov.in/robots.txt redirects HTTP 302 to /warning (HTML). Collector cannot establish text/plain robots rules, so no automated connector is enabled.",
+  "notices": [
+    {
+      "title": "Planning and Research Joint Director, Group A — deputation",
+      "pdfUrl": "https://py.gov.in/sites/default/files/prd10092026rec.pdf",
+      "sha256": "78022a8ed8bfa2f5ad71b0e8a49c9894744555e4555be100b043d0a27b846cbd",
+      "printedApplicationEnd": "2026-11-11",
+      "jobType": "Three government deputation posts, restricted to eligible serving officers of government, statutory or autonomous bodies, or public-sector undertakings.",
+      "internationalApplicant": "Foreign-citizen permission is not established; existing qualifying service is mandatory.",
+      "language": "Speaking knowledge of Tamil is desirable, not stated as mandatory or a formal proficiency level.",
+      "publicationStatus": "not staged or published"
+    },
+    {
+      "title": "Pondicherry Institute of Hotel Management and Catering Technology — Assistant Lecturer",
+      "pdfUrl": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
+      "sha256": "17c17620c70d10df6441b1a89327dfa173d54a8c7e73a3f1d5496351b9e156fe",
+      "printedApplicationEnd": "2026-10-25",
+      "jobType": "Three contractual Assistant Lecturer positions at a government-sponsored institute.",
+      "internationalApplicant": "Notice allows AIU-recognized equivalent foreign degrees in one qualification route, but states no foreign-citizen permission; application form requests nationality.",
+      "language": "No mandatory language proficiency or formal level printed in reviewed PDF.",
+      "publicationStatus": "not staged or published"
+    }
+  ]
+}

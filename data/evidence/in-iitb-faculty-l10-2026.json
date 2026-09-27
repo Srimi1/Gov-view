@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://www.iitb.ac.in/career/apply",
+  "fetchedAt": "2026-09-25T10:47:26.910Z",
+  "sha256": "e0c9175f78712a0e775ac9fabb05eb721dff2fbeb6b35de70dd100e077706945",
+  "bytes": 157957,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.iitb.ac.in/job-vacancy-ad/rolling-advertisement-no-l-1025-26",
+  "fetchedAt": "2026-09-25T10:47:27.859Z",
+  "sha256": "1f79e45fbeb79beb1e6066882c688f05a36eb35efe52494fb0be425b2a58ecf8",
+  "bytes": 171490,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.iitb.ac.in/sites/default/files/2026-04/Eligibility%20criteria%20for%20Rolling%20advertisement%20No.L-10%20for%20Assistant%20Professor_Associate%20Professor_Professor.pdf",
+  "fetchedAt": "2026-09-25T10:47:28.940Z",
+  "sha256": "f00b45445ede7c0cf1f2d810bd4b94e9fd404f9bd160903c737a6d852eda3cb0",
+  "bytes": 290786,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.iitb.ac.in/sites/default/files/2026-01/Areas%20of%20Specialization%20for%20Rolling%20Advertisement%20No.L-10.pdf",
+  "fetchedAt": "2026-09-25T10:47:29.857Z",
+  "sha256": "74986a331d00a8aa07bf1e98d237b34bd2e3a8003bf04cae3e078a2508193868",
+  "bytes": 119740,
+  "contentType": "application/pdf"
+ }
+]

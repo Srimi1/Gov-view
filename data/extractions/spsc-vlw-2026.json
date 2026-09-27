@@ -1,0 +1,21 @@
+{
+  "reviewStatus": "pending",
+  "advertisement": "23/SPSC/EXAM/2026",
+  "indexUrl": "https://spsc.sikkim.gov.in/Advertisement.html",
+  "noticesUrl": "https://spsc.sikkim.gov.in/Notices.html",
+  "applicationUrl": "https://spscrecruitment.sikkim.gov.in/rpaonline/login",
+  "documents": [
+    { "key": "advertisement", "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Adv_09_07_2026.pdf", "sha256": "d7b034b5b9c200db939b6255c707383c3155cfb0b2e26d18f1fcfd6b2bd32e86" },
+    { "key": "notification", "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Notification_09_07_2026.pdf", "sha256": "cdd7e95758a523cbe60eb2e2a202bbdcb834afd02adb2a3876686d3a9b031e16" },
+    { "key": "syllabus", "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Syllabus_09_07_2026.pdf", "sha256": "2c511ec605826028186612ff38da5cd5ec9121a9668f30b432350f849f955155" }
+  ],
+  "closesOn": "2026-08-31",
+  "ageAsOn": "2026-08-31",
+  "vacancies": 69,
+  "notes": [
+    "Advertisement pages 1-2 scanned; OCR is a reading aid. Page 2 was visually checked for deadline, degree, age, language, Sikkim Subject/Identification Certificate, and Local Employment Card.",
+    "Notice invites eligible local candidates. It gives no explicit national citizenship rule. A foreign citizen's ability to hold the required Sikkim certificates needs official verification.",
+    "Must read, write and speak one State language; advertisement does not list languages or a formal level. Do not infer CEFR or treat English examination text as a proficiency requirement.",
+    "Only closing date is printed. No opening date or cutoff clock time is claimed."
+  ]
+}

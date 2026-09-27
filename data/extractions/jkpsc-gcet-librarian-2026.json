@@ -1,0 +1,20 @@
+{
+  "homepageUrl": "https://jkpsc.nic.in/Default.aspx",
+  "originalUrl": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
+  "originalSha256": "93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f",
+  "corrigendumUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18028&type=n",
+  "corrigendumSha256": "2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469",
+  "augustExtensionUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18039&type=n",
+  "augustExtensionSha256": "e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2",
+  "septemberExtensionUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18041&type=n",
+  "septemberExtensionSha256": "86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259",
+  "notification": "07-PSC (DR-P) of 2026",
+  "opensOn": "2026-08-01",
+  "originalClosesOn": "2026-08-31",
+  "augustExtendedClosesOn": "2026-09-14",
+  "closesOn": "2026-09-18",
+  "eligibilityCutoffOn": "2026-08-31",
+  "vacancies": 1,
+  "reservation": "SC backlog",
+  "note": "Exact scanned PDFs visually reviewed on pages 1-3, with OCR of all seven original pages and both extension/corrigendum pages. This extraction covers only GCET Librarian item 4 in notification 07; three Assistant Professor rows and notifications 05/06 remain gaps."
+}

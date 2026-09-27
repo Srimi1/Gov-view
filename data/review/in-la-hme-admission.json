@@ -1,0 +1,173 @@
+{
+  "sourceId": "in-la-hme-admission",
+  "collectedAt": "2026-09-25T00:52:24.496Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Notification 758-DHSL/2026 · 2026–27",
+      "programme": "Ladakh Central Pool medical seats",
+      "status": "open",
+      "statusNote": "Official HME portal announces 23–29 September 2026 applications; closing clock time is not stated. Founder review pending.",
+      "scopeLabel": "Union Territory of Ladakh quota; allotted colleges are in other Indian states",
+      "outcome": "Selection for 7 MBBS or 2 BDS Central Pool seats, subject to NEET merit and college allotment",
+      "qualifications": "Valid NEET 2026 score at the minimum applicable category threshold, plus Government of India medical admission qualifications. Ladakh quota guideline requires child of a permanent Ladakh resident, or a qualifying posted-employee child who passed classes 10 and 12 at a recognized institution in Ladakh (notice pp. 15–16).",
+      "citizenshipRule": "Nationality is not stated in the Ladakh quota notice or amended local eligibility clause. Foreign-national Central Pool seats mentioned in general guidelines use a separate Ministry of External Affairs allocation; international-applicant eligibility for this Ladakh quota needs authority confirmation.",
+      "residenceRule": "Parent must meet the Ladakh permanent-resident route (15 years of residence), or the applicant must meet the posted-employee child route and Ladakh class 10/12 schooling conditions. Check original guidelines pp. 15–16; applicant's current address alone cannot decide this.",
+      "selectionStages": [
+        "Online application plus signed/scanned documents to the notice email",
+        "Eligibility and document scrutiny",
+        "Common merit list by NEET 2026 rank",
+        "College allotment by rank and stated preferences"
+      ],
+      "fee": "Application fee not stated in checked official notice; verify with authority.",
+      "rules": {
+        "complete": false,
+        "asOn": null,
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm Ladakh parent-residence or posted-employee child route and class 10/12 records against amended guidelines pp. 15–16."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm valid NEET 2026 score, category threshold and application documents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm nationality permission, medical admission conditions, merit rank and allotted-college requirements."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "NEET 2026 exam venue is not specified in this admission notice; allotted colleges are outcomes, not exam venues"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://hme.ladakh.gov.in/register",
+      "changes": [],
+      "id": "ladakh-central-pool-mbbs-bds-2026-27",
+      "title": "Ladakh Central Pool MBBS/BDS admission 2026–27",
+      "authority": "Ladakh Administration — Health & Medical Education Department",
+      "pathway": "admission",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-LA"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-09-23",
+        "closesOn": "2026-09-29",
+        "officialTimeZone": "Asia/Kolkata",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Dates from the official HME portal. The scanned notice has conflicting issue dates (18 and 22 September) and only says within seven days; no cutoff clock time was published in checked sources."
+      },
+      "sources": [
+        {
+          "id": "in-la-hme-admission:bd9f4056fd72",
+          "title": "Ladakh official notification register",
+          "authority": "Ladakh Administration — Health & Medical Education Department",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ladakh.gov.in/document-category/notification/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ladakh.gov.in/document-category/notification/",
+          "sha256": "eab8c46c99e96b0597ae6e859218a40bf3912149ac6ccb9d8c06ec4280301e51",
+          "lastSuccessfulFetchAt": "2026-09-25T00:52:27.221Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-hme-admission:11901c4b2ba4",
+          "title": "Ladakh HME 2026–27 application announcement",
+          "authority": "Ladakh Administration — Health & Medical Education Department",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://hme.ladakh.gov.in/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hme.ladakh.gov.in/",
+          "sha256": "60642188ba5a5c100bd91aec5ce1a3bf11028cbb4b51f2a2b5e8649011c49edc",
+          "lastSuccessfulFetchAt": "2026-09-25T00:52:28.511Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-hme-admission:e909840bd498",
+          "title": "Notification 758-DHSL/2026 and amended local guidelines",
+          "authority": "Ladakh Administration — Health & Medical Education Department",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/09/202609231438871085.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/09/202609231438871085.pdf",
+          "sha256": "421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90",
+          "lastSuccessfulFetchAt": "2026-09-25T00:52:30.813Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-la-hme-admission:ad149a7ad251",
+          "title": "HME portal 2026–27 guidelines",
+          "authority": "Ladakh Administration — Health & Medical Education Department",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://hme.ladakh.gov.in/uploads/notifications/notice_37e04513bc420bd9.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://hme.ladakh.gov.in/uploads/notifications/notice_37e04513bc420bd9.pdf",
+          "sha256": "e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219",
+          "lastSuccessfulFetchAt": "2026-09-25T00:52:31.653Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "sourceId": "in-la-hme-admission"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://ladakh.gov.in/document-category/notification/",
+      "fetchedAt": "2026-09-25T00:52:27.221Z",
+      "sha256": "eab8c46c99e96b0597ae6e859218a40bf3912149ac6ccb9d8c06ec4280301e51",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 211437
+    },
+    {
+      "url": "https://hme.ladakh.gov.in/",
+      "fetchedAt": "2026-09-25T00:52:28.511Z",
+      "sha256": "60642188ba5a5c100bd91aec5ce1a3bf11028cbb4b51f2a2b5e8649011c49edc",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 32252
+    },
+    {
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2026/09/202609231438871085.pdf",
+      "fetchedAt": "2026-09-25T00:52:30.813Z",
+      "sha256": "421e4c4342e06a64e552e101c40f58b19e9fda105c9340bbe2437e36c6534e90",
+      "contentType": "application/pdf",
+      "bytes": 6662076
+    },
+    {
+      "url": "https://hme.ladakh.gov.in/uploads/notifications/notice_37e04513bc420bd9.pdf",
+      "fetchedAt": "2026-09-25T00:52:31.653Z",
+      "sha256": "e6d5e5952ed5071f230c845bdb45b65c781bf5ff5957d4fff75dff4055966219",
+      "contentType": "application/pdf",
+      "bytes": 2674753
+    }
+  ],
+  "warnings": [
+    "Notice heading has 18 and 22 September issue dates; official HME portal supplies explicit 23–29 September application window. Closing clock time remains unknown.",
+    "One intake notice covers 7 MBBS and 2 BDS seats. Founder should confirm whether portal requires separate course applications before accepting cycle count.",
+    "Nationality is not specified for this Ladakh quota. Foreign-national seats in general Central Pool guidelines belong to a different ministry allocation; do not infer eligibility here.",
+    "No mandatory language level or certificate was found in checked notice or guidelines. NEET exam medium is not an admission language rule.",
+    "Other Ladakh Administration admission and recruitment notices remain unextracted."
+  ],
+  "approvalRevisions": {
+    "ladakh-central-pool-mbbs-bds-2026-27": {
+      "evidenceRevision": "e4d96482991afa6fddfe4d5da8004d5bace4be0a6fd0f2bf57a5b24d48a47f96",
+      "recordRevision": "6788c19da980949f0086f2836e2dd483dca8fdabf1dba20aa21999dfc9915c16"
+    }
+  }
+}

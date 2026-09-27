@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Disallow: /download/IOCL-Sustainability-Report-2019-20.pdf
+Disallow: /download/Archieved/Sustainability-Report-2007-08.pdf
+Disallow: /pages/NewsataGlance
+
+
+
+
+User-agent: googlebot-image
+Allow: /
+
+User-agent: googlebot-mobile
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+
+Sitemap: https://iocl.com/sitemap.xml

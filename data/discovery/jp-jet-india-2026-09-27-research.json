@@ -1,0 +1,98 @@
+{
+  "researchedOn": "2026-09-27",
+  "dateTimezone": "Asia/Kolkata",
+  "savedAt": "2026-09-26T20:05:00.563221+00:00",
+  "hiringJurisdiction": "JP",
+  "applicantRouteCountry": "IN",
+  "status": "research-only; original-byte collection unavailable",
+  "originalBytesRetained": false,
+  "publicationApproved": false,
+  "applicationCyclesImported": 0,
+  "attemptFailurePath": "data/evidence/research/jet-india-alt-2027-2026-09-27-failure.json",
+  "officialOverview": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_00464.html",
+  "authoritativeRouteReference": "https://jetprogramme.org/en/aspiring/howto/",
+  "editions": [
+    {
+      "programmeEdition": 2027,
+      "role": "ALT",
+      "officialPage": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01196.html",
+      "guidelines": "https://www.in.emb-japan.go.jp/files/100720531.pdf",
+      "noticeFindings": {
+        "pageAdvertisesOpen": true,
+        "pageDeadline": "2026-10-30",
+        "guidelinesDeadline": "2026-10-31",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "pageQualification": "Bachelor degree by July 2027",
+        "guidelinesAlternative": "Three-or-more-year school-teaching course credential by designated arrival",
+        "pageLanguage": "Strong English; Japanese background additional consideration, no mandatory Japanese level"
+      },
+      "materialConflicts": [
+        "30 October webpage/audio deadline versus 31 October incorporated PDF deadline",
+        "Bachelor-only webpage versus teaching-credential alternative in incorporated PDF"
+      ],
+      "applicationStatusAssessment": "needs verification; page open label retained without resolving critical conflicts"
+    },
+    {
+      "programmeEdition": 2026,
+      "role": "CIR",
+      "officialPage": "https://www.in.emb-japan.go.jp/itpr_en/11_000001_01110.html",
+      "guidelines": "https://www.in.emb-japan.go.jp/files/100962323.pdf",
+      "noticeFindings": {
+        "pageDeadline": "2026-03-13",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": null,
+        "pagePriorJetExclusion": "Since 2022 programme",
+        "guidelinesPriorJetExclusion": "Since 2023 programme, including March arrivals",
+        "pageJapaneseBaseline": "JLPT N2 or NAT level 3",
+        "guidelinesJapaneseBaseline": "Functional Japanese equivalent to N1/N2"
+      },
+      "positions": [
+        {
+          "workplace": "Hidaka Town Hall",
+          "Japanese": "N1",
+          "otherLanguages": "Functional English and Hindi",
+          "preferredOrigin": "Rajasthan or Bihar",
+          "otherCondition": "Driving licence"
+        },
+        {
+          "workplace": "Toyama Prefectural Government",
+          "Japanese": "N2 or above",
+          "otherLanguages": "Functional English and Telugu",
+          "preferredOrigin": "Andhra Pradesh"
+        },
+        {
+          "workplace": "Hamamatsu City Hall",
+          "Japanese": "N1",
+          "otherLanguages": "Functional English"
+        },
+        {
+          "workplace": "Matsue City Hall",
+          "Japanese": "N1",
+          "otherLanguages": "Functional English",
+          "preferredOrigin": "Kerala"
+        }
+      ],
+      "materialConflicts": [
+        "Prior-JET exclusion year differs between page and PDF"
+      ],
+      "applicationStatusAssessment": "historical closed edition; not a 2027 CIR call"
+    }
+  ],
+  "reviewItems": [
+    "Retain originals through permitted access before building connector",
+    "Confirm Indian citizenship/passport evidence route; alternative IDs do not establish foreign-citizen permission",
+    "Resolve deadline and qualification conflicts with authority; do not choose earlier date as verified fact",
+    "Keep NAT and JLPT distinct; do not invent conversion or certificate obligation",
+    "Treat preferred Indian state origin as preference, not mandatory residence",
+    "Keep workplaces separate from interview locations and count distinct application cycles rather than four placements",
+    "Require first-output founder review and connector acceptance; neither recorded"
+  ],
+  "sourceIds": [
+    "jp-jet-india-2027",
+    "jp-jet-india-cir-2026"
+  ],
+  "newSourceId": "jp-jet-india-cir-2026",
+  "recheckedExistingSourceId": "jp-jet-india-2027",
+  "originFailureContext": "Failure artifact belongs to ALT page attempt; shared origin robots policy failure also prevents CIR collector access, so CIR original-byte request was not attempted."
+}

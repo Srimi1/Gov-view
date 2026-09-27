@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://www.ignou.ac.in/announcement/Career?nav=5",
+  "fetchedAt": "2026-09-25T13:00:38.259Z",
+  "sha256": "d7098233a8e81ab1e5079b9dd19e6ee1f98ca56c4f1284fa63b293cbe4eadbd6",
+  "bytes": 209297,
+  "contentType": "text/html;charset=UTF-8"
+ },
+ {
+  "url": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
+  "fetchedAt": "2026-09-25T13:00:39.430Z",
+  "sha256": "4b18c8adeb33c5bce55d3fd4be1575f48e4bfb8d6380d424a236a6f301cfe272",
+  "bytes": 600372,
+  "contentType": "application/pdf"
+ }
+]

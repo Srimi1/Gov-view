@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+  "fetchedAt": "2026-09-25T13:54:01.032Z",
+  "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+  "bytes": 133794,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+  "fetchedAt": "2026-09-25T13:54:02.423Z",
+  "sha256": "7fd2f9a2339fe2cd1ed141c201b7f33273f8b5abf856ba93942638789193cefd",
+  "bytes": 27665,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+  "fetchedAt": "2026-09-25T13:54:03.400Z",
+  "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+  "bytes": 27796,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+  "fetchedAt": "2026-09-25T13:54:06.282Z",
+  "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+  "bytes": 485230,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+  "fetchedAt": "2026-09-25T13:54:07.924Z",
+  "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+  "bytes": 580934,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+  "fetchedAt": "2026-09-25T13:54:09.849Z",
+  "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+  "bytes": 235349,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+  "fetchedAt": "2026-09-25T13:54:11.925Z",
+  "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+  "bytes": 514014,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+  "fetchedAt": "2026-09-25T13:54:13.971Z",
+  "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+  "bytes": 888823,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+  "fetchedAt": "2026-09-25T13:54:15.938Z",
+  "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+  "bytes": 513481,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+  "fetchedAt": "2026-09-25T13:54:17.925Z",
+  "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+  "bytes": 888570,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+  "fetchedAt": "2026-09-25T13:54:19.907Z",
+  "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+  "bytes": 430077,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+  "fetchedAt": "2026-09-25T13:54:22.033Z",
+  "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+  "bytes": 1549821,
+  "contentType": "application/pdf"
+ }
+]

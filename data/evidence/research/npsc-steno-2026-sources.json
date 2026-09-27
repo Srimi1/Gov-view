@@ -1,0 +1,32 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-nl-recruitment",
+  "robotsPolicy": "https://npsc.nagaland.gov.in/robots.txt permits /advertisement and /latest-updates; /storage and other administrative paths are disallowed and were not fetched.",
+  "records": [
+    {
+      "file": "data/evidence/research/npsc-advertisements.html",
+      "url": "https://npsc.nagaland.gov.in/advertisement",
+      "sha256": "bb577838025cf7b2cf5f924ee1e6b44010377bc78a7a3d1d62f5b5c970859e8c",
+      "bytes": 81978
+    },
+    {
+      "file": "data/evidence/research/npsc-steno-2026.html",
+      "url": "https://npsc.nagaland.gov.in/advertisement/178713486224731",
+      "sha256": "3ff32323f319c5381075f6df75b7b5042574f5512029464798ff4158003c0fee",
+      "bytes": 44822,
+      "noticeTextSha256": "4186433c0aff21de5b319e574142a9150d90ca62117467fd5b53a0a8a76c8241"
+    },
+    {
+      "file": "data/evidence/research/npsc-latest-updates.html",
+      "url": "https://npsc.nagaland.gov.in/latest-updates",
+      "sha256": "5fdbc871364901c5fc8b1249f3452509d2783c2181c2db9a6bd3015bf9d596f7",
+      "bytes": 39900
+    }
+  ],
+  "notes": [
+    "Advertisement NPSC-3/STENO-2026 contains twelve item numbers but one Stenographer exam application, with 26 vacancies. Three are 2021 PwBD backlog vacancies; the notice states 100% of vacancies are reserved for specified indigenous inhabitants of Nagaland.",
+    "Online application ran noon 21 August through noon 3 September 2026. OTR registration closed separately on 2 September. The advertisement does not print a timezone; Asia/Kolkata is the local Kohima interpretation.",
+    "No citizenship condition, shorthand language, numerical language proficiency level, examination date or venue appears in this advertisement. Foreign-citizen eligibility and indigenous-certificate interpretation require founder review.",
+    "The exact notice text hash excludes changing page visitor counts and an anonymous HTML form token; collector retains each raw fetched response as evidence. New amendments or wording changes halt extraction. Notifications beyond the captured latest-updates page remain a coverage gap."
+  ]
+}

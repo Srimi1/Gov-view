@@ -1,0 +1,51 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-br-recruitment",
+  "cycleId": "bihar-school-teacher-tre4-15-2026",
+  "homepage": "https://bpsc.bihar.gov.in/",
+  "feedUrl": "https://bpsc.bihar.gov.in/wp-admin/admin-ajax.php",
+  "feedForm": {
+    "action": "fetch_category_data",
+    "category": "all",
+    "subcategory": "all",
+    "page_group": "home",
+    "page": "1",
+    "post_per_page": "100",
+    "year": "2026",
+    "search_term": "TRE 4.0"
+  },
+  "expectedSearchRows": 5,
+  "expectedNoticeDate": "2026-09-22",
+  "expectedNoticeNumber": "15/2026",
+  "expectedAttachmentCount": 8,
+  "attachmentSetSha256": "5e28f845bb4f7126c6be42391f0947a50cc893a6109dc8a8e49314e5dcd94016",
+  "applicationUrl": "https://bpsconline.bihar.gov.in/",
+  "opensOn": "2026-09-25",
+  "closesOn": "2026-10-26",
+  "feeClosesOn": "2026-10-25",
+  "vacancies": 32388,
+  "documents": [
+    {
+      "key": "advertisement",
+      "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-152026-TRE-4.0_BPSC-20260922-dbsf04.pdf",
+      "sha256": "61a12b83e5ca2aa9342a8e2b35621f66e3cd8e3bf6bd2e8858d9a730c4ded398",
+      "pages": 24,
+      "localFile": "data/evidence/research/bpsc-tre4-15-2026-advertisement.pdf"
+    },
+    {
+      "key": "important-notice",
+      "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-152026-TRE-4.0-Advertisement_BPSC-20260922-vn0ekm.pdf",
+      "sha256": "0aff8f1d269f327dd24ffbbae5f239ae4bd9b6ea1e76405600b334c123af8d8e",
+      "pages": 1,
+      "localFile": "data/evidence/research/bpsc-tre4-15-2026-important-notice.pdf"
+    }
+  ],
+  "evidenceNotes": [
+    "Official BPSC homepage exposes a public AJAX search. Search term TRE 4.0 returned five 2026 rows: advertisement 15/2026 on 22 September, three earlier 14/2026 notices, and one February announcement. The 15/2026 row links eight documents. The request body and original JSON are retained.",
+    "Original Hindi advertisement page 1 says 15/2026 replaces 14/2026 and invites eligible Indian candidates for 32,388 school teacher vacancies. It does not by itself establish all foreign-national legal categories; international application and appointment require founder/authority verification.",
+    "Original advertisement page 20 and one-page important notice give online application 25 September to 26 October 2026, with fee payment through 25 October. Neither prints a closing clock time; retain date precision and do not infer midnight.",
+    "Original pages 1-10 list class-level and subject-specific posts, including Hindi, English, Sanskrit and Urdu subjects. Pages 7-15 contain distinct qualifications; page 20 mentions STET and CTET details. No common formal language proficiency level was established for the whole notice.",
+    "Page 17 describes Bihar residence proof for specified reservation claims and how outside-state applicants are treated; state job location is not a blanket applicant domicile rule. Page 20 identifies the BPSC online OTR path. One notice is provisionally one cycle pending review of form grouping and post-specific rules.",
+    "The official PDFs render, but pdftotext reports malformed streams and yields no usable Hindi text. Critical fields were read visually from rendered pages 1, 2, 17, 20 and 24 plus the one-page important notice. Founder must read the original-language notice before approval."
+  ]
+}

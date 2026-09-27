@@ -1,0 +1,756 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" data-lang="en-US" crm-lang="en-US" dir="ltr" crm-lcid="1033"
+	same-site-mode="None">
+<head>
+		
+		<meta charset="utf-8" /><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<script type="text/javascript" >
+				
+        </script>
+	<title>
+	
+		Per Diem Court Interpreter Application
+		&nbsp;· Customer Self-Service
+</title>
+		
+		<script src="/_portal/7b138792-1090-45b6-9241-8f8d96d8c372/Resources/ResourceManager?lang=en-US"></script>
+	
+	<script type="text/javascript">
+        // Refresh all powerBI Iframes on Login in one Iframe
+        window.addEventListener('message', function (event) {
+            if (event && event.data && event.data == 'refreshPowerBI') {
+                $("iframe.powerbi").each(function () {
+                    this.src = this.src;
+                });
+            }
+        });
+
+        // Fix for incorrect viewport width setting in IE 10 on Windows Phone 8.
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
+    </script>
+		
+	
+		
+		<link href="/bootstrap.min.css?1784208283000" rel="stylesheet" />
+
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/font-awesome.bundle-3d8a58a48f.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/font-awesome.bundle-3d8a58a48f.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+				<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/preform.bundle-b72a6ea21d.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/preform.bundle-b72a6ea21d.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+
+		
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/privatemode.bundle-049b12b66e.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/privatemode.bundle-049b12b66e.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+
+		
+			
+
+
+		
+		<link href="/preform.bundle-extended.css?1681325817000" rel="stylesheet" />
+<link href="/skipnavstyle.css?1774031899000" rel="stylesheet" />
+<link href="/theme.css?1775055334000" rel="stylesheet" />
+<link href="/custom_theme.css?1630442222000" rel="stylesheet" />
+
+		
+		
+		
+		
+		
+	
+		
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/pwa-style.bundle-55718a4c0d.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/pwa-style.bundle-55718a4c0d.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+		</head>
+<body data-sitemap-state="/olapci/:/"
+	data-dateformat="M/d/yyyy"
+	data-timeformat="h:mm tt"
+	data-datetimeformat="M/d/yyyy h:mm tt"
+	data-app-path="/"
+	data-ckeditor-basepath="/js/BaseHtmlContentDesigner/Libs/msdyncrm_/libs/ckeditor/"
+	data-case-deflection-url="/_services/search/7b138792-1090-45b6-9241-8f8d96d8c372">
+
+
+	
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-style.bundle-373a0f4982.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/pcf-style.bundle-373a0f4982.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+			
+	
+		
+
+	<div id="offlineNotificationBar" class="displayNone">
+		<img alt="web" id="web" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;img&#32;=&#32;document.createElement(&#39;img&#39;);&#32;img.src&#32;=&#32;&#39;/css/images/web.png&#39;;&#32;img.alt&#32;=&#32;&#39;web&#39;;&#32;img.id&#32;=&#32;&#39;web&#39;&#32;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,img);&#32;target.remove();" src="https://gov.content.powerapps.us/resource/powerappsportal/img/web.png" />
+		<div id="message">You&#8217;re offline. This is a read only version of the page.</div>
+		<div id="close" onclick="this.parentElement.style.display='none';"><img alt="close" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;img&#32;=&#32;document.createElement(&#39;img&#39;);&#32;img.src&#32;=&#32;&#39;/css/images/close.png&#39;;&#32;img.alt&#32;=&#32;&#39;close&#39;;&#32;img.id&#32;=&#32;&#39;&#39;&#32;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,img);&#32;target.remove();" src="https://gov.content.powerapps.us/resource/powerappsportal/img/close.png" /></div>
+	</div>
+
+	
+
+	<script type="text/javascript">
+        window.DisableCkEditor = window.DisableCkEditor || {};
+		
+		DisableCkEditor.Value = 'True';
+    </script>
+
+	<script type="text/javascript">
+        var enableOmniChannelWidgetWithSiteCopilot = 'False';
+        if (enableOmniChannelWidgetWithSiteCopilot === "True" || enableOmniChannelWidgetWithSiteCopilot === "true") {
+            const authUrl = window.location.origin + "/_services/auth/portalusertoken";
+            const fetchWithRetries = async (url, options, retries) => {
+                try {
+                    const authResponse = await fetch(url, options);
+                    const token = await authResponse.text();
+                    sessionStorage['c2Token'] = token;
+                } catch (err) {
+                    if (retries === 1) throw err;
+                    return await fetchWithRetries(url, options, retries - 1);
+                }
+            };
+            fetchWithRetries(authUrl, { method: "POST" }, 4);
+
+            // Enable/disable Omnichannel session refresh on auth state change
+            // When enabled, closeChat() is called when user logs in/out to start a fresh session
+            var enableOmniChannelSessionRefreshSetting = 'True';
+            window.enableOmniChannelSessionRefresh = enableOmniChannelSessionRefreshSetting === 'True' || enableOmniChannelSessionRefreshSetting === 'true';
+        }
+    </script>
+
+	<script type="text/javascript">
+		var isPvaBotAuthenticated = sessionStorage['isPvaBotAuthenticated'];
+		var isPortalUserLoggedIn = 'False';
+
+        if ((isPvaBotAuthenticated != null || isPvaBotAuthenticated != undefined) && isPvaBotAuthenticated != isPortalUserLoggedIn) {
+			sessionStorage['triggerPvaBotSignOut'] = true;
+			sessionStorage.removeItem('c2Token');
+            sessionStorage.removeItem('directLinetoken');
+            sessionStorage.removeItem('conversation_Id');
+
+			sessionStorage.removeItem('bot_c2Token');
+			sessionStorage.removeItem('botdirectLinetoken');
+            sessionStorage.removeItem('botconversation_Id');
+		}
+		sessionStorage['isPvaBotAuthenticated'] = isPortalUserLoggedIn;
+    </script>
+
+	<script type="text/javascript">
+		window["CSPSettings"] = window["CSPSettings"] || {};
+		window["CSPSettings"].nonce = '';
+        window["FabricConfig"] = window["FabricConfig"] || {};
+        window["FabricConfig"].mergeStyles = window["FabricConfig"].mergeStyles || {};
+		window["FabricConfig"].mergeStyles.cspSettings = window["CSPSettings"];
+        window["Microsoft"] = window["Microsoft"] || {};
+		window["Microsoft"].Dynamic365 = {
+			Portal: {
+				
+				User: {
+					userName: '',
+					firstName: '',
+					lastName: '',
+					email: '',
+					contactId: '',
+					userRoles: [],
+				},
+				
+				type: 'CustomerPortal',
+				id: '808e6e6e-f9aa-4581-93d8-b78b1a1d4d6a', 
+				geo: 'GCC2', 
+				tenant: '3456fe92-cbd1-406d-b5a3-5364bec0a833', 
+				correlationId: '4eecb06f-b7fd-47e7-97ce-a4054c947280',
+                orgEnvironmentId: 'db83bfaa-9718-4060-b1d9-292eee715747',
+                orgId: '9ceda18b-612d-470a-9fbb-e5a3a581cfe0',
+                portalProductionOrTrialType: 'Production',
+                isTelemetryEnabled: 'True',
+                InstrumentationSettings: {
+                    instrumentationKey: '47d84c9b995341e19219d73ab0c6bcd2-e951660d-d17d-4de3-83c3-6a766bd23de8-7007',
+                    collectorEndpoint: 'https://tb.events.data.microsoft.com/OneCollector/1.0/'
+                },
+                timerProfileForBatching: 'NEAR_REAL_TIME',
+                activeLanguages: ["en-US"],
+                isClientApiEnabled: 'True',
+                isSpaSite: 'False'
+            }
+        };
+
+		window["Microsoft"].PowerPages = window["Microsoft"].PowerPages || {};
+		window["Microsoft"].PowerPages.onPagesClientApiReady = (callback) => {
+			return new Promise((resolve, reject) => {
+				let isComplete = false;
+				let timeoutId;
+				const timeoutInterval = 10000;
+		
+				function handleReady() {
+					if (!isComplete && window.$pages) {
+						isComplete = true;
+						clearTimeout(timeoutId);
+						try {
+							if (typeof callback === "function") {
+								callback(window.$pages);
+							}
+						} catch (e) {
+							console.error("onPagesClientApiReady callback error:", e);
+						}
+						resolve(window.$pages); // should we reject if callback throws an error
+					}
+				}
+		
+				if (window.$pages) {
+					handleReady();
+					return;
+				}
+		
+				function sdkListener() {
+					handleReady();
+					window.removeEventListener('pagesSDKInitialized', sdkListener);
+				}
+		
+				window.addEventListener('pagesSDKInitialized', sdkListener);
+		
+				timeoutId = setTimeout(() => {
+					if (!isComplete) {
+						window.removeEventListener('pagesSDKInitialized', sdkListener);
+						if (window.$pages) {
+							handleReady();
+						} else {
+							isComplete = true;
+							reject(new Error('window.$pages not available.'));
+						}
+					}
+				}, timeoutInterval);
+			});
+		};
+
+		// Deprecated alias: Microsoft.Dynamic365.Portal.onPagesClientApiReady.
+		// Remove once telemetry shows no callers remain.
+		(function () {
+			var _impl = window["Microsoft"].PowerPages.onPagesClientApiReady;
+			var _logged = false;
+
+			window["Microsoft"].Dynamic365.Portal.onPagesClientApiReady = function (callback) {
+				if (!_logged) {
+					_logged = true;
+					try {
+						if (window.clientLogWrapper && typeof window.clientLogWrapper.traceWarning === "function") {
+							window.clientLogWrapper.traceWarning(
+								"Microsoft.Dynamic365.Portal.onPagesClientApiReady invoked (deprecated)",
+								"DeprecatedApi",
+								"ClientApiReady",
+								"Invoke",
+								"DeprecationTracker"
+							);
+						}
+						if (typeof console !== "undefined" && console.warn) {
+							console.warn(
+								"[DEPRECATED] Microsoft.Dynamic365.Portal.onPagesClientApiReady is deprecated " +
+								"and will be removed in a future release. Use Microsoft.PowerPages.onPagesClientApiReady instead."
+							);
+						}
+					} catch (_) { /* never break the caller */ }
+				}
+
+				return _impl(callback);
+			};
+		})();
+
+        // Mark request not cacheable if Dynamics365PortalAnalytics cookie is being refreshed by the server or if the cookie in request header is invalid
+		
+
+        // For client side telemetry intializing Dynamics365PortalAnalytics cookie object
+		
+        window["Microsoft"].Dynamic365.Portal.dynamics365PortalAnalytics = 'C7K5tOFaONSJu3xNLAfZYUza_1dnyaIKpzTARGb82s25j4xWAzT4dYXz10UytD7uOMr3z-BzkIjjRupdhlhX59soFU5wzte_bU_Rk7P-SZIJIfELJ3sx25LMgUXXX9A8xLp7eXGY2aHZud_wOU3_rg2'; // CodeQL [SM00430] False Positive: only alphanumeric chars allowed, for non-alphanumeric char it will return INVALID_CHARACTERS_IN_COOKIE 
+		
+
+	</script>
+	
+	<script type="text/javascript">
+
+		
+    </script>
+
+	
+		
+<header>
+  <div class="skip-link-container">
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+</div>
+<div class="navbar navbar-inverse navbar-static-top spacelabnav" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <div class="visible-xs-block">
+        <div class="xrm-editable-html&#32;xrm-attribute" data-languageContext="English"><div class="xrm-attribute-value"><div><a class="navbar-brand" href="~/" tabindex="-1" ><span style="font-size: 19px; font-weight: bold;">NYS Unified Court System</span></a></div></div></div>
+      </div>
+      <div class="visible-sm-block visible-md-block visible-lg-block navbar-brand" style="padding:0px;">
+        <div class="container-fluid">
+          <div class="row" style="display: flex; align-items: center;">
+            <div class="col-sm-2">
+              <img alt="NYS UCS Seal" src="/UCSSeal.png" style="width: 43px; height: 43px; margin-top:5px">
+            </div>
+            <div class="col-sm-10" style="font-size: 16px; font-weight: bold;">
+              <div>New York State Unified Court System</div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      <button type="button" class="navbar-toggle collapsed"  data-toggle="collapse" data-target="#navbar" aria-expanded="false" onclick="setHeight();"> 
+        <span class="sr-only" style="color: white">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      
+      
+        <div class="navbar-right menu-bar " data-weblinks-maxdepth="2">
+          <ul class="nav navbar-nav weblinks" > 
+            
+              
+              
+                
+              
+
+              <li role="none" class="weblink ">
+                <a role="link"
+                    aria-label="Home"
+                                        href="/"
+                    
+                    >
+                        <img src="/home-icon.png"
+                             alt="home"
+                             width="20" 
+                             height="20"  />
+                </a>
+
+                
+              </li>
+
+            
+              
+                <li class="divider-vertical" aria-hidden="true"></li>
+              
+              
+                
+              
+
+              <li role="none" class="weblink ">
+                <a role="link"
+                    aria-label="Virtual Court Appearances"
+                                        href="/knowledgebase/article/KA-01070"
+                    
+                    >
+                      Virtual Court Appearances
+                </a>
+
+                
+              </li>
+
+            
+              
+                <li class="divider-vertical" aria-hidden="true"></li>
+              
+              
+                
+              
+
+              <li role="none" class="weblink ">
+                <a role="link"
+                    aria-label="Public Users"
+                                        href="/public-user/"
+                    
+                    >
+                      Public Users
+                </a>
+
+                
+              </li>
+
+            
+            
+            
+            <li class="divider-vertical" aria-hidden="true"></li>
+            <li class="dropdown" role="none">
+              <a id="search" class="navbar-icon" href="#" data-toggle="dropdown"
+                role="button" aria-haspopup="true" aria-expanded="false"
+                aria-label="Search" >
+                <img src="/search-icon.png" alt="search" height="20" width="20"/>
+                
+              </a>
+              <ul class="dropdown-menu dropdown-search">
+                <li>
+                  
+
+
+
+
+
+<form method="GET" action="/search/" role="search" class="form-search">
+  <div class="input-group">
+
+    
+      
+      
+      
+      <div class="btn-group btn-select input-group-btn" data-target="#filter-472a37f1-bd0b-478b-917b-5be55821f01e" data-focus="#q">
+          <button id="search-filter" type="button" class="btn btn-default"
+            data-toggle="dropdown"
+            aria-haspopup="true"  aria-labelledby="search-filter-label" aria-expanded="false">
+
+            <span id="search-filter-label" class="selected">All</span>
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu" role="listbox" aria-label="Search Filter">
+            <li role="presentation">
+              <a href="#" role="option" data-value=""
+                aria-label="All" aria-selected="false" tabIndex="-1">All</a>
+            </li>
+            
+              <li role="presentation">
+                <a href="#" role="option" data-value="adx_webpage,adx_webfile"
+                  aria-label="Web Pages" aria-selected="false" tabIndex="-1">Web Pages</a>
+              </li>
+            
+              <li role="presentation">
+                <a href="#" role="option" data-value="incident"
+                  aria-label="Cases" aria-selected="false" tabIndex="-1">Cases</a>
+              </li>
+            
+              <li role="presentation">
+                <a href="#" role="option" data-value="knowledgearticle"
+                  aria-label="Knowledge Articles" aria-selected="false" tabIndex="-1">Knowledge Articles</a>
+              </li>
+            
+          </ul>
+      </div>
+      <label for="filter-472a37f1-bd0b-478b-917b-5be55821f01e" class="sr-only" >Search Filter</label>
+      <select id="filter-472a37f1-bd0b-478b-917b-5be55821f01e" name="logicalNames" class="btn-select" aria-hidden="true" data-query="logicalNames" tabindex="-1" autocomplete="all">
+       <option value="" selected="selected">All</option>
+          
+          <option value="adx_webpage,adx_webfile">Web Pages</option>
+           
+          <option value="incident">Cases</option>
+           
+          <option value="knowledgearticle">Knowledge Articles</option>
+           
+      </select>
+    
+
+    <label for="q" class="sr-only">
+      Search
+    </label>
+    <input type="text" class="form-control" id="q" name="q"
+        placeholder="Search"
+        value=""
+        title="Search">
+    <div class="input-group-btn">
+      <button type="submit" class="btn btn-default"
+          title="Search"
+          aria-label="Search">
+        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+</form>
+
+                </li>
+              </ul>
+            </li>
+            
+            <li class="divider-vertical" aria-hidden="true"></li>
+            
+            
+              <li role="none">
+                <a role="link" aria-label="Sign in" href="/SignIn?returnUrl=%2Folapci%2F">  
+                      Sign in
+                </a>
+              </li>
+            
+          </ul>
+          
+        </div>
+      
+      <div class="navbar-right hidden-xs">
+        <div class="xrm-editable-html&#32;xrm-attribute&#32;no-value" data-languageContext="English"><div class="xrm-attribute-value"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+  
+  
+  
+
+</header>
+<script type="text/javascript">
+         window.onload = function() {
+            if(window.navigator.appName == "Microsoft Internet Explorer" || window.navigator.userAgent.indexOf("Trident") > 0){
+                var searchElement = document.getElementById("search");
+                if (searchElement != null) searchElement.setAttribute("href", "");
+            }
+          };
+
+          function setHeight(){
+           var windowHeight = window.innerHeight - 140;
+           var navbar = document.getElementById("navbar");
+           if (navbar) {
+            navbar.style.maxHeight = windowHeight + "px";
+            }
+          }
+
+          window.addEventListener('resize', function (event) {
+           setHeight();
+          });
+</script>
+	
+
+	<!-- add anti-forgery token-->
+	<div id="antiforgerytoken" data-url="/_layout/tokenhtml"></div>
+
+	
+			<!-- Client Telemetry init if telemetry enabled-->
+			<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/client-telemetry.bundle-d490766e4f.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/client-telemetry.bundle-d490766e4f.js" type="text/javascript"></script>
+
+		
+	
+		<!-- Client Telemetry Wrapper init -->
+		<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/client-telemetry-wrapper.bundle-633e70f51b.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/client-telemetry-wrapper.bundle-633e70f51b.js" type="text/javascript"></script>
+
+		<script>
+			window.clientLogWrapper = new ClientLogWrapper();
+		</script>
+		<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/preform.moment_2_29_4.bundle-750b699ecd.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/preform.moment_2_29_4.bundle-750b699ecd.js" type="text/javascript"></script>
+
+		
+
+		<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-dependency.bundle-805a1661b7.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-dependency.bundle-805a1661b7.js" type="text/javascript"></script>
+
+							   <script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf.bundle-60440c37cb.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf.bundle-60440c37cb.js" type="text/javascript"></script>
+
+							   <script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-extended.bundle-b0e01b5622.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-extended.bundle-b0e01b5622.js" type="text/javascript"></script>
+
+						
+	<div style="padding:1em">
+<h2>NEW APPLICANTS</h2>
+
+<h3>The NYS Per Diem Court Interpreter application is currently <b>CLOSED</b>.</h3>
+<p>We will begin accepting online applications again from November 16<sup>th</sup> - December 15<sup>th</sup>, 2026.</p>
+<p>We appreciate your interest.  Please visit our website <a href="https://www.nycourts.gov/language-access-court-interpreters">Language Access & Court Interpreters | New York Courts</a> for more information.</p>
+
+<h2>PREVIOUS APPLICANTS</h2>
+
+<h3>Applications submitted in August-September 2026:</h3>
+
+<h4>Written Exam:</h4>
+<ul>
+    <li>Candidates will be invited to participate in the <b>11/1/26 - 11/22/26</b> assessment session (tentative).</li>
+    <li>Self-scheduling links will be sent via email in mid-October 2026.</li>
+    <li>Results will be directly emailed to the candidate within 24 Hours.</li>
+</ul>
+ 
+<p>For reciprocity and exam waiver request, candidates will be contacted once a decision is rendered.</p>
+ 
+<h4>Oral Exam:</h4>
+<ul>
+    <li>Candidates who pass the written exam will be invited to participate in the next oral assessment session - <b>1/10/27 - 1/31/27</b> <i>(tentative)</i>.</li>
+    <li>Self-scheduling links will be sent via email in the beginning of January 2027.</li>
+</ul> 
+<p>Please note oral exam results take a minimum of 6 months to be reviewed and rated.</p>
+<hr>
+<p>When sending inquiries to <a href="mailto:OLAPerDiemTest@nycourts.gov">OLAPerDiemTest@nycourts.gov</a>, always include your 7-digit applicant ID number and language.</p>
+<p>Office of Language Access</p>
+</div>
+
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-loader.bundle-f4a0e619b8.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-loader.bundle-f4a0e619b8.js" type="text/javascript"></script>
+
+		
+		
+	
+
+	
+		<div id="pp-native-controls-react-root"></div>
+<script>window._nativeControlConfig = { "publicPath":"https://gov.content.powerapps.us/resource/powerappsportal/controls", "versions": {"pcf_loader":"0.0.51","pcf_controls":"3.24.8","mf_shared":"0.2.32","host":"0.15.1","data_grid":"1.12.3","controls_fluent_v9":"0.0.54"}, "pvaEmbedded": { "defaultWidgetMode": "normal", "useCustomTypingIndicator": false, "skipSingleBotWelcomeScreen": false } }</script>
+<script defer="defer" src="https://gov.content.powerapps.us/resource/powerappsportal/controls/host/main.3ee2491f78.chunk.js"></script>
+		
+	
+	
+		<footer role="contentinfo">
+  <div class="footer-bottom hidden-print spacelabfooter" style="padding: 25px 0;">
+    <div class="container">
+      <div class="row">
+
+        <!--add later--
+    <div class="xrm-attribute-value" style="padding-bottom: 10px; font-size: 24px; font-weight: bold; align-items: center; text-align: center;">
+      Get Help
+    </div>
+    <div class="col-sm-4 text-center" style=" padding-bottom: 5px;" >
+      <a href="/knowledgebase/" class="btn btn-info-home" style="width: 130px;" title="Browse the KB">Browse the KB</a>
+    </div>
+    <div class="col-sm-4 text-center" style=" padding-bottom: 5px;">
+      <a href="/support/create-case/" class="btn btn-info-home" style="width: 130px;" title="Create Case ">Create Case </a>
+    </div>
+    <div class="col-sm-4 text-center" style=" padding-bottom: 5px;">
+      <a href="/contact-us/" class="btn btn-info-home" style="width: 130px;" title="Contact us">Contact us</a>
+    </div>
+	-->
+      </div>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript">
+  (function($) {
+    $(document).ready(function() {
+      $(".dropdown-submenu").on("keydown", function(event) {
+        if (event.keyCode == 9) {
+          $(this).toggleClass("open");
+        }
+      });
+
+              //   $('a[href$=".pdf"]').each(function() {
+				      //   var linkText = $(this).text();
+                
+				      //   //make the link text the title of link
+              //   $(this).attr('aria-label', "Link to the pdf document " + linkText);
+		          //  });
+
+			        //   $('a[href$=".mp4"]').each(function() {
+				      //   var linkText = $(this).text();
+                
+				      //   //make the link text the title of link
+              //   $(this).attr('aria-label', "Link to the media player content " + linkText);
+		          // });
+
+              // //add the svg with alt text
+              // $('a[target="_blank"]').each(function() {
+              //   //make sure the link is inline
+
+				      //   $(this).css('display', 'inline');
+              //   $(this).append('<img src="/new-window-icon.png" style="width:20px; height:auto:" alt="Opens in a New Window">');
+		          // });
+
+              if ($("#offlineNotificationBar").length > 0) {
+				         //onclick even handler fix, keep until a global fix for the protal is found
+				         $("#offlineNotificationBar> #close").attr("tabindex", "0");
+			        }
+    });
+  }(jQuery));
+</script>
+	
+
+	<script type="text/javascript">
+
+		function trackCopilotCustomUsage(botSchema) {
+			const request = {
+				botSchemaName: botSchema
+			}
+			var json = JSON.stringify(request);
+			shell.ajaxSafePost({
+				type: "POST",
+				contentType: "application/json",
+				url: "/_services/copilot/TrackUsage",
+				data: json
+			}).done(function () {
+			}).fail(function (jqXhr) {
+			});
+		}
+
+		function findAndLogCustomCopilotUsage() {
+			const pageSource = document.documentElement.outerHTML;
+			const customPvaBotWebchatRegex = /api\.(preprod\.|test\.)?powerplatform\.(com|us|cn|appsplatform\.us)\/powervirtualagents\/botsbyschema\/([^/]+)\/directline\/token/;
+			const customPvaBotIframeRegex = /powerva\.microsoft\.com\/environments\/([0-9a-fA-F\-]+)\/bots\/([^/]+)\/webchat/;
+			const omniChannelRegex = /livechatwidget\/scripts\/LiveChatBootstrapper\.js/;
+
+			const matchPvaBotWebchat = pageSource.match(customPvaBotWebchatRegex);
+			if (matchPvaBotWebchat && matchPvaBotWebchat[3]) {
+				trackCopilotCustomUsage(matchPvaBotWebchat[3]);
+			}
+
+			const matchPvaBotIframe = pageSource.match(customPvaBotIframeRegex);
+			if (matchPvaBotIframe && matchPvaBotIframe[2]) {
+				trackCopilotCustomUsage(matchPvaBotIframe[2]);
+			}
+
+			const matchOmniChannel = pageSource.match(omniChannelRegex);
+			if (matchOmniChannel && matchOmniChannel[0]) {
+				trackCopilotCustomUsage("omnichannelWidget");
+			}
+		}
+
+		window.addEventListener("load", function () {
+			findAndLogCustomCopilotUsage();
+		});
+	</script>
+
+		
+			
+			
+			
+			
+		
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/bootstrap.bundle-105a4995b8.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/bootstrap.bundle-105a4995b8.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/postpreform.bundle-4687dda8df.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/postpreform.bundle-4687dda8df.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/app.bundle-1e948af604.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/app.bundle-1e948af604.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/default-1033.moment_2_29_4.bundle-eda4e638fd.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/default-1033.moment_2_29_4.bundle-eda4e638fd.js" type="text/javascript"></script>
+
+	
+
+	
+	<script type="text/javascript">$('.col-md-12.columnBlockLayout').attr('style', 'flex-grow: 1; display: flex; flex-direction: column;');</script>
+	
+	<script>
+        //this event will update the title of the page based on active breadcrumb
+        $('.breadcrumb').ready(function () {
+            if ($('.breadcrumb').is(':visible')) {
+                document.querySelector('title').innerHTML = ($('.breadcrumb > li.active').text() + "&nbsp;· Customer Self-Service");
+            }
+        });
+
+        function GoToNewEditor() {
+            var editCmsUrlSegment = "EditInCms";
+            var currentUrl = window.location.href;
+            if (currentUrl.indexOf('?') > -1) {
+                var urlSegments = currentUrl.split("?");
+                window.location.href = window.location.origin + '/' + editCmsUrlSegment + window.location.pathname + '?' + urlSegments[1];
+            }
+            else {
+                window.location.href = window.location.origin + '/' + editCmsUrlSegment + window.location.pathname;
+            }
+        }
+    </script>
+	
+		
+		
+	
+		
+				<script>
+					if ('serviceWorker' in navigator) {
+						navigator.serviceWorker.getRegistrations().then(function (registrations) {
+							for (let registration of registrations) {
+								registration.unregister();
+							}
+						}).catch(function (err) {
+							console.log('Service Worker unregister action failed: ', err);
+						});
+					}
+				</script>
+			
+	
+		
+	<!--Start Show Session Expire Warning Popup here -->
+    
+		
+</body>
+</html>
+<!-- Generated at 9/26/2026 8:41:14 PM -->
+<!-- Page OK -->

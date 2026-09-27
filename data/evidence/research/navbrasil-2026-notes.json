@@ -1,0 +1,22 @@
+{
+  "checkedOn": "2026-09-25",
+  "reviewStatus": "founder-review-pending",
+  "employerPage": "https://www.navbrasil.gov.br/acesso-a-informacao/agentes-publicos/concursos/concurso-publico/concurso-nav-brasil-2026/",
+  "organizerPage": "https://conhecimento.fgv.br/concursos/navbrasil26",
+  "retainedFiles": [
+    "navbrasil-concurso-2026.html",
+    "navbrasil-fgv-2026.html",
+    "navbrasil-edital-01-2026-retificado.pdf",
+    "navbrasil-retificacao-1-2026.pdf",
+    "navbrasil-retificacao-2-2026.pdf"
+  ],
+  "scope": "One Tower Control Operator role option only. Other roles and later role-specific notices are not extracted.",
+  "findings": {
+    "jobType": "NAV Brasil federal public-company CLT employment; 51 immediate Tower Control Operator vacancies in the retified edital role table, plus reserve list.",
+    "application": "Retified edital section 4.1: 27 April 2026 16:00 through 28 May 2026 18:00 Brasília time. Fee payment deadline 29 May 2026 23:59 is separate.",
+    "internationalApplicants": "Registration section requires CPF but does not clearly settle foreign-citizen access. Before training, section 14.3.1 requires Brazilian or Portuguese nationality; Portuguese nationals need recognized Equality Statute status with political rights. Appointment section 19.1(a) repeats condition. Other nationalities fail published later-stage rule; Portuguese eligibility stays conditional.",
+    "language": "Section 9.3 includes 10 Portuguese and 20 English objective questions for secondary-level Tower Control role. Second amendment revises English syllabus. Neither document gives CEFR or separate required proficiency level.",
+    "venue": "Retified edital section 2.3 names 11 objective-exam cities. Pins are city precision; airport work-placement cities are not exam centres.",
+    "amendments": "Employer and FGV organizer registers each list first and second retifications. New amendment rows or changed PDF bytes block the connector. Later convocation/result notices require founder review."
+  }
+}

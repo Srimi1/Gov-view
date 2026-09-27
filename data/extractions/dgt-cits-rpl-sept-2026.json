@@ -1,0 +1,18 @@
+{
+  "indexUrl": "https://www.dgt.gov.in/en/exam-corner",
+  "noticeUrl": "https://www.dgt.gov.in/sites/default/files/2026-08/CITS-RPL-Supplementary-Exam-September-2026.pdf",
+  "noticeSha256": "1a297cde7c028c5ac58418212fad7139be63715032ae60e79dc0c5c430d5d6a5",
+  "noticeTitle": "Activity schedule for All India Trade Test of Craft Instructor under CITS (RPL)-September 2026 (Supplementary examination)- reg",
+  "noticeDate": "2026-07-31",
+  "feeOpensOn": "2026-08-17",
+  "feeClosesOn": "2026-08-21",
+  "cbtOn": "2026-09-12",
+  "methodologyPracticalOn": "2026-09-15",
+  "tradePracticalFrom": "2026-09-16",
+  "tradePracticalTo": "2026-09-17",
+  "plannedResultOn": "2026-09-25",
+  "officialTimeZone": "Asia/Kolkata",
+  "candidatePoolCount": 325,
+  "feePerPaperInr": 400,
+  "reviewNote": "Six-page scanned official PDF visually checked against OCR. Fee dates are tentative in the source and have no printed cutoff time. The 325 number is a pre-existing supplementary candidate pool, not vacancies or application cycles. A paragraph on page 2 says March 2026 while surrounding title and date table say September 2026; hold this conflict for founder review. Nationality and required language level are absent. The announced 25 September result date is a plan, not proof a result was issued."
+}

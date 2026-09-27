@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        /* ===============================
+        RECRUITMENT PORTAL HEADER
+        =============================== */
+
+        .recruitment-header {
+            background: #ffffff;
+            border-bottom: 1px solid #e6e9ef;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.06);
+            position: relative;
+            z-index: 1000;
+        }
+
+        .recruitment-navbar {
+            min-height: 78px;
+            margin-bottom: 0;
+            border: none;
+            background: #ffffff;
+        }
+
+            /* Logo */
+
+            .recruitment-navbar .navbar-brand {
+                height: 78px;
+                padding: 8px 15px;
+                display: flex;
+                align-items: center;
+            }
+
+                .recruitment-navbar .navbar-brand img {
+                    height: 62px;
+                    width: auto;
+                    object-fit: contain;
+                }
+
+        /* Center Portal Name */
+
+        .portal-title-wrapper {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .portal-title {
+            margin: 0;
+            font-size: 25px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+            background: linear-gradient(90deg, #0756c9, #0d6efd, #198754);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .portal-subtitle {
+            display: block;
+            margin-top: 3px;
+            font-size: 11px;
+            color: #777;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        /* Navigation */
+
+        .recruitment-navbar .navbar-nav {
+            margin-top: 15px;
+        }
+
+            .recruitment-navbar .navbar-nav > li > a {
+                color: #343a40;
+                font-size: 14px;
+                font-weight: 600;
+                padding: 14px 15px;
+                margin: 8px 2px;
+                border-radius: 8px;
+                transition: all 0.25s ease;
+            }
+
+                .recruitment-navbar .navbar-nav > li > a:hover,
+                .recruitment-navbar .navbar-nav > li > a:focus {
+                    color: #0d6efd;
+                    background: #f1f6ff;
+                }
+
+            /* Login */
+
+            .recruitment-navbar .navbar-nav > li:last-child > a {
+                background: #0d6efd;
+                color: #ffffff;
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+
+                .recruitment-navbar .navbar-nav > li:last-child > a:hover {
+                    background: #0756c9;
+                    color: #ffffff;
+                }
+
+        /* Mobile */
+
+        @media (max-width: 991px) {
+
+            .portal-title-wrapper {
+                position: static;
+                transform: none;
+                display: inline-block;
+                margin-left: 10px;
+                vertical-align: middle;
+                text-align: left;
+                white-space: normal;
+            }
+
+            .portal-title {
+                font-size: 19px;
+            }
+
+            .portal-subtitle {
+                font-size: 8px;
+                letter-spacing: 1px;
+            }
+
+            .recruitment-navbar .navbar-brand {
+                padding-left: 10px;
+            }
+
+                .recruitment-navbar .navbar-brand img {
+                    height: 55px;
+                }
+        }
+
+        @media (max-width: 767px) {
+
+            .recruitment-navbar {
+                min-height: 68px;
+            }
+
+                .recruitment-navbar .navbar-brand {
+                    height: 68px;
+                    display: flex;
+                    align-items: center;
+                }
+
+                    .recruitment-navbar .navbar-brand img {
+                        height: 50px;
+                    }
+
+            .portal-title-wrapper {
+                max-width: 190px;
+                margin-top: 3px;
+            }
+
+            .portal-title {
+                font-size: 16px;
+                line-height: 20px;
+            }
+
+            .portal-subtitle {
+                display: none;
+            }
+
+            .recruitment-navbar .navbar-toggle {
+                margin-top: 17px;
+                border-radius: 7px;
+                border-color: #d9dee7;
+            }
+
+                .recruitment-navbar .navbar-toggle:hover {
+                    background: #f1f6ff;
+                }
+
+            .recruitment-navbar .navbar-nav {
+                margin-top: 5px;
+                margin-bottom: 10px;
+            }
+
+                .recruitment-navbar .navbar-nav > li > a {
+                    margin: 3px 10px;
+                }
+        }
+    </style>
+    <style>
+            /* =========================================
+        JHARKHAND RECRUITMENT PORTAL FOOTER
+        ========================================= */
+
+            .recruitment-footer {
+                background: linear-gradient(135deg, #101828 0%, #172554 100%);
+                color: #d9e1ec;
+                position: relative;
+                margin-top: 50px;
+                overflow: hidden;
+            }
+
+                .recruitment-footer::before {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 4px;
+                    background: linear-gradient( 90deg, #ff9933, #ffffff, #138808 );
+                }
+
+            .footer-main {
+                padding: 45px 0 30px;
+            }
+
+            /* Logo Section */
+
+            .footer-brand {
+                display: flex;
+                align-items: center;
+                gap: 15px;
+                margin-bottom: 15px;
+            }
+
+                .footer-brand img {
+                    width: 70px;
+                    height: 70px;
+                    object-fit: contain;
+                    background: rgba(255,255,255,0.08);
+                    border-radius: 50%;
+                    padding: 6px;
+                }
+
+            .footer-brand-title {
+                color: #ffffff;
+                font-size: 19px;
+                font-weight: 700;
+                line-height: 1.3;
+                margin: 0;
+            }
+
+            .footer-brand-subtitle {
+                display: block;
+                color: #aebbd0;
+                font-size: 11px;
+                margin-top: 4px;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+            }
+
+            .footer-description {
+                color: #aebbd0;
+                font-size: 13px;
+                line-height: 1.7;
+                margin: 12px 0 18px;
+                max-width: 330px;
+            }
+
+            /* Footer Titles */
+
+            .footer-title {
+                position: relative;
+                color: #ffffff;
+                font-size: 17px;
+                font-weight: 700;
+                margin: 0 0 20px;
+                padding-bottom: 10px;
+            }
+
+                .footer-title::after {
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    width: 42px;
+                    height: 3px;
+                    border-radius: 5px;
+                    background: #ff9933;
+                }
+
+            /* Links */
+
+            .footer-links {
+                padding: 0;
+                margin: 0;
+                list-style: none;
+            }
+
+                .footer-links li {
+                    margin-bottom: 10px;
+                }
+
+                    .footer-links li a {
+                        color: #c5cfdd;
+                        text-decoration: none;
+                        font-size: 13px;
+                        transition: all 0.25s ease;
+                    }
+
+                        .footer-links li a::before {
+                            content: "\f105";
+                            font-family: FontAwesome;
+                            margin-right: 9px;
+                            color: #ff9933;
+                            transition: margin 0.25s ease;
+                        }
+
+                        .footer-links li a:hover {
+                            color: #ffffff;
+                            padding-left: 4px;
+                        }
+
+                            .footer-links li a:hover::before {
+                                margin-right: 12px;
+                            }
+
+            /* Contact / Maintenance */
+
+            .footer-info {
+                color: #c5cfdd;
+                font-size: 13px;
+                line-height: 1.7;
+                margin-bottom: 10px;
+            }
+
+                .footer-info i {
+                    width: 20px;
+                    color: #ff9933;
+                }
+
+            .japit-link {
+                color: #ffb15c !important;
+                font-weight: 600;
+                text-decoration: none;
+            }
+
+                .japit-link:hover {
+                    color: #ffffff !important;
+                    text-decoration: underline;
+                }
+
+            /* Bottom Footer */
+
+            .footer-bottom {
+                border-top: 1px solid rgba(255,255,255,0.10);
+                padding: 18px 0;
+                background: rgba(0,0,0,0.16);
+            }
+
+                .footer-bottom p {
+                    margin: 0;
+                    color: #9eacc0;
+                    font-size: 12px;
+                    line-height: 1.6;
+                }
+
+                .footer-bottom strong {
+                    color: #dce4ef;
+                }
+
+            .footer-right {
+                text-align: right;
+            }
+
+            /* Mobile */
+
+            @media (max-width: 767px) {
+
+                .footer-main {
+                    padding: 35px 20px 20px;
+                }
+
+                .footer-column {
+                    margin-bottom: 30px;
+                }
+
+                .footer-brand {
+                    justify-content: flex-start;
+                }
+
+                .footer-title {
+                    margin-top: 10px;
+                }
+
+                .footer-bottom {
+                    text-align: center;
+                }
+
+                .footer-right {
+                    text-align: center;
+                    margin-top: 5px;
+                }
+            }
+    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Recruitment Portal</title>
+    <meta name="keywords" content="Recruitment Portal,Naukri,Sarkari Naukri">
+    <meta name="description" content="JAPIT - IT & eGov projects in Jharkhand.">
+    <meta name="author" content="Amit Kumar eramit5555@gmail.com">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/images/logos/jh-logo.png">
+
+    <link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/style.css" rel="stylesheet"/>
+<link href="/Content/css/responsive.css" rel="stylesheet"/>
+<link href="/Content/css/custom.css" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/jquery-ui.css" rel="stylesheet"/>
+
+    <style>
+        .register-body,
+        .register-body p,
+        .register-body span,
+        .register-body label,
+        .register-body li,
+        .register-body small,
+        .register-body strong,
+        .register-body .card-body {
+            color: #000 !important;
+        }
+
+            .register-body .text-muted,
+            .register-body .text-primary {
+                color: #000 !important;
+            }
+
+            .register-body a {
+                color: #000;
+                font-weight: 600;
+                text-decoration: underline;
+            }
+
+            .register-body .form-label {
+                color: #000;
+                font-weight: 700;
+            }
+    </style>
+    <script defer src="/js/modernizr"></script>
+    <script src="/Scripts/sweetalert.js"></script>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-6 right-top">
+                    <div class="social-box">
+
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 left-top">
+                    <div class="email-box">
+                        <a href="mailto:jharkhand.recruitment@rediffmail.com">
+                            <i class="fa fa-envelope-o"></i> jharkhand.recruitment@rediffmail.com
+                        </a>
+                    </div>
+                    <div class="phone-box">
+                        <a href="tel:1234567890">
+                            <i class="fa fa-phone"></i> IP Phone 12269
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <header class="header header_style_01 recruitment-header">
+
+        <nav class="megamenu navbar navbar-default recruitment-navbar">
+
+            <div class="container-fluid">
+
+                <!-- LEFT: LOGO -->
+
+                <div class="navbar-header">
+
+                    <button type="button"
+                            class="navbar-toggle collapsed"
+                            data-toggle="collapse"
+                            data-target="#navbar"
+                            aria-expanded="false">
+
+                        <span class="sr-only">
+                            Toggle navigation
+                        </span>
+
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+
+                    </button>
+
+
+                    <a class="navbar-brand"
+                       href="/">
+
+                        <img src="/Content/images/logos/jh-logo.png"
+                             alt="Jharkhand Government Logo"
+                             loading="lazy">
+
+                    </a>
+
+
+                    <!-- CENTER: PORTAL NAME -->
+
+                    <div class="portal-title-wrapper">
+
+                        <h1 class="portal-title">
+                            Jharkhand Recruitment Portal
+                        </h1>
+
+                        <span class="portal-subtitle">
+                            Government of Jharkhand
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <!-- RIGHT: MENU -->
+
+                <div id="navbar"
+                     class="navbar-collapse collapse">
+
+                    <ul class="nav navbar-nav navbar-right">
+
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="/Home/Register">Register</a>
+                        </li>
+
+                        <li>
+                            <a href="/Login">Login</a>
+                        </li>
+
+                        <li>
+                            <a href="/Home/Register">New User</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </nav>
+
+    </header>
+
+    <div>
+                
+
+
+<div>
+    <div class="row">
+        <div class="col-md-12" style="text-align:center;">
+            <marquee behavior="scroll" onmouseover="this.stop();" onmouseout="this.start();" scrollamount="5">
+            </marquee>
+        </div>
+        </div>
+    <div id="about" class="section wb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="message-box">
+                        <h2>Welcome to  Recruitment Portal</h2>
+                        <p style="color:#000000">The broad objectives were to provide IT inputs to Governments Departments, Agencies and to assist them in computerization and networking, to co-ordinate with investors and industry, trade organizations and financial institutions in public and private sector. With above objectives,  geared up for implementing the projects assigned to them and succeeded in disseminating the strides made by DOIT, Jharkhand through participation in various exhibitions, seminars etc among the leading IT players of the country and thereby attracting them in the state of Jharkhand. </p>
+                    </div><!-- end messagebox -->
+                </div>
+            </div>
+            <hr class="hr1">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="post-media wow">
+                        <h4>
+                            <b>One Time Registration Benefits / एक बार पंजीकरण के लाभ:</b>
+                        </h4>
+
+                        <ul style="color:black">
+                            <li>
+
+                                Applicant need to file personal details only once.
+
+                            </li>
+                            <li>
+
+                                आवेदक को अपना व्यक्तिगत विवरण केवल एक बार दर्ज करने की आवश्यकता होगी।
+
+                            </li>
+                            <li>
+                                Applicant need to upload Photo and Signature only once
+                            </li>
+                            <li>
+
+                                आवेदक को अपना फोटो एवं हस्ताक्षर केवल एक बार अपलोड करने की आवश्यकता है।
+
+                            </li>
+                            <li>
+
+                                Applicant can also save academic and experience details for future applications.
+
+                            </li>
+                            <li>
+
+                                आवेदक अपनी शैक्षणिक योग्यता और अनुभव की जानकारी को भी भविष्य के आवेदनों के लिए सहेज सकते हैं।
+
+                            </li>
+
+                            <li>
+
+                                Once registered, applicant can apply for multiple recruitments without entering the same information again.
+
+                            </li>
+                            <li>
+
+                                एक बार पंजीकरण करने के बाद, आवेदक कई भर्तियों के लिए बिना बार-बार जानकारी भरे आवेदन कर सकते हैं।
+
+                            </li>
+                            <li>
+
+                                Saves time and ensures a hassle-free application experience.
+
+                            </li>
+                            <li>
+
+                                यह समय बचाता है और आवेदन प्रक्रिया को आसान बनाता है।
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <span style="color:black"><b>General Instructions for New Candidate / नए उम्मीदवार के लिए सामान्य निर्देश</b></span><br />
+                        <span style="color:black">
+                            <ul>
+                                <li>
+                                    For new user, click on “Register” for Registration. <br />
+                                    नए उपयोगकर्ता के लिए, पंजीकरण के लिए "Register" पर क्लिक करें।
+                                </li>
+                                <li>
+                                    Register yourself. <br />
+                                    स्वयं को पंजीकृत करें।
+                                </li>
+                                <li>
+                                    Candidate would get user ID and password. <br />
+                                    उम्मीदवार को यूज़र आईडी और पासवर्ड प्राप्त होगा।
+                                </li>
+                                <li>
+                                    Login using user ID and password. <br />
+                                    यूज़र आईडी और पासवर्ड का उपयोग करके लॉगिन करें।
+                                </li>
+                                <li>
+                                    Candidate may change the password after login. <br />
+                                    लॉगिन के बाद उम्मीदवार पासवर्ड बदल सकते हैं।
+                                </li>
+                                <li>
+                                    Fill all details like personal, academic, experience, upload documents, and then apply for various recruitments and make payment. <br />
+                                    सभी विवरण जैसे व्यक्तिगत, शैक्षणिक, अनुभव, दस्तावेज़ अपलोड करें और फिर विभिन्न भर्तियों के लिए आवेदन करें तथा भुगतान करें।
+                                </li>
+
+                            </ul>
+</span>
+                    </div><!-- end media -->
+                </div>
+                <!-- end col -->
+            </div>
+
+            <!-- end row -->
+            <hr class="hr1">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h2>Recruitment</h2>
+                                <li style="list-style-type: square; font-size:8px;">
+
+                                    <h5>
+                                        <img src="/images/gifs/new5.gif" />
+                                        <a href="/Home/fileDownload/200" title="Click to download" target="_blank" style="color:red">
+                                            <i class="fa fa-download"></i> Regarding accepting online applications from NGOs/CBOs/Networks for implementing Targeted Intervention Programmes.
+                                            <span style="color:blue">Last date to apply - 14/10/2026 11:59 PM</span>
+                                        </a>
+                                    </h5>
+
+                                    <a href="/Home/Register" style="font:xx-small;color:blue"><span nowrap>New User</span> </a><span>|</span>
+                                    <a href="/Login" style="font:xx-small;color:black">Apply</a>
+                                </li>
+                                <li style="list-style-type: square; font-size:8px;">
+
+                                    <h5>
+                                        <img src="/images/gifs/new5.gif" />
+                                        <a href="/Home/fileDownload/199" title="Click to download" target="_blank" style="color:red">
+                                            <i class="fa fa-download"></i> NOTIFICATION FOR SEEKING APPLICATIONS FOR FILLING THE VACANT POSITIONS OF JUVENILE JUSTICE BOARDS (JJBs) AND CHILD WELFARE COMMITTEES (CWCs) IN THE STATE OF JHARKHAND
+                                            <span style="color:blue">Last date to apply - 15/10/2026 11:59 PM</span>
+                                        </a>
+                                    </h5>
+
+                                    <a href="/Home/Register" style="font:xx-small;color:blue"><span nowrap>New User</span> </a><span>|</span>
+                                    <a href="/Login" style="font:xx-small;color:black">Apply</a>
+                                </li>
+                                <li style="list-style-type: square; font-size:8px;">
+
+                                    <h5>
+                                        <img src="/images/gifs/new5.gif" />
+                                        <a href="/Home/fileDownload/198" title="Click to download" target="_blank" style="color:red">
+                                            <i class="fa fa-download"></i> NOTIFICATION FOR SEEKING APPLICATIONS FOR FILLING THE VACANT POSITIONS OF JUVENILE JUSTICE BOARDS (JJBs) IN THE STATE OF JHARKHAND
+                                            <span style="color:blue">Last date to apply - 10/10/2026 11:59 PM</span>
+                                        </a>
+                                    </h5>
+
+                                    <a href="/Home/Register" style="font:xx-small;color:blue"><span nowrap>New User</span> </a><span>|</span>
+                                    <a href="/Login" style="font:xx-small;color:black">Apply</a>
+                                </li>
+
+
+
+                        <br /> <br /> <br /> <br />
+                    </div><!-- end messagebox -->
+                </div><!-- end col -->
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h2>Notice</h2>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/25-09-2026/25092026112505957DEOGHAR.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> झारखण्ड गृह रक्षा वाहिनी, देवघर विज्ञापन संख्या–01/2026 देवघर जिला के गृह रक्षक के रूप में नामांकन के लिए विज्ञापन
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010909526CHITARPUR ACCEPT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत स्वीकृत आवेदनों की सूची–चितरपुर प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010835605GOLA ACCEPT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i>  रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत स्वीकृत आवेदनों की सूची–गोला प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010703029RAMGARH REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–रामगढ़ प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010614710PATRATU REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–पतरातू प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010531887GOLA REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–गोला प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010443768CHITARPUR REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–चितरपुर प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010334792DULMI REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–दुलमी प्रखंड
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010241089MANDU REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–मांडू प्रखंड 
+                                    </a>
+                                </li>
+                                <li style="list-style-type: square; font-size:12px;">
+                                    <a href="/RecruitmentDoc/Public/10-09-2026/10092026010052519URBANTECHNICAL REJECT LIST 2026.PDF" onclick="basicPopup(this.href); return false;" title="Click to download" style="color:blue" target="_blank">
+                                        <i class="fa fa-download"></i> रामगढ़ के विज्ञापन संख्या– 01/2026 के आलोक में प्राप्त दावा/आपत्ति आवेदनों की जाँचोपरांत अस्वीकृत आवेदनों की सूची–शहरी तकनीकी
+                                    </a>
+                                </li>
+
+                        <div style="text-align:center">
+                            <a href='/Home/AnnouncementList'>View more...</a>
+                        </div>
+                    </div><!-- end messagebox -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+</div><!-- end container -->
+
+    </div>
+
+    <footer class="recruitment-footer">
+
+        <!-- Main Footer -->
+
+        <div class="footer-main">
+
+            <div class="container">
+
+                <div class="row">
+
+
+                    <!-- BRAND -->
+
+                    <div class="col-md-4 footer-column">
+
+                        <div class="footer-brand">
+
+                            <img src="/Content/images/logos/jh-logo.png"
+                                 alt="Jharkhand Government Logo"
+                                 loading="lazy">
+
+                            <div>
+
+                                <h3 class="footer-brand-title">
+                                    Jharkhand Recruitment Portal
+                                </h3>
+
+                                <span class="footer-brand-subtitle">
+                                    Government of Jharkhand
+                                </span>
+
+                            </div>
+
+                        </div>
+
+
+                        <p class="footer-description">
+                            Official recruitment portal of the Government
+                            of Jharkhand for providing recruitment-related
+                            information and online services to candidates.
+                        </p>
+
+
+
+
+                    </div>
+
+
+                    <!-- USEFUL LINKS -->
+
+                    <div class="col-md-4 footer-column">
+
+                        <h3 class="footer-title">
+                            Useful Links
+                        </h3>
+
+                        <ul class="footer-links">
+
+                            <li>
+                                <a href="https://www.upsc.gov.in/"
+                                   target="_blank"
+                                   rel="noopener">
+                                    UPSC
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="http://jpsc.gov.in"
+                                   target="_blank"
+                                   rel="noopener">
+                                    JPSC
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="https://www.india.gov.in/"
+                                   target="_blank"
+                                   rel="noopener">
+                                    Government of India
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+
+                    <!-- INFORMATION -->
+
+                    <div class="col-md-4 footer-column">
+
+                        <h3 class="footer-title">
+                            Portal Information
+                        </h3>
+
+                        <p class="footer-info">
+                            <i class="fa fa-university"></i>
+                            Government of Jharkhand, India
+                        </p>
+
+                        <p class="footer-info">
+                            <i class="fa fa-shield"></i>
+                            Secure Online Recruitment Services
+                        </p>
+
+                        <p class="footer-info">
+                            <i class="fa fa-cogs"></i>
+                            Designed &amp; Maintained by
+                            <a href="https://japit.jharkhand.gov.in/"
+                               target="_blank"
+                               rel="noopener"
+                               class="japit-link">
+                                JAPIT
+                            </a>
+                        </p>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- Bottom Footer -->
+
+        <div class="footer-bottom">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-sm-6">
+
+                        <p>
+                            © 2026
+                            <strong>Jharkhand Recruitment Portal</strong>.
+                            All Rights Reserved.
+                        </p>
+
+                    </div>
+
+                    <div class="col-sm-6 footer-right">
+
+                     
+                        <p>Technical Support - jharkhand.recruitment@rediffmail.com</p>
+
+                       
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+
+
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+
+    <script src="/js/all.js"></script>
+<script src="/js/custom.js"></script>
+<script src="/js/portfolio.js"></script>
+<script src="/js/hoverdir.js"></script>
+
+    <script src="/Scripts/jquery.validate.min.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script src="/Scripts/jquery-ui-1.12.1.js"></script>
+
+
+    <script defer>
+        function basicPopup(url) {
+            window.open(url, 'popUpWindow', 'height=500,width=500,left=500,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no');
+        }
+    </script>
+</body>
+</html>

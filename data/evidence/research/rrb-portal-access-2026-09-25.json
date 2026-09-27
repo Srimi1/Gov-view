@@ -1,0 +1,13 @@
+{
+  "checkedOn": "2026-09-25",
+  "authority": "Railway Recruitment Boards, Ministry of Railways",
+  "homepage": "https://rrb.indianrailways.gov.in/chennai",
+  "retainedHomepage": "rrb-chennai-portal-2026.html",
+  "retainedHomepageSha256": "a8efb298c6ba5229418c7173443313f564a0ab798b2f36de0b153442fad52295",
+  "finding": "The new Chennai homepage lists 2026 CEN categories and dated notices. The robots.txt endpoint and both observed getdata query formats returned a 200 HTML Request Rejected page to this collector. Former rrbchennai.gov.in document paths redirected to the new Chennai homepage, not to the original PDF. No notice bytes were imported and no railway cycle was staged.",
+  "blockedEndpoints": [
+    "https://rrb.indianrailways.gov.in/robots.txt",
+    "https://rrb.indianrailways.gov.in/getdata?cennum=05/2026&loc=chennai&category=Notification",
+    "https://rrb.indianrailways.gov.in/getdata?loc=chennai&cenum=05/2026&category=Notification"
+  ]
+}

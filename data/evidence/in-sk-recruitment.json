@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://spsc.sikkim.gov.in/Advertisement.html",
+  "fetchedAt": "2026-09-24T22:55:13.540Z",
+  "sha256": "c3c9d1665330f182aeee0058150630bbd48657bdabd8f9121cecabae895ba3ea",
+  "bytes": 30193,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://spsc.sikkim.gov.in/Notices.html",
+  "fetchedAt": "2026-09-24T22:55:14.539Z",
+  "sha256": "aaf0bf77de3c264a4a390cb4e3400ca823e31633be20bdb00fdcf7ffd8648b59",
+  "bytes": 60354,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Adv_09_07_2026.pdf",
+  "fetchedAt": "2026-09-24T22:55:16.312Z",
+  "sha256": "d7b034b5b9c200db939b6255c707383c3155cfb0b2e26d18f1fcfd6b2bd32e86",
+  "bytes": 1952914,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Notification_09_07_2026.pdf",
+  "fetchedAt": "2026-09-24T22:55:17.253Z",
+  "sha256": "cdd7e95758a523cbe60eb2e2a202bbdcb834afd02adb2a3876686d3a9b031e16",
+  "bytes": 2106040,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://spsc.sikkim.gov.in/Advertisements/Village_Level_Worker_Syllabus_09_07_2026.pdf",
+  "fetchedAt": "2026-09-24T22:55:17.967Z",
+  "sha256": "2c511ec605826028186612ff38da5cd5ec9121a9668f30b432350f849f955155",
+  "bytes": 1504193,
+  "contentType": "application/pdf"
+ }
+]

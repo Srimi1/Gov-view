@@ -1,0 +1,154 @@
+{
+  "sourceId": "in-py-pihmct-lecturer-2026",
+  "collectedAt": "2026-09-25T15:20:29.720Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "PIHMCT August 2026 Assistant Lecturer notice",
+      "programme": "PIHMCT Assistant Lecturer contract recruitment 2026",
+      "status": "open",
+      "statusNote": "Official PIHMCT notice board, detail and exact six-page PDF retained. First connector output awaits founder review; receipt hours and later amendments require confirmation.",
+      "scopeLabel": "Pondicherry Institute of Hotel Management and Catering Technology, sponsored by Government of India and Government of Puducherry. Murungapakkam is the application-delivery address, not a published test venue or applicant domicile rule.",
+      "outcome": "3 Assistant Lecturer contract positions; consolidated ₹35,000 per month. Contract duration and final work posting are not stated in retained PDF.",
+      "qualifications": "Alternative Category A: postgraduate Hospitality/Tourism or MBA plus a qualifying full-time hotel/hospitality/culinary degree or three-year diploma with at least 55%; recognized foreign equivalent may count with AIU recognition. Alternative Category B: qualifying full-time bachelor's with at least 55% and two years hospitality industry experience. NHTET with prescribed marks is normally required, but a qualifying Hospitality PhD after the base qualification removes that requirement. Exact equivalence and experience require review.",
+      "citizenshipRule": "PDF application form asks nationality, but notice gives no citizenship restriction or foreign-citizen acceptance rule. Recognition of a foreign qualification does not prove foreign-citizen permission. International applicants need institute confirmation before applying, selection, or appointment.",
+      "residenceRule": "No applicant domicile or residence condition is stated. Correspondence-address form field and Murungapakkam delivery address do not establish such a rule.",
+      "selectionStages": [
+        "Ensure official form, testimonial copies and recent passport-size photograph reach PIHMCT Principal by receipt deadline",
+        "Skill test prescribed by NCHMCT, with applicable NHTET weightage",
+        "Credential and eligibility verification before contract appointment"
+      ],
+      "fee": "No application fee stated in retained PIHMCT PDF; confirm with institute before submission.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-07-01",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm nationality/work permission, category A or B qualification alternative, AIU foreign-equivalence route, 55% marks, NHTET or PhD exemption, age 35 maximum for general on 1 July 2026 and any category relaxation."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm NCHMCT skill test, NHTET weightage, original documents and test venue. No venue or language-level requirement is published in this PDF."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm foreign-citizen work authorization if applicable, contract tenure, final workplace and appointment documents."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Skill-test venue not published; Murungapakkam is application-delivery address"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://pihmct.py.gov.in/sites/default/files/recruitment-notice-assistant-lecturer-contract.pdf",
+      "changes": [],
+      "id": "pihmct-assistant-lecturer-2026",
+      "sourceId": "in-py-pihmct-lecturer-2026",
+      "title": "Assistant Lecturer — PIHMCT Puducherry",
+      "authority": "Pondicherry Institute of Hotel Management and Catering Technology",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-PY"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Original notice says application and testimonials must reach PIHMCT Principal on or before 25 October 2026. No receipt clock time or official timezone is named. Notice-board date 19 August is publication, not application opening."
+      },
+      "languageNote": "Notice and application form state no mandatory language or formal proficiency level. NHTET is a hospitality teaching eligibility test, not a language-level certificate.",
+      "salary": "Consolidated ₹35,000 per month.",
+      "sources": [
+        {
+          "id": "in-py-pihmct-lecturer-2026:e05c505239b8",
+          "title": "PIHMCT official notice board, 19 August 2026",
+          "authority": "Pondicherry Institute of Hotel Management and Catering Technology",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://pihmct.py.gov.in/notice-board",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://pihmct.py.gov.in/notice-board",
+          "sha256": "643af2534214320be60c31d7ffa54a97940ff9ae5c32596e8d5daab65aaf6129",
+          "lastSuccessfulFetchAt": "2026-09-25T15:20:39.487Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-py-pihmct-lecturer-2026:a7489fefa6e9",
+          "title": "PIHMCT Assistant Lecturer notice detail",
+          "authority": "Pondicherry Institute of Hotel Management and Catering Technology",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://pihmct.py.gov.in/applications-invited-03-posts-assistant-lecturer-contractual-basis",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://pihmct.py.gov.in/applications-invited-03-posts-assistant-lecturer-contractual-basis",
+          "sha256": "7cc2c008aef9ecda10966a1278502b5e2624dc7bb4430f078b7822ac2585530a",
+          "lastSuccessfulFetchAt": "2026-09-25T15:20:40.247Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-py-pihmct-lecturer-2026:a596bf28cee2",
+          "title": "PIHMCT Assistant Lecturer notification and application form",
+          "authority": "Pondicherry Institute of Hotel Management and Catering Technology",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://pihmct.py.gov.in/sites/default/files/recruitment-notice-assistant-lecturer-contract.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://pihmct.py.gov.in/sites/default/files/recruitment-notice-assistant-lecturer-contract.pdf",
+          "sha256": "dd735c34aab12be48c1dd8ca95c7887647edb02e95c77bc68cb4a06db9fa2e00",
+          "lastSuccessfulFetchAt": "2026-09-25T15:20:42.555Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://pihmct.py.gov.in/notice-board",
+      "fetchedAt": "2026-09-25T15:20:39.487Z",
+      "sha256": "643af2534214320be60c31d7ffa54a97940ff9ae5c32596e8d5daab65aaf6129",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 110502
+    },
+    {
+      "url": "https://pihmct.py.gov.in/applications-invited-03-posts-assistant-lecturer-contractual-basis",
+      "fetchedAt": "2026-09-25T15:20:40.247Z",
+      "sha256": "7cc2c008aef9ecda10966a1278502b5e2624dc7bb4430f078b7822ac2585530a",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 106056
+    },
+    {
+      "url": "https://pihmct.py.gov.in/sites/default/files/recruitment-notice-assistant-lecturer-contract.pdf",
+      "fetchedAt": "2026-09-25T15:20:42.555Z",
+      "sha256": "dd735c34aab12be48c1dd8ca95c7887647edb02e95c77bc68cb4a06db9fa2e00",
+      "contentType": "application/pdf",
+      "bytes": 397673
+    }
+  ],
+  "warnings": [
+    "Three positions share one Assistant Lecturer application form; no duplicate opportunity count is created.",
+    "Notice gives no nationality rule or formal language level; a nationality form field and foreign-degree equivalence clause do not establish foreign applicant acceptance.",
+    "Category A/B qualifications, NHTET or Hospitality PhD exemption, age relaxation, skill-test details and contract duration need founder review.",
+    "25 October is a physical receipt deadline with no published office cutoff hour or official timezone.",
+    "Only this PIHMCT notice is collected; Puducherry government, DPAR and other institutes remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "pihmct-assistant-lecturer-2026": {
+      "evidenceRevision": "beb61d13636d1ef20fa32b49aad4977102ef32716405403642809c4293202a25",
+      "recordRevision": "50954666e8b35ea28fc868c990bd8557f4f67ad210e92681c8c66979d12f440d"
+    }
+  }
+}

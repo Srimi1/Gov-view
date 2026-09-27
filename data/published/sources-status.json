@@ -1,24 +1,30 @@
 {
   "in-upsc": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-25T05:31:02.852Z",
     "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
-    "lastError": null,
-    "consecutiveFailures": 0,
+    "lastError": "robots.txt unreachable at https://www.upsc.gov.in: robots.txt returned non-text content",
+    "consecutiveFailures": 1,
     "recordCount": 2
   },
   "in-ssc": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-25T13:12:46.946Z",
+    "lastSuccessfulFetchAt": "2026-09-25T13:12:46.946Z",
     "lastError": null,
     "consecutiveFailures": 0,
-    "recordCount": 2
+    "recordCount": 2,
+    "complete": true,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
   },
   "gb-teaching-vacancies": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-25T05:31:02.852Z",
+    "lastSuccessfulFetchAt": "2026-09-25T05:31:02.852Z",
     "lastError": null,
     "consecutiveFailures": 0,
-    "recordCount": 6175
+    "recordCount": 6175,
+    "complete": true,
+    "pendingReviewCount": 7004,
+    "lastValidatedAt": null
   },
   "fr-choisir-service-public": {
     "lastAttemptAt": "2026-09-24T17:04:16.316Z",
@@ -28,7 +34,7 @@
     "recordCount": 12581
   },
   "us-usajobs": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-25T05:31:02.852Z",
     "lastSuccessfulFetchAt": null,
     "lastError": "Missing secret(s): USAJOBS_API_KEY, USAJOBS_EMAIL",
     "consecutiveFailures": 0,
@@ -39,10 +45,505 @@
     ]
   },
   "jp-jinji": {
-    "lastAttemptAt": "2026-09-24T17:04:16.316Z",
-    "lastSuccessfulFetchAt": "2026-09-24T17:04:16.316Z",
+    "lastAttemptAt": "2026-09-25T13:08:19.606Z",
+    "lastSuccessfulFetchAt": "2026-09-25T13:08:19.606Z",
     "lastError": null,
     "consecutiveFailures": 0,
-    "recordCount": 21
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null,
+    "totalAvailable": 21
+  },
+  "in-pb-sssb": {
+    "lastAttemptAt": "2026-09-25T02:45:26.951Z",
+    "lastSuccessfulFetchAt": "2026-09-25T02:45:26.951Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-wb-recruitment": {
+    "lastAttemptAt": "2026-09-25T02:53:03.918Z",
+    "lastSuccessfulFetchAt": "2026-09-25T02:53:03.918Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-kl-recruitment": {
+    "lastAttemptAt": "2026-09-25T15:09:07.878Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:09:07.878Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 21,
+    "lastValidatedAt": null
+  },
+  "in-mh-actrec": {
+    "lastAttemptAt": "2026-09-25T03:32:40.974Z",
+    "lastSuccessfulFetchAt": "2026-09-25T03:32:40.974Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "br-navbrasil-2026": {
+    "lastAttemptAt": "2026-09-25T03:46:53.292Z",
+    "lastSuccessfulFetchAt": "2026-09-25T03:46:53.292Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-as-goalpara-ft8": {
+    "lastAttemptAt": "2026-09-25T04:00:51.309Z",
+    "lastSuccessfulFetchAt": "2026-09-25T04:00:51.309Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-jk-jkssb": {
+    "lastAttemptAt": "2026-09-25T04:20:19.971Z",
+    "lastSuccessfulFetchAt": "2026-09-25T04:20:19.971Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 3,
+    "lastValidatedAt": null
+  },
+  "in-kvs-deputation": {
+    "lastAttemptAt": "2026-09-25T11:48:27.132Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:48:27.132Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-mecl-nonexecutive": {
+    "lastAttemptAt": "2026-09-25T04:48:14.728Z",
+    "lastSuccessfulFetchAt": "2026-09-25T04:48:14.728Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 16,
+    "lastValidatedAt": null
+  },
+  "in-tg-sports-physio": {
+    "lastAttemptAt": "2026-09-25T05:03:08.869Z",
+    "lastSuccessfulFetchAt": "2026-09-25T05:03:08.869Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "ca-fswep-great-lakes": {
+    "lastAttemptAt": "2026-09-25T07:22:13.551Z",
+    "lastSuccessfulFetchAt": "2026-09-25T07:22:13.551Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "nz-gov-jobs": {
+    "lastAttemptAt": "2026-09-25T11:48:27.132Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:48:27.132Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-mp-esb-police-gd": {
+    "lastAttemptAt": "2026-09-25T07:54:54.466Z",
+    "lastSuccessfulFetchAt": "2026-09-25T07:54:54.466Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-mh-pune-divcomm-legal": {
+    "lastAttemptAt": "2026-09-25T08:02:51.582Z",
+    "lastSuccessfulFetchAt": "2026-09-25T08:02:51.582Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-jh-jjb-cwc-2026": {
+    "lastAttemptAt": "2026-09-25T08:41:18.586Z",
+    "lastSuccessfulFetchAt": "2026-09-25T08:41:18.586Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-wb-iiserkol-nt04-2026": {
+    "lastAttemptAt": "2026-09-25T09:02:38.201Z",
+    "lastSuccessfulFetchAt": "2026-09-25T09:02:38.201Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 7,
+    "lastValidatedAt": null
+  },
+  "in-ut-nituk-nt08-2026": {
+    "lastAttemptAt": "2026-09-25T11:48:27.132Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:48:27.132Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 15,
+    "lastValidatedAt": null
+  },
+  "in-isro-iprc-rmt-2026-01": {
+    "lastAttemptAt": "2026-09-25T11:43:05.962Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:43:05.962Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 11,
+    "lastValidatedAt": null
+  },
+  "us-ca-calcareers-jc-532295": {
+    "lastAttemptAt": "2026-09-25T11:48:27.132Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:48:27.132Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-iitb-faculty-l10-2026": {
+    "lastAttemptAt": "2026-09-25T10:47:25.727Z",
+    "lastSuccessfulFetchAt": "2026-09-25T10:47:25.727Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-br-dnsricm-lecturer-2026": {
+    "lastAttemptAt": "2026-09-25T11:28:30.594Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:28:30.594Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-mh-dmer-nashik-faculty-2026": {
+    "lastAttemptAt": "2026-09-25T11:28:19.094Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:28:19.094Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-uk-icfre-fri-walkin-2026": {
+    "lastAttemptAt": "2026-09-25T11:40:05.547Z",
+    "lastSuccessfulFetchAt": "2026-09-25T11:40:05.547Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-dl-ignou-nonteaching-2026": {
+    "lastAttemptAt": "2026-09-25T13:00:36.968Z",
+    "lastSuccessfulFetchAt": "2026-09-25T13:00:36.968Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 12,
+    "lastValidatedAt": null
+  },
+  "in-as-recruitment": {
+    "lastAttemptAt": "2026-09-25T13:26:21.353Z",
+    "lastSuccessfulFetchAt": "2026-09-25T13:26:21.353Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null,
+    "totalAvailable": 12
+  },
+  "in-ibps-crp": {
+    "lastAttemptAt": "2026-09-25T13:53:57.471Z",
+    "lastSuccessfulFetchAt": "2026-09-25T13:53:57.471Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 10,
+    "lastValidatedAt": null
+  },
+  "in-isro-sac-02-2026": {
+    "lastAttemptAt": "2026-09-25T14:16:26.635Z",
+    "lastSuccessfulFetchAt": "2026-09-25T14:16:26.635Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": true,
+    "pendingReviewCount": 16,
+    "lastValidatedAt": null,
+    "totalAvailable": 16
+  },
+  "in-mz-mirsac-group-d-2026": {
+    "lastAttemptAt": "2026-09-25T14:46:08.797Z",
+    "lastSuccessfulFetchAt": "2026-09-25T14:46:08.797Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "za-dpsa-cpsi-internships-2026": {
+    "lastAttemptAt": "2026-09-25T14:54:19.795Z",
+    "lastSuccessfulFetchAt": "2026-09-25T14:54:19.795Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-rrb-railways": {
+    "lastAttemptAt": "2026-09-25T15:04:41.306Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:04:41.306Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-py-pihmct-lecturer-2026": {
+    "lastAttemptAt": "2026-09-25T15:20:29.720Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:20:29.720Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-hp-forest-joa-it-pwd-2026": {
+    "lastAttemptAt": "2026-09-25T15:30:14.108Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:30:14.108Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "bt-rcsc-bcse-2026": {
+    "lastAttemptAt": "2026-09-25T15:40:40.997Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:40:40.997Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-jk-recruitment": {
+    "lastAttemptAt": "2026-09-25T15:56:14.966Z",
+    "lastSuccessfulFetchAt": "2026-09-25T15:56:14.966Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-icmr-nithr-yp1-admin-2026": {
+    "lastAttemptAt": "2026-09-25T16:10:45.312Z",
+    "lastSuccessfulFetchAt": "2026-09-25T16:10:45.312Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-icmr-nihr-bhubaneswar-junior-consultant-2026": {
+    "lastAttemptAt": "2026-09-25T16:22:48.633Z",
+    "lastSuccessfulFetchAt": "2026-09-25T16:22:48.633Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-up-recruitment": {
+    "lastAttemptAt": "2026-09-25T16:45:52.976Z",
+    "lastSuccessfulFetchAt": "2026-09-25T16:45:52.976Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-ka-nlsiu-professor-law-2026": {
+    "lastAttemptAt": "2026-09-25T16:58:19.460Z",
+    "lastSuccessfulFetchAt": "2026-09-25T16:58:19.460Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-ga-gssc": {
+    "lastAttemptAt": "2026-09-25T17:05:52.509Z",
+    "lastSuccessfulFetchAt": "2026-09-25T17:05:52.509Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 4,
+    "lastValidatedAt": null
+  },
+  "ke-pscims": {
+    "lastAttemptAt": "2026-09-25T17:20:12.689Z",
+    "lastSuccessfulFetchAt": "2026-09-25T17:20:12.689Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": true,
+    "pendingReviewCount": 42,
+    "lastValidatedAt": null,
+    "totalAvailable": 42
+  },
+  "in-ka-nlsiu-other-faculty-2026": {
+    "lastAttemptAt": "2026-09-25T17:28:48.674Z",
+    "lastSuccessfulFetchAt": "2026-09-25T17:28:48.674Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 4,
+    "lastValidatedAt": null,
+    "totalAvailable": 5
+  },
+  "in-apeda-associates-2026": {
+    "lastAttemptAt": "2026-09-26T19:20:46.207Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:20:46.207Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-drdo-jrf-september-2026": {
+    "lastAttemptAt": "2026-09-26T19:32:17.974Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:32:17.974Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "ie-publicjobs-ao-specialist-2026": {
+    "lastAttemptAt": "2026-09-26T19:56:15.723Z",
+    "lastSuccessfulFetchAt": "2026-09-26T19:56:15.723Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-bel-september-engineers-2026": {
+    "lastAttemptAt": "2026-09-26T20:26:02.349Z",
+    "lastSuccessfulFetchAt": "2026-09-26T20:26:02.349Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 2,
+    "lastValidatedAt": null
+  },
+  "in-ut-recruitment": {
+    "lastAttemptAt": "2026-09-26T20:59:24.810Z",
+    "lastSuccessfulFetchAt": "2026-09-26T21:01:16.468Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-tn-recruitment": {
+    "lastAttemptAt": "2026-09-26T21:01:35.338Z",
+    "lastSuccessfulFetchAt": "2026-09-26T21:01:42.769Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 4,
+    "lastValidatedAt": null
+  },
+  "in-an-recruitment": {
+    "lastAttemptAt": "2026-09-26T21:07:50.091Z",
+    "lastSuccessfulFetchAt": "2026-09-26T21:07:53.801Z",
+    "lastError": null,
+    "consecutiveFailures": 0,
+    "recordCount": 0,
+    "complete": false,
+    "pendingReviewCount": 1,
+    "lastValidatedAt": null
+  },
+  "in-mp-esb-steno-asi-2026": {
+    "lastAttemptAt": "2026-09-26T23:40:00.965Z",
+    "lastSuccessfulFetchAt": null,
+    "lastError": "Retained evidence storage budget reached; previous records preserved",
+    "consecutiveFailures": 1,
+    "recordCount": 0
   }
 }

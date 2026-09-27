@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://goalpara.assam.gov.in/document/recruitment",
+  "fetchedAt": "2026-09-25T04:00:53.366Z",
+  "sha256": "110b7a587292b147a71dc884a890a31f1cc40ca8b0cef8f82927bd3a757b3494",
+  "bytes": 178967,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf",
+  "fetchedAt": "2026-09-25T04:00:53.709Z",
+  "sha256": "adeb7ac119a9deaac2153b68bc3492be3f8d2c319f99d571fcc71fd63dcb8198",
+  "bytes": 718303,
+  "contentType": "application/pdf"
+ }
+]

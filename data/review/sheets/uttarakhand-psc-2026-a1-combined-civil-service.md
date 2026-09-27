@@ -1,0 +1,72 @@
+# Founder review: Uttarakhand Combined State Civil / Upper Subordinate Services Examination 2026
+
+**Pending draft. No approval or publication is recorded by this sheet.**
+
+- Source: in-ut-recruitment
+- Cycle ID: uttarakhand-psc-2026-a1-combined-civil-service
+- Collected: 2026-09-25T00:11:01.541Z
+- Proposed deadline: 2026-09-29 23:59:59 Asia/Kolkata; precision second
+- Evidence revision: `59d521fe6d4ccf9bfa0310e57dd8925634e9471fdf97b529418ee60837ab77cf`
+- Record revision: `cb986e1c5ee1f6958f8b8d6067d52554c2336a3a1373ec3632c6c0448c4cf67d`
+
+## Original evidence
+
+| Document | Language / format | Link | Retained hash |
+| --- | --- | --- | --- |
+| UKPSC recruitment register | Hindi/English / HTML | [Open official source](https://psc.uk.gov.in/candidate-corner/recruitment) | `dd94d0268d715ecb6268ebecdfe449e69550abe1503281921187c365bf62e665` |
+| UKPSC PCS 2026 summary | Hindi/English / PDF | [Open official source](https://psc.uk.gov.in/public/uploads/recruitment/1247631101.pdf) | `667960213d2a258fd0ebfabaec5297c995450b7b13de01781d07715b380aede6` |
+| UKPSC PCS 2026 advertisement | Hindi/English / PDF | [Open official source](https://psc.uk.gov.in/public/uploads/recruitment/1843959203.pdf) | `56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b` |
+| UKPSC PCS 2026 duplicate-link | Hindi/English / PDF | [Open official source](https://psc.uk.gov.in/public/uploads/recruitment/52805175.pdf) | `56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b` |
+
+Check original-language pages and later amendments. A successful fetch proves document bytes were retained; it does not verify extracted claims.
+
+## Proposed fields
+
+- [ ] **title** — Uttarakhand Combined State Civil / Upper Subordinate Services Examination 2026
+
+- [ ] **cycleLabel** — Advertisement A-1/E-1/2026-27
+
+- [ ] **pathway** — recruitment
+
+- [ ] **scopeLabel** — One online application and later post preference for 67 vacancies across 16 post codes; duplicate PDF links are one notice
+
+- [ ] **outcome** — 67 Group A/B vacancies across 16 post codes, including Deputy Collector, Deputy Superintendent of Police, District Commandant, Finance Officer, Assistant Commissioner and other state services. Post-specific appointment rules apply.
+
+- [ ] **applicationWindow** — {"opensOn":"2026-09-09","closesOn":"2026-09-29","cutoffLocalTime":"23:59:59","cutoffInclusive":true,"officialTimeZone":"Asia/Kolkata","precision":"second","note":"Advertisement page 1 and summary page 1: applications 9–29 September 2026, through 23:59:59. Pages 1 and 15: 7–16 October is a later edit window only. Notice does not print timezone; Asia/Kolkata is Uttarakhand local interpretation."}
+
+- [ ] **qualifications** — Most posts require a degree from a university established by law in India; several post codes require specific degrees or experience. General age 21–42 on 1 July 2026, subject to state-category, disability and service relaxations. Police and Home Guards posts have physical/medical standards \(advertisement pages 6–10\).
+
+- [ ] **citizenshipRule** — Advertisement page 13 accepts Indian citizens; Tibetan refugees who came to India before 1 January 1962 intending permanent settlement; and persons of Indian origin migrating for permanent settlement from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda or Tanzania. Non-citizen routes need a state-government eligibility certificate, and appointment can be provisional until it is produced. Other foreign-citizen eligibility is not established by this notice.
+
+- [ ] **residenceRule** — Uttarakhand residence is not a blanket application condition in the retained notice. State residence and category certificates control reservation and age-relaxation benefits; a non-resident may apply for unreserved consideration subject to all other criteria \(advertisement pages 10–12\).
+
+- [ ] **selectionStages** — \["Preliminary objective examination: General Studies and qualifying General Aptitude Test","Main written examination: eight compulsory papers, including General Hindi with 35% minimum","Interview/personality test","Post-specific document, physical and medical checks; post preferences collected after successful preliminary stage"\]
+
+- [ ] **fee** — Unreserved and Uttarakhand OBC/EWS: ₹166.36 total; Uttarakhand SC/ST and eligible disability categories: ₹76.36; qualifying Uttarakhand orphan candidates: no fee. Other category rules require notice review \(page 16\).
+
+- [ ] **rules** — {"complete":false,"asOn":"2026-07-01","education":{"minLevel":"bachelor","evidence":"Advertisement pages 6–7: general degree requirement for most posts, with listed post-specific degrees; equivalence and exceptions require review."},"age":{"min":21,"evidence":"Advertisement page 9: age at least 21 on 1 July 2026; general upper limit 42 with category and service relaxations on page 10."},"languages":\[{"language":"hi","stage":"selection","requirement":"Main examination has compulsory General Hindi paper worth 150 marks; minimum 35% required. No CEFR or other standard level is stated.","evidence":"Advertisement page 26 and English syllabus page 46.","sourceUrl":"https://psc.uk.gov.in/public/uploads/recruitment/1843959203.pdf"}\],"manualChecks":\[{"stage":"apply","text":"Verify Indian citizenship or the narrow Tibetan-refugee/person-of-Indian-origin exception and required eligibility certificate. Nationality alone cannot decide those documentary routes \(advertisement page 13\)."},{"stage":"apply","text":"Verify post-specific degree, professional qualification and experience; one form permits multiple post choices \(advertisement pages 6–8 and 14\)."},{"stage":"apply","text":"Verify general age 21–42 on 1 July 2026, plus applicable state-category/disability/service relaxations and certificates \(advertisement pages 9–12\)."},{"stage":"selection","text":"Qualify General Hindi main paper at 35% of 150 marks; other written answers may use permitted Hindi or English medium, without mixed-language answers \(advertisement pages 20, 26 and 46\)."},{"stage":"outcome","text":"Confirm eligibility certificate for conditional non-citizen categories and post-specific physical, medical, character and appointment checks \(advertisement pages 8–13\)."}\]}
+
+- [ ] **venues** — \[{"kind":"unknown","name":"Preliminary examination city choices appear in Appendix 1; individual centre assignment and street venue require official confirmation."}\]
+
+- [ ] **applicationUrl** — https://pscuk.net.in/
+
+## Previous approved revision
+
+None for this cycle. Treat every field as a first publication check.
+
+## Warnings and gaps
+
+- One combined PCS application covers 67 vacancies across 16 post codes. Two official links contain byte-identical 81-page advertisements; they do not create duplicate cycles.
+- Index End Date cells can represent a correction or result notice, not an application deadline. The unrelated 22 and 24 September rows are bound as current preceding rows; any new row forces founder review.
+- Non-citizen eligibility exists only for narrow refugee/migrant categories with a state certificate; all other foreign applicants require official confirmation. Residence-based reservation is separate.
+- General Hindi main paper requires 35% but no CEFR level. Hindi source text and post-specific conditions need founder visual review before publication.
+- Other UKPSC notices, departmental and local recruitment remain uncollected coverage gaps.
+
+## Founder decision record
+
+- [ ] Verify exact retained bytes, linked documents, notice dates, amendments and status.
+- [ ] Resolve nationality, residence, language and qualification conditions for each application, selection and outcome stage.
+- [ ] Approve, amend or reject with reason, reviewer name, evidence summary and actual minutes spent. If amended, regenerate this sheet for the new record revision.
+
+No decision, reviewer identity or time spent is filled automatically.
+

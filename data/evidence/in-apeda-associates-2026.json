@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://apeda.gov.in/recruitment-appointment",
+  "fetchedAt": "2026-09-26T19:20:48.022Z",
+  "sha256": "6c25c300e52c33a24d140155a9a9a596743e214ea32b4b4cfc9ea2cae58a52bf",
+  "bytes": 98988,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://apeda.gov.in/recruitment-appointment-archive",
+  "fetchedAt": "2026-09-26T19:20:49.609Z",
+  "sha256": "c2bff657db12a7276158c379c28fac63053a59459eb91ee2ada561dda35179fe",
+  "bytes": 538027,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf",
+  "fetchedAt": "2026-09-26T19:20:55.111Z",
+  "sha256": "1864645263621cb83506f0508bbe9dd0a792d7437e0fe91ea420e45bb00e92d6",
+  "bytes": 374049,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Trade_11_08_2026.pdf",
+  "fetchedAt": "2026-09-26T19:21:00.123Z",
+  "sha256": "08306466792e991b2275c6b1f4e57aa05c7f124698acaa091156c1f55bbd31b4",
+  "bytes": 359617,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,254 @@
+{
+  "researchDate": "2026-09-27",
+  "notPublishedEligibility": true,
+  "sourceCountIsNotCycleCount": true,
+  "translationAcceptance": "pending-human-review",
+  "sources": [
+    {
+      "sourceId": "cn-scs-national-exams",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "central civil-service exam recruitment; rank is not proof of permanent tenure",
+      "summary": "Retained official Yuli government copy of the 2026 central civil-service announcement explicitly requires PRC nationality. Foreign citizenship alone does not meet that condition; nationality cannot override age, education, experience or role requirements. Registration was 15–24 October 2025 for the 2026 edition. Specified non-common-language posts require an additional foreign-language test; no universal proficiency-certificate level verified. Application, exam entry and final recruitment remain separate stages.",
+      "unresolved": "Bureau homepage and annual portal exact-byte access failed at robots fetch. Government copy is not the current bureau amendment register. No adapter or reviewed cycle. Retain role catalogue, examination syllabuses, supplementary rounds, exclusions, tenure, qualifications, fees, timezone and notice-specific venue evidence before publication. No 2027 intake inferred.",
+      "documents": [
+        {
+          "url": "https://www.scs.gov.cn/",
+          "path": "data/evidence/research/asia66-cn-scs-national-exams-authority-home-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.scs.gov.cn: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:26.689Z"
+        },
+        {
+          "url": "https://www.yuli.gov.cn/xjylx/c110928/202510/2b1de345f90143a99aa19e75adda2cc0.shtml",
+          "path": "data/evidence/research/asia66-cn-scs-national-exams-government-2026-notice-2026-09-27.html",
+          "status": "retained",
+          "sha256": "2593275e2e0b92759e037aeeffa317117bac2ee3b8a8197a69cc83c55748101a",
+          "fetchedAt": "2026-09-26T22:59:31.048Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://bm.scs.gov.cn/kl2026",
+          "path": "data/evidence/research/asia66-cn-scs-national-exams-annual-2026-portal-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://bm.scs.gov.cn: fetch failed",
+          "attemptedAt": "2026-09-26T23:04:43.664Z"
+        }
+      ]
+    },
+    {
+      "sourceId": "tw-moex-national-exams",
+      "pathways": [
+        "recruitment",
+        "licensing"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "civil-service recruitment and professional examinations are separate outcomes; appointment tenure unverified",
+      "summary": "Official-reader research identifies separate 115 (2026) local/island and high/general civil-service editions. Earlier indexed high/general guide gives ROC nationality as a civil-service condition; original guide retention failed, so cycle-specific nationality remains awaiting verification. Ministry 115 reform notice confirms revised English-certificate acceptance for named civil-service categories, not every job. Exam language subjects and entry certificates are separate; exact required scores remain unresolved. Civil-service nationality wording cannot be generalized to professional licensing.",
+      "unresolved": "All three exact-byte requests failed at robots access. No adapter or reviewed cycle. Preserve ROC source year and documented Gregorian conversion. Local/island planned September registration and December exams must not inherit July high/general dates. Obtain original current guides, category-specific certificate thresholds/validity and exceptions, appointment rules, fee/timezone/venue and subsequent changes. Reform announcement is not a complete eligibility rule.",
+      "documents": [
+        {
+          "url": "https://wwwc.moex.gov.tw/main/home/wfrmHome.aspx",
+          "path": "data/evidence/research/asia66-tw-moex-national-exams-authority-home-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: The operation was aborted due to timeout",
+          "attemptedAt": "2026-09-26T22:59:26.690Z"
+        },
+        {
+          "url": "https://wwwc.moex.gov.tw/main/exam/wFrmExamDetail.aspx?c=115190",
+          "path": "data/evidence/research/asia66-tw-moex-national-exams-local-2026-detail-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:46.739Z"
+        },
+        {
+          "url": "https://wwwc.moex.gov.tw/main/exam/FileHandler.ashx?File=3996&MCode=7730&PCode=5121&f=115&t=P",
+          "path": "data/evidence/research/asia66-tw-moex-national-exams-high-general-2026-guide-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://wwwc.moex.gov.tw: fetch failed",
+          "attemptedAt": "2026-09-26T23:04:43.659Z"
+        }
+      ]
+    },
+    {
+      "sourceId": "mn-csc-public-exams",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "general qualifying examination and position-specific selections require separate records; tenure unverified",
+      "summary": "Retained Council news, selection register and government vacancy referral identify public recruitment examinations. General qualification and post-specific selection are separate routes. The csc.gov.mn homepage response is a 1,208-byte client-rendered shell, not an extracted vacancy set. Historical government referral concerns a cultural-centre director selection; it does not establish current applications. No foreign-citizen permission or formal applicant language level verified. English training/testing for existing civil servants cannot become every applicant’s requirement.",
+      "unresolved": "No adapter or reviewed cycle. Current notice-level citizenship, residence, qualifications, language, appointments, exact dates/timezones, fees and venues remain unresolved. Do not equate announcement, seat or cancellation totals with distinct application cycles. Avoid applicant-name/result registers when collecting opportunity evidence. General examination success does not guarantee employment.",
+      "documents": [
+        {
+          "url": "https://www.csc.gov.mn/",
+          "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-referral-2026-09-27.html",
+          "status": "retained",
+          "sha256": "c71fb81a75954753b09254d5ccc7d0f1ad7e3570908cad37d0a69354a097ac16",
+          "fetchedAt": "2026-09-26T22:59:29.881Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://se.csc.gov.mn/",
+          "path": "data/evidence/research/asia66-mn-csc-public-exams-selection-register-2026-09-27.html",
+          "status": "retained",
+          "sha256": "a0b3b0680f751dd50152bc52737670964a63316b6f78b921c47e7b34e52cc957",
+          "fetchedAt": "2026-09-26T22:59:30.042Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://web.csc.gov.mn/home",
+          "path": "data/evidence/research/asia66-mn-csc-public-exams-authority-news-2026-09-27.html",
+          "status": "retained",
+          "sha256": "8f9f46e4d27e7985e681f556236a61536a1684af77d01e34dfb0625ed2adf5d6",
+          "fetchedAt": "2026-09-26T22:59:30.404Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://www.gov.mn/news/n/4563",
+          "path": "data/evidence/research/asia66-mn-csc-public-exams-government-selection-referral-2026-09-27.html",
+          "status": "retained",
+          "sha256": "3bc356edd381067a6d800a1dba5b6c2d119a6e62b7e6db6faaaf2da35b7dd170",
+          "fetchedAt": "2026-09-26T22:59:30.437Z",
+          "format": "HTML"
+        }
+      ]
+    },
+    {
+      "sourceId": "vn-lai-chau-civil-service",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "provincial civil-service recruitment; no permanent/fixed-term classification verified",
+      "summary": "Official-reader metadata identifies Lai Chau round 3 plan 4168/KH-SNV issued 9 September 2026. Authority index also lists plan amendment 1806/QD-SNV and announcement amendment 4189/TB-SNV on 10 September; original plan alone is insufficient. Province source is not complete national recruitment coverage. Earlier May round’s nationality/residence rules cannot be assigned to September round. Current foreign-applicant permission and formal language thresholds need notice-level verification.",
+      "unresolved": "Home, September plan and historical May PDF exact-byte access failed at robots fetch. No adapter or reviewed cycle. Original current plan, announcement, both amendments and role annexes require retention and Vietnamese review. Preserve round identity; results or cancellation of a prior appointment do not establish a new intake or cancellation of all recruitment. Qualifications, language, nationality, fees, application timezone, tenure and venues remain gaps. Credit official site when reusing information.",
+      "documents": [
+        {
+          "url": "https://sonv.laichau.gov.vn/",
+          "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-authority-home-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://sonv.laichau.gov.vn: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:26.690Z"
+        },
+        {
+          "url": "https://sonv.laichau.gov.vn/Vanbanchitiet?did=28820",
+          "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-round3-2026-plan-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://sonv.laichau.gov.vn: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:37.245Z"
+        },
+        {
+          "url": "https://xathulum.laichau.gov.vn/upload/105515/20260520/document__11__0669d.pdf",
+          "path": "data/evidence/research/asia66-vn-lai-chau-civil-service-historical-may-2026-plan-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://xathulum.laichau.gov.vn: fetch failed",
+          "attemptedAt": "2026-09-26T23:04:43.664Z"
+        }
+      ]
+    },
+    {
+      "sourceId": "kh-mcs-civil-service",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "public teacher recruitment examinations identified historically; tenure unverified",
+      "summary": "Indexed official Ministry page identifies a historical 2024 primary-teacher examination registration route through government registration service. It verifies authority discovery, not a current 2026 application cycle. Khmer interface does not prove required language proficiency. Foreign-citizen eligibility, qualifications and resulting appointment conditions remain unverified.",
+      "unresolved": "Both exact-byte requests failed at robots fetch. No adapter, reviewed cycle or current notice set. Retain current original recruitment notices, registration/referral identity, amendments, citizenship, language, age, qualifications, tenure, fees, dates/timezones and venue evidence. Ministry page is not complete public-employer coverage; historical windows must stay historical.",
+      "documents": [
+        {
+          "url": "https://www.mcs.gov.kh/",
+          "path": "data/evidence/research/asia66-kh-mcs-civil-service-authority-home-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.mcs.gov.kh: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:26.690Z"
+        },
+        {
+          "url": "https://www.mcs.gov.kh/%E1%9E%82%E1%9E%8E%E1%9F%88%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%9A%E1%9F%80%E1%9E%94%E1%9E%85%E1%9F%86%E1%9E%80%E1%9E%B6%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A1%E1%9E%84-2/",
+          "path": "data/evidence/research/asia66-kh-mcs-civil-service-teacher-registration-2024-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.mcs.gov.kh: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:37.244Z"
+        }
+      ]
+    },
+    {
+      "sourceId": "kh-nec-official-recruitment",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "short-term contract election officials explicitly described; exact contract dates unverified",
+      "summary": "Retained 21 July 2026 NEC meeting release describes approval of short-term contract recruitment documents for 555 provincial/capital secretariat officials. Roles include trainers, administrative/accounting/operations/legal assistants, secretaries, computer operators and drivers. Separate voter-registration team recruitment is also discussed. Document approval does not establish an open application window. Vacancy, office and commune totals are not cycle counts. Foreign-citizen eligibility and formal language level remain unverified; English translation is not an English requirement.",
+      "unresolved": "No adapter or reviewed cycle. Obtain approved original notices, requirement sheets, examination schedules and amendments before publishing. Contract duration, nationality/residence, qualifications, language, fees, application windows/timezones and actual venues remain gaps. Election bodies do not cover all public employers. Reader summary and retained English release require original Khmer reconciliation where material.",
+      "documents": [
+        {
+          "url": "https://nec.gov.kh/english/",
+          "path": "data/evidence/research/asia66-kh-nec-official-recruitment-authority-home-2026-09-27.html",
+          "status": "retained",
+          "sha256": "a6cdf8cf5dd6454ad33bdfe3cf3cdff43eb994929f35eec39e4e893d567f8b05",
+          "fetchedAt": "2026-09-26T22:59:29.017Z",
+          "format": "HTML"
+        },
+        {
+          "url": "https://nec.gov.kh/english/content/press-release-outcomes-national-election-committees-meeting-21st-july-2026",
+          "path": "data/evidence/research/asia66-kh-nec-official-recruitment-contract-plan-2026-2026-09-27.html",
+          "status": "retained",
+          "sha256": "02eed41a4c5d1a0047ab7d2a3978a6c255f72bdb602d1419b4e6f065fc94f6dc",
+          "fetchedAt": "2026-09-26T22:59:30.004Z",
+          "format": "HTML"
+        }
+      ]
+    },
+    {
+      "sourceId": "la-nuol-public-admissions",
+      "pathways": [
+        "admission"
+      ],
+      "status": "research-only-awaiting-review",
+      "appointmentType": "education admission; no government appointment or professional licence granted by this source",
+      "summary": "Official admission page contains placeholder text beneath foreign-student headings; it cannot prove international eligibility. Lao-language 2026–27 Chinese-teacher programme report describes July–August registration, Lao/Chinese/English written subjects and interview. Later 2+2 study scholarship mentions HSK score 210 and HSKK intermediate; HSK examination level is not specified in that passage and these are not initial entry requirements. Translation needs review. No current September intake or foreign-citizen permission verified.",
+      "unresolved": "All five exact-byte requests failed at robots access; official-reader observations remain separate from retained originals. No adapter or reviewed cycle. Obtain authoritative admission notices, foreign routes, exact language qualifications, fees, degree equivalence, application timezone, venues and later revisions. Portal login is not evidence of an open window. Central government recruitment, other universities, professional licensing and vocational pathways remain unresearched.",
+      "documents": [
+        {
+          "url": "https://www.nuol.edu.la/",
+          "path": "data/evidence/research/asia66-la-nuol-public-admissions-authority-home-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:26.690Z"
+        },
+        {
+          "url": "https://www.nuol.edu.la/index.php/en/admission",
+          "path": "data/evidence/research/asia66-la-nuol-public-admissions-english-admission-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:29.299Z"
+        },
+        {
+          "url": "https://entrance.nuol.edu.la/",
+          "path": "data/evidence/research/asia66-la-nuol-public-admissions-entrance-portal-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://entrance.nuol.edu.la: robots.txt returned non-text content",
+          "attemptedAt": "2026-09-26T22:59:26.690Z"
+        },
+        {
+          "url": "https://www.nuol.edu.la/index.php/en/news?start=10",
+          "path": "data/evidence/research/asia66-la-nuol-public-admissions-admission-news-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed",
+          "attemptedAt": "2026-09-26T22:59:29.645Z"
+        },
+        {
+          "url": "https://www.nuol.edu.la/index.php/en/news/643-%E0%BA%AA%E0%BA%B0%E0%BA%96%E0%BA%B2%E0%BA%9A%E0%BA%B1%E0%BA%99%E0%BA%82%E0%BA%BB%E0%BA%87%E0%BA%88%E0%BA%B7-%E0%BA%88%E0%BA%B1%E0%BA%94%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%AA%E0%BA%AD%E0%BA%9A%E0%BB%80%E0%BA%AA%E0%BA%B1%E0%BA%87%E0%BA%84%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%A5%E0%BA%B7%E0%BA%AD%E0%BA%81%E0%BA%99%E0%BA%B1%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2%E0%BB%83%E0%BB%9D%E0%BB%88-%E0%BA%AA%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%84%E0%BA%B9%E0%BA%9E%E0%BA%B2%E0%BA%AA%E0%BA%B2%E0%BA%88%E0%BA%B5%E0%BA%99-%E0%BA%9B%E0%BA%B0%E0%BA%88%E0%BA%B3%E0%BA%AA%E0%BA%BB%E0%BA%81%E0%BA%AA%E0%BA%B6%E0%BA%81%E0%BA%AA%E0%BA%B2-2026-2027",
+          "path": "data/evidence/research/asia66-la-nuol-public-admissions-chinese-teacher-2026-27-report-2026-09-27-failure.json",
+          "status": "failed",
+          "error": "robots.txt unreachable at https://www.nuol.edu.la: fetch failed",
+          "attemptedAt": "2026-09-26T23:04:43.664Z"
+        }
+      ]
+    }
+  ]
+}

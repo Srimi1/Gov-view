@@ -1,0 +1,612 @@
+{
+  "sourceId": "in-bel-september-engineers-2026",
+  "collectedAt": "2026-09-26T20:26:02.349Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "12949/HR/GAD/NCS/2026/02",
+      "programme": "BEL Ghaziabad Senior Assistant Engineer",
+      "status": "uncertain",
+      "statusNote": "Receipt deadline 16 October 2026; retirement/discharge criteria conflict in original notice. First output requires review and authority clarification.",
+      "scopeLabel": "Central public-sector enterprise recruitment. Unit/work locations do not create applicant domicile conditions.",
+      "outcome": "36 posts: 33 Electronics and 3 Electrical. Fixed tenure; body describes up to 15 years, renewable every five years or superannuation at 60, whichever earlier. Form title says fixed tenure five years; confirm initial appointment terms. Not permanent employment.",
+      "qualifications": "Three-year diploma in Electronics/Electrical engineering or equivalent, pass class. 100% ex-servicemen: Indian Air Force Junior Warrant Officer or above with at least 15 years of service. Retirement dates conflict: table says on/before 1 August 2026, Hindi section 5 says 31 July, English section 5 says 1 July; later clause accepts probable discharge within three months of advertisement. All readings need authority reconciliation. Age on 1 August: general 50, OBC 53, SC/ST 55, with government-rule PwBD relaxation not quantified. Rank, branch equivalence, medical category, conduct and discharge evidence require review.",
+      "citizenshipRule": "No explicit citizenship rule found in this notice. Required Indian Air Force service does not by itself prove a foreign citizen may apply or justify an invented nationality whitelist. International-applicant eligibility needs verification.",
+      "residenceRule": "No applicant domicile restriction printed; Ghaziabad/Bengaluru unit addresses are not residence rules.",
+      "selectionStages": [
+        "Send prescribed Annexure 1 form and supporting certificates by registered post, speed post or courier to Deputy General Manager (HR & Admin), BEL Ghaziabad; receipt by 16 October. Hand delivery rejected.",
+        "Verify diploma, IAF service/rank, medical category, conduct, discharge, category and employer NOC. Resolve contradictory retirement dates before eligibility decision.",
+        "Written test, then interview shortlisted in 1:7 ratio. Published examination venue unavailable.",
+        "Document/antecedent and medical checks; fixed-tenure appointment subject to final employer decision and project posting across India."
+      ],
+      "fee": "No fee amount or exemption rule stated in retained notice; absence does not establish free application.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-01",
+        "education": {
+          "minLevel": "diploma",
+          "finalYearAllowed": false,
+          "evidence": "Completed three-year Electronics/Electrical diploma or equivalent required; discipline/equivalence remains manual."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Three-year diploma in Electronics/Electrical engineering or equivalent, pass class. 100% ex-servicemen: Indian Air Force Junior Warrant Officer or above with at least 15 years of service. Retirement dates conflict: table says on/before 1 August 2026, Hindi section 5 says 31 July, English section 5 says 1 July; later clause accepts probable discharge within three months of advertisement. All readings need authority reconciliation. Age on 1 August: general 50, OBC 53, SC/ST 55, with government-rule PwBD relaxation not quantified. Rank, branch equivalence, medical category, conduct and discharge evidence require review. Verify citizenship permission directly with BEL; do not resolve retirement conflict automatically."
+          },
+          {
+            "stage": "selection",
+            "text": "Check original documents, degree equivalence, category/disability and admissible age relaxations, employer permission/NOC, selection arrangements and any language expectations. No formal language level established."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify medical fitness, antecedents, document authenticity, final tenure and employer posting decision. Minimum criteria and selection do not guarantee appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written-test/interview venue not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://bel-india.in/wp-content/uploads/2026/09/Detailed-Advertisement-1.pdf",
+      "changes": [],
+      "id": "bel-ghaziabad-sr-assistant-engineer-2026-02",
+      "sourceId": "in-bel-september-engineers-2026",
+      "title": "Senior Assistant Engineer E-I — BEL Ghaziabad, ex-servicemen",
+      "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-16",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "16 October is receipt deadline for postal/courier application, not postmark. Notice date 25 September is not a verified opening date. No cutoff time or official timezone printed."
+      },
+      "languageNote": "Notice is bilingual English/Hindi; no standardized human-language proficiency level printed. Languages-known form fields and English interpretation clause are not proficiency requirements.",
+      "salary": "E-I pay scale ₹30,000–120,000 plus company-rule allowances and benefits.",
+      "workLocations": [
+        "BEL Ghaziabad Unit; project posting across India"
+      ],
+      "sources": [
+        {
+          "id": "in-bel-september-engineers-2026:91e58f787d54",
+          "title": "BEL job notifications, page 1",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/",
+          "sha256": "8898028efc93ec0d935b4209fbd541189662f9e6cfc6e9cfc595433a10000b01",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:06.786Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:f417284fcbf7",
+          "title": "BEL job notifications, page 2",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=2",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=2",
+          "sha256": "31e81c8ea022b1c2e696fe2e9327167a88991cba783ad9949ca93c1b1e16ad60",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:09.075Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:01ec7e34a965",
+          "title": "BEL job notifications, page 3",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=3",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=3",
+          "sha256": "f8bafac39458bb96df3770007b015934dd1fb7d4a98e698a4a08ed437494ebcd",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:11.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:b10c8bef5dee",
+          "title": "BEL job notifications, page 4",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=4",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=4",
+          "sha256": "fc6749eac0f3fdbf3e3757ff1353cad73519baed1f3797678a4646cfa8b3fa51",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:13.666Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:6ec488de2113",
+          "title": "BEL job notifications, page 5",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=5",
+          "sha256": "e6897c89f6e156f28f6ab35f9d575557e58b6752c6b285dfb2ebba92fca7af15",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:16.131Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:f1a1d39829b7",
+          "title": "BEL job notifications, page 6",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=6",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=6",
+          "sha256": "5ecd362bb3a7fda13dd9a0621b9336d1710d5194bd518ad5aecbffb21edc26ff",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:18.440Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:37ea8d66f63b",
+          "title": "BEL job notifications, page 7",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=7",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=7",
+          "sha256": "4c6f454ce91aa2d0a68aaf2db6c9c8467fbf10f2c1ae221164777cd5c92a60aa",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:20.858Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:5719fd2ee1a7",
+          "title": "BEL job notifications, page 8",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=8",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=8",
+          "sha256": "b284609ff104814aa88ef69eed62750cee9909e25894d215e987fd25430df459",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:24.205Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:67f9ac14ed8e",
+          "title": "BEL job notifications, page 9",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=9",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=9",
+          "sha256": "100ccb93fe5a245b412ff8186fd57c984d95052de418b728e005fa924dca79c8",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:27.474Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:dc1b107b0adf",
+          "title": "BEL job notifications, page 10",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=10",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=10",
+          "sha256": "dfd5b47c65e717368c27c2333aca2a23808162f22043c7301db61738160eb13b",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:30.911Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:aca7d2be8013",
+          "title": "BEL job notifications, page 11",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=11",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=11",
+          "sha256": "76eb74c961c692e14a6e9d667246e5ca51d3fb77af8dc619868ff4af0458cb79",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:34.252Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:13591e579715",
+          "title": "12949/HR/GAD/NCS/2026/02 original notice and Annexure 1 form",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English/Hindi",
+          "format": "PDF",
+          "url": "https://bel-india.in/wp-content/uploads/2026/09/Detailed-Advertisement-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/wp-content/uploads/2026/09/Detailed-Advertisement-1.pdf",
+          "sha256": "5ad3430569649927c7d75028c78d9d1ef7baa84c5abe598957d6c56ba1deed56",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:41.926Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "post"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "BGEM/2627/09/01",
+      "programme": "BEL Export Manufacturing Senior Engineer",
+      "status": "open",
+      "statusNote": "Online registration 9–29 September 2026, with cutoff hour and timezone unstated. First output requires review.",
+      "scopeLabel": "Central public-sector enterprise recruitment. Unit/work locations do not create applicant domicile conditions.",
+      "outcome": "12 posts across three mutually exclusive job codes: EMCS01 Computer Science database/software (5), EMEC02 Electronics embedded systems (5), EMCS03 Computer Science 3D visualization (2). Fixed term five years, extendable by two based on performance and project needs. Not permanent employment.",
+      "qualifications": "Full-time BE/BTech/four-year BSc Engineering from AICTE-approved college or recognized university in specified Computer Science/IT or Electronics branches. General/OBC/EWS 60%; SC/ST/PwBD 50%. At least four years of post-qualification industrial experience by 1 August 2026; pre-degree work, academic/teaching, research, apprenticeship, banking/financial, nonprofit and curricular internships excluded. Domain-specific experience required; Database Administrator route additionally requires Microsoft SQL certification. Age 35 on 1 August, OBC +3, SC/ST +5, PwBD (at least 40%) +10, additive where applicable; ex-serviceman government-rule relaxation needs verification. Existing BEL fixed-term E-III employees cannot apply laterally to the same post.",
+      "citizenshipRule": "Only Indian nationals are eligible to apply. Foreign citizenship, including OCI without Indian citizenship, is not an accepted route in this call.",
+      "residenceRule": "No applicant domicile restriction printed; Ghaziabad/Bengaluru unit addresses are not residence rules.",
+      "selectionStages": [
+        "Select only one job code and register on BEL-linked jobapply portal 9–29 September. Pay applicable fee and complete online application; tests/interviews occur on the same day across codes.",
+        "Verify completed degree, exact discipline, marks, four years of qualifying industrial experience, role skills/certification, category and employer NOC.",
+        "Written test in Bengaluru only, followed by interview in 1:7 shortlist ratio. Selection weights written test 85%, interview 15%; exact centre and interview venue not published.",
+        "Document/antecedent and medical checks before fixed-term appointment; extension depends on performance and project needs."
+      ],
+      "fee": "₹472 (₹400 plus 18% GST) for General/EWS/OBC. SC/ST/PwD/ex-servicemen exempt. Fee non-refundable.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-01",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "evidence": "Original BGEM/2627/09/01 notice, general conditions 1: Only Indian Nationals are eligible to apply."
+        },
+        "education": {
+          "minLevel": "bachelor",
+          "finalYearAllowed": false,
+          "evidence": "Completed qualifying engineering degree required; exact branch, institution recognition, marks and post-qualification experience remain manual."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Full-time BE/BTech/four-year BSc Engineering from AICTE-approved college or recognized university in specified Computer Science/IT or Electronics branches. General/OBC/EWS 60%; SC/ST/PwBD 50%. At least four years of post-qualification industrial experience by 1 August 2026; pre-degree work, academic/teaching, research, apprenticeship, banking/financial, nonprofit and curricular internships excluded. Domain-specific experience required; Database Administrator route additionally requires Microsoft SQL certification. Age 35 on 1 August, OBC +3, SC/ST +5, PwBD (at least 40%) +10, additive where applicable; ex-serviceman government-rule relaxation needs verification. Existing BEL fixed-term E-III employees cannot apply laterally to the same post. Verify Indian nationality and choose only one job code."
+          },
+          {
+            "stage": "selection",
+            "text": "Check original documents, degree equivalence, category/disability and admissible age relaxations, employer permission/NOC, selection arrangements and any language expectations. No formal language level established."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify medical fitness, antecedents, document authenticity, final tenure and employer posting decision. Minimum criteria and selection do not guarantee appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Written test: Bengaluru only; exact centre and interview venue not published"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://jobapply.in/BEL2026JALAHALLIEXPORT",
+      "changes": [],
+      "id": "bel-bengaluru-senior-engineer-2026-09-01",
+      "sourceId": "in-bel-september-engineers-2026",
+      "title": "Senior Engineer E-III — BEL Export Manufacturing SBU, Bengaluru",
+      "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+      "pathway": "recruitment",
+      "appointmentType": "contract",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-09",
+        "closesOn": "2026-09-29",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Printed online registration period 9–29 September. No cutoff time or official timezone printed; fee payment alone is not a completed application."
+      },
+      "languageNote": "Retained notice body is English. General condition 27 says advertisement is available bilingually, but no Hindi notice body was retained; translation remains a gap. No standardized human-language proficiency level printed. C/C++, Python, Java, SQL and C# are technical skills, not human-language frameworks.",
+      "salary": "E-III pay scale ₹50,000–160,000 plus company-rule allowances and benefits.",
+      "workLocations": [
+        "BEL Export Manufacturing SBU, Bengaluru"
+      ],
+      "sources": [
+        {
+          "id": "in-bel-september-engineers-2026:91e58f787d54",
+          "title": "BEL job notifications, page 1",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/",
+          "sha256": "8898028efc93ec0d935b4209fbd541189662f9e6cfc6e9cfc595433a10000b01",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:06.786Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:f417284fcbf7",
+          "title": "BEL job notifications, page 2",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=2",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=2",
+          "sha256": "31e81c8ea022b1c2e696fe2e9327167a88991cba783ad9949ca93c1b1e16ad60",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:09.075Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:01ec7e34a965",
+          "title": "BEL job notifications, page 3",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=3",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=3",
+          "sha256": "f8bafac39458bb96df3770007b015934dd1fb7d4a98e698a4a08ed437494ebcd",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:11.302Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:b10c8bef5dee",
+          "title": "BEL job notifications, page 4",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=4",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=4",
+          "sha256": "fc6749eac0f3fdbf3e3757ff1353cad73519baed1f3797678a4646cfa8b3fa51",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:13.666Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:6ec488de2113",
+          "title": "BEL job notifications, page 5",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=5",
+          "sha256": "e6897c89f6e156f28f6ab35f9d575557e58b6752c6b285dfb2ebba92fca7af15",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:16.131Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:f1a1d39829b7",
+          "title": "BEL job notifications, page 6",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=6",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=6",
+          "sha256": "5ecd362bb3a7fda13dd9a0621b9336d1710d5194bd518ad5aecbffb21edc26ff",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:18.440Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:37ea8d66f63b",
+          "title": "BEL job notifications, page 7",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=7",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=7",
+          "sha256": "4c6f454ce91aa2d0a68aaf2db6c9c8467fbf10f2c1ae221164777cd5c92a60aa",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:20.858Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:5719fd2ee1a7",
+          "title": "BEL job notifications, page 8",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=8",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=8",
+          "sha256": "b284609ff104814aa88ef69eed62750cee9909e25894d215e987fd25430df459",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:24.205Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:67f9ac14ed8e",
+          "title": "BEL job notifications, page 9",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=9",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=9",
+          "sha256": "100ccb93fe5a245b412ff8186fd57c984d95052de418b728e005fa924dca79c8",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:27.474Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:dc1b107b0adf",
+          "title": "BEL job notifications, page 10",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=10",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=10",
+          "sha256": "dfd5b47c65e717368c27c2333aca2a23808162f22043c7301db61738160eb13b",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:30.911Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:aca7d2be8013",
+          "title": "BEL job notifications, page 11",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://bel-india.in/job-notifications/?page_num=11",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/job-notifications/?page_num=11",
+          "sha256": "76eb74c961c692e14a6e9d667246e5ca51d3fb77af8dc619868ff4af0458cb79",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:34.252Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-bel-september-engineers-2026:3aaa0f09d992",
+          "title": "BGEM/2627/09/01 original notice",
+          "authority": "Bharat Electronics Limited, Government of India enterprise under Ministry of Defence",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://bel-india.in/wp-content/uploads/2026/09/Senior-Engineer-Fixed-Term-Engineer-Detailed-Job-Description-Export-Manufacturing-SBU.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://bel-india.in/wp-content/uploads/2026/09/Senior-Engineer-Fixed-Term-Engineer-Detailed-Job-Description-Export-Manufacturing-SBU.pdf",
+          "sha256": "e90b94e7ac50bafc069618c808e2ed7762fd71c47f006b6f1ba67c5ba32887c2",
+          "lastSuccessfulFetchAt": "2026-09-26T20:26:43.506Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://bel-india.in/job-notifications/",
+      "fetchedAt": "2026-09-26T20:26:06.786Z",
+      "sha256": "8898028efc93ec0d935b4209fbd541189662f9e6cfc6e9cfc595433a10000b01",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 466675
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=2",
+      "fetchedAt": "2026-09-26T20:26:09.075Z",
+      "sha256": "31e81c8ea022b1c2e696fe2e9327167a88991cba783ad9949ca93c1b1e16ad60",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 470507
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=3",
+      "fetchedAt": "2026-09-26T20:26:11.302Z",
+      "sha256": "f8bafac39458bb96df3770007b015934dd1fb7d4a98e698a4a08ed437494ebcd",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 480690
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=4",
+      "fetchedAt": "2026-09-26T20:26:13.666Z",
+      "sha256": "fc6749eac0f3fdbf3e3757ff1353cad73519baed1f3797678a4646cfa8b3fa51",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 468032
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=5",
+      "fetchedAt": "2026-09-26T20:26:16.131Z",
+      "sha256": "e6897c89f6e156f28f6ab35f9d575557e58b6752c6b285dfb2ebba92fca7af15",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 469787
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=6",
+      "fetchedAt": "2026-09-26T20:26:18.440Z",
+      "sha256": "5ecd362bb3a7fda13dd9a0621b9336d1710d5194bd518ad5aecbffb21edc26ff",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 463483
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=7",
+      "fetchedAt": "2026-09-26T20:26:20.858Z",
+      "sha256": "4c6f454ce91aa2d0a68aaf2db6c9c8467fbf10f2c1ae221164777cd5c92a60aa",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 467150
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=8",
+      "fetchedAt": "2026-09-26T20:26:24.205Z",
+      "sha256": "b284609ff104814aa88ef69eed62750cee9909e25894d215e987fd25430df459",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 466052
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=9",
+      "fetchedAt": "2026-09-26T20:26:27.474Z",
+      "sha256": "100ccb93fe5a245b412ff8186fd57c984d95052de418b728e005fa924dca79c8",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 461828
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=10",
+      "fetchedAt": "2026-09-26T20:26:30.911Z",
+      "sha256": "dfd5b47c65e717368c27c2333aca2a23808162f22043c7301db61738160eb13b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 477729
+    },
+    {
+      "url": "https://bel-india.in/job-notifications/?page_num=11",
+      "fetchedAt": "2026-09-26T20:26:34.252Z",
+      "sha256": "76eb74c961c692e14a6e9d667246e5ca51d3fb77af8dc619868ff4af0458cb79",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 456765
+    },
+    {
+      "url": "https://bel-india.in/wp-content/uploads/2026/09/Detailed-Advertisement-1.pdf",
+      "fetchedAt": "2026-09-26T20:26:41.926Z",
+      "sha256": "5ad3430569649927c7d75028c78d9d1ef7baa84c5abe598957d6c56ba1deed56",
+      "contentType": "application/pdf",
+      "bytes": 1270241
+    },
+    {
+      "url": "https://bel-india.in/wp-content/uploads/2026/09/Senior-Engineer-Fixed-Term-Engineer-Detailed-Job-Description-Export-Manufacturing-SBU.pdf",
+      "fetchedAt": "2026-09-26T20:26:43.506Z",
+      "sha256": "e90b94e7ac50bafc069618c808e2ed7762fd71c47f006b6f1ba67c5ba32887c2",
+      "contentType": "application/pdf",
+      "bytes": 383902
+    }
+  ],
+  "warnings": [
+    "Two distinct application cycles, 48 posts. Branches, mutually exclusive job codes, unit locations and linked forms do not multiply cycle totals.",
+    "All eleven current index pages retained, but only two exact September notices extracted. Other calls, cancellations, DOCX documents, archive changes and certificate/payment attachments remain review/collection gaps.",
+    "Ghaziabad table, Hindi and English section 5 print different retirement dates; currently-serving discharge clause adds another conflict. Authority clarification required; no eligibility/date reading silently selected.",
+    "Bengaluru permits only Indian nationals. Ghaziabad citizenship permission is unstated despite mandatory IAF service. Neither publishes standardized human-language level.",
+    "Bengaluru condition 27 describes bilingual availability, but retained nine-page notice body is English; Hindi counterpart not identified or fetched. Ghaziabad English/Hindi readings are retained together, including retirement conflict.",
+    "Dates retain date precision and unknown official timezone. No inferred cutoff, cancellation from disappearance, automatic age relaxation, industrial-experience equivalence or examination pin.",
+    "First output is draft-only. Bound card/pagination/PDF changes stop extraction for review; source remains disabled pending acceptance."
+  ],
+  "approvalRevisions": {
+    "bel-ghaziabad-sr-assistant-engineer-2026-02": {
+      "evidenceRevision": "4a7faff9d3ccc3c6b97afabc2da8425033f28ae17544ecbebc35a0b43b8501ad",
+      "recordRevision": "34a28ddc638225ca1bc7c16a97a0ba26b12864098a7a681305113e176df19576"
+    },
+    "bel-bengaluru-senior-engineer-2026-09-01": {
+      "evidenceRevision": "d0d23f42d6e6eac7621afaf21217de4bf1d349560caa28cc441bce012aa2cccc",
+      "recordRevision": "a2e68358ffbbde2c085ca104e6071c8d230a007ab13db54749af0ed956fba880"
+    }
+  }
+}

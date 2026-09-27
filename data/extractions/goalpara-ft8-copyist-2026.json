@@ -1,0 +1,23 @@
+{
+  "indexUrl": "https://goalpara.assam.gov.in/document/recruitment",
+  "advertisementUrl": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf",
+  "advertisementSha256": "adeb7ac119a9deaac2153b68bc3492be3f8d2c319f99d571fcc71fd63dcb8198",
+  "relatedIndexLinks": [
+    {
+      "title": "Final selection for the post of Copyist TF-8, Goalpara",
+      "url": "https://goalpara.assam.gov.in/sites/default/files/public_utility/FT_8Scan.pdf"
+    },
+    {
+      "title": "List of candidates selected for the computer skill test for the Copyist position for 8 No. FT, Goalpara",
+      "url": "https://goalpara.assam.gov.in/sites/default/files/public_utility/8thScan.pdf"
+    },
+    {
+      "title": "Walk-in Interview for the Post of Copyist in Foreigners Tribunal No. 8",
+      "url": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf"
+    }
+  ],
+  "walkInOn": "2026-09-10",
+  "registrationFrom": "09:30",
+  "registrationUntil": "12:30",
+  "officialTimeZone": "Asia/Kolkata"
+}

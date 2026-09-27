@@ -1,0 +1,33 @@
+{
+  "advertisement": "A-1/E-1/2026-27",
+  "indexUrl": "https://psc.uk.gov.in/candidate-corner/recruitment",
+  "applicationUrl": "https://pscuk.net.in/",
+  "publishedOn": "2026-09-09",
+  "opensOn": "2026-09-09",
+  "closesOn": "2026-09-29",
+  "cutoffLocalTime": "23:59:59",
+  "ageAsOn": "2026-07-01",
+  "vacancies": 67,
+  "postCodes": 16,
+  "precedingDocumentUrls": [
+    "https://psc.uk.gov.in/public/uploads/recruitment/1433940324.pdf",
+    "https://psc.uk.gov.in/public/uploads/recruitment/1019909814.pdf"
+  ],
+  "documents": [
+    {
+      "key": "summary",
+      "url": "https://psc.uk.gov.in/public/uploads/recruitment/1247631101.pdf",
+      "sha256": "667960213d2a258fd0ebfabaec5297c995450b7b13de01781d07715b380aede6"
+    },
+    {
+      "key": "advertisement",
+      "url": "https://psc.uk.gov.in/public/uploads/recruitment/1843959203.pdf",
+      "sha256": "56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b"
+    },
+    {
+      "key": "duplicate-link",
+      "url": "https://psc.uk.gov.in/public/uploads/recruitment/52805175.pdf",
+      "sha256": "56e32253318b36023235ce5461df67407de7bec9e34b71854c3882d517eab18b"
+    }
+  ]
+}

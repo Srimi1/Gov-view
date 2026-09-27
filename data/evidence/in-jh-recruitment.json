@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://www.jpsc.gov.in/",
+  "fetchedAt": "2026-09-25T01:30:30.739Z",
+  "sha256": "f6d910a304685c33a21f2897e7bedc4ae18ecc3993e246129754fe63579defa1",
+  "bytes": 34855,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.jpsc.gov.in/exam_files.php?id=13045",
+  "fetchedAt": "2026-09-25T01:30:31.689Z",
+  "sha256": "ec41f38b10d2d377052b4ad313bca61c3a5693f96ba478810c13bdf85d047ccf",
+  "bytes": 19339,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.jpsc.gov.in/data/Advertisement_07_26_dated_15_04_2026.pdf",
+  "fetchedAt": "2026-09-25T01:30:32.891Z",
+  "sha256": "d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9",
+  "bytes": 794495,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.jpsc.gov.in/data/Press_Release_07_26_dated_15_04_2026.pdf",
+  "fetchedAt": "2026-09-25T01:30:33.684Z",
+  "sha256": "063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11",
+  "bytes": 275428,
+  "contentType": "application/pdf"
+ }
+]

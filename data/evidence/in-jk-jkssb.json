@@ -1,0 +1,44 @@
+[
+ {
+  "url": "https://jkssb.nic.in/Advertisement.html",
+  "fetchedAt": "2026-09-25T04:20:23.388Z",
+  "sha256": "561264342cb8a81b826495555c22f734620f12101ceb1bf6134d6311ac90772f",
+  "bytes": 47455,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://jkssb.nic.in/Whatsnew.html",
+  "fetchedAt": "2026-09-25T04:20:26.082Z",
+  "sha256": "ec8dd20dc0a50c698c1e910a5bfae13323579091a5f52329b516a10404cf7ee5",
+  "bytes": 1579092,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://jkssb.nic.in/",
+  "fetchedAt": "2026-09-25T04:20:28.725Z",
+  "sha256": "1295b2df0990907728e36d9ce4a9c9b613aec40abfaf7de0579a1987fcdd6622",
+  "bytes": 32768,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://jkssb.nic.in/Pdf/ADVT_09OF2026_01092026.pdf",
+  "fetchedAt": "2026-09-25T04:20:30.756Z",
+  "sha256": "d59068b116ab91808181eb5e1de9b5ac46c15f375df53f4b828f8cf09e4e163f",
+  "bytes": 1171269,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://jkssb.nic.in/Pdf/Advertisement_08OF2026_04082026.pdf",
+  "fetchedAt": "2026-09-25T04:20:32.863Z",
+  "sha256": "99ffb1cf841c791aa41e37716ed4e20129b701a413777fd2849eb7b812bd7151",
+  "bytes": 1308376,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://jkssb.nic.in/Pdf/notice_09092026.pdf",
+  "fetchedAt": "2026-09-25T04:20:34.936Z",
+  "sha256": "09e84904bb0e99eadf5f92ccddf71353fbbfe5eba6f786c2596e5009c3e74af5",
+  "bytes": 1573735,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,14 @@
+{
+  "sourceId": "in-mp-recruitment",
+  "capturedOn": "2026-09-25",
+  "collectionStatus": "blocked-by-robots",
+  "officialHome": "https://mppsc.mp.gov.in/",
+  "advertisementLink": "https://mppsc.mp.gov.in/Advertisement",
+  "robotsUrl": "https://mppsc.mp.gov.in/robots.txt",
+  "robotsRule": "User-agent: *; Disallow: /",
+  "evidence": [
+    { "file": "mppsc-home-2026.html", "sha256": "be8cfb55186ecb965405db2d048bcc676f943c7554b3613a12aabf3303f5dbcc" },
+    { "file": "mppsc-robots.txt", "sha256": "133e4db054e73a10017a1f429c80c35cd5bfa9c3a1aba581b364ecc459c48a4b" }
+  ],
+  "action": "No automated connector or published listing. Seek permitted official feed or manual notice review. Homepage result/selection updates must not be counted as open application cycles."
+}

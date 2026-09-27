@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://hssc.gov.in/advertisement",
+  "fetchedAt": "2026-09-25T02:22:29.992Z",
+  "sha256": "003cbd88f25e64fe41e926144adf479a46ce9c46742a314b45eeec81e74429fc",
+  "bytes": 18647,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://hssc.gov.in/publicNotice",
+  "fetchedAt": "2026-09-25T02:22:30.988Z",
+  "sha256": "e404fff3d17f19850d976664648b2f36550efb9d6a1ecec0b1b7dc1d8495a154",
+  "bytes": 22575,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-da8c1fe70055/advertisements",
+  "fetchedAt": "2026-09-25T02:22:32.700Z",
+  "sha256": "570c8cb44487c27217868153b140843482fd7d42c0b5177f1ba2e36f371349e9",
+  "bytes": 8079720,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819f-293dcbcf0080/advertisements",
+  "fetchedAt": "2026-09-25T02:22:32.934Z",
+  "sha256": "93b572263cfdc7d583255c3a0990c78bb48bac2adf45787b99830c19dba1b540",
+  "bytes": 414760,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements",
+  "fetchedAt": "2026-09-25T02:22:34.225Z",
+  "sha256": "9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616",
+  "bytes": 4686871,
+  "contentType": "application/pdf"
+ }
+]

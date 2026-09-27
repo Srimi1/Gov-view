@@ -1,0 +1,10 @@
+
+> gov-view@0.1.0 collect
+> node --experimental-strip-types scripts/collect.ts --source in-mn-recruitment
+
+
+▸ in-mn-recruitment (Manipur Public Service Commission)
+  ⚠ One document-bound Dental Surgeon draft only; other Manipur authorities and notices remain coverage gaps.
+  ⚠ Separate syllabus https://mpscmanipur.gov.in/files/DS_Syllabus_2026.pdf is retained for manual review; no language proficiency scale inferred.
+  ⚠ Residence exception, age relaxations, dental registration and scanned transcription require founder review before publication.
+  1 draft records saved for review; no publication

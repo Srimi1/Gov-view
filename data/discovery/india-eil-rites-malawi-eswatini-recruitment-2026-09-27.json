@@ -1,0 +1,452 @@
+{
+  "researchDate": "2026-09-27",
+  "phase": 93,
+  "notPublishedEligibility": true,
+  "rawOriginalsRetained": false,
+  "readerObservationIsNotCollectorFetchOrValidation": true,
+  "translationAcceptance": "pending-human-review",
+  "sourceCountIsNotCycleCount": true,
+  "sourcePresenceIsNotCompleteCoverage": true,
+  "storagePolicy": "No raw source writes; collector cap and pause unchanged.",
+  "sources": [
+    {
+      "sourceId": "in-eil-recruitment",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-eil-recruitment",
+        "name": "Engineers India Limited (EIL) recruitment",
+        "country": "IN",
+        "authority": "Engineers India Limited — Ministry of Petroleum and Natural Gas, Government of India",
+        "homepage": "https://recruitment.eil.co.in/",
+        "discoveredFrom": "https://engineersindia.com/Careers",
+        "notes": "Employer Careers page refers recruitment.eil.co.in. Current experienced register labels SCM inspection /10 and project controls /09 fixed-term; fresher Management Trainee 2025-26/18 registration closed. Full originals unavailable; eligibility remains uncertain. Age/experience cutoff 31 August is not application opening; /10 date-only last filing 12 October and /09 29 September require original reconciliation. Print-only older adverts, discipline rows and results do not establish new cycles.",
+        "accessGap": "Current original PDFs 77/75 inaccessible through reader; ordinary-browser 77 navigation timeout then blank PDF content. Nationality, residence, duration, language, amendments and permitted collection need review. Global projects do not imply foreign-applicant eligibility or exam venues.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://engineersindia.com/Careers",
+          "type": "official-employer-referral",
+          "observationMethod": "ordinary-browser",
+          "summary": "Opportunities at EIL links to recruitment.eil.co.in.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://engineersindia.com/Media/Details/1324",
+          "type": "official-authority-identity",
+          "observationMethod": "primary-indexed-reader",
+          "summary": "September 2026 employer release identifies Ministry of Petroleum and Natural Gas control; not recruitment criteria.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://recruitment.eil.co.in/",
+          "type": "official-recruitment-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Mixed experienced/fresher/archive/results routes; date-only filing labels and distinct age/experience cutoff.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://recruitment.eil.co.in/hrdnew/others/77.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-failed-browser-timeout-blank",
+          "summary": "2026-27/10 original not read; no nationality, language or duration inferred.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://recruitment.eil.co.in/hrdnew/others/75.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-failed",
+          "summary": "2026-27/09 original not read; no criteria transfer from other EIL adverts.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "index-label-only",
+        "value": "fixed-term experienced engineering roles",
+        "note": "SCM inspection /10 and planning/scheduling /09; duration and terms unknown until originals reviewed. Generic employer regular recruitment is separate."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "No readable notice-specific nationality clause; overseas projects and generic hiring descriptions do not permit foreign applicants."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "English/Hindi selector and bilingual employer descriptions do not establish proficiency or standardized level."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "in-rites-careers",
+      "country": "IN",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "in-rites-careers",
+        "name": "RITES Limited careers",
+        "country": "IN",
+        "authority": "RITES Limited — Government of India enterprise",
+        "homepage": "https://www.rites.com/Career",
+        "discoveredFrom": "https://www.rites.com/",
+        "notes": "Browser career table renders first 10 of 27 live rows, including regular RG/46/26, contract IDA CP/15/26-CP/16/26, retired government/PSU fixed-remuneration 63/26(E), absorption 22/26(D), individual consultants and Guyana project experts. These appointment routes remain separate. Reissued 2025 codes hosted in September 2026 need edition reconciliation; English/Hindi copies are duplicate evidence, not cycles.",
+        "accessGap": "Reader dynamic register unavailable; three sampled September PDFs inaccessible or timed out. Dates/times shown by index lack official timezone and original acceptance. Remaining pages, amendments, nationality, residence, role language, permitted access and appointment terms require review. Project country and Haryana postings are not applicant eligibility or published exam venues.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.rites.com/Career",
+          "type": "official-careers-index",
+          "observationMethod": "ordinary-browser",
+          "summary": "Government of India enterprise header; first ten of 27 rows. Separate selection/results/registration routes unopened.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.rites.com/Upload/Career/RG_46_26_adv_final_adv_pdf-2026-Sep-18-09-37-27.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-failed",
+          "summary": "Regular RG/46/26 index deadline 8 October 23:59; zone and criteria unverified.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.rites.com/Upload/Career/GEC_VACANCY_CIRCULAR_pdf-2026-Sep-22-17-16-37.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-failed",
+          "summary": "Retired government/PSU fixed-remuneration 63/26(E) index closing 28 September 23:59; not generalized eligibility.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.rites.com/Upload/Career/Final_advertisement_for_VC_No_CP-15-16_26_(1)_pdf-2026-Sep-15-17-25-23.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-timeout",
+          "summary": "Contract IDA CP/15/26 and CP/16/26 label; original terms unread.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "mixed-index-labels",
+        "value": "regular; contract; absorption; retired staff; individual consultancy",
+        "note": "Index titles only; no portal-wide permanence or common contract duration."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "Current originals unread. Guyana project or international consultancy title does not establish foreign-citizen permission; retired/absorption eligibility remains role-specific."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "Hindi Cell department, English/Hindi advertisement copies and interface language do not establish language proficiency."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mw-government-advertisements",
+      "country": "MW",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mw-government-advertisements",
+        "name": "Malawi government advertisements",
+        "country": "MW",
+        "authority": "Government of Malawi — official information and services",
+        "homepage": "https://www.malawi.gov.mw/index.php/resources/news-and-media/advertisements",
+        "discoveredFrom": "https://www.malawi.gov.mw/",
+        "notes": "Official advertisements index mixes historical graduate internships, school selections, Commonwealth scholarships, regional COMESA/ALLPI posts, and firm procurement. Nineteen downloads are not nineteen domestic recruitment cycles. Current nationwide government employment inventory remains unresolved; dated/revised documents need classification before extraction.",
+        "accessGap": "No verified current domestic openings established from this mixed index. National Public Service Commission recruitment route, ministry/employer inventory, original notices, nationality, appointment terms and language requirements pending. Teaching-service stage host and live detail search leads remain unregistered until official referral/original acceptance; no zero-opening claim.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.malawi.gov.mw/index.php/resources/news-and-media/advertisements",
+          "type": "official-mixed-advertisement-index",
+          "observationMethod": "official-reader",
+          "summary": "Historical 2022-2025 and regional/education/procurement links; no accepted current domestic job cycle.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.malawi.gov.mw/index.php/parliament/judiciary",
+          "type": "official-government-authority-description",
+          "observationMethod": "official-reader",
+          "summary": "Government describes Judiciary and JSC appointment roles; central recruitment inventory still incomplete.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs-verification",
+        "value": null,
+        "note": "Mixed scholarships, procurement and employment leads cannot establish appointment terms."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "Regional organization membership routes and scholarship conditions do not establish Malawi government foreign-applicant permission."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "English government index does not establish employment language requirements. Teaching subject labels and TEVET educational levels are not proficiency standards."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "mw-judiciary-jsc-recruitment",
+      "country": "MW",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "mw-judiciary-jsc-recruitment",
+        "name": "Malawi Judiciary — Judicial Service Commission recruitment",
+        "country": "MW",
+        "authority": "Malawi Judiciary — Judicial Service Commission",
+        "homepage": "https://judiciary.mw/",
+        "discoveredFrom": "https://judiciary.mw/",
+        "notes": "Official homepage refers JSC High Court Judge Vac.1/26 published 3 March 2026, date-only deadline 17 March: closed historical sample. HTML invites suitably qualified Malawians; LLB, fitness/integrity and judge or ten-year entitled legal-practice route independent. 2025 external original has five role types with serving/non-serving requirements. Equal opportunity does not waive notice criteria.",
+        "accessGap": "2026 HTML readable, linked one-page PDF has no reader text and screenshot fetch timed out; exact-original acceptance pending. 2025 original is historical, not current opening. Complete current recruitment inventory, nationality interpretation, appointment tenure, language, amendments, exam/interview locations and terms require review. Listed posting cities are not selection venues.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://judiciary.mw/",
+          "type": "official-authority-homepage",
+          "observationMethod": "official-reader",
+          "summary": "Homepage recruitment headline links to 2026 High Court Judge notice among judiciary news.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://judiciary.mw/node/910",
+          "type": "official-historical-vacancy-html",
+          "observationMethod": "official-reader",
+          "summary": "Vac.1/26; qualified Malawians, LLB and separate judicial/legal-practice appointment criteria; closed 17 March 2026 date-only.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.judiciary.mw/sites/default/files/2026-03/JSC%20Vac%201%20-%20Mar%202026%20-%20High%20Court%20Judge.pdf",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-no-text-screenshot-timeout",
+          "summary": "One-page original linked through node/909; exact-original acceptance pending.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://judiciary.mw/sites/default/files/2025-08/JSC%20ADVERT-EXTERNAL%20AUGUST%202025.pdf",
+          "type": "historical-original-sample",
+          "observationMethod": "official-reader",
+          "summary": "2025 external notice closes 29 August 2025 date-only; qualified Malawians, role qualifications and permanent/pensionable proof only for serving applicants.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "needs-verification",
+        "value": null,
+        "note": "Judge and 2025 administrative roles do not explicitly establish new-hire tenure. Permanent/pensionable proof for serving applicants is a prerequisite, not appointment guarantee."
+      },
+      "internationalApplicantAssessment": {
+        "status": "sample-malawians-wording-review",
+        "note": "2026 HTML and 2025 original invite qualified Malawians; exact legal nationality interpretation requires review. Recognized degree/practice routes do not establish foreign-citizen waiver."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "No named language or formal level established. TEVET Level 3 is occupational education, not language proficiency; legal skills and English evidence do not establish CEFR."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    },
+    {
+      "sourceId": "sz-csc-recruitment",
+      "country": "SZ",
+      "pathways": [
+        "recruitment"
+      ],
+      "status": "reader-only-research-awaiting-review",
+      "registry": {
+        "id": "sz-csc-recruitment",
+        "name": "Eswatini Civil Service Commission recruitment",
+        "country": "SZ",
+        "authority": "Government of Eswatini — Civil Service Commission",
+        "homepage": "https://www.gov.sz/index.php?id=206&view=category",
+        "discoveredFrom": "https://www.gov.sz/",
+        "notes": "Current official CSC category states constitutional appointment mandate and separate external versus serving-officer internal routes. Powers include probation, temporary/contract, renewals and permanent confirmation; no universal permanent appointment. JOBS navigation mixes older education notices, regional SADC leads, internal posts and external roles; duplicate navigation is not distinct cycles.",
+        "accessGap": "Current government category readable; CSC home and legacy department reader timeout, home browser navigation/focus timeout. External Assistant Forestry Officer and Internal Auditor originals are Word .doc, unsupported by reader. Notice dates, nationality, residence, exact language, terms and complete current inventory unresolved. No alternate portal accepted without official referral; unsupported originals require review.",
+        "connector": "none",
+        "cadenceHours": 24,
+        "enabled": false,
+        "reviewRequired": true,
+        "discoveredAt": "2026-09-27",
+        "licence": "Official public-authority reader-only discovery. Original notices, collection terms, translations and extracted summaries require review before connector acceptance or publication."
+      },
+      "documents": [
+        {
+          "url": "https://www.gov.sz/index.php?id=206&view=category",
+          "type": "official-authority-framework-and-job-links",
+          "observationMethod": "official-reader",
+          "summary": "CSC mandate under constitutional sections 186/187 and internal/external distinction; no portal-wide eligibility.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://gov.sz/index.php?catid=206&id=1907%3Acivil-service-commission-home&view=article",
+          "type": "official-csc-home-access-gap",
+          "observationMethod": "reader-browser-timeout",
+          "summary": "Current category provides alternate readable official route; inaccessible home not checked-empty.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.sz/images/CSC/ADVERTISEMENT%20EXTERNAL-%20ASSISTANT%20FORESTRY%20OFFICER%201.doc",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-unsupported-format",
+          "summary": "External title observed in official JOBS menu; original nationality/dates/terms/language unread.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        },
+        {
+          "url": "https://www.gov.sz/images/Public%20Service/ADVERTISEMENT%20EXTERNAL%20-%20%20INTERNAL%20AUDITOR%201.doc",
+          "type": "linked-original-unread",
+          "observationMethod": "reader-unsupported-msword",
+          "summary": "Label external versus internal auditor job title must not be confused with internal-only hiring; unread original requires review.",
+          "observationDate": "2026-09-27",
+          "rawOriginalRetained": false,
+          "originalSha256": null,
+          "collectorSuccessfulFetchAt": null,
+          "validatedAt": null
+        }
+      ],
+      "appointmentType": {
+        "status": "mixed-authority-framework",
+        "value": "probationary; temporary; contract; permanent confirmation",
+        "note": "General CSC powers only; appointment type and probation must come from each notice."
+      },
+      "internationalApplicantAssessment": {
+        "status": "needs-verification",
+        "note": "External means outside current civil service, not unrestricted foreign citizenship. Internal route limited to qualifying serving officers; citizenship originals unread."
+      },
+      "languageAssessment": {
+        "status": "not-established",
+        "namedLanguage": [],
+        "standardizedLevel": null,
+        "note": "English website and legacy Swaziland wording do not establish language level. No current readable role-specific language requirement accepted."
+      },
+      "threeStageEligibility": {
+        "canApply": "needs verification",
+        "canEnterSelection": "needs verification",
+        "canObtainJobOrLicence": "needs verification"
+      }
+    }
+  ]
+}

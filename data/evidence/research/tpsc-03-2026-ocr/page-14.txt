@@ -1,0 +1,80 @@
+ye”
+, ELECTRICAL MACHINES
+
+GENERAL INTRODUCTION OF ROTATING MACHINE
+D.C Machines:
+
+D.C. Generator
+
+D.C. Motors:
+
+TRANSFORMERS
+
+1-phase Transformers:
+
+Principles of 1-phase Autotransformer
+Three-phase transformer
+
+Alternator
+
+3-Phase Induction Motor
+
+Synchronous Motor:
+
+Fractional H.P. Motors:
+
+4 TRANSMISSION & DISTRIBUTION POWER
+
+Transmission System
+
+Constructional Features of Transmission & Distribution Lines
+Mechanical Features of Overhead lines
+
+Spacing of conductors, length of span, Relevant I.E. Rules
+
+Electrical features of Overhead lines
+
+Power Factor Improvement uf
+Using Static condenser and Synchronous condenser - related problems
+Distribution System
+
+Sub-stations
+
+Extra High Voltage DC System of Transmission
+
+Mae
+
+ELECTRICAL ENGINEERING =
+
+PAPER— IL
+Total Marks - 200
+Duration of Examination-3 Hours
+1, BASIC ELECTRONICS
+
+Passive & Active Circuit Elements
+Familiarity with the following components: —
+
+RESISTORS, FUSES, CAPACITORS, INDUCTOR,
+Voltage source and current source
+
+AC and DC signals, Transformer
+RELAYS, SWITCHES, CABLES AND CONNECTORS
+ZENER DIODE
+
+BIPOLAR TRANSISTOR
+
+FIELD EFFECT TRANSISTOR
+UNIJUNCTION TRANSISTOR
+THYRISTOR
+
+OPTOELECTRONICS
+
+INTEGRATED CIRCUITS
+
+2. ELECTRICAL MEASUREMENT & MEASURING INSTRUMENTS
+Definition & brief explanations of:
+Range, sensitivity, true & indicated value, Errors (including limiting errors),
+Resolutions, Accuracy, Precision and instrument efficiency.
+
+Classification of instruments:
+Basic Requirements for measurements:

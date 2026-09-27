@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://nituk.ac.in/recruitments",
+  "fetchedAt": "2026-09-25T11:48:32.225Z",
+  "sha256": "f94d145206320aa7200ac87d13796344d62fbca135c15e1cab7e1fc56337a6ca",
+  "bytes": 99916,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://nituk.ac.in/uploads/topics/17899664463960.pdf",
+  "fetchedAt": "2026-09-25T11:48:35.245Z",
+  "sha256": "d65e945d490209b46b9b5b95578c480f7639c9508758e3f4648076b4975f0526",
+  "bytes": 2274213,
+  "contentType": "application/pdf"
+ }
+]

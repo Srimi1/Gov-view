@@ -1,0 +1,130 @@
+{
+  "sourceId": "jp-jinji",
+  "collectedAt": "2026-09-25T13:08:19.606Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "totalAvailable": 21,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "2026",
+      "programme": "National Civil Service Comprehensive Service Exam — General Education",
+      "status": "closed",
+      "statusNote": "Online applications closed 24 August 2026. Candidate record awaits founder review.",
+      "scopeLabel": "National public service",
+      "outcome": "Eligibility for appointment to policy planning or research roles; passing the exam alone does not guarantee appointment.",
+      "qualifications": "Born 2 April 1996–1 April 2007; or born on/after 2 April 2007 with a university degree, expected graduation by March 2027, or equivalent qualification recognized by the authority (guide p. 2).",
+      "citizenshipRule": "Japanese nationality is required to sit this exam. The guide does not separately establish whether a non-Japanese person can submit the online form. Japanese citizens who also hold foreign nationality cannot become diplomatic civil servants (guide p. 2). Foreign university graduates still need Japanese nationality.",
+      "residenceRule": "Residence condition not stated in checked guide; verify with authority.",
+      "selectionStages": [
+        "First exam: basic ability and general essay (4 October 2026)",
+        "Second exam: policy proposal, discussion and interview (24–27 November 2026)",
+        "Optional external English score may add 15 or 25 points; TOEFL iBT, TOEIC L&R, IELTS or Eiken (guide pp. 4, 11–12). No mandatory English score or JLPT level stated."
+      ],
+      "fee": "Fee not stated in checked guide; verify with authority.",
+      "rules": {
+        "asOn": null,
+        "nationality": {
+          "allowed": [
+            "JP"
+          ],
+          "stage": "selection",
+          "evidence": "2026 guide p. 2: 日本の国籍を有しない者は受験できません (people without Japanese nationality cannot sit this exam)."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check the guide's birth-date and degree alternatives on p. 2. Online form access for non-Japanese applicants is not separately established; Japanese nationality is required for examination."
+          },
+          {
+            "stage": "selection",
+            "text": "Check other statutory disqualifications on p. 2 and exam requirements on pp. 3–4."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointing ministry requirements; dual nationality bars diplomatic civil service (guide p. 2)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Exam city choices listed in guide p. 3; street venues not confirmed"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://www.jinji-shiken.go.jp/juken.html",
+      "changes": [],
+      "id": "jinji-comprehensive-general-education-2026",
+      "title": "国家公務員採用総合職試験（大卒程度試験・秋・教養区分）2026",
+      "authority": "人事院 (National Personnel Authority)",
+      "pathway": "recruitment",
+      "jurisdictionCode": "JP",
+      "jurisdictionName": "Japan",
+      "applicationWindow": {
+        "opensOn": "2026-07-31",
+        "closesOn": "2026-08-24",
+        "officialTimeZone": "Asia/Tokyo",
+        "cutoffLocalTime": null,
+        "precision": "date",
+        "note": "Opens at 09:00 JST on 31 July. Guide gives no closing clock time; data must be received by 24 August."
+      },
+      "sources": [
+        {
+          "id": "jp-jinji:c50dc9b087e1",
+          "title": "2026 comprehensive service general education guide (受験案内)",
+          "authority": "人事院 (National Personnel Authority)",
+          "language": "Japanese",
+          "format": "PDF",
+          "url": "https://www.jinji.go.jp/content/900036094.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jinji.go.jp/content/900036094.pdf",
+          "sha256": "743add69aa699f3126d2003c9f2e4b80534dbd32dc0f9b00a9b651dc2a13512e",
+          "lastSuccessfulFetchAt": "2026-09-25T13:08:23.059Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "jp-jinji:list",
+          "title": "List of exam guides",
+          "authority": "人事院 (National Personnel Authority)",
+          "language": "Japanese",
+          "format": "HTML",
+          "url": "https://www.jinji.go.jp/saiyo/siken/jyukennannnaiichiran.html",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jinji.go.jp/saiyo/siken/jyukennannnaiichiran.html",
+          "sha256": "9e603a0e0605689d1d71ac8b8cef3b92f8e8e6724b597dc09692bbc0b904bffd",
+          "lastSuccessfulFetchAt": "2026-09-25T13:08:21.362Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "sourceId": "jp-jinji"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.jinji.go.jp/saiyo/siken/jyukennannnaiichiran.html",
+      "fetchedAt": "2026-09-25T13:08:21.362Z",
+      "sha256": "9e603a0e0605689d1d71ac8b8cef3b92f8e8e6724b597dc09692bbc0b904bffd",
+      "contentType": "text/html",
+      "bytes": 48126
+    },
+    {
+      "url": "https://www.jinji.go.jp/content/900036094.pdf",
+      "fetchedAt": "2026-09-25T13:08:23.059Z",
+      "sha256": "743add69aa699f3126d2003c9f2e4b80534dbd32dc0f9b00a9b651dc2a13512e",
+      "contentType": "application/pdf",
+      "bytes": 1622693
+    }
+  ],
+  "warnings": [
+    "Only 1 of 21 linked guides has a checked PDF extraction; other exam cycles remain a coverage gap."
+  ],
+  "approvalRevisions": {
+    "jinji-comprehensive-general-education-2026": {
+      "evidenceRevision": "b0d2d363d80b888f7226f8227c7a6290d0bbe04f4bd637df28a367a15e0d0d76",
+      "recordRevision": "63cea800a23d0140459692e2d882038c8251a30398981ba207bc454b0fd871d2"
+    }
+  }
+}

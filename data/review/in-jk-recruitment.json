@@ -1,0 +1,212 @@
+{
+  "sourceId": "in-jk-recruitment",
+  "collectedAt": "2026-09-25T15:56:14.966Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "07-PSC (DR-P) of 2026",
+      "programme": "JKPSC GCET Librarian backlog recruitment",
+      "status": "closed",
+      "statusNote": "Original scanned notice, 7 August corrigendum and both deadline extensions retained. Applications ended 18 September 2026; educational and reservation eligibility remains assessed as of 31 August. Founder review pending.",
+      "scopeLabel": "Jammu and Kashmir Government College of Engineering and Technology. One Librarian item in notification 07; three Assistant Professor items and notifications 05/06 are separate gaps.",
+      "outcome": "One Librarian vacancy reserved for Scheduled Caste backlog candidates in GCET. Original notification lists a pre-revised pay band of ₹15,600–39,100 plus ₹6,000 AGP.",
+      "qualifications": "Library Science, Information Science, Documentation Science or equivalent professional master's degree with normally at least 55% marks (notice describes 50% for specified categories/older PhD holders), knowledge of library computerization, and NET/SLET/SET or the stated PhD exemption. Foreign-university equivalent degrees may count; degree recognition and exemption need individual review.",
+      "citizenshipRule": "Notification 07 does not state a citizenship rule. It invites applicants holding a valid Jammu and Kashmir domicile certificate, and this Librarian seat is SC backlog. A foreign degree is permitted as an academic credential; that does not establish foreign-citizen application or appointment eligibility.",
+      "residenceRule": "Valid J&K domicile certificate from competent authority is mandatory. Domicile is a legal certificate, not inferred from present residence; foreign-citizen access to that status and this reserved post requires official verification.",
+      "selectionStages": [
+        "Apply online through JKPSC one-time registration for GCET Librarian and upload required documents",
+        "Written examination under JKPSC rules; detailed timetable and assigned centre to be published later",
+        "Original degree, J&K domicile and SC-category evidence checked at document verification",
+        "Final appointment subject to service-rule and category verification"
+      ],
+      "fee": "₹1,200 general; ₹700 reserved category; no fee for PHC candidates, per notification 07. Fee and document upload required for a complete form.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-31",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify valid J&K domicile certificate, SC backlog eligibility, reserved-category certificate by 31 August, educational credential/NET or PhD route, and submitted fee/documents. Citizenship and foreign-citizen route are unstated."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify written-exam syllabus and language, assigned Srinagar/Jammu centre, admissible photo ID, and original academic/category/domicile documents."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify appointing-authority acceptance of SC and domicile certificates, degree equivalence, 2017 service rules as corrected on 7 August, and final pay terms."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Notice names Srinagar and Jammu centre options; candidate's exact examination venue is assigned later"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://jkpsc.nic.in/Default.aspx",
+      "changes": [
+        {
+          "at": "2026-08-07",
+          "kind": "updated",
+          "summary": "Corrigendum corrects service-rule reference in notification 07; it does not establish a different Librarian vacancy count."
+        },
+        {
+          "at": "2026-08-28",
+          "kind": "extended",
+          "summary": "Application deadline extended from 2026-08-31 to 2026-09-14; eligibility cutoff remains 2026-08-31."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "extended",
+          "summary": "Application deadline extended from 2026-09-14 to 2026-09-18; eligibility cutoff remains 2026-08-31."
+        }
+      ],
+      "id": "jkpsc-gcet-librarian-sc-backlog-2026",
+      "sourceId": "in-jk-recruitment",
+      "title": "Librarian (GCET) — Scheduled Caste backlog",
+      "authority": "Jammu and Kashmir Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-JK"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-08-01",
+        "closesOn": "2026-09-18",
+        "cutoffLocalTime": null,
+        "officialTimeZone": null,
+        "precision": "date",
+        "note": "Notification 07 opens online forms 1 August; 28 August notice moves deadline from 31 August to 14 September; 15 September notice moves it to 18 September. Both extensions keep qualification/reservation cutoff 31 August. No closing clock time or named official timezone is printed."
+      },
+      "languageNote": "Retained notification states no formal language-proficiency level for this Librarian post. Degree subject and written-exam syllabus are separate requirements; actual exam language should be checked before an applicant relies on it.",
+      "salary": "Pre-revised pay band ₹15,600–39,100 plus AGP ₹6,000 in notification 07; confirm current pay mapping before reliance.",
+      "sources": [
+        {
+          "id": "in-jk-recruitment:2d8c0e7b7cd6",
+          "title": "JKPSC official homepage notice links",
+          "authority": "Jammu and Kashmir Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://jkpsc.nic.in/Default.aspx",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jkpsc.nic.in/Default.aspx",
+          "sha256": "72c113fd0c65b5431f0f6abfaaec86d505a8c87cbdd7bd42b03e8781251e8875",
+          "lastSuccessfulFetchAt": "2026-09-25T15:56:18.732Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jk-recruitment:b6f8e1233338",
+          "title": "Notification 07-PSC (DR-P) of 2026, GCET backlog",
+          "authority": "Jammu and Kashmir Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
+          "sha256": "93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f",
+          "lastSuccessfulFetchAt": "2026-09-25T15:56:21.919Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jk-recruitment:7a5b71ce8644",
+          "title": "7 August corrigendum to notifications 05, 06 and 07",
+          "authority": "Jammu and Kashmir Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18028&type=n",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18028&type=n",
+          "sha256": "2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469",
+          "lastSuccessfulFetchAt": "2026-09-25T15:56:23.742Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jk-recruitment:3f5c94a94d61",
+          "title": "28 August extension to 14 September",
+          "authority": "Jammu and Kashmir Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18039&type=n",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18039&type=n",
+          "sha256": "e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2",
+          "lastSuccessfulFetchAt": "2026-09-25T15:56:25.675Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jk-recruitment:789f3cf3ac19",
+          "title": "15 September extension to 18 September",
+          "authority": "Jammu and Kashmir Public Service Commission",
+          "language": "English",
+          "format": "scanned PDF",
+          "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18041&type=n",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18041&type=n",
+          "sha256": "86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259",
+          "lastSuccessfulFetchAt": "2026-09-25T15:56:27.669Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "online"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://jkpsc.nic.in/Default.aspx",
+      "fetchedAt": "2026-09-25T15:56:18.732Z",
+      "sha256": "72c113fd0c65b5431f0f6abfaaec86d505a8c87cbdd7bd42b03e8781251e8875",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 167236
+    },
+    {
+      "url": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
+      "fetchedAt": "2026-09-25T15:56:21.919Z",
+      "sha256": "93d865c02e1295de507a309db47cc5830741504c0676d280d5bcec9c9d2e7e5f",
+      "contentType": "application/pdf",
+      "bytes": 4457815
+    },
+    {
+      "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18028&type=n",
+      "fetchedAt": "2026-09-25T15:56:23.742Z",
+      "sha256": "2fa0c40c3f7d815414a39f9bc2eeae8a39716ffce3d2755cb0540e95e7fc2469",
+      "contentType": "application/pdf",
+      "bytes": 631586
+    },
+    {
+      "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18039&type=n",
+      "fetchedAt": "2026-09-25T15:56:25.675Z",
+      "sha256": "e820259d6fd529163a008a0efda564b5800f0e8fa0681b8203ce9de484d9aff2",
+      "contentType": "application/pdf",
+      "bytes": 598991
+    },
+    {
+      "url": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18041&type=n",
+      "fetchedAt": "2026-09-25T15:56:27.669Z",
+      "sha256": "86919776b782ff59be5b7edc2336d0202456bf0b6ecd0e71f6ebd3c9e0c8e259",
+      "contentType": "application/pdf",
+      "bytes": 468993
+    }
+  ],
+  "warnings": [
+    "One SC-reserved GCET Librarian item is staged. Other items in notification 07 and notifications 05/06 remain uncollected, even though both deadline notices name them.",
+    "J&K domicile certificate and SC backlog status are legal eligibility checks; present residence and a foreign university degree cannot decide foreign-citizen eligibility.",
+    "No official closing hour/timezone or formal language level is printed; 18 September is a date-only deadline.",
+    "Original scanned notices and corrigendum require founder visual review before publication."
+  ],
+  "approvalRevisions": {
+    "jkpsc-gcet-librarian-sc-backlog-2026": {
+      "evidenceRevision": "7bc129ac4b768ac5e2f79bed06753e9478a49970e722b07faa18a10dc229408f",
+      "recordRevision": "77e9b3eaa34d7c0c936f0207ab4e10f178f9ab989d4694bebf40d38d88f3733e"
+    }
+  }
+}

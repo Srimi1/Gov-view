@@ -1,0 +1,2636 @@
+{
+  "sourceId": "in-ibps-crp",
+  "collectedAt": "2026-09-25T13:53:57.471Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group B",
+      "programme": "Office Assistant (Multipurpose)",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Office Assistant posts in participating Regional Rural Banks; 25 September Annexure gives indicative bank vacancies, not a fixed total appointment guarantee.",
+      "qualifications": "Bachelor's degree in any discipline. Local language of selected RRB is essential: Table A lists languages for 28 banks, from Telugu in Andhra Pradesh to Bengali/Kokborok in Tripura. Standard VIII study or a certificate counts; acquisition after joining is allowed under stated time limits. No CEFR level. Computer knowledge desirable.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Online preliminary examination",
+        "Online main examination",
+        "Provisional allotment and eligibility/document checks; no interview listed for Office Assistants"
+      ],
+      "fee": "₹175 for SC/ST/PwBD/ESM/DESM; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "CRP-RRBs XV qualification table, PDF page 18: Office Assistant requires a bachelor's degree; result declared by 21 September 2026 under unchanged original terms."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for Nepal/Bhutan subjects, specified Tibetan refugees or listed Indian-origin migrants (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026 and all applicable category/disability/service relaxations; do not infer from registration extension."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify degree result was declared by 21 September 2026; extension notice changes registration and fees only, with other terms unchanged."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify local language for the selected RRB from Table A. Standard VIII study or accepted certificate counts; the notice permits acquisition within six months after joining, extendable within probation. No CEFR level is given."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e5d5e148f787",
+          "title": "IBPS assistant registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+          "sha256": "7fd2f9a2339fe2cd1ed141c201b7f33273f8b5abf856ba93942638789193cefd",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:02.423Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-office-assistant",
+      "sourceId": "in-ibps-crp",
+      "title": "Office Assistant (Multipurpose)"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A",
+      "programme": "Officer Scale I (Assistant Manager)",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale I posts in participating Regional Rural Banks; 25 September Annexure gives indicative bank vacancies.",
+      "qualifications": "Bachelor's degree in any discipline; specified agriculture, technology, management, law, economics and accountancy degrees receive preference. Local language of selected RRB is essential under Table A; standard VIII study/certificate or stated post-joining acquisition route applies. No CEFR level. Computer knowledge desirable.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Online preliminary examination",
+        "Online main examination",
+        "Interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "education": {
+          "minLevel": "bachelor",
+          "evidence": "CRP-RRBs XV qualification table, PDF page 18: Officer Scale I requires a bachelor's degree; result declared by 21 September 2026 under unchanged original terms."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for Nepal/Bhutan subjects, specified Tibetan refugees or listed Indian-origin migrants (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026 and all applicable category/disability/service relaxations; do not infer from registration extension."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify degree result was declared by 21 September 2026; extension notice changes registration and fees only, with other terms unchanged."
+          },
+          {
+            "stage": "outcome",
+            "text": "Verify local language for the selected RRB from Table A. Standard VIII study or accepted certificate counts; the notice permits acquisition within six months after joining, extendable within probation. No CEFR level is given."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-i",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale I (Assistant Manager)"
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — General Banking Officer (Manager)",
+      "programme": "Officer Scale II — General Banking Officer (Manager)",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — General Banking Officer (Manager) in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Bachelor's degree in any discipline with at least 50% aggregate marks; two years as an officer in a bank or financial institution. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 2,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — General Banking Officer (Manager) requires 2 years as an officer in a bank or financial institution."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — General Banking Officer (Manager) specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was as an officer in a bank or financial institution; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — General Banking Officer (Manager)."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-general-banking",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — General Banking Officer (Manager)",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Information Technology Officer",
+      "programme": "Officer Scale II — Information Technology Officer",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Information Technology Officer in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Bachelor's degree in Electronics, Communication, Computer Science, Information Technology or equivalent with at least 50% aggregate marks; one year of relevant experience. Listed programming certificates are desirable. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 1,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Information Technology Officer requires 1 year in the relevant IT field."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Information Technology Officer specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was in the relevant IT field; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Information Technology Officer."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-it",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Information Technology Officer",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Chartered Accountant",
+      "programme": "Officer Scale II — Chartered Accountant",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Chartered Accountant in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Certified Associate of the Institute of Chartered Accountants of India; one year of experience as a Chartered Accountant. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 1,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Chartered Accountant requires 1 year as a Chartered Accountant."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Chartered Accountant specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was as a Chartered Accountant; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Chartered Accountant."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-ca",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Chartered Accountant",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Law Officer",
+      "programme": "Officer Scale II — Law Officer",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Law Officer in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Law degree or equivalent with at least 50% aggregate marks; two years as an advocate or as a law officer in a bank or financial institution. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 2,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Law Officer requires 2 years as an advocate or bank/financial-institution law officer."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Law Officer specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was as an advocate or bank/financial-institution law officer; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Law Officer."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-law",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Law Officer",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Treasury Manager",
+      "programme": "Officer Scale II — Treasury Manager",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Treasury Manager in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Chartered Accountant or MBA in Finance from a recognised university/institution; one year of relevant experience. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 1,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Treasury Manager requires 1 year in the relevant treasury or finance field."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Treasury Manager specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was in the relevant treasury or finance field; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Treasury Manager."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-treasury",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Treasury Manager",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Marketing Officer",
+      "programme": "Officer Scale II — Marketing Officer",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Marketing Officer in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "MBA in Marketing from a recognised university; one year of relevant experience. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 1,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Marketing Officer requires 1 year in the relevant marketing field."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Marketing Officer specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was in the relevant marketing field; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Marketing Officer."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-marketing",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Marketing Officer",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale II — Agricultural Officer",
+      "programme": "Officer Scale II — Agricultural Officer",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale II — Agricultural Officer in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Bachelor's degree in Agriculture, Horticulture, Dairy, Animal Husbandry, Forestry, Veterinary Science, Agricultural Engineering, Pisciculture or equivalent with at least 50% aggregate marks; two years of relevant experience. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 2,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale II — Agricultural Officer requires 2 years in the relevant agricultural field."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale II — Agricultural Officer specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was in the relevant agricultural field; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale II — Agricultural Officer."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-ii-agriculture",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale II — Agricultural Officer",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "CRP-RRBs XV, Group A · Officer Scale III — Senior Manager",
+      "programme": "Officer Scale III — Senior Manager",
+      "status": "uncertain",
+      "statusNote": "21 September extension moves registration to 27 September 2026. 25 September corrigendum updates indicative vacancies only. Exact closing time is not stated. Founder review pending.",
+      "scopeLabel": "Participating Regional Rural Banks across India; 28 banks listed in Table A, with language requirement set by selected bank",
+      "outcome": "Officer Scale III — Senior Manager in a participating Regional Rural Bank; vacancies are indicative and allotment follows merit and bank preference.",
+      "qualifications": "Bachelor's degree in any discipline with at least 50% aggregate marks; at least five years as an officer in a bank or financial institution. Qualification result date remains 21 September 2026 under the unamended original terms; founder confirmation pending.",
+      "citizenshipRule": "Indian citizens may apply. Subjects of Nepal or Bhutan, specified pre-1962 Tibetan refugees, and people of Indian origin who migrated from the listed countries may qualify only with a Government of India eligibility certificate (notification §B.I, PDF page 6). Nationality alone cannot establish every exception.",
+      "residenceRule": "No general domicile criterion identified in this notice. Choice of participating RRB and its local-language requirement matter; appointment conditions need review.",
+      "selectionStages": [
+        "Single online examination",
+        "Common interview",
+        "Provisional allotment and eligibility/document checks"
+      ],
+      "fee": "₹175 for SC/ST/PwBD; ₹850 for other candidates, including GST. Payment window extended to 27 September 2026.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-01",
+        "experience": {
+          "minYears": 5,
+          "evidence": "Original CRP-RRBs XV qualification table, PDF pages 17–18: Officer Scale III — Senior Manager requires 5 years as an officer in a bank or financial institution."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify nationality category and Government of India eligibility certificate for eligible non-Indian categories (notification §B.I)."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify Officer Scale III — Senior Manager specific degree, minimum marks, professional credential or accepted equivalence from original qualification table; degree result by 21 September 2026 needs founder confirmation."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify experience was as an officer in a bank or financial institution; a year count alone does not establish the required field or role."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify age on 1 September 2026, category and disability/service relaxations for Officer Scale III — Senior Manager."
+          },
+          {
+            "stage": "selection",
+            "text": "Choose the published English or Hindi language test option; no formal proficiency level is specified."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Examination centre is selected during application; exact venue not stated in this notice"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "changes": [
+        {
+          "at": "2026-09-09",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; no new application cycle."
+        },
+        {
+          "at": "2026-09-15",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated again; 15 September Annexure supersedes earlier figures."
+        },
+        {
+          "at": "2026-09-21",
+          "kind": "extended",
+          "summary": "Registration and fee-payment end extended from 21 to 27 September 2026; other terms unchanged."
+        },
+        {
+          "at": "2026-09-25",
+          "kind": "updated",
+          "summary": "Indicative bank vacancies updated; 25 September Annexure supersedes earlier figures, with all other terms unchanged."
+        }
+      ],
+      "authority": "Institute of Banking Personnel Selection",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-01",
+        "closesOn": "2026-09-27",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Original 21 September registration/fee end changed to 27 September by official extension PDF. No cutoff clock time printed. Original education-result deadline of 21 September remains in unchanged terms and needs founder confirmation."
+      },
+      "sources": [
+        {
+          "id": "in-ibps-crp:a67dd0411d7e",
+          "title": "IBPS Regional Rural Banks XV notice register",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/index.php/rural-bank-xv/",
+          "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:01.032Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:10162f6e5604",
+          "title": "CRP-RRBs XV corrigendum-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+          "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:06.282Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5e0dc3fd145d",
+          "title": "CRP-RRBs XV vacancies-25sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+          "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:07.924Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:a2676c5c8464",
+          "title": "CRP-RRBs XV extension",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+          "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:09.849Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:99806d1629f3",
+          "title": "CRP-RRBs XV corrigendum-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+          "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:11.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:5be34dea8799",
+          "title": "CRP-RRBs XV vacancies-15sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+          "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:13.971Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:1476b37fc1c7",
+          "title": "CRP-RRBs XV corrigendum-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+          "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:15.938Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:9744a9a33e2c",
+          "title": "CRP-RRBs XV vacancies-09sep",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+          "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:17.925Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:d2e572d3944a",
+          "title": "CRP-RRBs XV window",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+          "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:19.907Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:bd4bb9907d7f",
+          "title": "CRP-RRBs XV original",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+          "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:22.033Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ibps-crp:e15d9fd358eb",
+          "title": "IBPS officer registration dates",
+          "authority": "Institute of Banking Personnel Selection",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://ibpsreg.ibps.in/rrbxvaug26/",
+          "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+          "lastSuccessfulFetchAt": "2026-09-25T13:54:03.400Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "id": "ibps-crp-rrbs-xv-2026-officer-scale-iii",
+      "sourceId": "in-ibps-crp",
+      "title": "Officer Scale III — Senior Manager",
+      "languageNote": "Single online examination offers an English or Hindi language section; other sections have the notice's stated Hindi/English media. No CEFR level is stated. The Table A local-language qualification is expressly for Office Assistants and Officer Scale I, not Scale II/III."
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+      "fetchedAt": "2026-09-25T13:54:01.032Z",
+      "sha256": "047272a2dfe269fbddb2e536792d8ee8b444758ee07c7b8a9728a166db06880d",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 133794
+    },
+    {
+      "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+      "fetchedAt": "2026-09-25T13:54:02.423Z",
+      "sha256": "7fd2f9a2339fe2cd1ed141c201b7f33273f8b5abf856ba93942638789193cefd",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 27665
+    },
+    {
+      "url": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "fetchedAt": "2026-09-25T13:54:03.400Z",
+      "sha256": "198fc0184dc0fba88eeef954654c2922c8c589eb0ba5ca89fd04fa65c4b0d70b",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 27796
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV_25.09.2026.pdf",
+      "fetchedAt": "2026-09-25T13:54:06.282Z",
+      "sha256": "febbb6f40c9bc59728321a5587429962c23f787cebe74d40012503c607bc0a01",
+      "contentType": "application/pdf",
+      "bytes": 485230
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_25.09.2026.pdf",
+      "fetchedAt": "2026-09-25T13:54:07.924Z",
+      "sha256": "ed5ed998e2f849cebd29596814e77ce913f6c6659d1581e710c0eefbd771ae9f",
+      "contentType": "application/pdf",
+      "bytes": 580934
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Approved_Corrigendum-for-Extension_CRP-RRBs-XV-002.pdf",
+      "fetchedAt": "2026-09-25T13:54:09.849Z",
+      "sha256": "39c3932b2014fa728a88ec46e0a39235e6dd3aa18717f1af97cf24725e629966",
+      "contentType": "application/pdf",
+      "bytes": 235349
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV-1.pdf",
+      "fetchedAt": "2026-09-25T13:54:11.925Z",
+      "sha256": "86e92e11380ec4e1a478eb110e2207eeba61e761ab138d56e5f75c6ccd1f8b3a",
+      "contentType": "application/pdf",
+      "bytes": 514014
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated_15.09.2026.pdf",
+      "fetchedAt": "2026-09-25T13:54:13.971Z",
+      "sha256": "667a95d9f0e91b9a2698a5d74744b2522a055f245121cbce53772ecd96020516",
+      "contentType": "application/pdf",
+      "bytes": 888823
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Corrigendum-CRP-RRBs-XV.pdf",
+      "fetchedAt": "2026-09-25T13:54:15.938Z",
+      "sha256": "89211d508627cb82cab4bdae82ff70f4a1c9dc2a7a4db677f8c80782e4aabbf8",
+      "contentType": "application/pdf",
+      "bytes": 513481
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Annexure-I_updated09.09.2026.pdf",
+      "fetchedAt": "2026-09-25T13:54:17.925Z",
+      "sha256": "dd77db3b6d07e1ad1ced6e140b10e1577015ae59cf7f4c1e23dd656bc24f731a",
+      "contentType": "application/pdf",
+      "bytes": 888570
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/Window-Notification_CRP-RRBs-XV.pdf",
+      "fetchedAt": "2026-09-25T13:54:19.907Z",
+      "sha256": "9a29b3d6f43fb9ec67e76a830242f179cb15aa4f88de69bcbbf44cb621e4dbb8",
+      "contentType": "application/pdf",
+      "bytes": 430077
+    },
+    {
+      "url": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+      "fetchedAt": "2026-09-25T13:54:22.033Z",
+      "sha256": "105b0652fb7f2564adc452685248734e8546235b332b84c93f81acdb1b760508",
+      "contentType": "application/pdf",
+      "bytes": 1549821
+    }
+  ],
+  "warnings": [
+    "Office Assistant has its own registration path. Officer Scale I, seven Scale II post choices and Scale III share the officer registration path; a candidate may apply for only one officer-cadre post.",
+    "Officer Scale II/III require post-specific qualifications and experience; generic years cannot establish the required field. These remain manual checks before any positive eligibility verdict.",
+    "Table A local-language qualification is specified for Office Assistant and Officer Scale I, not Scale II/III. Senior officer examinations offer English/Hindi language-section choice without a CEFR level.",
+    "Nationality certificate exceptions and selected-bank local language cannot be inferred from nationality or residence alone; three-stage eligibility remains needs verification for those checks.",
+    "25 September Annexure supersedes earlier indicative vacancies; no new application cycle. Bank rows do not inflate totals. Full vacancy reconciliation and 28-bank language mapping need founder review.",
+    "Original degree-result condition says 21 September; 21 September extension changes registration and fee dates only. Founder must verify this interaction before publication.",
+    "No official cutoff clock time was printed in retained extension or registration pages; date precision is preserved."
+  ],
+  "approvalRevisions": {
+    "ibps-crp-rrbs-xv-2026-office-assistant": {
+      "evidenceRevision": "5a7f93af87dab972ea5a4aeb5ea2316783599934bbf84be15587dfdcbea63fc1",
+      "recordRevision": "2d8f5397f90b54e56168f1006156768dbaf1a309a2015edfe5a7fd556fa1bfab"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-i": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "3aaa65089bfe2f623ef525e834cd44ba85295c534d1e7dd2df215cbfd7e6cffc"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-general-banking": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "bd5f10e61bf46b249d35e27d3ff0d3be466ee1b7f3528ce8d502095cea511d79"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-it": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "c6256877e2ec2b920c5d7be8549caeb21b89e1131a6825cdea8427af1df89dd3"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-ca": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "80f61e90cff5af8e69d67a5c6a6b7f80cd00dc987f9e7f65c2173aa41d5c0f2b"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-law": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "a07c0a1484327e1013dbefe7088c4660c14d04b207b3e57c55c0b1fda90f6e02"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-treasury": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "59f3563b700a3dad5408605811195176f3272359d75f7963675fff57a0b6b958"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-marketing": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "c9e69238f20d43dd6302772e657c6881fafddeebb6244f3993904fc417d44aee"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-ii-agriculture": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "f7d4d43987701cd319afa81f7e71c00bd381067f69f026a2ddcb4fb57eec9a1c"
+    },
+    "ibps-crp-rrbs-xv-2026-officer-scale-iii": {
+      "evidenceRevision": "0d7ec79bc9964b37f823bf9bd2f163403cfe574f6c32722ea8f1bc259dc74a0c",
+      "recordRevision": "ece074a694d32a8ee81f0e22c95e028ba0446a9c1efe24385a27269161e86272"
+    }
+  }
+}

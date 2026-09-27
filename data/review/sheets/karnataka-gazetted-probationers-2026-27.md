@@ -1,0 +1,74 @@
+# Founder review: Karnataka Gazetted Probationers Group A/B 2026–27
+
+**Pending draft. No approval or publication is recorded by this sheet.**
+
+- Source: in-ka-recruitment
+- Cycle ID: karnataka-gazetted-probationers-2026-27
+- Collected: 2026-09-25T01:08:19.055Z
+- Proposed deadline: 2026-09-07 (clock time unknown) Asia/Kolkata; precision date
+- Evidence revision: `56345fcb55b77ba15f9ac049d45b1aa7997debcbd21a7a54b394941a7870350c`
+- Record revision: `6f2d0c68310a9ea3d0b5e662416f2d4829a712f8dd45ca4ec590ea515187fa0e`
+
+## Original evidence
+
+| Document | Language / format | Link | Retained hash |
+| --- | --- | --- | --- |
+| KPSC 2026–27 notice index | Kannada and English / HTML | [Open official source](https://kpsc.kar.nic.in/page1a.htm) | `efd579dbee6977d8163cd5457c1a4f1263e817cc990d77aadf582696aa68e87f` |
+| KPSC 2026–27 online application link | Kannada and English / HTML | [Open official source](https://kpsc.kar.nic.in/applyonline.html) | `a4e25c65006ad534705812c26cb153ce2f26a6bd399bd2b0c108a01a56a679d3` |
+| KPSC main 2026–27 | Kannada and English / PDF | [Open official source](https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf) | `fb0e0920b4f97954312b1abb954202658de18a842811bf05a6f3c229d2f16ae7` |
+| KPSC extension 2026–27 | Kannada and English / scanned PDF | [Open official source](https://kpsc.kar.nic.in/corrigendum%20notification%20GP-2026.pdf) | `a9ed71da8e694e31218a3cdcca6c3964d0fdf9907c0c385d247adbaa0b4b8814` |
+| KPSC extension-pressnote 2026–27 | Kannada and English / scanned PDF | [Open official source](https://kpsc.kar.nic.in/pressnote%20gp-2026.pdf) | `c31a3c45c8bb4557a2054406ad4b681accf823fdab6480ddbaa68b8d6aa0ed20` |
+| KPSC age-amendment 2026–27 | Kannada and English / scanned PDF | [Open official source](https://kpsc.kar.nic.in/Pressnote%20%20GP-2026-27%20HOSTED%20ON%2013-08-2026.pdf) | `33002895050801561fbf9bae7d0bf8ef7999eb957d989d4d1b8959fc638ee95f` |
+| KPSC schedule 2026–27 | Kannada and English / scanned PDF | [Open official source](https://kpsc.kar.nic.in/Time%20Table%20GP%202026-27%20HOSTED%20ON%2031-07-2026.pdf) | `431a18956e5b7e5dfb332d641520196b9c100d5bbeba0c86b9190d9fa6c12c96` |
+
+Check original-language pages and later amendments. A successful fetch proves document bytes were retained; it does not verify extracted claims.
+
+## Proposed fields
+
+- [ ] **title** — Karnataka Gazetted Probationers Group A/B 2026–27
+
+- [ ] **cycleLabel** — 2026–27 notification · 319 posts
+
+- [ ] **pathway** — recruitment
+
+- [ ] **scopeLabel** — Karnataka state government posts; one application cycle covers 319 Group A/B posts
+
+- [ ] **outcome** — Consideration for 319 Group A/B Gazetted Probationer posts; final role and appointment depend on selection and post-specific rules
+
+- [ ] **applicationWindow** — {"opensOn":"2026-08-01","closesOn":"2026-09-07","officialTimeZone":"Asia/Kolkata","cutoffLocalTime":null,"precision":"date","note":"Original Kannada notice gives 1–31 August. Later KPSC corrigendum and bilingual index extend closing date to 7 September. No cutoff clock time verified."}
+
+- [ ] **qualifications** — Post-specific degrees, age bands and category relaxations require Kannada notice review. An official 13 August press note changes age limits; no automated degree or age match is asserted.
+
+- [ ] **citizenshipRule** — No reliable citizenship or foreign-national application rule was established from the checked Kannada notice. International applicants need official confirmation for application, selection and appointment.
+
+- [ ] **residenceRule** — Karnataka residence and reservation conditions require Kannada notice review. State hiring scope does not itself establish applicant residence eligibility.
+
+- [ ] **selectionStages** — \["Preliminary examination; KPSC timetable needs founder confirmation","Main written examination, including separate Kannada and English qualifying papers","Personality test; candidates missing either qualifying-paper minimum cannot proceed to this stage","Post-specific appointment verification"\]
+
+- [ ] **fee** — Fee bands and exemptions need Kannada notice review.
+
+- [ ] **rules** — {"complete":false,"asOn":null,"languages":\[{"language":"kn","stage":"selection","requirement":"Qualifying Kannada paper: 150 marks, at least 35% \(52.5\); first-language Kannada standard at SSLC level. No CEFR-equivalent level stated.","evidence":"Original notification, PDF pages 18–19, bilingual examination scheme and note \(1\)/\(4\).","sourceUrl":"https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf"},{"language":"en","stage":"selection","requirement":"Qualifying English paper: 150 marks, at least 35% \(52.5\); first-language English standard at SSLC level. No CEFR-equivalent level stated.","evidence":"Original notification, PDF pages 18–19, bilingual examination scheme and note \(1\)/\(4\).","sourceUrl":"https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf"}\],"manualChecks":\[{"stage":"apply","text":"Confirm citizenship and whether an international applicant may apply; checked Kannada pages do not establish a safe rule."},{"stage":"apply","text":"Confirm degree, age, category, residence and fee conditions, including the 13 August age amendment."},{"stage":"selection","text":"Qualify both 150-mark Kannada and English papers at 35% each. Main written questions are bilingual; answers may use either language except on qualifying papers \(original notice PDF pages 18–19\)."},{"stage":"outcome","text":"Confirm citizenship permission for appointment and post-specific service, character and document conditions."}\]}
+
+- [ ] **venues** — \[{"kind":"unknown","name":"Exam venues not verified in checked notice; Karnataka jurisdiction center is not an exam venue"}\]
+
+- [ ] **applicationUrl** — https://kpsconline.karnataka.gov.in/Login/Login
+
+## Previous approved revision
+
+None for this cycle. Treat every field as a first publication check.
+
+## Warnings and gaps
+
+- One 319-post Group A/B intake, not 319 application cycles. Other KPSC notifications and Karnataka departments remain coverage gaps.
+- An older KPSC press-note page says last date not extended; current notice index lists later formal corrigendum to 7 September. Founder must confirm chronology before approval.
+- Main notice is largely Kannada; citizenship, residence, degree, age amendment, fee and venue details need bilingual/manual review. International applicant permission remains unknown.
+- Kannada and English qualifying papers have published SSLC first-language standard and 35% threshold; no CEFR level or equivalence is inferred.
+
+## Founder decision record
+
+- [ ] Verify exact retained bytes, linked documents, notice dates, amendments and status.
+- [ ] Resolve nationality, residence, language and qualification conditions for each application, selection and outcome stage.
+- [ ] Approve, amend or reject with reason, reviewer name, evidence summary and actual minutes spent. If amended, regenerate this sheet for the new record revision.
+
+No decision, reviewer identity or time spent is filled automatically.
+

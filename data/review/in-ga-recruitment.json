@@ -1,0 +1,957 @@
+{
+  "sourceId": "in-ga-recruitment",
+  "collectedAt": "2026-09-24T23:13:02.574Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — transfer on deputation",
+      "programme": "Medical Officer — Inspectorate of Prisons (transfer on deputation)",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Transfer on deputation to Goa government institution; separate application required for each post",
+      "outcome": "2 Medical Officer — Inspectorate of Prisons (transfer on deputation) posts (one application cycle)",
+      "qualifications": "Official holding an analogous post under Directorate of Health Services or Goa Medical College.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify current government service and analogous-post/pay-scale conditions from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "No post-specific language test is printed for this transfer post; confirm selection conditions with authority."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-medical-officer-transfer",
+      "sourceId": "in-ga-recruitment",
+      "title": "Medical Officer — Inspectorate of Prisons (transfer on deputation)",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 October 2026 for transfer on deputation. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 10",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — transfer on deputation",
+      "programme": "Assistant Engineer (Electrical) — Goa Dental College (transfer on deputation)",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Transfer on deputation to Goa government institution; separate application required for each post",
+      "outcome": "1 Assistant Engineer (Electrical) — Goa Dental College (transfer on deputation) post (one application cycle)",
+      "qualifications": "Officer of Central or State Government holding an analogous regular post, or three years' regular service in the specified pay scale or equivalent; Electrical Engineering degree or equivalent and three years' maintenance/repair experience with dental machinery and equipment.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify current government service and analogous-post/pay-scale conditions from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "No post-specific language test is printed for this transfer post; confirm selection conditions with authority."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-assistant-engineer-electrical-transfer",
+      "sourceId": "in-ga-recruitment",
+      "title": "Assistant Engineer (Electrical) — Goa Dental College (transfer on deputation)",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 October 2026 for transfer on deputation. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 7",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — transfer on deputation",
+      "programme": "Assistant Professor, Radio Diagnosis — Goa Medical College (transfer on deputation)",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Transfer on deputation to Goa government institution; separate application required for each post",
+      "outcome": "5 Assistant Professor, Radio Diagnosis — Goa Medical College (transfer on deputation) posts (one application cycle)",
+      "qualifications": "Officer under Central, State or Union Territory government holding an analogous post. Deputation ordinarily does not exceed three years.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify current government service and analogous-post/pay-scale conditions from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "No post-specific language test is printed for this transfer post; confirm selection conditions with authority."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-assistant-professor-radio-diagnosis-transfer",
+      "sourceId": "in-ga-recruitment",
+      "title": "Assistant Professor, Radio Diagnosis — Goa Medical College (transfer on deputation)",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 October 2026 for transfer on deputation. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 11",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — direct recruitment",
+      "programme": "Lecturer in General Medicine — Goa Medical College",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Direct recruitment to Goa government institution; separate application required for each post",
+      "outcome": "5 Lecturer in General Medicine — Goa Medical College posts (one application cycle)",
+      "qualifications": "Recognised medical qualification under the cited Indian Medical Council Act schedules; recognised postgraduate degree or equivalent in General Medicine; at least three years in relevant senior residency/registrar/tutor/demonstrator role after postgraduate degree; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify all post-specific degrees, experience and age/relaxation from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Konkani essential; general instructions assess at least working knowledge at interview. Government may relax this for professional-college posts on Commission recommendation where suitable Konkani-speaking candidates are unavailable. Marathi desirable. General instructions page 10 define at least working knowledge where Konkani is essential; no CEFR equivalence is stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-lecturer-general-medicine",
+      "sourceId": "in-ga-recruitment",
+      "title": "Lecturer in General Medicine — Goa Medical College",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 September 2026 for direct recruitment. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 11",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — direct recruitment",
+      "programme": "Dietician — Directorate of Health Services",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Direct recruitment to Goa government institution; separate application required for each post",
+      "outcome": "1 Dietician — Directorate of Health Services post (one application cycle)",
+      "qualifications": "Degree in Home Science from recognised university or equivalent; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Dietetics/nutrition qualifications, hospital experience and Marathi are desirable.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify all post-specific degrees, experience and age/relaxation from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable. General instructions page 10 define at least working knowledge where Konkani is essential; no CEFR equivalence is stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-dietician",
+      "sourceId": "in-ga-recruitment",
+      "title": "Dietician — Directorate of Health Services",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 September 2026 for direct recruitment. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 6",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — direct recruitment",
+      "programme": "Scientific Assistant, Toxicology, Chemistry and Narcotics — Forensic Science Laboratory",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Direct recruitment to Goa government institution; separate application required for each post",
+      "outcome": "1 Scientific Assistant, Toxicology, Chemistry and Narcotics — Forensic Science Laboratory post (one application cycle)",
+      "qualifications": "Second-class Master's in Science from recognised university, specialising in Chemistry or Forensic Science; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Computer literacy and Marathi are desirable.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify all post-specific degrees, experience and age/relaxation from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable. General instructions page 10 define at least working knowledge where Konkani is essential; no CEFR equivalence is stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-scientific-assistant-toxicology",
+      "sourceId": "in-ga-recruitment",
+      "title": "Scientific Assistant, Toxicology, Chemistry and Narcotics — Forensic Science Laboratory",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 September 2026 for direct recruitment. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 6",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    },
+    {
+      "fixture": false,
+      "cycleLabel": "Goa PSC advertisement 09/2026 — direct recruitment",
+      "programme": "Scientific Assistant, Biology and Serology — Forensic Science Laboratory",
+      "status": "uncertain",
+      "statusNote": "Application cutoff clock time is unreported; advertisement and general instructions require founder review.",
+      "scopeLabel": "Direct recruitment to Goa government institution; separate application required for each post",
+      "outcome": "1 Scientific Assistant, Biology and Serology — Forensic Science Laboratory post (one application cycle)",
+      "qualifications": "Second-class Master's in Science from recognised university, specialising in Zoology, Forensic Science, Microbiology, Genetics or Biotechnology; knowledge of Konkani. Age not exceeding 45 years, subject to applicable relaxation. Computer literacy and Marathi are desirable.",
+      "citizenshipRule": "Advertisement and candidate instructions state no national citizenship test. Foreign-citizen permission to apply, enter selection or take appointment needs authority confirmation. Transfer posts separately require current qualifying government service.",
+      "residenceRule": "No general Goa domicile condition is printed for application; some fee reductions require Goa-issued category certificates. Verify any appointment-specific residence rule with authority.",
+      "selectionStages": [
+        "Eligibility and document scrutiny",
+        "Shortlisting; Commission may conduct screening test",
+        "Interview at Commission headquarters or location stated in call letter"
+      ],
+      "fee": "General instructions list ₹1,000 general fee, ₹500 for listed eligible categories and no fee for PwD; confirm category evidence and deputation applicability before relying on an amount.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-09-25",
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify all post-specific degrees, experience and age/relaxation from advertisement 09/2026, pages 2–3. Separate online application and timely fee payment are required."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify foreign-citizen permission independently; neither retained official PDF states a nationality rule. Do not infer eligibility from education or residence alone."
+          },
+          {
+            "stage": "selection",
+            "text": "Verify Konkani essential; general instructions assess at least working knowledge at interview. Marathi desirable. General instructions page 10 define at least working knowledge where Konkani is essential; no CEFR equivalence is stated."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm appointment eligibility, accepted qualifications, documents and final institutional conditions; an interview call does not establish eligibility."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview site to be given in individual call letter; office address is not treated as assigned venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cbes.goa.gov.in/",
+      "changes": [],
+      "id": "goa-psc-09-2026-scientific-assistant-biology",
+      "sourceId": "in-ga-recruitment",
+      "title": "Scientific Assistant, Biology and Serology — Forensic Science Laboratory",
+      "authority": "Goa Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-GA"
+      ],
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-09-25",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "Advertisement page 1 sets 25 September 2026 for direct recruitment. Publication on 11 September is not used as opening date. No cutoff clock time or timezone label is printed; Asia/Kolkata is Goa local time."
+      },
+      "salary": "Pay Matrix Level 6",
+      "sources": [
+        {
+          "id": "in-ga-recruitment:17678ebab30b",
+          "title": "Goa PSC advertisement register",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://gpsc.goa.gov.in/advertisements/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/advertisements/",
+          "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.245Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:10081c3b1d0a",
+          "title": "Goa PSC public advertisement rows",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "JSON",
+          "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+          "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:04.948Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:df3980625545",
+          "title": "Goa PSC advertisement 09/2026",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+          "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:05.852Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-ga-recruitment:43be173fe220",
+          "title": "Goa PSC general candidate instructions",
+          "authority": "Goa Public Service Commission",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+          "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+          "lastSuccessfulFetchAt": "2026-09-24T23:13:07.017Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://gpsc.goa.gov.in/advertisements/",
+      "fetchedAt": "2026-09-24T23:13:04.245Z",
+      "sha256": "05f84034915874c37bd81ef0615b553ced2614a2973c843cf4aa3f6b9e356acf",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 172601
+    },
+    {
+      "url": "https://gpsc.goa.gov.in/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=5926&target_action=get-all-data&default_sorting=new_first&skip_rows=0&limit_rows=0&ninja_table_public_nonce=8d14310aa5",
+      "fetchedAt": "2026-09-24T23:13:04.948Z",
+      "sha256": "d0e3471bd48be7e7f1e89d14227beaeb33c7dbffbad79526c0c412eef1816e7b",
+      "contentType": "application/json; charset=UTF-8",
+      "bytes": 66351
+    },
+    {
+      "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/ADVT092026.pdf",
+      "fetchedAt": "2026-09-24T23:13:05.852Z",
+      "sha256": "3d30b030b5661e75b686674b12673b468a651f0834a909e2b84e8e18861f3660",
+      "contentType": "application/pdf",
+      "bytes": 495506
+    },
+    {
+      "url": "https://gpsc.goa.gov.in/wp-content/uploads/2026/09/gpsc-gen-instructionsV04092026.pdf",
+      "fetchedAt": "2026-09-24T23:13:07.017Z",
+      "sha256": "9593050ec9f2a1e8eea3243897ef7ac42d199bf01f0168f75ac4236e285fb50f",
+      "contentType": "application/pdf",
+      "bytes": 1097699
+    }
+  ],
+  "warnings": [
+    "Advertisement 09/2026 contains seven separate post applications: three transfer on deputation and four direct recruitment. Vacancies do not multiply cycles.",
+    "Direct-recruitment date is 25 September; transfer-on-deputation date is 25 October. Neither cutoff clock time nor opening date is printed.",
+    "No national citizenship rule is printed. Foreign-citizen ability to apply, enter selection and obtain appointment remains unresolved; deputation also requires qualifying government service.",
+    "Direct posts require Konkani at least at working-knowledge level under general instructions; professional-college relaxation is conditional, not automatic. No CEFR level is inferred.",
+    "Other Goa PSC advertisements, amendments, departments and local sources remain coverage gaps. Founder review is required before publication."
+  ],
+  "approvalRevisions": {
+    "goa-psc-09-2026-medical-officer-transfer": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "134699c59834c27dd7584db90200619d90e0baa94f21426ee9966eef2c60f326"
+    },
+    "goa-psc-09-2026-assistant-engineer-electrical-transfer": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "3b3c39961a37582e24820c518dad9dfa0d2f553c9227597743e90324f84f3779"
+    },
+    "goa-psc-09-2026-assistant-professor-radio-diagnosis-transfer": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "eab239f3488fbe75acbdff794681c2246b65fa72ffb03708ec6990bb220b8b42"
+    },
+    "goa-psc-09-2026-lecturer-general-medicine": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "6c1813d1e105895487f79b2ac32ccfb809808b40e27a19b41b5966763daa07b4"
+    },
+    "goa-psc-09-2026-dietician": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "3f866ada994552552c9db39d97a0b6bc12e1e74b3df4a467b52818a3f1d0dd97"
+    },
+    "goa-psc-09-2026-scientific-assistant-toxicology": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "3401bf2e846b765991c4ced3256a6f18bad480dced0acd2fa8880ec23b6ea03c"
+    },
+    "goa-psc-09-2026-scientific-assistant-biology": {
+      "evidenceRevision": "458f84bd6c8791bd25b23fb0646b4160b7aa2559870b3057ad9be044cb714fc0",
+      "recordRevision": "d330140f4a56d1003a84557e96b6723ba615dad81328ecd186b9a6279e6c45d4"
+    }
+  }
+}

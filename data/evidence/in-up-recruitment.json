@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
+  "fetchedAt": "2026-09-25T16:45:54.278Z",
+  "sha256": "70220b98db9521fcf9cd5af15a71ada7257f8ae843d2d302b38faa315be9c0fe",
+  "bytes": 55385,
+  "contentType": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://uppsc.up.nic.in/",
+  "fetchedAt": "2026-09-25T16:45:55.322Z",
+  "sha256": "892d9ef667bfc47dbccbbcd5f095eeebf42edb1506ee682500d259e631f335a4",
+  "bytes": 181578,
+  "contentType": "text/html; charset=utf-8"
+ }
+]

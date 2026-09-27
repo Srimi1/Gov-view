@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://www.nls.ac.in/news-and-events/work-with-us/",
+  "fetchedAt": "2026-09-25T17:28:50.143Z",
+  "sha256": "1e027db07813dfa03452bdc87f2ac1ff28c956d95c64ff3bf83d6e22c77b80fb",
+  "bytes": 150466,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+  "fetchedAt": "2026-09-25T17:28:51.044Z",
+  "sha256": "60ab76beef441250ba75e39ba582a63281dbcde6f4d6b4252106fdbeddbe1bc7",
+  "bytes": 49284,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-public-policy-permanent-1-vacancy/",
+  "fetchedAt": "2026-09-25T17:28:52.163Z",
+  "sha256": "be81e9a9ad89ff71bbd2c806eb1eeb82c6c0decc678981befd933ce894ec31c7",
+  "bytes": 52553,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.19-Associate-Professor-Public-Policy.pdf",
+  "fetchedAt": "2026-09-25T17:28:53.014Z",
+  "sha256": "4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023",
+  "bytes": 185173,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-humanities-social-science-permanent-4-vacancies/",
+  "fetchedAt": "2026-09-25T17:28:54.110Z",
+  "sha256": "76fc14e88839fbd0ba492cddf2261c785670d0810fd76d6045220d4693b2ed9a",
+  "bytes": 52707,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.18-Associate-Professor-Humanities-Social-Science.pdf",
+  "fetchedAt": "2026-09-25T17:28:55.021Z",
+  "sha256": "f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a",
+  "bytes": 195815,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Associate-Professor-Humanities-Social-Sciences.pdf",
+  "fetchedAt": "2026-09-25T17:28:55.933Z",
+  "sha256": "bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3",
+  "bytes": 151808,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-law-permanent-4-vacancies/",
+  "fetchedAt": "2026-09-25T17:28:57.102Z",
+  "sha256": "e7c5843ea187708ec4ce6ec5362c9806101933920f413feccadc1df664a07951",
+  "bytes": 52664,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.-16-Associate_Professor_Law.pdf",
+  "fetchedAt": "2026-09-25T17:28:58.022Z",
+  "sha256": "70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3",
+  "bytes": 193628,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.nls.ac.in/news-events/call-for-applications-professor-humanities-social-science-permanent-2-vacancies/",
+  "fetchedAt": "2026-09-25T17:28:59.091Z",
+  "sha256": "997b5740e23a53a935337ecd67d5155425a1be989f990a6ce7ee7cf043b19b83",
+  "bytes": 52697,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.17-Professor_-Humanities-Social-Science.pdf",
+  "fetchedAt": "2026-09-25T17:29:00.032Z",
+  "sha256": "cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129",
+  "bytes": 258543,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://www.nls.ac.in/wp-content/uploads/2026/09/Professor-Humanities-Social-Sciences.pdf",
+  "fetchedAt": "2026-09-25T17:29:00.916Z",
+  "sha256": "a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad",
+  "bytes": 143845,
+  "contentType": "application/pdf"
+ }
+]

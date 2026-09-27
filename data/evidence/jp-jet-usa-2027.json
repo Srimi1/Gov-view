@@ -1,0 +1,30 @@
+[
+ {
+  "url": "https://jetprogramusa.org/application-departure/",
+  "fetchedAt": "2026-09-25T06:10:38.276Z",
+  "sha256": "9b3dd583c1823d7cb44001894f55a34b2e7ee4172a89b9048e9f285ad5eb7387",
+  "bytes": 54448,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://jetprogramusa.org/eligibility-criteria/",
+  "fetchedAt": "2026-09-25T06:10:38.994Z",
+  "sha256": "153d9bd9fe5955fd40c158d498e91ff5f112fa82e844c4080f62db1a1f3f9394",
+  "bytes": 50978,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://jetprogramusa.org/jet-program/",
+  "fetchedAt": "2026-09-25T06:10:40.000Z",
+  "sha256": "569ee608e2ed14b093b1deb1a02f9ea08fa5161e765e187ddea74c8f7b56a35d",
+  "bytes": 47413,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://jetprogramusa.org/how-to-apply/",
+  "fetchedAt": "2026-09-25T06:10:40.995Z",
+  "sha256": "088bc013a6542e495274ef8e70fbb982c48dd40bf805abe4e544029d7fa135e7",
+  "bytes": 48589,
+  "contentType": "text/html; charset=UTF-8"
+ }
+]

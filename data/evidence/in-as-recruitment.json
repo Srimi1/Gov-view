@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://apsc.nic.in/advt_2026.php",
+  "fetchedAt": "2026-09-25T13:26:24.713Z",
+  "sha256": "3baea740649665d5c9e69be62966ba10b431d1e7b83c518cb82ea61d7c66ce82",
+  "bytes": 27523,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://apsc.nic.in/corig_2026.php",
+  "fetchedAt": "2026-09-25T13:26:26.706Z",
+  "sha256": "0f354cd6085eb790533c261c3027c7f53de4e2d67fe03d0ce19b68b4e45c97af",
+  "bytes": 23058,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://apsc.nic.in/advt_2026/Advt_no_12-2026_website.pdf",
+  "fetchedAt": "2026-09-25T13:26:28.925Z",
+  "sha256": "50799e314530726481395c7b4ca3859c5bc116cb0f05dacf53288db18904d055",
+  "bytes": 345823,
+  "contentType": "application/pdf"
+ }
+]

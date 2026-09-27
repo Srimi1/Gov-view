@@ -1,499 +1,499 @@
 [
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json",
-  "fetchedAt": "2026-09-24T17:04:44.640Z",
-  "sha256": "5b1d6a1ede55bc97e6bf8cbaad9361597e79a80e416ceebd19a591570a234c05",
-  "bytes": 418867,
+  "fetchedAt": "2026-09-25T05:31:06.633Z",
+  "sha256": "bd1ee9e4d98cc87d65b1f63104f470d30b5e8c595604ee8baebd1e599c47f9b6",
+  "bytes": 405190,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=2",
-  "fetchedAt": "2026-09-24T17:04:46.266Z",
-  "sha256": "e596b706190fbe4813021738e4b28f0d37c12e1d5de6b6d62eb65217d22cbee4",
-  "bytes": 430521,
+  "fetchedAt": "2026-09-25T05:31:07.502Z",
+  "sha256": "08982f5cb8065c508513279a92117f47851bfd169a5750741205c21eeec8b6f3",
+  "bytes": 432650,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=3",
-  "fetchedAt": "2026-09-24T17:04:48.080Z",
-  "sha256": "6f706afc50fa5bada9d5ead2cef1539af52d4868dc99aa111fe597e749a9b9ca",
-  "bytes": 434644,
+  "fetchedAt": "2026-09-25T05:31:08.903Z",
+  "sha256": "c172772617941ca58a3a6c8277176abb83599857c05eaeefb70c50e30b00e045",
+  "bytes": 449950,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=4",
-  "fetchedAt": "2026-09-24T17:04:49.883Z",
-  "sha256": "2cec7095c00d601e3cec6f9f3983dd792665df65d96a40edc3b9866a07e94d6c",
-  "bytes": 503871,
+  "fetchedAt": "2026-09-25T05:31:09.792Z",
+  "sha256": "50ebc84bb1de8d9b3d3d4299f7521bccf25b7003be85378763af3492adb931f5",
+  "bytes": 506069,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=5",
-  "fetchedAt": "2026-09-24T17:04:51.566Z",
-  "sha256": "06b623ed5d670e10fb7c6162dd4ff8419ccf905b598e5496c2332d7e48eb6c8f",
-  "bytes": 521983,
+  "fetchedAt": "2026-09-25T05:31:10.850Z",
+  "sha256": "01729aa911e8c39bf79f907f1a00966c54aa9de1aaf1040936c665e886e1b470",
+  "bytes": 521193,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=6",
-  "fetchedAt": "2026-09-24T17:04:53.740Z",
-  "sha256": "34ddac95dd7da463762d63c9ca6a88e7dd8e8fc04e69635aeb35200a07d523f9",
-  "bytes": 514431,
+  "fetchedAt": "2026-09-25T05:31:12.226Z",
+  "sha256": "f9e5d083461e2675fadbb9b9ad5fc5a76e0b4589c663976ece070c5488221c97",
+  "bytes": 534315,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=7",
-  "fetchedAt": "2026-09-24T17:04:55.436Z",
-  "sha256": "0b83fe7b97d1e8a4bf4b3ab2e1e7caa5c13e2c0a09f3200790c94d38e785b69a",
-  "bytes": 505309,
+  "fetchedAt": "2026-09-25T05:31:13.286Z",
+  "sha256": "cc04d058878bb749265245ef7ede196ad9ea2c4d9f61e39c083c601bd20e4ddd",
+  "bytes": 531017,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=8",
-  "fetchedAt": "2026-09-24T17:04:57.211Z",
-  "sha256": "7ed2359daaf0de6a50f96773b69d465918929e61e9f19de53acf38512a72f71c",
-  "bytes": 487553,
+  "fetchedAt": "2026-09-25T05:31:14.320Z",
+  "sha256": "dfba354d5a87d29efb64207e786028e38b004c68b0ac8a5400cd1156b7f1e0af",
+  "bytes": 449702,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=9",
-  "fetchedAt": "2026-09-24T17:04:58.527Z",
-  "sha256": "5bfaecb5792dd3312314959bf0fbc72375fadd5f276eb3cccbb8af66787b8f1d",
-  "bytes": 468102,
+  "fetchedAt": "2026-09-25T05:31:15.464Z",
+  "sha256": "fab58d3983e192ec95c02fd40dd512d9e58fbd00f3cd16fa7aa7857307115588",
+  "bytes": 515210,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=10",
-  "fetchedAt": "2026-09-24T17:04:59.876Z",
-  "sha256": "33729461a7cfa1964e2c6933a75d3e9d7454c662142e84db457f84de24579395",
-  "bytes": 442428,
+  "fetchedAt": "2026-09-25T05:31:16.325Z",
+  "sha256": "1a6b2a815f80f512b8821ef16a231a5ad6430bb266515c2ae1d83537737c0161",
+  "bytes": 491799,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=11",
-  "fetchedAt": "2026-09-24T17:05:01.706Z",
-  "sha256": "3de2c631c4fd00e56b220b1178e297d2a592dabbfa1d15792d9992a3e690ba89",
-  "bytes": 439653,
+  "fetchedAt": "2026-09-25T05:31:17.325Z",
+  "sha256": "286280375d8d6b5076b768402c5b2c087b36beeacff7b7c0185ef8d50bf8ea99",
+  "bytes": 455351,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=12",
-  "fetchedAt": "2026-09-24T17:05:03.825Z",
-  "sha256": "9927e5cae04a2473d4cd5a7d1e7f17a7769ae8e5c67bc3bbc4fd52a24ce7b5e3",
-  "bytes": 511471,
+  "fetchedAt": "2026-09-25T05:31:18.511Z",
+  "sha256": "9b42b901a40d093e9cb1edfc581b51653bb2da7010ec78b0f4d3ecebd9ece2b8",
+  "bytes": 534187,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=13",
-  "fetchedAt": "2026-09-24T17:05:06.026Z",
-  "sha256": "db5ac753234c7eea309b65a2d6394ac7785914f0d423ae4f9848ad1385f54465",
-  "bytes": 540774,
+  "fetchedAt": "2026-09-25T05:31:19.738Z",
+  "sha256": "2b5fa4a246c4a31d331281c4ec2885eb245982ebb9f14eae253bfd1c6879d4ee",
+  "bytes": 585023,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=14",
-  "fetchedAt": "2026-09-24T17:05:07.974Z",
-  "sha256": "4648a5c8f341b80ff73bf5dcdd7757c8453f899d4021a686ef657cdeb8af45c3",
-  "bytes": 488127,
+  "fetchedAt": "2026-09-25T05:31:20.851Z",
+  "sha256": "2255f6ba7c2bc6eb926b0187501bc98f25d5e980c2fcab86c53305d378c08a2a",
+  "bytes": 508229,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=15",
-  "fetchedAt": "2026-09-24T17:05:09.840Z",
-  "sha256": "47fbd01fcf827bff9abb1bd7faf17cadd6e2a31a46a590da1ae7b245165f2d41",
-  "bytes": 509741,
+  "fetchedAt": "2026-09-25T05:31:21.989Z",
+  "sha256": "c11e2802052cc66cf4bb21173f5de4aa2b735236f16692c39c4cd53faf5ab891",
+  "bytes": 529706,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=16",
-  "fetchedAt": "2026-09-24T17:05:11.904Z",
-  "sha256": "2b179584df5f22895e92468bcede1008b0f8399514aeee3208def7ca7c1e3463",
-  "bytes": 534687,
+  "fetchedAt": "2026-09-25T05:31:22.922Z",
+  "sha256": "5c1746a78bd2f9124cf1230142d29d007705b031b32c2d09ebbd36e4e3842d72",
+  "bytes": 513841,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=17",
-  "fetchedAt": "2026-09-24T17:05:13.308Z",
-  "sha256": "e0a597eaf30d49d5f1d1e661840a4b9be497ed5bda066e040834e1ec96bde919",
-  "bytes": 487289,
+  "fetchedAt": "2026-09-25T05:31:24.096Z",
+  "sha256": "8683b9d8af4ae48ecb97e2a10bae5bd64b8a3d8bccb5a678db623977ae862bae",
+  "bytes": 452022,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=18",
-  "fetchedAt": "2026-09-24T17:05:15.074Z",
-  "sha256": "b4eff94c457a8faeee74c1725211507f1d041fdff99507e56414f9d5ade793ee",
-  "bytes": 478515,
+  "fetchedAt": "2026-09-25T05:31:25.168Z",
+  "sha256": "615259170feb551b9a9155001e9a0a0587b3c393e14d08073ef2eae55a89887e",
+  "bytes": 482616,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=19",
-  "fetchedAt": "2026-09-24T17:05:16.746Z",
-  "sha256": "b38dcc9a3f0fc65286c53155156f2948bef5e9968782f4a84218e35e52e19d87",
-  "bytes": 454036,
+  "fetchedAt": "2026-09-25T05:31:26.393Z",
+  "sha256": "70191de9db00e75045baeb8f5ce4aa40ec4e8efd006322ffc26efaf9dceccd4f",
+  "bytes": 477471,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=20",
-  "fetchedAt": "2026-09-24T17:05:18.247Z",
-  "sha256": "bdbdd0bb09b91db5327411ff93c8d44b4c99f57c6227cf2c06fd23d0e367f243",
-  "bytes": 453806,
+  "fetchedAt": "2026-09-25T05:31:27.288Z",
+  "sha256": "3289fe4a66c6dc64cc6e6d28a656ff50aeb3439b9b5e275422b1785742cba1cb",
+  "bytes": 467029,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=21",
-  "fetchedAt": "2026-09-24T17:05:20.145Z",
-  "sha256": "7739ef344e1537e9ab4b1549f498fcb9cba1cded9cdfbc816ded0a10a45751e8",
-  "bytes": 506573,
+  "fetchedAt": "2026-09-25T05:31:28.293Z",
+  "sha256": "dcafc57d7df2eb1ebd12bdcd2e4560814ce32287a8c5776919370a3134c94e2c",
+  "bytes": 508521,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=22",
-  "fetchedAt": "2026-09-24T17:05:21.876Z",
-  "sha256": "273fa1cfb29a82c76e8a8c3c25c3bf31f9d68b84e32bfa0a72042159895c9897",
-  "bytes": 505331,
+  "fetchedAt": "2026-09-25T05:31:29.531Z",
+  "sha256": "2cc441d9a07c06b34ddf12a5a25479f1dfff7907e6a7bfff705b793d6bc8dad1",
+  "bytes": 482980,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=23",
-  "fetchedAt": "2026-09-24T17:05:23.498Z",
-  "sha256": "47a75934fb6287ad6cf6867d7d73b7147116a770903b9620b451fe26265d3aa8",
-  "bytes": 501308,
+  "fetchedAt": "2026-09-25T05:31:30.623Z",
+  "sha256": "3aacd197fe4afd9512eaa63975b6663343b3dc7bac5f9d95d448eb2130673d2a",
+  "bytes": 508198,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=24",
-  "fetchedAt": "2026-09-24T17:05:25.242Z",
-  "sha256": "d69c33204965b8495e2396e53b0eea785a07f6d99893c1bfc7da700500cd789a",
-  "bytes": 431612,
+  "fetchedAt": "2026-09-25T05:31:31.606Z",
+  "sha256": "3bd0e429f8d5caf09e50ec4084efa7ec5dc0887ad639558f4a0651b02c048842",
+  "bytes": 411799,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=25",
-  "fetchedAt": "2026-09-24T17:05:27.117Z",
-  "sha256": "c45ba3b86fe5823796cf45d5b8c4b7780c35b180c2fac115b6badd1df5a7a346",
-  "bytes": 472293,
+  "fetchedAt": "2026-09-25T05:31:32.751Z",
+  "sha256": "3922d0d127d0781746f41c388740e246d2b6be49a3675d01467b9878773da724",
+  "bytes": 501707,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=26",
-  "fetchedAt": "2026-09-24T17:05:28.716Z",
-  "sha256": "4108ac92cb62d0e27a32bab947df7a7505fc4d36e0d732ba3e30b1fa784ee76e",
-  "bytes": 448785,
+  "fetchedAt": "2026-09-25T05:31:33.574Z",
+  "sha256": "4215897bd3057d4144f5280625184725514e89e7ee7856914f657b2a60819967",
+  "bytes": 431617,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=27",
-  "fetchedAt": "2026-09-24T17:05:30.102Z",
-  "sha256": "741a823d65d24199ee314713358a12ef133edbd59e428e151ff0f49f57be4d3e",
-  "bytes": 465677,
+  "fetchedAt": "2026-09-25T05:31:34.847Z",
+  "sha256": "98dee0cae67dc9bce849c08d638982eea242ce3191e7ba64683b8cefd64eb879",
+  "bytes": 453025,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=28",
-  "fetchedAt": "2026-09-24T17:05:31.626Z",
-  "sha256": "88ec4d1765206328f242043cb48583de2bcfa9ec47f346ab0d3df99f692823c6",
-  "bytes": 462809,
+  "fetchedAt": "2026-09-25T05:31:35.734Z",
+  "sha256": "56d40e5bd83426e4a0dcf43dc861c3b57c3b21c765fa33a591f693cb1478d9a0",
+  "bytes": 503054,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=29",
-  "fetchedAt": "2026-09-24T17:05:33.185Z",
-  "sha256": "e653c60ae170c6dce9c59e659acb40005fb4c5fe3814b0c8ca02a3e6a4d7ebc1",
-  "bytes": 481101,
+  "fetchedAt": "2026-09-25T05:31:36.870Z",
+  "sha256": "d69117992a24709a4e4effef0d2a1a02ee7baf815d407f0774bfcb4b8b59dc33",
+  "bytes": 507338,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=30",
-  "fetchedAt": "2026-09-24T17:05:34.605Z",
-  "sha256": "8b57c637d552cb99891f2d37271bb0e3cb60c87de0cb5923256167ddefe8fcea",
-  "bytes": 522686,
+  "fetchedAt": "2026-09-25T05:31:37.740Z",
+  "sha256": "aeb40990aca281e34448be5aaff0e3d8bab613053117f955d468a1cfa23d526e",
+  "bytes": 517825,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=31",
-  "fetchedAt": "2026-09-24T17:05:36.127Z",
-  "sha256": "7cf714c174d63d834a264efa03a696b20bcaa4c649749663ea997402614ba168",
-  "bytes": 499075,
+  "fetchedAt": "2026-09-25T05:31:38.787Z",
+  "sha256": "4c3eb5776816082a4b89567609b1407b526da67f5be4c4bcce1d91d3aee73094",
+  "bytes": 483905,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=32",
-  "fetchedAt": "2026-09-24T17:05:37.777Z",
-  "sha256": "d4c4e8bdcc76a5693162c023907a2b1889fe8b6190245f3f0406f8d9addcb871",
-  "bytes": 450919,
+  "fetchedAt": "2026-09-25T05:31:39.870Z",
+  "sha256": "45af738d6ef37800bd03441055ef5d8fc9c488b9791ba44b0aac22a9b7947a5c",
+  "bytes": 495971,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=33",
-  "fetchedAt": "2026-09-24T17:05:39.506Z",
-  "sha256": "fad924b67d08b389d3934d8359072f32ecae8f818b49fd3c8c5dca8beac20b79",
-  "bytes": 560248,
+  "fetchedAt": "2026-09-25T05:31:40.753Z",
+  "sha256": "c14a5f8d9884476d6fafe80bc9cc07924be155098e8b5b0a79efb4c510b9606a",
+  "bytes": 449070,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=34",
-  "fetchedAt": "2026-09-24T17:05:40.994Z",
-  "sha256": "6f4b49671ecef96a5286730b9a2457f6f262039d8d4b6e0b99b5b56b01b5deee",
-  "bytes": 474667,
+  "fetchedAt": "2026-09-25T05:31:41.769Z",
+  "sha256": "43795ad7743f57bd88279b2d6cf9f12349b12be84838a80d091a50ad76f970fa",
+  "bytes": 487160,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=35",
-  "fetchedAt": "2026-09-24T17:05:43.247Z",
-  "sha256": "aee37c50a7711d219e27070447c13a1f2671a8b7b56898cb4be5116dc8da15cd",
-  "bytes": 510527,
+  "fetchedAt": "2026-09-25T05:31:42.832Z",
+  "sha256": "047a8a0bd660b3b2359b470dc7d0f07d9b1554d9c58e1ad420eb9f9f1f3d7051",
+  "bytes": 510017,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=36",
-  "fetchedAt": "2026-09-24T17:05:45.252Z",
-  "sha256": "b8c3cc88bb55b6daae235d73c6a3064b9d3154972caa1e3aab6cdbffc72a17f1",
-  "bytes": 556916,
+  "fetchedAt": "2026-09-25T05:31:44.189Z",
+  "sha256": "58f303ed7553de40730e9ff5f379855bfd4cf80cbeac86f61ca81a0f6aa54fdd",
+  "bytes": 548416,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=37",
-  "fetchedAt": "2026-09-24T17:05:46.877Z",
-  "sha256": "0d362062be8ffb0945f4ae5b94998d0b62c8e80fbb8ddb4dbc3ff541bbaa20a9",
-  "bytes": 579394,
+  "fetchedAt": "2026-09-25T05:31:45.477Z",
+  "sha256": "3161697ae16168c509984e4e2505cb53fbc72f27dde22f8505b546408c36a5ae",
+  "bytes": 560371,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=38",
-  "fetchedAt": "2026-09-24T17:05:48.787Z",
-  "sha256": "eb1b54fbf67b12ca6818de55e5dceba86869a05b2a1be759f807bd28866189ec",
-  "bytes": 526454,
+  "fetchedAt": "2026-09-25T05:31:46.651Z",
+  "sha256": "f913d5185a338a3958b2794eb2c4cf99b67bef1c32edb152e1b603b6ce4e5bab",
+  "bytes": 527568,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=39",
-  "fetchedAt": "2026-09-24T17:05:50.017Z",
-  "sha256": "dcd9ad0e5b72dca574fecec3c312a0d022dac460a1bf71d9b6329624bb3ca4f4",
-  "bytes": 456483,
+  "fetchedAt": "2026-09-25T05:31:47.706Z",
+  "sha256": "56aa1aa4c945bed3727ee2a03a10567174ff2df16a3a0071b0bc2ce7c0a3d0b3",
+  "bytes": 469524,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=40",
-  "fetchedAt": "2026-09-24T17:05:51.507Z",
-  "sha256": "dd1bfabe89c7b8b9ccecb92733168831758ee984152d9820503a687427770281",
-  "bytes": 479449,
+  "fetchedAt": "2026-09-25T05:31:48.748Z",
+  "sha256": "53b43e871dab681de9a241e7b52e5c44bcdd233921872396b68fc9aac488c8e3",
+  "bytes": 516706,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=41",
-  "fetchedAt": "2026-09-24T17:05:53.086Z",
-  "sha256": "8968a916aad88d821333cdfa9e48b5a3e6e8a02ad5b0884f03db181ec851b5a2",
-  "bytes": 529073,
+  "fetchedAt": "2026-09-25T05:31:49.638Z",
+  "sha256": "042577e35880d0b458cf9dd86e09a6d30959f6d5bca3fa818a3df12890763d6b",
+  "bytes": 482649,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=42",
-  "fetchedAt": "2026-09-24T17:05:54.547Z",
-  "sha256": "dd1faa0aac5f26c7941f2539064ae90a724b27cc09136f4016e75a038ca76c05",
-  "bytes": 472312,
+  "fetchedAt": "2026-09-25T05:31:50.827Z",
+  "sha256": "5edeaee067a5f1446c05cad1f4e89ced131be2eccc72d6ff543e134685b2c892",
+  "bytes": 491264,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=43",
-  "fetchedAt": "2026-09-24T17:05:57.326Z",
-  "sha256": "58554e39c89804300c693043cc1098242e07dac86a7781e76ea309e1de57ad6d",
-  "bytes": 576011,
+  "fetchedAt": "2026-09-25T05:31:52.069Z",
+  "sha256": "329269a1778280fb01983cf87bae3d9d67d81abb53ec2c5308b8d71eea9bd223",
+  "bytes": 561980,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=44",
-  "fetchedAt": "2026-09-24T17:05:59.116Z",
-  "sha256": "2ad699b7948323b8ab21671a41e52e7343b0b1a0119b7f2ac8a4a89cf62743be",
-  "bytes": 512215,
+  "fetchedAt": "2026-09-25T05:31:53.105Z",
+  "sha256": "62b6977a45d704329cdf4c6111c98715e03626a3fa02023a496304fc6ff67d50",
+  "bytes": 432121,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=45",
-  "fetchedAt": "2026-09-24T17:06:00.890Z",
-  "sha256": "464a23c523abee9c6502c7f351b2c7044e4cadb6186dc258533ef78e8740b2a5",
-  "bytes": 554635,
+  "fetchedAt": "2026-09-25T05:31:54.343Z",
+  "sha256": "50d80bc1c0e00454cde48e3e3cad74337bac400d1e35abcba228edfb7c37107c",
+  "bytes": 560665,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=46",
-  "fetchedAt": "2026-09-24T17:06:02.555Z",
-  "sha256": "0c2a44d948e3a4d5d73aa5c33718c2d8847cabeac3cc68cb8559469fbc243b57",
-  "bytes": 408670,
+  "fetchedAt": "2026-09-25T05:31:55.223Z",
+  "sha256": "77f17d576dc38333b4ca034164840b07c9acc0fb91c5a708d80036af09066ab4",
+  "bytes": 504561,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=47",
-  "fetchedAt": "2026-09-24T17:06:04.116Z",
-  "sha256": "47ab0c82954a9f92ace2b7ac48b5fa51765343c5df1fd773f6013c76018e887a",
-  "bytes": 516465,
+  "fetchedAt": "2026-09-25T05:31:56.479Z",
+  "sha256": "632ca13ae6751f6758c7857b86f3c196f284b3595a3f727a694e40345c4616d4",
+  "bytes": 497115,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=48",
-  "fetchedAt": "2026-09-24T17:06:05.628Z",
-  "sha256": "4f214e71b4797c9dac9264919050c550d3e1eb342c12428af02ee54e228565dc",
-  "bytes": 409481,
+  "fetchedAt": "2026-09-25T05:31:57.669Z",
+  "sha256": "3fb7d71a26f10d6710cd25651181d72d850e6556665af24c89c1537879847109",
+  "bytes": 539565,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=49",
-  "fetchedAt": "2026-09-24T17:06:07.247Z",
-  "sha256": "b8833c4f0a5611f5a54b0f862a8646c18cca91bb7d07e190e34b8fd58b2c5182",
-  "bytes": 439547,
+  "fetchedAt": "2026-09-25T05:31:59.252Z",
+  "sha256": "5b8103b0a7faedb2142ce40aafdc33ac114636d3549f6a6c4ac8da6790fd03d3",
+  "bytes": 877379,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=50",
-  "fetchedAt": "2026-09-24T17:06:09.051Z",
-  "sha256": "279cc0a6e155be6469e3b538c50c781ee9db87577f9b164a86a22f500b7fc0a2",
-  "bytes": 511289,
+  "fetchedAt": "2026-09-25T05:32:00.475Z",
+  "sha256": "32ee0d00ae36bab7f47f01af92321ee3f753d77e837c4f1df8e2c85e5012da75",
+  "bytes": 536651,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=51",
-  "fetchedAt": "2026-09-24T17:06:12.819Z",
-  "sha256": "fa5fbce2d984d5186ec416dc3b96dfafc668faefa56981145504d2f19fe58a8a",
-  "bytes": 974055,
+  "fetchedAt": "2026-09-25T05:32:01.323Z",
+  "sha256": "1c1868fc30651bc4ee1448efbf7fd2cbb3555744787c8b6a403f94cb65d76467",
+  "bytes": 388016,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=52",
-  "fetchedAt": "2026-09-24T17:06:14.574Z",
-  "sha256": "50c79c78d204400a6e0ec27ab8226bce4b1755977b1d9dc756125e4c518af8a6",
-  "bytes": 454916,
+  "fetchedAt": "2026-09-25T05:32:02.727Z",
+  "sha256": "4cf5cf27e83e5c9b20f4c92039788148647e6d4042833218409619de115aa9a9",
+  "bytes": 456205,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=53",
-  "fetchedAt": "2026-09-24T17:06:16.155Z",
-  "sha256": "48ee924dd9828d38a80c89c02a966bb092f79866bcef05f54f54b922065b3d81",
-  "bytes": 493477,
+  "fetchedAt": "2026-09-25T05:32:03.808Z",
+  "sha256": "bb8a2403e7318cc0c82bb3e3fe3e06f67819f04c372e890d1f2e3d980c43aae5",
+  "bytes": 453308,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=54",
-  "fetchedAt": "2026-09-24T17:06:17.806Z",
-  "sha256": "fa238f9f49d9703d3813c611ae972f5f4ce6bd1df18d6a94a2cab2c3260e6706",
-  "bytes": 532741,
+  "fetchedAt": "2026-09-25T05:32:04.816Z",
+  "sha256": "ae84ef8fc4b215c253144b4b382ca4cb27f55d97a1a6539bdb3f8e8c947c51b6",
+  "bytes": 533288,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=55",
-  "fetchedAt": "2026-09-24T17:06:19.847Z",
-  "sha256": "69cf6d2592dc5afacb0c4f7ec8911e2fcbe4fcde5056ef75c7d3a3af1dfb04f5",
-  "bytes": 522648,
+  "fetchedAt": "2026-09-25T05:32:06.096Z",
+  "sha256": "217301af855d1e6c4695fe98819a6a47e6dcc76bf7d636e609e8b9c326e182e8",
+  "bytes": 551808,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=56",
-  "fetchedAt": "2026-09-24T17:06:21.656Z",
-  "sha256": "0b19dd4d1186664d6a6f0efb59a37f30571319c037b05392166db28b3e392f01",
-  "bytes": 548903,
+  "fetchedAt": "2026-09-25T05:32:06.975Z",
+  "sha256": "7b63767674b3790e1838bb4bd447acdf2238e1bf428775a8457626cfeeb86ea2",
+  "bytes": 457952,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=57",
-  "fetchedAt": "2026-09-24T17:06:23.538Z",
-  "sha256": "e33ac4b36efdcdf4ba7fb7f6622365491b42d9d5597adf59163aee305bf7d483",
-  "bytes": 559177,
+  "fetchedAt": "2026-09-25T05:32:07.995Z",
+  "sha256": "87d0240535617f0fab4d780c6de03680b3ff0b1d274c051b0760de5bbd3eb857",
+  "bytes": 518482,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=58",
-  "fetchedAt": "2026-09-24T17:06:25.335Z",
-  "sha256": "a9ead5788482f8008199afdb02bffc9080e5b1af0d2973357d314008de9a9b78",
-  "bytes": 532420,
+  "fetchedAt": "2026-09-25T05:32:09.188Z",
+  "sha256": "def878b8f1169ba2ea794ef154f42939b3f6fc39a0e2d3ffef7b54391a9a15cd",
+  "bytes": 483290,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=59",
-  "fetchedAt": "2026-09-24T17:06:26.874Z",
-  "sha256": "2b212b6f0eaa09e1421e5badf56e30fcaeebb8e698fe0e7b4878a35bc5071e60",
-  "bytes": 484913,
+  "fetchedAt": "2026-09-25T05:32:10.435Z",
+  "sha256": "6725715dfc18c03fd01f8e9a67abbc4f0333d6d85d36c6b9e385bab3cc243612",
+  "bytes": 533841,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=60",
-  "fetchedAt": "2026-09-24T17:06:28.601Z",
-  "sha256": "e868a1c7855b3b02af9fd57a30f46efdd59f98e6d400338bae084624a361d203",
-  "bytes": 515373,
+  "fetchedAt": "2026-09-25T05:32:11.478Z",
+  "sha256": "a8dcf86289c9d4c2e87ff3b59e001969ecc6c6aa41af204cd4eff4d8a3dfda64",
+  "bytes": 507236,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=61",
-  "fetchedAt": "2026-09-24T17:06:30.127Z",
-  "sha256": "1b00e82c577b71a8ef61177c1a523777fe2809386159c802754ae30ac15be2dc",
-  "bytes": 492261,
+  "fetchedAt": "2026-09-25T05:32:12.525Z",
+  "sha256": "2ea31c9c6d4fa6dff5ca736cba4385d413c96a78cd00681faf671539d3dca33e",
+  "bytes": 518962,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=62",
-  "fetchedAt": "2026-09-24T17:06:31.925Z",
-  "sha256": "f73ad5bb41962fed347c0c15b3d4263f1d532d61d7bccbf47cea11bd124dc4c9",
-  "bytes": 522042,
+  "fetchedAt": "2026-09-25T05:32:13.570Z",
+  "sha256": "834783db67f3f5c84b9aa66541133b597f61c46b81ee52cc08d17018d369e20e",
+  "bytes": 497227,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=63",
-  "fetchedAt": "2026-09-24T17:06:33.577Z",
-  "sha256": "6a3aa0203a14bbfab403fddcbb6a409577a630cf268f727680c8e48441c7a44f",
-  "bytes": 456688,
+  "fetchedAt": "2026-09-25T05:32:14.452Z",
+  "sha256": "66a8c53582adb1e310b9ecbf4c121b5e24e30ebea7e2f2204028110bf17c84e9",
+  "bytes": 469533,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=64",
-  "fetchedAt": "2026-09-24T17:06:35.565Z",
-  "sha256": "6d89802659e20dacf483a80f4d44e85d8c3e2e292643a0da1a96f55cb2e2b0f4",
-  "bytes": 547289,
+  "fetchedAt": "2026-09-25T05:32:16.030Z",
+  "sha256": "ad94b526316016c85a0093e70ca5aefa29fc4f34890fecfe9754eaa06cdc7416",
+  "bytes": 590854,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=65",
-  "fetchedAt": "2026-09-24T17:06:37.388Z",
-  "sha256": "5591a659c1154a1ce589f44699940fdc9856e17ff8f291317734b2634c4c97ac",
-  "bytes": 577074,
+  "fetchedAt": "2026-09-25T05:32:17.121Z",
+  "sha256": "0731154ec137d565dd6a2fcbd4e8a62bca08ece3f6fc80ea2c66e8d4860cb645",
+  "bytes": 526880,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=66",
-  "fetchedAt": "2026-09-24T17:06:39.216Z",
-  "sha256": "09fd495572be48e9f7d424b1cde6261b5228fd7e7ea3b24082916e208461fb55",
-  "bytes": 515408,
+  "fetchedAt": "2026-09-25T05:32:17.962Z",
+  "sha256": "778b641e6b10d6705cc537f140d1e3f72f8726b398ff87f60d01b965ca1124f5",
+  "bytes": 498735,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=67",
-  "fetchedAt": "2026-09-24T17:06:40.648Z",
-  "sha256": "5ea7f4d6c86f3aacfa37cf6970018994bb8939102b8fd861a817c7f1fe8fa1db",
-  "bytes": 531289,
+  "fetchedAt": "2026-09-25T05:32:19.321Z",
+  "sha256": "edc9a926fd51f05398b3ec0acaf34377e29ab5d0b1e30785b86e74620f6b68a8",
+  "bytes": 556380,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=68",
-  "fetchedAt": "2026-09-24T17:06:42.158Z",
-  "sha256": "1c3e36e013c2eb7672817ebf2ba1470ae64af702370c2ae1ccf959f5e857ba72",
-  "bytes": 531149,
+  "fetchedAt": "2026-09-25T05:32:20.386Z",
+  "sha256": "96bb4765ed666636017e83658f7a3febec89ad99b7799616d5e8d1977e81c776",
+  "bytes": 581241,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=69",
-  "fetchedAt": "2026-09-24T17:06:43.906Z",
-  "sha256": "abcb7b95d3270b02b62f6fc70f3d04f143971c60baa7e36a7adec7b860e82d73",
-  "bytes": 613749,
+  "fetchedAt": "2026-09-25T05:32:21.594Z",
+  "sha256": "f7e266a9bf8c42d69812cd61030e35e41a6063bdfd777b3a0600fcfb9f406aca",
+  "bytes": 565565,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=70",
-  "fetchedAt": "2026-09-24T17:06:45.846Z",
-  "sha256": "7ab00e701809809899d1efd626045b543094c4c62581eea49836e9d4d1501aab",
-  "bytes": 518273,
+  "fetchedAt": "2026-09-25T05:32:22.544Z",
+  "sha256": "910fba59c8f800f72dc1a02038eb61c8e354013b98e02605add879c5d00c7818",
+  "bytes": 483639,
   "contentType": "application/json; charset=utf-8"
  },
  {
   "url": "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json?page=71",
-  "fetchedAt": "2026-09-24T17:06:47.106Z",
-  "sha256": "dd5e495cf8d1d1d1d32b8977429928bfa7037642419703710d46be404ec51493",
-  "bytes": 394957,
+  "fetchedAt": "2026-09-25T05:32:23.137Z",
+  "sha256": "4e4a3e51e3dd3710d9b58612b5c6c3e56f2fa815584909de11c98dafc7ecc4b6",
+  "bytes": 11755,
   "contentType": "application/json; charset=utf-8"
  }
 ]

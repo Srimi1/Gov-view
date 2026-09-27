@@ -1,0 +1,149 @@
+{
+  "sourceId": "in-nbems-fmge",
+  "collectedAt": "2026-09-25T05:48:02.026Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "FMGE October 2026, bulletin v2.2",
+      "programme": "FMGE medical practice screening test",
+      "status": "open",
+      "statusNote": "Official October 2026 FMGE index and exact v2.2 bulletin retained. New applicants close 25 September at 23:55 IST; later edit and document windows are for existing applicants. Founder review pending, including conflicting Nepalese nationality wording.",
+      "scopeLabel": "National medical licensing screening test for eligible foreign-trained medical graduates. This is one examination application cycle, not a government job vacancy or a licence issued on application.",
+      "outcome": "Qualified candidates may receive an FMGE pass certificate after in-person identity and credential checks. NMC or a State Medical Council decides provisional or permanent registration separately; passing does not guarantee a licence or job.",
+      "qualifications": "Primary medical qualification recognized for medical enrolment in its awarding country, confirmed by the Indian Embassy; final examination result declared by 2026-08-31. Prior MBBS entry, NMC eligibility certificate or qualifying NEET-UG result, documents and exceptions require individual review (bulletin section 4).",
+      "citizenshipRule": "Bulletin section 4.1 permits Indian citizens or Overseas Citizens of India (OCI). Section 8.7 separately says non-OCI foreign nationals other than Nepalese cannot apply, suggesting a Nepalese exception that conflicts with section 4.1. Foreign citizens with OCI need document review; Nepalese non-OCI applicants need NBEMS clarification. Nationality alone cannot establish registration rights.",
+      "residenceRule": "Bulletin gives no general pre-application domicile requirement. Test cities are choices, not residence rules. Registration and practice rights are decided later by the relevant medical council.",
+      "selectionStages": [
+        "Online application and examination fee",
+        "Primary medical qualification and eligibility document check",
+        "Computer-based FMGE on 2026-10-31",
+        "Result and in-person pass-certificate credential check",
+        "Separate NMC or State Medical Council registration decision"
+      ],
+      "fee": "₹4,650 total examination fee including 18% GST; payment gateway charges may apply (bulletin section 3).",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-08-31",
+        "nationality": {
+          "allowed": [
+            "IN"
+          ],
+          "ociAccepted": true,
+          "uncertain": [
+            "NP"
+          ],
+          "evidence": "FMGE October 2026 official bulletin §4.1 (page 24) accepts Indian citizens or OCI. §8.7 (page 63) separately excludes non-OCI foreign nationals other than Nepalese, leaving Nepalese non-OCI permission unresolved."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Check citizenship and OCI documentation, Indian-Embassy-confirmed primary medical qualification, 31 August 2026 final-result date, prior MBBS eligibility and NMC certificate/NEET route. Resolve section 4.1 versus 8.7 for Nepalese non-OCI applicants before any positive assessment."
+          },
+          {
+            "stage": "selection",
+            "text": "NBEMS must verify submitted documents and exam admission; English is the examination medium, with no published CEFR level. Admit card alone is provisional eligibility."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm examination pass, in-person identity and credential verification, FMGE pass certificate, then independent NMC or State Medical Council registration requirements and permission to practise."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Tentative test-city choices published; individual examination centre is allotted later"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://cdn3.digialm.com//EForms/configuredHtml/1815/100817//Index.html",
+      "changes": [],
+      "id": "nbems-fmge-october-2026",
+      "sourceId": "in-nbems-fmge",
+      "title": "Foreign Medical Graduate Examination — October 2026",
+      "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+      "pathway": "licensing",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": "2026-09-11",
+        "closesOn": "2026-09-25",
+        "cutoffLocalTime": "23:55",
+        "cutoffInclusive": true,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Bulletin page 2: new online applications 11 September 2026 at 17:00 through 25 September 2026 at 23:55 IST. The 29–30 September edit window and 21 October deficient-document deadline do not reopen new applications."
+      },
+      "languageNote": "FMGE multiple-choice responses are in English only (section 5.1). Prior MBBS admission criteria mention English qualifying marks. Bulletin states no CEFR or universal spoken-English proficiency level; exam medium and prior academic marks are distinct.",
+      "sources": [
+        {
+          "id": "in-nbems-fmge:37ca907c7072",
+          "title": "NBEMS FMGE official examination index, October 2026 accordion",
+          "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+          "sha256": "88543f6937bbb8cdc39c6b8902d61b88fe581e29dfe7aacafd5416b3e6495d62",
+          "lastSuccessfulFetchAt": "2026-09-25T05:48:04.443Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-nbems-fmge:323d0b647122",
+          "title": "FMGE October 2026 information bulletin v2.2, 129 pages",
+          "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+          "language": "English and Hindi",
+          "format": "PDF",
+          "url": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+          "sha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+          "lastSuccessfulFetchAt": "2026-09-25T05:48:07.617Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "examEvents": [
+        {
+          "label": "FMGE computer-based examination",
+          "date": "2026-10-31",
+          "timezone": "Asia/Kolkata",
+          "verified": false,
+          "sourceUrl": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://natboard.edu.in/viewnbeexam?exam=fmge",
+      "fetchedAt": "2026-09-25T05:48:04.443Z",
+      "sha256": "88543f6937bbb8cdc39c6b8902d61b88fe581e29dfe7aacafd5416b3e6495d62",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 119006
+    },
+    {
+      "url": "https://nbe.edu.in/IB/FMGE%20october%202026%20information%20bulletin%20v2.2.pdf",
+      "fetchedAt": "2026-09-25T05:48:07.617Z",
+      "sha256": "15051561d290fa759e357c0fdeda4cffefee238cf9e19531918a68f9c5ed8429",
+      "contentType": "application/pdf",
+      "bytes": 2500141
+    }
+  ],
+  "warnings": [
+    "Only FMGE October 2026 is extracted; June 2026, future FMGE sessions, FDST and other NBEMS pathways remain gaps.",
+    "Section 4.1 Indian/OCI eligibility and section 8.7 Nepalese exception conflict; no automatic positive Nepalese or foreign-citizen eligibility is asserted.",
+    "English exam medium is not a CEFR requirement. Passing FMGE does not grant medical registration or government employment.",
+    "Test-city list is tentative and individual centres are not published in this bulletin; no venue pins are inferred."
+  ],
+  "approvalRevisions": {
+    "nbems-fmge-october-2026": {
+      "evidenceRevision": "f640f6a3914ada783128641787e6194bec7174ea81dbbc9f13147e83f5d10d02",
+      "recordRevision": "e50ee19f176a4e1aa15387b9f22e26bc4669db51736f63ab3cb5aa0dab07d95e"
+    }
+  }
+}

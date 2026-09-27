@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://police.ladakh.gov.in/pages/recruitment.html",
+  "fetchedAt": "2026-09-24T23:24:11.716Z",
+  "sha256": "c09eaaa740baa4258afcc02a4a65572090ebac0f2c791175ad33a8ba48e98bb7",
+  "bytes": 74018,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://police.ladakh.gov.in/pages/pdf/contables_recruitment.pdf",
+  "fetchedAt": "2026-09-24T23:24:12.935Z",
+  "sha256": "e2c8bbcb207fc1d70c8d187c1bf416339437b5a683f00f1f44de3df05dcdf065",
+  "bytes": 741714,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://police.ladakh.gov.in/pages/pdf/No-extension.pdf",
+  "fetchedAt": "2026-09-24T23:24:13.719Z",
+  "sha256": "7b6faef554a2c1a10b5d67554c458f93161e53ce959efea307012044786ad1b2",
+  "bytes": 528248,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://police.ladakh.gov.in/pages/pdf/postponement.pdf",
+  "fetchedAt": "2026-09-24T23:24:14.846Z",
+  "sha256": "91428525e6960ccd98ad21fbd074925d1b9c5cd4bf715a304018fa197fa31b02",
+  "bytes": 921210,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://police.ladakh.gov.in/pages/pdf/14082026085649.pdf",
+  "fetchedAt": "2026-09-24T23:24:15.688Z",
+  "sha256": "b04a229fc9905754f1c5fbb9600cfbec0c401103ee0d1970e7576a6029cefd3f",
+  "bytes": 470271,
+  "contentType": "application/pdf"
+ }
+]

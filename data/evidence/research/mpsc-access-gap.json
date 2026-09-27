@@ -1,0 +1,17 @@
+{
+  "sourceId": "in-mh-recruitment",
+  "attempts": [
+    {
+      "url": "https://mpsc.gov.in/web/api/v1/getmenuoptions",
+      "checkedAt": "2026-09-24T20:22:33.080Z",
+      "outcome": "not fetched",
+      "error": "robots.txt disallows /web/api/v1/getmenuoptions"
+    },
+    {
+      "url": "https://mpsc.gov.in/web/api/v1/home",
+      "checkedAt": "2026-09-24T20:22:33.364Z",
+      "outcome": "not fetched",
+      "error": "robots.txt disallows /web/api/v1/home"
+    }
+  ]
+}

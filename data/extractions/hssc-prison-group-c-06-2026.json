@@ -1,0 +1,35 @@
+{
+  "reviewStatus": "pending-founder-review",
+  "sourceId": "in-hr-hssc",
+  "cycleId": "hssc-prison-group-c-06-2026",
+  "indexUrl": "https://hssc.gov.in/advertisement",
+  "publicNoticesUrl": "https://hssc.gov.in/publicNotice",
+  "documentUrl": "https://hssc.gov.in/file/ac1f23cd-9d9c-1328-819e-ef25fa0a0061/advertisements",
+  "documentSha256": "9de3015c5fd240fffcf25a9326445337cb7ef6f88f89b9f42188bef018960616",
+  "documentPages": 81,
+  "publishedOn": "2026-06-22",
+  "opensOn": "2026-06-24",
+  "closesOn": "2026-06-30",
+  "cutoffLocalTime": "23:59",
+  "correctionClosesOn": "2026-07-02",
+  "applicationUrl": "https://adv062026.hryssc.com/",
+  "posts": [
+    { "category": 1, "group": 1, "name": "Assistant Superintendent Jail (Male)", "vacancies": 30, "minimumEducation": "bachelor", "generalAge": "21–27" },
+    { "category": 2, "group": 1, "name": "Assistant Superintendent Jail (Female)", "vacancies": 3, "minimumEducation": "bachelor", "generalAge": "21–27" },
+    { "category": 3, "group": 2, "name": "Warder Female", "vacancies": 112, "minimumEducation": "higher-secondary", "generalAge": "18–25" },
+    { "category": 4, "group": 2, "name": "Warder Male", "vacancies": 1093, "minimumEducation": "higher-secondary", "generalAge": "18–25" }
+  ],
+  "selectionNotices": [
+    { "publishedOn": "2026-07-22", "kind": "PST schedule", "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-8af999770001/publicNotice" },
+    { "publishedOn": "2026-07-24", "kind": "Female absentee PST", "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-947d2e820009/publicNotice" },
+    { "publishedOn": "2026-08-03", "kind": "Male absentee PST", "url": "https://hssc.gov.in/file/ac1f23cd-9f7f-1923-819f-c66664700018/publicNotice" }
+  ],
+  "evidenceNotes": [
+    "Original PDF page 1 and chapter 1 page 2 open 24 June and close 30 June 2026 at 11:59 PM. Correction/edit ends 2 July; original says no application fee for any advertised post.",
+    "Appendix A PDF pages 19–21 list four categories in two examination groups: 30 male and three female Assistant Superintendent Jail posts, 112 female and 1,093 male Warder posts. Total 1,238 vacancies across the four categories, with role-specific education, age and physical standards.",
+    "Chapter 1 requires candidates qualified in Group-C CET advertisement 01/2025. Appendix D CET policy PDF page 30 permits Indian citizens and conditionally Nepal/Bhutan subjects with Government eligibility certificate to enter CET. Final prison appointment permission is post-specific and not resolved by this CET clause.",
+    "All four role categories require Hindi or Sanskrit as a subject in Matric or Higher Education; no CEFR/numerical level appears. Exam paper is bilingual Hindi/English, distinct from a formal proficiency threshold.",
+    "Later official public notices dated 22/24 July and 3 August concern physical screening, including absentee candidate sessions. They do not announce a new application deadline. PDFs are retained separately for research and linked from the pending draft, but current connector does not extract candidate-level results or exam venues.",
+    "One advertisement and application portal are provisionally counted as one application cycle. Chapter 9 allows post preferences within groups; founder must confirm whether separate group forms make more than one distinct application cycle before approval."
+  ]
+}

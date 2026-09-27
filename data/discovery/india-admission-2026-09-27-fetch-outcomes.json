@@ -1,0 +1,297 @@
+[
+  {
+    "sourceId": "in-nta-jee-main",
+    "label": "bulletin-index",
+    "url": "https://jeemain.nta.nic.in/information-bulletin/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-jee-main-bulletin-index-2026-09-27.html",
+    "evidence": {
+      "url": "https://jeemain.nta.nic.in/information-bulletin/",
+      "fetchedAt": "2026-09-26T22:49:14.233Z",
+      "sha256": "fc0f69792bd862dc0511bb3e1d891b07687675125d42f82cb1aa0adbc9ebd0ae",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 90631
+    }
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "home",
+    "url": "https://neet.nta.nic.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-neet-ug-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://neet.nta.nic.in/",
+      "fetchedAt": "2026-09-26T22:49:14.234Z",
+      "sha256": "9432f8417785357e97425a9e80b547c8c01bfa8fef876f52bbf58d87b8a4148e",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 107524
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-home",
+    "url": "https://jam.iitkgp.ac.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/",
+      "fetchedAt": "2026-09-26T22:49:14.322Z",
+      "sha256": "bea4b4da2e9bc60ec9fe93b17380054c43f27c2569ba50b7f3703bbb869bfd65",
+      "contentType": "text/html",
+      "bytes": 14232
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-home",
+    "url": "https://gate2027.iitm.ac.in/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-home-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/",
+      "fetchedAt": "2026-09-26T22:49:14.985Z",
+      "sha256": "10d6b5f67f0f4c426af8fc5366d6e2265d9b5b889c367c83053805efd8c197fa",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 55747
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-eligibility",
+    "url": "https://jam.iitkgp.ac.in/exam-eligibilityreq.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-eligibility-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/exam-eligibilityreq.html",
+      "fetchedAt": "2026-09-26T22:49:15.369Z",
+      "sha256": "36d7aebaf0c04a035f8f0819fd16a90e564a94d3906b08194a476447bba9993a",
+      "contentType": "text/html",
+      "bytes": 5686
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-eligibility",
+    "url": "https://gate2027.iitm.ac.in/eligibility_criteria",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-eligibility-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/eligibility_criteria",
+      "fetchedAt": "2026-09-26T22:49:15.454Z",
+      "sha256": "6036a5e81aae0b41570be8152adf90bc0e916a70a57c4b248e6fec91926f165a",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 33510
+    }
+  },
+  {
+    "sourceId": "in-nta-jee-main",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/11/202511021649722475.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-jee-main-bulletin-2026-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/11/202511021649722475.pdf",
+      "fetchedAt": "2026-09-26T22:49:15.774Z",
+      "sha256": "b18d5d608dda0a274eaa1bcaa4127e0ab7e49d2fd0e78840bd9c96707400960e",
+      "contentType": "application/pdf",
+      "bytes": 6092568
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-faq",
+    "url": "https://jam.iitkgp.ac.in/faq.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-faq-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/faq.html",
+      "fetchedAt": "2026-09-26T22:49:16.316Z",
+      "sha256": "9e23d06e1862c9442c4db4d17527b08551c3457240a00f6a6930e2a417aa5b09",
+      "contentType": "text/html",
+      "bytes": 22841
+    }
+  },
+  {
+    "sourceId": "in-nta-cuet-ug",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-cuet-ug-bulletin-2026-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf",
+      "fetchedAt": "2026-09-26T22:49:16.465Z",
+      "sha256": "089251af8851a575d97565162aeb777a623849fbde2495e52e40a53d6bfedbc7",
+      "contentType": "application/pdf",
+      "bytes": 3064223
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-faq",
+    "url": "https://gate2027.iitm.ac.in/faqs",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-faq-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/faqs",
+      "fetchedAt": "2026-09-26T22:49:16.563Z",
+      "sha256": "b4f3ca519875e012bc8778dee7d0038e0f702cdb529c48946ac2590847d1536e",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 87948
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-pattern",
+    "url": "https://gate2027.iitm.ac.in/question_paper_pattern",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-pattern-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/question_paper_pattern",
+      "fetchedAt": "2026-09-26T22:49:17.472Z",
+      "sha256": "321b15d468adafa80eb4cdafcb8518d2ca2b47898bee467e1b2e48b8259710d9",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 35926
+    }
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "bulletin-2026",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-neet-ug-bulletin-2026-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+      "fetchedAt": "2026-09-26T22:49:17.924Z",
+      "sha256": "2b688f32bc58e5d5acdc4d61c8e6795a81419c40887a7e5c40b7d163174b4925",
+      "contentType": "application/pdf",
+      "bytes": 10420086
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-dates",
+    "url": "https://gate2027.iitm.ac.in/important_dates",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-dates-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/important_dates",
+      "fetchedAt": "2026-09-26T22:49:18.333Z",
+      "sha256": "8a80f7e8d1fad552bc5de439574dd0473189b8e377dea95b687874ab99f563b5",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 25381
+    }
+  },
+  {
+    "sourceId": "in-iitm-gate",
+    "label": "gate-2027-foreign-registration",
+    "url": "https://gate2027.iitm.ac.in/guideline/",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitm-gate-gate-2027-foreign-registration-2026-09-27.html",
+    "evidence": {
+      "url": "https://gate2027.iitm.ac.in/guideline/",
+      "fetchedAt": "2026-09-26T22:49:19.422Z",
+      "sha256": "d29156751f198916a2626f7749b2e564690510ea1e3d7b5a611be20ab83dab47",
+      "contentType": "text/html",
+      "bytes": 43973
+    }
+  },
+  {
+    "sourceId": "in-nta-cuet-ug",
+    "label": "bulletin-index",
+    "url": "https://cuet.nta.nic.in/information-bulletin/",
+    "format": "HTML",
+    "status": "failed",
+    "path": "data/evidence/research/india65-in-nta-cuet-ug-bulletin-index-2026-09-27-failure.json",
+    "attemptedAt": "2026-09-26T22:49:13.203Z",
+    "error": "robots.txt unreachable at https://cuet.nta.nic.in: fetch failed"
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-download",
+    "url": "https://jam.iitkgp.ac.in/download.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-download-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/download.html",
+      "fetchedAt": "2026-09-26T22:50:18.954Z",
+      "sha256": "b57a5204a80d859068b2fe423229f51366e8084f8aaf2d70d5dd6fa521acc0d4",
+      "contentType": "text/html",
+      "bytes": 21888
+    }
+  },
+  {
+    "sourceId": "in-nta-neet-ug",
+    "label": "re-examination-notice-2026-05",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-nta-neet-ug-re-examination-notice-2026-05-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/05/20260515960654684.pdf",
+      "fetchedAt": "2026-09-26T22:50:19.195Z",
+      "sha256": "b590bad365058f4c58c6f9bcc0c6e654002fbf60ab426950f13a06ba8f96707c",
+      "contentType": "application/pdf",
+      "bytes": 845362
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-about",
+    "url": "https://jam.iitkgp.ac.in/about.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-about-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/about.html",
+      "fetchedAt": "2026-09-26T22:50:19.953Z",
+      "sha256": "f7ceec7545cb89fad3d749a2f5362b5898d49249d52b5dac5f5fad10edbc02c0",
+      "contentType": "text/html",
+      "bytes": 16554
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-schedule",
+    "url": "https://jam.iitkgp.ac.in/test-schedule.html",
+    "format": "HTML",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-schedule-2026-09-27.html",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/test-schedule.html",
+      "fetchedAt": "2026-09-26T22:50:20.952Z",
+      "sha256": "ae64a7a2b01789a0a4a6a081d8f5670f805788de820935446305090265fa8471",
+      "contentType": "text/html",
+      "bytes": 5975
+    }
+  },
+  {
+    "sourceId": "in-iitkgp-jam",
+    "label": "jam-2027-brochure-v2",
+    "url": "https://jam.iitkgp.ac.in/docs/Info_Brochure_v2.pdf",
+    "format": "PDF",
+    "status": "retained",
+    "path": "data/evidence/research/india65-in-iitkgp-jam-jam-2027-brochure-v2-2026-09-27.pdf",
+    "evidence": {
+      "url": "https://jam.iitkgp.ac.in/docs/Info_Brochure_v2.pdf",
+      "fetchedAt": "2026-09-26T22:50:52.088Z",
+      "sha256": "83aab610ce5944c08868b62d8d5202fc7f2eea0d066877f1f193bc57a285c128",
+      "contentType": "application/pdf",
+      "bytes": 2751823
+    }
+  }
+]

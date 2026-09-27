@@ -1,0 +1,16 @@
+[
+ {
+  "url": "https://npsc.nagaland.gov.in/advertisement",
+  "fetchedAt": "2026-09-24T22:06:22.033Z",
+  "sha256": "e575c770dda3fea43863287bfc5c62fb74c5f24a6953084d2eec710d1a0051d2",
+  "bytes": 81978,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://npsc.nagaland.gov.in/advertisement/178713486224731",
+  "fetchedAt": "2026-09-24T22:06:22.999Z",
+  "sha256": "37aabf9eccb50be040f5e55fc8e3f38f54c54c672fd9a674ba8750f771f56e68",
+  "bytes": 44822,
+  "contentType": "text/html; charset=UTF-8"
+ }
+]

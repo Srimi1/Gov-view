@@ -1,0 +1,26 @@
+[
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "rulebook",
+    "url": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+    "format": "PDF"
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "home",
+    "url": "https://esb.mp.gov.in/home_n.html",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "dashboard",
+    "url": "https://esb.mp.gov.in/student_dashboard.htm",
+    "format": "HTML"
+  },
+  {
+    "sourceId": "in-mp-esb-steno-asi-2026",
+    "label": "forms",
+    "url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+    "format": "HTML"
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "sourceId": "in-jh-recruitment",
+  "collectedAt": "2026-09-25T01:30:29.506Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "JPSC advertisement 07/2026",
+      "programme": "Jharkhand medical college super-specialty faculty",
+      "status": "closed",
+      "statusNote": "Original 07/2026 advertisement and press note agree on 12 May 2026, 17:00 online deadline. Founder review pending; ten-specialty application grouping needs confirmation.",
+      "scopeLabel": "Jharkhand government medical colleges; one advertisement lists 90 posts across ten super-specialties",
+      "outcome": "Regular Assistant Professor appointments in nephrology, cardiology, neurology, surgical gastroenterology, neurosurgery, urology, cardiothoracic surgery, plastic/reconstructive surgery, and medical/surgical oncology; 90 posts total",
+      "qualifications": "Specialty-specific D.M./DNB/DrNB or M.Ch./DNB/DrNB, plus Basic Course in Biomedical Research; exact medical recognition and experience require review (advertisement page 2).",
+      "citizenshipRule": "No explicit citizenship or foreign-national application rule was established in checked advertisement and press note. International applicants need official confirmation at application, selection and appointment stages.",
+      "residenceRule": "Jharkhand permanent-residence certificate is required for state reservation benefits (advertisement page 4); notice does not present it as a general application bar for unreserved candidates.",
+      "selectionStages": [
+        "Online application through JPSC One Time Registration",
+        "Academic and experience merit assessment",
+        "Interview",
+        "Original medical qualification, registration, residence/category and other document verification before appointment"
+      ],
+      "fee": "₹600 plus bank charge for unreserved/BC/EWS; ₹150 for Jharkhand SC/ST; eligible benchmark-disability exemption and other categories require notice review (advertisement page 7).",
+      "rules": {
+        "complete": false,
+        "asOn": "2025-08-01",
+        "age": {
+          "min": 30,
+          "evidence": "Advertisement page 2: minimum age 30 on 1 August 2025. Upper age varies by category, sex, disability and state service (page 3), so no common maximum is encoded."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Confirm citizenship and any foreign-national right to apply; checked notice does not establish it."
+          },
+          {
+            "stage": "apply",
+            "text": "Verify specialty-specific DM/DNB/DrNB or MCh qualification, recognition, Basic Course in Biomedical Research and age relaxation (advertisement pages 2–3)."
+          },
+          {
+            "stage": "apply",
+            "text": "Confirm whether each specialty requires its own application form; one advertisement has ten specialties and 90 posts."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm interview language with JPSC; no formal language-proficiency level is stated in checked notice."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm citizenship/appointment permission, medical registration, original credentials and any claimed Jharkhand reservation certificate (advertisement pages 4 and 9)."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "Interview location not verified; JPSC office address is not treated as interview venue"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://jpscotr.com/",
+      "changes": [],
+      "id": "jharkhand-medical-assistant-professor-07-2026",
+      "sourceId": "in-jh-recruitment",
+      "title": "Jharkhand medical college Assistant Professor 2026",
+      "authority": "Jharkhand Public Service Commission",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "subdivisionCodes": [
+        "IN-JH"
+      ],
+      "applicationWindow": {
+        "opensOn": "2026-04-28",
+        "closesOn": "2026-05-12",
+        "cutoffLocalTime": "17:00",
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "minute",
+        "note": "Hindi press note page 1 and original notice page 9: online application 28 April–12 May 2026 by 17:00. Fee payment until 14 May and paper-copy receipt until 25 May are separate steps. Notice does not print timezone; Asia/Kolkata is local interpretation."
+      },
+      "salary": "7th Pay Matrix Level 11 (advertisement page 2)",
+      "sources": [
+        {
+          "id": "in-jh-recruitment:135f4cc2dfdb",
+          "title": "JPSC latest recruitment index",
+          "authority": "Jharkhand Public Service Commission",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://www.jpsc.gov.in/",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jpsc.gov.in/",
+          "sha256": "f6d910a304685c33a21f2897e7bedc4ae18ecc3993e246129754fe63579defa1",
+          "lastSuccessfulFetchAt": "2026-09-25T01:30:30.739Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jh-recruitment:4ac8b0b745ee",
+          "title": "JPSC advertisement 07/2026 document list",
+          "authority": "Jharkhand Public Service Commission",
+          "language": "English",
+          "format": "HTML",
+          "url": "https://www.jpsc.gov.in/exam_files.php?id=13045",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jpsc.gov.in/exam_files.php?id=13045",
+          "sha256": "ec41f38b10d2d377052b4ad313bca61c3a5693f96ba478810c13bdf85d047ccf",
+          "lastSuccessfulFetchAt": "2026-09-25T01:30:31.689Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jh-recruitment:d9e29323a29a",
+          "title": "JPSC 07/2026 advertisement",
+          "authority": "Jharkhand Public Service Commission",
+          "language": "Hindi and English",
+          "format": "PDF",
+          "url": "https://www.jpsc.gov.in/data/Advertisement_07_26_dated_15_04_2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jpsc.gov.in/data/Advertisement_07_26_dated_15_04_2026.pdf",
+          "sha256": "d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9",
+          "lastSuccessfulFetchAt": "2026-09-25T01:30:32.891Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-jh-recruitment:46570a374d0e",
+          "title": "JPSC 07/2026 press-note",
+          "authority": "Jharkhand Public Service Commission",
+          "language": "Hindi and English",
+          "format": "PDF",
+          "url": "https://www.jpsc.gov.in/data/Press_Release_07_26_dated_15_04_2026.pdf",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://www.jpsc.gov.in/data/Press_Release_07_26_dated_15_04_2026.pdf",
+          "sha256": "063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11",
+          "lastSuccessfulFetchAt": "2026-09-25T01:30:33.684Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://www.jpsc.gov.in/",
+      "fetchedAt": "2026-09-25T01:30:30.739Z",
+      "sha256": "f6d910a304685c33a21f2897e7bedc4ae18ecc3993e246129754fe63579defa1",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 34855
+    },
+    {
+      "url": "https://www.jpsc.gov.in/exam_files.php?id=13045",
+      "fetchedAt": "2026-09-25T01:30:31.689Z",
+      "sha256": "ec41f38b10d2d377052b4ad313bca61c3a5693f96ba478810c13bdf85d047ccf",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 19339
+    },
+    {
+      "url": "https://www.jpsc.gov.in/data/Advertisement_07_26_dated_15_04_2026.pdf",
+      "fetchedAt": "2026-09-25T01:30:32.891Z",
+      "sha256": "d4153b6795db06812c721da66c99a010902f041bea5576830e5f8a56ef43b5c9",
+      "contentType": "application/pdf",
+      "bytes": 794495
+    },
+    {
+      "url": "https://www.jpsc.gov.in/data/Press_Release_07_26_dated_15_04_2026.pdf",
+      "fetchedAt": "2026-09-25T01:30:33.684Z",
+      "sha256": "063c86e2d32648e9637d26ec72e1e3fa167277edee124fe100db9f9ca2422e11",
+      "contentType": "application/pdf",
+      "bytes": 275428
+    }
+  ],
+  "warnings": [
+    "One 90-post advertisement with ten specialty rows is provisionally one cycle; founder must confirm whether specialty applications are separate.",
+    "Citizenship and formal language criteria are not established by checked Hindi notice. International applicant status remains needs verification; PDF text extraction uses legacy font encoding and is unreliable without visual review.",
+    "Jharkhand residence controls reservation benefits; do not turn it into a blanket application exclusion.",
+    "Fee-payment and hard-copy dates follow, but do not extend, the 12 May online application deadline.",
+    "Other JPSC 2026 advertisements and authorities remain unextracted coverage gaps."
+  ],
+  "approvalRevisions": {
+    "jharkhand-medical-assistant-professor-07-2026": {
+      "evidenceRevision": "dd8514e32af3c91189cc854dd2e642542c25b3557072319c4593f5cabc3d8cb9",
+      "recordRevision": "70aeb1212da2ed512b70d9c2d8f88b74c7e75ed432ff912d4dd8041581f688a6"
+    }
+  }
+}

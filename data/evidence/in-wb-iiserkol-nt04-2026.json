@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://apply.iiserkol.ac.in/jobs/",
+  "fetchedAt": "2026-09-25T09:02:39.424Z",
+  "sha256": "ffd026ad61687aa6f432fec15e1b8e736f1eb319284dc350ee2dd995906c7151",
+  "bytes": 41337,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026.pdf",
+  "fetchedAt": "2026-09-25T09:02:41.372Z",
+  "sha256": "0390b006259de53e810c62d79c0357c9c4c3689feca2b35d40a69e0dc682b3e6",
+  "bytes": 373499,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://apply.iiserkol.ac.in/jobs/docs/09_2026/Advt-NT-04-2026_19.09.2026_hindi.pdf",
+  "fetchedAt": "2026-09-25T09:02:44.928Z",
+  "sha256": "830806178962f2266989c036c044e4d15d8190bb863c328f758c12625922602b",
+  "bytes": 1222215,
+  "contentType": "application/pdf"
+ }
+]

@@ -1,0 +1,68 @@
+{
+  "indexUrl": "https://www.nls.ac.in/news-and-events/work-with-us/",
+  "facultyUrl": "https://www.nls.ac.in/news-events/call-for-applications-faculty-positions-at-nlsiu-september-2026/",
+  "closesOn": "2026-10-26",
+  "cutoffLocalTime": "17:00",
+  "roles": [
+    {
+      "id": "nlsiu-associate-professor-public-policy-19-2026",
+      "title": "Associate Professor (Public Policy)",
+      "notification": "19/2026",
+      "vacancies": 1,
+      "payLevel": "13A",
+      "noticeUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-public-policy-permanent-1-vacancy/",
+      "pdfUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.19-Associate-Professor-Public-Policy.pdf",
+      "pdfSha256": "4d719dda0c1f641aacfe65050d7053f3d4ed88693cfe0eafa2c26aecb46fe023",
+      "applicationUrl": "https://forms.gle/Z2GvnGouiJ8iMK64A",
+      "subjectAreas": "Policy Design and Evaluation, Policy Analysis, Policy Communication, Public Finance",
+      "vacancyMix": "1 unreserved",
+      "rank": "associate"
+    },
+    {
+      "id": "nlsiu-associate-professor-hss-18-2026",
+      "title": "Associate Professor (Humanities & Social Sciences)",
+      "notification": "18/2026",
+      "vacancies": 4,
+      "payLevel": "13A",
+      "noticeUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-humanities-social-science-permanent-4-vacancies/",
+      "pdfUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.18-Associate-Professor-Humanities-Social-Science.pdf",
+      "pdfSha256": "f7ab8ecdbc5d544139e85cfb1a3b93a7be21982e54f539ba4c1261e758a7316a",
+      "corrigendumUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Associate-Professor-Humanities-Social-Sciences.pdf",
+      "corrigendumSha256": "bb119634ccd3bf7e7820be86ba082eb1d70c1ab6e0edf90057e7fa6caee9add3",
+      "applicationUrl": "https://forms.gle/MszKjcf6QCugBQTZ9",
+      "subjectAreas": "Economics, Sociology and Anthropology, Political Science, History",
+      "vacancyMix": "3 unreserved, 1 Scheduled Caste",
+      "rank": "associate"
+    },
+    {
+      "id": "nlsiu-associate-professor-law-16-2026",
+      "title": "Associate Professor (Law)",
+      "notification": "16/2026",
+      "vacancies": 4,
+      "payLevel": "13A",
+      "noticeUrl": "https://www.nls.ac.in/news-events/call-for-applications-associate-professor-law-permanent-4-vacancies/",
+      "pdfUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.-16-Associate_Professor_Law.pdf",
+      "pdfSha256": "70717dbeba0ad2388584e274ad4db52e0e3a55eac52408bf3e54a0d5b85fc9d3",
+      "applicationUrl": "https://forms.gle/HCqy2q3VWEGAgtwq9",
+      "subjectAreas": "Major law subjects; official notice gives an indicative list",
+      "vacancyMix": "3 unreserved, 1 Scheduled Caste",
+      "rank": "associate"
+    },
+    {
+      "id": "nlsiu-professor-hss-17-2026",
+      "title": "Professor (Humanities & Social Sciences)",
+      "notification": "17/2026",
+      "vacancies": 2,
+      "payLevel": "14",
+      "noticeUrl": "https://www.nls.ac.in/news-events/call-for-applications-professor-humanities-social-science-permanent-2-vacancies/",
+      "pdfUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Notification-No.17-Professor_-Humanities-Social-Science.pdf",
+      "pdfSha256": "cf578777f50dd9e58e700393d40da4f948c1f4d645948c926a5619256c48c129",
+      "corrigendumUrl": "https://www.nls.ac.in/wp-content/uploads/2026/09/Professor-Humanities-Social-Sciences.pdf",
+      "corrigendumSha256": "a03c734548ecd4c8681d866202a220e6d814eb12f94b00bc6bbb92fc6e2b93ad",
+      "applicationUrl": "https://forms.gle/EvQDj6qfsABKhZvg6",
+      "subjectAreas": "Economics, Sociology and Anthropology, Political Science, History",
+      "vacancyMix": "2 unreserved",
+      "rank": "professor"
+    }
+  ]
+}

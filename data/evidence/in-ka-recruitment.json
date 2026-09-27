@@ -1,0 +1,51 @@
+[
+ {
+  "url": "https://kpsc.kar.nic.in/page1a.htm",
+  "fetchedAt": "2026-09-25T01:08:23.033Z",
+  "sha256": "efd579dbee6977d8163cd5457c1a4f1263e817cc990d77aadf582696aa68e87f",
+  "bytes": 86298,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/applyonline.html",
+  "fetchedAt": "2026-09-25T01:08:24.664Z",
+  "sha256": "a4e25c65006ad534705812c26cb153ce2f26a6bd399bd2b0c108a01a56a679d3",
+  "bytes": 1788,
+  "contentType": "text/html"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf",
+  "fetchedAt": "2026-09-25T01:08:28.983Z",
+  "sha256": "fb0e0920b4f97954312b1abb954202658de18a842811bf05a6f3c229d2f16ae7",
+  "bytes": 9042011,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/corrigendum%20notification%20GP-2026.pdf",
+  "fetchedAt": "2026-09-25T01:08:31.246Z",
+  "sha256": "a9ed71da8e694e31218a3cdcca6c3964d0fdf9907c0c385d247adbaa0b4b8814",
+  "bytes": 316366,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/pressnote%20gp-2026.pdf",
+  "fetchedAt": "2026-09-25T01:08:33.400Z",
+  "sha256": "c31a3c45c8bb4557a2054406ad4b681accf823fdab6480ddbaa68b8d6aa0ed20",
+  "bytes": 306831,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/Pressnote%20%20GP-2026-27%20HOSTED%20ON%2013-08-2026.pdf",
+  "fetchedAt": "2026-09-25T01:08:35.696Z",
+  "sha256": "33002895050801561fbf9bae7d0bf8ef7999eb957d989d4d1b8959fc638ee95f",
+  "bytes": 367789,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://kpsc.kar.nic.in/Time%20Table%20GP%202026-27%20HOSTED%20ON%2031-07-2026.pdf",
+  "fetchedAt": "2026-09-25T01:08:38.108Z",
+  "sha256": "431a18956e5b7e5dfb332d641520196b9c100d5bbeba0c86b9190d9fa6c12c96",
+  "bytes": 650367,
+  "contentType": "application/pdf"
+ }
+]

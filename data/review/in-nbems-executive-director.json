@@ -1,0 +1,154 @@
+{
+  "sourceId": "in-nbems-executive-director",
+  "collectedAt": "2026-09-25T06:02:52.427Z",
+  "reviewStatus": "pending",
+  "complete": false,
+  "cycles": [
+    {
+      "fixture": false,
+      "cycleLabel": "A-12011/1/2025-ESTB · 2026",
+      "programme": "NBEMS Executive Director 2026 deputation",
+      "status": "open",
+      "statusNote": "Official NBEMS vacancy register links English and Hindi versions dated 12 August 2026. Postal application must reach NBEMS by 30 October 2026; no cutoff clock time is printed. Founder review pending.",
+      "scopeLabel": "One national-level public institution leadership post, by deputation from eligible medical services; office in New Delhi. Application is sent through the current employer.",
+      "outcome": "One Executive Director post on deputation for three years, extendable by two years, at Level 14 of the Central Government pay matrix. Selection and release by the parent authority are required.",
+      "qualifications": "Postgraduate degree in Medicine, Surgery or Public Health or branch; 20 years' standing in profession; at least 10 years postgraduate teaching after PG and 5 years as Professor and Head, Professor, Director or Dean, or equivalent. Age at most 55 on 30 October 2026. Existing eligible officer service, employer forwarding, vigilance clearance and five years' APARs are essential.",
+      "citizenshipRule": "This vacancy notice does not print a citizenship rule. It solicits eligible officers from Central/State Government medical services, Defence Services, Railways, AIIMS, PGIMERs and government medical colleges or institutions. Foreign nationality alone cannot establish access to those services or deputation; international applicants need NBEMS and parent-authority confirmation.",
+      "residenceRule": "No general residence or domicile condition is stated. New Delhi office and postal application address are not residence requirements.",
+      "selectionStages": [
+        "Employer forwards prescribed application, vigilance clearance and five years' APARs",
+        "NBEMS screens documents and eligibility",
+        "Selection decision and parent-authority release",
+        "Initial three-year deputation, potentially extended to five years"
+      ],
+      "fee": "Application fee not stated in checked English or Hindi vacancy notice.",
+      "rules": {
+        "complete": false,
+        "asOn": "2026-10-30",
+        "age": {
+          "max": 55,
+          "evidence": "NBEMS Executive Director vacancy notice, English page 2 paragraph 3: maximum 55 years on closing date 30 October 2026."
+        },
+        "manualChecks": [
+          {
+            "stage": "apply",
+            "text": "Verify postgraduate medical/public-health degree, 20 years' professional standing, 10 years' postgraduate teaching, 5 years' specified leadership experience and service eligibility. Employer must forward full documents; nationality permission is not stated."
+          },
+          {
+            "stage": "selection",
+            "text": "Confirm NBEMS screening, vigilance clearance, five years' APARs and employer release. The notice does not state a language proficiency test."
+          },
+          {
+            "stage": "outcome",
+            "text": "Confirm selection and lawful deputation from parent medical service; one vacancy and three-year initial term do not guarantee appointment."
+          }
+        ]
+      },
+      "venues": [
+        {
+          "kind": "unknown",
+          "name": "No interview or selection venue published; New Delhi is the office and postal destination"
+        }
+      ],
+      "lastVerifiedAt": null,
+      "applicationUrl": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+      "changes": [],
+      "id": "nbems-executive-director-2026",
+      "sourceId": "in-nbems-executive-director",
+      "title": "Executive Director — NBEMS (medical officer deputation)",
+      "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+      "pathway": "recruitment",
+      "jurisdictionCode": "IN",
+      "jurisdictionName": "India",
+      "applicationWindow": {
+        "opensOn": null,
+        "closesOn": "2026-10-30",
+        "cutoffLocalTime": null,
+        "officialTimeZone": "Asia/Kolkata",
+        "precision": "date",
+        "note": "English notice page 2, paragraph 5: application with employer forwarding, vigilance clearance and five years' APARs must reach postal address before last date 30 October 2026. Notice date is not assumed to be application opening date. No cutoff hour is stated."
+      },
+      "languageNote": "Official vacancy has English and Hindi versions. Neither sets a formal language proficiency level or certificate for this post; publication language does not establish applicant language eligibility.",
+      "sources": [
+        {
+          "id": "in-nbems-executive-director:47a0a4cf5e48",
+          "title": "NBEMS official vacancy register, 12 August 2026 rows",
+          "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+          "language": "English and Hindi",
+          "format": "HTML",
+          "url": "https://natboard.edu.in/vacancy.php",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://natboard.edu.in/vacancy.php",
+          "sha256": "ad75d9bae818401110126a9c554f07a83c8fdbbf037d76cf8ddcea63cda1c097",
+          "lastSuccessfulFetchAt": "2026-09-25T06:02:55.254Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-nbems-executive-director:e2efced27545",
+          "title": "NBEMS Executive Director vacancy notice and application form",
+          "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+          "language": "English",
+          "format": "PDF",
+          "url": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+          "sha256": "738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488",
+          "lastSuccessfulFetchAt": "2026-09-25T06:02:57.024Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        },
+        {
+          "id": "in-nbems-executive-director:90bcde6b4d92",
+          "title": "NBEMS Executive Director vacancy notice and application form",
+          "authority": "National Board of Examinations in Medical Sciences, Ministry of Health and Family Welfare",
+          "language": "Hindi",
+          "format": "PDF",
+          "url": "https://natboard.edu.in/viewNotice.php?NBE=SnBOMlBnbGJ6VXZBOEZjNUd4aFN3QT09",
+          "fetchStatus": "fetched",
+          "fetchedUrl": "https://natboard.edu.in/viewNotice.php?NBE=SnBOMlBnbGJ6VXZBOEZjNUd4aFN3QT09",
+          "sha256": "641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa",
+          "lastSuccessfulFetchAt": "2026-09-25T06:02:59.366Z",
+          "lastValidatedAt": null,
+          "verificationStatus": "pending-review"
+        }
+      ],
+      "applicationMethod": "post"
+    }
+  ],
+  "evidence": [
+    {
+      "url": "https://natboard.edu.in/vacancy.php",
+      "fetchedAt": "2026-09-25T06:02:55.254Z",
+      "sha256": "ad75d9bae818401110126a9c554f07a83c8fdbbf037d76cf8ddcea63cda1c097",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 16440
+    },
+    {
+      "url": "https://natboard.edu.in/viewNotice.php?NBE=cVFPQ3lnUDFBTHI3dGxOdmNSMGh5UT09",
+      "fetchedAt": "2026-09-25T06:02:57.024Z",
+      "sha256": "738bc39833e6f1dee0cf38e9035eaaa07961501f247e64c1db045916c52ca488",
+      "contentType": "application/pdf",
+      "bytes": 999679
+    },
+    {
+      "url": "https://natboard.edu.in/viewNotice.php?NBE=SnBOMlBnbGJ6VXZBOEZjNUd4aFN3QT09",
+      "fetchedAt": "2026-09-25T06:02:59.366Z",
+      "sha256": "641a2d1b35b55cbbd2b7a73685179b7609ef1f92493c0c7b6cfba3f9ff77ecaa",
+      "contentType": "application/pdf",
+      "bytes": 1403966
+    }
+  ],
+  "warnings": [
+    "This is one deputation vacancy for eligible serving medical officers, not an open-entry examination for all graduates.",
+    "The notice has no explicit citizenship or formal language-level rule; employer-service eligibility and international permission require authority review.",
+    "Postal receipt deadline has no published cutoff hour. The notice date is not an application opening date.",
+    "Other NBEMS direct recruitment posts, research associates, and future vacancy notices remain coverage gaps."
+  ],
+  "approvalRevisions": {
+    "nbems-executive-director-2026": {
+      "evidenceRevision": "08d117ce08c84c95696672672fddf85c9b21b2b4213ad661745015c23a65501f",
+      "recordRevision": "841ba88203bcc49fe9ff212b9a549289e01b4b5ae510ac53ed617d20b5227a78"
+    }
+  }
+}

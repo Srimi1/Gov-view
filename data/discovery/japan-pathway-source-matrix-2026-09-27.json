@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-27",
+  "jurisdictionCode": "JP",
+  "meaning": "Discovery sources by pathway, not accepted connectors, verified cycles, current windows or complete coverage.",
+  "pathways": [
+    {
+      "pathway": "recruitment",
+      "sourceIds": [
+        "jp-jet-india-cir-2026",
+        "jp-jinji",
+        "jp-jet-usa-2027",
+        "jp-jet-india-2027"
+      ],
+      "coverage": "Existing bounded Jinji/JET sources; all current cycles lack human approval, other authorities and notices unresolved."
+    },
+    {
+      "pathway": "licensing",
+      "sourceIds": [
+        "jp-mhlw-foreign-medical-licensing"
+      ],
+      "coverage": "Foreign medical qualification recognition research only; other professions and full licence procedures unresolved."
+    },
+    {
+      "pathway": "admission",
+      "sourceIds": [
+        "jp-mext-undergraduate-embassy"
+      ],
+      "coverage": "One MEXT embassy undergraduate pathway research only; other education admissions and exact country windows unresolved."
+    },
+    {
+      "pathway": "vocational",
+      "sourceIds": [
+        "jp-mhlw-skills-certification"
+      ],
+      "coverage": "National skills framework research only; trade/grade/body/local intakes and original current notices unresolved."
+    }
+  ]
+}

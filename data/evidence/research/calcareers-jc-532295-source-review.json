@@ -1,0 +1,20 @@
+{
+  "researchedAt": "2026-09-25",
+  "authority": "California Correctional Health Care Services, State of California",
+  "postingUrl": "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532295",
+  "faqUrl": "https://calcareers.ca.gov/CalHRPublic/GeneralInfo/FAQS.aspx",
+  "localFiles": [
+    "data/evidence/research/calcareers-jc-532295-2026.html",
+    "data/evidence/research/calcareers-general-faq-2026.html"
+  ],
+  "robots": "calcareers.ca.gov/robots.txt returned text/plain HTTP 200 with the only Disallow line commented out. Node and system HTTPS requests loaded the public posting and FAQ without an applicant login.",
+  "applicationIdentity": "JC-532295 is one Office Technician (Typing) vacancy in Fresno County. CalCareers classification exam is a separate prerequisite, not a second job application cycle.",
+  "jobType": "12 Month Limited Term - Full Time, in-office. Do not label permanent.",
+  "internationalEligibility": "CalHR FAQ: generally few state jobs require U.S. citizenship, but work visas and U.S. employment requirements are necessary. Posting states CCHCS uses E-Verify. No vacancy-specific citizenship bar was found. A foreign citizen's application and appointment need work-authorization verification; foreign degree equivalency is a separate check.",
+  "language": "CalHR FAQ: examinations are in English only, and employees must read/write/speak English to the extent required by duties. No CEFR or other formal proficiency level is stated. Posting requires a five-minute typing certificate at 40 WPM, submitted with application; typing speed is not an English proficiency framework level.",
+  "deadline": "Posting final filing date is 30 September 2026. Electronic cutoff hour and governing timezone are not stated in the retained posting; mailed applications use postmark rule, drop-off hours differ.",
+  "reviewGaps": [
+    "Founder must verify current posting, classification minimum requirements, exam/list eligibility, visa/work authorization, accepted typing certificate and foreign degree equivalency before publication.",
+    "Only JC-532295 is bound. Other California civil-service examinations, departments and job postings remain uncollected."
+  ]
+}

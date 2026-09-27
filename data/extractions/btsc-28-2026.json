@@ -1,0 +1,58 @@
+{
+  "number": "28/2026",
+  "reviewStatus": "pending",
+  "extractedAt": "2026-09-24T20:44:54.772018+00:00",
+  "method": "Agent visual reading of all 8 retained scanned PDF pages, including annexure; original Hindi preserved in the PDF. Founder review and translation validation required.",
+  "documentUrl": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/28_2026.pdf",
+  "sha256": "ebc30671af276687d581a80debe26e60593149f2f1ce2ffafb42f535cca8cd23",
+  "opensOn": "2026-09-24",
+  "closesOn": "2026-10-23",
+  "qualifications": "Four-year bachelor degree in Fisheries Science from the fisheries college of an agricultural university recognized by the Indian Council of Agricultural Research, New Delhi (clause 1, printed page 1). Institution recognition and certificate details require review. Age exceptions include historical eligibility and contract/service provisions; no simplified age exclusion is applied.",
+  "citizenshipRule": "Clause 1 explicitly invites eligible candidates who are citizens of India: “जो भारत के नागरिक हो”. Draft translation and applicable recruitment rules require founder review before publication.",
+  "residenceRule": "Clause 3(ii), printed page 2, limits reservation benefits to Bihar permanent residents and explicitly says candidates residing outside Bihar do not receive those benefits. This is not a blanket ban on applying from another Indian state. Category certificates and later horizontal-reservation conditions require review.",
+  "fee": "INR 100 application fee under clause 4, printed page 4, plus applicable bank/payment charges. Online payment only; draft extraction pending review.",
+  "salary": "Pay Level 7 (clause 1, printed page 1); monetary salary not extracted.",
+  "selectionStages": [
+    "Computer-based competitive examination: 100 multiple-choice questions, 2 hours; paper supplied in Hindi and English (clause 6, printed page 5)",
+    "Minimum qualifying score stated as 30%; negative marking 0.25 per wrong answer; normalization across sessions if used",
+    "Merit calculation includes qualifying contract-service experience under the notice; weighting discrepancy requires review",
+    "Document verification and appointment checks"
+  ],
+  "rules": {
+    "complete": false,
+    "asOn": null,
+    "nationality": {
+      "allowed": [
+        "IN"
+      ],
+      "evidence": "Advertisement 28/2026, clause 1, printed page 1: योग्य उम्मीदवारों (जो भारत के नागरिक हो). English draft: eligible candidates who are citizens of India."
+    },
+    "manualChecks": [
+      {
+        "stage": "apply",
+        "text": "Verify the four-year Fisheries Science degree and the specified ICAR-recognized institution. Original notice: clause 1, printed page 1."
+      },
+      {
+        "stage": "apply",
+        "text": "Verify age under clauses 2(i)–(viii), including historical 01.08.2020–01.08.2026 eligibility, category, disability, government/contract service and ex-serviceman provisions. The notice permits only one of the listed additional relaxations."
+      },
+      {
+        "stage": "apply",
+        "text": "Bihar domicile determines reservation benefits, not a blanket current-residence eligibility test. Check category and domicile certificates under clause 3."
+      },
+      {
+        "stage": "selection",
+        "text": "The question paper is in Hindi and English; this describes examination medium, not a required CEFR/JLPT proficiency level. The subject syllabus is to be published separately."
+      },
+      {
+        "stage": "selection",
+        "text": "Review the experience-weighting discrepancy: the merit table appears to show 35 marks for service experience while its text says a maximum of 25 and the total is 100 with CBT worth 75."
+      }
+    ]
+  },
+  "warnings": [
+    "Scanned Hindi notice: visual draft extraction requires founder/translation review; PDF text extraction yielded only page breaks.",
+    "Material ambiguity on printed page 4: experience row shows 35 marks while its text states maximum 25; total 100 with CBT 75. Do not automate merit weighting before clarification.",
+    "Question paper is bilingual Hindi/English. No independent language proficiency threshold was identified in this retained notice; a separately published syllabus remains to be checked."
+  ]
+}

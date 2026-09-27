@@ -1,0 +1,37 @@
+[
+ {
+  "url": "https://tpsc.tripura.gov.in/advertisement",
+  "fetchedAt": "2026-09-24T22:31:50.525Z",
+  "sha256": "fcdddfc5769318e6e31030f4a002234c4809d5566818d393f73e854387470f49",
+  "bytes": 143906,
+  "contentType": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_03_2026_070526.pdf",
+  "fetchedAt": "2026-09-24T22:31:51.899Z",
+  "sha256": "086f2e4f5ad5b0ed2744fb0194d2f2aeb3800897cd713b996fe2ef13d1de9476",
+  "bytes": 5664334,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_02_2026_270426.pdf",
+  "fetchedAt": "2026-09-24T22:31:52.412Z",
+  "sha256": "cecc27656eccd155261d29acdce8a740d312002463c77d1083789aea40614a72",
+  "bytes": 4484053,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://tpsc.tripura.gov.in/sites/default/files/Addendum_01_2026_300326.pdf",
+  "fetchedAt": "2026-09-24T22:31:53.192Z",
+  "sha256": "6f8d57ccc72c7f457fc2285544b2f8fbff3491e589906d5a04a1df735989c3a9",
+  "bytes": 218776,
+  "contentType": "application/pdf"
+ },
+ {
+  "url": "https://tpsc.tripura.gov.in/sites/default/files/Advt_01_2026_170326.pdf",
+  "fetchedAt": "2026-09-24T22:31:54.279Z",
+  "sha256": "140f24f1ba7cc38ea8baf47c759b3f85b2e5d5bfe90726dff270691382c69291",
+  "bytes": 2781551,
+  "contentType": "application/pdf"
+ }
+]

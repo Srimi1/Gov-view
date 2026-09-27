@@ -1,0 +1,28 @@
+{
+  "checkedOn": "2026-09-25",
+  "reviewStatus": "manual-research-only",
+  "officialIndex": "https://www.oil-india.com/index.php/advertisement-list",
+  "robotsStatus": "https://www.oil-india.com/robots.txt returns HTTP 403 HTML. Automated connector remains disabled; original notices were retained for manual research.",
+  "notices": [
+    {
+      "advertisement": "HRAQ/CONT-WP-B/26-307",
+      "originalUrl": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMw==",
+      "sha256": "b3d1ba100bcb4dc542e063cfe67ef7312a8fcf1cb0a920b1cfebb0a968d199c3",
+      "jobType": "Two separately registered temporary contractual roles at Duliajan, Assam: Electrician and Associate Engineer (Electrical), one vacancy each. Initial six-month term may extend up to one year.",
+      "application": "Walk-in registration at Duliajan Club on 7 October 2026, 07:00–09:00 IST. Index lists 7 October 23:59, which differs from the notice's registration cutoff; founder must resolve source-card error before staging.",
+      "internationalApplicants": "Notice explicitly limits intended personnel to Assam and Arunachal Pradesh domicile. It does not print a nationality rule; foreign-citizen application and appointment permission remain unverified.",
+      "language": "No formal language proficiency requirement or level printed in reviewed notice.",
+      "publicationStatus": "not staged or published"
+    },
+    {
+      "advertisement": "HRAQ/REC-EX-B/2026-02",
+      "originalUrl": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMg==",
+      "sha256": "69ffacbc23fa482871c4a3d4ee2df5c49cfbf465bd65a4ed9db6416bad446810",
+      "jobType": "Recruitment in OIL executive Grade D/E/F, with distinct role and post-code requirements.",
+      "application": "Online application opens 11 September 2026 at 11:00 and closes 10 October 2026 at 11:00 IST (original notice section H and index).",
+      "internationalApplicants": "Original notice first paragraph invites Indian nationals; section G(i) states only Indian nationals are eligible to apply.",
+      "language": "No universal language proficiency requirement or formal level printed in reviewed notice. English/Hindi appear for translation of certificates, not as a proficiency test.",
+      "publicationStatus": "not staged or published"
+    }
+  ]
+}
