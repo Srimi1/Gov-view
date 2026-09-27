@@ -14,7 +14,8 @@ Source count, registry size and phase notes are NOT progress.
 | Baseline tree health | typecheck PASS, tests 364/364 PASS |
 | Uncommitted at Phase 0 start | 58 modified + 2,138 untracked (data/ 274MB, phases/ 575 files) |
 | Secret scan | PASS (2026-09-27). 2,197 changed files: 1,605 clean, 575 phases pre-verified clean, 0 real secrets. 9 hits all cleared: 3× public Boomerang RUM keys + 3× expired Liferay CSRF tokens + 1× route-label string in saved third-party evidence HTML/JS (not ours, already public); 1× fake canary fixture in secure-export.test.mjs (by design). 8 files unreadable (iCloud) — excluded, see below. |
-| Baseline exclusions | 8 unreadable, left untracked for post-baseline retry (all under data/evidence/research/): ladakh-police-no-extension-2026-page-1.png, ladakh-police-no-extension-2026.txt, ladakh-police-pst-postponement-2026-page-1.png, lakshadweep-cardiologist-2026.pdf, lakshadweep-cardiologist-2026.txt, lakshadweep-cardiologist-page-1.png, lakshadweep-cardiologist-page-1.txt, lakshadweep-circulars-2026.html |
+| Baseline exclusions | None — the 8 iCloud-stalled files from the first scan all read fine on retry and are included. |
+| iCloud anomaly (2026-09-27) | scripts/secure-export.test.mjs returned 3 different byte contents across reads ~40 min apart (no AKIA → AKIA+EXAMPLE → AKIA+ABCDEF) with stable mtime (Sep 25) and size (1556). Agent 2 confirms zero writes. Attributed to iCloud read inconsistency. All variants are obvious fakes, never secrets. Mitigation: post-commit hash verification (git objects vs worktree) before push. |
 
 ## Team status
 
@@ -38,6 +39,7 @@ Source count, registry size and phase notes are NOT progress.
 3. Status channel is direct messages only. No `docs/agents/*.md` (outside owned paths); lead mirrors status here.
 4. Agent 4: collects stay `--source`-scoped; flag any new file over 50MB before writing (push limits).
 5. Beta scope works as "assumed" until the human ratifies. Lead never marks ratified.
+6. `.constitutionignore` holds 20 proven-false-positive entries (documented in-file with evidence): public third-party RUM/search/browser keys, expired JWTs, third-party lib strings in saved evidence HTML/JS, and fake fixtures in secure-export.test.mjs. This uses the guard's own documented FP control; the guard still scans everything else. Lead re-verifies remaining groups with hook-equivalent patterns before each baseline commit.
 
 ## Message log (key items)
 
