@@ -1,11 +1,11 @@
 /**
  * Teaching Vacancies (Department for Education, England) — official open API.
  * schema.org JobPosting records under the Open Government Licence v3.
- * Postcodes are placed with postcodes.io (ONS open data), so pins are exact.
+ * Postcodes map hiring scope only; school addresses are not selection venues.
  */
-import type { OpportunityCycle, Venue } from "../lib/opportunities.ts";
+import type { OpportunityCycle } from "../lib/opportunities.ts";
 import type { Connector, Evidence } from "./types.ts";
-import { evidenceSource, localDatePart, localTimePart, makeCycle, regionAt, shortHash, slug, stripTags } from "./util.ts";
+import { evidenceSource, itemHash, localDatePart, localTimePart, makeCycle, regionAt, shortHash, slug, stripTags } from "./util.ts";
 
 const FIRST_PAGE = "https://teaching-vacancies.service.gov.uk/api/v1/jobs.json";
 
@@ -43,20 +43,15 @@ const roleNames: Record<string, string> = {
 export function toCycle(job: JobPosting, source: Parameters<Connector>[0]["source"], evidence: Evidence, places: Map<string, { latitude: number; longitude: number }>): OpportunityCycle {
   const school = job.hiringOrganization?.name?.trim() || "School";
   const addresses = locations(job);
-  const venues: Venue[] = addresses.map((address) => {
-    const place = address.postalCode ? places.get(address.postalCode.toUpperCase().replace(/\s+/g, " ").trim()) : undefined;
-    const name = [school, address.addressLocality].filter(Boolean).join(", ");
-    if (!place) return { kind: "unknown", name: `${name}${address.postalCode ? ` (${address.postalCode})` : ""}` };
-    return {
-      kind: "published",
-      name: school,
-      city: address.addressLocality ?? address.postalCode ?? "",
-      latitude: place.latitude,
-      longitude: place.longitude,
-      precision: "exact",
-      subdivision: regionAt("GB", place.latitude, place.longitude) ?? undefined,
-    };
-  });
+  const workLocations = [...new Set(addresses.map((address) =>
+    [address.streetAddress, address.addressLocality, address.addressRegion, address.postalCode].filter(Boolean).join(", "),
+  ).filter(Boolean))];
+  const subdivisionCodes = [...new Set(addresses.flatMap((address) => {
+    const postcode = address.postalCode?.toUpperCase().replace(/\s+/g, " ").trim();
+    const place = postcode ? places.get(postcode) : undefined;
+    const region = place ? regionAt("GB", place.latitude, place.longitude) : null;
+    return region ? [region] : [];
+  }))];
   const closes = localDatePart(job.validThrough);
   const salary = job.baseSalary?.value?.value;
   const summary = stripTags(job.description ?? "").slice(0, 280);
@@ -70,24 +65,26 @@ export function toCycle(job: JobPosting, source: Parameters<Connector>[0]["sourc
     statusNote: summary ? `${summary}${summary.length >= 280 ? "…" : ""}` : "",
     jurisdictionCode: "GB",
     jurisdictionName: "United Kingdom",
-    subdivisionCodes: [...new Set(venues.flatMap((venue) => (venue.kind === "published" && venue.subdivision ? [venue.subdivision] : [])))],
+    subdivisionCodes,
     scopeLabel: "State-funded school in England",
     outcome: `${roleNames[job.occupationalCategory ?? ""] ?? "School post"}${job.employmentType?.length ? ` · ${job.employmentType.map((type) => type.replace("_", "-").toLowerCase()).join(", ")}` : ""}`,
     salary: salary ? `${salary}${job.baseSalary?.value?.unitText === "YEAR" ? " a year" : ""}` : undefined,
     applicationWindow: {
-      opensOn: job.datePosted ?? null,
+      opensOn: null,
       closesOn: closes,
       officialTimeZone: "Europe/London",
       cutoffLocalTime: localTimePart(job.validThrough),
       precision: localTimePart(job.validThrough) ? "minute" : closes ? "date" : "unknown",
+      note: job.datePosted ? `Listing posted ${job.datePosted}; application opening date not verified from this feed.` : undefined,
     },
-    qualifications: job.occupationalCategory === "teacher" ? "Usually qualified teacher status (QTS) — see the advert." : "See the advert.",
-    citizenshipRule: "You need the right to work in the UK.",
-    residenceRule: "No residence requirement stated.",
-    selectionStages: ["Application", "Shortlisting", "Interview", "Safer recruitment checks (enhanced DBS)"],
-    fee: "Free to apply.",
-    venues: venues.length ? venues : [{ kind: "unknown", name: "Location not given" }],
-    sources: [evidenceSource(source, evidence, "Teaching Vacancies listing", "JSON", "English", job.url)],
+    qualifications: "Check this post's official advert; requirements vary by role.",
+    citizenshipRule: "Nationality eligibility not verified from this feed; check the employer's advert and UK right-to-work rules.",
+    residenceRule: "Residence requirement not verified from this feed.",
+    selectionStages: [],
+    fee: "Application fee not verified from this feed.",
+    workLocations,
+    venues: [{ kind: "unknown", name: "Examination or selection venue not verified from this feed" }],
+    sources: [{ ...evidenceSource(source, evidence, "Teaching Vacancies listing", "JSON", "English", job.url), itemSha256: itemHash(job) }],
     applicationUrl: job.url,
   });
 }
@@ -107,7 +104,7 @@ export const teachingVacancies: Connector = async ({ source, fetchText, log }) =
   }
   log(`${jobs.length} vacancies over ${pages} pages`);
 
-  // Exact coordinates for each postcode, 100 at a time.
+  // Postcodes support regional hiring-scope filters, never venue pins.
   const postcodes = [...new Set(jobs.flatMap(({ job }) => locations(job).flatMap((address) => (address.postalCode ? [address.postalCode.toUpperCase().replace(/\s+/g, " ").trim()] : []))))];
   const places = new Map<string, { latitude: number; longitude: number }>();
   const warnings: string[] = [];
@@ -123,7 +120,7 @@ export const teachingVacancies: Connector = async ({ source, fetchText, log }) =
       warnings.push(`Postcode lookup failed: ${(error as Error).message}`);
     }
   }
-  log(`${places.size} of ${postcodes.length} postcodes placed`);
+  log(`${places.size} of ${postcodes.length} postcodes resolved for hiring scope`);
   const cycles = jobs.map(({ job, evidence: pageEvidence }) => toCycle(job, source, pageEvidence, places));
-  return { cycles, evidence, warnings };
+  return { cycles, evidence, warnings, complete: !next, continuation: next ?? undefined };
 };

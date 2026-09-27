@@ -4,11 +4,11 @@
  * Commission's tentative schedule until the notice is published, so records
  * say so and link to the notice board.
  */
-import type { EligibilityRules, EducationLevel } from "../lib/eligibility/types.ts";
+import type { EducationLevel } from "../lib/eligibility/types.ts";
 import type { OpportunityStatus } from "../lib/opportunities.ts";
 import { civilDateIn, daysBetween, isIsoDate } from "../lib/time.ts";
 import type { Connector } from "./types.ts";
-import { evidenceSource, makeCycle, slug } from "./util.ts";
+import { evidenceSource, itemHash, makeCycle, shortHash, slug } from "./util.ts";
 
 const API = "https://ssc.gov.in/api/general-website/portal";
 const ATTRIBUTES = "id,headline,examId,examYear,desc,content,contentType,startDate,endDate,language,createdAt";
@@ -31,10 +31,9 @@ export function levelFromName(name: string): { level: EducationLevel; quote: str
   return null;
 }
 
-export function statusFor(entry: SscCalendarEntry, today: string): OpportunityStatus {
-  if (entry.startDate && today < entry.startDate) return "upcoming";
-  if (entry.endDate && today > entry.endDate) return "closed";
-  return "open";
+export function statusFor(_entry: SscCalendarEntry, _today: string): OpportunityStatus {
+  // This feed is a tentative calendar, not a published application notice.
+  return "uncertain";
 }
 
 export function selectEntries(entries: SscCalendarEntry[], today: string): SscCalendarEntry[] {
@@ -49,52 +48,51 @@ export const ssc: Connector = async ({ source, fetchText, now }) => {
   if (body.statusCode !== "200" || !Array.isArray(body.data)) throw new Error(`SSC calendar answered ${body.statusCode}`);
   const today = civilDateIn("Asia/Kolkata", now);
   const entries = selectEntries(body.data, today);
+  const legacyCounts = new Map<string, number>();
+  for (const entry of entries) {
+    const oldId = `ssc-${slug(entry.headline.replace(/\s+/g, " ").trim())}`;
+    legacyCounts.set(oldId, (legacyCounts.get(oldId) ?? 0) + 1);
+  }
   const cycles = entries.map((entry) => {
     const title = entry.headline.replace(/\s+/g, " ").trim();
+    const oldId = `ssc-${slug(title)}`;
     const status = statusFor(entry, today);
     const level = levelFromName(title);
-    const rules: EligibilityRules = {
-      asOn: null,
-      nationality: {
-        allowed: ["IN"],
-        conditional: ["NP", "BT"],
-        evidence: "SSC notices: a citizen of India, or a subject of Nepal or Bhutan (and certain others) with a certificate of eligibility.",
-      },
-      ...(level ? { education: { minLevel: level.level, finalYearAllowed: false, evidence: `Exam name: "${level.quote}". Exact subjects and cut-off dates are in the notice.` } } : {}),
-    };
     return makeCycle({
-      id: `ssc-${slug(title)}`,
+      id: `ssc-${slug(title, 48)}-${slug(entry.examYear || /(?:19|20)\d{2}/.exec(title)?.[0] || "unknown", 8)}-${shortHash(entry.id, 12)}`,
+      legacyIds: legacyCounts.get(oldId) === 1 ? [oldId] : [],
       title,
       cycleLabel: entry.examYear ?? "",
       authority: "Staff Selection Commission",
       pathway: "recruitment",
       status,
-      statusNote: "Dates come from SSC's published exam calendar and can move — the official notice has the final dates.",
+      statusNote: "Tentative SSC exam calendar entry. Application dates require the official examination notice.",
       jurisdictionCode: "IN",
       jurisdictionName: "India",
-      scopeLabel: "All-India recruitment to central government posts",
-      outcome: "Group B and C posts in central government ministries, departments and forces",
+      scopeLabel: "SSC examination; appointing body and job locations require the examination notice.",
+      outcome: "Recruitment through the named examination; posts and appointment conditions require the examination notice.",
       applicationWindow: {
-        opensOn: entry.startDate,
-        closesOn: entry.endDate,
+        opensOn: null,
+        closesOn: null,
         officialTimeZone: "Asia/Kolkata",
         cutoffLocalTime: null,
-        precision: "date",
-        note: entry.content ? `Exam planned for ${entry.content.trim()}${entry.desc ? ` (${entry.desc.trim()})` : ""}.` : undefined,
+        precision: "unknown",
+        note: `Tentative calendar: applications ${entry.startDate ?? "date not given"} to ${entry.endDate ?? "date not given"}.${entry.content ? ` Exam planned for ${entry.content.trim()}${entry.desc ? ` (${entry.desc.trim()})` : ""}.` : ""}`,
       },
-      qualifications: level ? `${level.quote} — see the notice for accepted subjects.` : "See the notice.",
-      citizenshipRule: "Citizen of India, or subject of Nepal/Bhutan with a certificate of eligibility.",
-      residenceRule: "No residence requirement.",
-      selectionStages: ["Computer-based exam", "Further tiers, skill test or physical test depending on post", "Document verification"],
-      fee: "See the notice (women, SC, ST, PwBD and ex-servicemen are usually exempt).",
-      rules,
-      venues: [{ kind: "unknown", name: "Exam centres across India, listed in the notice" }],
+      qualifications: level ? `The calendar names this ${level.quote} examination. Exact degree, final-year, subject, age and post conditions require the notice.` : "The calendar does not state applicant qualifications; check the examination notice.",
+      citizenshipRule: "Calendar does not state nationality or foreign-citizen eligibility; check the examination notice.",
+      residenceRule: "Calendar does not state residence requirements; check the examination notice.",
+      languageNote: "Calendar does not establish any language proficiency requirement or level; check the examination notice.",
+      selectionStages: ["Calendar does not establish the full selection process; check the examination notice."],
+      fee: "Calendar does not state application fee or exemptions; check the examination notice.",
+      rules: { asOn: null, manualChecks: [{ stage: "apply", text: "Tentative calendar alone cannot determine eligibility. Verify the examination notice for nationality, residence, age, qualifications, language, fee and application dates." }] },
+      venues: [{ kind: "unknown", name: "Exam venue not given in the calendar" }],
       sources: [
-        evidenceSource(source, response.evidence, "SSC exam calendar", "JSON", "English", "https://ssc.gov.in/"),
-        { ...evidenceSource(source, response.evidence, "SSC notice board", "HTML", "English", "https://ssc.gov.in/"), id: `${source.id}:notices` },
+        { ...evidenceSource(source, response.evidence, "SSC exam calendar entry", "JSON", "English"), itemSha256: itemHash(entry) },
+        evidenceSource(source, response.evidence, "Examination notices (linked; not checked for this entry)", "HTML", "English", "https://ssc.gov.in/"),
       ],
-      applicationUrl: status === "open" ? "https://ssc.gov.in/login" : null,
+      applicationUrl: null,
     });
   });
-  return { cycles, evidence: [response.evidence], warnings: [] };
+  return { cycles, evidence: [response.evidence], complete: true, warnings: [] };
 };

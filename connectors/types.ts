@@ -6,6 +6,10 @@ export interface SourceConfig {
   id: string;
   name: string;
   country: string;
+  /** Hiring jurisdiction, never an exam venue or an applicant domicile rule. */
+  subdivisionCodes?: string[];
+  discoveredFrom?: string;
+  discoveredAt?: string;
   authority: string;
   homepage: string;
   connector: string;
@@ -15,7 +19,11 @@ export interface SourceConfig {
   secrets?: string[];
   licence: string;
   notes?: string;
+  /** Confirmed collection restriction or source failure, shown in coverage. */
+  accessGap?: string;
   enabled: boolean;
+  /** New adapters remain draft-only until their acceptance review is recorded. */
+  reviewRequired?: boolean;
   /** Optional cap for very large feeds; the coverage page says when it applies. */
   maxRecords?: number;
   /**
@@ -40,13 +48,21 @@ export interface ConnectorResult {
   evidence: Evidence[];
   /** Total available at the source, when larger than what was kept (maxRecords). */
   totalAvailable?: number;
+  /** True only when every relevant page/detail was checked without an imposed cap. */
+  complete?: boolean;
+  /** Next request/checkpoint when the snapshot was truncated. */
+  continuation?: string;
+  /** Official detail records that failed to load or parse. */
+  failedDetails?: string[];
   warnings: string[];
 }
 
 export interface ConnectorContext {
   source: SourceConfig;
   now: Date;
-  fetchText: (url: string, init?: FetchInit) => Promise<{ text: string; evidence: Evidence }>;
+  fetchText: (url: string, init?: FetchInit) => Promise<{ text: string; evidence: Evidence; bytes?: Buffer }>;
+  /** Optional exact-byte document fetch, retained by the collector for review. */
+  fetchBytes?: (url: string, init?: FetchInit) => Promise<{ bytes: Buffer; evidence: Evidence }>;
   env: Record<string, string | undefined>;
   log: (message: string) => void;
 }

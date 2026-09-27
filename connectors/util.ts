@@ -5,7 +5,7 @@ import type { Evidence, SourceConfig } from "./types.ts";
 
 // ── Text ──────────────────────────────────────────────────────────────────────
 
-const entities: Record<string, string> = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", "#039": "'" };
+const entities: Record<string, string> = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", "#039": "'", ndash: "–", mdash: "—", lsquo: "‘", rsquo: "’", ldquo: "“", rdquo: "”", hellip: "…" };
 
 export function decodeEntities(text: string): string {
   return text
@@ -29,6 +29,11 @@ export function shortHash(text: string, length = 8): string {
   return createHash("sha256").update(text).digest("hex").slice(0, length);
 }
 
+/** Stable source-item digest; bulk feed changes elsewhere do not revoke this item's review. */
+export function itemHash(value: unknown): string {
+  return createHash("sha256").update(JSON.stringify(value)).digest("hex");
+}
+
 // ── Dates ─────────────────────────────────────────────────────────────────────
 
 /** "06/10/2026", "6.10.2026" or "06-10-2026" (day first) → "2026-10-06". */
@@ -43,14 +48,15 @@ export function dayFirstDate(text: string | null | undefined): string | null {
 
 /** "6:00pm" / "18:00" → "18:00". */
 export function clockTime(text: string | null | undefined): string | null {
-  const match = /(\d{1,2})[:.](\d{2})\s*(am|pm)?/i.exec(text ?? "");
+  const match = /(?:^|[^\d])(\d{1,2})[:.](\d{2})\s*(am|pm)?\b/i.exec(text ?? "");
   if (!match) return null;
   let hours = Number(match[1]);
-  const minutes = match[2];
+  const minutes = Number(match[2]);
   const meridiem = match[3]?.toLowerCase();
+  if (minutes > 59 || (meridiem && (hours < 1 || hours > 12))) return null;
   if (meridiem === "pm" && hours < 12) hours += 12;
   if (meridiem === "am" && hours === 12) hours = 0;
-  return hours < 24 ? `${String(hours).padStart(2, "0")}:${minutes}` : null;
+  return hours < 24 ? `${String(hours).padStart(2, "0")}:${String(minutes).padStart(2, "0")}` : null;
 }
 
 /** Local civil date of an ISO timestamp with offset, e.g. "2026-10-09T09:00:00+01:00" → "2026-10-09". */
@@ -142,16 +148,20 @@ export function cityVenue(name: string, city: string, country: string, region?: 
 // ── Records ───────────────────────────────────────────────────────────────────
 
 export function evidenceSource(source: SourceConfig, evidence: Evidence, title: string, format: SourceEvidence["format"], language: string, url?: string): SourceEvidence {
+  const publicUrl = url ?? evidence.url;
+  const linkedDocument = publicUrl !== evidence.url && (
+    format === "PDF" || format === "scanned PDF" || (format === "HTML" && !/html/i.test(evidence.contentType))
+  );
   return {
-    id: `${source.id}:${evidence.sha256.slice(0, 12)}`,
+    id: `${source.id}:${shortHash(`${format}:${publicUrl}:${title}`, 12)}`,
     title,
     authority: source.authority,
     language,
     format,
-    url: url ?? evidence.url,
-    sha256: evidence.sha256,
-    lastSuccessfulFetchAt: evidence.fetchedAt,
-    lastValidatedAt: evidence.fetchedAt,
+    url: publicUrl,
+    ...(linkedDocument ? { fetchStatus: "linked" as const } : { fetchStatus: "fetched" as const, fetchedUrl: evidence.url, sha256: evidence.sha256 }),
+    lastSuccessfulFetchAt: linkedDocument ? null : evidence.fetchedAt,
+    lastValidatedAt: null,
     verificationStatus: "pending-review",
   };
 }

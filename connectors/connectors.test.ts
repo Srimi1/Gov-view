@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { cleanCity, departmentRegion, educationFromLevel, indexCommunes, parseCsv, rowToCycle, venueFor } from "./choisir-service-public.ts";
+import { departmentRegion, educationFromLevel, parseCsv, rowToCycle } from "./choisir-service-public.ts";
 import { parseRobots, robotsAllows } from "./http.ts";
 import { parseGuides } from "./jinji.ts";
 import { markFailedRun, mergeSuccessfulRun } from "./merge.ts";
@@ -36,18 +36,18 @@ test("UPSC: exam page fields and the active list, ignoring commented-out HTML", 
   assert.deepEqual(parseActiveList(list), [{ title: "Civil Services Examination, 2027", url: "https://www.upsc.gov.in/examinations/Civil%20Services%20Examination%2C%202027" }]);
 });
 
-test("SSC: calendar status, window selection and levels stated in exam names only", () => {
+test("SSC: tentative calendar status, window selection and levels stated in exam names only", () => {
   const entry = { id: "1", headline: "Combined Graduate Level Examination, 2027", startDate: "2026-10-01", endDate: "2026-10-31" };
-  assert.equal(statusFor(entry, "2026-09-24"), "upcoming");
-  assert.equal(statusFor(entry, "2026-10-15"), "open");
-  assert.equal(statusFor(entry, "2026-11-01"), "closed");
+  assert.equal(statusFor(entry, "2026-09-24"), "uncertain");
+  assert.equal(statusFor(entry, "2026-10-15"), "uncertain");
+  assert.equal(statusFor(entry, "2026-11-01"), "uncertain");
   assert.equal(selectEntries([entry, { ...entry, id: "old", endDate: "2026-06-01" }], "2026-09-24").length, 1);
   assert.equal(levelFromName(entry.headline)?.level, "bachelor");
   assert.equal(levelFromName("Combined Higher Secondary (10+2) Level Examination")?.level, "higher-secondary");
   assert.equal(levelFromName("Multi-Tasking Staff Examination"), null);
 });
 
-test("Teaching Vacancies: exact postcode pins, local closing time, official link", () => {
+test("Teaching Vacancies: workplace stays separate from selection venue", () => {
   const cycle = teachingCycle({
     title: "Class Teacher",
     url: "https://teaching-vacancies.service.gov.uk/jobs/class-teacher",
@@ -59,31 +59,20 @@ test("Teaching Vacancies: exact postcode pins, local closing time, official link
   }, { ...source, country: "GB" }, evidence, new Map([["ST1 6LG", { latitude: 53.045925, longitude: -2.158802 }]]));
   assert.equal(cycle.applicationWindow.closesOn, "2026-10-09");
   assert.equal(cycle.applicationWindow.cutoffLocalTime, "09:00");
-  assert.equal(cycle.venues[0].kind, "published");
-  assert.equal(cycle.venues[0].kind === "published" && cycle.venues[0].precision, "exact");
+  assert.equal(cycle.applicationWindow.opensOn, null, "posting date does not establish application opening");
+  assert.equal(cycle.venues[0].kind, "unknown");
+  assert.deepEqual(cycle.workLocations, ["Stoke-on-Trent, ST1 6LG"]);
   assert.equal(cycle.applicationUrl, "https://teaching-vacancies.service.gov.uk/jobs/class-teacher");
   assert.ok(cycle.subdivisionCodes?.[0]?.startsWith("GB-"));
 });
 
-test("Choisir le service public: CSV, education levels, departments, venues", () => {
+test("Choisir le service public: publication dates, workplaces and language labels stay qualified", () => {
   const rows = [...parseCsv('A;B\n"x;y";"say ""hi"""\n1;2\n')];
   assert.deepEqual(rows, [["A", "B"], ["x;y", 'say "hi"'], ["1", "2"]]);
   assert.equal(educationFromLevel("Niveau 7 Master/diplômes équivalents")?.level, "master");
   assert.equal(educationFromLevel(""), null);
   assert.equal(departmentRegion("Creuse (23)"), "FR-23");
   assert.equal(departmentRegion("Guyane (973)"), "FR-GF");
-  const communes = indexCommunes([
-    { nom: "Aubusson", codesPostaux: ["23200"], centre: { coordinates: [2.168, 45.955] }, codeDepartement: "23" },
-    { nom: "Paris", codesPostaux: ["75004", "75018"], centre: { coordinates: [2.347, 48.859] }, codeDepartement: "75" },
-    { nom: "Rennes", codesPostaux: ["35000"], centre: { coordinates: [-1.68, 48.112] }, codeDepartement: "35" },
-    { nom: "Château-Chinon (Ville)", codesPostaux: ["58120"], centre: { coordinates: [3.93, 47.06] }, codeDepartement: "58" },
-  ]);
-  assert.equal(cleanCity("RENNES CEDEX 7"), "RENNES");
-  assert.equal(cleanCity("PARIS 04"), "PARIS");
-  for (const [place, city] of [["9 boulevard du Palais - PARIS 04", "Paris"], ["1 bis rue de Lutèce 75195 Paris cedex 04", "Paris"], ["108 Av du Gl LECLERC – BP 60321  35703  RENNES CEDEX 7", "Rennes"], ["92 boulevard Ney, 75018 PARIS", "Paris"]]) {
-    const venue = venueFor(place, "", place.includes("RENNES") ? "FR-35" : "FR-75", communes);
-    assert.equal(venue.kind === "published" && venue.city, city, place);
-  }
   const cycle = rowToCycle({
     "Référence": "O033260101000002",
     "Intitulé du poste": "Cuisinier (H/F)",
@@ -93,9 +82,16 @@ test("Choisir le service public: CSV, education levels, departments, venues", ()
     "Lieu d'affectation": "1 rue Williams Dumazet : 23200 Aubusson",
     "Niveau d'études": "Niveau 3 Diplômes équivalents au CAP/BEP",
     "Nature de l'emploi": "Emploi réservé aux fonctionnaires et lauréats d'un concours territorial",
-  }, { ...source, country: "FR" }, evidence, communes)!;
-  assert.equal(cycle.applicationWindow.closesOn, null, "placeholder end date means no closing date");
-  assert.equal(cycle.venues[0].kind === "published" && cycle.venues[0].city, "Aubusson");
+    "Langues": "Français",
+    "Niveaux": "Autonome",
+  }, { ...source, country: "FR" }, evidence)!;
+  assert.equal(cycle.status, "uncertain");
+  assert.equal(cycle.applicationWindow.opensOn, null);
+  assert.equal(cycle.applicationWindow.closesOn, null, "publication end is not application deadline");
+  assert.match(cycle.applicationWindow.note ?? "", /publication dates 2026-09-01/);
+  assert.equal(cycle.venues[0].kind, "unknown");
+  assert.ok(cycle.workLocations?.[0]?.includes("Aubusson"));
+  assert.match(cycle.languageNote ?? "", /Français; source level: Autonome.*Mandatory status/);
   assert.equal(cycle.rules?.education?.minLevel, "secondary");
   assert.equal(cycle.rules?.manualChecks?.[0]?.stage, "apply");
 });
@@ -152,10 +148,8 @@ test("merge: new, extended, vanished (never cancelled), closed and dropped", () 
   assert.equal(byId["closed-long-ago"], undefined);
 });
 
-test("failed runs keep records; two failures mark open ones stale", () => {
+test("failed runs keep records and do not change notice status", () => {
   const previous = [record("a", "2026-10-01"), record("b", "2026-08-01", { status: "closed" })];
   assert.deepEqual(markFailedRun(previous, 1, null), previous);
-  const stale = markFailedRun(previous, 2, "2026-09-20T00:00:00Z");
-  assert.equal(stale[0].status, "stale");
-  assert.equal(stale[1].status, "closed");
+  assert.deepEqual(markFailedRun(previous, 2, "2026-09-20T00:00:00Z"), previous);
 });

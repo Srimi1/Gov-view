@@ -3,7 +3,6 @@
  * Each exam page lists the notification date, last date for applications
  * (with time) and the notification PDF. Parsing is deterministic.
  */
-import type { EligibilityRules } from "../lib/eligibility/types.ts";
 import { civilDateIn, daysBetween } from "../lib/time.ts";
 import type { Connector } from "./types.ts";
 import { clockTime, dayFirstDate, decodeEntities, evidenceSource, makeCycle, slug, stripTags } from "./util.ts";
@@ -60,18 +59,6 @@ export function parseExamPage(html: string): UpscExam | null {
   };
 }
 
-/** Rules every UPSC exam shares; age and qualification limits vary by exam and are added in review. */
-function commonRules(): EligibilityRules {
-  return {
-    asOn: null,
-    nationality: {
-      allowed: ["IN"],
-      conditional: ["NP", "BT"],
-      evidence: "UPSC notices: a citizen of India, or a subject of Nepal or Bhutan (and certain others) with a certificate of eligibility. Some services are open to Indian citizens only — check the notice.",
-    },
-  };
-}
-
 export const upsc: Connector = async ({ source, fetchText, now, log }) => {
   const list = await fetchText(LIST, { accept: "text/html" });
   const exams = parseActiveList(list.text);
@@ -93,7 +80,7 @@ export const upsc: Connector = async ({ source, fetchText, now, log }) => {
       const status = parsed.lastDate && parsed.lastDate < today ? "closed" : "open";
       const sources = [evidenceSource(source, page.evidence, `Exam page: ${parsed.name}`, "HTML", "English", exam.url)];
       if (parsed.notificationUrl) {
-        sources.push({ ...sources[0], id: `${sources[0].id}:pdf`, title: "Notification (PDF)", format: "PDF", url: parsed.notificationUrl });
+        sources.push(evidenceSource(source, page.evidence, "Notification (PDF)", "PDF", "English", parsed.notificationUrl));
       }
       cycles.push(makeCycle({
         id: `upsc-${slug(parsed.name)}`,
@@ -102,7 +89,7 @@ export const upsc: Connector = async ({ source, fetchText, now, log }) => {
         authority: "Union Public Service Commission",
         pathway: "recruitment",
         status,
-        statusNote: status === "open" ? "Apply online through UPSC's One Time Registration portal." : "Applications closed; the exam is still in progress.",
+        statusNote: status === "open" ? "Apply online through UPSC's current application portal." : "Applications closed; the exam is still in progress.",
         jurisdictionCode: "IN",
         jurisdictionName: "India",
         scopeLabel: "All-India recruitment",
@@ -116,18 +103,18 @@ export const upsc: Connector = async ({ source, fetchText, now, log }) => {
           note: parsed.examStartsOn ? `The exam begins on ${new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(`${parsed.examStartsOn}T12:00:00Z`))}.` : undefined,
         },
         qualifications: "Varies by exam — see the notification.",
-        citizenshipRule: "Citizen of India; some services also admit subjects of Nepal/Bhutan with a certificate of eligibility.",
-        residenceRule: "No residence requirement.",
+        citizenshipRule: "Needs verification from this examination notice. Nationality exceptions and service-specific restrictions have not been extracted.",
+        residenceRule: "Residence conditions have not been verified from this notice.",
         selectionStages: /\(Preliminary\)/i.test(parsed.name) ? ["Preliminary exam", "Main exam", "Interview / personality test"] : /\(Main\)/i.test(parsed.name) ? ["Main exam", "Interview / personality test"] : ["Written exam", "Interview (if applicable)"],
         fee: "See the notification (fee exemptions for women, SC/ST and PwBD candidates are common).",
-        rules: commonRules(),
+        rules: null,
         venues: [{ kind: "unknown", name: "Exam centres are listed in the notification" }],
         sources,
-        applicationUrl: status === "open" ? "https://upsconline.gov.in/upsc/OTRP/" : null,
+        applicationUrl: status === "open" ? "https://upsconline.nic.in/" : null,
       }));
     } catch (error) {
       warnings.push(`${exam.url}: ${(error as Error).message}`);
     }
   }
-  return { cycles, evidence, warnings };
+  return { cycles, evidence, warnings, complete: warnings.length === 0, failedDetails: warnings };
 };
