@@ -7,3 +7,32 @@
 data/evidence/research/ca-fswep-2026-09-25.html
 data/evidence/research/navbrasil-fgv-2026.html
 data/evidence/research/world-source-mx-trabajaen-authority-referral-2026-09-27.html
+# 2026-09-27 hook-prediction audit (lead): public site keys + expired session
+# JWTs inside saved third-party pages. Verified: Google browser keys (public,
+# referer-restricted), WBPSC client-side AES key (in their public page source),
+# Cludo site-search widget keys (public by design), JWT exp Dec 2024
+# (my-spa, static demo token) and JWT exp ~12h before baseline (ae-dubai,
+# collector session, expired). None are ours; copies add zero exposure.
+data/evidence/research/dnsricm-notice-index-2026.html
+data/evidence/research/wbpsc-advertisements.html
+data/evidence/research/wbpsc-announcements.html
+data/evidence/research/wbpsc-home.html
+data/evidence/research/world-source-dk-tax-appeals-agency-jobs-authority-process-2026-09-27.html
+data/evidence/research/world-source-dk-tax-appeals-agency-jobs-portal-2026-09-27.html
+data/evidence/research/world-source-my-spa-recruitment-application-faq-2026-09-27.html
+data/evidence/research/world-source-my-spa-recruitment-n1-conditions-2026-09-27.html
+data/evidence/research/world-source-my-spa-recruitment-portal-2026-09-27.html
+data/evidence/research/world60-ae-dubai-careers-federal-government-directory-2026-09-27.html
+# 2026-09-27: saved third-party React pages/bundles containing the
+# dangerouslySetInnerHTML API name (their code, not ours; no XSS risk from a
+# research copy). TUNABLE blocks in prod posture, hence listed.
+data/evidence/research/asia66-mn-csc-public-exams-government-selection-referral-2026-09-27.html
+data/evidence/research/asia66-mn-csc-public-exams-selection-register-2026-09-27.html
+data/evidence/research/indiapost-gds-2026.html
+data/evidence/research/indiapost-gds-site-2026.js
+data/evidence/research/nl-government-vacancy-ref-2026-09-27.html
+data/evidence/research/tgprb-app-2026.js
+# 2026-09-27: fake AWS-key-shaped fixture (sequential ABCDEF chars) plus a
+# fake canary string, both by design for the "export rejects a leaked key"
+# test. Textbook-fake values, never credentials.
+scripts/secure-export.test.mjs
