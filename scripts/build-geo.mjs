@@ -138,7 +138,7 @@ for (const feature of countries.features) {
   if (id === "AQ") continue;
   const geometry = simplifyGeometry(feature.geometry, WORLD_TOLERANCE, 3);
   world.features.push({ type: "Feature", properties: { jurisdictionId: id, name: p.NAME }, geometry });
-  if (PILOT.includes(id)) {
+  if (id) {
     // Several features can share a code (e.g. France and Clipperton Island).
     scopeBoxes[id] = (scopeBoxes[id] ?? []).concat(polygonsOf(geometry).map(([outer]) => ringBox(outer).map((value, i) => round(i < 2 ? Math.floor(value * 1000) / 1000 : Math.ceil(value * 1000) / 1000, 3))));
   }
