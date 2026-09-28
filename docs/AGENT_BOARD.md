@@ -21,7 +21,7 @@ Source count, registry size and phase notes are NOT progress.
 
 | Agent | Role | Status | Notes |
 |---|---|---|---|
-| 1 | Lead / integration / audit | Phase 0: secret scan running, then commit+tag | Owns merges, board, spec |
+| 1 | Lead / integration / audit | Phase 0: 10 baseline commits landed, verifying then push+tag+GO | Owns merges, board, spec |
 | 2 | Release & Health | Holding for GO | Shared-checkout protocol acked; goal auto-parked, resumes on GO |
 | 3 | Review Tool | Holding for GO | CONTRACT sent to agent 2 for `review:ui` script (cc lead); goal auto-parked |
 | 4 | Data & Connectors | Holding for GO + beta IDs | Recon done (UPSC robots failure point, scoping); stays on main |
@@ -29,8 +29,9 @@ Source count, registry size and phase notes are NOT progress.
 
 ## Blockers
 
-- Team blocked on lead GO (waiting on secret scan → baseline commit → tag). Nothing needed from human yet.
-- Human decisions queued: (1) iCloud repo move yes/no, (2) beta amendment ratification, (3) analytics choice, deploy, source acceptance (later).
+- Team blocked on lead GO (push + tag in progress).
+- Human decisions 2026-09-27: guardrail one-time exception GRANTED for bulk baseline commits + push (commits passed the guard anyway — exception held in reserve for push); iCloud move YES (fresh clone to ~/code/Gov-view after tag); beta amendment RATIFIED.
+- Still queued for later: analytics choice, deploy, source-level acceptance.
 
 ## Decisions (lead rulings)
 
@@ -40,9 +41,14 @@ Source count, registry size and phase notes are NOT progress.
 4. Agent 4: collects stay `--source`-scoped; flag any new file over 50MB before writing (push limits).
 5. Beta scope works as "assumed" until the human ratifies. Lead never marks ratified.
 6. `.constitutionignore` holds 20 proven-false-positive entries (documented in-file with evidence): public third-party RUM/search/browser keys, expired JWTs, third-party lib strings in saved evidence HTML/JS, and fake fixtures in secure-export.test.mjs. This uses the guard's own documented FP control; the guard still scans everything else. Lead re-verifies remaining groups with hook-equivalent patterns before each baseline commit.
+7. Human granted a one-time guardrail exception (2026-09-27) for the bulk baseline commits + push. The commits passed the guard normally, so the exception was not needed for them; it remains available for the push if the pre-push scan proves intractable.
+8. Human approved the iCloud move (2026-09-27): fresh clone to ~/code/Gov-view after the baseline tag is pushed; agents re-point, iCloud checkout retired.
+9. Beta amendment RATIFIED by the human 2026-09-27. The 12-source scope + freeze are binding (no longer assumed).
 
 ## Message log (key items)
 
 - All agents STATUS: online, holding for GO. Agent 2/3/4 BLOCKERs: awaiting GO (+ beta IDs for 3/4).
 - Agent 3 → agent 2 CONTRACT (cc lead): add `review:ui` npm script.
 - Agent 5 worklist + cross-path needs (`lib/format.ts` timezone wording, `lib/coverage-labels.ts`): decision at GO.
+- Agent 2 confirms zero writes (cleared on the fixture-string anomaly — attributed to iCloud read inconsistency).
+- Human Q&A 2026-09-27: guard exception YES, iCloud move YES, beta RATIFIED.
