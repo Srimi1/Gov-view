@@ -13,6 +13,7 @@
     "discover:india": "node --experimental-strip-types scripts/discover-employment-news.ts",
     "review:packet": "node --experimental-strip-types scripts/review-packet.ts",
     "review:sheet": "node --experimental-strip-types scripts/review-sheet.ts",
+    "review:ui": "node --experimental-strip-types tools/review/server.ts",
     "geo": "node scripts/build-geo.mjs",
     "typecheck": "tsc --noEmit --incremental false",
     "test": "node --experimental-strip-types --test --test-concurrency=1 \"lib/**/*.test.ts\" \"connectors/**/*.test.ts\" \"scripts/**/*.test.ts\" \"scripts/**/*.test.mjs\"",

@@ -2,6 +2,7 @@
 # document's CSP meta tag; Cloudflare allows only 100 _headers rules.
 /*
   Content-Security-Policy: frame-ancestors 'none'
+  Strict-Transport-Security: max-age=63072000; includeSubDomains
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()

@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-/** Apply per-page CSP hashes and enforce the Cloudflare Free export budget. */
+/** Apply per-page CSP hashes, enforce the publication gates, and enforce the Cloudflare Free export budget. */
 import { createHash } from "node:crypto";
 import { readdir, readFile, rm, stat, writeFile } from "node:fs/promises";
-import { join, relative } from "node:path";
+import { basename, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const EXPORT_LIMITS = Object.freeze({ files: 18_000, assetBytes: 20 * 1024 * 1024, totalBytes: 750 * 1024 * 1024 });
@@ -15,7 +15,16 @@ const SECRET_PATTERNS = [
   ["GitHub token", /\bgh[pousr]_[A-Za-z0-9_]{36,}\b/],
   ["Slack token", /\bxox[baprs]-[A-Za-z0-9-]{20,}\b/],
   ["Stripe secret key", /\bsk_(?:live|test)_[A-Za-z0-9]{20,}\b/],
+  ["npm token", /\bnpm_[A-Za-z0-9]{36,}\b/],
+  ["GitLab token", /\bglpat-[A-Za-z0-9_-]{20,}\b/],
 ];
+// Publication gates: selectPublicRecords emits exactly two record shapes, both
+// approved — current approvals (publicationApproved) and exact prior-approved
+// snapshots under re-review (reviewPending). Anything else is a leak.
+const RECORD_SHARD = /^data\/(?:list|detail)\/[^/]+\.json$/;
+const JOB_PAGE = /^job\/([^/]+)\/index\.html$/;
+const REVIEW_TOOL_SEGMENTS = ["tools", "review"];
+const REVIEW_TOOL_REFERENCE = "tools/review/";
 
 function inlineScriptHashes(html) {
   const hashes = new Set();
@@ -61,6 +70,29 @@ function secretCategory(contents) {
   return null;
 }
 
+function isReviewToolPath(label) {
+  const segments = label.split("/");
+  const toolsIndex = segments.indexOf(REVIEW_TOOL_SEGMENTS[0]);
+  return toolsIndex !== -1 && segments[toolsIndex + 1] === REVIEW_TOOL_SEGMENTS[1];
+}
+
+function assertPublicRecord(record, label) {
+  const id = typeof record?.id === "string" ? record.id : "(missing id)";
+  if (record?.fixture === true) throw new Error(`Fixture record in export: ${label} (id ${id}). Fixtures are never approved and must not ship.`);
+  if (record?.publicationApproved !== true && record?.reviewPending !== true) {
+    throw new Error(`Unapproved record in export: ${label} (id ${id}). Only approved records or exact prior-approved snapshots under re-review may ship.`);
+  }
+  if (record?.reviewDecision !== undefined && record.reviewDecision?.status !== "approved") {
+    throw new Error(`Unapproved record in export: ${label} (id ${id}). Exported records must carry an approved review decision.`);
+  }
+}
+
+async function assertPublicRecords(path, label) {
+  const records = JSON.parse(await readFile(path, "utf8"));
+  if (!Array.isArray(records)) throw new Error(`Record shard is not an array: ${label}.`);
+  for (const record of records) assertPublicRecord(record, label);
+}
+
 export async function secureExport(dir) {
   // Next requires one generated dynamic path even with zero approvals. Remove
   // its 404-only placeholder so it cannot be served with HTTP 200 by a host.
@@ -75,14 +107,36 @@ export async function secureExport(dir) {
   }
 
   let totalBytes = 0;
+  const jobPageIds = [];
   for (const path of inventory) {
-    const label = relative(dir, path);
+    const label = relative(dir, path).split(sep).join("/");
+    if (isReviewToolPath(label)) throw new Error(`Review tooling leaked into export: ${label}. The tools/review server must never ship in static output.`);
+    const name = basename(path);
+    if (name === ".env" || name.startsWith(".env.")) throw new Error(`Environment file in export: ${label}. Environment files must never ship.`);
+    const jobPage = label.match(JOB_PAGE);
+    if (jobPage) jobPageIds.push(jobPage[1]);
     const size = (await stat(path)).size;
     if (size > EXPORT_LIMITS.assetBytes) throw new Error(`Export asset exceeds 20 MiB: ${label} (${size} bytes)`);
     totalBytes += size;
     if (/\.(?:html|js|mjs|json|css|xml|txt|svg)$/i.test(path)) {
-      const category = secretCategory(await readFile(path, "utf8"));
+      const contents = await readFile(path, "utf8");
+      const category = secretCategory(contents);
       if (category) throw new Error(`Possible ${category} in exported asset: ${label}. Remove or rotate credential before publishing.`);
+      if (contents.includes(REVIEW_TOOL_REFERENCE)) {
+        throw new Error(`Review tool reference in exported asset: ${label}. The tools/review server must never ship in static output.`);
+      }
+    }
+    if (RECORD_SHARD.test(label)) await assertPublicRecords(path, label);
+  }
+  if (jobPageIds.length) {
+    let approved;
+    try {
+      approved = new Set(JSON.parse(await readFile(join(dir, "data", "approved-pages.json"), "utf8")).ids);
+    } catch {
+      throw new Error("Exported job pages cannot be verified: data/approved-pages.json is missing or invalid.");
+    }
+    for (const id of jobPageIds) {
+      if (!approved.has(id)) throw new Error(`Exported job page without approval: ${id}. Job pages must be listed in data/approved-pages.json.`);
     }
   }
   if (inventory.length > EXPORT_LIMITS.files) throw new Error(`Export exceeds 18,000 files: ${inventory.length}`);
@@ -93,7 +147,7 @@ export async function secureExport(dir) {
 if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
   const dir = process.argv[2] ?? fileURLToPath(new URL("../out", import.meta.url));
   secureExport(dir).then(({ files, bytes }) => {
-    console.log(`Secure export: ${files} files, ${(bytes / 1024 / 1024).toFixed(1)} MiB; per-page CSP hashes; no detected secrets.`);
+    console.log(`Secure export: ${files} files, ${(bytes / 1024 / 1024).toFixed(1)} MiB; per-page CSP hashes; publication gates passed; no detected secrets.`);
   }).catch((error) => {
     console.error(error.message);
     process.exitCode = 1;
