@@ -21,6 +21,7 @@ import CalendarDownload from "@/components/CalendarDownload";
 import LocalTracker from "@/components/LocalTracker";
 import ImageResizer from "@/components/ImageResizer";
 import FeedLinks from "@/components/FeedLinks";
+import { isSafeHttpUrl } from "@/lib/safe-url";
 
 type Props = {
   item: OpportunityCycle;
@@ -87,14 +88,14 @@ function Eligibility({ item, profile, onEditProfile }: Props) {
 export default function JobArticle({ item, profile, onEditProfile, onShare }: Props) {
   const dates = item.applicationWindow;
   const approved = !!approvedRevision(item);
-  const canApply = approved && !!item.applicationUrl && (item.status === "open" || item.status === "extended");
+  const canApply = approved && isSafeHttpUrl(item.applicationUrl) && (item.status === "open" || item.status === "extended");
   const applicationActionLabel = item.applicationMethod ? {
     online: "Apply on the official site",
     post: "Get official postal application form",
     email: "Get official email application instructions",
     "in-person": "View official walk-in instructions",
   }[item.applicationMethod] : "View official application instructions";
-  const officialSources = item.sources.filter((source) => source.url);
+  const officialSources = item.sources.filter((source) => isSafeHttpUrl(source.url));
   return (
     <article className="job-article">
       <div className="article-scroll">
@@ -148,7 +149,7 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
                   <strong>{languageName(rule.language)}{rule.mandatory === false ? " · desirable" : rule.framework && rule.minimumLevel ? ` · ${rule.framework} ${rule.minimumLevel}` : " · notice-specific requirement"}</strong>
                   <p>{rule.requirement}</p>
                   <p className="fine-print">{rule.mandatory === false ? "Desirable for" : "Required for"} {rule.stage === "apply" ? "application" : rule.stage === "selection" ? "examination / selection" : "appointment / licence"}.</p>
-                  {!item.fixture && /^https:\/\//.test(rule.sourceUrl) && <a href={rule.sourceUrl} target="_blank" rel="noopener noreferrer">Official language wording ↗</a>}
+                  {!item.fixture && isSafeHttpUrl(rule.sourceUrl) && <a href={rule.sourceUrl} target="_blank" rel="noopener noreferrer">Official language wording ↗</a>}
                 </li>
               ))}
             </ul>
@@ -163,7 +164,7 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
 
         <section>
           <h3>How selection works</h3>
-          <ol className="stages">{item.selectionStages.map((stage) => <li key={stage}>{stage}</li>)}</ol>
+          <ol className="stages">{item.selectionStages.map((stage, index) => <li key={`${stage}-${index}`}>{stage}</li>)}</ol>
         </section>
 
         <section>
@@ -172,7 +173,7 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
             <>
               <p>Edition {item.syllabus.edition} · {item.syllabus.language}</p>
               <ul className="source-list">
-                {item.syllabus.officialDocuments.map((document, index) => <li key={`${document.sourceId}-${index}`}><a href={document.url} target="_blank" rel="noopener noreferrer">Official syllabus document ↗</a></li>)}
+                {item.syllabus.officialDocuments.filter((document) => isSafeHttpUrl(document.url)).map((document, index) => <li key={`${document.sourceId}-${index}`}><a href={document.url} target="_blank" rel="noopener noreferrer">Official syllabus document ↗</a></li>)}
               </ul>
               {item.syllabus.topics.length > 0 && <ul>{item.syllabus.topics.map((topic, index) => <li key={`${topic.stage}-${topic.subject}-${index}`}><strong>{topic.stage} · {topic.subject}:</strong> {topic.topic}{topic.citation.page ? ` (p. ${topic.citation.page})` : ""}</li>)}</ul>}
             </>
@@ -209,7 +210,7 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
               <li key={source.id}>
                 <FileText size={15} aria-hidden="true" />
                 <div>
-                  {source.url
+                  {isSafeHttpUrl(source.url)
                     ? <a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}<ArrowUpRight size={12} aria-hidden="true" /></a>
                     : <span>{source.title}</span>}
                   <small>{source.authority} · {source.language} · {source.format}</small>
@@ -236,7 +237,7 @@ export default function JobArticle({ item, profile, onEditProfile, onShare }: Pr
       <footer className="article-foot">
         {canApply ? (
           <>
-            <a className="button-primary wide" href={item.applicationUrl!} target="_blank" rel="noopener noreferrer">{applicationActionLabel} <ArrowUpRight size={16} aria-hidden="true" /></a>
+            <a className="button-primary wide" href={item.applicationUrl ?? undefined} target="_blank" rel="noopener noreferrer">{applicationActionLabel} <ArrowUpRight size={16} aria-hidden="true" /></a>
             {item.applicationMethod === "post" && <p>Follow postal delivery instructions in official notice. Form must arrive by stated deadline.</p>}
           </>
         ) : (

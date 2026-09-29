@@ -403,6 +403,6 @@ export function countByJurisdiction(items: readonly CycleSummary[]): Record<stri
   return counts;
 }
 
-export function getCoverage(jurisdictionCode: string, records: readonly CoverageRecord[] = demoCoverage): CoverageRecord | undefined {
+export function getCoverage(jurisdictionCode: string, records: readonly CoverageRecord[]): CoverageRecord | undefined {
   return records.find((record) => record.jurisdictionCode === jurisdictionCode);
 }

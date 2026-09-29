@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState, type PointerEvent, type WheelEvent } from "react";
+import { useEffect, useMemo, useRef, useState, type PointerEvent } from "react";
 import type { GlobeCamera, GlobeViewProps } from "./GlobeView";
 import { withBase } from "@/lib/base-path";
 import { globeBounds, globeScale, projectGlobe, unprojectGlobe, wrapLongitude } from "@/lib/orthographic";
@@ -111,7 +111,8 @@ export default function CanvasGlobeView({
   const [world, setWorld] = useState<Feature[]>([]);
   const [regions, setRegions] = useState<Feature[]>([]);
   const [error, setError] = useState("");
-  callbacksRef.current = { onSelect, onVenueSelect, onBoundsChange, onCameraChange, onRegionSelect };
+  const hadFocusRef = useRef(false);
+  useEffect(() => { callbacksRef.current = { onSelect, onVenueSelect, onBoundsChange, onCameraChange, onRegionSelect }; });
 
   useEffect(() => {
     if (!shellRef.current) return;
@@ -148,9 +149,25 @@ export default function CanvasGlobeView({
 
   useEffect(() => {
     if (focus && Number.isFinite(focus.latitude) && Number.isFinite(focus.longitude)) {
+      hadFocusRef.current = true;
       setCamera({ latitude: focus.latitude, longitude: focus.longitude, height: 3_000_000 });
+    } else if (hadFocusRef.current) {
+      hadFocusRef.current = false;
+      setCamera(DEFAULT_CAMERA);
     }
   }, [focus?.latitude, focus?.longitude]);
+
+  // React registers wheel handlers as passive, so preventDefault only works on a native listener.
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const onWheel = (event: globalThis.WheelEvent) => {
+      event.preventDefault();
+      setCamera((current) => ({ ...current, height: clampHeight(current.height * Math.exp(event.deltaY * .001)) }));
+    };
+    canvas.addEventListener("wheel", onWheel, { passive: false });
+    return () => canvas.removeEventListener("wheel", onWheel);
+  }, []);
   useEffect(() => { if (resetViewToken) setCamera(DEFAULT_CAMERA); }, [resetViewToken]);
 
   const radius = radiusFor(size);
@@ -239,14 +256,10 @@ export default function CanvasGlobeView({
     const country = world.find((feature) => featureContains(feature, point.longitude, point.latitude));
     if (country?.properties.jurisdictionId) callbacksRef.current.onSelect(country.properties.jurisdictionId);
   }
-  function wheel(event: WheelEvent<HTMLCanvasElement>) {
-    event.preventDefault();
-    setCamera((current) => ({ ...current, height: clampHeight(current.height * Math.exp(event.deltaY * .001)) }));
-  }
   function zoom(factor: number) { setCamera((current) => ({ ...current, height: clampHeight(current.height * factor) })); }
 
   return <div ref={shellRef} className={`${styles.shell} ${className ?? ""}`}>
-    <canvas ref={canvasRef} className={styles.canvas} aria-label="Interactive globe; drag to rotate, scroll or use zoom buttons" onPointerDown={pointerDown} onPointerMove={pointerMove} onPointerUp={pointerUp} onWheel={wheel} />
+    <canvas ref={canvasRef} className={styles.canvas} aria-label="Interactive globe; drag to rotate, scroll or use zoom buttons" onPointerDown={pointerDown} onPointerMove={pointerMove} onPointerUp={pointerUp} />
     {!world.length && !error && <p className={styles.message} role="status">Loading geographic boundaries…</p>}
     {error && <div className={styles.message} role="status"><strong>Map unavailable.</strong><p>Use country search or the list of opportunities.</p></div>}
     {visibleMarkers.map(({ marker, point }) => <button key={marker.id} type="button" className={styles.marker}

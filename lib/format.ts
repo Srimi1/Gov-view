@@ -1,4 +1,5 @@
 import type { EligibilityResult } from "./eligibility/types.ts";
+import { zoneAbbreviation } from "./time.ts";
 import { daysUntilDeadline, type AppointmentType, type CycleSummary, type OpportunityCycle, type OpportunityStatus, type Pathway } from "./opportunities.ts";
 
 export const appointmentTypeLabels: Record<AppointmentType, string> = {
@@ -8,7 +9,6 @@ export const appointmentTypeLabels: Record<AppointmentType, string> = {
   deputation: "Deputation",
   apprenticeship: "Apprenticeship",
 };
-import { zoneAbbreviation } from "./time.ts";
 
 export const pathwayLabels: Record<Pathway, string> = {
   recruitment: "Jobs",
