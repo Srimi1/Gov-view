@@ -115,10 +115,10 @@ test("recent changes and coverage states stay distinct", () => {
   assert.equal(changed.some((item) => item.status === "cancelled"), true);
   assert.equal(changed.some((item) => item.status === "stale"), true);
   assert.equal(changed.some((item) => item.status === "uncertain"), true);
-  assert.equal(getCoverage("IN")?.status, "no-verified-listings");
-  assert.equal(getCoverage("US")?.status, "sources-checked-no-current");
-  assert.equal(getCoverage("GB")?.status, "verified-listings");
-  assert.equal(getCoverage("ZZ"), undefined);
+  assert.equal(getCoverage("IN", coverage)?.status, "no-verified-listings");
+  assert.equal(getCoverage("US", coverage)?.status, "sources-checked-no-current");
+  assert.equal(getCoverage("GB", coverage)?.status, "verified-listings");
+  assert.equal(getCoverage("ZZ", coverage), undefined);
 });
 
 test("live status closes records whose deadline or cutoff time has passed", async () => {

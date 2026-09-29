@@ -2,7 +2,7 @@
 
 import dynamic from "next/dynamic";
 import { useCallback, useEffect, useMemo, useRef, useState, type MouseEvent } from "react";
-import { ArrowLeft, Globe2, List, MapPin, Search, X } from "lucide-react";
+import { ArrowLeft, Globe2, List, MapPin, Search } from "lucide-react";
 import type { GlobeViewProps } from "@/components/GlobeView";
 import JobArticle, { ResultIcon } from "@/components/JobArticle";
 import ProfileDialog from "@/components/ProfileDialog";
@@ -117,7 +117,6 @@ export default function Workspace() {
   const [initialCamera, setInitialCamera] = useState<Camera | null>(null);
   const [resetViewToken, setResetViewToken] = useState(0);
   const [profileOpen, setProfileOpen] = useState(false);
-  const [bannerHidden, setBannerHidden] = useState(false);
   const [toast, setToast] = useState("");
 
   useEffect(() => {
@@ -190,7 +189,6 @@ export default function Workspace() {
     setBounds(state.bounds ?? null);
     setCamera(state.camera ?? null);
     setInitialCamera(state.camera ?? null);
-    try { setBannerHidden(window.sessionStorage.getItem("govview.banner") === "hidden"); } catch { /* storage blocked */ }
     setHydrated(true);
     const media = window.matchMedia("(max-width: 959px)");
     const onChange = () => setCompact(media.matches);
@@ -260,7 +258,7 @@ export default function Workspace() {
 
   const filtered = useMemo(() => {
     let items = activePathways.length ? beforePathway.filter((item) => activePathways.includes(item.pathway)) : beforePathway;
-    if (eligibleOnly && hasProfile) items = items.filter((item) => eligibility.get(item.id) !== "does-not-match");
+    if (eligibleOnly && hasProfile) items = items.filter((item) => { const result = eligibility.get(item.id); return result !== undefined && result !== "does-not-match"; });
     return sortCycles(items);
   }, [beforePathway, activePathways, eligibleOnly, hasProfile, eligibility]);
 
@@ -375,21 +373,15 @@ export default function Workspace() {
     }
   }
 
-  function hideBanner() {
-    setBannerHidden(true);
-    try { window.sessionStorage.setItem("govview.banner", "hidden"); } catch { /* storage blocked */ }
-  }
-
   const regions = country ? subdivisionsByCountry[country] : undefined;
   const count = countCycles(filtered);
 
   return (
     <div className="app">
       <SiteHeader current="explore" onProfile={() => setProfileOpen(true)} hasProfile={hasProfile} />
-      {isDemo && !bannerHidden && (
+      {isDemo && (
         <div className="demo-banner" role="note">
           <p>{FIXTURE_NOTICE}</p>
-          <button type="button" className="icon-button" onClick={hideBanner} aria-label="Hide this notice"><X size={16} /></button>
         </div>
       )}
 

@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { filterSourceDirectory, readSourceFilters, sourceFilterSearch, type SourceFilters } from "@/lib/source-directory";
+import { isSafeHttpUrl } from "@/lib/safe-url";
 
 /** Public display fields only; collector configuration stays on the server. */
 export interface SourceDirectoryEntry {
@@ -59,7 +60,7 @@ export default function SourceDirectory({ entries, jurisdictionOptions = noJuris
     <p className="country-results" role="status">{visible.length} of {entries.length} registered sources{selectedJurisdiction ? ` · ${selectedJurisdiction.name}` : ""}. Source counts are not application-cycle counts.</p>
     {(filters.query || filters.jurisdiction) && <button type="button" className="source-clear" onClick={() => updateFilters({ query: "", jurisdiction: "", includeUnscoped: false })}>Clear source filters</button>}
     {visible.length ? <ul className="country-source-list">{visible.map((entry) => <li key={entry.id}>
-      <a href={entry.homepage} target="_blank" rel="noopener noreferrer">{entry.name} ↗</a>
+      {isSafeHttpUrl(entry.homepage) ? <a href={entry.homepage} target="_blank" rel="noopener noreferrer">{entry.name} ↗</a> : <span>{entry.name}</span>}
       <span>{entry.authority}</span>
       <small>Collection status: {entry.collectionStatus}</small>
       {entry.jurisdictions.length > 0 && <small>Jurisdiction: {entry.jurisdictions.map(({ code, name }) => `${name} (${code})`).join(", ")}</small>}
@@ -68,7 +69,7 @@ export default function SourceDirectory({ entries, jurisdictionOptions = noJuris
         <p>{entry.notes || "No applicant research recorded for this source. Appointment type, international-applicant permission and language criteria need the specific official notice."}</p>
       </div>
       {entry.accessGap && <div className="source-gap"><strong>Collection gap</strong><p>{entry.accessGap}</p></div>}
-      {entry.discoveredFrom && <small><a href={entry.discoveredFrom} target="_blank" rel="noopener noreferrer">Source identification evidence ↗</a>{entry.discoveredAt ? ` · researched ${entry.discoveredAt}` : ""}</small>}
+      {isSafeHttpUrl(entry.discoveredFrom) && <small><a href={entry.discoveredFrom} target="_blank" rel="noopener noreferrer">Source identification evidence ↗</a>{entry.discoveredAt ? ` · researched ${entry.discoveredAt}` : ""}</small>}
     </li>)}</ul> : <p>No registered source matches this text. This does not mean there are no opportunities or that you are ineligible.</p>}
   </>;
 }

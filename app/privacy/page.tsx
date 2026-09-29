@@ -6,7 +6,7 @@ export const metadata: Metadata = { title: "Privacy", description: "How GOV View
 
 export default function PrivacyPage() {
   return <div className="app">
-    <SiteHeader current="job" />
+    <SiteHeader current="other" />
     <div />
     <main className="page">
       <div className="page-inner country-coverage">
