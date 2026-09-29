@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { ImageRequirement } from "@/lib/opportunities";
+import { isSafeHttpUrl } from "@/lib/safe-url";
 import { canResize, outputFormats, resizeImage, type SafeImageType } from "@/lib/image-tools";
 
 type Props = { requirements: ImageRequirement[] };
@@ -47,7 +48,7 @@ export default function ImageResizer({ requirements }: Props) {
         </select>
       </label>
       <p className="fine-print">Official requirement: {requirement.width} × {requirement.height} px{requirement.maxBytes ? ` · up to ${Math.round(requirement.maxBytes / 1024)} KiB` : ""}. Cropping keeps original proportions.</p>
-      {requirement.sourceUrl && /^https:\/\//.test(requirement.sourceUrl) && <a href={requirement.sourceUrl} target="_blank" rel="noopener noreferrer">Check official image rules ↗</a>}
+      {isSafeHttpUrl(requirement.sourceUrl) && <a href={requirement.sourceUrl} target="_blank" rel="noopener noreferrer">Check official image rules ↗</a>}
       <label className="select-field">Select image
         <input type="file" accept="image/jpeg,image/png,image/webp" onChange={(event) => { setFile(event.target.files?.[0] ?? null); setOutputUrl(null); setMessage(""); }} />
       </label>

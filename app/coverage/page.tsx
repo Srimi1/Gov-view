@@ -5,6 +5,7 @@ import { withBase } from "@/lib/base-path";
 import { coverageLabel, researchLabel } from "@/lib/coverage-labels";
 import { dateLabel } from "@/lib/format";
 import { jurisdictions } from "@/lib/opportunities";
+import { isSafeHttpUrl } from "@/lib/safe-url";
 import { publishedOverview } from "@/lib/published.server";
 import { indiaSubdivisions, sortedCountries } from "@/lib/places";
 
@@ -63,7 +64,7 @@ export default function CoveragePage() {
                         const note = source.connector === "none" ? "Official source linked · adapter not built" : source.reviewRequired ? `Draft connector · founder review pending${info?.pendingReviewCount ? ` · ${info.pendingReviewCount} draft${info.pendingReviewCount === 1 ? "" : "s"}` : ""}${info?.lastSuccessfulFetchAt ? ` · checked ${dateLabel(info.lastSuccessfulFetchAt)}` : ""}${info?.lastError ? ` · last check failed: ${info.lastError}` : ""}` : !source.enabled ? "Not connected" : info?.needsSecret ? "Waiting for a free API key" : info?.lastError ? `Last check failed: ${info.lastError}` : info?.lastSuccessfulFetchAt ? `${info.recordCount} collected records · checked ${dateLabel(info.lastSuccessfulFetchAt)}` : "Not checked yet";
                         return (
                           <li key={source.id}>
-                            <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name}</a>
+                            {isSafeHttpUrl(source.homepage) ? <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name}</a> : <span>{source.name}</span>}
                             <small>{note}</small>
                           </li>
                         );
@@ -92,10 +93,10 @@ export default function CoveragePage() {
                   <h3><a href={withBase(`/coverage/IN/?state=${code}#official-sources`)}>{name}</a></h3>
                   <ul className="source-list">
                     {regionalSources.map((source) => <li key={source.id}>
-                      <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name} ↗</a>
+                      {isSafeHttpUrl(source.homepage) ? <a href={source.homepage} target="_blank" rel="noopener noreferrer">{source.name} ↗</a> : <span>{source.name}</span>}
                       <small>{source.connector === "none" ? "Official source linked · adapter not built" : source.reviewRequired ? `Draft connector · founder review pending${status[source.id]?.pendingReviewCount ? ` · ${status[source.id].pendingReviewCount} draft${status[source.id].pendingReviewCount === 1 ? "" : "s"}` : ""}${status[source.id]?.lastSuccessfulFetchAt ? ` · checked ${dateLabel(status[source.id].lastSuccessfulFetchAt)}` : ""}${status[source.id]?.lastError ? ` · last check failed: ${status[source.id].lastError}` : ""}` : source.enabled && status[source.id]?.lastError ? "Last check failed · previous records retained" : source.enabled && status[source.id]?.lastSuccessfulFetchAt ? `${status[source.id].recordCount} imported records · checked ${dateLabel(status[source.id].lastSuccessfulFetchAt)}` : "Official source linked · listings not imported"}</small>
                       {source.accessGap && <small>Collection gap: {source.accessGap}</small>}
-                      {source.discoveredFrom && <small><a href={source.discoveredFrom} target="_blank" rel="noopener noreferrer">Source identification evidence</a> · {dateLabel(source.discoveredAt)}</small>}
+                      {isSafeHttpUrl(source.discoveredFrom) && <small><a href={source.discoveredFrom} target="_blank" rel="noopener noreferrer">Source identification evidence</a> · {dateLabel(source.discoveredAt)}</small>}
                     </li>)}
                   </ul>
                   <a href={withBase(`/?country=IN&region=${code}`)}>Explore {name} opportunities →</a>

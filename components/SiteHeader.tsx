@@ -2,7 +2,7 @@ import { UserRound } from "lucide-react";
 import { withBase } from "@/lib/base-path";
 
 type Props = {
-  current: "explore" | "coverage" | "job";
+  current: "explore" | "coverage" | "job" | "privacy";
   onProfile?: () => void;
   hasProfile?: boolean;
 };
