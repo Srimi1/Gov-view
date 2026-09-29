@@ -4,6 +4,7 @@ import SiteHeader from "@/components/SiteHeader";
 import { withBase } from "@/lib/base-path";
 import { cutoffText, dateLabel, pathwayLabels, statusLabels, venueText } from "@/lib/format";
 import { liveStatus } from "@/lib/opportunities";
+import { isSafeHttpUrl } from "@/lib/safe-url";
 import { approvedStaticPage, approvedStaticPages, publicUrl } from "@/lib/static-pages.server";
 
 type Props = { params: Promise<{ id: string }> };
@@ -41,7 +42,7 @@ export default async function StaticJobPage({ params }: Props) {
   const item = approvedStaticPage(id);
   if (!item) notFound();
   const status = liveStatus(item);
-  const sources = item.sources.filter((source) => source.url && /^https?:\/\//.test(source.url));
+  const sources = item.sources.filter((source) => isSafeHttpUrl(source.url));
   const review = item.reviewDecision!;
   const asOf = new Date().toISOString();
   const dates = item.applicationWindow;
@@ -86,7 +87,7 @@ export default async function StaticJobPage({ params }: Props) {
             {item.syllabus?.status === "verified" && <section>
               <h2>Syllabus · {item.syllabus.edition}</h2>
               <p>Official syllabus language: {item.syllabus.language}</p>
-              <ul className="sources">{item.syllabus.officialDocuments.filter((citation) => /^https?:\/\//.test(citation.url)).map((citation) =>
+              <ul className="sources">{item.syllabus.officialDocuments.filter((citation) => isSafeHttpUrl(citation.url)).map((citation) =>
                 <li key={`${citation.sourceId}-${citation.url}`}><a href={citation.url} target="_blank" rel="noopener noreferrer">Official syllabus ↗</a></li>
               )}</ul>
               {item.syllabus.topics.length > 0 && <ul>{item.syllabus.topics.map((topic, index) => <li key={`${topic.stage}-${topic.subject}-${index}`}>
@@ -140,7 +141,7 @@ export default async function StaticJobPage({ params }: Props) {
             <p className="fine-print"><a href={withBase("/job/?id=" + encodeURIComponent(item.id))}>Check eligibility with your browser-local profile</a>. <a href={withBase("/privacy/")}>Privacy details</a>.</p>
           </div>
           <footer className="article-foot">
-            {item.applicationUrl && (status === "open" || status === "extended")
+            {isSafeHttpUrl(item.applicationUrl) && (status === "open" || status === "extended")
               ? <a className="button-primary wide" href={item.applicationUrl} target="_blank" rel="noopener noreferrer">Apply on official site ↗</a>
               : <p>Application link unavailable or application window closed. Check official source.</p>}
           </footer>
